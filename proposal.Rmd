@@ -1,8 +1,55 @@
 # Proposal
 
 ## Research topic
-The game of chess has existed in its modern form for about 500 years. Modern chess theory is built off the back of the giants of the past 500 years, and more recently the chess engine revolution. Current top chess players rely on their memorization of engine moves to prove slight advantages in the highly optimized game. In this project we will be exploring popularity of different chess openings at the top level throughout history.
+The game of chess has existed in its modern form for about 500 years. The modern chess theory is built off the back of the giants of the past 500 years, and more recently the chess engine revolution. Current top chess players rely on their memorization of engine moves to prove slight advantages in the highly optimized game. In this project, we will be exploring the popularity of different chess openings at the top level throughout history.
 
-Chess can be broken down into three main stages: the opening, the middle game, and the end game. 
+Chess can be broken down into three main stages: the opening, the middle game, and the end game. While there are no clear boundaries between the three categories, the opening is the first stage where players position their pieces in an attempt to create a position where they have an advantage over their opponents. Because there are so many possible chess games, setting up pieces to best fight out the rest of the game is important. The middle game involves battling the opponent in a series of offensive and defensive moves. The end game is where players with better positions will usually win.
+
+Chess grandmasters are the best of the best. They have mastered all three stages of the game. In this project, we will be analyzing the ratings of these grandmasters, how the rating of opponents affects their win percentage, and what openings they have played throughout time.
+
+
 ## Data availability
+[Link to chess.com](chess.com)
 
+We will be pulling the majority of our data from chess.com's database. These are over-the-board chess games and not games that were played online. When chess games are played, the players are required to write down the notation and keep track of the moves that have been played. Chess.com stores this data.
+
+The format of the data goes as follows:
+
+[Event {Event Name}]
+[White {White Player Name}]
+[Black {Black Player Name}]
+[WhiteFideId {White FIDE ID}]
+[BlackFideId {Black FIDE ID}]
+[WhiteElo {White Elo Rating}]
+[BlackElo {Black Elo Rating}]
+[Result {Game Result}]
+[Round {Round of Tournament}]
+[TimeControl {Time Control}]
+[WhiteClock {White Clock Finish Time}]
+[BlackClock {Black Clock Finish Time}]
+
+{Game Notation}
+
+There are other bits of information that occasionally occur, but are not critical for the project.
+
+The database is updated when new games are played. Old games do not need to be updated unless they have yet to be put into the database. In this case, they would then be put into the database.
+
+There is a very nice download button on a player's page. Each player has multiple pages of games. Only one page of games can be downloaded at a time, so a scraping tool will be used.
+
+[Magnus Carlsen games](https://www.chess.com/games/search?opening=&openingId=&p1=Magnus+Carlsen&p2=&mr=&lsty=1&year=&lstMoves=1&moves=&fen=&sort=)
+
+Here is an example of a page for games where the current world champion played the white pieces.
+
+We will be looking at results of all past classical world chess champions.
+
+[Classical Champions](https://www.chess.com/article/view/world-chess-champions)
+
+We will also be looking at the 16 current best chess players.
+
+[Current Top Players](https://www.chess.com/players)
+
+Note that Magnus Carlsen is represented in both the top 16 players and in the past world chess champions.
+
+These games do not appear to be behind a paywall; however, we have access to a paid account if needs be. It should be free for anyone to download.
+
+We will need to parse over the file and then create JSON file to represent a table of the data. If the database is too large, a JSON file might be needed for each player.
