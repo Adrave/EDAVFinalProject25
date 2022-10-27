@@ -1,6 +1,8 @@
 # Proposal
 
 ## Research topic
+The game of chess has existed in its modern form for about 500 years. Modern chess theory is built off the back of the giants of the past 500 years, and more recently the chess engine revolution. Current top chess players rely on their memorization of engine moves to prove slight advantages in the highly optimized game. In this project we will be exploring popularity of different chess openings at the top level throughout history.
 
+Chess can be broken down into three main stages: the opening, the middle game, and the end game. 
 ## Data availability
 
