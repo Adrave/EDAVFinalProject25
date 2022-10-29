@@ -23,7 +23,7 @@
 <meta name="author" content="Andre Evard, Braden Huffman" />
 
 
-<meta name="date" content="2022-10-27" />
+<meta name="date" content="2022-10-29" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -110,9 +110,85 @@
 <h1><span class="header-section-number">Chapter 2</span> Proposal<a href="proposal.html#proposal" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <div id="research-topic" class="section level2 hasAnchor" number="2.1">
 <h2><span class="header-section-number">2.1</span> Research topic<a href="proposal.html#research-topic" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>In its modern form, the game of chess has existed for about 500 years. Modern
+chess theory is built off the back of the giants over these past 500 years, and
+more recently, a revolution through online chess engines. In the present day,
+top chess players are able to study and memorize moves across the engine in
+order to gain the slightest of edges in such a highly optimized game. In this
+project, we will be exploring the popularity of different chess openings at the
+top level throughout history, as well as their innovators, the chess world
+champions and grand masters.</p>
+<p>A game of chess can be broken down into three primary stages: the opening, the
+middle game, and the end game. There aren’t clear boundaries between the
+categories as the game transitions, but the opening is notably distinct: it is
+the first stage where the players maneuver their pieces in an attempt to create
+a positional advantage over their opponents, and the precise location of every
+piece at the start of the opening phase is constant. Because there are so many
+possible chess games, this initial phase of play is essential in determining
+the remainder of the game. Roughly, the middle game involves battling the
+opponent in a series of offensive and defensive moves, whereas the end game is
+when players with better positions will typically win.</p>
+<p>Moving from the game itself to its players, the chess grandmasters are the best
+of the best. They have taken all three stages of the game and mastered them all.
+Not only that, but chess was the staging ground for the ELO system, which has
+had major ramifications over competitive sports the world over–in doing so,
+chess organizations have had dutiful record keeping before the internet and
+digital databases were ever conceptualized, so there is a thorough archive that
+we can pull from in studying these players. Among the grandmasters there are the
+world champions, the best of the best, and these pioneers’ track records are
+especially vivid. Thus, to gain a better understanding of chess over time, we
+will we will be analyzing the performance of select grandmasters and world
+champions, and how their openings have evolved over the course of history.</p>
 </div>
 <div id="data-availability" class="section level2 hasAnchor" number="2.2">
 <h2><span class="header-section-number">2.2</span> Data availability<a href="proposal.html#data-availability" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The majority of our data will be pulled from <a href="chess.com">chess.com’s database</a>.
+These are over-the-board chess games and not games that were played online.
+When chess games are played, the players are required to write down the notation
+and keep track of the moves that have been played. Chess.com stores this data,
+and provides an openly-downloadable data record as follows:</p>
+<p>[Event {Event Name}] <br>
+[White {White Player Name}] <br>
+[Black {Black Player Name}] <br>
+[WhiteFideId {White FIDE ID}] <br>
+[BlackFideId {Black FIDE ID}] <br>
+[WhiteElo {White Elo Rating}] <br>
+[BlackElo {Black Elo Rating}] <br>
+[Result {Game Result}] <br>
+[Round {Round of Tournament}] <br>
+[TimeControl {Time Control}] <br>
+[WhiteClock {White Clock Finish Time}] <br>
+[BlackClock {Black Clock Finish Time}] <br></p>
+<p>These appear to be exported as plaintexts. Some rows are not always present, and
+there is additional information that is sometimes present, but we will primarily
+be focusing on these features within the scope of the project.</p>
+<p>Regarding when the database is updated: new records are inserted when new games
+are played. We aren’t entirely certain how frequently they are inserted, but
+there is some sort of time-series data here–frustratingly, the time feature
+often corresponds to when an individual game’s data was archived, not when it
+was originally played. Naturally, old games do not need to be updated unless
+they have yet to be put into the database.</p>
+<p>There is a very nice download button on each player’s page, allowing us to
+freely download records of multiple games at once. That said, Each player has
+multiple-to-many pages of worth games. Only one page of games can be downloaded
+at a time, so a scraping tool will be used. Furthermore, in detailing each
+player, there are a few more fields on the player’s page themselves we will
+be scraping.</p>
+<p><a href="https://www.chess.com/games/search?opening=&amp;openingId=&amp;p1=Magnus+Carlsen&amp;p2=&amp;mr=&amp;lsty=1&amp;year=&amp;lstMoves=1&amp;moves=&amp;fen=&amp;sort=">Here</a> is an example of a page for games where the current world champion,
+Magnus Carlsen, played the white pieces.
+<a href="https://www.chess.com/games/magnus-carlsen">This</a> is the database of his games,
+and <a href="https://www.chess.com/players/magnus-carlsen">this</a> is a link to his player
+profile</p>
+<p>We will be looking at results of <a href="https://www.chess.com/article/view/world-chess-champions">all past classical world chess champions</a>.</p>
+<p>We will also be looking at the <a href="https://www.chess.com/players">16 current best chess players</a>.</p>
+<p>Note that Magnus Carlsen is represented in both the top 16 players, as well as
+in the world chess champions list. We hope to use him as a metric to compare
+top grandmasters to world champions, through a modern lens.</p>
+<p>These games do not appear to be behind a paywall; it should be free for anyone
+to download. If that changes however, we also have access to a paid account.</p>
+<p>We will need to parse over the file and then create JSON file to represent a
+table of the data. If the database is too large, a JSON file might be needed for
+each player. Further data format exploration will take place later.</p>
 
 </div>
 </div>

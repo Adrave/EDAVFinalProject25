@@ -1,55 +1,95 @@
 # Proposal
 
 ## Research topic
-The game of chess has existed in its modern form for about 500 years. The modern chess theory is built off the back of the giants of the past 500 years, and more recently the chess engine revolution. Current top chess players rely on their memorization of engine moves to prove slight advantages in the highly optimized game. In this project, we will be exploring the popularity of different chess openings at the top level throughout history.
+In its modern form, the game of chess has existed for about 500 years. Modern
+chess theory is built off the back of the giants over these past 500 years, and
+more recently, a revolution through online chess engines. In the present day,
+top chess players are able to study and memorize moves across the engine in 
+order to gain the slightest of edges in such a highly optimized game. In this
+project, we will be exploring the popularity of different chess openings at the
+top level throughout history, as well as their innovators, the chess world
+champions and grand masters.
 
-Chess can be broken down into three main stages: the opening, the middle game, and the end game. While there are no clear boundaries between the three categories, the opening is the first stage where players position their pieces in an attempt to create a position where they have an advantage over their opponents. Because there are so many possible chess games, setting up pieces to best fight out the rest of the game is important. The middle game involves battling the opponent in a series of offensive and defensive moves. The end game is where players with better positions will usually win.
+A game of chess can be broken down into three primary stages:  the opening, the
+middle game, and the end game. There aren't clear boundaries between the 
+categories as the game transitions, but the opening is notably distinct: it is
+the first stage where the players maneuver their pieces in an attempt to create
+a positional advantage over their opponents, and the precise location of every
+piece at the start of the opening phase is constant. Because there are so many
+possible chess games, this initial phase of play is essential in determining
+the remainder of the game. Roughly, the middle game involves battling the
+opponent in a series of offensive and defensive moves, whereas the end game is 
+when players with better positions will typically win.
 
-Chess grandmasters are the best of the best. They have mastered all three stages of the game. In this project, we will be analyzing the ratings of these grandmasters, how the rating of opponents affects their win percentage, and what openings they have played throughout time.
+Moving from the game itself to its players, the chess grandmasters are the best
+of the best. They have taken all three stages of the game and mastered them all.
+Not only that, but chess was the staging ground for the ELO system, which has
+had major ramifications over competitive sports the world over--in doing so,
+chess organizations have had dutiful record keeping before the internet and
+digital databases were ever conceptualized, so there is a thorough archive that
+we can pull from in studying these players. Among the grandmasters there are the
+world champions, the best of the best, and these pioneers' track records are 
+especially vivid. Thus, to gain a better understanding of chess over time, we
+will we will be analyzing the performance of select grandmasters and world
+champions, and how their openings have evolved over the course of history.
 
 
 ## Data availability
-[Link to chess.com](chess.com)
 
-We will be pulling the majority of our data from chess.com's database. These are over-the-board chess games and not games that were played online. When chess games are played, the players are required to write down the notation and keep track of the moves that have been played. Chess.com stores this data.
+The majority of our data will be pulled from [chess.com's database](chess.com).
+These are over-the-board chess games and not games that were played online. 
+When chess games are played, the players are required to write down the notation
+and keep track of the moves that have been played. Chess.com stores this data,
+and provides an openly-downloadable data record as follows:
 
-The format of the data goes as follows:
+[Event {Event Name}] <br>
+[White {White Player Name}] <br>
+[Black {Black Player Name}] <br>
+[WhiteFideId {White FIDE ID}] <br>
+[BlackFideId {Black FIDE ID}] <br>
+[WhiteElo {White Elo Rating}] <br>
+[BlackElo {Black Elo Rating}] <br>
+[Result {Game Result}] <br>
+[Round {Round of Tournament}] <br>
+[TimeControl {Time Control}] <br>
+[WhiteClock {White Clock Finish Time}] <br>
+[BlackClock {Black Clock Finish Time}] <br>
 
-[Event {Event Name}]
-[White {White Player Name}]
-[Black {Black Player Name}]
-[WhiteFideId {White FIDE ID}]
-[BlackFideId {Black FIDE ID}]
-[WhiteElo {White Elo Rating}]
-[BlackElo {Black Elo Rating}]
-[Result {Game Result}]
-[Round {Round of Tournament}]
-[TimeControl {Time Control}]
-[WhiteClock {White Clock Finish Time}]
-[BlackClock {Black Clock Finish Time}]
+These appear to be exported as plaintexts. Some rows are not always present, and
+there is additional information that is sometimes present, but we will primarily
+be focusing on these features within the scope of the project.
 
-{Game Notation}
+Regarding when the database is updated: new records are inserted when new games
+are played. We aren't entirely certain how frequently they are inserted, but
+there is some sort of time-series data here--frustratingly, the time feature
+often corresponds to when an individual game's data was archived, not when it 
+was originally played. Naturally, old games do not need to be updated unless 
+they have yet to be put into the database.
 
-There are other bits of information that occasionally occur, but are not critical for the project.
+There is a very nice download button on each player's page, allowing us to 
+freely download records of multiple games at once. That said, Each player has 
+multiple-to-many pages of worth games. Only one page of games can be downloaded
+at a time, so a scraping tool will be used. Furthermore, in detailing each
+player, there are a few more fields on the player's page themselves we will
+be scraping.
 
-The database is updated when new games are played. Old games do not need to be updated unless they have yet to be put into the database. In this case, they would then be put into the database.
+[Here](https://www.chess.com/games/search?opening=&openingId=&p1=Magnus+Carlsen&p2=&mr=&lsty=1&year=&lstMoves=1&moves=&fen=&sort=) is an example of a page for games where the current world champion, 
+Magnus Carlsen, played the white pieces. 
+[This](https://www.chess.com/games/magnus-carlsen) is the database of his games,
+and [this](https://www.chess.com/players/magnus-carlsen) is a link to his player
+profile
 
-There is a very nice download button on a player's page. Each player has multiple pages of games. Only one page of games can be downloaded at a time, so a scraping tool will be used.
+We will be looking at results of [all past classical world chess champions](https://www.chess.com/article/view/world-chess-champions).
 
-[Magnus Carlsen games](https://www.chess.com/games/search?opening=&openingId=&p1=Magnus+Carlsen&p2=&mr=&lsty=1&year=&lstMoves=1&moves=&fen=&sort=)
+We will also be looking at the [16 current best chess players](https://www.chess.com/players).
 
-Here is an example of a page for games where the current world champion played the white pieces.
+Note that Magnus Carlsen is represented in both the top 16 players, as well as
+in the world chess champions list. We hope to use him as a metric to compare
+top grandmasters to world champions, through a modern lens.
 
-We will be looking at results of all past classical world chess champions.
+These games do not appear to be behind a paywall; it should be free for anyone 
+to download. If that changes however, we also have access to a paid account.
 
-[Classical Champions](https://www.chess.com/article/view/world-chess-champions)
-
-We will also be looking at the 16 current best chess players.
-
-[Current Top Players](https://www.chess.com/players)
-
-Note that Magnus Carlsen is represented in both the top 16 players and in the past world chess champions.
-
-These games do not appear to be behind a paywall; however, we have access to a paid account if needs be. It should be free for anyone to download.
-
-We will need to parse over the file and then create JSON file to represent a table of the data. If the database is too large, a JSON file might be needed for each player.
+We will need to parse over the file and then create JSON file to represent a
+table of the data. If the database is too large, a JSON file might be needed for
+each player. Further data format exploration will take place later.
