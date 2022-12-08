@@ -1,0 +1,527 @@
+[Event "Moscow-Leningrad"]
+[Site "Moscow URS"]
+[Date "1958.12.??"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Vasily Smyslov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C73"]
+[EventDate "????.??.??"]
+[PlyCount "142"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. c4 Ne7
+8. Nc3 Ng6 9. Be3 Be7 10. Qa4 Bd7 11. c5 Qb8 12. O-O-O Qb7 13. Rd2 Rb8
+14. dxe5 dxe5 15. g3 Nf8 16. Nh4 g6 17. Qc2 Be6 18. f4 Nd7 19. Nd5 cxd5
+20. c6 Qb5 21. cxd7+ Bxd7 22. fxe5 Qc4 23. Qxc4 dxc4 24. exf6 Bxf6 25. Bd4 Bxh4
+26. Bxh8 Bg5 27. Be5 Bxd2+ 28. Kxd2 Rb5 29. Bd4 Rg5 30. Ke3 Be6 31. Bc3 Rh5
+32. Kf4 Ke7 33. Bb4+ Kf7 34. Rf1 Ke8 35. Rf2 Kd7 36. Ke3 g5 37. Kd4 g4
+38. a4 Kc6 39. Rd2 Bf7 40. Ke3 Be6 41. Kf4 Kb7 42. Bc3 Kc6 43. a5 Kb7
+44. Be5 Kc8 45. Rc2 Kd8 46. Rd2+ Kc8 47. Bc3 Kb7 48. Ke3 Kc6 49. Rf2 Kd6
+50. Rf8 Kc6 51. Ra8 Kb7 52. Re8 Bd7 53. Re7 Kc6 54. e5 Bc8 55. Re8 Bd7
+56. Ra8 Kb7 57. Rf8 Rxh2 58. Rf6 Rg2 59. e6 Bb5 60. Kf4 Kc6 61. Kxg4 Kd6
+62. Rh6 Re2 63. Kf5 Bc6 64. e7+ Kd7 65. Bf6 Be4+ 66. Kg5 Rf2 67. g4 c5
+68. Rh3 Ke8 69. Bc3 Bd3 70. Re3 Re2 71. Rf3 Kxe7
+1/2-1/2
+
+
+[Event "URS-ch sf"]
+[Site "Leningrad URS"]
+[Date "1954.??.??"]
+[Round "17"]
+[White "Boris Spassky"]
+[Black "Ratmir Kholmov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C77"]
+[EventDate "????.??.??"]
+[PlyCount "146"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. a4 Rb8
+8. axb5 axb5 9. d4 d5 10. c3 Nxe4 11. Nxe5 Nxe5 12. dxe5 O-O 13. O-O Bf5
+14. Be3 Qd7 15. Nd2 Nc5 16. Bxc5 Bxc5 17. Nf3 b4 18. Ba4 Qe6 19. Nd4 Bxd4
+20. cxd4 b3 21. Bb5 c6 22. Bd3 Rb4 23. Bxf5 Qxf5 24. Qd2 Rc4 25. Rfc1 h6
+26. f3 c5 27. Rxc4 dxc4 28. Rc1 cxd4 29. Rxc4 Qxe5 30. Rxd4 Kh7 31. Rd5 Qe6
+32. Rd6 Qe7 33. h3 Rc8 34. Rd7 Qe8 35. Kh2 Rc2 36. Qd3+ g6 37. Qd4 Re2
+38. Rb7 Qe6 39. Rb8 Qe5+ 40. Qxe5 Rxe5 41. Rxb3 h5 42. h4 Re2 43. Kg3 f6
+44. f4 g5 45. fxg5 fxg5 46. Rb7+ Kg6 47. Rb6+ Kg7 48. hxg5 Re4 49. Kf3 Rg4
+50. g6 Kh6 51. b3 Rd4 52. Ke3 Rg4 53. Kf3 Rd4 54. Re6 Rb4 55. Re3 Kxg6
+56. Ke2 Kf5 57. Kd2 Rb8 58. Kc3 Rc8+ 59. Kb2 Rb8 60. Re2 Kf4 61. Kc3 Rc8+
+62. Kd4 Rd8+ 63. Kc5 Rc8+ 64. Kd6 Rb8 65. Rb2 Kg3 66. b4 h4 67. Kc7 Rf8
+68. b5 Rf2 69. Rb4 Rxg2 70. b6 Rf2 71. b7 Rf7+ 72. Kd6 Rxb7 73. Rxb7 h3
+1/2-1/2
+
+
+[Event "0 (04"]
+[Site "LeidenBotvinnik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Mikhail Botvinnik"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B18"]
+[EventDate "????.??.??"]
+[PlyCount "38"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6
+8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Rh4 e6 12. Bf4 Bd6 13. Bxd6 Qxd6
+14. Ne4 Qe7 15. O-O-O Ngf6 16. Ned2 O-O-O 17. Nc4 Kb8 18. g3 Nb6 19. Qe2 Nbd5
+1/2-1/2
+
+
+[Event "Gothenburg"]
+[Site "Gothenburg SWE"]
+[Date "1971.07.??"]
+[Round "10"]
+[White "Boris Spassky"]
+[Black "Laszlo Szabo"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A58"]
+[EventDate "????.??.??"]
+[PlyCount "126"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6
+8. g3 Bg7 9. Bg2 Nbd7 10. O-O O-O 11. Re1 Qc7 12. Bd2 Nb6 13. Bf4 Rfb8
+14. b3 Ng4 15. Bd2 Nc8 16. h3 Ne5 17. Nxe5 Bxe5 18. Rb1 Na7 19. Qc2 c4
+20. Rec1 Rc8 21. Qd1 cxb3 22. axb3 Qb7 23. Na2 Nb5 24. Nb4 Nc3 25. Bxc3 Rxc3
+26. Nc6 Rxc1 27. Rxc1 Bb2 28. Rc2 Bf6 29. Ra2 Bb5 30. Qd2 Ra6 31. Be4 Rxa2
+32. Qxa2 e6 33. Na5 Qa7 34. dxe6 Bc3 35. exf7+ Kf8 36. Qa3 Qxa5 37. Qxd6+ Kxf7
+38. Bd5+ Ke8 39. Qe6+ Kd8 40. Qg8+ Be8 41. Bc6 Qe5 42. e3 Qh8 43. Qd5+ Kc7
+44. Ba4 Bxa4 45. bxa4 Qf6 46. h4 Be1 47. Qc4+ Qc6 48. Qf7+ Qd7 49. Qxd7+ Kxd7
+50. Kg2 Kd6 51. f4 Kd5 52. Kf3 h5 53. e4+ Kd4 54. e5 Kd5 55. g4 Bxh4
+56. gxh5 gxh5 57. a5 Bd8 58. a6 Kc6 59. f5 Kb6 60. f6 Kxa6 61. Kf4 Kb6
+62. Kf5 h4 63. Ke6 Bxf6
+1/2-1/2
+
+
+[Event "Petrosian - Spassky World Championship Match"]
+[Site "Moscow URS"]
+[Date "1969.05.16"]
+[Round "13"]
+[White "Boris Spassky"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C42"]
+[EventDate "????.??.??"]
+[PlyCount "49"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+8. Bxe2 Be7 9. Nc3 c6 10. O-O-O Na6 11. Ne4 Nxe4 12. dxe4 Nc5 13. Rhe1 Bxg5+
+14. Nxg5 Ke7 15. Nf3 Rd8 16. Nd4 g6 17. Bf1 Kf8 18. b4 Ne6 19. Nb3 b6
+20. Re3 Bb7 21. a3 Rd7 22. g3 Re8 23. h4 Red8 24. Bc4 Nc7 25. Rde1
+1/2-1/2
+
+
+[Event "Bundesliga 1988/89"]
+[Site "FRG"]
+[Date "1988.??.??"]
+[Round "1"]
+[White "Boris Spassky"]
+[Black "Vlastimil Hort"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B25"]
+[EventDate "????.??.??"]
+[PlyCount "27"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. d3 d6 6. Be3 Bg7 7. Qd2 Rb8
+8. Rb1 e5 9. Nge2 Nf6 10. h3 Be6 11. Bh6 O-O 12. Bxg7 Kxg7 13. f4 exf4 14. Nxf4
+1/2-1/2
+
+
+[Event "6th ECC quarterfinal"]
+[Site "Solingen FRG"]
+[Date "1988.02.24"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Milan Drasko"]
+[Result "1/2-1/2"]
+[BlackElo "2465"]
+[ECO "D27"]
+[EventDate "????.??.??"]
+[PlyCount "27"]
+[WhiteElo "2565"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Qxd1
+8. Rxd1 Bxc5 9. a3 Ke7 10. b4 Bd6 11. Bb2 b5 12. Be2 Nbd7 13. Nbd2 Bb7 14. Rac1
+1/2-1/2
+
+
+[Event "Match"]
+[Site "Venice ITA"]
+[Date "1989.??.??"]
+[Round "2"]
+[White "Boris Spassky"]
+[Black "Robert Huebner"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D27"]
+[EventDate "????.??.??"]
+[PlyCount "72"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Bxc5
+8. Qxd8+ Kxd8 9. b3 b5 10. Be2 Bb7 11. Bb2 Ke7 12. a4 b4 13. a5 Nbd7
+14. Nbd2 Rhd8 15. Rfc1 g6 16. Rc4 Bd5 17. Rh4 h5 18. Ng5 Ke8 19. Rf4 e5
+20. Rc4 Be7 21. e4 Bxc4 22. Bxc4 Nc5 23. Ndf3 Nfxe4 24. Nxf7 Nd2 25. Nxd8 Nxc4
+26. bxc4 Rxd8 27. Bxe5 Nb3 28. Re1 Kd7 29. Kf1 Nxa5 30. Ra1 Nxc4 31. Rxa6 g5
+32. Bg7 Ke8 33. Rc6 Nd2+ 34. Ke2 Nxf3 35. Kxf3 Kf7 36. Be5 Rd2
+1/2-1/2
+
+
+[Event "Barcelona World Cup"]
+[Site "Barcelona ESP"]
+[Date "1989.03.31"]
+[Round "2"]
+[White "Boris Spassky"]
+[Black "Yasser Seirawan"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B16"]
+[EventDate "????.??.??"]
+[PlyCount "35"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Qd5 7. Ne2 e5
+8. Be3 Be6 9. Qc2 Nd7 10. a3 O-O-O 11. O-O-O Nb6 12. dxe5 Qxd1+ 13. Qxd1 Rxd1+
+14. Kxd1 fxe5 15. Ng3 f5 16. Bd3 e4 17. Be2 c5 18. b4
+1/2-1/2
+
+
+[Event "Clermont-Ferrand"]
+[Site "Clermont-Ferrand FRA"]
+[Date "1989.07.??"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Zoltan Ribli"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B52"]
+[EventDate "????.??.??"]
+[PlyCount "35"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. Re1 e6
+8. d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2 Nxd2 12. Bxd2 Be7 13. Rc1 O-O
+14. Qb3 Rfc8 15. Rc2 Rc7 16. Rec1 Rac8 17. Qd3 Nd8 18. h4
+1/2-1/2
+
+
+[Event "Bugojno"]
+[Site "Bugojno BIH"]
+[Date "1986.05.??"]
+[Round "3"]
+[White "Boris Spassky"]
+[Black "Lajos Portisch"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C49"]
+[EventDate "????.??.??"]
+[PlyCount "43"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3
+8. bxc3 Bd7 9. Rb1 h6 10. Bh4 a6 11. Bxc6 Bxc6 12. Re1 Re8 13. Nd2 b5 14. Nf1 d5
+15. f3 Re6 16. Ne3 Qd7 17. Nf5 Rc8 18. Bf2 Ba8 19. Qc1 Kh7 20. Re2 Qc6
+21. Rb3 Nd7 22. h3
+1/2-1/2
+
+
+[Event "Bugojno"]
+[Site "Bugojno BIH"]
+[Date "1986.06.??"]
+[Round "11"]
+[White "Boris Spassky"]
+[Black "Anthony Miles"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A46"]
+[EventDate "????.??.??"]
+[PlyCount "19"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Ne4 6. Bf4 d5 7. c3 Bd7
+8. Nbd2 Nxd2 9. Qxd2 Bb5 10. Bxb5+
+1/2-1/2
+
+
+[Event "Bugonjo"]
+[Site "Bugojno BIH"]
+[Date "1986.05.??"]
+[Round "5"]
+[White "Boris Spassky"]
+[Black "Andrei Sokolov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A46"]
+[EventDate "????.??.??"]
+[PlyCount "80"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 d5 5. Nbd2 Be7 6. e3 Nbd7 7. Bd3 b6
+8. O-O Bb7 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bxe7 Qxe7 12. f4 f6 13. exf6 gxf6
+14. e4 O-O-O 15. Qe2 d4 16. a4 e5 17. f5 Nb8 18. a5 Nc6 19. axb6 axb6
+20. Ba6 Nb8 21. Bxb7+ Qxb7 22. Ra3 Rd7 23. b4 cxb4 24. cxb4 Qc6 25. Rfa1 Rhd8
+26. Qd3 Rc7 27. Qb3 d3 28. Kf2 b5 29. Kf3 Qb6 30. Ra8 Rc2 31. R1a7 Qc6
+32. Ra6 Qxa6 33. Rxa6 Nxa6 34. Qe6+ Kc7 35. Qxa6 Rxd2 36. Qa7+ Kc8 37. Qc5+ Kd7
+38. Qd5+ Kc7 39. Qc5+ Kd7 40. Qd5+ Kc7
+1/2-1/2
+
+
+[Event "87th US Open"]
+[Site "Somerset, NJ USA"]
+[Date "1986.08.12"]
+[Round "9"]
+[White "Boris Spassky"]
+[Black "Joel Benjamin"]
+[Result "1/2-1/2"]
+[BlackElo "2619"]
+[ECO "A46"]
+[EventDate "????.??.??"]
+[PlyCount "39"]
+[WhiteElo "2681"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Nc6 6. c3 d5 7. Nbd2 Bd7
+8. Bd3 Rc8 9. O-O cxd4 10. exd4 Nb4 11. Be2 Nc6 12. Qb1 Bd6 13. Re1 Qc7
+14. Bxf6 gxf6 15. g3 O-O 16. Bd3 Kh8 17. Nh4 f5 18. Qd1 Qd8 19. Qh5 Qf6 20. Ndf3
+1/2-1/2
+
+
+[Event "Bugojno 3rd"]
+[Site "Bugojno"]
+[Date "1982.05.??"]
+[Round "7"]
+[White "Boris Spassky"]
+[Black "Garry Kasparov"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B23"]
+[EventDate "????.??.??"]
+[PlyCount "63"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. Bg2 Nf6 6. Nge2 d4 7. Ne4 Nxe4
+8. Bxe4 Nd7 9. O-O Nf6 10. Bg2 Bd6 11. c3 d3 12. Nf4 O-O 13. Nxd3 Bxg3
+14. fxg3 Qxd3 15. Qf3 Qxf3 16. Bxf3 Bh3 17. Bxb7 Rae8 18. Bg2 Bxg2 19. Kxg2 Re2+
+20. Rf2 Rfe8 21. b3 Rxf2+ 22. Kxf2 Ng4+ 23. Kg2 f5 24. h3 Ne5 25. d4 cxd4
+26. cxd4 Nd3 27. Bg5 h6 28. Rd1 hxg5 29. Rxd3 Re2+ 30. Kf3 Rxa2 31. d5 Kf7
+32. d6
+1/2-1/2
+
+
+[Event "Simultanea Varallo Sesia"]
+[Site "?"]
+[Date "1982.06.24"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Aldo Bonatti"]
+[Result "1/2-1/2"]
+[BlackElo "1500"]
+[ECO "C39"]
+[EventDate "????.??.??"]
+[PlyCount "62"]
+[WhiteElo "2600"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 Qe7 7. Bxf4 d6
+8. Nd3 Nxe4 9. Qe2 Nc6 10. c3 Bf5 11. Nd2 d5 12. g3 O-O-O 13. Nxe4 Qxe4
+14. Qxe4 Bxe4 15. Rh2 Bf3 16. Kd2 Bg7 17. Re1 h5 18. Bg2 Bxg2 19. Rxg2 Rde8
+20. Rge2 Rxe2+ 21. Rxe2 b6 22. Bg5 f6 23. Be3 Re8 24. Nf4 Ne7 25. Nxh5 Nf5
+26. Bf4 Rxe2+ 27. Kxe2 Kd7 28. b4 c6 29. a4 Ke6 30. b5 Kd7 31. Kd3 Bh8
+1/2-1/2
+
+
+[Event "Gjovik"]
+[Site "Gjovik NOR"]
+[Date "1983.08.??"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Andras Adorjan"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B25"]
+[EventDate "????.??.??"]
+[PlyCount "40"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O O-O
+9. Be3 Nd4 10. Bf2 Nec6 11. Nxd4 Nxd4 12. Rb1 Bd7 13. Ne2 Qa5 14. Nc1 Ba4
+15. b3 Bc6 16. Be1 Qa3 17. c3 Nb5 18. Ne2 f5 19. Qc2 Rae8 20. Rd1 Rf7
+1/2-1/2
+
+
+[Event "Bundesliga 1983/84"]
+[Site "FRG"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Karl-Heinz Podzielny"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B84"]
+[EventDate "????.??.??"]
+[PlyCount "107"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Qc7
+8. a4 b6 9. f4 Bb7 10. Bf3 Nbd7 11. Qe1 Be7 12. Kh1 h5 13. Be3 g6 14. Rd1 Rc8
+15. f5 e5 16. fxg6 exd4 17. gxf7+ Kf8 18. Bxd4 Ne5 19. Nd5 Bxd5 20. exd5 Rh7
+21. Bxe5 dxe5 22. Be4 Nxe4 23. Qxe4 Rg7 24. c3 Rd8 25. Rd3 Qd6 26. Rg3 Bf6
+27. Rgf3 Bg5 28. c4 Rd7 29. b4 Rdxf7 30. c5 bxc5 31. bxc5 Qxc5 32. Qxe5 Qe3
+33. Qd6+ Qe7 34. Qxa6 Rxf3 35. Qc8+ Kf7 36. Rxf3+ Kg6 37. Qf5+ Kh6 38. g3 Rg6
+39. Kg2 Rb6 40. h4 Bf6 41. a5 Rd6 42. Kh3 Qe1 43. Rf1 Qe5 44. Qxe5 Bxe5
+45. Rd1 Ra6 46. Re1 Bf6 47. Re6 Rxe6 48. dxe6 Kg6 49. a6 Bd4 50. g4 hxg4+
+51. Kxg4 Kf6 52. h5 Kxe6 53. h6 Kf7 54. Kg5
+1/2-1/2
+
+
+[Event "Reggio Emilia 1983/84"]
+[Site "Reggio Emilia ITA"]
+[Date "1984.01.04"]
+[Round "11"]
+[White "Boris Spassky"]
+[Black "John Nunn"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B08"]
+[EventDate "????.??.??"]
+[PlyCount "35"]
+[WhiteElo "?"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6
+8. Qd2 e5 9. dxe5 dxe5 10. Rad1 Qc8 11. h3 Rd8 12. Qc1 Bxf3 13. Bxf3 Nd4
+14. Bxd4 exd4 15. Nd5 Nxd5 16. exd5 Qf5 17. Rfe1 Re8 18. Qd2
+1/2-1/2
+
+
+[Event "Bundesliga 1983/84"]
+[Site "FRG"]
+[Date "1984.??.??"]
+[Round "2"]
+[White "Boris Spassky"]
+[Black "Guenther Schruefer"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A07"]
+[EventDate "????.??.??"]
+[PlyCount "62"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nc3 g6 3. g3 d6 4. Bg2 Bg7 5. d3 Nc6 6. Be3 e6 7. Qd2 Nd4 8. Nd1 e5
+9. c3 Ne6 10. Ne2 Ne7 11. O-O O-O 12. Bh6 d5 13. Bxg7 Kxg7 14. exd5 Nxd5
+15. Ne3 Nxe3 16. Qxe3 Qd6 17. Rad1 Rd8 18. Rd2 Kg8 19. f4 exf4 20. Nxf4 Nxf4
+21. Rxf4 Rb8 22. d4 Be6 23. Rh4 h5 24. Rf2 b6 25. Rf6 cxd4 26. cxd4 Qd7
+27. Bf3 Bg4 28. Bxg4 hxg4 29. Qh6 Qxd4+ 30. Rf2 Qd1+ 31. Rf1 Qd4+
+1/2-1/2
+
+
+[Event "Bundesliga 1983/84"]
+[Site "FRG"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Guenther Schruefer"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A07"]
+[EventDate "????.??.??"]
+[PlyCount "63"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. Be3 e6 7. Qd2 Nd4 8. Nd1 e5
+9. c3 Ne6 10. Ne2 Ne7 11. O-O O-O 12. Bh6 d5 13. Bxg7 Kxg7 14. exd5 Nxd5
+15. Ne3 Nxe3 16. Qxe3 Qd6 17. Rad1 Rd8 18. Rd2 Kg8 19. f4 exf4 20. Nxf4 Nxf4
+21. Rxf4 Rb8 22. d4 Be6 23. Rh4 h5 24. Rf2 b5 25. Rf6 cxd4 26. cxd4 Qd7
+27. Bf3 Bg4 28. Bxg4 hxg4 29. Qh6 Qxd4+ 30. Rf2 Qd1+ 31. Rf1 Qd4+ 32. Rf2
+1/2-1/2
+
+
+[Event "Bugojno"]
+[Site "Bugojno BIH"]
+[Date "1984.06.??"]
+[Round "10"]
+[White "Boris Spassky"]
+[Black "Mikhail Tal"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E12"]
+[EventDate "????.??.??"]
+[PlyCount "27"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 Ne4 7. Nxe4 Bxe4
+8. Bxe7 Qxe7 9. Be2 O-O 10. O-O d6 11. Nd2 Bb7 12. Bf3 c5 13. Bxb7 Qxb7 14. Nf3
+1/2-1/2
+
+
+[Event "Simul"]
+[Site "Framingham, MA USA"]
+[Date "1984.09.30"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Jack Young"]
+[Result "1/2-1/2"]
+[BlackElo "2009"]
+[ECO "B01"]
+[EventDate "????.??.??"]
+[PlyCount "62"]
+[WhiteElo "?"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bc4 Bg4 6. f3 Bf5 7. Ne2 Nc6
+8. O-O O-O-O 9. Bd3 Bg6 10. f4 e6 11. Be3 Nb4 12. Bxg6 hxg6 13. h3 Qf5
+14. Rc1 Qh5 15. Qe1 Nbd5 16. Ng3 Qh4 17. Rf3 Bb4 18. Bd2 Bxc3 19. bxc3 Nh5
+20. Qf2 Nxg3 21. Rxg3 Nf6 22. Re1 Nh5 23. Rg5 Qxf2+ 24. Kxf2 Nf6 25. Kf3 Rd6
+26. Rb1 Rb6 27. Rb3 Rd8 28. Ra5 a6 29. Ke3 Rd5 30. c4 Rxa5 31. Bxa5 Rd6
+1/2-1/2
+
+
+[Event "Interpolis 2nd"]
+[Site "Tilburg NED"]
+[Date "1978.09.03"]
+[Round "3"]
+[White "Boris Spassky"]
+[Black "Jan Timman"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B07"]
+[EventDate "????.??.??"]
+[PlyCount "107"]
+[WhiteElo "?"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 Bg4 7. Be3 Nc6
+8. h3 Bxf3 9. Qxf3 e5 10. dxe5 dxe5 11. O-O Nd4 12. Qd1 Qe7 13. Nb1 h5
+14. Nd2 h4 15. Bxd4 exd4 16. gxh4 Nh5 17. Qg4 Qc5 18. Qg5 Qxc2 19. Rfc1 Qxb2
+20. Nc4 Qb4 21. Bf3 Bf6 22. Qh6 Bg7 23. Qg5 Rfe8 24. Bxh5 gxh5 25. Rab1 Qa4
+26. Rxb7 Qc6 27. Kh2 Re6 28. Rg1 Rg6 29. Qd5 Qxd5 30. exd5 Rd8 31. Rxg6 fxg6
+32. Rxc7 Rxd5 33. Rxa7 d3 34. Ne3 d2 35. Nd1 Bh6 36. Kg2 Re5 37. Rb7 Ra5
+38. Rb2 Ra4 39. Rb6 Kf7 40. Rd6 Rxa2 41. Kf3 Ra1 42. Ke2 Ra4 43. Ne3 Rxh4
+44. Nf1 Rxh3 45. Nxd2 Bf4 46. Ne4 Kg7 47. Rd3 Rh4 48. Rd7+ Kh6 49. Kf3 Be5
+50. Ng3 Rf4+ 51. Kg2 Rg4 52. Kh3 Kg5 53. Re7 Kf6 54. Rh7
+1/2-1/2
+
+
+[Event "Simul, 30b"]
+[Site "London ENG"]
+[Date "1979.01.20"]
+[Round "?"]
+[White "Boris Spassky"]
+[Black "Keith Arkell"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B08"]
+[EventDate "????.??.??"]
+[PlyCount "36"]
+[WhiteElo "?"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nbd7
+8. Qd2 e5 9. dxe5 Nxe5 10. Nxe5 dxe5 11. f3 Be6 12. Qxd8 Rfxd8 13. Rfd1 a6
+14. Rxd8+ Rxd8 15. Rd1 Rxd1+ 16. Bxd1 Bf8 17. a3 Nd7 18. Kf2 Bc5
+1/2-1/2

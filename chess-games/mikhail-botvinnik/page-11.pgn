@@ -1,0 +1,607 @@
+[Event "Game (training)"]
+[Site "Moscow (Russia)"]
+[Date "1953.01.??"]
+[Round "?"]
+[White "Botvinnik Mikhail (ISR)"]
+[Black "Kan Ilya A (RUS)"]
+[Result "1-0"]
+[ECO "B59"]
+[WhiteElo "2284"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3
+Be7 8.O-O O-O 9.Bf3 Na5 10.Nxa5 Qxa5 11.Bg5 Be6 12.a3 Qc5 13.h3
+Rfd8 14.Qd2 h6 15.Bxf6 Bxf6 16.Rfd1 Rac8 17.Bg4 Kf8 18.Qe2 a6
+19.Qf3 Rc6 20.h4 Ke7 21.g3 b5 22.Rac1 Qc4 23.Rd3 b4 24.b3 Qc5
+25.Nd5+ Bxd5 26.Rxd5 Qb6 27.axb4 Qxb4 28.Qe2 Qc3 29.Qd1 Rb8 30.Be2
+a5 31.Bc4 a4 32.Ra1 Rb4 33.Rd3 Qb2 34.c3 Rbxc4 35.bxc4 a3 36.Rb1
+Qa2 37.Rb4 Ra6 38.c5 dxc5 39.Rd7+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1954.??.??"]
+[Round "4"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Euwe Max (NED)"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 d5 6.Nf3 O-O 7.O-O Nc6
+8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4 Qc7 11.Bd3 e5 12.Qc2 Qe7 13.dxe5
+Nxe5 14.Nxe5 Qxe5 15.f3 Be6 16.e4 c4 17.Be2 Qc5+ 18.Kh1 Nd7 19.a4
+Qc7 20.Ba3 Nc5 21.Rab1 Rfd8 22.Bxc5 Qxc5 23.Rxb7 Qe3 24.Rb2 Rab8
+25.Rxb8 Rxb8 26.f4 f6 27.f5 Bf7 28.Rd1 g5 29.fxg6 hxg6 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1954.??.??"]
+[Round "5"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Minev Nikolay N (USA)"]
+[Result "1-0"]
+[ECO "D47"]
+[WhiteElo "2630"]
+[BlackElo "2370"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 c6 3.d4 d5 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bd3 b4 9.Ne4 Bb7 10.Nxf6+ gxf6 11.e4 Bd6 12.O-O Rg8 13.Qe2
+Qa5 14.Nd2 O-O-O 15.Nc4 Qc7 16.f4 c5 17.a3 f5 18.axb4 Nf6 19.Na5
+c4 20.Nxb7 cxd3 21.Nxd6+ Rxd6 22.Qxd3 fxe4 23.Qe2 Qb7 24.f5 Nd5
+25.Qxe4 Nxb4 26.Qxb7+ Kxb7 27.fxe6 fxe6 28.Rf7+ Kc6 29.Be3 Kd5
+30.Rxh7 Nc6 31.Bf4 Rdd8 32.Bc7 Rh8 33.Rg7 Rhg8 34.Rh7 Rh8 35.Rg7
+Rhg8 36.Rf7 Rgf8 37.Raf1 Rxf7 38.Rxf7 Rc8 39.Be5 Nxd4 40.Bxd4
+Kxd4 41.Kf2 a5 42.g4 Rc2+ 43.Kg3 Rxb2 44.g5 a4 45.g6 Rb1 46.Kh4
+Rg1 47.Kh5 Kc4 48.Rf4+ Kb5 49.Rf3 Kb4 50.Rf4+ Kb5 51.Rf3 Kb4
+52.Rg3 Rxg3 53.hxg3 a3 54.g7 a2 55.g8Q a1Q 56.Qg4+ Ka5 57.Qxe6
+Qh8+ 58.Kg6 Qc3 59.g4 Qd2 60.g5 Qd4 61.Qf5+ Ka4 62.Kh5 Qh8+ 63.Kg4
+Qh1 64.Qf4+ Ka5 65.Qe5+ Ka4 66.g6 Qd1+ 67.Kg5 Qd8+ 68.Kf5 Qc8+
+69.Kf4 Qc1+ 70.Qe3 Qc7+ 71.Qe5 Qc1+ 72.Kf5 Qc8+ 73.Kg5 Qd8+ 74.Qf6
+Qd5+ 75.Qf5 Qd8+ 76.Kh5 Qe8 77.Qf4+ Ka5 78.Qd2+ Ka4 79.Qd4+ Ka5
+80.Kg5 Qe7+ 81.Kf5 Qf8+ 82.Ke4 Qh6 83.Qe5+ Ka4 84.g7 Qh1+ 85.Kd4
+Qd1+ 86.Kc5 Qc1+ 87.Kd6 Qd2+ 88.Ke6 Qa2+ 89.Qd5 Qe2+ 90.Kd6 Qh2+
+91.Kc5 1-0
+
+
+[Event "Olympiad"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1954.??.??"]
+[Round "7"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Naidorf M (ARG)"]
+[Result "1-0"]
+[ECO "E65"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 c5 6.Nf3 Nc6 7.O-O
+d6 8.e3 Bf5 9.b3 Qc8 10.Bb2 Ne4 11.Rc1 Nxc3 12.Bxc3 Be4 13.d5
+Bxc3 14.Rxc3 Nd8 15.Nd2 Bxg2 16.Kxg2 f5 17.f4 e6 18.e4 exd5 19.cxd5
+Nf7 20.Re1 Re8 21.Rce3 Qd7 22.Qf3 Rad8 23.a4 b6 24.exf5 Rxe3
+25.Rxe3 Qxf5 26.g4 Qc2 27.Re2 Rf8 28.Ne4 Qd1 29.Nf6+ Kg7 30.g5
+Rc8 31.Re3 Qxf3+ 32.Kxf3 h6 33.h4 hxg5 34.hxg5 a6 35.Re7 Rb8
+36.Ra7 b5 37.Rxa6 bxa4 38.bxa4 Rc8 39.a5 Kf8 40.Rc6 Ra8 41.a6 1-0
+
+
+[Event "Olympiad"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1954.??.??"]
+[Round "8"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Pirc Vasja (YUG)"]
+[Result "1-0"]
+[ECO "E42"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Nge2 d5 6.a3 Bxc3+ 7.Nxc3
+b6 8.cxd5 exd5 9.Bb5+ Bd7 10.Be2 Bc6 11.b4 O-O 12.O-O Nbd7 13.Bb2
+cxb4 14.axb4 a5 15.Qb3 Re8 16.Rfc1 Qe7 17.Ba3 Qe6 18.Nb5 Bxb5
+19.Bxb5 axb4 20.Qxb4 Rec8 21.Rxc8+ Rxc8 22.Rc1 Rxc1+ 23.Bxc1
+h5 24.Qc3 g6 25.f3 Qf5 26.h4 Nf8 27.Ba3 Qb1+ 28.Bf1 Ne6 29.Qb4
+Qd1 30.Kf2 Kg7 31.Qxb6 g5 32.hxg5 Nxg5 33.Bf8+ Kg6 34.Be7 Qc2+
+35.Be2 Ne6 36.Qb5 Ng8 37.Bh4 Qa2 38.Qb8 Kh7 39.Qe5 Ng7 40.e4
+dxe4 41.Qxe4+ f5 42.Qe5 Qb2 43.Bg3 Nh6 44.Bf4 Nf7 45.Qe3 Qa2
+46.Qd3 Qd5 47.Qc4 Qd7 48.Bd3 Kg6 49.d5 Qe7 50.Qd4 Qh4+ 51.Kf1
+Ne8 52.g3 Qf6 53.Qe3 Nfd6 54.Be5 Qf7 55.Qd4 Kh7 56.Kg2 Kg8 57.Qc5
+Qe7 58.Bc3 Kf7 59.Qd4 Kg6 60.Qe5 Kf7 61.f4 Qd7 62.Be2 Kg6 63.Qh8
+Ng7 64.Qg8 Kh6 65.Bxh5 Nxh5 66.Qg5+ Kh7 67.Qxh5+ Kg8 68.Qg6+
+Kf8 69.Bb4 1-0
+
+
+[Event "Olympiad"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1954.??.??"]
+[Round "3"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Porath Yosef (ISR)"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2630"]
+[BlackElo "2340"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 h6 7.Bh4
+O-O 8.Bd3 Re8 9.Nge2 Nbd7 10.O-O c6 11.f3 c5 12.Qc2 b6 13.Bb5
+Bb7 14.Bxf6 Bxf6 15.dxc5 bxc5 16.Rad1 d4 17.exd4 cxd4 18.Nxd4
+Qb6 19.Qf2 Red8 20.Nb3 Nf8 21.Qxb6 axb6 22.a4 Ne6 23.Rxd8+ Rxd8
+24.Rd1 Rxd1+ 25.Nxd1 Kf8 26.Nc3 Ke7 27.Nd2 Nd4 28.Bc4 Bc6 29.Kf2
+Be5 30.Bd5 Bd7 31.Nc4 Bc7 32.b4 Bxa4 33.Nxa4 b5 34.Nab2 bxc4
+35.Nxc4 f5 36.g3 g5 37.Kg2 Kd7 38.Bb7 Bb8 39.Ba6 Kc6 40.Na5+
+Kb6 41.Bd3 f4 42.g4 Bd6 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1954.??.??"]
+[Round "1"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Salo Tapio (FIN)"]
+[Result "1-0"]
+[ECO "E68"]
+[WhiteElo "2630"]
+[BlackElo "2298"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 g6 3.d4 Bg7 4.g3 O-O 5.Bg2 d6 6.Nc3 Nbd7 7.O-O
+e5 8.e4 a5 9.Be3 Re8 10.h3 exd4 11.Nxd4 Nc5 12.Qc2 c6 13.Nb3
+Be6 14.Nxc5 dxc5 15.Bxc5 Bxc4 16.Rfd1 Qb8 17.Na4 Be6 18.Nb6 Ra6
+19.f4 Bf8 20.Bf2 Qc7 21.Na4 b5 22.Nc5 Raa8 23.a4 b4 24.Nxe6 Rxe6
+25.e5 Ne8 26.Rac1 Rc8 27.Rd3 Ng7 28.Qd1 Qb7 29.Rd7 Qa6 30.Ra7 1-0
+
+
+[Event "Olympiad"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1954.??.??"]
+[Round "1"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Stahlberg Gideon (SWE)"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 d4 7.e3 Nc6
+8.exd4 Nxd4 9.Bb2 Nxf3+ 10.Qxf3 Rb8 11.Qe2 b6 12.Nc3 Bb7 13.Rad1
+Bxg2 14.Kxg2 c6 15.Ne4 Rb7 16.Ng5 Nd7 17.Nf3 Bf6 18.d4 Qc8 19.Nd2
+c5 20.Ne4 Bxd4 21.Bxd4 cxd4 22.Rxd4 Nc5 23.Nd6 Qc6+ 24.Qf3 Qxf3+
+25.Kxf3 Rd7 26.Rfd1 f6 27.Ke3 e5 28.Rd5 Ne6 29.Nb5 Re7 30.Rd7
+Rff7 31.Rxe7 Rxe7 32.Rd6 Kf7 33.Rc6 Rd7 34.Rc8 Nc5 35.b4 Nd3
+36.c5 Nxb4 37.c6 Rd5 38.c7 Rxb5 39.Rf8+ Kxf8 40.c8Q+ Ke7 41.Qc7+
+Ke6 42.Qxg7 Nd5+ 43.Kf3 Ra5 44.Qxh7 Rxa2 45.h4 Ne7 46.h5 Rd2
+47.h6 f5 48.Qg7 e4+ 49.Kg2 e3 50.h7 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "2"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1-0"]
+[ECO "E45"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Nge2 Ba6 6.a3 Be7 7.Nf4
+d5 8.cxd5 Bxf1 9.Kxf1 exd5 10.g4 c6 11.g5 Nfd7 12.h4 Bd6 13.e4
+dxe4 14.Nxe4 Bxf4 15.Bxf4 O-O 16.h5 Re8 17.Nd6 Re6 18.d5 Rxd6
+19.Bxd6 Qxg5 20.Qf3 Qxd5 21.Qxd5 cxd5 22.Rc1 Na6 23.b4 h6 24.Rh3
+Kh7 25.Rd3 Nf6 26.b5 Nc5 27.Bxc5 bxc5 28.Rxc5 Rb8 29.a4 Rb7 30.Rdc3 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "4"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1-0"]
+[ECO "D22"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Bg4 5.Bxc4 e6 6.Qb3 Bxf3 7.gxf3
+b5 8.Be2 Nd7 9.a4 b4 10.Nd2 Ngf6 11.Ne4 c5 12.Nxf6+ Qxf6 13.d5
+e5 14.a5 Bd6 15.e4 O-O 16.Be3 c4 17.Qxc4 Rfc8 18.Qb3 Qg6 19.Kf1
+f5 20.Rg1 Qh5 21.Rg2 Nc5 22.Qd1 Qh4 23.Kg1 f4 24.Bd2 Rab8 25.Kh1
+Rf8 26.Bc4 Rf6 27.Qg1 Bf8 28.Rg4 Qh5 29.Qg2 Qf7 30.b3 Kh8 31.Rg1
+Rd6 32.Bc1 Nd7 33.Bb2 Re8 34.Qf1 Qh5 35.Qg2 Qh6 36.Rg5 g6 37.Qf1
+Bg7 38.Bc1 Bf6 39.R5g4 Be7 40.Bd2 Nf6 41.R4g2 Rd7 42.Bxa6 Ra7
+43.Bb5 Rg8 44.a6 g5 45.Qd3 Bd6 46.Qe2 Rag7 47.Qd1 Qh4 48.Be2
+g4 49.Be1 h5 50.fxg4 hxg4 51.Bxg4 Rxg4 52.f3 Rxg2 53.Bxh4 Rxg1+
+54.Qxg1 Rxg1+ 55.Kxg1 Ne8 56.a7 Nc7 57.Kf1 Kg7 58.Ke2 Kf7 59.Bf2
+Ke8 60.Kd3 Kd7 61.Kc4 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "6"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4
+O-O 8.Ne2 b6 9.O-O Bb7 10.f3 c5 11.Bg5 cxd4 12.cxd4 Nc6 13.Bd5
+Qd7 14.Qd2 e6 15.Bxc6 Bxc6 16.Rfe1 Bb5 17.Rad1 Rac8 18.Bh6 Bxh6
+19.Qxh6 Bxe2 20.Rxe2 Qa4 21.Rdd2 Qa3 22.Kf2 Rfd8 23.Re3 Qc1 24.Re1
+Qc4 25.Qe3 Qb4 26.Red1 Rc3 27.Qg5 Rd7 28.h4 Qe7 29.Qxe7 Rxe7
+30.d5 exd5 31.Rxd5 Ra3 32.R1d2 h5 33.Rc2 Kg7 34.Rd6 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "8"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D06"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.Nf3 Bf5 3.c4 e6 4.Qb3 Nc6 5.Bd2 dxc4 6.Qxb7 Nge7 7.Qb5
+Rb8 8.Qa4 Rxb2 9.Na3 Qd7 10.Nxc4 Rb8 11.e3 Nb4 12.Qxd7+ Kxd7
+13.Bxb4 Rxb4 14.Nce5+ Ke8 15.Bd3 f6 16.Bxf5 Nxf5 17.Nd3 Rb6 18.Ke2
+Ba3 19.Nd2 Nd6 20.Rhb1 Nc8 21.Nc4 Rxb1 22.Rxb1 Be7 23.Rb8 Kd8
+24.a4 Re8 25.a5 Kd7 26.a6 Bf8 27.Rb7 Be7 28.Na5 Bd6 29.e4 Bf8
+30.f3 Nb6 31.Rxa7 Rb8 32.Nb3 Na4 33.Rb7 Ra8 34.a7 Be7 35.Ke3
+Kc8 36.Na5 Kd7 37.g3 Nb6 38.Nb3 Kc8 39.Rb8+ Rxb8 40.axb8Q+ Kxb8
+41.Nbc5 e5 42.dxe5 fxe5 43.f4 Nc4+ 44.Kf3 exf4 45.gxf4 g6 46.e5
+c6 47.Nb3 Kc7 48.Ke4 Kb6 49.f5 gxf5+ 50.Kxf5 Ne3+ 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "10"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "0-1"]
+[ECO "D22"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Bg4 5.Bxc4 e6 6.Qb3 Bxf3 7.gxf3
+b5 8.Be2 Nd7 9.a4 b4 10.f4 Ngf6 11.Bf3 Ra7 12.Bc6 Be7 13.Nd2
+O-O 14.Nc4 a5 15.Ne5 Nb8 16.Bd2 Nd5 17.e4 Nb6 18.Be3 Bd6 19.Bb5
+Qh4 20.Rc1 Kh8 21.Be2 Bxe5 22.dxe5 N8d7 23.Bb5 Rd8 24.Bd2 Nxe5
+25.Qe3 Ng4 26.Qg3 Qxg3 27.fxg3 Nf2 28.Kxf2 Rxd2+ 29.Ke3 Rxb2
+30.Rb1 Rxb1 31.Rxb1 c5 32.Rd1 Ra8 33.Rd6 Rb8 34.Kd2 c4 35.Kc2
+g6 36.Rc6 c3 37.Kb3 Rc8 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "12"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1-0"]
+[ECO "D18"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4
+Bb4 8.O-O Nbd7 9.Nh4 O-O 10.f3 Bg6 11.e4 e5 12.Nxg6 hxg6 13.Be3
+Qe7 14.Qe2 exd4 15.Bxd4 Bc5 16.Bxc5 Qxc5+ 17.Kh1 g5 18.g3 Rad8
+19.Ba2 Rfe8 20.Rad1 Nf8 21.Rxd8 Rxd8 22.e5 Nd5 23.Nxd5 cxd5 24.Qd2
+Ne6 25.f4 gxf4 26.gxf4 Qc6 27.f5 Nc5 28.Qg5 Rd7 29.Rg1 f6 30.exf6
+Ne4 31.f7+ Rxf7 32.Qd8+ Kh7 33.Bxd5 Nf2+ 34.Kg2 Qf6 35.Qxf6 Rxf6
+36.Kxf2 Rxf5+ 37.Bf3 Rf4 38.Rg4 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "14"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "0-1"]
+[ECO "E68"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nbd7 7.O-O
+e5 8.e4 c6 9.Be3 Ng4 10.Bg5 Qb6 11.h3 exd4 12.Na4 Qa6 13.hxg4
+b5 14.Nxd4 bxa4 15.Nxc6 Qxc6 16.e5 Qxc4 17.Bxa8 Nxe5 18.Rc1 Qb4
+19.a3 Qxb2 20.Qxa4 Bb7 21.Rb1 Nf3+ 22.Kh1 Bxa8 23.Rxb2 Nxg5+
+24.Kh2 Nf3+ 25.Kh3 Bxb2 26.Qxa7 Be4 27.a4 Kg7 28.Rd1 Be5 29.Qe7
+Rc8 30.a5 Rc2 31.Kg2 Nd4+ 32.Kf1 Bf3 33.Rb1 Nc6 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "16"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.e3 Nbd7 7.Nge2
+e5 8.b3 Re8 9.Ba3 Rb8 10.O-O a6 11.dxe5 Nxe5 12.c5 dxc5 13.Bxc5
+b6 14.Qxd8 Rxd8 15.Bd4 Re8 16.e4 Bb7 17.f4 Neg4 18.h3 c5 19.Bxf6
+Nxf6 20.e5 Bxg2 21.Kxg2 Nd7 22.Rad1 Nf8 23.Rd6 Ne6 24.Ne4 Red8
+25.Rfd1 Bf8 26.Rxd8 Rxd8 27.Rxd8 Nxd8 28.Nf6+ Kg7 29.Nd5 b5 30.Nc7
+g5 31.Kf3 gxf4 32.gxf4 c4 33.bxc4 bxc4 34.Nxa6 f6 35.Nc7 fxe5
+36.fxe5 Kg6 37.Ke4 Kg5 38.a4 Kh4 39.a5 Nc6 40.a6 Kxh3 41.Nb5
+c3 42.Nbxc3 Kg4 43.Nd4 Na7 44.Nd5 h5 45.Nf6+ 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "18"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.e3 Nbd7 7.Nge2
+a6 8.b3 Rb8 9.a4 e5 10.Ba3 b6 11.O-O Bb7 12.d5 a5 13.e4 Nc5 14.Qc2
+h5 15.Rae1 h4 16.Bc1 Bc8 17.Nb5 Bd7 18.Bg5 h3 19.Bh1 Bxb5 20.cxb5
+Qd7 21.Bxf6 Bxf6 22.Nc1 Bg7 23.Nd3 f5 24.Nxc5 dxc5 25.Bf3 Qd6
+26.g4 f4 27.g5 Kf7 28.Kh1 Ke7 29.Rg1 Rh8 30.Rd1 Rh4 31.Rd3 Qd7
+32.Qe2 Rbh8 33.Bg4 Qd6 34.Qf1 Bf8 35.Rf3 Kd8 36.Qd3 Be7 37.Be6
+R8h5 38.Rxh3 Rxh3 39.Bxh3 c4 40.bxc4 Qa3 41.Qxa3 Bxa3 42.Bf5
+gxf5 43.g6 Bf8 44.exf5 Bg7 45.f6 Bxf6 46.g7 Bxg7 47.Rxg7 f3 48.Rg4
+Rh3 49.Rg3 Rh4 50.Rxf3 Rxc4 51.Ra3 Kd7 52.Kg2 Kd6 53.Kg3 Kxd5
+54.h3 Ke6 55.Kf3 Kf5 56.Kg3 Kg5 57.Kf3 Rf4+ 58.Kg3 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "20"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.e3 Nbd7 7.Nge2
+e5 8.b3 Re8 9.Ba3 h5 10.h3 a6 11.dxe5 dxe5 12.e4 Nh7 13.O-O h4
+14.Bc1 c6 15.Be3 hxg3 16.fxg3 Qe7 17.Qd2 b5 18.Rad1 bxc4 19.bxc4
+Qb4 20.Rc1 Bf8 21.Kh2 Nc5 22.Nb1 a5 23.Qc2 Be6 24.Rfd1 Reb8 25.Bf1
+a4 26.Bd2 Qb6 27.Be3 a3 28.Nec3 Qa5 29.Qf2 Be7 30.Rc2 Nf6 31.Nd2
+Rb2 32.Rdc1 Rd8 33.Bxc5 Qxc5 34.Qe2 Qb4 35.Nb3 Rxc2 36.Rxc2 Ne8
+37.Nb1 Nd6 38.N1d2 Nb7 39.h4 Nc5 40.Nxc5 Qxc5 41.Nb3 Qd6 42.Rd2
+Qb4 43.Rc2 f6 44.Bh3 Bf7 45.Bg4 Kg7 46.Kg2 Qd6 47.Rd2 Qb8 48.Rc2
+Bb4 49.h5 Qd6 50.hxg6 Bxg6 51.Bh5 Qd3 52.Bxg6 Qxe2+ 53.Rxe2 Kxg6
+54.Rf2 Kf7 55.Rf1 Ke6 56.Rf3 Be7 57.Rf1 Bb4 58.Rf3 Ke7 59.Rf1
+Kf7 60.Rf3 Kg6 61.Rf2 Rd6 62.Rf5 Bd2 63.Rf3 Bg5 64.c5 Rd7 65.Rc3
+f5 66.Kf3 Kf6 67.exf5 Kxf5 68.g4+ Ke6 69.Ke2 e4 70.Rc4 Ke5 71.Ra4
+Rh7 72.Rxa3 Rh2+ 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "22"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D83"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.d4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Be5 e6 7.Nf3 Nbd7
+8.Bg3 c6 9.Bd3 b6 10.O-O Bb7 11.Qe2 Qe7 12.Rfd1 Nh5 13.Bh4 Qd6
+14.g4 Nhf6 15.Bg3 Qe7 16.h3 c5 17.cxd5 Nxd5 18.Nxd5 exd5 19.Ba6
+Bxa6 20.Qxa6 cxd4 21.exd4 Nf6 22.Rac1 h5 23.Rc7 Qb4 24.g5 Ne4
+25.Qa3 Qb5 26.Qb3 Qe8 27.Qe3 Rc8 28.Rdc1 Rxc7 29.Rxc7 Nxg3 30.Qxe8
+Rxe8 31.fxg3 Re2 32.Rxa7 Rxb2 33.Ra8+ Kh7 34.Ra7 Kg8 35.Ra8+
+Kh7 36.Rd8 Rxa2 37.Rxd5 Ra7 38.Kf2 f6 39.gxf6 Bxf6 40.Rd6 Kg7
+41.Rxb6 g5 42.g4 Ra2+ 43.Kf1 Ra1+ 44.Kf2 Ra2+ 45.Kf1 Ra1+ 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1954.??.??"]
+[Round "24"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[WhiteElo "2630"]
+[BlackElo "2494"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.d4 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O
+c6 8.e4 e5 9.h3 a5 10.Be3 exd4 11.Nxd4 Re8 12.Qc2 Nc5 13.Rad1
+Nfd7 14.Nb3 Qe7 15.Nxc5 dxc5 16.f4 Nb6 17.b3 a4 18.Qf2 Bf8 19.e5
+f5 20.Rd3 axb3 21.axb3 Be6 22.Rfd1 Ra6 1/2-1/2
+
+
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Simagin Vladimir P (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "22 Ch"]
+
+1.Nf3 d6 2.d4 Nf6 3.Nc3 g6 4.e4 Bg7 5.Be2 O-O 6.O-O Nbd7 7.e5
+Ne8 8.Bf4 Nb6 9.h3 c6 10.Qc1 f6 11.exd6 exd6 12.Bd3 d5 13.Ne2
+Nd6 14.Ng3 Be6 15.a4 a5 16.b3 Qd7 17.Qd2 Rfe8 18.Rfe1 Nf7 19.h4
+Nc8 20.c4 dxc4 21.bxc4 Ncd6 22.Qc2 Bh6 23.Bxg6 Bxf4 24.Nh5 Kh8
+25.Nxf4 Bxc4 26.Bd3 Bxd3 27.Qxd3 Qg4 28.g3 Rad8 29.Rad1 Rg8 30.Kf1
+Rde8 31.Rxe8 Rxe8 32.Re1 Rxe1+ 33.Nxe1 Qf5 34.Nc2 Qxd3+ 35.Nxd3
+b5 36.Nc5 Nc4 37.Ke2 Nfd6 38.Ne3 Nb6 39.Kd3 bxa4 40.Kc2 Kg8 41.Ne6
+Ne4 42.Nf5 Kf7 43.Nd8+ Kg6 44.g4 Nxf2 45.Ne7+ Kg7 46.Nf5+ Kf8
+47.g5 fxg5 48.hxg5 Nc4 49.Nxc6 a3 50.Kb1 Ne4 51.Ka1 Nc3 52.d5
+a4 53.Nfd4 Nd2 54.Na5 Ke8 55.Nc2 a2 56.Nc6 Nde4 57.Ne5 Nxg5 58.d6
+Ne6 59.Kb2 Ne4 60.Nb4 Nxd6 61.Nd5 Ne4 62.Kxa2 Kf8 63.Ka3 N6c5
+64.Nf4 Ke7 65.Ng4 Nc3 66.Kb4 N5e4 67.Nh5 Ke6 68.Ne3 Ke5 69.Ng2
+Kf5 70.Ne3+ Ke5 71.Ng7 Kd4 72.Nc2+ Kd3 73.Ne1+ Kd2 74.Nf3+ Kc2
+75.Ne1+ Kb1 76.Nd3 Ka2 77.Nc1+ Kb2 78.Nd3+ Kc2 79.Ne1+ Kd2 80.Nf3+
+Ke3 81.Ne5 Kf4 82.Nd7 Kg5 83.Nf8 h6 84.Nge6+ Kf5 85.Ng7+ Kf6
+86.Nh5+ Kf7 87.Nd7 Kg6 88.Nf4+ Kf5 89.Ng2 h5 90.Nh4+ Kg5 91.Nf3+
+Kf4 92.Nh4 Kg4 93.Ng6 Nd5+ 94.Kxa4 Nf4 95.Nde5+ Kf5 96.Nxf4 Kxf4
+97.Ng6+ Kg5 98.Ne5 Nd2 99.Kb4 Kf5 100.Kc3 Ne4+ 101.Kd4 Ng5 102.Nd3
+Kg4 103.Ne5+ Kf5 104.Nd3 Kg4 105.Ne5+ Kg3 106.Ng6 Ne6+ 107.Ke3
+Nf8 108.Nxf8 h4 109.Ne6 h3 110.Ng5 1/2-1/2
+
+
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Spassky Boris V (FRA)"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2630"]
+[BlackElo "2548"]
+[Annotator ""]
+[Source ""]
+[Remark "22 Ch"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 c5 4.Bg2 Nc6 5.O-O Nd4 6.Nxd4 cxd4 7.e3
+Qc7 8.d3 dxe3 9.Bxe3 Be7 10.Nc3 O-O 11.Nb5 Qb8 12.Qa4 a6 13.Nc3
+b5 14.cxb5 Bb7 15.Bxb7 Qxb7 16.bxa6 Rxa6 17.Qb5 Qa8 18.d4 Ng4
+19.Qe2 f5 20.Bd2 Rb6 21.b3 Ba3 22.Bc1 Bb4 23.Na4 Rc6 24.Bb2 Nf6
+25.Rac1 f4 26.Rxc6 Qxc6 27.f3 h5 28.Bc1 Bd6 29.gxf4 Nd5 30.Nc5
+Bxc5 31.dxc5 Qxc5+ 32.Qf2 Qa5 33.Kh1 Nxf4 1/2-1/2
+
+
+[Event "Match \"URS-USA\""]
+[Site "Moscow (Russia)"]
+[Date "1955.??.??"]
+[Round "2"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Reshevsky Samuel H (USA)"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[WhiteElo "2630"]
+[BlackElo "2430"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bc4
+Nxc3 8.bxc3 Be7 9.O-O O-O 10.Bd3 b6 11.Qc2 g6 12.Rd1 cxd4 13.exd4
+Bb7 14.Bh6 Re8 15.Qe2 Qc7 16.Rac1 Bf8 17.Bxf8 Kxf8 18.Re1 Kg7
+19.Bb5 a6 20.Ba4 b5 21.Bb3 Qd6 22.Qe3 Rac8 23.h4 h5 24.Red1 Ne7
+25.Qe5+ Qxe5 26.Nxe5 Nd5 27.Bxd5 Bxd5 28.a3 Re7 29.Nd3 Rc4 30.Nb2
+Rc8 31.Nd3 Rc4 32.Nb2 1/2-1/2
+
+
+[Event "Match \"URS-USA\""]
+[Site "Moscow (Russia)"]
+[Date "1955.??.??"]
+[Round "4"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Reshevsky Samuel H (USA)"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[WhiteElo "2630"]
+[BlackElo "2430"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Be7 6.Nf3 O-O 7.b4 Nbd7
+8.Bb2 c6 9.Qc2 dxc4 10.Bxc4 a5 11.b5 Nb6 12.Bd3 cxb5 13.Nxb5
+Bd7 14.O-O Rc8 15.Qe2 Na4 16.Ne5 Bxb5 17.Bxb5 Nc3 18.Bxc3 Rxc3
+19.Qb2 Qc7 20.Rfc1 Rc8 21.Nd3 Ne4 22.a4 Bb4 23.g3 h6 24.Nc5 Rxc1+
+25.Rxc1 Nxc5 26.dxc5 Bxc5 27.Rd1 Rd8 28.Qc2 b6 29.Rxd8+ Qxd8
+30.Qd3 Qxd3 31.Bxd3 1/2-1/2
+
+
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1955.02.22"]
+[Round "8"]
+[White "Mikhail Botvinnik"]
+[Black "Boris Spassky"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A15"]
+[EventDate "1955.??.??"]
+[PlyCount "68"]
+[WhiteElo "?"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 Nc6 5. O-O Nd4 6. Nxd4 cxd4 7. e3 Qc7
+8. d3 dxe3 9. Bxe3 Be7 10. Nc3 O-O 11. Nb5 Qb8 12. Qa4 a6 13. Nc3 b5
+14. cxb5 Bb7 15. Bxb7 Qxb7 16. bxa6 Rxa6 17. Qb5 Qa8 18. d4 Ng4 19. Qe2 f5
+20. Bd2 Rb6 21. b3 Ba3 22. Bc1 Bb4 23. Na4 Rc6 24. Bb2 Nf6 25. Rac1 f4
+26. Rxc6 Qxc6 27. f3 h5 28. Bc1 Bd6 29. gxf4 Nd5 30. Nc5 Bxc5 31. dxc5 Qxc5+
+32. Qf2 Qa5 33. Kh1 Nxf4 34. Bxf4 Rxf4
+1/2-1/2

@@ -1,0 +1,611 @@
+[Event "Saint Louis Rapid 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.12"]
+[Round "4.3"]
+[White "Karjakin, Sergey"]
+[Black "So, W."]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "2773"]
+[BlackElo "2780"]
+[PlyCount "88"]
+[EventDate "2018.08.11"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 O-O 6. a4 d5 7. exd5 Nxd5 8.
+Nbd2 Nb6 9. Ba2 a5 10. Ne4 Be7 11. O-O Bg4 12. Re1 Qd7 13. h3 Be6 14. Bxe6 Qxe6
+15. Be3 Nd5 16. Qb3 Qd7 17. Rad1 Rad8 18. d4 exd4 19. Bxd4 Nxd4 20. Rxd4 Qc6
+21. g3 Qb6 22. Qc2 c6 23. Neg5 Bxg5 24. Nxg5 Nf6 25. Rf4 Rd5 26. Rxf6 Rxg5 27.
+Rf3 Qc7 28. Rfe3 Rd5 29. Re7 Rd7 30. Qe4 g6 31. Qe5 Rxe7 32. Qxe7 Qxe7 33. Rxe7
+Rb8 34. b3 b5 35. Ra7 bxa4 36. bxa4 Rb3 37. c4 Rb4 38. Rxa5 Rxc4 39. Kf1 Rc2
+40. Ra8+ Kg7 41. a5 c5 42. a6 c4 43. a7 Ra2 44. Rc8 Rxa7 1/2-1/2
+
+
+[Event "Saint Louis Blitz 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.15"]
+[Round "16.5"]
+[White "Karjakin, Sergey"]
+[Black "Vachier Lagrave, M."]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2773"]
+[BlackElo "2779"]
+[PlyCount "89"]
+[EventDate "2018.08.14"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. Nf3 c5 2. e3 Nf6 3. d4 d5 4. Nbd2 cxd4 5. exd4 Nc6 6. c3 g6 7. Bd3 Bg7 8.
+O-O O-O 9. Re1 Qc7 10. Nf1 Bg4 11. h3 Bxf3 12. Qxf3 e5 13. dxe5 Nxe5 14. Qd1
+Nxd3 15. Qxd3 Qc6 16. Be3 Ne4 17. Bd4 Nc5 18. Qd2 Bxd4 19. Qxd4 Ne6 20. Qf6 d4
+21. cxd4 Rad8 22. Rac1 Qb6 23. d5 Rxd5 24. Ne3 Rd7 25. Ng4 h5 26. Ne5 Rd6 27.
+Rc8 Nd8 28. Qf4 Rf6 29. Qd2 Rd6 30. Qc3 Qd4 31. Qb3 Re6 32. Rc4 Qd5 33. Rce4
+Qxb3 34. axb3 Rfe8 35. f3 f5 36. R4e3 Nc6 37. f4 Nxe5 38. fxe5 Kf7 39. Kf2 Rb6
+40. Kf3 Rb4 41. Rd1 Re7 42. Rd6 Re6 43. Rd7+ Re7 44. Rd6 Re6 45. Rd7+ 1/2-1/2
+
+
+[Event "Saint Louis Blitz 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.14"]
+[Round "4.3"]
+[White "Karjakin, Sergey"]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[WhiteElo "2773"]
+[BlackElo "2739"]
+[PlyCount "34"]
+[EventDate "2018.08.14"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. a4 d5 7. exd5 Nxd5 8.
+Nbd2 Nf4 9. Ne4 Nxg2+ 10. Kf1 Bh3 11. Kg1 h6 12. Nfg5 hxg5 13. Qh5 Qc8 14. Nf6+
+gxf6 15. Qg6+ Kh8 16. Qh6+ Kg8 17. Qg6+ Kh8 1/2-1/2
+
+
+[Event "6th Sinquefield Cup 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.22"]
+[Round "5.5"]
+[White "Karjakin, Sergey"]
+[Black "Grischuk, A."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2773"]
+[BlackElo "2766"]
+[PlyCount "79"]
+[EventDate "2018.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. Bf4 Ng6 13. Bh2 Be7 14. Nd4
+Nf8 15. a4 a5 16. Nce2 h5 17. e6 Nxe6 18. Nxe6 Bxe6 19. Bxc7 Bd8 20. Bd6 f6 21.
+Nd4 Bc8 22. h4 Kf7 23. f3 g5 24. Bg3 Bb6 25. Bf2 Re8 26. Rd2 Bxd4 27. Rxd4 Bf5
+28. Rd2 Rad8 29. Rad1 Rxd2 30. Rxd2 Re5 31. Kf1 Rd5 32. Ke2 Ke6 33. b3 gxh4 34.
+Bxh4 c5 35. Bg3 Rxd2+ 36. Kxd2 Kd7 37. Bh4 Ke6 38. Bg3 Kd7 39. Bh4 Ke6 40. Bg3
+1/2-1/2
+
+
+[Event "6th Sinquefield Cup 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.25"]
+[Round "7.4"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2773"]
+[BlackElo "2801"]
+[PlyCount "111"]
+[EventDate "2018.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8. Bg2 g5
+9. Be3 Nbd7 10. Qe2 Ne5 11. O-O-O Nfd7 12. h4 Rg8 13. hxg5 hxg5 14. Kb1 b5 15.
+f4 gxf4 16. Bxf4 Bb7 17. g5 Qb6 18. Rh7 O-O-O 19. Be3 Qa5 20. Rf1 Rg7 21. Rxg7
+Bxg7 22. g6 Nxg6 23. Rxf7 Bxd4 24. Bxd4 Nge5 25. Rf2 Qb4 26. Be3 Nc4 27. Bc1
+Kb8 28. Nd1 Rc8 29. b3 Na3+ 30. Bxa3 Qxa3 31. Bh3 Nc5 32. e5 Be4 33. Qe3 Nd3
+34. Rf7 Qc5 35. Qxc5 Nxc5 36. exd6 Rd8 37. Nc3 Rxd6 38. Kb2 Bc6 39. a3 Nb7 40.
+Rh7 Nc5 41. Rh6 Kc7 42. b4 Ne4 43. Rxe6 Rxe6 44. Bxe6 Nxc3 45. Kxc3 Kb6 46. Kd4
+a5 47. Bd5 Be8 48. bxa5+ Kxa5 49. Kc5 Bg6 50. c3 Bd3 51. Bc6 Be2 52. Bd7 Bd3
+53. Bc6 Be2 54. Bd7 Bd3 55. Bc6 Be2 56. Bd7 1/2-1/2
+
+
+[Event "6th Sinquefield Cup 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.20"]
+[Round "3.5"]
+[White "Karjakin, Sergey"]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2773"]
+[BlackElo "2768"]
+[PlyCount "74"]
+[EventDate "2018.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Nxe4 dxe4 13. Qd5 Qxd5 14. Bxd5 exf3
+15. Bxc6 fxg2 16. Rfc1 Rab8 17. a4 b4 18. cxb4 Rxb4 19. Bxg2 c5 20. Bxc5 Bxc5
+21. Rxc5 Rxb2 22. Bf1 Be2 23. Rac1 g6 24. R1c2 Rxc2 25. Rxc2 Bxf1 26. Kxf1 Re8
+27. Rc5 f6 28. Rc6 Rxe5 29. Rxa6 Kg7 30. Ra7+ Kh6 31. Rc7 Re4 32. Rc6 Rxa4 33.
+Rxf6 Rh4 34. Kg2 Rg4+ 35. Kf1 Rh4 36. Kg2 Rg4+ 37. Kf1 Rh4 1/2-1/2
+
+
+[Event "6th Sinquefield Cup 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.27"]
+[Round "9.5"]
+[White "Karjakin, Sergey"]
+[Black "Vachier Lagrave, M."]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[WhiteElo "2773"]
+[BlackElo "2779"]
+[PlyCount "238"]
+[EventDate "2018.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Bd7 12. Rb1 Qc7 13. h4 cxd4 14. cxd4 Nxd4
+15. Bxf7+ Rxf7 16. Nxd4 Rd8 17. Qb3 Qg3 18. Ne2 Qxh4 19. Bf2 Qf6 20. Rfd1 b6
+21. Qa3 e6 22. Rd2 Be8 23. e5 Qf5 24. Rxd8 Qxb1+ 25. Kh2 Rf8 26. Ng3 Bxe5 27.
+Qxa7 Qb4 28. Kg1 Qb1+ 29. Kh2 Qb4 30. Kg1 Bf6 31. Rd1 Ba4 32. Rf1 Bc6 33. Qxb6
+Qxb6 34. Bxb6 Ra8 35. Rf2 Bd5 36. Ne4 Be5 37. Re2 Bxa2 38. Ng5 Bd6 39. Kf2 Bc4
+40. Rd2 Be7 41. Be3 Bd5 42. Rc2 h6 43. Ne4 Bxe4 44. fxe4 h5 45. Rc7 Bf6 46. Rc6
+Ra2+ 47. Kf3 Ra3 48. Ke2 Kf7 49. Rc7+ Ke8 50. Rh7 Rb3 51. Ra7 Rb2+ 52. Kf3 g5
+53. e5 g4+ 54. Ke4 Rb4+ 55. Kd3 Bd8 56. Ra8 Kd7 57. g3 Bc7 58. Bd4 Kc6 59. Bc3
+Rb8 60. Ra6+ Rb6 61. Ra8 Rb5 62. Ke4 Rb3 63. Bd4 Bb8 64. Ra6+ Kd7 65. Ra8 Rb1
+66. Bf2 Rb4+ 67. Bd4 Bc7 68. Kd3 Rb8 69. Ra7 Rb5 70. Kc4 Ra5 71. Rb7 Kc6 72.
+Rb3 Bxe5 73. Rb6+ Kd7 74. Bxe5 Rxe5 75. Kd4 Ra5 76. Ke4 Ke7 77. Rb8 Ra3 78. Rh8
+Rxg3 79. Rxh5 Ra3 80. Kf4 Ra4+ 81. Kg3 Kd6 82. Rh8 Kd5 83. Rd8+ Ke5 84. Rb8 Rd4
+85. Ra8 Re4 86. Ra5+ Kf6 87. Ra8 e5 88. Rf8+ Ke6 89. Re8+ Kd5 90. Rd8+ Kc4 91.
+Ra8 Kd5 92. Rd8+ Kc5 93. Rc8+ Kd4 94. Ra8 Rf4 95. Re8 Ke4 96. Rg8 Rf3+ 97. Kxg4
+Rf1 98. Kh3 Ke3 99. Kg2 Ra1 100. Rg3+ Ke2 101. Rg4 Ke3 102. Rg3+ Kd2 103. Rg4
+Re1 104. Ra4 e4 105. Ra2+ Ke3 106. Ra3+ Kf4 107. Kf2 Rb1 108. Ke2 Rb2+ 109. Ke1
+Ke5 110. Ra4 Kf5 111. Ra8 Kf4 112. Ra3 Rh2 113. Kf1 Rd2 114. Ke1 Rd3 115. Rxd3
+exd3 116. Kd2 Ke4 117. Kd1 Ke3 118. Ke1 d2+ 119. Kd1 Kd3 1/2-1/2
+
+
+[Event "chess.com Speed 5m+1spm 2018"]
+[Site "chess.com INT"]
+[Date "2018.09.06"]
+[Round "1.3"]
+[White "Karjakin, Sergey"]
+[Black "Duda, J."]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2773"]
+[BlackElo "2737"]
+[PlyCount "69"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 g6 5. Nc3 Bg7 6. d4 cxd4 7. Nxd4 Nf6 8.
+O-O O-O 9. f3 Bxb5 10. cxb5 a6 11. Be3 axb5 12. Ndxb5 Nc6 13. Rc1 Qa5 14. a3
+Rfc8 15. b4 Qd8 16. Qb3 Ne5 17. Na4 Rc6 18. Nb2 d5 19. Bd4 Rxc1 20. Rxc1 Nc6
+21. Bxf6 Bxf6 22. exd5 Qb6+ 23. Kh1 Qxb5 24. dxc6 bxc6 25. a4 Qg5 26. Qc2 Bxb2
+27. Qxb2 Rxa4 28. Rxc6 Ra8 29. h3 Qb5 30. Rc1 Rb8 31. Qd4 e5 32. Qd6 Kg7 33.
+Rc5 Qxb4 34. Qxe5+ Kg8 35. Kh2 1/2-1/2
+
+
+[Event "chess.com Speed 3m+1spm 2018"]
+[Site "chess.com INT"]
+[Date "2018.09.06"]
+[Round "1.15"]
+[White "Karjakin, Sergey"]
+[Black "Duda, J."]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "2773"]
+[BlackElo "2737"]
+[PlyCount "121"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. Re1 Qc7 12. Bf1 Be7 13. Qf3 O-O 14. Bf4
+Bd6 15. Bxd6 Qxd6 16. Rad1 Qc7 17. c4 Rb8 18. Qg3 Qxg3 19. hxg3 Bd7 20. f3 Rfc8
+21. Rd2 h5 22. b3 Kf8 23. Kf2 Be8 24. a4 a5 25. Bd3 g6 26. Bc2 Nd7 27. Nb5 Nc5
+28. Nd6 Rd8 29. Red1 Ke7 30. Ke3 Bc6 31. Nb5 Rxd2 32. Rxd2 Bxb5 33. cxb5 b6 34.
+Rd4 g5 35. b4 axb4 36. Rxb4 f5 37. Kd4 Kd6 38. Kc3 Ra8 39. Rd4+ Kc7 40. Kb4 g4
+41. Rd1 Kb7 42. Rh1 Rg8 43. Rxh5 gxf3 44. gxf3 Rxg3 45. a5 Rxf3 46. Rh7+ Kb8
+47. axb6 Rf2 48. Bd1 Nd3+ 49. Kc3 Nf4 50. Bb3 Nd5+ 51. Bxd5 exd5 52. Kd4 Rd2+
+53. Kc5 Rc2+ 54. Kxd5 f4 55. Rf7 Rf2 56. Kc5 Rc2+ 57. Kb4 Rf2 58. b7 Rh2 59.
+Ka5 Rh6 60. b6 Rh1 61. Rxf4 1/2-1/2
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.28"]
+[Round "15.3"]
+[White "Karjakin, Sergey"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2709"]
+[ECO "B70"]
+[EventDate "2018.12.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Be2 Bg7 8.
+ O-O O-O 9. Be3 Nc6 10. Qd2 Bd7 11. Rfd1 Rc8 12. Nxc6 Bxc6 13. f3 Nd7 14. 
+Bd4 Bxd4+ 15. Qxd4 Qb6 16. Qxb6 Nxb6 17. a5 Nd7 18. Rd2 Rc7 19. b3 f5 20. 
+exf5 Rxf5 21. Nd1 Nf6 22. c4 g5 23. b4 Bd7 24. Ne3 Re5 25. Ra3 Rc8 26. Rd4
+Kg7 27. Kf2 Rb8 28. h4 h6 29. Nc2 Rf8 30. Ke1 Nh5 31. hxg5 hxg5 32. Re3 
+Rxe3 33. Nxe3 Nf4 34. Bf1 Be6 35. Kf2 Rh8 36. c5 dxc5 37. bxc5 Rc8 38. Re4
+Rc6 39. g3 Ng6 40. f4 gxf4 41. gxf4 Kf6 42. Bc4 Bxc4 43. Rxc4 e5 44. Ng4+ 
+Ke6 45. Nxe5 Nxe5 46. fxe5 Kxe5 47. Rb4 Rc7 48. Ke3 Kd5 49. Kd3 Kxc5 50. 
+Rc4+ Kd6 51. Rxc7 Kxc7 52. Kc3 Kd7 53. Kd3 Ke7 54. Ke3 1/2-1/2
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.29"]
+[Round "12.6"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2817"]
+[ECO "B13"]
+[EventDate "2018.12.29"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bb5 e6 6. O-O Bd6 7. c4 Ne7 
+8. Nc3 O-O 9. c5 Bc7 10. a3 e5 11. Bxc6 Nxc6 12. dxe5 d4 13. Nb5 Bg4 14. 
+Nbxd4 Nxe5 15. h3 Bh5 16. Qb3 Qd7 17. Bg5 Rfe8 18. Rfe1 a5 19. a4 Rac8 20.
+ Qb5 Qd5 21. Bf4 f6 22. Bxe5 fxe5 23. c6 Qxb5 24. Nxb5 Bxf3 25. gxf3 bxc6 
+26. Nxc7 Rxc7 27. Rac1 c5 28. f4 e4 29. Rc4 Kf7 30. Rexe4 Rxe4 31. Rxe4 c4
+32. Kg2 c3 33. bxc3 Rxc3 34. f3 Ra3 35. Kg3 Kf6 36. Rc4 Ra2 37. Rc6+ Kf7 
+38. Rc4 Kf6 39. f5 Kg5 40. h4+ Kxf5 41. Rc5+ Kf6 42. Rxa5 g6 43. Kf4 Rh2 
+44. Ra6+ Kg7 45. Kg3 Ra2 46. Ra7+ Kf6 47. Kf4 h6 48. Ra6+ Kf7 49. a5 Ra4+ 
+50. Ke5 Rxh4 51. Ra7+ Ke8 52. a6 Ra4 53. Ke6 Kd8 54. Rd7+ Kc8 55. a7 Ra6+ 
+56. Ke7 h5 57. Rd8+ Kb7 58. Rd7+ Ka8 59. Rd5 Ra3 60. Kf6 Rxf3+ 1/2-1/2
+
+
+[Event "43. Olympiad 2018"]
+[Site "Batumi GEO"]
+[Date "2018.10.02"]
+[Round "8.9"]
+[White "Karjakin, Sergey"]
+[Black "Kovalev, Vladislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2664"]
+[ECO "C95"]
+[EventDate "2018.09.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+ c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 c5 12. Nf1 Re8 13. Ng3 Bf8 14. Bc2 
+cxd4 15. cxd4 exd4 16. Bf4 Bb7 17. Nxd4 g6 18. Qd2 Nc5 19. Bg5 Bg7 20. Qf4
+Qe7 21. Rad1 Ncd7 22. a4 Rec8 23. axb5 axb5 24. Bb3 Rc5 25. Bh6 Nh5 26. 
+Nxh5 Bxh6 27. Qxh6 Rxh5 28. Qf4 Re8 29. Re3 Qf6 30. Qxf6 Nxf6 31. f3 Re7 
+32. Kf2 d5 33. e5 Rhxe5 34. Rxe5 Rxe5 35. Nxb5 Re6 36. Rc1 Rb6 37. Nd4 Ne8
+1/2-1/2
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.27"]
+[Round "7.13"]
+[White "Karjakin, Sergey"]
+[Black "Sargissian, Gabriel"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2689"]
+[ECO "C54"]
+[EventDate "2018.12.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. 
+Re1 O-O 9. h3 Kh8 10. b4 Ng8 11. Bg5 Qe8 12. Nbd2 f5 13. exf5 Bxf5 14. Be3
+Bxe3 1/2-1/2
+
+
+[Event "6. Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.1"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2782"]
+[BlackElo "2843"]
+[ECO "C78"]
+[EventDate "2018.05.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Ba7 8.
+ dxe5 Nxe4 9. Qd5 Nc5 10. Bc2 Ne7 11. Qd1 d5 12. exd6 Qxd6 13. Qxd6 cxd6 
+14. Rd1 Bg4 15. Rxd6 Bf5 16. Na3 Ne4 17. Bxe4 Bxe4 18. Rd1 Nf5 19. Nc4 
+Rfe8 20. Be3 Bxe3 21. Nxe3 Nxe3 22. fxe3 Bxf3 23. gxf3 Rxe3 24. Rd7 Rb8 
+25. Rad1 Kf8 26. Kf2 Re7 27. Rd8+ Re8 28. Rxb8 Rxb8 29. Rd7 Ke8 30. Rc7 b5
+31. Rc6 Ra8 32. c4 Kd7 33. cxb5 axb5 34. Rb6 Rxa2 35. Rxb5 Ra4 36. Kg3 Rd4
+37. Rb7+ Ke6 38. Rb6+ Kf5 39. Rb5+ Ke6 40. Rb6+ Kf5 41. Rb5+ Ke6 1/2-1/2
+
+
+[Event "Tata Steel India Rapid"]
+[Site "Kolkata IND"]
+[Date "2018.11.10"]
+[Round "5.5"]
+[White "Karjakin, Sergey"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2765"]
+[ECO "C67"]
+[EventDate "2018.11.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
+Nxe5 8. Rxe5 O-O 9. d4 Ne8 10. d5 Bc5 11. Re1 d6 12. Nc3 f5 13. Na4 Bxf2+ 
+14. Kxf2 Qh4+ 15. Kg1 Qxa4 16. Re7 Qh4 17. Qe2 Nf6 18. Rxc7 Nxd5 19. Qc4 
+Qe4 20. Qxe4 fxe4 21. Bc4 Be6 22. Rxb7 Rac8 23. Bb3 Rf7 24. Rxf7 Kxf7 25. 
+c3 Rb8 26. Bxd5 Bxd5 27. b3 Bc6 28. Bf4 Rd8 29. Kf2 d5 30. Be3 a6 31. a4 
+Ke6 32. Bd4 Rf8+ 33. Ke3 Rf7 34. Kd2 Kd6 35. Kc2 h5 36. Kb2 g5 37. Ka3 g4 
+38. Rb1 Kc7 39. Kb4 Rf8 40. Ka5 e3 41. Bxe3 d4 42. Bxd4 Rf5+ 43. Kb4 Bxg2 
+44. Re1 a5+ 45. Ka3 Kd7 46. Re2 Bf3 47. Rd2 Rd5 48. Kb2 h4 49. Kc1 h3 50. 
+Bf2 Rxd2 51. Kxd2 Bd5 52. Kc2 Bf3 53. b4 Kc6 54. bxa5 Kb7 55. Kb3 Ka6 56. 
+Kb4 Bc6 57. c4 Be8 58. Bg3 Bd7 59. Bh4 Be8 60. Bf2 Bd7 61. Be1 Be8 62. c5 
+Bc6 63. Kc4 g3 64. Bxg3 Kxa5 1/2-1/2
+
+
+[Event "Tata Steel India Rapid"]
+[Site "Kolkata IND"]
+[Date "2018.11.11"]
+[Round "9.2"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2746"]
+[ECO "C67"]
+[EventDate "2018.11.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
+Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re2 b6 11. Re1 Bb7 12. c3 Bg5 13. Na3 Bxc1 
+14. Qxc1 Qh4 15. Nb5 Nxb5 16. Bxb5 Qg4 17. Bf1 Rfe8 1/2-1/2
+
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.26"]
+[Round "5.9"]
+[White "Karjakin, Sergey"]
+[Black "Salem, A R Saleh"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2660"]
+[ECO "B70"]
+[EventDate "2018.12.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Be2 Bg7 8.
+ O-O O-O 9. Be3 Nc6 10. Qd2 d5 11. exd5 Nxd5 12. Nxd5 Nxd4 13. Bc4 Be6 14.
+ Bxd4 Bxd5 15. Bxg7 Bxc4 16. Qc3 Bxf1 17. Bxf8 Qxf8 18. Rxf1 Qd8 19. g3 
+Rc8 20. Qb3 Qc7 21. c3 Rd8 22. Rd1 Rxd1+ 23. Qxd1 a5 24. Qd5 b6 25. Kf1 e6
+26. Qd4 Qc6 27. Ke2 h5 28. h4 Kf8 29. Kd3 Ke7 30. Qe4 Qc5 31. Qd4 Qc6 32. 
+Qe4 Qc5 1/2-1/2
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.13"]
+[Round "7.1"]
+[White "Karjakin, Sergey"]
+[Black "Harikrishna, Pendyala"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2729"]
+[ECO "C65"]
+[EventDate "2018.11.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. c3 Bb6
+8. Ba4 c6 9. Na3 d6 10. Nc4 Bc7 11. Bb3 d5 12. exd5 cxd5 13. Ne3 O-O 14. 
+d4 Be6 15. dxe5 Bxe5 16. Nc2 Qc7 17. h3 h6 18. Be3 Ne4 19. Bd4 Bh2+ 20. 
+Kh1 Bf4 21. Ne3 Rad8 22. Qh5 Nd2 23. Rfe1 Nxb3 24. axb3 a6 25. Re2 Qd7 26.
+ Rae1 Bc7 27. Ng4 Bxg4 28. hxg4 Rfe8 29. g3 Re4 30. Qf5 Qxf5 31. gxf5 Rxe2
+32. Rxe2 Bd6 33. Kg2 f6 34. f4 Kf7 35. Re6 Rd7 36. Kf3 Be7 37. g4 Rc7 38. 
+b4 Rc6 39. Re1 Rc4 40. Ra1 Rc7 41. b5 axb5 42. Ra5 b4 43. Rxd5 bxc3 44. 
+bxc3 Ke8 45. Ke4 Rd7 46. Rb5 Bd6 47. c4 Re7+ 48. Kf3 Rd7 49. Be3 Rc7 50. 
+Ke4 Be7 51. c5 Bf8 52. Kd5 Rd7+ 53. Kc4 Re7 54. Bd4 Kd8 55. Ra5 Rc7 56. 
+Kb5 Rc6 57. Ra8+ Rc8 58. Ra7 Rc7 59. Kb6 Rc6+ 60. Kb5 Rc7 61. Bf2 Be7 62. 
+Ra4 Kd7 63. Ra8 Rc8 64. Ra7 Rc7 65. Bd4 Kd8 66. Ra4 Rc6 67. Ra8+ Rc8 68. 
+Ra4 Rc7 69. Be3 Rc6 70. Re4 Kd7 71. Bd4 Ra6 72. Kc4 Ra4+ 73. Kd5 Ra5 74. 
+Re6 Rb5 75. Re2 Bd8 76. Ra2 Ra5 77. Re2 b6 78. Re6 bxc5 79. Bxc5 Ra4 80. 
+Rd6+ Ke8 81. Re6+ Kf7 82. Bd6 Ra5+ 83. Kc6 Ra7 84. Re2 g6 85. fxg6+ Kxg6 
+86. Re8 Ba5 87. f5+ Kf7 88. Rh8 Kg7 89. Rc8 Bd2 90. Kd5 Ra4 91. Rc7+ Kg8 
+92. Ke6 Ra6 93. Rd7 Bf4 94. Ke7 Bg5 95. Rd8+ Kg7 96. Rd7 Kg8 97. Bc5 Ra4 
+98. Bd4 Kg7 99. Bxf6+ Bxf6+ 100. Ke6+ Kg8 101. Kxf6 Rxg4 102. Rd8+ Kh7 
+103. Kf7 h5 104. f6 Ra4 105. Ke6 Ra6+ 106. Ke7 Ra7+ 107. Rd7 Ra8 108. Kf7 
+Kh6 109. Re7 h4 110. Re3 Kg5 111. Kg7 Kg4 112. f7 Ra7 113. Kg6 Rxf7 114. 
+Kxf7 h3 115. Rxh3 Kxh3 1/2-1/2
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "17.2"]
+[White "Karjakin, Sergey"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2765"]
+[ECO "C84"]
+[EventDate "2018.11.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. 
+a4 Bd7 9. c3 Na5 10. Bc2 c5 11. d4 Qb8 12. Bg5 h6 13. Bh4 Be6 14. axb5 
+axb5 15. Nbd2 O-O 16. Re1 Rc8 17. h3 cxd4 18. cxd4 Qb6 19. dxe5 dxe5 20. 
+Bd3 Nc6 21. Qe2 Rab8 22. Rac1 Rd8 23. Red1 Nb4 24. Nxe5 Nxd3 25. Nxd3 Rbc8
+26. Rxc8 Bxc8 27. e5 Nd5 28. Bxe7 Nxe7 29. Ne4 Nf5 30. Ndc5 Re8 31. f4 f6 
+32. Qh5 Re7 33. Qg6 Nh4 34. Qh5 Nf5 35. b4 fxe5 36. fxe5 Rxe5 37. Nd6 Qc7 
+38. Nxc8 Qxc8 39. g4 Qc7 40. gxf5 Re3 41. Ne4 Rxe4 42. f6 Qg3+ 43. Kh1 
+Re1+ 44. Rxe1 Qxe1+ 45. Kg2 Qd2+ 46. Kh1 Qc1+ 47. Kg2 Qb2+ 48. Kh1 Qc1+ 
+49. Kh2 Qf4+ 50. Kg2 Qe4+ 51. Kh2 Qc2+ 52. Kg3 Qd3+ 53. Kg2 gxf6 54. Qxh6 
+Qe4+ 55. Kg3 Qxb4 56. Qg6+ Kh8 1/2-1/2
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "11.4"]
+[White "Karjakin, Sergey"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2615"]
+[ECO "A06"]
+[EventDate "2018.11.13"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 b6 5. Bb2 Bb7 6. cxd5 exd5 7. Nc3 Nbd7 
+8. d4 Bd6 9. Bd3 O-O 10. O-O a6 11. Rc1 Qe7 12. Rc2 Ne4 13. Qc1 Rac8 14. 
+Nb1 f5 15. Ba3 c5 16. g3 Qf7 17. Nc3 Nxc3 18. Rxc3 cxd4 19. Bxd6 Rxc3 20. 
+Qd2 Nc5 21. Bb1 Rc8 22. Qxd4 Ne4 23. Ba3 Qe6 24. Bb2 R3c7 25. a4 h6 26. h4
+Nc3 27. Bd3 Ne4 28. b4 Nc3 29. Ra1 b5 30. axb5 Nxb5 31. Qf4 d4 32. Bxf5 
+Qc6 33. e4 Rf8 34. Nxd4 Nxd4 35. Bxd4 Rcf7 36. g4 Qc4 37. Bc5 Rd8 38. Rc1 
+Qe2 39. Be6 Rd7 40. Be3 Re7 41. Bb3 Qb2 42. Bxf7+ Rxf7 43. Qd6 Rxf2 44. 
+Qe6+ Kh7 45. Bxf2 Qxc1+ 46. Kg2 Qf4 47. Qf5+ Qxf5 48. gxf5 Bxe4+ 49. Kg3 
+Bxf5 50. Bd4 1/2-1/2
+
+
+[Event "Tata Steel India Blitz"]
+[Site "Kolkata IND"]
+[Date "2018.11.14"]
+[Round "10.3"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2817"]
+[ECO "B12"]
+[EventDate "2018.11.13"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 Nd7 7. O-O c5 8. 
+dxc5 Nxc5 9. Nd4 Bg6 10. Be3 Nd7 11. f4 Nf5 12. Bf2 Be7 13. Nd2 Nxd4 14. 
+Bxd4 O-O 15. Nb3 b6 16. Bg4 Qc7 17. Qe2 Rfe8 18. Rae1 Bc5 19. Kh1 a5 20. 
+Qe3 a4 21. Nd2 Bxd4 22. Qxd4 Qc5 23. a3 Qxd4 24. cxd4 Rac8 25. Rc1 Nb8 26.
+ Be2 Red8 27. Bb5 Bc2 28. Rf3 Nc6 29. Bxc6 Rxc6 30. Rc3 Rxc3 31. bxc3 Bd3 
+32. Kg1 b5 33. Kf2 h5 34. Ke3 Bf5 35. Nf3 Rc8 36. Kd2 Be4 37. Rf1 f6 38. 
+g3 Kf7 39. Ne1 h4 40. g4 h3 41. Nd3 Bxd3 42. Kxd3 Rc7 43. Rf3 Ra7 44. Rxh3
+Ra8 45. Rh5 Rc8 46. h4 b4 47. cxb4 Rc1 48. exf6 Kxf6 49. Rh8 Ra1 50. Rf8+ 
+Ke7 51. Ra8 Rxa3+ 52. Kc2 Rf3 53. f5 exf5 54. gxf5 a3 55. Ra7+ Kf6 56. b5 
+Rf2+ 57. Kc3 Rb2 58. Rxa3 Rxb5 59. Ra7 Rb1 60. Rd7 Rb5 61. h5 Rb8 62. Rxd5
+Rh8 63. Rd6+ Kxf5 64. Kc4 Rc8+ 65. Kb5 Rh8 66. Kc6 Ke4 67. d5 Rxh5 68. 
+Re6+ Kf5 69. Re7 g5 70. d6 Rh1 71. d7 Rc1+ 72. Kb7 Rd1 73. Kc7 g4 1/2-1/2
+
+
+[Event "43. Olympiad 2018"]
+[Site "Batumi GEO"]
+[Date "2018.09.25"]
+[Round "2.2"]
+[White "Karjakin, Sergey"]
+[Black "Baburin, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2452"]
+[ECO "B04"]
+[EventDate "2018.09.24"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 g6 7. c4 Nc7 8.
+ O-O Bg7 9. f4 O-O 10. Nc3 Nd7 11. Be3 Nxe5 12. fxe5 f6 13. exf6 exf6 14. 
+Qb3 f5 15. Rad1 Re8 16. Bf2 Be6 17. Qxb7 Rb8 18. Qxc6 Rxb2 19. Qf3 Bf7 20.
+ Qd3 Ne6 21. Be3 Nc5 22. dxc5 Qxd3 23. Rxd3 Bxc3 24. Rxc3 Rxe2 25. Bf4 Rc8
+26. Bd6 Be8 27. Rg3 Rxa2 28. Rxf5 Bc6 29. Re5 a5 30. h4 Re8 31. Rxe8+ Bxe8
+32. h5 Bc6 33. h6 a4 34. Re3 Rxg2+ 35. Kf1 Rg5 36. Ke2 Rf5 37. Kd2 Rf2+ 
+38. Kc1 Rf1+ 39. Kb2 Rf2+ 40. Ka3 Rf3 41. Rxf3 Bxf3 42. Kxa4 Kf7 43. Kb5 
+Ke6 44. Bf4 g5 45. Bxg5 Kd7 46. Kb6 Kc8 47. c6 Be4 48. c7 Bb1 49. Kc6 Bc2 
+50. Kd6 Bb1 51. c5 Bc2 52. Bf4 Bb1 53. Ke7 Bc2 54. Kf6 Bb1 55. Kg7 Bc2 56.
+ c6 Bb1 1/2-1/2
+
+
+[Event "Tata Steel India Rapid"]
+[Site "Kolkata IND"]
+[Date "2018.11.09"]
+[Round "2.5"]
+[White "Karjakin, Sergey"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2773"]
+[ECO "C50"]
+[EventDate "2018.11.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Nbd2 d6 7. c3 a6 8.
+ Bb3 Ba7 9. h3 h6 10. Re1 Re8 11. Nh2 Be6 12. Qf3 Bxb3 13. axb3 Qd7 14. 
+Ndf1 Qe6 15. b4 Ne7 16. Ng3 c6 17. Ng4 Nxg4 18. Qxg4 Qxg4 19. hxg4 d5 20. 
+Be3 Bxe3 21. Rxe3 Rad8 22. Rd1 f6 23. Ne2 Nc8 24. Nc1 Nd6 25. exd5 cxd5 
+26. Nb3 Kf7 27. Kf1 Re7 28. Rde1 Rc7 29. Rf3 Re8 30. Rfe3 Rd8 31. Rf3 Re8 
+1/2-1/2
+
+
+[Event "World Blitz 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.30"]
+[Round "17.2"]
+[White "Karjakin, Sergey"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2738"]
+[ECO "B81"]
+[EventDate "2018.12.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. h3 Nc6 8. 
+Be3 Be7 9. Bg2 Bd7 10. f4 a6 11. Qe2 e5 12. Nf5 Bxf5 13. exf5 exf4 14. 
+Bxf4 d5 15. O-O-O d4 16. Qc4 O-O 17. Bxc6 bxc6 18. Rxd4 Qb6 19. Bd6 Rfd8 
+20. Na4 Qa7 21. Be5 Nd5 22. Kb1 Qb7 23. Re1 Bh4 24. Ree4 Qb5 25. b3 Re8 
+26. Nc5 Bf2 27. a4 Qb6 28. Nd7 Qa7 29. Nc5 Bxd4 30. Bxd4 Rxe4 31. Nxe4 Qd7
+32. Nc5 Qd6 33. Nxa6 Re8 34. Kb2 Nf4 35. Nc5 Ne2 36. Bc3 Qd1 37. Nd3 Nxc3 
+38. Qxc3 Qh1 39. a5 Qxh3 40. Qxc6 Rf8 41. Qe4 Qh2 42. b4 Qc7 43. Nc5 Qd6 
+44. Kb3 Rb8 45. Qc4 Qg3+ 46. c3 Qe1 47. Qd4 Qb1+ 48. Ka3 Qa1+ 49. Kb3 Qxa5
+50. Nd7 Rb7 51. Qe4 Qa8 52. Nc5 Rb8 53. Qxa8 Rxa8 54. b5 Kf8 55. b6 Ke7 
+56. Kb4 g6 57. fxg6 fxg6 58. Kb5 h5 59. gxh5 gxh5 60. b7 Rh8 61. Kb6 h4 
+62. Kc7 h3 63. Ne4 h2 64. Nf2 Ke6 65. c4 Ke5 66. c5 Kd5 67. Kb6 Rh6+ 68. 
+Kb5 Rh3 69. Kb6 Rb3+ 70. Kc7 Kxc5 71. b8=Q Rxb8 72. Kxb8 Kd4 73. Kc7 Kc3 
+74. Kd6 Kd2 75. Ke5 Ke2 76. Nh1 Kf3 77. Kd4 Kg2 78. Ke3 Kxh1 79. Kf2 
+1/2-1/2
+
+
+[Event "43. Olympiad 2018"]
+[Site "Batumi GEO"]
+[Date "2018.10.04"]
+[Round "10.3"]
+[White "Karjakin, Sergey"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2712"]
+[ECO "C67"]
+[EventDate "2018.09.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 
+Nf5 8. Qxd8+ Kxd8 9. h3 Be7 10. Nc3 Nh4 11. Nxh4 Bxh4 12. Be3 h5 13. Rad1+
+Ke8 14. Ne2 Be7 15. f4 g6 16. Nd4 Bd7 17. f5 Bxf5 18. Nxf5 gxf5 19. Rxf5 
+h4 20. Kf2 a5 21. Kf3 a4 22. Rd4 Rh7 23. Rff4 a3 24. b3 Ra5 25. Rg4 Rd5 
+26. Ke4 Rxd4+ 27. Kxd4 Kd7 28. Rg8 Ke6 29. Ke4 Rh5 30. Bf4 b6 31. c3 Rh7 
+32. Rc8 Kd7 33. Ra8 Rg7 34. Kf3 Bg5 35. Bh2 Bd2 36. Rxa3 Bxc3 37. Ra4 Rh7 
+38. Rc4 Bb2 39. Bf4 c5 40. Re4 Ke6 41. Bg5 Bxe5 42. Rxh4 Rg7 43. Bf4 Bxf4 
+44. Rxf4 f5 45. g4 fxg4+ 46. hxg4 c6 47. Kg3 b5 48. Rf5 c4 49. bxc4 bxc4 
+50. Rc5 Ra7 51. Rxc4 Rxa2 52. Rxc6+ Kf7 53. Kh4 Ra5 54. Rc7+ 1/2-1/2

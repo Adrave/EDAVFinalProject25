@@ -1,0 +1,475 @@
+[Event "2019-chinese-chess-league"]
+[White "Ding, Liren"]
+[Black "Wei, Yi"]
+[WhiteFideId "8603677"]
+[BlackFideId "8603405"]
+[Result "1-0"]
+[Round "09"]
+[Date "Thu Jul 25 2019"]
+[WhiteClock "0:03:10"]
+[BlackClock "0:01:47"]
+
+
+1. d4  d5 2. c4  dxc4 3. Nf3  Nf6 4. e3  e6 5. Bxc4  c5 6. O-O  Nc6 7. Nc3  a6 8. Bd3  cxd4 9. exd4  Be7 10. Bg5  O-O 11. Rc1  h6 12. Bf4  Bd6 13. Be5  Bxe5 14. dxe5  Nd7 15. Re1  Nc5 16. Re3  Nb4 17. Bb1  Qxd1+ 18. Rxd1  b6 19. a3  Nd5 20. Nxd5  exd5 21. Nd4  g6 22. h4  Re8 23. Ba2  Bg4 24. f3  Be6 25. b4  Na4 26. Rd2  b5 27. f4  Nb6 28. Rg3  Nc4 29. Bxc4  dxc4 30. f5  c3 31. Rc2  Bc4 32. fxg6  fxg6 33. Rxg6+  Kh7 34. Rf6  Rxe5 35. Rxc3  Rg8 36. Nf5  Rg6 37. Rxg6  Kxg6 38. Ne3  Re4 39. g3  Rd4 40. Kf2  Kf6 41. g4  h5 42. Kg3  Kg6 43. g5  Re4 44. Nxc4  Rg4+ 45. Kh3  Rxc4 46. Rd3  Kg7 47. Kg3  Rg4+ 48. Kh3  Rc4 49. Rd7+  Kg8 50. Rd8+  Kg7 51. Rd7+  Kg8 52. Rd6  Rc3+ 53. Kg2  Rxa3 54. Rg6+  Kf7 55. Rh6  Rb3 56. Rxh5  Rxb4 57. Kg3  Kg7 58. Rh6  a5 59. Ra6  a4 60. h5  Rc4 61. h6+  Kh7 62. Ra7+  Kh8 63. g6  Rc8 64. h7 1-0
+
+
+[Event "2019-chinese-chess-league"]
+[White "Ding, Liren"]
+[Black "Zhao, Jun"]
+[WhiteFideId "8603677"]
+[BlackFideId "8602522"]
+[Result "1-0"]
+[Round "11"]
+[Date "Sat Jul 27 2019"]
+[WhiteClock "0:31:09"]
+[BlackClock "0:10:49"]
+
+
+1. d4  Nf6 2. c4  e6 3. Nf3  b6 4. g3  Bb7 5. Bg2  Be7 6. O-O  O-O 7. Nc3  Ne4 8. Bd2  Bf6 9. Re1  Re8 10. Rc1  Nxd2 11. Qxd2  d6 12. e4  Nd7 13. Rcd1  e5 14. Nd5  a5 15. h4  exd4 16. Nxd4  Bxd4 17. Qxd4  Nc5 18. Qc3  Bxd5 19. cxd5  Qd7 20. b3  Qb5 21. Re3  Re7 22. a3  Rae8 23. Rde1  f5 24. exf5  Rxe3 25. Rxe3  Rxe3 26. Qxe3  Kf7 27. f6  gxf6 28. Bf3  Qd7 29. b4  axb4 30. axb4  Nb7 31. Qe6+ 1-0
+
+
+[Event "2019-grand-chess-tour-tata-steel"]
+[White "Ding, Liren"]
+[Black "Carlsen, Magnus"]
+[WhiteFideId "8603677"]
+[BlackFideId "1503014"]
+[Result "1-0"]
+[Round "23"]
+[Date "Tue Nov 26 2019"]
+[WhiteClock "0:01:09"]
+[BlackClock "0:00:02"]
+
+
+1. d4  e6 2. c4  f5 3. g3  Nf6 4. Bg2  d5 5. Nf3  Bd6 6. Bf4  Bxf4 7. gxf4  O-O 8. Nc3  c6 9. e3  b6 10. Ne5  Bb7 11. Rc1  Nbd7 12. Qa4  Nxe5 13. fxe5  Ne4 14. cxd5  cxd5 15. Ne2  Rc8 16. Rxc8  Qxc8 17. f3  Bc6 18. Qb4  Ng5 19. Kd2  Qd7 20. Rc1  Rc8 21. Nf4  Nf7 22. Bf1  Nd8 23. Ba6  Bb7 24. Bb5  Bc6 25. Ba6  Bb7 26. Rxc8  Bxc8 27. Bxc8  Qxc8 28. Qe7  h6 29. Qe8+  Kh7 30. Ng6  Qc4 31. Nf8+  Kg8 32. Nxe6+  Kh7 33. Nf8+  Kg8 34. Ng6+  Kh7 35. Ne7  Qb4+ 36. Ke2  Qxb2+ 37. Kf1  Qc1+ 38. Kg2  Qd2+ 39. Kh3 1-0
+
+
+[Event "2019-grand-chess-tour-tata-steel"]
+[White "Ding, Liren"]
+[Black "Aronian, Levon"]
+[WhiteFideId "8603677"]
+[BlackFideId "13300474"]
+[Result "1-0"]
+[Round "26"]
+[Date "Tue Nov 26 2019"]
+[WhiteClock "0:01:43"]
+[BlackClock "0:00:00"]
+
+
+1. d4  Nf6 2. c4  c5 3. d5  e5 4. Nc3  d6 5. e4  Nbd7 6. Bd3  Be7 7. Nge2  g6 8. h4  a6 9. a4  b6 10. g3  Rb8 11. f3  Nh5 12. Bh6  Bf8 13. Be3  Be7 14. Kd2  Ng7 15. Bh6  O-O 16. Kc2  f5 17. h5  Nf6 18. hxg6  hxg6 19. Qd2  Rf7 20. Rh2  b5 21. Rah1  b4 22. Bxg7  Nh5 23. Nd1  Bg5 24. f4  exf4 25. gxf4  Qe8 26. exf5  Bxf5 27. fxg5  Bxd3+ 28. Qxd3  Rxg7 29. Ne3  Qxa4+ 30. Kb1  Re8 31. Ng4  Rxe2 32. Rxe2  b3 33. Nf6+  Kf7 34. Nxh5  Qa2+ 35. Kc1  Qa1+ 36. Qb1 1-0
+
+
+[Event "2019-london-chess-classic"]
+[White "Ding, Liren"]
+[Black "Aronian, Levon"]
+[WhiteFideId "8603677"]
+[BlackFideId "13300474"]
+[Result "1-0"]
+[Round "1-03"]
+[Date "Wed Dec 04 2019"]
+[WhiteClock "0:00:18"]
+[BlackClock "0:00:00"]
+
+
+1. d4  Nf6 2. c4  e6 3. Nf3  d5 4. Nc3  Be7 5. Bf4  O-O 6. e3  Nbd7 7. Be2  dxc4 8. O-O  a6 9. a4  Nd5 10. Bxc4  Nxf4 11. exf4  c5 12. dxc5  Bxc5 13. Qe2  b6 14. Rad1  Qe7 15. Rfe1  g6 16. Nd5  Qd8 17. Ng5  exd5 18. Bxd5  Ra7 19. b4  Bxb4 20. Bxf7+  Rxf7 21. Nxf7  Qf8 22. Nd6  Bxd6 23. Qe6+  Kg7 24. Rxd6  Rc7 25. g3  Qf7 26. Rc6  Rxc6 27. Qxc6  Qf8 28. Rc1  Nc5 29. Qxb6  Ne6 30. Qc6  Nd4 31. Qc7+  Kh6 32. Qxc8  Qe7 33. Rd1  Nf3+ 34. Kg2  Qe4 35. Kh3  Nd4 1-0
+
+
+[Event "2019-london-chess-classic"]
+[White "Ding, Liren"]
+[Black "Aronian, Levon"]
+[WhiteFideId "8603677"]
+[BlackFideId "13300474"]
+[Result "1-0"]
+[Round "1-07"]
+[Date "Wed Dec 04 2019"]
+[WhiteClock "0:00:08"]
+[BlackClock "0:00:06"]
+
+
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Bc5 4. O-O  Nf6 5. d3  d6 6. c3  O-O 7. Re1  Bb6 8. Nbd2  Ng4 9. Re2  Kh8 10. h3  f5 11. exf5  Nxf2 12. Rxf2  Bxf2+ 13. Kxf2  Bxf5 14. Nf1  d5 15. Bb3  e4 16. dxe4  Bxe4 17. Kg1  Bxf3 18. gxf3  Qh4 19. Kg2  Ne5 20. f4  Rf6 21. Bc2  Rh6 22. Bf5  Ng6 23. Bg4  Qe7 24. f5  Nh4+ 25. Kh2  Rb6 26. Ng3  Re8 27. Bh5  Rf8 28. Qg4  g6 29. Bg5  Rxb2+ 30. Kh1  gxh5 31. Qxh4  Qe5 32. Rf1  d4 33. Qxd4  Qxd4 34. cxd4  Rxa2 35. Nxh5  Kg8 36. Bh6  Ra5 1-0
+
+
+[Event "2019-london-chess-classic"]
+[White "Ding, Liren"]
+[Black "Vachier-Lagrave, Maxime"]
+[WhiteFideId "8603677"]
+[BlackFideId "623539"]
+[Result "1-0"]
+[Round "2-3"]
+[Date "Sun Dec 08 2019"]
+[WhiteClock "0:08:04"]
+[BlackClock "0:11:00"]
+
+
+1. d4  Nf6 2. c4  g6 3. g3  c5 4. Nf3  Bg7 5. Bg2  O-O 6. d5  d6 7. Nc3  e6 8. O-O  exd5 9. cxd5  Re8 10. Re1  Bf5 11. Nd2  Na6 12. e4  Bg4 13. f3  Bd7 14. Nc4  Qb8 15. Bf4  Bf8 16. a4  Nb4 17. Qd2  Nh5 18. Bg5  f6 19. Be3  f5 20. exf5  Bxf5 21. g4  Bd3 22. Bf1  Bxf1 23. Kxf1  Nf6 24. Bg5  Bg7 25. Bf4  Qd8 26. Nxd6  Rf8 27. Kg2  Qd7 28. Bg3  h5 29. g5  Ne8 30. Re6  h4 31. Bf4  h3+ 32. Kg3  Nxd6 33. Bxd6  Rf5 34. Rae1  Bf8 35. Rxg6+  Kh7 36. Ree6  Re8 37. Bxf8  Rxe6 38. Rxe6  Rxf8 39. f4 1-0
+
+
+[Event "2019-london-chess-classic"]
+[White "Ding, Liren"]
+[Black "Vachier-Lagrave, Maxime"]
+[WhiteFideId "8603677"]
+[BlackFideId "623539"]
+[Result "1-0"]
+[Round "2-2"]
+[Date "Sat Dec 07 2019"]
+[WhiteClock "0:16:15"]
+[BlackClock "0:22:53"]
+
+
+1. c4  c5 2. g3  g6 3. Bg2  Bg7 4. Nc3  Nc6 5. Nf3  e5 6. O-O  Nge7 7. d3  d6 8. a3  a5 9. Rb1  O-O 10. b3  Rb8 11. Bb2  h6 12. Nd2  Be6 13. Nd5  b5 14. e3  Qd7 15. Re1  Bg4 16. Qc2  Rfc8 17. Ne4  Nxd5 18. cxd5  Ne7 19. Nd2  Bh3 20. Bh1  Nf5 21. a4  h5 22. axb5  Rxb5 23. Ra1  h4 24. Bc3  Ra8 25. Ra4  Qd8 26. Bf3  Rab8 27. Rea1  Bh6 28. Re1  Qg5 29. Ne4  Qd8 30. Ra3  Ne7 31. Nd2  Nf5 32. Qd1  Bg7 33. g4  Nh6 34. Kh1  f5 35. gxf5  gxf5 36. Rg1  Qd7 37. Qe2  Kh8 38. Ra4  Rxb3 39. Rxh4  Rxc3 40. Rxh3  a4 41. e4  Rc2 42. Rh5  f4 43. Qd1  Rbb2 44. Nc4  a3 45. Bg4  Qd8 46. Nxb2  Rxb2 47. Be6  a2 48. Rxg7  Kxg7 49. Qg1+  Kf8 50. Rf5+ 1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2019.01.08"]
+[Round "1"]
+[White "Ding Liren"]
+[Black "Corrales Jimenez,F"]
+[Result "1-0"]
+[BlackElo "2559"]
+[BlackFideId "3506690"]
+[BlackTeam "Minnesota Blizzard"]
+[BlackTitle "GM"]
+[ECO "D76"]
+[EventDate "2019.01.08"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[WhiteElo "2813"]
+[WhiteFideId "8603677"]
+[WhiteTeam "Chengdu Pandas"]
+[WhiteTitle "GM"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 d5 4. c4 Bg7 5. cxd5 Nxd5 6. d4 O-O 7. O-O Nb6
+8. Nc3 a5 9. Bf4 Na6 10. Rc1 c6 11. e3 Nb4 12. e4 Bg4 13. a3 Na6 14. Ne2 a4
+15. h3 Bxf3 16. Bxf3 e6 17. Qc2 Nc7 18. Rfd1 Nb5 19. Be3 Nd6 20. Qd3 f5
+21. e5 Nb5 22. Nf4 Qd7 23. d5 Nxd5 24. Bxd5 exd5 25. e6 Qe8 26. Bc5 Rf6
+27. e7 Rf7 28. Re1 Qd7 29. Re2 Nc7 30. Rce1 Re8 31. Qc2 Na6 32. Ne6 Nxc5
+33. Nxc5 Qc7 34. Ne6 Qd6 35. Nxg7 Kxg7 36. Re6 Qd7 37. Qc5 Kg8 38. h4 d4
+39. Rd6 Rexe7 40. Rxe7 Qxe7 41. Qxd4 f4 42. Rd8+ Rf8 43. Rd7 Qf6 44. Qxf6 Rxf6
+45. Rxb7 fxg3 46. fxg3 Rf3 47. Kg2 Rd3 48. Kh3 c5 49. Kg4 h5+ 50. Kf4 Rd4+
+51. Kg5 Rg4+ 52. Kh6 Rxg3 53. Rg7+ Kf8 54. Rxg6 Rb3 55. Rg2 c4 56. Rc2 Rb5
+57. Rxc4 Rxb2 58. Kxh5 Rb5+ 59. Kg4 Ra5 60. Kf3 Kf7 61. Ke3 Ke6 62. Kd3 Kd5
+63. Kc3 Ra8 64. Rg4 Rc8+ 65. Kb4 Rc1 66. Kxa4 Kc5 67. Ka5 Kc6 68. a4 Kb7
+69. Kb5 Rb1+ 70. Kc5 Rc1+ 71. Kd6 Re1 72. h5 Rh1 73. Rg5 Kc8 74. Ke7 Kc7
+75. a5 Kb7 76. Kf7 Rc1 77. h6 Rc7+ 78. Kg6 Rc6+ 79. Kh5 Rc1 80. h7
+1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2019.01.08"]
+[Round "1"]
+[White "Ding Liren"]
+[Black "Tang,Andrew"]
+[Result "1-0"]
+[BlackElo "2487"]
+[BlackFideId "2059630"]
+[BlackTeam "Minnesota Blizzard"]
+[BlackTitle "GM"]
+[ECO "D31"]
+[EventDate "2019.01.08"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteElo "2813"]
+[WhiteFideId "8603677"]
+[WhiteTeam "Chengdu Pandas"]
+[WhiteTitle "GM"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. Nge2 Nd7
+8. h4 Bxh4 9. Qb3 Nb6 10. a4 Bc8 11. a5 Nc4 12. e4 Be7 13. exd5 cxd5 14. Nb5 Nd6
+15. Nec3 Nf6 16. Nxd5 Nxd5 17. Qxd5 Nxb5 18. Bxb5+ Kf8 19. Qxd8+ Bxd8 20. d5 a6
+21. Bc4 Bf6 22. Kd2 g5 23. Bc7 Bd7 24. d6 Bc6 25. f3 Bd8 26. Rh6 Kg7
+27. Rah1 Rc8 28. Bxd8 Rcxd8 29. Bd3 Rd7 30. Bf5 Rdd8 31. Kc3 Rde8 32. d7 Re5
+33. Rxh7+
+1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2019.02.20"]
+[Round "7"]
+[White "Ding Liren"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[BlackElo "2749"]
+[BlackFideId "2016192"]
+[BlackTeam "Seattle Sluggers"]
+[BlackTitle "GM"]
+[ECO "A04"]
+[EventDate "2019.01.08"]
+[Opening "Reti opening"]
+[WhiteElo "2813"]
+[WhiteFideId "8603677"]
+[WhiteTeam "Chengdu Pandas"]
+[WhiteTitle "GM"]
+
+1. Nf3 h6 2. e4 e6 3. d4 d5 4. Nbd2 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. O-O g5
+9. dxc5 Nxc5 10. Bb5 Nd7 11. Re1 Bg7 12. c4 a6 13. Ba4 O-O 14. cxd5 exd5
+15. Bxc6 bxc6 16. Nb3 Re8 17. Nbd4 Nc5 18. Be3 Ne4 19. Nxc6 Qd7 20. Rc1 Bb7
+21. Na5 Qb5 22. Nxb7 Qxb7 23. Bd4 Rac8 24. h3 Bf8 25. Rxc8 Rxc8 26. h4 g4
+27. Nh2 h5 28. Nf1 Be7 29. g3 Nc5 30. Ne3 Ne6 31. Nf5 Qd7 32. Qd3 Bf8
+33. Rd1 Rc6 34. Bc3 Nc7 35. Ne3 Rc5 36. Bb4 Rb5 37. Bxf8 Kxf8 38. Qh7 Qe6
+39. Qxh5 Rxb2 40. Rc1 d4
+1-0
+
+
+[Event "12th World Teams 2019"]
+[Site "Astana KAZ"]
+[Date "2019.03.05"]
+[Round "1.4"]
+[White "Ding Liren"]
+[Black "Mamedov,Rau"]
+[Result "1-0"]
+[BlackElo "2701"]
+[BlackFideId "13401653"]
+[BlackTeam "Azerbaijan"]
+[BlackTitle "GM"]
+[ECO "D12"]
+[EventDate "2019.03.05"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteElo "2812"]
+[WhiteFideId "8603677"]
+[WhiteTeam "China"]
+[WhiteTitle "GM"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3 Qb6
+9. Nxg6 hxg6 10. Bd2 Nbd7 11. g3 Be7 12. Kf2 g5 13. Kg2 Rd8 14. Qxb6 axb6
+15. a4 O-O 16. cxd5 exd5 17. Bd3 g4 18. f4 Rfe8 19. h3 Nc5 20. Bc2 Nce4
+21. Nxe4 Nxe4 22. Bxe4 gxh3+ 23. Rxh3 dxe4 24. g4 f6 25. b4 Rd5 26. Rhh1 Ra8
+27. Bc3 Kf7 28. Kf2 Bd6 29. Ke2 Be7 30. Kd2 b5 31. a5 Rdd8 32. Rh5 Ke6
+33. Kc2 Rh8 34. Rah1 Rxh5 35. Rxh5 Rd8 36. Kb3 Rd5 37. f5+ Kf7 38. Be1 g5
+39. Rh7+ Ke8 40. Bg3 Rd7 41. Bb8 Bf8 42. Rh1 Kf7 43. Ba7 Kg7 44. Bc5 Bd6
+45. Ra1 Bg3 46. a6 bxa6 47. Kc3 Rd8 48. Rxa6 Be1+ 49. Kc2 Rh8 50. Rxc6 Rh2+
+51. Kd1 Bd2 52. d5 Bc3 53. Rc7+ Kg8 54. d6
+1-0
+
+
+[Event "2020-candidates-chess-tournament"]
+[White "Ding, Liren"]
+[Black "Wang, Hao"]
+[WhiteFideId "8603677"]
+[BlackFideId "8602883"]
+[WhiteElo "2776"]
+[BlackElo "2707"]
+[Result "0-1"]
+[Round "01"]
+[Date "Tue Mar 17 2020"]
+[WhiteClock "0:41:00"]
+[BlackClock "0:27:34"]
+
+
+1. c4  e5 2. g3  Nf6 3. Bg2  Bc5 4. d3  O-O 5. Nc3  c6 6. Nf3  d6 7. O-O  Re8 8. Na4  Bb4 9. a3  Ba5 10. b4  Bc7 11. e4  a5 12. Bb2  Na6 13. b5  cxb5 14. cxb5  Nc5 15. Nxc5  dxc5 16. a4  Bg4 17. Ra3  Nd7 18. h3  Bh5 19. Qb1  b6 20. Nd2  Nf8 21. Bf3  Qg5 22. h4  Qg6 23. Qd1  Bxf3 24. Qxf3  h5 25. Qf5  Rad8 26. Qxg6  Nxg6 27. Kg2  f6 28. Nc4  Kf7 29. Bc1  Rd7 30. f4  exf4 31. Bxf4  Nxf4+ 32. gxf4  f5 33. e5  Re6 34. Kf3  Rg6 35. Ne3  Ke6 36. Rd1  Bd8 37. Ra2  Rd4 38. Nc2  Rd5 39. Ne3  Rd7 40. Rdd2  Bxh4 41. Rg2  Rg4 42. Rh2  g6 43. Nxg4  fxg4+ 44. Ke3  Be7 45. Rac2  h4 0-1
+
+
+[Event "2020-candidates-chess-tournament"]
+[White "Ding, Liren"]
+[Black "Caruana, Fabiano"]
+[WhiteFideId "8603677"]
+[BlackFideId "2020009"]
+[WhiteElo "2776"]
+[BlackElo "2787"]
+[Result "1-0"]
+[Round "03"]
+[Date "Thu Mar 19 2020"]
+[WhiteClock "0:14:08"]
+[BlackClock "0:44:48"]
+
+
+1. d4  d5 2. c4  c6 3. Nf3  Nf6 4. Nc3  dxc4 5. a4  Bf5 6. Ne5  e6 7. f3  Bb4 8. Nxc4  O-O 9. Kf2  e5 10. Nxe5  Bc2 11. Qd2  c5 12. d5  Bb3 13. e4  Re8 14. Qf4  c4 15. Nxc4  Nbd7 16. Be3  Nf8 17. Bd4  Ng6 18. Qf5  Bxc4 19. Bxc4  Qc7 20. Be2  Bc5 21. Bxc5  Qxc5+ 22. Kf1  h6 23. Rd1  Qb6 24. Rd2  Qe3 25. Rc2  a6 26. Qh3  b5 27. Qg3  b4 28. Nd1  Qb3 29. Rd2  Qxa4 30. Qf2  Qd7 31. g3  Qh3+ 32. Kg1  a5 33. Qd4  Nh5 34. Nf2  Qd7 35. f4  Nhxf4 36. gxf4  Nxf4 37. Kf1  Qd6 38. Rg1  f6 39. Bb5  Re7 40. b3  Rf8 41. Rc2  Ne6 42. Qe3  Ng5 43. h4  Nf7 44. Rc6  Qb8 45. Qc5  Qd8 46. Rxf6  Kh8 47. Rf5  Rc7 48. Bc6  a4 49. bxa4  b3 50. Rg3  b2 51. Rb3  Nd6 52. Rxf8+  Qxf8 53. Rxb2  Qf4 54. Rb8+  Kh7 55. Qc2  Re7 56. e5+  Nf5 57. Qe4  Qc1+ 58. Kg2  g6 59. Rb3 1-0
+
+
+[Event "2020-candidates-chess-tournament"]
+[White "Ding, Liren"]
+[Black "Giri, Anish"]
+[WhiteFideId "8603677"]
+[BlackFideId "24116068"]
+[WhiteElo "2776"]
+[BlackElo "2784"]
+[Result "1/2-1/2"]
+[Round "04"]
+[Date "Sat Mar 21 2020"]
+[WhiteClock "0:07:34"]
+[BlackClock "0:06:39"]
+
+
+1. d4  Nf6 2. c4  e6 3. g3  Bb4+ 4. Bd2  a5 5. Bg2  d5 6. Nf3  O-O 7. Qc2  c5 8. cxd5  cxd4 9. Nxd4  Qb6 10. e3  exd5 11. O-O  Nc6 12. Nxc6  bxc6 13. Rc1  Rb8 14. Bxb4  Qxb4 15. b3  h5 16. Nc3  h4 17. Ne2  Bd7 18. Nf4  hxg3 19. hxg3  Rfc8 20. Bf3  a4 21. bxa4  Ra8 22. Nd3  Qxa4 23. Qxa4  Rxa4 24. Nc5  Ra5 25. a4  Rca8 26. Bd1  Be8 27. Kf1  Kf8 28. Rab1  Ne4 29. Nxe4  dxe4 30. Rb7  c5 31. Bb3  R5a7 32. Rxa7  Rxa7 33. Ke1  Ke7 34. Ra1  c4 35. Bc2  Kd6 36. Kd2  Kc5 37. Kc3  Ra6 38. g4  g5 39. a5  Bc6 40. Ra2  Ra7 41. Ra1  Ra6 42. Ra2 1/2-1/2
+
+
+[Event "2020-danzhou"]
+[White "Ding, Liren"]
+[Black "Rapport, Richard"]
+[WhiteFideId "8603677"]
+[BlackFideId "738590"]
+[WhiteElo "2791"]
+[BlackElo "2759"]
+[Result "0-1"]
+[Round "01"]
+[Date "Thu Dec 03 2020"]
+[WhiteClock "0:00:44"]
+[BlackClock "0:01:13"]
+
+
+1. d4 {[%clk 0:15:06]}  e6 {[%clk 0:15:04]} 2. c4 {[%clk 0:15:12]}  Bb4+ {[%clk 0:15:10]} 3. Bd2 {[%clk 0:14:59]}  Qe7 {[%clk 0:15:07]} 4. Nf3 {[%clk 0:13:49]}  Nf6 {[%clk 0:15:11]} 5. g3 {[%clk 0:13:58]}  Nc6 {[%clk 0:15:15]} 6. Nc3 {[%clk 0:14:05]}  Bxc3 {[%clk 0:15:14]} 7. Bxc3 {[%clk 0:14:14]}  Ne4 {[%clk 0:15:23]} 8. Rc1 {[%clk 0:14:23]}  O-O {[%clk 0:15:15]} 9. Bg2 {[%clk 0:14:30]}  d6 {[%clk 0:15:19]} 10. d5 {[%clk 0:13:50]}  Nxc3 {[%clk 0:15:05]} 11. Rxc3 {[%clk 0:13:57]}  Nd8 {[%clk 0:15:14]} 12. O-O {[%clk 0:13:41]}  b6 {[%clk 0:14:58]} 13. dxe6 {[%clk 0:13:00]}  fxe6 {[%clk 0:15:03]} 14. Nd4 {[%clk 0:10:13]}  Rb8 {[%clk 0:13:59]} 15. Re3 {[%clk 0:09:08]}  Bd7 {[%clk 0:11:45]} 16. Qd3 {[%clk 0:06:56]}  a5 {[%clk 0:07:15]} 17. f4 {[%clk 0:06:45]}  Kh8 {[%clk 0:06:39]} 18. g4 {[%clk 0:06:36]}  g6 {[%clk 0:05:59]} 19. g5 {[%clk 0:05:38]}  e5 {[%clk 0:05:03]} 20. h4 {[%clk 0:04:33]}  Qg7 {[%clk 0:02:48]} 21. fxe5 {[%clk 0:03:42]}  Rxf1+ {[%clk 0:02:58]} 22. Kxf1 {[%clk 0:03:49]}  dxe5 {[%clk 0:03:05]} 23. Nf3 {[%clk 0:03:50]}  Nc6 {[%clk 0:03:08]} 24. Qc3 {[%clk 0:01:50]}  Re8 {[%clk 0:03:09]} 25. Nd2 {[%clk 0:01:59]}  Nd4 {[%clk 0:02:46]} 26. Ne4 {[%clk 0:02:07]}  Nf5 {[%clk 0:02:54]} 27. Rd3 {[%clk 0:02:11]}  Rf8 {[%clk 0:01:48]} 28. Nf6 {[%clk 0:02:11]}  Nxh4 {[%clk 0:01:43]} 29. Qxe5 {[%clk 0:02:07]}  h6 {[%clk 0:01:14]} 30. Kg1 {[%clk 0:00:33]}  Bf5 {[%clk 0:01:21]} 31. e4 {[%clk 0:00:21]}  hxg5 {[%clk 0:01:29]} 32. exf5 {[%clk 0:00:28]}  Qxf6 {[%clk 0:01:38]} 33. Qxf6+ {[%clk 0:00:37]}  Rxf6 {[%clk 0:01:48]} 34. fxg6 {[%clk 0:00:45]}  Rd6 {[%clk 0:00:42]} 35. Rxd6 {[%clk 0:00:20]}  cxd6 {[%clk 0:00:52]} 36. Be4 {[%clk 0:00:28]}  Kg7 {[%clk 0:01:01]} 37. Kf2 {[%clk 0:00:38]}  Nxg6 {[%clk 0:01:09]} 38. Ke3 {[%clk 0:00:42]}  Kf6 {[%clk 0:01:02]} 39. Kd4 {[%clk 0:00:36]}  Nf4 {[%clk 0:01:10]} 40. a3 {[%clk 0:00:39]}  g4 {[%clk 0:01:11]} 41. b4 {[%clk 0:00:48]}  g3 {[%clk 0:01:14]} 42. bxa5 {[%clk 0:00:47]}  bxa5 {[%clk 0:01:23]} 43. c5 {[%clk 0:00:21]}  Ne6+ {[%clk 0:01:23]} 44. Kd5 {[%clk 0:00:26]}  dxc5 {[%clk 0:01:22]} 45. a4 {[%clk 0:00:29]}  Kg5 {[%clk 0:01:14]} 46. Kc4 {[%clk 0:00:35]}  Kf4 {[%clk 0:01:19]} 47. Bh1 {[%clk 0:00:44]}  Ke3 {[%clk 0:01:13]} 0-1
+
+
+
+[Event "2020-danzhou"]
+[White "Ding, Liren"]
+[Black "Wei, Yi"]
+[WhiteFideId "8603677"]
+[BlackFideId "8603405"]
+[WhiteElo "2791"]
+[BlackElo "2732"]
+[Result "0-1"]
+[Round "09"]
+[Date "Mon Dec 07 2020"]
+[WhiteClock "0:00:52"]
+[BlackClock "0:01:19"]
+
+
+1. c4 {[%clk 0:15:09]}  e6 {[%clk 0:15:08]} 2. Nc3 {[%clk 0:15:16]}  d5 {[%clk 0:15:17]} 3. d4 {[%clk 0:15:25]}  Nf6 {[%clk 0:15:26]} 4. cxd5 {[%clk 0:15:34]}  Nxd5 {[%clk 0:15:34]} 5. e3 {[%clk 0:15:44]}  c5 {[%clk 0:15:25]} 6. Bd3 {[%clk 0:15:52]}  cxd4 {[%clk 0:15:05]} 7. exd4 {[%clk 0:16:01]}  g6 {[%clk 0:14:45]} 8. h4 {[%clk 0:15:58]}  Bg7 {[%clk 0:12:45]} 9. h5 {[%clk 0:15:43]}  Nc6 {[%clk 0:11:55]} 10. Nf3 {[%clk 0:15:44]}  O-O {[%clk 0:10:25]} 11. Be4 {[%clk 0:15:04]}  Qb6 {[%clk 0:08:12]} 12. Na4 {[%clk 0:08:11]}  Qb4+ {[%clk 0:05:14]} 13. Bd2 {[%clk 0:08:18]}  Qb5 {[%clk 0:05:24]} 14. hxg6 {[%clk 0:08:16]}  hxg6 {[%clk 0:05:32]} 15. Qc2 {[%clk 0:02:08]}  e5 {[%clk 0:01:59]} 16. dxe5 {[%clk 0:01:45]}  Ndb4 {[%clk 0:01:30]} 17. Qb3 {[%clk 0:01:03]}  Be6 {[%clk 0:01:40]} 18. Nc3 {[%clk 0:01:12]}  Nd3+ {[%clk 0:00:36]} 19. Kf1 {[%clk 0:01:20]}  Qc5 {[%clk 0:00:16]} 20. Be3 {[%clk 0:01:19]}  Bxb3 {[%clk 0:00:22]} 21. Bxc5 {[%clk 0:01:28]}  Nxc5 {[%clk 0:00:31]} 22. axb3 {[%clk 0:01:35]}  Nxe4 {[%clk 0:00:23]} 23. Nxe4 {[%clk 0:01:44]}  Nxe5 {[%clk 0:00:32]} 24. Nfg5 {[%clk 0:01:44]}  Rfc8 {[%clk 0:00:15]} 25. Rh3 {[%clk 0:00:58]}  Rc2 {[%clk 0:00:17]} 26. Rb1 {[%clk 0:01:05]}  Ng4 {[%clk 0:00:17]} 27. Rd3 {[%clk 0:01:05]}  f5 {[%clk 0:00:20]} 28. Nd2 {[%clk 0:01:00]}  Re8 {[%clk 0:00:15]} 29. g3 {[%clk 0:00:54]}  Bxb2 {[%clk 0:00:18]} 30. Nh3 {[%clk 0:00:24]}  Bc1 {[%clk 0:00:11]} 31. Nf3 {[%clk 0:00:31]}  Ba3 {[%clk 0:00:11]} 32. b4 {[%clk 0:00:28]}  Bb2 {[%clk 0:00:16]} 33. Rd7 {[%clk 0:00:21]}  Ree2 {[%clk 0:00:15]} 34. Rbd1 {[%clk 0:00:25]}  Nxf2 {[%clk 0:00:12]} 35. Rd8+ {[%clk 0:00:34]}  Kg7 {[%clk 0:00:18]} 36. R1d7+ {[%clk 0:00:41]}  Kh6 {[%clk 0:00:16]} 37. Nhg5 {[%clk 0:00:44]}  Kh5 {[%clk 0:00:18]} 38. Nd2 {[%clk 0:00:23]}  Kxg5 {[%clk 0:00:12]} 39. Kxe2 {[%clk 0:00:32]}  Ne4 {[%clk 0:00:18]} 40. Kd1 {[%clk 0:00:19]}  Rc1+ {[%clk 0:00:27]} 41. Ke2 {[%clk 0:00:28]}  Rc2 {[%clk 0:00:37]} 42. Kd1 {[%clk 0:00:38]}  Rc1+ {[%clk 0:00:45]} 43. Ke2 {[%clk 0:00:47]}  Nxg3+ {[%clk 0:00:40]} 44. Kf2 {[%clk 0:00:40]}  Kg4 {[%clk 0:00:47]} 45. Rd3 {[%clk 0:00:23]}  f4 {[%clk 0:00:48]} 46. Nf3 {[%clk 0:00:32]}  Rc2+ {[%clk 0:00:50]} 47. Ke1 {[%clk 0:00:41]}  Re2+ {[%clk 0:00:42]} 48. Kd1 {[%clk 0:00:50]}  Rf2 {[%clk 0:00:51]} 49. Nd2 {[%clk 0:00:53]}  f3 {[%clk 0:00:41]} 50. Nc4 {[%clk 0:00:40]}  Rf1+ {[%clk 0:00:19]} 51. Kc2 {[%clk 0:00:48]}  Rc1+ {[%clk 0:00:24]} 52. Kb3 {[%clk 0:00:51]}  Rxc4 {[%clk 0:00:27]} 53. Kxc4 {[%clk 0:00:58]}  f2 {[%clk 0:00:34]} 54. Rf8 {[%clk 0:00:43]}  Nf5 {[%clk 0:00:33]} 55. Rxf5 {[%clk 0:00:36]}  gxf5 {[%clk 0:00:42]} 56. Rd1 {[%clk 0:00:46]}  Kf3 {[%clk 0:00:52]} 57. Kd3 {[%clk 0:00:55]}  Bc3 {[%clk 0:01:00]} 58. Kxc3 {[%clk 0:00:54]}  Ke2 {[%clk 0:01:09]} 59. Rd2+ {[%clk 0:00:52]}  Ke1 {[%clk 0:01:19]} 0-1
+
+
+
+[Event "2020-danzhou"]
+[White "Ding, Liren"]
+[Black "Giri, Anish"]
+[WhiteFideId "8603677"]
+[BlackFideId "24116068"]
+[WhiteElo "2791"]
+[BlackElo "2764"]
+[Result "1-0"]
+[Round "06"]
+[Date "Sat Dec 05 2020"]
+[WhiteClock "0:02:53"]
+[BlackClock "0:00:29"]
+
+
+1. c4 {[%clk 0:15:09]}  Nf6 {[%clk 0:15:07]} 2. Nf3 {[%clk 0:15:17]}  e6 {[%clk 0:15:16]} 3. g3 {[%clk 0:15:26]}  d5 {[%clk 0:15:25]} 4. Bg2 {[%clk 0:15:35]}  Be7 {[%clk 0:15:34]} 5. O-O {[%clk 0:15:44]}  O-O {[%clk 0:15:43]} 6. d4 {[%clk 0:15:53]}  dxc4 {[%clk 0:15:51]} 7. Qc2 {[%clk 0:16:02]}  a6 {[%clk 0:15:59]} 8. a4 {[%clk 0:16:12]}  Bd7 {[%clk 0:16:07]} 9. Qxc4 {[%clk 0:16:21]}  Bc6 {[%clk 0:16:16]} 10. Bf4 {[%clk 0:16:29]}  Bd6 {[%clk 0:16:15]} 11. Be3 {[%clk 0:16:38]}  h6 {[%clk 0:15:18]} 12. Nc3 {[%clk 0:16:16]}  Qe7 {[%clk 0:14:41]} 13. Ne5 {[%clk 0:13:03]}  Bxg2 {[%clk 0:14:39]} 14. Kxg2 {[%clk 0:13:13]}  Nbd7 {[%clk 0:13:34]} 15. Nxd7 {[%clk 0:12:18]}  Qxd7 {[%clk 0:13:27]} 16. Rfd1 {[%clk 0:12:10]}  Qe7 {[%clk 0:12:30]} 17. d5 {[%clk 0:11:40]}  Rfe8 {[%clk 0:11:57]} 18. Rac1 {[%clk 0:09:51]}  exd5 {[%clk 0:09:39]} 19. Nxd5 {[%clk 0:09:58]}  Nxd5 {[%clk 0:09:47]} 20. Rxd5 {[%clk 0:09:28]}  Qe4+ {[%clk 0:09:53]} 21. Qxe4 {[%clk 0:08:37]}  Rxe4 {[%clk 0:10:00]} 22. b3 {[%clk 0:08:43]}  Rae8 {[%clk 0:09:24]} 23. Kf3 {[%clk 0:08:19]}  R4e6 {[%clk 0:08:06]} 24. Rc4 {[%clk 0:08:18]}  Re5 {[%clk 0:07:28]} 25. Rxe5 {[%clk 0:08:09]}  Bxe5 {[%clk 0:07:24]} 26. Rb4 {[%clk 0:07:41]}  b6 {[%clk 0:07:07]} 27. Rc4 {[%clk 0:07:48]}  Re6 {[%clk 0:06:58]} 28. h4 {[%clk 0:05:43]}  h5 {[%clk 0:06:37]} 29. Bf4 {[%clk 0:05:26]}  c5 {[%clk 0:04:32]} 30. Bxe5 {[%clk 0:03:55]}  Rxe5 {[%clk 0:04:40]} 31. Re4 {[%clk 0:04:00]}  Rf5+ {[%clk 0:03:36]} 32. Ke3 {[%clk 0:04:09]}  b5 {[%clk 0:03:39]} 33. Re8+ {[%clk 0:04:09]}  Kh7 {[%clk 0:03:47]} 34. Ra8 {[%clk 0:03:43]}  Re5+ {[%clk 0:03:11]} 35. Kd2 {[%clk 0:02:49]}  Rd5+ {[%clk 0:02:59]} 36. Kc3 {[%clk 0:02:46]}  Rd6 {[%clk 0:01:55]} 37. axb5 {[%clk 0:02:39]}  axb5 {[%clk 0:02:03]} 38. Rb8 {[%clk 0:02:47]}  b4+ {[%clk 0:01:55]} 39. Kc4 {[%clk 0:02:09]}  Rd2 {[%clk 0:01:31]} 40. Kxc5 {[%clk 0:02:10]}  Rxe2 {[%clk 0:01:39]} 41. Rxb4 {[%clk 0:02:18]}  Rxf2 {[%clk 0:01:46]} 42. Rf4 {[%clk 0:02:27]}  Rc2+ {[%clk 0:01:41]} 43. Rc4 {[%clk 0:02:25]}  Rg2 {[%clk 0:01:32]} 44. Rc3 {[%clk 0:02:34]}  g5 {[%clk 0:01:28]} 45. b4 {[%clk 0:02:20]}  Kg6 {[%clk 0:01:26]} 46. b5 {[%clk 0:02:28]}  Kf5 {[%clk 0:00:28]} 47. b6 {[%clk 0:02:23]}  gxh4 {[%clk 0:00:24]} 48. gxh4 {[%clk 0:02:32]}  Rb2 {[%clk 0:00:19]} 49. Rc4 {[%clk 0:02:28]}  Ke5 {[%clk 0:00:16]} 50. Kc6 {[%clk 0:02:26]}  f5 {[%clk 0:00:26]} 51. b7 {[%clk 0:02:34]}  Rxb7 {[%clk 0:00:12]} 52. Kxb7 {[%clk 0:02:43]}  f4 {[%clk 0:00:20]} 53. Rc5+ {[%clk 0:02:44]}  Ke4 {[%clk 0:00:29]} 54. Rxh5 {[%clk 0:02:53]} 1-0
+
+
+
+[Event "2020-danzhou"]
+[White "Ding, Liren"]
+[Black "Grischuk, Alexander"]
+[WhiteFideId "8603677"]
+[BlackFideId "4126025"]
+[WhiteElo "2791"]
+[BlackElo "2777"]
+[Result "1-0"]
+[Round "04"]
+[Date "Fri Dec 04 2020"]
+[WhiteClock "0:02:33"]
+[BlackClock "0:00:42"]
+
+
+1. d4 {[%clk 0:15:08]}  d5 {[%clk 0:14:58]} 2. c4 {[%clk 0:15:17]}  c6 {[%clk 0:15:07]} 3. Nf3 {[%clk 0:14:53]}  Nf6 {[%clk 0:15:15]} 4. e3 {[%clk 0:15:02]}  Bf5 {[%clk 0:15:23]} 5. Nc3 {[%clk 0:15:11]}  e6 {[%clk 0:15:32]} 6. Nh4 {[%clk 0:15:20]}  Be4 {[%clk 0:15:40]} 7. f3 {[%clk 0:15:29]}  Bg6 {[%clk 0:15:49]} 8. Bd2 {[%clk 0:15:35]}  Be7 {[%clk 0:15:10]} 9. Nxg6 {[%clk 0:15:38]}  hxg6 {[%clk 0:15:20]} 10. Qc2 {[%clk 0:15:47]}  a6 {[%clk 0:08:51]} 11. O-O-O {[%clk 0:14:50]}  b5 {[%clk 0:08:10]} 12. c5 {[%clk 0:12:53]}  Qc7 {[%clk 0:08:09]} 13. g4 {[%clk 0:11:45]}  Rxh2 {[%clk 0:04:48]} 14. Bd3 {[%clk 0:08:57]}  Rxh1 {[%clk 0:02:39]} 15. Rxh1 {[%clk 0:09:04]}  Qg3 {[%clk 0:02:49]} 16. Qd1 {[%clk 0:05:55]}  Nbd7 {[%clk 0:02:37]} 17. Qf1 {[%clk 0:03:16]}  Qc7 {[%clk 0:01:27]} 18. Rh8+ {[%clk 0:03:05]}  Nf8 {[%clk 0:01:36]} 19. Be1 {[%clk 0:02:56]}  g5 {[%clk 0:00:56]} 20. Kb1 {[%clk 0:02:01]}  Rd8 {[%clk 0:00:33]} 21. Ne2 {[%clk 0:02:03]}  Kd7 {[%clk 0:00:40]} 22. Bg3 {[%clk 0:01:31]}  Qa5 {[%clk 0:00:47]} 23. Nc1 {[%clk 0:01:27]}  Re8 {[%clk 0:00:17]} 24. Nb3 {[%clk 0:01:34]}  Qd8 {[%clk 0:00:26]} 25. a4 {[%clk 0:01:28]}  Ng6 {[%clk 0:00:33]} 26. Rh2 {[%clk 0:01:35]}  bxa4 {[%clk 0:00:30]} 27. Nc1 {[%clk 0:01:44]}  Rh8 {[%clk 0:00:30]} 28. Bxg6 {[%clk 0:01:51]}  Rxh2 {[%clk 0:00:12]} 29. Bxh2 {[%clk 0:02:01]}  fxg6 {[%clk 0:00:22]} 30. Qxa6 {[%clk 0:02:09]}  Qc8 {[%clk 0:00:20]} 31. Qxc8+ {[%clk 0:02:10]}  Kxc8 {[%clk 0:00:29]} 32. Ka2 {[%clk 0:02:20]}  Nd7 {[%clk 0:00:33]} 33. Nd3 {[%clk 0:02:28]}  Kb7 {[%clk 0:00:34]} 34. Ka3 {[%clk 0:02:37]}  Nb6 {[%clk 0:00:42]} 35. Ne5 {[%clk 0:02:33]} 1-0
+
+
+
+[Event "2020-danzhou"]
+[White "Ding, Liren"]
+[Black "Wang, Hao"]
+[WhiteFideId "8603677"]
+[BlackFideId "8602883"]
+[WhiteElo "2791"]
+[BlackElo "2763"]
+[Result "1-0"]
+[Round "03"]
+[Date "Fri Dec 04 2020"]
+[WhiteClock "0:07:22"]
+[BlackClock "0:04:15"]
+
+
+1. d4 {[%clk 0:15:09]}  d5 {[%clk 0:15:07]} 2. c4 {[%clk 0:15:18]}  e6 {[%clk 0:15:13]} 3. Nc3 {[%clk 0:15:25]}  Be7 {[%clk 0:15:22]} 4. Nf3 {[%clk 0:15:33]}  Nf6 {[%clk 0:15:30]} 5. Bf4 {[%clk 0:15:42]}  O-O {[%clk 0:15:38]} 6. a3 {[%clk 0:15:51]}  c5 {[%clk 0:14:55]} 7. dxc5 {[%clk 0:15:56]}  Bxc5 {[%clk 0:13:39]} 8. e3 {[%clk 0:16:00]}  Nc6 {[%clk 0:13:45]} 9. Qc2 {[%clk 0:15:48]}  Qa5 {[%clk 0:13:42]} 10. Rd1 {[%clk 0:15:38]}  Re8 {[%clk 0:13:34]} 11. Nd2 {[%clk 0:14:00]}  e5 {[%clk 0:13:40]} 12. Bg5 {[%clk 0:14:09]}  Nd4 {[%clk 0:13:46]} 13. Qb1 {[%clk 0:14:07]}  Bf5 {[%clk 0:13:42]} 14. Bd3 {[%clk 0:14:15]}  Bxd3 {[%clk 0:13:45]} 15. Qxd3 {[%clk 0:14:24]}  Ne4 {[%clk 0:13:31]} 16. Nxd5 {[%clk 0:14:10]}  Nxg5 {[%clk 0:13:36]} 17. b4 {[%clk 0:14:19]}  Qd8 {[%clk 0:13:05]} 18. bxc5 {[%clk 0:14:25]}  Nde6 {[%clk 0:13:13]} 19. h4 {[%clk 0:14:03]}  Nxc5 {[%clk 0:13:18]} 20. Qf5 {[%clk 0:14:12]}  Nge6 {[%clk 0:13:20]} 21. Nf3 {[%clk 0:14:16]}  f6 {[%clk 0:13:10]} 22. h5 {[%clk 0:12:58]}  h6 {[%clk 0:11:59]} 23. O-O {[%clk 0:10:09]}  Qc8 {[%clk 0:06:41]} 24. Qg6 {[%clk 0:09:43]}  Nd7 {[%clk 0:06:18]} 25. Nh4 {[%clk 0:09:26]}  Nef8 {[%clk 0:05:15]} 26. Qg4 {[%clk 0:08:51]}  Kh8 {[%clk 0:04:08]} 27. Nf5 {[%clk 0:08:48]}  Ne6 {[%clk 0:04:05]} 28. Nde7 {[%clk 0:07:44]}  Qc7 {[%clk 0:04:08]} 29. Ng6+ {[%clk 0:07:13]}  Kh7 {[%clk 0:04:15]} 30. Nxg7 {[%clk 0:07:22]} 1-0
+
+
+
+[Event "2020-danzhou"]
+[White "Ding, Liren"]
+[Black "Yu, Yangyi"]
+[WhiteFideId "8603677"]
+[BlackFideId "8603820"]
+[WhiteElo "2791"]
+[BlackElo "2709"]
+[Result "1-0"]
+[Round "12"]
+[Date "Tue Dec 08 2020"]
+[WhiteClock "0:02:38"]
+[BlackClock "0:00:10"]
+
+
+1. d4 {[%clk 0:15:03]}  d5 {[%clk 0:15:08]} 2. c4 {[%clk 0:15:10]}  c6 {[%clk 0:15:14]} 3. Nc3 {[%clk 0:15:10]}  Nf6 {[%clk 0:15:06]} 4. e3 {[%clk 0:15:19]}  Nbd7 {[%clk 0:15:13]} 5. Nf3 {[%clk 0:15:13]}  e6 {[%clk 0:15:20]} 6. Be2 {[%clk 0:15:16]}  Bd6 {[%clk 0:14:36]} 7. O-O {[%clk 0:15:23]}  O-O {[%clk 0:14:27]} 8. b3 {[%clk 0:15:31]}  b6 {[%clk 0:13:53]} 9. a4 {[%clk 0:15:37]}  a5 {[%clk 0:13:34]} 10. Bb2 {[%clk 0:15:44]}  Bb7 {[%clk 0:13:41]} 11. Bd3 {[%clk 0:15:12]}  Qe7 {[%clk 0:13:04]} 12. Qc2 {[%clk 0:15:18]}  Rac8 {[%clk 0:12:41]} 13. e4 {[%clk 0:13:25]}  e5 {[%clk 0:08:37]} 14. Rfe1 {[%clk 0:12:51]}  dxc4 {[%clk 0:08:34]} 15. Bxc4 {[%clk 0:12:51]}  g6 {[%clk 0:07:10]} 16. Rad1 {[%clk 0:12:49]}  exd4 {[%clk 0:06:52]} 17. Nxd4 {[%clk 0:12:18]}  Ne5 {[%clk 0:07:01]} 18. h3 {[%clk 0:11:21]}  Rfd8 {[%clk 0:06:48]} 19. Re3 {[%clk 0:08:10]}  Bc5 {[%clk 0:06:05]} 20. Nce2 {[%clk 0:08:18]}  b5 {[%clk 0:06:07]} 21. Bd3 {[%clk 0:08:27]}  bxa4 {[%clk 0:05:57]} 22. bxa4 {[%clk 0:08:35]}  Nxd3 {[%clk 0:04:33]} 23. Rexd3 {[%clk 0:07:28]}  Nxe4 {[%clk 0:02:49]} 24. Re3 {[%clk 0:06:55]}  Bxd4 {[%clk 0:02:57]} 25. Rxe4 {[%clk 0:06:43]}  Qxe4 {[%clk 0:02:08]} 26. Qxe4 {[%clk 0:06:50]}  Bxb2 {[%clk 0:02:17]} 27. Rb1 {[%clk 0:01:45]}  Rd2 {[%clk 0:02:22]} 28. Ng3 {[%clk 0:01:40]}  Rcd8 {[%clk 0:00:46]} 29. Nf1 {[%clk 0:01:46]}  Rd1 {[%clk 0:00:22]} 30. Rxd1 {[%clk 0:01:47]}  Rxd1 {[%clk 0:00:31]} 31. Qe8+ {[%clk 0:01:57]}  Kg7 {[%clk 0:00:40]} 32. Qe2 {[%clk 0:02:06]}  Rb1 {[%clk 0:00:41]} 33. Qc2 {[%clk 0:02:15]}  Rxf1+ {[%clk 0:00:48]} 34. Kxf1 {[%clk 0:02:24]}  Bd4 {[%clk 0:00:45]} 35. Qd2 {[%clk 0:02:14]}  c5 {[%clk 0:00:51]} 36. Qxa5 {[%clk 0:02:22]}  Bc6 {[%clk 0:00:39]} 37. Qa6 {[%clk 0:02:29]}  Bd5 {[%clk 0:00:18]} 38. a5 {[%clk 0:02:27]}  Be6 {[%clk 0:00:10]} 39. Qb6 {[%clk 0:02:31]}  Bc4+ {[%clk 0:00:10]} 40. Kg1 {[%clk 0:02:38]} 1-0
+
+
+
+[Event "2020-danzhou"]
+[White "Ding, Liren"]
+[Black "Topalov, Veselin"]
+[WhiteFideId "8603677"]
+[BlackFideId "2900084"]
+[WhiteElo "2791"]
+[BlackElo "2735"]
+[Result "1/2-1/2"]
+[Round "14"]
+[Date "Wed Dec 09 2020"]
+[WhiteClock "0:01:16"]
+[BlackClock "0:01:40"]
+
+
+1. c4 {[%clk 0:15:10]}  g6 {[%clk 0:14:55]} 2. e4 {[%clk 0:15:16]}  e5 {[%clk 0:15:03]} 3. d4 {[%clk 0:14:34]}  Nf6 {[%clk 0:15:09]} 4. Nf3 {[%clk 0:13:42]}  exd4 {[%clk 0:15:09]} 5. e5 {[%clk 0:13:42]}  Bb4+ {[%clk 0:15:16]} 6. Bd2 {[%clk 0:13:51]}  Qe7 {[%clk 0:15:24]} 7. Bxb4 {[%clk 0:13:52]}  Qxb4+ {[%clk 0:15:32]} 8. Qd2 {[%clk 0:14:01]}  Qxd2+ {[%clk 0:15:39]} 9. Nbxd2 {[%clk 0:14:11]}  Nh5 {[%clk 0:15:40]} 10. Nxd4 {[%clk 0:14:20]}  b6 {[%clk 0:14:58]} 11. Be2 {[%clk 0:13:59]}  Bb7 {[%clk 0:14:50]} 12. Bxh5 {[%clk 0:11:44]}  gxh5 {[%clk 0:14:57]} 13. f3 {[%clk 0:11:52]}  Na6 {[%clk 0:14:47]} 14. Nf1 {[%clk 0:08:43]}  O-O-O {[%clk 0:13:30]} 15. Ng3 {[%clk 0:07:19]}  Rde8 {[%clk 0:13:11]} 16. Kf2 {[%clk 0:07:24]}  Rxe5 {[%clk 0:12:53]} 17. Rhe1 {[%clk 0:07:21]}  f6 {[%clk 0:12:15]} 18. h4 {[%clk 0:07:05]}  Nb4 {[%clk 0:10:10]} 19. Red1 {[%clk 0:07:10]}  Rhe8 {[%clk 0:09:30]} 20. Rd2 {[%clk 0:06:36]}  a5 {[%clk 0:09:25]} 21. b3 {[%clk 0:06:40]}  Na6 {[%clk 0:08:48]} 22. Nde2 {[%clk 0:06:07]}  d5 {[%clk 0:07:43]} 23. Rc1 {[%clk 0:05:32]}  dxc4 {[%clk 0:05:37]} 24. Rxc4 {[%clk 0:05:39]}  Nc5 {[%clk 0:04:37]} 25. Nf4 {[%clk 0:05:39]}  Ba6 {[%clk 0:04:35]} 26. Rc3 {[%clk 0:04:11]}  Rd8 {[%clk 0:04:38]} 27. Rxd8+ {[%clk 0:04:05]}  Kxd8 {[%clk 0:04:46]} 28. Ngxh5 {[%clk 0:04:15]}  Ke7 {[%clk 0:04:44]} 29. g4 {[%clk 0:04:17]}  Bc8 {[%clk 0:04:11]} 30. Kg3 {[%clk 0:03:26]}  Bd7 {[%clk 0:04:02]} 31. a3 {[%clk 0:03:31]}  c6 {[%clk 0:03:48]} 32. b4 {[%clk 0:03:24]}  axb4 {[%clk 0:03:45]} 33. axb4 {[%clk 0:03:34]}  Na6 {[%clk 0:03:53]} 34. Rc4 {[%clk 0:03:28]}  c5 {[%clk 0:01:21]} 35. bxc5 {[%clk 0:03:20]}  Nxc5 {[%clk 0:01:16]} 36. Rd4 {[%clk 0:03:20]}  Bc6 {[%clk 0:01:22]} 37. Ng7 {[%clk 0:03:19]}  Kf7 {[%clk 0:01:18]} 38. Nf5 {[%clk 0:03:26]}  Ne6 {[%clk 0:01:06]} 39. Nxe6 {[%clk 0:01:56]}  Rxe6 {[%clk 0:01:15]} 40. h5 {[%clk 0:02:05]}  b5 {[%clk 0:01:18]} 41. Rd8 {[%clk 0:02:09]}  Re8 {[%clk 0:01:02]} 42. Rd6 {[%clk 0:02:12]}  Re6 {[%clk 0:01:10]} 43. Rd4 {[%clk 0:02:00]}  Re5 {[%clk 0:01:18]} 44. Rd8 {[%clk 0:01:41]}  Re8 {[%clk 0:01:25]} 45. Rd6 {[%clk 0:01:07]}  Re6 {[%clk 0:01:32]} 46. Rd8 {[%clk 0:01:16]}  Re8 {[%clk 0:01:40]} 1/2-1/2
+
+
+
+[Event "2021-candidates-chess-tournament"]
+[White "Ding, Liren"]
+[Black "Alekseenko, Kirill"]
+[WhiteFideId "8603677"]
+[BlackFideId "4135539"]
+[WhiteElo "2791"]
+[BlackElo "2696"]
+[Result "1/2-1/2"]
+[Round "07"]
+[Date "Wed Mar 25 2020"]
+[WhiteClock "0:29:38"]
+[BlackClock "0:06:57"]
+
+
+1. d4 {[%clk 1:41:38]}  Nf6 {[%clk 1:41:08]} 2. c4 {[%clk 1:41:38]}  e6 {[%clk 1:41:08]} 3. g3 {[%clk 1:41:38]}  Bb4+ {[%clk 1:41:03]} 4. Bd2 {[%clk 1:42:10]}  Be7 {[%clk 1:41:19]} 5. Bg2 {[%clk 1:42:37]}  d5 {[%clk 1:41:27]} 6. Nf3 {[%clk 1:43:05]}  O-O {[%clk 1:41:43]} 7. O-O {[%clk 1:43:26]}  Nbd7 {[%clk 1:42:06]} 8. Qc2 {[%clk 1:43:20]}  c6 {[%clk 1:42:08]} 9. Bf4 {[%clk 1:43:47]}  b6 {[%clk 1:41:17]} 10. Rd1 {[%clk 1:44:10]}  Ba6 {[%clk 1:40:45]} 11. Nbd2 {[%clk 1:44:34]}  Rc8 {[%clk 1:32:02]} 12. Rac1 {[%clk 1:44:42]}  Nh5 {[%clk 1:27:05]} 13. Be3 {[%clk 1:45:01]}  Nhf6 {[%clk 1:24:43]} 14. Bg5 {[%clk 1:45:13]}  Bb7 {[%clk 1:07:41]} 15. Ne5 {[%clk 1:37:20]}  Nxe5 {[%clk 0:58:53]} 16. dxe5 {[%clk 1:38:12]}  Ng4 {[%clk 0:58:52]} 17. Bxe7 {[%clk 1:36:49]}  Qxe7 {[%clk 0:59:21]} 18. Nf3 {[%clk 1:36:55]}  f6 {[%clk 0:57:25]} 19. exf6 {[%clk 1:28:39]}  Nxf6 {[%clk 0:52:59]} 20. Bh3 {[%clk 1:01:17]}  Rce8 {[%clk 0:47:47]} 21. Qa4 {[%clk 0:53:07]}  c5 {[%clk 0:47:41]} 22. b4 {[%clk 0:42:33]}  cxb4 {[%clk 0:37:38]} 23. Qxa7 {[%clk 0:41:58]}  Ne4 {[%clk 0:23:11]} 24. Qxb6 {[%clk 0:41:36]}  Nc3 {[%clk 0:23:25]} 25. Re1 {[%clk 0:42:02]}  dxc4 {[%clk 0:21:45]} 26. a3 {[%clk 0:42:25]}  Bd5 {[%clk 0:07:15]} 27. Qxb4 {[%clk 0:38:28]}  Qxb4 {[%clk 0:06:30]} 28. axb4 {[%clk 0:37:35]}  Nxe2+ {[%clk 0:05:57]} 29. Rxe2 {[%clk 0:38:01]}  Rxf3 {[%clk 0:06:21]} 30. Bg2 {[%clk 0:32:04]}  Rff8 {[%clk 0:06:40]} 31. Rd2 {[%clk 0:30:48]}  Rb8 {[%clk 0:05:57]} 32. Bxd5 {[%clk 0:33:08]}  exd5 {[%clk 0:06:23]} 33. Rxd5 {[%clk 0:33:34]}  Rxb4 {[%clk 0:06:45]} 34. Rc2 {[%clk 0:25:24]}  Rc8 {[%clk 0:06:57]} 35. Kf1 {[%clk 0:29:52]}  c3 {[%clk 0:06:48]} 36. Ke2 {[%clk 0:29:52]}  Rb7 {[%clk 0:07:02]} 37. Rd3 {[%clk 0:28:14]}  Rb2 {[%clk 0:05:18]} 38. Kd1 {[%clk 0:29:00]}  Rb1+ {[%clk 0:05:37]} 39. Ke2 {[%clk 0:29:12]}  Rb2 {[%clk 0:06:01]} 40. Kd1 {[%clk 0:29:38]}  Rb1+ {[%clk 0:06:57]} 1/2-1/2
+
+
+
+[Event "Speed Chess Championship Main Event 2021"]
+[White "Ding, Liren"]
+[Black "Mamedyarov, Shakhriyar"]
+[WhiteFideId "8603677"]
+[BlackFideId "13401319"]
+[WhiteElo "2788"]
+[BlackElo "2754"]
+[Result "1/2-1/2"]
+[Round "06-07"]
+[TimeControl "60+1"]
+[Date "2021.11.09"]
+[WhiteClock "0:00:10"]
+[BlackClock "0:00:10"]
+
+1. d4 {[%clk 0:01:01]}  Nf6 {[%clk 0:00:59]} 2. c4 {[%clk 0:00:59]}  e6 {[%clk 0:01:00]} 3. Nf3 {[%clk 0:01:00]}  d5 {[%clk 0:01:00]} 4. g3 {[%clk 0:00:59]}  Bb4+ {[%clk 0:00:59]} 5. Bd2 {[%clk 0:00:59]}  Bd6 {[%clk 0:00:59]} 6. Bg2 {[%clk 0:00:59]}  O-O {[%clk 0:01:00]} 7. Qc2 {[%clk 0:01:00]}  Nc6 {[%clk 0:01:00]} 8. O-O {[%clk 0:01:00]}  dxc4 {[%clk 0:01:00]} 9. Rd1 {[%clk 0:01:00]}  Qe7 {[%clk 0:01:00]} 10. Bg5 {[%clk 0:00:51]}  h6 {[%clk 0:00:54]} 11. Bxf6 {[%clk 0:00:51]}  Qxf6 {[%clk 0:00:55]} 12. Qxc4 {[%clk 0:00:50]}  e5 {[%clk 0:00:54]} 13. d5 {[%clk 0:00:50]}  Nd4 {[%clk 0:00:42]} 14. Nxd4 {[%clk 0:00:50]}  exd4 {[%clk 0:00:42]} 15. Nd2 {[%clk 0:00:50]}  Bf5 {[%clk 0:00:42]} 16. Nf3 {[%clk 0:00:47]}  d3 {[%clk 0:00:42]} 17. e4 {[%clk 0:00:45]}  Bg6 {[%clk 0:00:40]} 18. Rd2 {[%clk 0:00:34]}  Rfe8 {[%clk 0:00:38]} 19. Re1 {[%clk 0:00:34]}  b5 {[%clk 0:00:38]} 20. Qxd3 {[%clk 0:00:29]}  Bb4 {[%clk 0:00:38]} 21. Nd4 {[%clk 0:00:17]}  a6 {[%clk 0:00:36]} 22. a3 {[%clk 0:00:16]}  Bxd2 {[%clk 0:00:36]} 23. Qxd2 {[%clk 0:00:17]}  Rad8 {[%clk 0:00:36]} 24. f4 {[%clk 0:00:16]}  c5 {[%clk 0:00:35]} 25. e5 {[%clk 0:00:14]}  Qb6 {[%clk 0:00:33]} 26. Nc2 {[%clk 0:00:12]}  c4+ {[%clk 0:00:28]} 27. Qd4 {[%clk 0:00:12]}  Qxd4+ {[%clk 0:00:25]} 28. Nxd4 {[%clk 0:00:12]}  Bd3 {[%clk 0:00:25]} 29. Kf2 {[%clk 0:00:12]}  Rd7 {[%clk 0:00:24]} 30. d6 {[%clk 0:00:12]}  Rdd8 {[%clk 0:00:21]} 31. Bc6 {[%clk 0:00:12]}  Rf8 {[%clk 0:00:21]} 32. Ke3 {[%clk 0:00:11]}  Rb8 {[%clk 0:00:21]} 33. b3 {[%clk 0:00:11]}  b4 {[%clk 0:00:18]} 34. axb4 {[%clk 0:00:10]}  Rxb4 {[%clk 0:00:19]} 35. e6 {[%clk 0:00:10]}  fxe6 {[%clk 0:00:16]} 36. Nxe6 {[%clk 0:00:11]}  Rxb3 {[%clk 0:00:16]} 37. Nxf8 {[%clk 0:00:10]}  Kxf8 {[%clk 0:00:14]} 38. d7 {[%clk 0:00:10]}  Bf5+ {[%clk 0:00:14]} 39. Kf2 {[%clk 0:00:08]}  Rb2+ {[%clk 0:00:12]} 40. Kg1 {[%clk 0:00:07]}  Bxd7 {[%clk 0:00:12]} 41. Bxd7 {[%clk 0:00:07]}  c3 {[%clk 0:00:13]} 42. Rc1 {[%clk 0:00:06]}  Ke7 {[%clk 0:00:09]} 43. Bf5 {[%clk 0:00:07]}  Rb3 {[%clk 0:00:09]} 44. Kf2 {[%clk 0:00:06]}  a5 {[%clk 0:00:10]} 45. Ke3 {[%clk 0:00:06]}  a4 {[%clk 0:00:10]} 46. Kd4 {[%clk 0:00:06]}  a3 {[%clk 0:00:10]} 47. Rxc3 {[%clk 0:00:06]}  a2 {[%clk 0:00:11]} 48. Rc1 {[%clk 0:00:07]}  Rb2 {[%clk 0:00:08]} 49. Ra1 {[%clk 0:00:06]}  Rxh2 {[%clk 0:00:08]} 50. Be4 {[%clk 0:00:06]}  Kf6 {[%clk 0:00:07]} 51. Bd5 {[%clk 0:00:06]}  Rd2+ {[%clk 0:00:07]} 52. Ke4 {[%clk 0:00:06]}  Re2+ {[%clk 0:00:07]} 53. Kf3 {[%clk 0:00:06]}  Rd2 {[%clk 0:00:08]} 54. Bxa2 {[%clk 0:00:06]}  Rd3+ {[%clk 0:00:08]} 55. Kg2 {[%clk 0:00:06]}  Ra3 {[%clk 0:00:09]} 56. Kh3 {[%clk 0:00:04]}  Ra5 {[%clk 0:00:08]} 57. Kg4 {[%clk 0:00:04]}  Ra3 {[%clk 0:00:09]} 58. Kh3 {[%clk 0:00:04]}  Ra5 {[%clk 0:00:09]} 59. Kg2 {[%clk 0:00:05]}  Ra3 {[%clk 0:00:10]} 60. Kf2 {[%clk 0:00:04]}  h5 {[%clk 0:00:10]} 61. Kg2 {[%clk 0:00:04]}  g6 {[%clk 0:00:10]} 62. Kh3 {[%clk 0:00:04]}  Ra5 {[%clk 0:00:11]} 63. Kh4 {[%clk 0:00:04]}  Ra3 {[%clk 0:00:11]} 64. Kh3 {[%clk 0:00:05]}  Ra5 {[%clk 0:00:11]} 65. Kh2 {[%clk 0:00:05]}  Ra3 {[%clk 0:00:11]} 66. Kg2 {[%clk 0:00:05]}  Ra5 {[%clk 0:00:12]} 67. Kf2 {[%clk 0:00:05]}  Ra3 {[%clk 0:00:12]} 68. Kg2 {[%clk 0:00:06]}  Ra5 {[%clk 0:00:12]} 69. Kh3 {[%clk 0:00:06]}  Ra3 {[%clk 0:00:13]} 70. Rb1 {[%clk 0:00:07]}  Rxa2 {[%clk 0:00:12]} 71. Rb6+ {[%clk 0:00:08]}  Kg7 {[%clk 0:00:13]} 72. Rb7+ {[%clk 0:00:08]}  Kh6 {[%clk 0:00:13]} 73. Rb6 {[%clk 0:00:09]}  Kg7 {[%clk 0:00:13]} 74. Kh4 {[%clk 0:00:09]}  Kh6 {[%clk 0:00:10]} 75. Kh3 {[%clk 0:00:10]}  Kg7 {[%clk 0:00:10]} 1/2-1/2
+
+
+
+
+
+[Event "Ding Liren vs. Lu Shanglei Friendly Match 2021"]
+[White "Ding, Liren"]
+[Black "Lu, Shanglei"]
+[WhiteFideId "8603677"]
+[BlackFideId "8603332"]
+[WhiteElo "2799"]
+[BlackElo "2616"]
+[Result "1/2-1/2"]
+[Round "02"]
+[TimeControl "5400+30"]
+[Date "2021.11.23"]
+[WhiteClock "0:12:31"]
+[BlackClock "0:21:20"]
+
+1. c4 {[%clk 1:30:56]}  c6 {[%clk 1:30:43]} 2. Nf3 {[%clk 1:30:10]}  Nf6 {[%clk 1:31:06]} 3. d4 {[%clk 1:30:32]}  d5 {[%clk 1:31:30]} 4. e3 {[%clk 1:30:38]}  e6 {[%clk 1:31:50]} 5. b3 {[%clk 1:30:18]}  Nbd7 {[%clk 1:31:26]} 6. Bd3 {[%clk 1:27:49]}  Bd6 {[%clk 1:29:35]} 7. Bb2 {[%clk 1:28:12]}  b6 {[%clk 1:29:18]} 8. O-O {[%clk 1:28:26]}  Bb7 {[%clk 1:29:44]} 9. Nbd2 {[%clk 1:25:46]}  O-O {[%clk 1:30:04]} 10. Qe2 {[%clk 1:26:12]}  Qe7 {[%clk 1:30:25]} 11. Rad1 {[%clk 1:19:57]}  Rad8 {[%clk 1:21:52]} 12. Rfe1 {[%clk 1:10:19]}  Ba3 {[%clk 1:19:32]} 13. Bxa3 {[%clk 0:56:41]}  Qxa3 {[%clk 1:19:18]} 14. e4 {[%clk 0:56:41]}  dxe4 {[%clk 1:19:18]} 15. Nxe4 {[%clk 0:56:41]}  c5 {[%clk 1:13:32]} 16. d5 {[%clk 0:56:50]}  Nxe4 {[%clk 1:07:17]} 17. Bxe4 {[%clk 0:46:33]}  Nf6 {[%clk 1:01:51]} 18. dxe6 {[%clk 0:45:11]}  Rxd1 {[%clk 1:02:05]} 19. Qxd1 {[%clk 0:45:11]}  Bxe4 {[%clk 1:02:05]} 20. exf7+ {[%clk 0:45:37]}  Rxf7 {[%clk 1:00:48]} 21. Ne5 {[%clk 0:45:27]}  Bf5 {[%clk 0:47:05]} 22. Nxf7 {[%clk 0:40:52]}  Kxf7 {[%clk 0:47:30]} 23. Re5 {[%clk 0:40:52]}  Bc8 {[%clk 0:47:30]} 24. h3 {[%clk 0:14:44]}  Qxa2 {[%clk 0:29:42]} 25. Qd6 {[%clk 0:15:05]}  Qa1+ {[%clk 0:29:07]} 26. Kh2 {[%clk 0:15:30]}  Qd4 {[%clk 0:29:29]} 27. Qe7+ {[%clk 0:10:59]}  Kg8 {[%clk 0:29:29]} 28. Rg5 {[%clk 0:11:52]}  Qf4+ {[%clk 0:19:40]} 29. Rg3 {[%clk 0:11:52]}  Ng4+ {[%clk 0:20:03]} 30. hxg4 {[%clk 0:12:13]}  Qh6+ {[%clk 0:20:30]} 31. Rh3 {[%clk 0:12:31]}  Qf4+ {[%clk 0:20:54]} 32. Rg3 {[%clk 0:12:31]}  Qh6+ {[%clk 0:21:20]} 1/2-1/2

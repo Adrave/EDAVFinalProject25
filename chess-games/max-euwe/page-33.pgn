@@ -1,0 +1,557 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Adolf Georg Olland"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C43"]
+[EventDate "????.??.??"]
+[PlyCount "88"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 c6
+8. Qc2 Re8 9. f3 Nf6 10. f4 dxc4 11. Bxc4 Be6 12. Bxe6 Rxe6 13. Nc3 Na6
+14. Be3 Nb4 15. Qd2 Nbd5 16. Rae1 Qc7 17. Bf2 Nxc3 18. bxc3 Nd5 19. f5 Re7
+20. c4 Bb4 21. Qd3 Bxe1 22. Bxe1 f6 23. cxd5 fxe5 24. Bb4 e4 25. Qe3 cxd5
+26. Rc1 Qd7 27. Bxe7 Qxe7 28. Qg3 Rf8 29. Rc5 Rxf5 30. h3 h6 31. Qb8+ Kh7
+32. Rc8 Qf7 33. Rh8+ Kg6 34. Qg3+ Rg5 35. Qd6+ Qf6 36. Qd7 Qxd4+ 37. Kh1 Qa1+
+38. Kh2 Qe5+ 39. Kg1 Qf6 40. g4 Re5 41. Qxb7 e3 42. Qb1+ Re4 43. Re8 e2
+44. Rxe4 Qf1+
+0-1
+
+
+[Event "?"]
+[Site "?"]
+[Date "1922.02.10"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Alexander Rueb"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C13"]
+[EventDate "????.??.??"]
+[PlyCount "100"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Nc6 7. Qg4 Bxg5
+8. hxg5 Nf8 9. g6 Nxg6 10. Bd3 Nce7 11. O-O-O Bd7 12. Nge2 c6 13. Nf4 Nxf4
+14. Qxf4 Ng6 15. Qg4 Kf8 16. Bxg6 fxg6 17. Qxg6 hxg6 18. Rxh8+ Kf7 19. Rxd8 Rxd8
+20. Rh1 g5 21. Kd2 Kg6 22. Ke3 Rf8 23. Ne2 b6 24. b4 Rc8 25. Rb1 Rh8 26. Rb3 Rc8
+27. c4 dxc4 28. Rc3 b5 29. Ra3 Rc7 30. Ng3 c5 31. dxc5 Bc6 32. Ne2 Bxg2
+33. Nd4 Bd5 34. Ra6 Rf7 35. Rd6 Rf4 36. Nxb5 Rf3+ 37. Ke2 c3 38. Nd4 Rf4
+39. Nxe6 Bxe6 40. Rxe6+ Kf5 41. Ra6 Rxf2+ 42. Kd1 Ke4 43. e6 Kd3 44. Rd6+ Kc4
+45. Kc1 Rxa2 46. e7 Kb3 47. Kd1 c2+ 48. Kd2 Kb2 49. e8=Q c1=Q+ 50. Kd3 Qc3+
+0-1
+
+
+[Event "Simul, 29b"]
+[Site "NED"]
+[Date "1922.09.03"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Joseph Louis Kersten"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C45"]
+[EventDate "????.??.??"]
+[PlyCount "48"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Be2 d5
+8. Nxc6 Bxe3 9. fxe3 Qh4+ 10. g3 Qxe4 11. O-O Qxe3+ 12. Kh1 bxc6 13. Rf3 Qh6
+14. Nd2 O-O 15. Nb3 Bg4 16. Rf2 Qe3 17. Qf1 Bh3 18. Qg1 Nf5 19. Bf3 Rae8
+20. g4 Nh4 21. Qg3 Qe1+ 22. Qg1 Nxf3 23. Rxf3 Qe4 24. Nd2 Bxg4
+0-1
+
+
+[Event "VAS simul"]
+[Site "Amsterdam NED"]
+[Date "1922.12.17"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Theodoor van Hoorn"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C80"]
+[EventDate "????.??.??"]
+[PlyCount "74"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. d5 bxa4
+8. dxc6 d6 9. c4 Be7 10. Qxa4 O-O 11. Nbd2 Nc5 12. Qc2 f5 13. b4 Ne6 14. Bb2 Qe8
+15. b5 Nf4 16. Kh1 Qg6 17. Rg1 e4 18. Nd4 Nd3 19. Nf1 Bh4 20. g3 Bf6 21. Bc3 Qh5
+22. Ne3 Bxd4 23. Bxd4 Qf3+ 24. Ng2 f4 25. Qd1 Qxf2 26. Qxd3 Qxg1+ 27. Rxg1 exd3
+28. Nxf4 axb5 29. cxb5 Rxa2 30. Rd1 Bf5 31. b6 Be4+ 32. Kg1 Bxc6 33. bxc7 Rc2
+34. Rxd3 Re8 35. Rd1 Bf3 36. Rf1 Bb7 37. Bb6 g5
+0-1
+
+
+[Event "Rotterdam simul"]
+[Site "Rotterdam NED"]
+[Date "1922.10.28"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Jan Elshout Visser"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D05"]
+[EventDate "????.??.??"]
+[PlyCount "78"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. b3 Nc6 6. O-O a6 7. Bb2 Nb4 8. Be2 Bd6
+9. a3 Nc6 10. Nbd2 Qe7 11. Bd3 e5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Bxe5 Qxe5
+15. e4 O-O 16. exd5 Qxd5 17. Nc4 Qd4 18. Qf3 Rb8 19. Rad1 Bg4 20. Qg3 Bxd1
+21. Rxd1 Qg4 22. Qxg4 Nxg4 23. Nb6 Rfd8 24. Re1 Re8 25. Rd1 Rbd8 26. f4 Rd6
+27. h3 Rxb6 28. hxg4 Rbe6 29. Kf2 b5 30. a4 Rb6 31. axb5 axb5 32. Ra1 g6
+33. Ra7 Rc8 34. c4 Rd6 35. Be4 bxc4 36. bxc4 Rd4 37. Kf3 Rxc4 38. Bd5 Rc3+
+39. Ke4 Re8+
+0-1
+
+
+[Event "Simul, 26b"]
+[Site "Hilversum NED"]
+[Date "1923.09.26"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Salomon Frank"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C30"]
+[EventDate "????.??.??"]
+[PlyCount "90"]
+[WhiteElo "?"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. Bb5 Bd7 5. O-O Nf6 6. d3 Nd4 7. Bxd7+ Qxd7
+8. Nxd4 exd4 9. e5 dxe5 10. fxe5 Nd5 11. Bg5 Ne7 12. Nd2 O-O-O 13. Rxf7 Qe6
+14. Qf3 h6 15. Bh4 g5 16. Bg3 Nc6 17. Re1 Bb4 18. Re2 Rdf8 19. Rf6 Qe8
+20. Ne4 Nxe5 21. Bxe5 Qxe5 22. Qh3+ Kb8 23. Rxf8+ Rxf8 24. Qxh6 Qf4
+25. Qxf8+ Qxf8 26. Nxg5 a6 27. g3 Qg8 28. Ne4 Bd6 29. Nxd6 cxd6 30. Kg2 Qxa2
+31. b3 Qa5 32. h4 Qd5+ 33. Kh3 Kc7 34. g4 Kc6 35. h5 b5 36. Rf2 Qg5 37. Kg3 Qe3+
+38. Kg2 a5 39. Rf3 Qg5 40. Kg3 a4 41. bxa4 bxa4 42. Rf5 Qe3+ 43. Kh4 a3
+44. Ra5 Qe1+ 45. Kh3 Qxa5
+0-1
+
+
+[Event "Haarlem"]
+[Site "Haarlem NED"]
+[Date "1919.08.??"]
+[Round "2"]
+[White "Max Euwe"]
+[Black "Boudewijn Johannes van Trotsenburg"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C29"]
+[EventDate "????.??.??"]
+[PlyCount "38"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nxc3 7. bxc3 O-O
+8. d4 f6 9. Qf2 fxe5 10. dxe5 Nc6 11. Qg3 Nxe5 12. Qxe5 Bf6 13. Qg3 Bxc3+
+14. Kf2 Bxa1 15. Be3 Bf6 16. h4 Qd6 17. Qxd6 cxd6 18. Bd3 Bg4 19. Kg3 Bxf3
+0-1
+
+
+[Event "VAS Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1919.09.??"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Max Marchand"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C02"]
+[EventDate "????.??.??"]
+[PlyCount "88"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7
+8. Be2 Nge7 9. b3 Nf5 10. Bb2 Bb4+ 11. Kf1 Be7 12. g3 Rc8 13. Kg2 O-O 14. h4 h5
+15. Bd3 f6 16. Bxf5 exf5 17. Nc3 Be6 18. Re1 fxe5 19. Nxe5 Nxe5 20. dxe5 f4
+21. Na4 Qa5 22. Rc1 fxg3 23. fxg3 b5 24. Nc3 d4 25. Qxd4 Bc5 26. Qd2 Rf2+
+27. Qxf2 Bxf2 28. Kxf2 Rd8 29. Rcd1 b4 30. Rxd8+ Qxd8 31. Ne4 Qb6+ 32. Kf3 Bd5
+33. Re2 Qe6 34. Ke3 Bxe4 35. Kxe4 Qg4+ 36. Kd3 Qxg3+ 37. Kd2 Qxh4 38. e6 Qe7
+39. Bd4 Kf8 40. Re5 Qd6 41. Ke3 Ke8 42. Ke4 Qc6+ 43. Kf4 Qc1+ 44. Kf5 Qd1
+0-1
+
+
+[Event "Scheveningen"]
+[Site "Scheveningen NED"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "G J van Gelder"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D24"]
+[EventDate "????.??.??"]
+[PlyCount "62"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 Bf5 5. e3 e6 6. Bxc4 Nbd7 7. O-O Be7
+8. Re1 O-O 9. e4 Bg6 10. Bg5 Nxe4 11. Bxe7 Nxc3 12. Bxd8 Nxd1 13. Be7 Nxb2
+14. Bxf8 Kxf8 15. Bf1 Rd8 16. Nh4 Nb6 17. Nxg6+ hxg6 18. Rac1 c6 19. Rc2 N2a4
+20. Rd1 Rd5 21. Be2 Ke7 22. Kf1 Ra5 23. Rb1 Rd5 24. Rd1 Ra5 25. Rb1 Rd5
+26. Rd1 Rd7 27. Rd3 Nc8 28. Ke1 Nab6 29. Rd1 Nd6 30. Bd3 Nd5 31. f3 Ne3
+0-1
+
+
+[Event "Amsterdam m3"]
+[Site "Amsterdam NED"]
+[Date "1920.03.??"]
+[Round "7"]
+[White "Max Euwe"]
+[Black "Max Marchand"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "A81"]
+[EventDate "????.??.??"]
+[PlyCount "56"]
+[WhiteElo "?"]
+
+1. d4 e6 2. g3 f5 3. Bg2 Nf6 4. Nh3 Be7 5. O-O d6 6. c3 O-O 7. Qb3 d5 8. f3 c5
+9. Rd1 Nc6 10. Nf2 Qb6 11. Be3 Bd7 12. Nd2 Rfc8 13. dxc5 Bxc5 14. Bxc5 Qxc5
+15. Nf1 Na5 16. Qc2 Nc4 17. e4 fxe4 18. fxe4 Ng4 19. exd5 Rf8 20. Rd4 Nxf2
+21. Qe2 Nd6 22. dxe6 Rae8 23. Bd5 Kh8 24. Qh5 Bxe6 25. Re1 Nh3+ 26. Kg2 Rf2+
+27. Kh1 Bxd5+ 28. Rxd5 Rxe1
+0-1
+
+
+[Event "Amsterdam m3"]
+[Site "Amsterdam NED"]
+[Date "1920.03.22"]
+[Round "1"]
+[White "Max Euwe"]
+[Black "Max Marchand"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C11"]
+[EventDate "????.??.??"]
+[PlyCount "90"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Qg4 c5 6. Be3 cxd4 7. Bxd4 Nc6
+8. Nf3 Nxd4 9. Nxd4 a6 10. Nxe6 fxe6 11. Qxe6+ Qe7 12. Qxe7+ Bxe7 13. Nxd5 Bd8
+14. O-O-O Nb6 15. f4 Nxd5 16. Rxd5 Be6 17. Rd6 Ke7 18. g3 Bc7 19. Rd1 Bg4
+20. Rd4 Rad8 21. h3 Bf5 22. Rxd8 Rxd8 23. Bg2 Bc8 24. Rd1 Rxd1+ 25. Kxd1 g5
+26. Ke2 gxf4 27. gxf4 b6 28. Ke3 b5 29. Be4 h6 30. h4 Bb6+ 31. Kf3 Bc7 32. c3 h5
+33. Bg6 Bg4+ 34. Ke4 Bb6 35. f5 Bf2 36. f6+ Ke6 37. Bh7 Kf7 38. Kd5 Bxh4
+39. Kc6 Bg3 40. Kb6 h4 41. Kxa6 Be2 42. Be4 Bxe5 43. Ka5 h3 44. a4 bxa4
+45. Kxa4 Bf1
+0-1
+
+
+[Event "Match"]
+[Site "Amsterdam NED"]
+[Date "1920.05.??"]
+[Round "1"]
+[White "Max Euwe"]
+[Black "Richard Reti"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C56"]
+[EventDate "????.??.??"]
+[PlyCount "40"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5
+8. Nc3 Qa5 9. Nxd4 Nxd4 10. Qxd4 f5 11. Bg5 Qc5 12. Qd8+ Kf7 13. Nxe4 fxe4
+14. Rad1 Bd6 15. Qxh8 Qxg5 16. f4 Qh4 17. Rxe4 Bh3 18. Qxa8 Bc5+ 19. Kh1 Bxg2+
+20. Kxg2 Qg4+
+0-1
+
+
+[Event "Match"]
+[Site "Amsterdam NED"]
+[Date "1920.07.07"]
+[Round "6"]
+[White "Max Euwe"]
+[Black "Hendrik van Hartingsvelt"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D31"]
+[EventDate "????.??.??"]
+[PlyCount "76"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nd7 5. e4 dxe4 6. Nxe4 Ngf6 7. Bd3 Nxe4
+8. Bxe4 Bb4+ 9. Bd2 Qa5 10. O-O Bxd2 11. Nxd2 Nf6 12. Bd3 Bd7 13. Qe2 O-O-O
+14. Rfd1 Rhe8 15. c5 Kb8 16. Nc4 Qc7 17. Nd6 Re7 18. Nf5 Ree8 19. Nxg7 Rg8
+20. Nh5 Nd5 21. Be4 Rg5 22. Bxd5 exd5 23. Nf6 Be6 24. Re1 Kc8 25. Qe3 h6
+26. h4 Rg6 27. Nh5 Rdg8 28. g3 Rg4 29. Kf1 Re4 30. Qxh6 Bh3+ 31. Kg1 Rxh4
+32. Re5 f6 33. Qxf6 Rxh5 34. Rxh5 Rxg3+ 35. Kh1 Bg2+ 36. Kg1 Be4+ 37. Kf1 Bd3+
+38. Ke1 Qa5+
+0-1
+
+
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1921.05.??"]
+[Round "7"]
+[White "Max Euwe"]
+[Black "Friedrich Saemisch"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "E12"]
+[EventDate "????.??.??"]
+[PlyCount "82"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. e3 Bb4 6. Bd3 c5 7. Bd2 O-O
+8. Qc2 cxd4 9. exd4 Nc6 10. Bg5 h6 11. Bh4 Be7 12. Qe2 d5 13. Rd1 Nb4
+14. Bb1 dxc4 15. Ne5 Rc8 16. a3 Nbd5 17. Qc2 Nxc3 18. Bxf6 Ne4 19. Bxe7 Qxe7
+20. O-O Rfd8 21. Rfe1 f5 22. Qe2 Bd5 23. Bxe4 fxe4 24. Qd2 Rc7 25. Re3 Qg5
+26. Qe2 Rf8 27. Rg3 Qf5 28. Rc1 b5 29. Rcc3 a5 30. Rg6 b4 31. axb4 axb4
+32. Rc1 Qf4 33. Qe1 c3 34. bxc3 bxc3 35. Rg3 Qd2 36. Re3 Qxd4 37. Ng6 Rf6
+38. Rg3 Qd2 39. Qe3 Qxe3 40. fxe3 Bc4 41. Ne5 Rf1+
+0-1
+
+
+[Event "Match"]
+[Site "NED"]
+[Date "1921.07.03"]
+[Round "4"]
+[White "Max Euwe"]
+[Black "Adolf Georg Olland"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C14"]
+[EventDate "????.??.??"]
+[PlyCount "76"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 c5
+8. Nb5 O-O 9. Nc7 cxd4 10. Nxa8 Nxe5 11. Nf3 Nxf3+ 12. gxf3 Nc6 13. O-O-O e5
+14. Bd3 Be6 15. Rdg1 Rxa8 16. Qh6 g6 17. Rg5 Nb4 18. Rhg1 Nxd3+ 19. cxd3 Qf6
+20. Rh5 Rc8+ 21. Kb1 Qxf3 22. Qxh7+ Kf8 23. Qh6+ Ke8 24. Rxe5 Qxd3+ 25. Ka1 Qc2
+26. Rge1 Kd7 27. R5e2 Qc4 28. Qd2 d3 29. Re5 d4 30. Ra5 Qc2 31. Qf4 Rc4
+32. Rxa7 Rb4 33. Rb1 d2 34. Qf3 Kc7 35. Ra5 Bf5 36. Rxf5 gxf5 37. Qe2 Kd6
+38. Qf3 d3
+0-1
+
+
+[Event "Offhand Game"]
+[Site "Detroit, MI USA"]
+[Date "1979.10.29"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Sargon (Computer)"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B06"]
+[EventDate "????.??.??"]
+[PlyCount "101"]
+[WhiteElo "?"]
+
+1. e4 g6 2. d4 Bg7 3. g3 Nf6 4. Bg2 d6 5. Ne2 O-O 6. O-O e5 7. c3 c5 8. d5 b6
+9. f4 Bb7 10. fxe5 dxe5 11. Nd2 Nbd7 12. a4 Qc7 13. Nc4 Rae8 14. Qb3 Ng4
+15. a5 bxa5 16. Rxa5 a6 17. h3 Ngf6 18. g4 Rb8 19. Qa2 Rfe8 20. Ng3 Bf8
+21. g5 Nh5 22. Nxh5 gxh5 23. h4 Nb6 24. Nxb6 Qxb6 25. Be3 Rbd8 26. b4 Rc8
+27. Qf2 Qg6 28. bxc5 Rcd8 29. c6 Bc8 30. Bb6 Rd6 31. Bc7 Re7 32. Bxd6 Qxd6
+33. Qf6 Qxf6 34. Rxf6 Bg7 35. Rf1 Ra7 36. d6 Be6 37. d7 Ra8 38. Rxa6 Rb8
+39. c7 Rf8 40. d8=Q h6 41. Rxe6 fxe6 42. Rxf8+ Bxf8 43. Qxf8+ Kxf8 44. c8=Q+ Kg7
+45. Qxe6 hxg5 46. hxg5 Kf8 47. Qf6+ Ke8 48. g6 Kd7 49. Bh3+ Ke8 50. Qf7+ Kd8
+51. Qd7#
+1-0
+
+
+[Event "Egmond-Binnen"]
+[Site "Egmond-Binnen NED"]
+[Date "1981.02.08"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Thomas Broek"]
+[Result "1-0"]
+[BlackElo "2229"]
+[ECO "A60"]
+[EventDate "????.??.??"]
+[PlyCount "115"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 a6 6. a4 d6 7. Nf3 g6 8. e4 Bg7
+9. Be2 Nbd7 10. O-O O-O 11. Nd2 Re8 12. Qc2 Ne5 13. h3 Nh5 14. Bxh5 gxh5
+15. Nd1 Ng6 16. Nc4 Qe7 17. Nde3 Nf4 18. f3 Bd4 19. Kh1 Qh4 20. Qf2 Qxf2
+21. Rxf2 Re7 22. Nb6 Rb8 23. Nxc8 Rxc8 24. Nf5 Ree8 25. Nxd4 Nd3 26. Nf5 Nxf2+
+27. Kg1 Nd3 28. Nxd6 Red8 29. Nxc8 Rxc8 30. Kf1 c4 31. Ke2 Kg7 32. a5 Kf6
+33. Bd2 Ke5 34. Ke3 h4 35. Bc3+ Kd6 36. Kd4 f6 37. Ra4 Nf4 38. Bd2 Ne2+
+39. Ke3 Ng3 40. Be1 Kc5 41. Bxg3 hxg3 42. Kf4 Kb5 43. Ra1 Kb4 44. Kxg3 Kb3
+45. f4 Kxb2 46. Re1 c3 47. e5 c2 48. e6 Re8 49. f5 c1=Q 50. Rxc1 Kxc1 51. d6 b5
+52. d7 Rg8+ 53. Kf3 b4 54. e7 b3 55. d8=Q b2 56. Qxg8 b1=Q 57. Qc4+ Kd2 58. Qd4+
+1-0
+
+
+[Event "Lucerne"]
+[Site "Lucerne SUI"]
+[Date "1950.12.30"]
+[Round "5"]
+[White "Max Euwe"]
+[Black "Max Blau"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D15"]
+[EventDate "????.??.??"]
+[PlyCount "53"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 Qb6 5. Ne5 g6 6. e3 Bg7 7. cxd5 Nxd5
+8. Nc4 Qd8 9. e4 Nxc3 10. bxc3 c5 11. Bb2 cxd4 12. cxd4 O-O 13. Qd2 b6
+14. Be2 Bb7 15. d5 Bxb2 16. Qxb2 Nd7 17. Rd1 Nc5 18. Qd4 Qd7 19. h4 f6 20. h5 g5
+21. Ne3 e5 22. dxe6 Qxd4 23. Rxd4 Nxe6 24. Bc4 Rfe8 25. Rd6 Bc8 26. Nd5 Kf7
+27. Nc7
+1-0
+
+
+[Event "Lucerne"]
+[Site "Lucerne SUI"]
+[Date "1950.12.27"]
+[Round "2"]
+[White "Max Euwe"]
+[Black "Josef Kupper"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "E22"]
+[EventDate "????.??.??"]
+[PlyCount "87"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Na6 6. Bd2 O-O 7. Nf3 Bxc5
+8. e3 b6 9. Be2 Bb7 10. O-O Be7 11. Rfd1 Rc8 12. Be1 Qc7 13. Rd4 Qb8
+14. Rad1 Nc5 15. Qa3 d5 16. cxd5 Nxd5 17. Nxd5 Bxd5 18. b4 Ne4 19. Ba6 Rc2
+20. Qd3 Rxa2 21. Bc4 Rb2 22. Rxe4 Bxe4 23. Qxe4 Rd8 24. Bd3 g6 25. Bc3 Ra2
+26. Qc4 Ra3 27. Nd4 Bf6 28. Bb2 b5 29. Qc2 Ra2 30. Qb3 Ra6 31. Nc6 Rxc6
+32. Bxf6 Rd7 33. f4 Rc8 34. Kf2 Qb6 35. h4 Rd5 36. Be4 Rxd1 37. Qxd1 Qc7
+38. h5 a5 39. bxa5 Qxa5 40. hxg6 fxg6 41. Qd7 Qc7 42. Qxe6+ Kf8 43. Bd5 Qc2+
+44. Kg3
+1-0
+
+
+[Event "1st Autumn Congress"]
+[Site "Paignton ENG"]
+[Date "1951.09.19"]
+[Round "4"]
+[White "Max Euwe"]
+[Black "Ronald MacKay Bruce"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "E67"]
+[EventDate "????.??.??"]
+[PlyCount "57"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5
+8. e4 Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 c6 12. Qc2 Qc7 13. Be3 a5 14. Rad1 Bd7
+15. f3 Rad8 16. Bf2 Bc8 17. g4 Ne6 18. Nde2 d5 19. exd5 cxd5 20. c5 d4
+21. Nb5 Qxc5 22. Qxc5 Nxc5 23. Bxd4 b6 24. Nc7 Re7 25. Bxf6 Rxd1 26. Rxd1 Rxc7
+27. Rd8+ Bf8 28. Be5 Rc6 29. f4
+1-0
+
+
+[Event "1st Autumn Congress"]
+[Site "Paignton ENG"]
+[Date "1951.09.22"]
+[Round "7"]
+[White "Max Euwe"]
+[Black "Leonard William Barden"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "E19"]
+[EventDate "????.??.??"]
+[PlyCount "81"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4
+8. Qc2 Nxc3 9. Qxc3 f5 10. Rd1 Bf6 11. Qe3 Qe8 12. Qf4 Bd8 13. d5 Na6
+14. dxe6 dxe6 15. Ne5 Bxg2 16. Kxg2 Be7 17. b3 Nc5 18. Ba3 Bd6 19. Bxc5 bxc5
+20. Qe3 Bxe5 21. Qxe5 Qc6+ 22. f3 Rad8 23. Rac1 Rd6 24. Rxd6 Qxd6 25. Qe3 Kf7
+26. Rc3 Qd4 27. Rd3 Qxe3 28. Rxe3 Ke7 29. Re5 Kd6 30. f4 g5 31. e4 g4 32. h3 h5
+33. h4 Rf7 34. Kf2 Rf8 35. Ke3 Rf7 36. Kd2 Rf8 37. Kd3 c6 38. exf5 exf5
+39. Kd2 Rd8 40. Kc3 Rf8 41. Kb2
+1-0
+
+
+[Event "1st Autumn Congress"]
+[Site "Paignton ENG"]
+[Date "1951.09.21"]
+[Round "6"]
+[White "Max Euwe"]
+[Black "John Bertram Goodman"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D54"]
+[EventDate "????.??.??"]
+[PlyCount "67"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Rc1 c6 7. Nf3 Ne4
+8. Bxe7 Qxe7 9. Bd3 Nf6 10. O-O Nbd7 11. cxd5 exd5 12. Qc2 Re8 13. Rb1 Nf8
+14. b4 Bg4 15. Ne5 Bh5 16. Na4 N6d7 17. Nxd7 Qxd7 18. b5 cxb5 19. Rxb5 Bg6
+20. Rfb1 b6 21. Nc3 Bxd3 22. Qxd3 Rac8 23. h3 Qe6 24. Nxd5 a6 25. Nf4 Qxa2
+26. R5b2 Rc1+ 27. Kh2 Qc4 28. Qxc4 Rxc4 29. Rxb6 Ra8 30. Nd5 h6 31. Rb8 Rxb8
+32. Rxb8 g6 33. Ra8 Ra4 34. Nb6
+1-0
+
+
+[Event "NED-ch"]
+[Site "Enschede NED"]
+[Date "1952.04.17"]
+[Round "9"]
+[White "Max Euwe"]
+[Black "Hendrik Jan van Steenis"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D28"]
+[EventDate "????.??.??"]
+[PlyCount "39"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 a6 5. Bxc4 e6 6. O-O c5 7. Qe2 b5
+8. Bd3 Bb7 9. a4 Nbd7 10. axb5 axb5 11. Rxa8 Bxa8 12. Bxb5 cxd4 13. Rd1 Bxf3
+14. Qxf3 Bc5 15. exd4 Bd6 16. d5 Nxd5 17. Nc3 Nxc3 18. bxc3 Ke7 19. Bxd7 Kxd7
+20. Bf4
+1-0
+
+
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Edward Martin"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "A22"]
+[EventDate "????.??.??"]
+[PlyCount "45"]
+[WhiteElo "?"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 O-O 5. Nf3 Nc6 6. O-O d6 7. d3 Re8
+8. Na4 e4 9. dxe4 Nxe4 10. Nxc5 Nxc5 11. b3 Bf5 12. Bb2 Be4 13. Qd2 b6
+14. Bh3 Bxf3 15. exf3 Ne5 16. Qc3 f6 17. Bg2 Rc8 18. f4 Nf7 19. Bc6 Re7
+20. Rae1 Qf8 21. Rxe7 Qxe7 22. Re1 Qf8 23. b4
+1-0
+
+
+[Event "Lentzerheide"]
+[Site "Lenzerheide SUI"]
+[Date "1956.03.16"]
+[Round "3"]
+[White "Max Euwe"]
+[Black "Harry Golombek"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "E38"]
+[EventDate "????.??.??"]
+[PlyCount "91"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Qa5 6. Bd2 Qxc5 7. a3 Bxc3
+8. Qxc3 O-O 9. f3 d5 10. cxd5 Qxc3 11. Bxc3 Nxd5 12. Bd2 f5 13. e3 Bd7
+14. Ne2 Nc6 15. Nc3 Nce7 16. Rd1 Rfd8 17. Bc4 Rac8 18. Bb3 Kf7 19. Nxd5 exd5
+20. Bc3 Bb5 21. Kf2 Bc4 22. Bc2 g6 23. h4 Ke6 24. h5 g5 25. h6 Ba6 26. Rh5 Rg8
+27. Rd2 g4 28. e4 dxe4 29. fxe4 g3+ 30. Ke3 Rgf8 31. Rd4 f4+ 32. Kf3 Nc6
+33. Bb3+ Ke7 34. Rdd5 Bf1 35. Rh1 Ba6 36. Rhd1 Rc7 37. Rg5 Ke8 38. Rd6 Rd7
+39. Rxd7 Kxd7 40. Rg7+ Kd6 41. Rxh7 Ne5+ 42. Bxe5+ Kxe5 43. Re7+ Kd6
+44. Re6+ Kd7 45. h7 Bf1 46. Rh6
+1-0

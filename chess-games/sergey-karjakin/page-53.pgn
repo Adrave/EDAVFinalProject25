@@ -1,0 +1,626 @@
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2005.01.30"]
+[Round "13"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Stellwagen Daniel (NED)"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2658"]
+[BlackElo "2561"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4
+8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Qf2 Bxd4 12.Bxd4 b5 13.Be3
+b4 14.Ne2 a5 15.Nd4 Nxd4 16.Bxd4 Ba6 17.f5 exf5 18.Qxf5 Qe7 19.g4
+Bxf1 20.Rhxf1 Rfc8 21.Rf2 Nf8 22.Be3 Qb7 23.Qf3 Rc4 24.Rxd5 Rxg4
+25.b3 a4 26.bxa4 Rc4 27.Rb5 Qxf3 28.Rxf3 Rxa4 29.e6 Nxe6 30.Rb8+
+Nf8 31.Rf4 Rc6 32.Rf5 h6 33.Rfb5 Rxa2 34.Bc5 b3 35.cxb3 Rf6 36.Kb1
+Rxh2 37.Rxf8+ Kh7 38.Be3 Rf1+ 39.Bc1 Rhh1 40.Rc5 h5 41.Rfc8 Rh3
+42.Kc2 f6 43.b4 Rf2+ 44.Bd2 Kg6 45.Rc3 Rxc3+ 46.Rxc3 Rf5 47.Rh3
+Rb5 48.Kc3 Rb8 49.Bf4 Rh8 50.b5 Kf5 51.Bc7 h4 52.b6 Kg4 53.Rd3
+g5 54.b7 h3 55.b8Q Rxb8 56.Bxb8 f5 57.Bh2 1-0
+
+
+[Event "Ch France (team) 2005"]
+[Site "France"]
+[Date "2005.02.04"]
+[Round "1"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Bricard Emmanuel (FRA)"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2658"]
+[BlackElo "2474"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 g6 2.d4 d6 3.Nc3 c6 4.f4 Bg7 5.Nf3 Bg4 6.Be3 Qb6 7.Qd2 Bxf3
+8.gxf3 Nd7 9.O-O-O Qa5 10.Kb1 O-O-O 11.Rg1 Kb8 12.f5 c5 13.dxc5
+Nxc5 14.Bd4 Nf6 15.a3 a6 16.Bc4 e6 17.Qg5 Ncd7 18.fxe6 Qxg5 19.Rxg5
+fxe6 20.Bxe6 Ne5 21.f4 Nf3 22.Bxf6 Bxf6 23.Rg3 Nd4 24.Bh3 Rhf8
+25.Nd5 Bg7 26.Rgd3 Nc6 27.Be6 Rde8 28.Bd7 Rxe4 29.Bxc6 bxc6 30.Nb4
+Rexf4 31.Rxd6 Rf1 32.Nxa6+ Ka7 33.Nb4 c5 34.Nc6+ Kb6 35.Nd4+
+Ka5 36.Nb3+ Kb5 37.c4+ 1-0
+
+
+[Event "Ch France (team) 2005"]
+[Site "France"]
+[Date "2005.02.05"]
+[Round "2"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Milliet Sophie (FRA)"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2658"]
+[BlackElo "2330"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7
+7.Bf4 O-O 8.Qd2 Nd7 9.O-O-O Nc5 10.Be3 Bf6 11.Nd4 a6 12.Be2 Qe8
+13.Kb1 Qa4 14.Bf3 Re8 15.Rhe1 Be6 16.Nxe6 Nxe6 17.Bxb7 Rab8 18.Bd5
+c5 19.Bb3 Qa5 20.Qd5 Rec8 21.f4 Qc7 22.Qc4 a5 23.g4 Qb7 24.a4
+Rd8 25.f5 d5 26.Rxd5 Rxd5 27.Qxd5 Qxd5 28.Bxd5 Bxc3 29.fxe6 Bxe1
+30.exf7+ Kh8 31.Bf4 1-0
+
+
+[Event "It (open) \"Aeroflot\""]
+[Site "Moscow (Russia)"]
+[Date "2005.02.16"]
+[Round "2"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Wojtaszek Radoslaw (POL)"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2658"]
+[BlackElo "2606"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be6 8.f3 Be7 9.Qd2 O-O 10.O-O-O a5 11.Qe1 Qc7 12.Bb5 Nbd7 13.Qf2
+Bc4 14.Bxc4 Qxc4 15.Qf1 Qc6 16.a4 Nb6 17.Bxb6 Qxb6 18.Qb5 Qc7
+19.Kb1 Rfc8 20.Rd2 Bf8 21.Rhd1 Qc6 22.Rd3 Nd7 23.Rd5 Nb6 24.Qxc6
+bxc6 25.Rxa5 Nc4 26.Rxa8 Rxa8 27.Nc1 Rb8 28.b3 f5 29.Rd3 f4 30.Nd1
+Kf7 31.Ka2 Na5 32.Rd2 Ke6 33.Nd3 g5 34.N1b2 d5 35.Re2 d4 36.g3
+fxg3 37.hxg3 Kf6 38.Rh2 Rb7 39.Rh1 h6 40.b4 Bxb4 41.Rxh6+ Kg7
+42.Re6 Bc3 43.Rxe5 Kg6 44.Rc5 1-0
+
+
+[Event "It (open) \"Aeroflot\""]
+[Site "Moscow (Russia)"]
+[Date "2005.02.18"]
+[Round "4"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Galliamova Alisa (RUS)"]
+[Result "1-0"]
+[ECO "B61"]
+[WhiteElo "2658"]
+[BlackElo "2463"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2
+Rc8 8.f4 Nxd4 9.Qxd4 Qa5 10.e5 dxe5 11.fxe5 e6 12.O-O-O Bc6 13.Nb5
+Bxb5 14.exf6 Bc6 15.h4 g6 16.Bc4 Bc5 17.Qg4 h5 18.Qe2 O-O 19.Kb1
+Rfd8 20.Bd3 Rxd3 21.Qxd3 Bxg2 22.Rhe1 Re8 23.Re5 Qc7 24.Bf4 Bc6
+25.Rf5 e5 26.Bxe5 Qd7 27.Rff1 Qxd3 28.cxd3 Bg2 29.d4 Bxf1 30.Rxf1
+Re6 31.Kc2 Bd6 32.Re1 Bxe5 33.dxe5 Kh7 34.Kd3 Kh6 35.Ke4 Rb6
+36.Kd5 Rxb2 37.e6 fxe6+ 38.Kd6 Rf2 39.Ke7 1-0
+
+
+[Event "It (cat.16)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "2005.04.01"]
+[Round "1"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Felgaer Ruben (ARG)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2658"]
+[BlackElo "2636"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5
+Ne7 14.Re1 Bg7 15.c3 O-O 16.Qh5 e4 17.Bf1 Re8 18.Nc2 Nxd5 19.Qxf5
+Re5 20.Qg4 f5 21.Qd1 Kh8 22.a4 bxa4 23.Rxa4 Qb6 24.Rd4 Nc7 25.Ne3
+d5 26.Nxd5 Nxd5 27.Rxd5 Qxb2 28.Rxe5 Bxe5 29.Qd5 Re8 30.Qf7 Qb8
+31.Qxf5 Bxh2+ 32.Kh1 Qf4 33.Qd7 Rf8 34.Qd4+ Qe5 35.Bxa6 Qxd4
+36.cxd4 Bc7 37.Kg1 Re8 38.Bb5 Rd8 39.Rxe4 Bb6 40.g3 Bxd4 41.Kg2
+Bf6 42.f4 Rb8 43.Bc4 Kg7 44.Kf3 Rb4 45.g4 h6 46.Ke3 Ra4 47.Kd3
+Ra3+ 48.Kd2 Ra4 49.Kc2 Rb4 50.Kd3 Rb8 51.Bd5 Rd8 52.Kc4 Rc8+
+53.Kb5 Rc1 54.Ra4 Be7 55.Be6 Rc5+ 56.Kb6 Rc1 57.Re4 Bf6 58.Bc4
+Rc2 59.Kc5 Rf2 60.Bd5 Rd2 61.Ra4 Be7+ 62.Kc6 Rd1 63.Ra7 Re1 64.Rb7
+Kf6 65.Rb6 Kg7 66.Kd7 Bh4 67.Rb8 Re7+ 68.Kd6 Re1 69.Rb7+ Kh8
+70.Be6 Bg3 71.Ke7 Kg7 72.f5 Bh4+ 73.Kd6+ Kh8 74.Rf7 Rd1+ 75.Bd5
+Rd4 76.f6 Bxf6 77.Rxf6 Rxg4 78.Rf7 h5 79.Ke5 Rg5+ 80.Ke6 Rg1
+81.Ra7 Rg6+ 82.Kf5 Rd6 83.Be6 Rb6 84.Kf6 Rb1 1-0
+
+
+[Event "It (cat.16)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "2005.04.03"]
+[Round "3"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Dominguez Lenier (CUB)"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2658"]
+[BlackElo "2635"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be7 8.f3 Be6 9.Qd2 O-O 10.O-O-O a5 11.Qe1 Qc8 12.a4 Nc6 13.g4
+Nb4 14.Kb1 Ne8 15.Qf2 b5 16.Nxb5 d5 17.exd5 Bxd5 18.Nc3 Bxb3
+19.cxb3 Qe6 20.Bc4 Qg6+ 21.Ne4 Nf6 22.Qg2 Rad8 23.Bd2 Nxe4 24.fxe4
+Rd4 25.Bxb4 Bxb4 26.Rxd4 exd4 27.Rf1 Kh8 28.Rf5 f6 29.Rd5 Qe8
+30.Ka2 Qe7 31.Rxd4 Rd8 32.Bd5 Rc8 33.h4 Bd6 34.Bc4 Bc5 35.Rd3
+Bb4 36.Qf3 Rd8 37.Bd5 Qe5 38.Qf2 Qe7 39.Rf3 Bc5 40.Qc2 Bb4 41.Rf5
+Qd6 42.Qf2 Bc5 43.Qe2 Bd4 44.Qd2 Qb6 45.g5 Be5 46.h5 Qc7 47.gxf6
+gxf6 48.h6 Rc8 49.Qg2 Qe7 50.Rf1 Qf8 51.Rg1 f5 52.exf5 Bf6 53.Bc4
+Bd4 54.Rd1 Bf6 55.Qb7 Rb8 56.Qc7 Ra8 57.Qf4 Rd8 58.Rg1 Qe7 59.Qg4
+Qf8 60.Rg2 Rb8 61.Qf4 Rb4 62.Qd6 1-0
+
+
+[Event "It \"Young Stars of the World\" (cat.10)"]
+[Site "Kirishi (Russia)"]
+[Date "2005.05.18"]
+[Round "5"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Khairullin Ildar (RUS)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2658"]
+[BlackElo "2537"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.h4
+Be6 14.Nce3 Be7 15.g3 Qd7 16.Bd3 Bd8 17.O-O Ne7 18.Bc2 Bb6 19.Nxe7+
+Qxe7 20.Nd5 Qb7 21.Bb3 Bc5 22.Qf3 Kh8 23.Ne3 Bxe3 24.Qxe3 Qb6
+25.Rad1 Kg8 26.Qd3 Rfd8 27.Rd2 Qc5 28.Rfd1 Bc4 29.Qf3 Rb6 30.Qf5
+h6 31.Kg2 Qc6 32.Kh2 Qe8 33.Qf3 Qe6 34.Qe3 Rdb8 35.Bxc4 bxc4
+36.Rd5 Qe7 37.a4 Qc7 38.Kg2 Rc6 39.R1d2 Rb3 40.Qe2 Qb8 41.f4
+exf4 42.gxf4 Qb7 43.a5 Rb5 44.Rxb5 axb5 45.Rd5 Ra6 46.f5 Rxa5
+47.f6 Qd7 48.fxg7 Qe6 49.h5 Kxg7 50.Qf3 Ra7 51.Rxb5 Re7 52.Rf5
+Qxe4 53.Rxf7+ Kg8 54.Rxe7 Qxe7 55.Qd5+ Qf7 56.Qxd6 Qxh5 57.Qd8+
+Kg7 58.Qd4+ Kh7 59.Qxc4 Qg6+ 60.Kf3 Qf5+ 61.Ke3 Qh3+ 62.Kd2 Qh2+
+63.Qe2 Qf4+ 64.Kd3 Qg5 65.Qe4+ Kg7 66.Qd4+ Kh7 67.Qd7+ Kh8 68.c4
+h5 69.Qd4+ Kh7 70.c5 h4 71.b4 Qh5 72.Qe4+ Kg7 73.Qe7+ Kh6 74.Qe6+
+Kh7 75.c6 Qf3+ 76.Kc4 h3 77.Qd7+ Kg6 78.c7 Qe2+ 79.Kc5 Qe3+ 80.Kb5
+Qe2+ 81.Ka5 Qa2+ 82.Kb6 Qf2+ 83.Kb7 Qf3+ 84.Ka6 Qf6+ 85.Ka5 Qa1+
+86.Kb6 Qf6+ 87.Kb7 Qf3+ 88.Kb8 Qg3 89.Qc6+ Kh5 90.Kb7 Qg7 91.Qf3+
+Kh4 92.Qf4+ Kh5 93.Kb8 1-0
+
+
+[Event "It \"Young Stars of the World\" (cat.10)"]
+[Site "Kirishi (Russia)"]
+[Date "2005.05.22"]
+[Round "8"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Nepomniachtchi Ian (RUS)"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2658"]
+[BlackElo "2519"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be7 8.f3 Be6 9.Qd2 O-O 10.O-O-O Nbd7 11.g4 Nb6 12.h4 Qc7 13.Kb1
+Rfc8 14.h5 Nfd7 15.g5 a5 16.Nb5 Qc6 17.Rh2 Nc5 18.Nxc5 dxc5 19.h6
+Rd8 20.Qe1 Rxd1+ 21.Qxd1 Rd8 22.Qe1 g6 23.Rd2 Rxd2 24.Bxd2 c4
+25.Nc3 Nd7 26.f4 exf4 27.Bxf4 Bb4 28.a3 Bf8 29.Bg2 b5 30.Nd5
+Bxd5 31.exd5 Qb6 32.d6 b4 33.axb4 axb4 34.Bh3 Qd4 35.Qe3 Qxe3
+36.Bxe3 Nb8 37.Bf4 f5 38.gxf6 Kf7 39.d7 Nxd7 40.Bxd7 Kxf6 41.Be3
+g5 42.Bb5 Bxh6 43.Bxc4 Bf8 44.Be2 Be7 45.Kc1 Ke5 46.Kd2 h6 47.Kd3
+Kd5 48.Bd4 Bf8 49.Bf3+ Ke6 50.Ke4 Bd6 51.Bg4+ Ke7 52.Kf5 Kd7
+53.Bg7 Kc6 54.Bxh6 b3 55.cxb3 Kc5 56.Bxg5 Kb4 57.Bd1 1-0
+
+
+[Event "It \"Young Stars of the World\" (cat.10)"]
+[Site "Kirishi (Russia)"]
+[Date "2005.05.24"]
+[Round "10"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Andreikin Dmitry (RUS)"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2658"]
+[BlackElo "2458"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Bd3 d6 7.O-O
+g6 8.c4 Bg7 9.Nc3 Bg4 10.Be2 Bxe2 11.Qxe2 Qa6 12.Be3 Rc8 13.f4
+O-O 14.Rfd1 b6 15.Rac1 Rfd8 16.Nd2 Qb7 17.b3 Nd7 18.Nf3 Nc5 19.Bf2
+a6 20.Nd5 e6 21.Nc3 Bh6 22.Ng5 Qe7 23.Qg4 Ne5 24.Qg3 Bxg5 25.fxg5
+b5 26.cxb5 axb5 27.b4 Na4 28.Nxb5 Nb2 29.Rxc8 Rxc8 30.Nxd6 Nxd1
+31.Nxc8 Qxb4 32.Qxe5 Qb1 33.Be1 Ne3 34.Ne7+ Kf8 35.Nxg6+ Ke8
+36.Qh8+ Kd7 37.Qd4+ Nd5 38.Ne5+ 1-0
+
+
+[Event "Ch Europe"]
+[Site "Warsaw (Poland)"]
+[Date "2005.06.18"]
+[Round "1"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Del Rio Angelis Salvador G (ESP)"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2658"]
+[BlackElo "2489"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Nc6 7.f3
+e6 8.Qd2 Be7 9.O-O-O O-O 10.g4 Nxd4 11.Bxd4 b5 12.g5 Nd7 13.h4
+Qc7 14.Kb1 Rb8 15.h5 b4 16.Na4 Qa5 17.b3 Bxg5 18.Qg2 f6 19.Rg1
+Bh6 20.Bc4 Kh8 21.Be3 Qxh5 22.Bxh6 Qxh6 23.Rh1 Qf4 24.Rdg1 g5
+25.Qh3 Rf7 26.Qxe6 Ne5 27.Qe8+ Kg7 28.Bxf7 Nxf7 29.Rxh7+ Kxh7
+30.Qxf7+ Kh6 31.Rh1+ Qh4 32.Qxf6+ 1-0
+
+
+[Event "Ch Europe"]
+[Site "Warsaw (Poland)"]
+[Date "2005.06.20"]
+[Round "3"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Anastasian Ashot (ARM)"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2658"]
+[BlackElo "2596"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O
+Be7 8.Qe2 Ngf6 9.Ng3 O-O 10.Ne5 Nxe5 11.dxe5 Nd7 12.Kh1 Qe8 13.c3
+Rd8 14.f4 f5 15.exf6 Nxf6 16.Qxe6+ Kh8 17.Bc4 b5 18.Bb3 Bc5 19.f5
+Rd3 20.Qxe8 Rxe8 21.Bg5 Ng4 22.f6 gxf6 23.Rxf6 Rd6 24.Rxd6 Bxd6
+25.Rf1 h6 26.Bd1 hxg5 27.Bxg4 Bd5 28.Nf5 Bf4 29.a3 Bc4 30.Rd1
+Bb3 31.Ra1 Rd8 32.g3 Rd2 33.Bf3 g4 34.Bc6 Be5 35.Re1 Bf6 36.Ne3
+Rxb2 37.Nxg4 Bxc3 38.Re8+ Kg7 39.Re7+ Kf8 40.Rxc7 a5 41.Ne3 Be5
+42.Rc8+ Ke7 43.Re8+ Kd6 44.Bxb5 Rb1+ 45.Kg2 Re1 46.Kf2 Rc1 47.Nf5+
+Kd5 48.Rd8+ Ke6 49.Nd4+ Bxd4+ 50.Rxd4 Rc2+ 51.Kg1 Ke5 52.Rh4
+Ra2 53.a4 Bd5 54.Bc4 Ra1+ 55.Kf2 Be4 56.Bb3 Ra3 57.Bd1 Bc6 58.Rh5+
+Kd4 59.Rxa5 Ra2+ 60.Be2 Rxa4 61.Rxa4+ Bxa4 62.Kf3 Ke5 63.Kg4
+Kf6 64.Kf4 Bd7 65.Bg4 Bb5 66.Bf5 Kg7 67.g4 Be2 68.g5 Bh5 69.h4
+Be8 70.Bg4 Bf7 71.h5 Be8 72.h6+ Kh8 73.Ke5 Bf7 74.Kf6 Be8 75.Be6
+Bg6 76.Bf7 Be4 77.Be8 1-0
+
+
+[Event "Ch Europe"]
+[Site "Warsaw (Poland)"]
+[Date "2005.06.22"]
+[Round "5"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Radjabov Teimour (AZE)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2658"]
+[BlackElo "2704"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 Ne7 13.h4
+Bh6 14.a4 bxa4 15.Ncb4 Bd7 16.Rxa4 Nxd5 17.Nxd5 Bxa4 18.Qxa4+
+Kf8 19.b4 a5 20.b5 Rb8 21.g3 g6 22.Bh3 Kg7 23.O-O Rf8 24.Ra1
+Kh8 25.Qxa5 Qe8 26.c4 f5 27.Qc7 Qf7 28.exf5 Qxc7 29.Nxc7 gxf5
+30.Ra6 Rf7 31.Nd5 Bf8 32.Rc6 f4 33.Be6 Rg7 34.g4 Re8 35.Bf5 Be7
+36.h5 Bg5 37.b6 e4 38.Rc8 Rxc8 39.Bxc8 e3 40.fxe3 fxe3 41.b7 1-0
+
+
+[Event "Ch Europe"]
+[Site "Warsaw (Poland)"]
+[Date "2005.06.25"]
+[Round "7"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Asrian Karen (ARM)"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2658"]
+[BlackElo "2645"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O Ngf6 13.Ne4
+O-O-O 14.g3 Nxe4 15.Qxe4 Bd6 16.Kb1 c5 17.dxc5 Nxc5 18.Qc4 Rd7
+19.Bc3 e5 20.Rd5 f6 21.Rhd1 Rhd8 22.Nh4 Bf8 23.b3 Qc6 24.Rxd7
+Rxd7 25.Rxd7 Nxd7 26.Qxc6+ bxc6 27.Nf5 Nb6 28.Bd2 Kd7 29.c4 Ke6
+30.g4 e4 31.Nd4+ Kd7 32.Kc2 Nc8 33.Bf4 Bd6 34.Bxd6 Kxd6 35.Kd2
+Ne7 36.Ke3 c5 37.Nb5+ Ke5 38.Nxa7 f5 39.gxf5 Nxf5+ 40.Ke2 Nd4+
+41.Kf1 Nc2 42.a4 Nd4 43.a5 Nxb3 44.a6 Kd6 45.Ke2 Na5 46.Nb5+
+Kc6 47.Nd6 Kb6 48.Ke3 Kxa6 49.Kxe4 Nc6 50.Nf5 Ka5 51.Nxg7 Kb4
+52.Nf5 Kxc4 53.Nxh6 Nd8 54.Ke5 Kd3 55.Kf6 c4 56.Nf5 c3 57.Ne3
+Nb7 58.h6 Nd6 59.h7 Ne4+ 60.Ke7 Nxf2 61.h8Q 1-0
+
+
+[Event "Ch Europe"]
+[Site "Warsaw (Poland)"]
+[Date "2005.06.28"]
+[Round "10"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Moiseenko Alexander (UKR)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2658"]
+[BlackElo "2663"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.h4
+Be7 14.Nce3 Be6 15.Qf3 Qd7 16.Rd1 Bd8 17.Bd3 Ne7 18.Bc2 Bxd5
+19.Nxd5 Nxd5 20.Rxd5 b4 21.Qd3 bxc3 22.bxc3 Rb6 23.Bb3 a5 24.g3
+Qc7 25.O-O Be7 26.Re1 Rc6 27.Re3 Kh8 28.Rf3 g6 29.Rb5 Rc5 30.Rxc5
+dxc5 31.Qd5 Qd6 32.Qc4 f6 33.Rd3 Qc7 34.h5 Kg7 35.hxg6 hxg6 36.Kg2
+Qc8 37.Rd1 f5 38.Qd5 fxe4 39.Qxe5+ Bf6 40.Qxe4 Re8 41.Qc4 Qb7+
+42.Kg1 Rh8 43.Rd5 Qe7 44.Kf1 Qe6 45.Rxc5 Qh3+ 46.Ke2 Re8+ 47.Kd2
+Rd8+ 48.Kc2 Rf8 49.Rxa5 Qg2 50.Ra7+ Kh8 51.Qf4 g5 52.Qf5 Bg7
+53.Rf7 Rxf7 54.Bxf7 Qc6 55.Qh3+ Bh6 56.Qe6 Qxe6 57.Bxe6 Kg7 58.Kd3
+Kf6 59.Bg4 Ke5 60.Kc4 Kd6 61.a4 Kc7 62.a5 Kc6 63.Bf3+ Kc7 64.Kb5
+g4 65.Bxg4 Bd2 66.c4 Be1 67.Bf3 Bxf2 68.g4 Be3 69.a6 Kb8 70.c5
+Ka7 71.c6 Kb8 72.g5 1-0
+
+
+[Event "Ch Europe (play-off)"]
+[Site "Warsaw (Poland)"]
+[Date "2005.07.02"]
+[Round "2"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Eljanov Pavel (UKR)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2658"]
+[BlackElo "2663"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.h4
+Be7 14.Nce3 Be6 15.Qf3 Qd7 16.Rd1 Bd8 17.Bd3 Ne7 18.Bc2 b4 19.Nxb4
+a5 20.Nd3 Qc6 21.Bb1 f5 22.exf5 e4 23.Qg4 Nxf5 24.Nf4 Bc8 25.Nxf5
+Bxf5 26.Qe2 Rb5 27.c4 Re5 28.Nd5 Qc5 29.Ne3 Bg6 30.Qd2 a4 31.O-O
+Bxh4 32.Qxd6 Be7 33.Qxc5 Bxc5 34.Bc2 Be8 35.Rd5 Rxd5 36.cxd5
+a3 37.bxa3 Bd7 38.Bxe4 Ra8 39.Rc1 Bd6 40.Nc4 Rc8 41.Rc2 Bf8 42.d6
+Be6 43.Bd3 Rc5 44.a4 Rd5 45.Rd2 g6 46.a5 Bxd6 47.Nxd6 Rxd6 48.a6
+Rd7 49.Bc4 Rxd2 50.Bxe6+ Kg7 51.a7 1-0
+
+
+[Event "It \"Sanjin Hotel Cup\" (cat.15)"]
+[Site "Tiayuan (China)"]
+[Date "2005.07.14"]
+[Round "6"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Zhang Pengxiang (CHN)"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2658"]
+[BlackElo "2613"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2
+Nf6 8.O-O-O Bb4 9.f3 Ne7 10.Nde2 b5 11.Qe1 Ba5 12.Qf2 d5 13.Bc5
+b4 14.Na4 Rb8 15.Nd4 dxe4 16.Nb3 Ned5 17.Nxa5 Qxa5 18.Qg3 Rb7
+19.fxe4 Nxe4 20.Qxg7 Qxa4 21.Qxh8+ Kd7 22.Bc4 Nxc5 23.Bxd5 exd5
+24.Rxd5+ Kc6 25.Qxc8+ Kxd5 26.Rd1+ 1-0
+
+
+[Event "Ch Europe (team)"]
+[Site "Goteborg (Sweden)"]
+[Date "2005.08.01"]
+[Round "3"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Upton Timothy J (SCO)"]
+[Result "1-0"]
+[ECO "C75"]
+[WhiteElo "2658"]
+[BlackElo "2248"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 Nge7 7.d4
+Ng6 8.d5 Nb8 9.Bxd7+ Nxd7 10.c4 Be7 11.Nc3 O-O 12.g3 Nf6 13.Ne1
+Qd7 14.Nd3 Qh3 15.f3 h6 16.Be3 Nh7 17.c5 f5 18.Nf2 Qh5 19.exf5
+Qxf5 20.Nfe4 dxc5 21.Qb3 Kh8 22.Qxb7 Rab8 23.Qxa6 Rxb2 24.Na4
+Rbb8 25.Naxc5 Ng5 26.Bxg5 Bxg5 27.Qe2 Be7 28.Ne6 Rfc8 29.Rac1
+Bd6 30.Qa6 1-0
+
+
+[Event "Ch Europe (team)"]
+[Site "Goteborg (Sweden)"]
+[Date "2005.08.03"]
+[Round "5"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Kritz Leonid (GER)"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2658"]
+[BlackElo "2545"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7
+7.Be3 Nc6 8.Qd2 Be6 9.O-O-O Qd7 10.Bb5 a6 11.Ba4 O-O 12.Rhe1
+b5 13.Bb3 Bxb3 14.axb3 a5 15.Qd5 b4 16.Qb5 Rfd8 17.Qa4 Bf6 18.Bg5
+Bxg5+ 19.Nxg5 Rab8 20.Nf3 h6 21.c4 Kf8 22.Rd5 Ra8 23.h3 Ne7 24.Rxa5
+Rxa5 25.Qxa5 c5 26.Rd1 Nc6 27.Qb6 Ke7 28.Kd2 Rb8 29.Qa6 Rb7 30.Qa8
+Rb8 31.Qa1 Qf5 32.Re1+ Kd7 33.Re3 Qg6 34.g3 Kc7 35.h4 Qf5 36.Qd1
+Ra8 37.Ke1 Ra2 38.Qb1 Ra8 39.Kf1 g5 40.Kg2 Kd7 41.Qd1 Ra2 42.Rd3
+g4 43.Rxd6+ Kc7 44.Ng1 Qe4+ 45.Kh2 Qf5 46.Qd2 Rxb2 47.Rxh6 Nd4
+48.Qe3 Ne6 49.Ne2 Qxc2 50.Qe5+ Kb7 51.Qd5+ Kc7 52.Rf6 Nd8 53.Rd6
+Qxe2 54.Rd7+ Kb6 55.Qd6+ 1-0
+
+
+[Event "Cup European Club (final)"]
+[Site "Saint Vincent (Italy)"]
+[Date "2005.09.18"]
+[Round "1"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Vocaturo Daniele (ITA)"]
+[Result "1-0"]
+[ECO "B79"]
+[WhiteElo "2658"]
+[BlackElo "2364"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Qa5 11.Bb3 Rfc8 12.h4 Ne5 13.Kb1
+Nc4 14.Bxc4 Rxc4 15.Nb3 Qc7 16.g4 Rc8 17.e5 Ne8 18.Nd5 Qd8 19.exd6
+exd6 20.c3 Nf6 21.Bg5 Bc6 22.Nxf6+ Bxf6 23.Rh3 b5 24.Bxf6 Qxf6
+25.Qxd6 Qf4 26.Na5 Qxd6 27.Rxd6 Rc5 28.a3 Ba8 29.Nb3 Re5 30.Nd4
+Re3 31.Kc1 Rce8 32.Kd2 Bb7 33.Rd8 Re2+ 34.Nxe2 Rxd8+ 35.Nd4 a5
+36.Ke3 Re8+ 37.Kf4 Rd8 38.Nb3 Ra8 39.Rh2 b4 40.axb4 axb4 41.c4
+Rd8 42.Rd2 Rxd2 43.Nxd2 f6 44.Ne4 Ba6 45.b3 Kf7 46.Nc5 Bc8 47.Nd3
+Ke6 48.Nxb4 Bb7 49.Nd3 g5+ 50.hxg5 fxg5+ 51.Ke3 Kd6 52.b4 h6
+53.b5 Ba8 54.c5+ Kd5 55.c6 Kc4 56.b6 1-0
+
+
+[Event "Cup European Club (final)"]
+[Site "Saint Vincent (Italy)"]
+[Date "2005.09.19"]
+[Round "2"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Greenfeld Alon (ISR)"]
+[Result "1-0"]
+[ECO "B63"]
+[WhiteElo "2658"]
+[BlackElo "2542"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+Qb6 8.Bxf6 gxf6 9.Nb3 Bd7 10.O-O-O O-O-O 11.f4 Na5 12.Be2 h5
+13.Kb1 Kb8 14.Rhf1 Nxb3 15.axb3 Bc6 16.Bc4 Qc5 17.f5 b5 18.Bd3
+Be7 19.fxe6 fxe6 20.Qe2 a6 21.Nd5 exd5 22.exd5 Qxd5 23.Qxe7 Qe5
+24.Rde1 Qxh2 25.Qe3 Qxg2 26.Rg1 Qd5 27.Be4 1-0
+
+
+[Event "Cup European Club (final)"]
+[Site "Saint Vincent (Italy)"]
+[Date "2005.09.24"]
+[Round "7"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Bator Robert (SWE)"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2658"]
+[BlackElo "2409"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3
+Be7 8.Nc4 b5 9.Ne3 Nf6 10.g3 O-O 11.Bg2 b4 12.Ncd5 Nxd5 13.Nxd5
+Bg5 14.Bxg5 Qxg5 15.a3 Rb8 16.axb4 Nxb4 17.Ne3 Qd8 18.O-O Nc6
+19.b3 Nd4 20.b4 Be6 21.c3 Nb5 22.Qd2 Qb6 23.Rfc1 Rfc8 24.Bf1
+Rc6 25.Ra5 Rbc8 26.Bxb5 axb5 27.Rca1 h6 28.R1a3 Rc4 29.Nxc4 Bxc4
+30.Qe3 Qd8 31.Ra1 f5 32.exf5 Qf6 33.Qf3 d5 34.Ra6 Qf7 35.f6 Rf8
+36.Qg4 g6 37.Rd6 Bd3 38.Qd7 Qxd7 39.Rxd7 Rxf6 40.Ra8+ Rf8 41.Rxf8+
+Kxf8 42.Rxd5 e4 43.f4 1-0
+
+
+[Event "Ch World (team)"]
+[Site "Beer-Sheva (Israel)"]
+[Date "2005.11.05"]
+[Round "5"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Shen Yang (CHN)"]
+[Result "1-0"]
+[ECO "C93"]
+[WhiteElo "2658"]
+[BlackElo "2326"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.Re1
+d6 8.c3 O-O 9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.Nf1 Bb7 13.Ng3 Na5
+14.Bc2 Nc4 15.b3 Nb6 16.Bb2 c5 17.d5 g6 18.Qe2 a5 19.Bd3 b4 20.a4
+Nfd7 21.Bb5 Bg7 22.Rac1 Rf8 23.cxb4 axb4 24.Nd2 h5 25.Ngf1 Bh6
+26.Ne3 Bxe3 27.Qxe3 Qh4 28.Rf1 Ba6 29.Bxa6 Rxa6 30.f4 exf4 31.Rxf4
+Qe7 32.Qg3 Ne5 33.Rcf1 Nbd7 34.Rh4 Kh7 35.Rf5 Nf6 36.Bxe5 dxe5
+37.Rxe5 Qd8 38.Nc4 Nd7 39.Rg5 Kh6 40.Rgg4 f5 41.exf5 Rxf5 42.Nd6
+Rxd6 43.Qxd6 Qe8 44.Re4 Qf7 45.Rhf4 Qxd5 46.Qxd5 Rxd5 47.a5 Rd3
+48.Rf3 Rd1+ 49.Rf1 Rd3 50.Rf7 1-0
+
+
+[Event "Ch World (team)"]
+[Site "Beer-Sheva (Israel)"]
+[Date "2005.11.10"]
+[Round "9"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Mchedlishvili Mikheil (GEO)"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2658"]
+[BlackElo "2564"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.Bd2 Bb4 13.c3
+Be7 14.c4 Qc7 15.O-O-O Ngf6 16.Kb1 O-O 17.Rhe1 Rfe8 18.Ne5 Bd6
+19.f4 Rad8 20.Qf3 c5 21.Nxd7 Rxd7 22.d5 exd5 23.Rxe8+ Nxe8 24.cxd5
+Bf8 25.Bc3 Nd6 26.Be5 Qd8 27.Bxd6 Bxd6 28.Nf5 Qf6 29.Qe4 Rd8
+30.g4 b5 31.Rd2 c4 32.Rg2 Kf8 33.Re2 Kg8 34.g5 hxg5 35.fxg5 Qxg5
+36.h6 c3 37.Rg2 Qh5 38.Rxg7+ Kf8 39.Qg4 Qh1+ 40.Kc2 Qh2+ 41.Qg2 1-0
+
+
+[Event "It (active)"]
+[Site "Benidorm (Spain)"]
+[Date "2005.11.17"]
+[Round "3"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Contreras Henry (COL)"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2658"]
+[BlackElo "2311"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.e5 Ng8 7.Bf4
+Ne7 8.Bd3 Ng6 9.Bxg6 hxg6 10.O-O d5 11.exd6 Bxd6 12.Nxe6 Bxe6
+13.Bxd6 Nd7 14.Nd5 Rc8 15.Nf4 Nf8 16.g3 Rc6 17.Bxf8 Qxd1 18.Raxd1
+Rxf8 19.Nxe6 Rxe6 20.Rd2 f6 21.Rfd1 Re7 22.Rd6 Kf7 23.Rb6 Rc8
+24.c3 Rcc7 25.h4 Re2 26.Rd4 Ree7 27.Kg2 Ke8 28.Kf3 Kf7 29.Re4
+Red7 30.Ke2 Rd5 31.Rd4 Re5+ 32.Kd3 Ree7 33.a4 Re1 34.Rbd6 Rce7
+35.Rd7 Rd1+ 36.Kc2 Rde1 37.Rxe7+ Rxe7 38.Kd3 Rc7 39.a5 Ke6 40.b4
+Ke5 41.c4 Rf7 42.Rd5+ Ke6 43.Kd4 Rc7 44.c5 Rc8 45.Rd6+ Ke7 46.Kd5
+Rh8 47.Rb6 Rd8+ 48.Kc4 Rd7 49.c6 bxc6 50.Rxc6 Ra7 51.Kc5 Kd7
+52.Kb6 Ra8 53.Rc7+ Kd6 54.Rxg7 Rb8+ 55.Rb7 Kd5 1-0

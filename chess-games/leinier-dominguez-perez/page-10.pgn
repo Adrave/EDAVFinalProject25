@@ -1,0 +1,625 @@
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2018.01.18"]
+[Round "1"]
+[White "Dominguez Perez, L."]
+[Black "Yu Yangyi"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2739"]
+[BlackElo "2760"]
+[PlyCount "208"]
+[EventDate "2018.01.18"]
+[EventType "team (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "Las Vegas Desert Rats"]
+[BlackTeam "Cheng Du Pandas"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6
+8. Bd3 Bf6 9. Qd2 Be6 10. Ng5 Bxg5 11. Bxg5 Qd7 12. O-O-O f6 13. Bf4 O-O-O 14.
+b3 Bf5 15. Be2 h5 16. Rhe1 Rde8 17. Kb2 Bg6 18. a4 Re7 19. Bf1 Rhe8 20. Rxe7
+Rxe7 21. h3 Kb8 22. Be3 a6 23. f3 Re5 24. Bf2 Ne7 25. f4 Re6 26. g4 hxg4 27.
+hxg4 f5 28. Bc4 d5 29. Qd4 Nc8 30. Bd3 Re7 31. Rh1 Re8 32. Rg1 Re7 33. Rh1 Re8
+34. c4 Qf7 35. g5 dxc4 36. Bxc4 Qf8 37. Rd1 Bh5 38. Rd2 Qd6 39. Qc3 Qxf4 40.
+Bf7 Qxd2 41. Qxd2 Bxf7 42. Qd7 Re7 43. Qxf5 Be6 44. Qc5 g6 45. Bg3 Bf5 46. Be5
+b6 47. Qd4 a5 48. Kc1 Rd7 49. Qf4 Ne7 50. Qf2 Kb7 51. Qf3+ Nc6 52. Bc3 Rh7 53.
+Qf4 Re7 54. Qf3 Rh7 55. Qg2 Re7 56. Kb2 Re4 57. Qf3 Rg4 58. Bf6 Rh4 59. Qf2 Rh3
+60. Qg2 Rh4 61. Bc3 Rg4 62. Qd2 Be4 63. Qe3 Bf5 64. Qd2 Re4 65. Qf2 Ne7 66. Qf3
+Nd5 67. Bf6 Nb4 68. Bc3 Nc6 69. Bf6 Re1 70. Bc3 Rg1 71. Bf6 Re1 72. Bc3 Re7 73.
+Bf6 Rh7 74. Bc3 Rh2 75. Ka3 Bxc2 76. Qg3 Re2 77. Qf3 Re6 78. Qg2 Be4 79. Qg3
+Rd6 80. Qe3 Bf5 81. Kb2 Rd3 82. Qf2 Ne7 83. Qg2+ Nc6 84. Qf2 Rh3 85. Qf4 Rh1
+86. Qf3 Rg1 87. Qe3 Rg2+ 88. Ka3 Rg4 89. Qd2 Re4 90. Qf2 Be6 91. Qc2 Bf5 92.
+Qg2 Re6 93. Qd2 Ne7 94. Bf6 Nc6 95. Bc3 Re4 96. Qd5 Re2 97. Qf3 Rc2 98. Bb2 Kb8
+99. Bc3 Kb7 100. Bb2 Rc5 101. Bd4 Rc1 102. Bc3 Rc2 103. Bb2 Rh2 104. Qd5 Rh3
+0-1
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2018.01.25"]
+[Round "2"]
+[White "Dominguez Perez, L."]
+[Black "Margvelashvili, G."]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "2739"]
+[BlackElo "2530"]
+[PlyCount "54"]
+[EventDate "2018.01.18"]
+[EventType "team (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "Las Vegas Desert Rats"]
+[BlackTeam "Seattle Sluggers"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 c5 5. b3 Nc6 6. Bb2 cxd4 7. exd4 g6 8. O-O
+Bg7 9. Ba3 a6 10. Re1 b5 11. c3 Bb7 12. Qc1 Rc8 13. Qf4 Ne7 14. Ne5 O-O 15. Bc5
+Ne4 16. Bxe4 dxe4 17. Ng4 f5 18. Qd6 Rxc5 19. Qxc5 fxg4 20. Nd2 Rf5 21. Qa3 Nd5
+22. Nxe4 b4 23. cxb4 Bxd4 24. Rad1 Qb6 25. Rd2 Nc3 26. Qb2 Bxe4 27. Rxe4 Bxf2+
+0-1
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2018.02.03"]
+[Round "4"]
+[White "Dominguez Perez, L."]
+[Black "Tang, Andrew"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2739"]
+[BlackElo "2513"]
+[PlyCount "86"]
+[EventDate "2018.01.18"]
+[EventType "team (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "Las Vegas Desert Rats"]
+[BlackTeam "Minnesota Blizzard"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 a6 6. c3 Ba7 7. Bb3 d6 8. Re1
+O-O 9. h3 h6 10. Nbd2 Be6 11. Bc2 Re8 12. Nf1 d5 13. exd5 Bxd5 14. Ng3 Qd6 15.
+Nh4 Rad8 16. Nhf5 Qf8 17. Bd2 b5 18. b4 Re6 19. a4 Bb6 20. Qe2 e4 21. dxe4 Bc4
+22. Qd1 Ne5 23. Qc1 Kh7 24. axb5 axb5 25. Be3 c5 26. Ra6 Nfd7 27. Qb1 cxb4 28.
+Bxb6 Rxb6 29. Rxb6 Nxb6 30. cxb4 Bd3 31. Bxd3 Nxd3 32. Rd1 Ne5 33. Rxd8 Qxd8
+34. Qc1 Nbc4 35. Nh5 Nd3 36. Qc3 Nce5 37. Nhxg7 Qg5 38. Kf1 Qf4 39. Qc2 Qxe4
+40. Qe2 Qxb4 41. g3 Qb1+ 42. Kg2 Ne1+ 43. Kh1 N1f3+ 0-1
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2018.02.03"]
+[Round "4"]
+[White "Dominguez Perez, L."]
+[Black "Caruana, F."]
+[Result "0-1"]
+[ECO "C53"]
+[WhiteElo "2739"]
+[BlackElo "2811"]
+[PlyCount "62"]
+[EventDate "2018.01.18"]
+[EventType "team (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "Las Vegas Desert Rats"]
+[BlackTeam "Saint Louis Arch Bishops"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Re1 h6 8. h3 a5
+9. Nbd2 a4 10. Nf1 Bd7 11. a3 Bb6 12. Ng3 Re8 13. Nh4 Ng4 14. hxg4 Qxh4 15. Qf3
+Bxg4 16. Qxf7+ Kh7 17. Be3 Rf8 18. Qd5 Ne7 19. Qb5 Ra5 20. Qb4 Nc6 21. Bxb6
+Nxb4 22. axb4 Raa8 23. Bxc7 Rxf2 24. Re3 Raf8 25. Bxd6 Bh3 26. Bxf8 Rxg2+ 27.
+Kh1 Rxg3 28. Rxg3 Qxg3 29. Rg1 Qf3+ 30. Kh2 Qf2+ 31. Kh1 Qxf8 0-1
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.27"]
+[Round "2.3"]
+[White "Dominguez Perez, L."]
+[Black "Hammer, J."]
+[Result "0-1"]
+[ECO "D05"]
+[WhiteElo "2739"]
+[BlackElo "2631"]
+[PlyCount "68"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. b3 b6 7. c4 Bb7 8. cxd5
+exd5 9. Ba3 Ne4 10. Bxd6 Qxd6 11. Qc2 a6 12. Nc3 f5 13. Ne5 Nd7 14. f4 Nxe5 15.
+fxe5 Qe7 16. Ne2 c5 17. Nf4 Rac8 18. Qe2 b5 19. Bxe4 dxe4 20. Rac1 Rfd8 21.
+Rfd1 cxd4 22. Rxc8 Rxc8 23. exd4 Ba8 24. Qe3 g5 25. Nh5 f4 26. Qh3 Rc7 27. Nf6+
+Kh8 28. d5 Qxe5 29. d6 Qc5+ 30. Kf1 Qc2 31. Qh5 e3 32. Qe8+ Kg7 33. Nh5+ Kh6
+34. Qe6+ Kxh5 0-1
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.27"]
+[Round "2.7"]
+[White "Dominguez Perez, L."]
+[Black "Hammer, J."]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2739"]
+[BlackElo "2631"]
+[PlyCount "105"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. b3 b6 7. c4 Bb7 8. cxd5
+exd5 9. Ba3 c5 10. Nc3 a6 11. Rc1 Nbd7 12. Qe2 b5 13. dxc5 Nxc5 14. Bxc5 Bxc5
+15. Nxb5 Bb6 16. Nbd4 g6 17. Rc2 Qd6 18. Rfc1 Qa3 19. Ne5 Rac8 20. Rxc8 Rxc8
+21. Rxc8+ Bxc8 22. Qc2 Bb7 23. Nec6 Kg7 24. h3 Nd7 25. b4 Bxd4 26. Nxd4 Qxb4
+27. Qc7 Nf8 28. Bf1 Kg8 29. h4 h5 30. a3 Qb2 31. a4 Qb4 32. a5 Kg7 33. Qe5+ Kg8
+34. Qc7 Kg7 35. g3 Kg8 36. Bh3 Kg7 37. Be6 Nxe6 38. Nxe6+ Kg8 39. Nd4 Kg7 40.
+Kg2 Ba8 41. Qe5+ Kh7 42. Qe8 Qb7 43. Kg1 Kg7 44. Qe5+ Kh7 45. Qd6 Kg7 46. Kg2
+Kh7 47. Kf3 Kg7 48. Kf4 Qc8 49. f3 f6 50. Ne6+ Kg8 51. Qd8+ Qxd8 52. Nxd8 Kf8
+53. Ne6+ 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.27"]
+[Round "2.9"]
+[White "Dominguez Perez, L."]
+[Black "Hammer, J."]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2739"]
+[BlackElo "2631"]
+[PlyCount "81"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. b3 c5 7. dxc5 Bxc5 8. Bb2
+Qe7 9. a3 b6 10. Nbd2 Bb7 11. c4 dxc4 12. Nxc4 a5 13. Nfe5 Nc6 14. Nxc6 Bxc6
+15. Qe2 Rad8 16. Ne5 Ba8 17. Rfd1 Qb7 18. Qf3 Qxf3 19. gxf3 Nd7 20. Nxd7 Rxd7
+21. Bxh7+ Kxh7 22. Rxd7 Bxf3 23. Bd4 Kg6 24. Bxc5 bxc5 25. Rc7 Rh8 26. Rxc5 Rh4
+27. Rc4 Rh5 28. Rf4 Bd5 29. Rg4+ Kh7 30. b4 e5 31. bxa5 Bf3 32. Ra4 e4 33. a6
+Be2 34. f4 exf3 35. h4 Rh6 36. a7 Rg6+ 37. Kh2 f2 38. a8=Q f1=Q 39. Rxf1 Bxf1
+40. Qe4 Kh6 41. Qf4+ 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.27"]
+[Round "2.11"]
+[White "Dominguez Perez, L."]
+[Black "Hammer, J."]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2739"]
+[BlackElo "2631"]
+[PlyCount "115"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. O-O O-O 6. b3 b6 7. c4 Bb7 8. cxd5
+exd5 9. Ba3 Bxa3 10. Nxa3 c5 11. Nb5 a6 12. Nc3 Nbd7 13. Rc1 Qe7 14. Qe2 Rfc8
+15. Rfd1 g6 16. h3 b5 17. dxc5 Rxc5 18. Qb2 Rac8 19. Ne2 Rxc1 20. Rxc1 Rxc1+
+21. Qxc1 Qc5 22. Qb2 Qd6 23. Ned4 Nc5 24. Bc2 Nce4 25. b4 Qc7 26. Bd3 Qc3 27.
+Qxc3 Nxc3 28. a3 Kf8 29. Kf1 Ke7 30. Ke1 Kd6 31. Ng5 Ke7 32. Kd2 Nce4+ 33. Nxe4
+dxe4 34. Bc2 Nd7 35. Nb3 Kd6 36. Kc3 Ke5 37. Nd4 Nb6 38. Bb3 Bd5 39. Bc2 h5 40.
+h4 f6 41. g3 g5 42. Bd1 Bf7 43. Nc6+ Kd6 44. Nb8 Nc4 45. a4 bxa4 46. Bxa4 Ne5
+47. Nxa6 Nf3 48. Nc5 Ke5 49. Nd7+ Kf5 50. b5 gxh4 51. gxh4 Nxh4 52. Kd4 Nf3+
+53. Kc5 Ne5 54. Nxe5 Kxe5 55. b6 Bd5 56. Bc6 Bxc6 57. Kxc6 Kf5 58. b7 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.27"]
+[Round "2.13"]
+[White "Dominguez Perez, L."]
+[Black "Hammer, J."]
+[Result "0-1"]
+[ECO "A78"]
+[WhiteElo "2739"]
+[BlackElo "2631"]
+[PlyCount "96"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Be2 O-O 5. O-O d6 6. c4 c5 7. d5 e6 8. Nc3
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. e4 Rb8 12. a4 Nb4 13. f3 a6 14. Nc4 b5 15.
+axb5 axb5 16. Na3 c4 17. Naxb5 Rxb5 18. Nxb5 Qb6+ 19. Nd4 Nfxd5 20. exd5 Bxd4+
+21. Kh1 Ba6 22. Ra4 Bc5 23. Bd2 Nd3 24. Bxd3 cxd3 25. Bc3 d2 26. Rxa6 Qxa6 27.
+Bxd2 Qc4 28. Bc3 f6 29. Re1 Rxe1+ 30. Qxe1 Qxd5 31. Bxf6 Qf7 32. Qe7 Qxe7 33.
+Bxe7 Kf7 34. Bg5 Ke6 35. g3 Kd5 36. Kg2 Kc4 37. Kf1 Kd3 38. Bf6 d5 39. f4 d4
+40. g4 Kc2 41. b4 d3 42. bxc5 d2 43. c6 d1=Q+ 44. Kf2 Qd2+ 45. Kg3 Qe3+ 46. Kh4
+Qxf4 47. Bd8 Qxh2+ 48. Kg5 Qd2+ 0-1
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.27"]
+[Round "2.17"]
+[White "Dominguez Perez, L."]
+[Black "Hammer, J."]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2739"]
+[BlackElo "2631"]
+[PlyCount "66"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Be2 O-O 5. O-O d6 6. c4 c5 7. dxc5 dxc5 8.
+Qxd8 Rxd8 9. Nc3 Bf5 10. Bd2 Ne4 11. Nxe4 Bxe4 12. Bc3 Bxc3 13. bxc3 Nc6 14.
+Rfd1 Na5 15. Kf1 f6 16. Ke1 Kf7 17. g3 b6 18. Nd2 Bc2 19. Rdc1 Ba4 20. h4 Rac8
+21. Rab1 Rd7 22. Rb2 Rcd8 23. h5 g5 24. f4 gxf4 25. gxf4 Bc6 26. Nb3 Nb7 27.
+Rd1 Nd6 28. Nd2 Rg8 29. Kf2 Rg2+ 30. Kf1 Nf5 31. Bf3 Nxe3+ 32. Ke1 Bxf3 33.
+Nxf3 Rxd1# 0-1
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.2"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "99"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Nd7
+8. Bf4 Nxe5 9. Bxe5 f6 10. Bg3 c5 11. Bc4 cxd4 12. O-O Bd6 13. Re1 Bxg3 14.
+hxg3 O-O 15. Re4 Kh8 16. Rxd4 Qc7 17. Bb3 e5 18. Rd2 Bf5 19. Qf3 Bg6 20. Rad1
+Rad8 21. Kh2 Rxd2 22. Rxd2 b6 23. Qd5 h5 24. Qd7 Rc8 25. c3 Kh7 26. Be6 Qxd7
+27. Rxd7 Re8 28. Bd5 a5 29. Rb7 Rd8 30. c4 Rd6 31. Kg1 Kh6 32. f3 Bb1 33. a3 g5
+34. Kf2 h4 35. g4 Kg6 36. b4 axb4 37. axb4 f5 38. Ke3 fxg4 39. fxg4 Kf6 40. b5
+Bg6 41. Rc7 Be8 42. Be4 Bf7 43. c5 bxc5 44. Rxc5 Be6 45. Bf3 Rd4 46. b6 Rb4 47.
+b7 Rb3+ 48. Kd2 Bxg4 49. Bd5 Rb6 50. Rc6+ 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.4"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "57"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 Be7 8. a3
+a5 9. Nf4 a4 10. Bd3 cxd4 11. cxd4 Qb6 12. Bc2 g5 13. Ne2 g4 14. Nfg1 Qa5+ 15.
+Bd2 Qa6 16. h3 gxh3 17. Rxh3 h5 18. Nf3 Nb6 19. Bg5 Bd7 20. Bxe7 Kxe7 21. Qd2
+Qa5 22. Nc3 Rag8 23. Ng5 Nc4 24. Qf4 Be8 25. Bxa4 Nxb2 26. Bxc6 bxc6 27. Rb1
+Na4 28. Rb7+ Kd8 29. Nxf7+ 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.6"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "52"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 Be7 8. a3
+b5 9. Nf4 b4 10. axb4 cxb4 11. Bd3 a5 12. h4 Ba6 13. Ng5 Bxd3 14. Qxd3 Bxg5 15.
+hxg5 Qxg5 16. Rxh7 Rxh7 17. Qxh7 O-O-O 18. Qd3 Qf5 19. Qa6+ Kc7 20. Rxa5 Qe4+
+21. Ne2 Rb8 22. Ra1 Qxg2 23. Be3 Rb7 24. Qa4 Ra7 25. Qd1 Qh1+ 26. Kd2 Rxa1 0-1
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.8"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "69"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 b5 8. a3 a5
+9. Nf4 b4 10. axb4 cxb4 11. h4 h6 12. Bd3 Ba6 13. Nxe6 fxe6 14. Bg6+ Ke7 15.
+Ng5 hxg5 16. Bxg5+ Nf6 17. Qf3 Kd7 18. exf6 gxf6 19. Bxf6 Be7 20. Bxh8 Qxh8 21.
+Bd3 bxc3 22. bxc3 Nxd4 23. cxd4 Qxd4 24. Rd1 Rf8 25. Bb5+ Bxb5 26. Rxd4 Rxf3
+27. gxf3 Bf6 28. Rf4 Bc3+ 29. Kd1 e5 30. Rf6 e4 31. Rb6 Bd3 32. h5 a4 33. h6 a3
+34. Rb7+ Kc6 35. Ra7 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.12"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "57"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Bd6
+8. Qf3 c5 9. Bb5+ Ke7 10. O-O cxd4 11. Bf4 g5 12. Bg3 h5 13. h3 g4 14. hxg4
+hxg4 15. Qf4 Rh5 16. Rfe1 Qh8 17. Nc6+ Ke8 18. Ne5+ Kf8 19. Kf1 Rf5 20. Qxd4
+Be7 21. Bd3 Rh5 22. Rad1 Rh1+ 23. Ke2 Rh5 24. Kd2 Nd5 25. Kc1 Bf6 26. Kb1 Ne7
+27. Bc4 Nc6 28. Qd6+ Be7 29. Qc7 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.14"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "65"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 b5 8. a3 a5
+9. Nf4 b4 10. axb4 cxb4 11. h4 h6 12. Bd3 Qb6 13. O-O Ba6 14. Be3 Bxd3 15. Qxd3
+Qa6 16. Qc2 Rc8 17. Nxe6 fxe6 18. Qg6+ Ke7 19. cxb4 Nxb4 20. Bd2 Kd8 21. Rac1
+Rc4 22. b3 Rxc1 23. Rxc1 Qd3 24. Qxe6 Qxb3 25. Qf7 Be7 26. Qxg7 Rf8 27. Bxh6
+Rxf3 28. gxf3 Qxf3 29. Qg8+ Nf8 30. Bxf8 Bxf8 31. Qg6 Qf4 32. Qb6+ Ke8 33. Qe6+
+1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.16"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "73"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. Qe2 Be7 8.
+Neg5 Bd5 9. c4 Bxf3 10. Nxf3 Ngf6 11. O-O O-O 12. b3 c6 13. Bb2 a5 14. a3 Qc7
+15. Rad1 Rfe8 16. Rfe1 Rad8 17. g3 Bf8 18. Kg2 g6 19. h4 Bg7 20. Bc1 Ng4 21.
+Bg5 Rc8 22. h5 e5 23. hxg6 hxg6 24. dxe5 Ndxe5 25. Bf4 Qb6 26. Nxe5 Nxe5 27.
+Bc2 Qc5 28. Qe3 Qxa3 29. c5 Qb2 30. Re2 Qa3 31. Rde1 a4 32. bxa4 Qb4 33. Bb3
+Kf8 34. Bxe5 Rxe5 35. Qf3 Rf5 36. Qe3 Qxc5 37. Qe8+ 1-0
+
+
+[Event "chess.com Speed Inv Qualifier"]
+[Site "chess.com INT"]
+[Date "2018.06.26"]
+[Round "1.20"]
+[White "Dominguez Perez, L."]
+[Black "Meier, Geo"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2739"]
+[BlackElo "2628"]
+[PlyCount "39"]
+[EventDate "2018.06.26"]
+[EventType "k.o. (blitz)"]
+[EventRounds "2"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 b5 8. a3 b4
+9. axb4 cxb4 10. Nf4 Be7 11. h4 a5 12. Ng5 Bxg5 13. hxg5 Qb6 14. g6 Nf8 15.
+gxf7+ Kxf7 16. Bd3 Ba6 17. Bc2 Rc8 18. Bd2 Ke7 19. Qg4 Rg8 20. Bxh7 1-0
+
+
+[Event "chess.com Speed 3m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.08.02"]
+[Round "10"]
+[White "Dominguez Perez, L."]
+[Black "Vachier Lagrave, M."]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2739"]
+[BlackElo "2779"]
+[PlyCount "109"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Be2 O-O 5. O-O d6 6. c4 Bf5 7. Nc3 a5 8. Bd3
+Bxd3 9. Qxd3 Nc6 10. e4 e5 11. d5 Ne7 12. Rb1 Nd7 13. a3 Nc5 14. Qc2 a4 15. Be3
+Qd7 16. Bxc5 dxc5 17. Ne1 Nc8 18. Nb5 Nd6 19. Nxd6 cxd6 20. Nf3 h6 21. b3 f5
+22. bxa4 Qxa4 23. Qe2 Rf7 24. Rb6 Ra6 25. Rxa6 bxa6 26. Rb1 Qxa3 27. h4 f4 28.
+Rb8+ Kh7 29. Rb6 Bf8 30. h5 g5 31. Nh2 Qc1+ 32. Nf1 f3 33. gxf3 a5 34. Kg2 a4
+35. Ra6 a3 36. Ne3 Rb7 37. Qc2 Qa1 38. Qa4 Rb1 39. Qd7+ Kh8 40. Ra7 Rg1+ 41.
+Kh3 g4+ 42. Kh4 Rh1+ 43. Kxg4 Qg1+ 44. Kf5 Rxh5+ 45. Kf6 Qg5+ 46. Kf7 Qg7+ 47.
+Ke8 Qxd7+ 48. Kxd7 Rg5 49. Rxa3 h5 50. Nf5 Rg6 51. Ke8 Rf6 52. Ra1 Kh7 53. Rh1
+Kg6 54. Rg1+ Kh7 55. Rg5 1-0
+
+
+[Event "chess.com Speed 3m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.08.02"]
+[Round "18"]
+[White "Dominguez Perez, L."]
+[Black "Vachier Lagrave, M."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2739"]
+[BlackElo "2779"]
+[PlyCount "95"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 b5 8. Ng3
+Nbd7 9. Bg5 h6 10. Be3 Bb7 11. Bd3 h5 12. Bg5 g6 13. O-O Be7 14. a3 h4 15. Nge2
+Nc5 16. Bxf6 Bxf6 17. b4 Ne6 18. a4 bxa4 19. Rxa4 O-O 20. Bc4 Nd4 21. Bd5 Bxd5
+22. Nxd5 Bg7 23. c3 Ne6 24. Qd3 f5 25. Rxa6 fxe4 26. Qc4 Rxa6 27. Qxa6 Kh7 28.
+Qc4 Ng5 29. b5 Rf3 30. gxf3 Qd7 31. f4 Nf3+ 32. Kg2 Nd2 33. Qc7 Qxb5 34. Nf6+
+Kh6 35. Ng4+ Kh7 36. c4 Qb3 37. Nf6+ Kh6 38. Ng4+ Kh7 39. Ne3 Nxf1 40. Kxf1
+Qb1+ 41. Kg2 Qd3 42. fxe5 Qxe2 43. e6 Qf3+ 44. Kg1 Kh6 45. e7 Bd4 46. e8=Q Bxe3
+47. Qh8+ Kg5 48. Qe7+ 1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.08.02"]
+[Round "28"]
+[White "Dominguez Perez, L."]
+[Black "Vachier Lagrave, M."]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2739"]
+[BlackElo "2779"]
+[PlyCount "73"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. d4 b6 2. Nf3 Bb7 3. e3 Nf6 4. Bd3 e6 5. O-O c5 6. c4 Be7 7. Nc3 O-O 8. d5
+exd5 9. cxd5 d6 10. e4 Nbd7 11. h3 Re8 12. Bf4 Bf8 13. Re1 a6 14. a4 Rc8 15.
+Qd2 c4 16. Bc2 Nc5 17. Rad1 g6 18. e5 dxe5 19. Bxe5 Bd6 20. Qd4 Bxe5 21. Nxe5
+Nd3 22. Bxd3 cxd3 23. Rxd3 Rc5 24. b4 Rc8 25. d6 Re6 26. Red1 Nd7 27. Nxd7 Qxd7
+28. Qxb6 Rc4 29. Nd5 Kg7 30. Ne3 Rf4 31. Qc7 Qxc7 32. dxc7 Rc6 33. Rd7 Rxb4 34.
+Re7 Rb2 35. Ng4 h5 36. Rxf7+ Kxf7 37. Ne5+ 1-0
+
+
+[Event "chess.com Speed 5m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.08.02"]
+[Round "6"]
+[White "Dominguez Perez, L."]
+[Black "Vachier Lagrave, M."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2739"]
+[BlackElo "2779"]
+[PlyCount "127"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. Bg5
+Be6 9. Bxf6 Qxf6 10. Nd5 Qd8 11. Qd3 Nd7 12. O-O-O Nc5 13. Qf3 b5 14. h4 Rb8
+15. g3 Qc8 16. Kb1 b4 17. Qe3 a5 18. Nc1 g6 19. Nf6+ Ke7 20. Qg5 Bh6 21. Ng8+
+Kf8 22. Nxh6 Nxe4 23. Qe3 Qc6 24. Bd3 Nc3+ 25. bxc3 bxc3+ 26. Nb3 a4 27. Be4
+Qb6 28. Qxc3 Rxh6 29. f4 axb3 30. axb3 Rc8 31. Qd2 Kg7 32. Qxd6 Qxd6 33. Rxd6
+exf4 34. gxf4 Rhh8 35. Kb2 Rhe8 36. Bd3 Bg4 37. Rh2 Re3 38. Rd4 Kf6 39. b4 Bf5
+40. Rd6+ Ke7 41. Bxf5 gxf5 42. Rd4 Re4 43. Rhd2 Rc4 44. Rxc4 Rxc4 45. Kb3 Rxf4
+46. b5 Rxh4 47. c4 Rh1 48. Kb2 Rh4 49. Kb3 Rh1 50. Ka2 Rc1 51. b6 Rxc4 52. b7
+Rb4 53. Rb2 Rxb7 54. Rxb7+ Ke6 55. Kb3 Ke5 56. Kc3 Kf4 57. Kd2 Kg3 58. Ke1 Kg2
+59. Rxf7 h4 60. Rg7+ Kh1 61. Kf2 f4 62. Rb7 h3 63. Rb1+ Kh2 64. Rb3 1-0
+
+
+[Event "Saint Louis Blitz 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.15"]
+[Round "11.2"]
+[White "Dominguez Perez, L."]
+[Black "Mamedyarov, S."]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2739"]
+[BlackElo "2801"]
+[PlyCount "79"]
+[EventDate "2018.08.14"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. c3 d6 6. Nbd2 g5 7. h3 Nh5 8. g3 Nf6
+9. Nf1 Bg7 10. Ne3 Ne7 11. Bb3 c6 12. h4 g4 13. Nh2 h5 14. f3 d5 15. fxg4 hxg4
+16. O-O Be6 17. Nhxg4 Nh5 18. Qf3 Qd6 19. c4 dxe4 20. dxe4 O-O-O 21. Rd1 Qc5
+22. Rxd8+ Rxd8 23. Nf2 Nf6 24. Kg2 a5 25. Nf1 Qd4 26. Rb1 Nd7 27. Be3 Qd6 28.
+Rd1 Qb4 29. Nd3 Qd6 30. Nc5 Qc7 31. Nxe6 fxe6 32. Qf7 Bh8 33. c5 Nd5 34. exd5
+exd5 35. Bg5 Rf8 36. Qe6 a4 37. Bxa4 Qa5 38. Rxd5 cxd5 39. Bxd7+ Kb8 40. Qd6+
+1-0
+
+
+[Event "Saint Louis Blitz 2018"]
+[Site "Saint Louis USA"]
+[Date "2018.08.14"]
+[Round "5.3"]
+[White "Dominguez Perez, L."]
+[Black "So, W."]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2739"]
+[BlackElo "2780"]
+[PlyCount "79"]
+[EventDate "2018.08.14"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. O-O
+Nbc6 9. Bb5 a6 10. Bxc6+ Nxc6 11. Nxf5 exf5 12. c3 Qd7 13. Re1 Be7 14. Nd2 O-O
+15. Nf3 Qe6 16. Qb3 b5 17. a4 b4 18. Rad1 bxc3 19. bxc3 Rfd8 20. h3 h6 21. Qc2
+g5 22. Nd4 Nxd4 23. Bxd4 Rac8 24. Rb1 Bc5 25. Qd3 Bxd4 26. cxd4 Rc4 27. a5 Rdc8
+28. Rb6 R8c6 29. Reb1 Kg7 30. Kh2 f4 31. Rxc6 Rxc6 32. Rb7 h5 33. Qf3 Kh6 34.
+Rb8 Rc8 35. Rxc8 Qxc8 36. Qxd5 g4 37. Qxf7 g3+ 38. fxg3 fxg3+ 39. Kxg3 h4+ 40.
+Kh2 1-0
+
+
+[Event "Champions Chess960 G5"]
+[Site "Saint Louis USA"]
+[Date "2018.09.13"]
+[Round "6.5"]
+[White "Dominguez Perez, Leinier"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[BlackElo "2780"]
+[ECO "C02"]
+[EventDate "2018.09.11"]
+[WhiteElo "2739"]
+
+1. e4 d5 2. e5 e6 3. d4 c5 4. b3 Qa5+ 5. Qd2 Qxd2+ 6. Kxd2 f6
+1-0

@@ -1,0 +1,578 @@
+[Event "It (cat.14)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1980.??.??"]
+[Round "5"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Dolmatov Sergey (RUS)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2725"]
+[BlackElo "2535"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.Be2
+Bg5 14.O-O Be6 15.Qd3 Qd7 16.Qg3 f6 17.Rfd1 a5 18.Na3 Na7 19.h3
+Kh8 20.Bg4 Rfc8 21.Bxe6 Qxe6 22.Qd3 Rc5 23.Nc2 g6 24.b4 axb4
+25.Ncxb4 Rb7 26.a4 bxa4 27.Rxa4 f5 28.Ra6 Nc8 29.Ra8 Kg7 30.Qe2
+fxe4 31.Qxe4 Qf5 32.Qe2 Rf7 33.c4 Bh4 34.Rf1 Ne7 35.Ra6 Qd7 36.Qe4
+Nxd5 37.Nxd5 Be7 38.Rfa1 Bf8 39.Qe2 Rc6 40.R6a3 Rc5 41.Rf3 Rxf3
+42.Qxf3 Qf7 43.Qg4 h5 44.Qe4 Rc8 45.Ra3 Qf5 46.Ra7+ Kh6 47.Qe3+
+g5 48.Qe2 Rb8 49.g4 hxg4 50.hxg4 Qb1+ 51.Kg2 Rb7 52.Rxb7 Qxb7
+53.Qf3 Qc8 54.Qf6+ Kh7 55.Qf7+ 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1980.??.??"]
+[Round "11"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Hort Vlastimil (GER)"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2725"]
+[BlackElo "2595"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Qe2 Qe7 7.Bxe4
+dxe4 8.Bf4 Nxe5 9.Bxe5 Bf5 10.Nc3 O-O-O 11.O-O-O Qe6 12.Qe3 h5
+13.h3 f6 14.Bh2 g6 15.Kb1 Bh6 16.Qg3 Rh7 17.Rhe1 Qb6 18.Nxe4
+Rxd4 19.Rxd4 Qxd4 20.Qb3 Rd7 21.a3 b6 22.f3 Qd5 23.Qa4 Kb7 24.g4
+hxg4 25.hxg4 Bxe4 26.Rxe4 Bg7 27.Re3 Qd1+ 28.Ka2 Qd5+ 29.c4 Qd2
+30.c5 Qd5+ 31.Rb3 f5 32.gxf5 gxf5 33.Bg1 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1980.??.??"]
+[Round "7"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2725"]
+[BlackElo "2585"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Ngf6 12.O-O-O Be7 13.c4
+a5 14.Kb1 a4 15.Ne5 Nxe5 16.Bxe5 Qa5 17.Ne4 O-O-O 18.c5 Nxe4
+19.Qxe4 Bf6 20.Bxf6 gxf6 21.Qf4 f5 22.Rd3 Rd5 23.Rhd1 Qc7 24.Qd2
+f4 25.Ra3 Rg8 26.f3 Rdg5 27.Rg1 Rxh5 28.Rxa4 Qb8 29.Re1 Rh2 30.Re2
+Rh1+ 31.Kc2 h5 32.Qd3 Kd7 33.Rb4 Rg1 34.d5 cxd5 35.c6+ Kxc6 36.Qb5+ 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1980.??.??"]
+[Round "13"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Ribli Zoltan (HUN)"]
+[Result "1-0"]
+[ECO "A38"]
+[WhiteElo "2725"]
+[BlackElo "2610"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 g6 7.O-O
+Bg7 8.Nxd5 Qxd5 9.d3 O-O 10.Be3 Bd7 11.Nd4 Qd6 12.Nxc6 Bxc6 13.Bxc6
+Qxc6 14.Rc1 Qe6 15.Rxc5 Qxa2 16.Rb5 b6 17.Qa1 Qxa1 18.Rxa1 Rfb8
+19.Ra6 Kf8 20.Rb4 Be5 21.Rba4 b5 22.Ra2 Rb7 23.b3 Bb8 24.Bc5
+Ke8 25.d4 Kd7 26.e4 e6 27.b4 Kc8 28.d5 exd5 29.exd5 Rd7 30.d6
+Rd8 31.Kg2 Kd7 32.Re2 Kc8 33.Re7 Rd7 34.Ra2 a5 35.Rc2 1-0
+
+
+[Event "It (cat.14)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1980.??.??"]
+[Round "8"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Van Der Wiel John T H (NED)"]
+[Result "1-0"]
+[ECO "B66"]
+[WhiteElo "2725"]
+[BlackElo "2465"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O h6 9.Be3 Bd7 10.f3 Qc7 11.g4 Ne5 12.h4 b5 13.Rg1 h5
+14.g5 Ng8 15.Be2 Rb8 16.f4 b4 17.Nb1 Ng4 18.Bxa6 g6 19.Rgf1 Nxe3
+20.Qxe3 Ne7 21.f5 gxf5 22.exf5 e5 23.f6 exd4 24.Rxd4 Be6 25.fxe7
+Bg7 26.Re4 Qa5 27.Rxe6 Qxa6 28.Rxf7 Kxf7 29.e8Q+ Rbxe8 30.g6+
+Kg8 31.Rxe8+ Bf8 32.Qe6+ 1-0
+
+
+[Event "It (cat.15)"]
+[Site "Bad Kissingen (Germany)"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Huebner Robert Dr (GER)"]
+[Result "1-0"]
+[ECO "B85"]
+[WhiteElo "2725"]
+[BlackElo "2600"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O
+Be7 8.f4 O-O 9.Kh1 Nc6 10.Be3 Bd7 11.Qe1 Nxd4 12.Bxd4 Bc6 13.Qg3
+b5 14.a3 g6 15.Bf3 Qd7 16.Rad1 Qb7 17.f5 e5 18.Be3 b4 19.axb4
+Qxb4 20.Bg5 Qxb2 21.Rd3 Qxc2 22.Bd1 Qb2 23.Bxf6 Bxf6 24.Rxd6
+Bb5 25.Rf2 Qc1 26.Rxf6 Rac8 27.Rc2 Qa1 28.fxg6 hxg6 29.Rd6 Rc7
+30.Qxe5 Rfc8 31.Qd5 Kg7 32.Qd4+ Kh7 33.Nxb5 1-0
+
+
+[Event "It (cat.15)"]
+[Site "Bad Kissingen (Germany)"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Unzicker Wolfgang (GER)"]
+[Result "1-0"]
+[ECO "D58"]
+[WhiteElo "2725"]
+[BlackElo "2510"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Nf3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4 b6
+8.Qb3 dxc4 9.Bxc4 Bb7 10.O-O Nbd7 11.Rfd1 Ne4 12.Bg3 Nxc3 13.bxc3
+Bd6 14.a4 Bxg3 15.hxg3 Qf6 16.Nd2 c5 17.a5 Qe7 18.Bb5 Rfc8 19.axb6
+Nxb6 20.Ba6 Rc7 21.Bxb7 Rxb7 22.Ne4 cxd4 23.cxd4 Nd5 24.Qd3 a5
+25.Nc5 Rba7 26.Qb3 Nf6 27.Qb5 Qd8 28.Rdb1 Nd7 29.Qa4 Nb6 30.Qc6
+Nd7 31.Nb7 Qe7 32.Nxa5 e5 33.Nb3 Rxa1 34.Nxa1 Ra2 35.Nc2 exd4
+36.Qc8+ Kh7 37.Qc4 Ra8 38.Qd3+ Kg8 39.Nxd4 Nf6 40.Rc1 Qe4 41.Qe2
+Rd8 42.Qf3 Qe5 43.Qf4 Qh5 44.f3 Nd5 45.Qe4 Nf6 46.Qf5 Qxf5 47.Nxf5
+Rd3 48.g4 Nd7 49.Kf2 Ne5 50.Rc5 Ng6 51.Rc8+ Kh7 52.f4 Rd5 53.g3
+Ra5 54.Rc7 Kg8 55.Nd6 Nh8 56.e4 Ra2+ 57.Kf3 Ra3+ 58.Kg2 f6 59.Re7
+Rd3 60.Re8+ Kh7 61.Nf5 Nf7 62.Re6 Kg8 63.Kf2 Kf8 64.Ra6 Rd8 65.Ke3
+Rb8 66.Ra7 Rd8 67.Nd4 Re8 68.Ra6 Rb8 69.Kd3 Rd8 70.Kc3 Rc8+ 71.Kb4
+Re8 72.Ne6+ Kg8 73.Kc4 Nd8 74.Nc5 Nf7 75.Kd5 Rc8 76.Nd7 Nd8 77.Nc5
+Nf7 78.Rc6 Ra8 79.Rc7 Kf8 80.Ne6+ Kg8 81.e5 fxe5 82.fxe5 Re8
+83.Rd7 Ra8 84.Nc5 Re8 85.e6 Ng5 86.Kd6 Kf8 87.Ra7 Rd8+ 88.Nd7+
+Ke8 89.Ra4 Nh7 90.Ke5 Nf8 91.Kf5 Nxd7 92.exd7+ Rxd7 93.Kg6 Kf8
+94.Ra8+ Ke7 95.Kxg7 Rd4 96.Ra7+ Ke8 97.Kxh6 Rxg4 98.Rg7 Ra4 99.g4
+Kf8 100.g5 Rg4 101.Ra7 Rg1 102.Kg6 Rg2 103.Ra8+ Ke7 1-0
+
+
+[Event "It (cat.13)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Andersson Ulf (SWE)"]
+[Result "1-0"]
+[ECO "E14"]
+[WhiteElo "2725"]
+[BlackElo "2590"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 cxd4
+8.exd4 d5 9.Bb2 O-O 10.Nbd2 a6 11.Re1 Nbd7 12.Qe2 Re8 13.Rac1
+dxc4 14.bxc4 b5 15.c5 Bd5 16.a4 bxa4 17.Nc4 Rb8 18.Bc3 Qc7 19.Ba5
+Qa7 20.Ra1 Bc6 21.Bc2 h6 22.Bxa4 Bxa4 23.Rxa4 Nd5 24.Qa2 Ra8
+25.Bd2 Nc7 26.Rc1 Nb5 27.Ra1 Bf6 28.Ne3 h5 29.Qc2 Qc7 30.Qc4
+Nb8 31.Nc2 Qb7 32.Bg5 Bxg5 33.Nxg5 Qd5 34.Qxd5 exd5 35.Nb4 Nxd4
+36.Nxd5 Nbc6 37.Nc7 Re5 38.Nxf7 Kxf7 39.Nxa8 a5 40.Rc4 Nb3 41.Rd1
+Ke7 42.Nb6 1-0
+
+
+[Event "It (cat.13)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Polugaevsky Lev A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[WhiteElo "2700"]
+[BlackElo "2610"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Bd2 f5 9.Qc2 Bf6 10.Rad1 Nxc3 11.Bxc3 Be4 12.Qd2 d6 13.Ne1
+Bxg2 14.Nxg2 Qe7 15.Nf4 Nd7 16.d5 Bg5 17.dxe6 Bxf4 18.Qxf4 Qxe6
+19.Rfe1 Nc5 1/2-1/2
+
+
+[Event "It (cat.13)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Portisch Lajos (HUN)"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[WhiteElo "2700"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3
+Nc6 8.Bg5 Nd4 9.Nxd4 Bxd4 10.e3 Qa5 11.exd4 Qxg5 12.Qd2 Qxd2+
+13.Kxd2 b6 14.f3 Ba6 15.Rc1 Rac8 16.b3 Rfd8 17.Be2 Kf8 18.Rhe1
+d6 19.Rc2 Nd7 20.Kc1 Nf6 21.Kb2 Rd7 22.Rec1 Bb7 23.Nb5 a6 24.Nc3
+Rdc7 25.Bd3 g6 26.b4 Ke7 27.Re1 Kd8 28.f4 Bc6 29.a4 Ra8 30.g3
+a5 31.b5 Bb7 32.Nb1 Rac8 33.Nd2 Ke7 34.Nb3 Nd7 35.Bf1 Bd5 36.Nd2
+Ba8 37.Rc3 h5 38.h4 Bb7 39.Rce3 d5 40.Rc1 dxc4 41.Rxc4 Bd5 42.Rxc7
+Rxc7 43.Rc3 Rxc3 44.Kxc3 Nf6 45.Be2 Ne8 46.Nf1 Nf6 47.Nd2 Kd6
+48.Bd1 Ke7 1/2-1/2
+
+
+[Event "It (cat.13)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Timman Jan H (NED)"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2700"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 g6 5.d4 c5 6.O-O Bg7 7.Nc3 Ne4
+8.Nxe4 Bxe4 9.d5 O-O 10.Bh3 Bxf3 11.exf3 e5 12.f4 exf4 13.Bxf4
+Bxb2 14.Rb1 Bf6 15.Qa4 d6 16.Rb3 h5 17.Re1 g5 18.Rbe3 gxf4 19.Re8
+b5 20.Qxb5 Qb6 21.Rxf8+ Kxf8 22.Re8+ Kg7 23.gxf4 Qxb5 24.cxb5
+Bc3 25.Bf1 Ba5 26.Rc8 Kf6 27.Kg2 Ke7 28.Kf3 Bd8 29.a4 a6 30.bxa6
+Kd7 31.Bh3+ Ke7 32.Bf1 Kd7 1/2-1/2
+
+
+[Event "It (cat.13)"]
+[Site "Linares (Spain)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Bellon Lopez Juan Manuel (ESP)"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2700"]
+[BlackElo "2415"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4
+Be7 8.Nc3 O-O 9.Qe2 Re8 10.Rd1 Qc7 11.Be3 b6 12.Rac1 Bb7 13.f4
+Bf8 14.Kh1 Nbd7 15.b4 Rac8 16.Nb3 Qb8 17.Bd2 g6 18.Rf1 Qa8 19.a3
+Bg7 20.a4 d5 21.cxd5 Nxe4 22.Bxe4 exd5 23.Nxd5 Bxd5 24.Bxd5 Qxd5
+25.Rxc8 Rxc8 26.Rf3 b5 27.axb5 axb5 28.h3 Bf8 29.Rd3 Qc4 30.Na5
+Re8 31.Nxc4 Rxe2 32.Rxd7 bxc4 33.b5 Re6 34.Bc3 Rb6 35.Rd5 Rd6
+36.Rd4 Rxd4 37.Bxd4 Bd6 38.g3 Kf8 39.Kg2 Ke7 40.Kf3 Ke6 41.Be3
+Kd5 42.Ke2 Bc5 43.b6 Bd6 44.Kd2 Bb4+ 45.Kc2 Kc6 46.Kb2 f5 47.Bf2
+h5 48.h4 Kb7 49.Ka2 Ba5 50.Ka3 Bc3 51.Ka4 Bd2 52.Ka3 Ba5 53.Ka4
+Bd2 54.Ka3 Kc6 55.Ka4 Bc3 56.b7 Kxb7 57.Kb5 Bd2 58.Kxc4 Kc6 59.Kd3 1/2-1/2
+
+
+[Event "It (cat.13)"]
+[Site "Linares (Spain)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Kavalek Lubomir (USA)"]
+[Result "1/2-1/2"]
+[ECO "D59"]
+[WhiteElo "2700"]
+[BlackElo "2595"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6
+8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Be2 c5 13.Qa4
+Rc8 14.Qa3 a5 15.O-O Qa7 16.b3 Nd7 17.Bb5 Rc7 18.Rfd1 Rac8 19.h3 1/2-1/2
+
+
+[Event "It (cat.13)"]
+[Site "Linares (Spain)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "2700"]
+[BlackElo "2610"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Ne4
+Nxe4 14.Qxe4 Nf6 15.Qe2 Qd5 16.c4 Qf5 17.Ne5 c5 18.g4 Qe4 19.Qxe4
+Nxe4 20.Be3 Rc8 21.Kb1 O-O 22.f3 Nf6 23.f4 Ne4 24.dxc5 Bxc5 25.Bxc5
+Nxc5 26.Rd4 Rfd8 27.Rhd1 Rxd4 28.Rxd4 a5 29.b3 Kf8 30.Kb2 Ke8
+31.Kc3 f6 32.Nd3 Ke7 33.a3 Nxd3 34.Kxd3 Rg8 35.Ke4 g5 36.hxg6
+Rxg6 37.Kf3 Rg8 38.c5 Rc8 39.b4 axb4 40.axb4 b6 41.cxb6 Rb8 42.Ke4
+Rxb6 43.Kd3 f5 44.gxf5 exf5 45.Ke3 Kf6 46.Kf3 Kg6 47.Kg3 Kh5 1/2-1/2
+
+
+[Event "It (cat.13)"]
+[Site "Linares (Spain)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Ribli Zoltan (HUN)"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2700"]
+[BlackElo "2590"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.d4 cxd4
+8.Qxd4 d6 9.e4 O-O 10.b3 Nbd7 11.Bb2 a6 12.Rfd1 Qc7 13.Qe3 Rfe8
+14.Rac1 Bf8 15.Nd4 Rad8 16.Re1 Qb8 17.Qe2 g6 18.Rcd1 Bg7 19.Qc2
+Nc5 20.Kh1 Qa8 21.f3 Qb8 22.Qf2 Ba8 23.Ba1 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Merano (Italy)"]
+[Date "1981.??.??"]
+[Round "6"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Korchnoi Viktor (SUI)"]
+[Result "0-1"]
+[ECO "C82"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Bc5 10.Nbd2 O-O 11.Bc2 Bf5 12.Nb3 Bg6 13.Nfd4
+Bxd4 14.cxd4 a5 15.Be3 a4 16.Nc1 a3 17.b3 f6 18.exf6 Qxf6 19.Ne2
+Nb4 20.Bb1 Qe7 21.Qe1 Rfe8 22.Nf4 Bf7 23.Qc1 c5 24.dxc5 Qf6 25.Bxe4
+Rxe4 26.Ne2 d4 27.Ng3 Ree8 28.Qd2 Nc6 29.Bg5 Qe5 30.Rac1 d3 31.Rfd1
+Bg6 32.Be3 Re6 33.Bf4 Qf6 34.Re1 Rae8 35.Rxe6 Rxe6 36.Rb1 h5
+37.h3 h4 38.Bg5 Qd4 39.Be3 Qd5 40.Nf1 Be4 41.Bf4 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Merano (Italy)"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Korchnoi Viktor (SUI)"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Nbd2 a6 7.O-O
+O-O 8.Bb3 Ba7 9.h3 Be6 10.Bc2 d5 11.Re1 dxe4 12.dxe4 Nh5 13.Nf1
+Qxd1 14.Rxd1 Rad8 15.Be3 f6 16.Bxa7 Nxa7 17.Ne3 Nf4 18.h4 Bf7
+19.Ne1 Nc8 20.f3 Ne6 21.Nd3 Rd7 22.Bb3 Ne7 23.Nd5 Nc6 24.Ba4
+b5 25.Bc2 Rfd8 26.a4 Kf8 27.g3 Rd6 28.b4 Ne7 29.Ne3 Rc6 30.Ra3
+Nc8 31.axb5 axb5 32.Kf2 Nb6 33.Nb2 Rxd1 34.Bxd1 Rd6 35.Be2 Be8
+36.Ra5 Rd8 37.Ke1 c6 38.Ra6 Rb8 39.Bd1 Nc8 40.Nd3 Nc7 41.Ra5
+Ra8 42.f4 exf4 43.gxf4 Nb6 44.Bf3 Rd8 45.Be2 Na4 46.Ra7 Rd7 47.Kd2
+Ne6 48.Rxd7 Bxd7 49.Bg4 g6 50.f5 gxf5 51.Bxf5 Kg7 52.e5 Nf8 53.Bxd7
+Nxd7 54.e6 Ndb6 55.Nf4 Kf8 56.Kd3 Nc8 57.Ng4 Ke7 58.Nh6 Kd6 59.Kd4
+Ne7 60.Nf7+ Kc7 61.Nh5 c5+ 62.bxc5 Nc6+ 63.Ke3 Nxc5 64.Nxf6 Nxe6
+65.h5 Nf8 66.Ke4 Kb6 67.Ng5 h6 68.Nf7 Ne6 69.Ne8 Nc5+ 70.Ke3
+Na4 71.Kd2 b4 72.cxb4 Nxb4 73.Nxh6 Nc5 74.Nf5 Nd5 75.h6 Ne4+
+76.Kd3 Ng5 77.Kd4 Kc6 78.Nfg7 Ne7 79.Nf6 Ng6 80.Nf5 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Merano (Italy)"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Korchnoi Viktor (SUI)"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.Re1 Ba7
+8.Bb3 O-O 9.Nbd2 Be6 10.Nf1 Bxb3 11.Qxb3 Qc8 12.Ng3 Re8 13.h3
+Rb8 14.Be3 Qe6 15.Qxe6 fxe6 16.Rac1 Bxe3 17.Rxe3 Rbd8 18.d4 Rd7
+19.Kf1 Kf8 20.Rd1 h6 21.dxe5 Nxe5 22.Nxe5 dxe5 23.Rxd7 Nxd7 24.Ke2
+Ke7 25.Nf1 b5 26.Nd2 c5 27.Rg3 Rg8 28.b3 Nb8 29.a4 Nc6 30.axb5
+axb5 31.h4 Kf7 32.Rf3+ 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Merano (Italy)"]
+[Date "1981.??.??"]
+[Round "12"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Korchnoi Viktor (SUI)"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 Nxc3 5.bxc3 g6 6.d4 c5 7.e3
+Bg7 8.Bb5+ Nd7 9.O-O O-O 10.a4 a6 11.Bd3 b6 12.Rb1 Bb7 13.e4
+Qc7 14.Re1 e6 15.e5 h6 16.h4 Rfd8 17.Bf4 Nf8 18.Be3 Rab8 19.Qe2
+Bc6 20.Bxa6 cxd4 21.cxd4 Bxa4 22.Nd2 Qc6 23.Rec1 Qa8 24.Bd3 Bc6
+25.f3 b5 26.Nb3 Rbc8 27.Nc5 Nd7 28.Ne4 Bxe4 29.Rxc8 Qxc8 30.Bxe4
+Qc4 31.Bd3 Qc3 32.Bxb5 Nb6 33.Qd3 Nd5 34.Bf2 h5 35.Qxc3 Nxc3
+36.Rb3 Nd1 37.Rd3 Nxf2 38.Kxf2 Rb8 39.Bc4 Rb2+ 40.Kg3 Rb4 41.Rc3
+Rb8 42.f4 Rc8 43.Kf2 Bf8 44.Ke3 Bb4 45.Rc1 Ba3 46.Rc2 Bb4 47.Rc1 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Merano (Italy)"]
+[Date "1981.??.??"]
+[Round "16"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Korchnoi Viktor (SUI)"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.Nbd2 Nc5 10.c3 d4 11.Bxe6 Nxe6 12.cxd4 Ncxd4
+13.Ne4 Be7 14.Be3 Nf5 15.Qc2 O-O 16.Neg5 Bxg5 17.Nxg5 g6 18.Nxe6
+fxe6 19.Rae1 Qd5 20.b3 Rac8 21.Bc5 Rfd8 22.h3 Qc6 23.b4 Rd7 24.Rd1
+Rcd8 25.Rxd7 Rxd7 26.Re1 Qd5 27.a4 Nh4 28.f3 Nf5 29.axb5 axb5
+30.Qe2 Qc6 31.Rc1 Rd8 32.Be3 Qd5 33.Bf2 c6 34.Qe1 Qb3 35.Ra1
+Qb2 36.Rb1 Qa2 37.Rd1 Rd5 38.Rxd5 cxd5 39.g4 Ng7 40.Bc5 h6 41.Qe3
+Qc2 42.Kf1 g5 1/2-1/2
+
+
+[Event "It (cat.15)"]
+[Site "Moscow (Russia)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Portisch Lajos (HUN)"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[WhiteElo "2700"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Nf3 O-O 6.Bd3 d5 7.O-O dxc4
+8.Bxc4 Nbd7 9.Qe2 a6 10.a4 Qc7 11.Na2 b5 12.Bd3 Ba5 13.axb5 axb5
+14.Bxb5 Bb7 15.Rd1 Rfb8 16.h3 Bb4 17.Bxd7 Nxd7 18.Bd2 Bxd2 19.Qxd2
+Bxf3 20.gxf3 Qb7 21.Kg2 Qxb2 22.Qxb2 Rxb2 23.dxc5 Nxc5 24.Nb4
+Rc8 25.Nc6 Kf8 26.Ne5 Rb7 27.Nc4 Rbc7 28.Nd6 Rd8 29.Nb5 Rxd1
+30.Rxd1 Rd7 1/2-1/2
+
+
+[Event "It (cat.15)"]
+[Site "Moscow (Russia)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Smejkal Jan (CZE)"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[WhiteElo "2700"]
+[BlackElo "2540"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a3 h6 13.Bc2 Nb8
+14.b4 Nbd7 15.Bb2 c5 16.bxc5 exd4 17.cxd4 dxc5 18.Bb1 Qb6 19.e5
+Nd5 20.Ne4 1/2-1/2
+
+
+[Event "Match 4 Teams"]
+[Site "Moscow (Russia)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2700"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.d4 cxd4
+8.Qxd4 d6 9.Bg5 a6 10.Bxf6 Bxf6 11.Qf4 O-O 12.Rfd1 Be7 13.Ne4
+Bxe4 14.Qxe4 Ra7 15.Nd4 Qc8 16.b3 Re8 17.a4 Qc5 18.Ra2 Bf6 19.Rad2
+Rc7 20.Qb1 Be7 21.b4 Qh5 22.Rc2 Rec8 23.b5 axb5 24.axb5 Rxc4
+25.Rxc4 Rxc4 26.Qa2 Qc5 27.Qa8 Rxd4 28.Qxb8+ Bf8 29.Ra1 d5 30.Bf1
+Rc4 31.Ra8 Rc1 32.Qe8 d4 33.Ra7 Qf5 34.Ra8 Qc5 35.g4 Qd6 36.Rd8
+Qb4 37.Rd7 h6 38.Qxf7+ Kh7 39.g5 Qb1 40.g6+ Qxg6+ 41.Qxg6+ Kxg6 1/2-1/2
+
+
+[Event "Ch URS (team)"]
+[Site "URS"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Romanishin Oleg M (UKR)"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2700"]
+[BlackElo "2590"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3
+a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6 11.Be3 Bb7 12.Qb3 Nd7 13.Rfd1
+Re8 14.Rac1 Bf8 15.Bf1 Rc8 16.Qc2 Nce5 17.h3 Qc7 18.f3 Nf6 19.Qf2
+Ned7 20.Nc2 d5 21.cxd5 exd5 22.exd5 Bd6 23.Nd4 Bg3 24.Qd2 Qf4
+25.Nde2 Bh2+ 26.Kh1 b5 27.Bd4 Qd6 28.f4 Ng4 29.Qd3 Bxf4 30.Nxf4
+Qxf4 31.hxg4 b4 32.Ne2 Qxg4 33.Rxc8 Rxc8 1-0
+
+
+[Event "Ch URS (team)"]
+[Site "URS"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2700"]
+[BlackElo "2580"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5
+Qxe2+ 8.Bxe2 Be7 9.Nc3 c6 10.O-O-O Na6 11.Nd4 Nd5 12.Ne4 f5 13.Bxe7
+Kxe7 14.Nd2 Nb6 15.Rde1 Kf6 16.N2b3 Bd7 17.Na5 Rab8 18.Bf3 Rhe8
+19.Re3 Re5 20.Ndb3 Rxe3 21.fxe3 Nc8 22.Rf1 d5 1/2-1/2

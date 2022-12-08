@@ -1,0 +1,558 @@
+[Event "Match"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "1"]
+[White "Euwe Max (NED)"]
+[Black "Reti Richard (CZE)"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5
+Qxd5 8.Nc3 Qa5 9.Nxd4 Nxd4 10.Qxd4 f5 11.Bg5 Qc5 12.Qd8+ Kf7
+13.Nxe4 fxe4 14.Rad1 Bd6 15.Qxh8 Qxg5 16.f4 Qh4 17.Rxe4 Bh3 18.Qxa8
+Bc5+ 19.Kh1 Bxg2+ 20.Kxg2 Qg4+ 21.Kf1 Qf3+ 22.Ke1 Qf2# 0-1
+
+
+[Event "Match"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "3"]
+[White "Euwe Max (NED)"]
+[Black "Reti Richard (CZE)"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.b3 d5 3.exd5 cxd5 4.Bb2 Nc6 5.g3 e5 6.Bg2 Be6 7.Qe2
+Qc7 8.Nf3 f6 9.O-O Bd6 10.Nc3 a6 11.d4 Nge7 12.dxe5 Bxe5 13.Nxe5
+fxe5 14.Rad1 O-O-O 15.Rfe1 h5 16.Na4 e4 17.f3 h4 18.fxe4 hxg3
+19.exd5 Bxd5 20.Bxd5 Nxd5 21.Qe6+ Kb8 22.Rxd5 Rde8 23.Qxe8+ Rxe8
+24.Rxe8+ Ka7 25.Rdd8 b6 26.Ba3 gxh2+ 27.Kh1 Qf7 28.Re7+ Nxe7
+29.Rd7+ Ka8 30.Nxb6+ Kb8 31.Bd6# 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Baay J"]
+[Result "0-1"]
+[ECO "C49"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5
+Bxc3 8.bxc3 h6 9.Bh4 Bg4 10.h3 Bd7 11.d4 g5 12.Nxg5 Nxe4 13.Nf3
+Ng5 14.Kh1 Qf6 15.dxe5 Nxe5 16.Nxe5 Bxb5 17.Ng4 Qg6 18.Re1 Bc6
+19.f4 Nxh3 20.f5 Qg7 21.Re3 Ng5 22.f6 Qg6 23.Bxg5 Qxg5 24.Kg1
+Rae8 25.Rg3 Kh8 26.Rh3 h5 27.Ne3 Re5 28.g4 h4 29.Qe1 Rxe3 30.Qxe3
+Qxg4+ 31.Kf2 Qg2+ 32.Ke1 Re8 33.Rxh4+ Kg8 34.Qxe8+ Bxe8 0-1
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Boedyn"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3
+Ne4 8.Qg4 Kf8 9.h4 Nxd2 10.Kxd2 c5 11.Rh3 Nc6 12.Rg3 Rg8 13.Bd3
+g6 14.Qf4 g5 15.hxg5 hxg5 16.Qg4 c4 17.Bh7 Rg7 18.Qh5 Qe7 19.Qh6
+b5 20.Nf3 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "De Koning Gans G"]
+[Result "1-0"]
+[ECO "D32"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4 5.Qxd4 Nc6 6.Qd1 exd5 7.Nxd5
+Be6 8.Nc3 Qxd1+ 9.Kxd1 Rd8+ 10.Bd2 Nf6 11.e3 Bb4 12.f3 O-O 13.Bb5
+Ne5 14.Kc2 a6 15.Be2 Rd7 16.a3 Ba5 17.e4 Rc8 18.Nh3 Nc4 19.Bxc4
+Bxc4 20.Rad1 Be2 21.Rde1 Bb5 22.Kc1 Rdc7 23.Nf2 Nd7 24.Kb1 Bc4
+25.Rc1 Bb6 26.Nfd1 Bd3+ 27.Ka2 Rc6 28.Ne3 Bxe3 29.Bxe3 Bc4+ 30.b3
+Bd3 31.Nd5 Rxc1 32.Rxc1 Rxc1 33.Bxc1 Kf8 34.Kb2 f5 35.exf5 Bxf5
+36.Kc3 Kf7 37.Kd4 Bc2 38.b4 Bb3 39.Nc3 h6 40.Bf4 Ke6 41.g4 Nf6
+42.Be5 b6 43.Bxf6 gxf6 44.f4 f5 45.g5 h5 46.h4 Kd6 47.Nb1 b5
+48.Nd2 Be6 49.Nf1 Bf7 50.Ng3 Bg6 51.Ne2 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Diderich"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.e3 Bb4 5.Bd2 Bxc3 6.Bxc3 Ne4 7.Bb4
+d6 8.f3 Nf6 9.Bd3 O-O 10.Ne2 Nc6 11.Bc3 b6 12.Qc2 a5 13.a3 Ba6
+14.O-O-O d5 15.cxd5 Nxd5 16.Bxa6 Rxa6 17.Qd3 Ra8 18.e4 Nxc3 19.Nxc3
+Qg5+ 20.Kb1 fxe4 21.fxe4 Na7 22.Qc4 Qe7 23.d5 Rf6 24.dxe6 Rxe6
+25.Nd5 Qc5 26.Qxc5 bxc5 27.Nxc7 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Schelfhout Willem"]
+[Result "0-1"]
+[ECO "A83"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6 5.f3 Qa5 6.Qd2 e3 7.Bxe3
+Nd5 8.Bd3 Nxe3 9.Qxe3 d5 10.Nge2 Nd7 11.O-O g6 12.Rae1 Qc7 13.Nf4
+Nf6 14.Rf2 Qd6 15.Qe5 Qxe5 16.dxe5 Ng8 17.e6 Bg7 18.Kh1 Nf6 19.g4
+O-O 20.h4 Ne8 21.Bxg6 Nd6 22.Bf7+ Nxf7 23.exf7+ Rxf7 24.Ne6 Bxe6
+25.Rxe6 Raf8 26.Kg2 Bd4 27.Rf1 Bc5 28.Ne2 Rf6 29.Rxf6 exf6 30.Ng3
+Re8 31.f4 Kf7 32.g5 Re6 33.Kh3 Bf8 34.Kg4 Re3 35.Rf2 c5 36.Re2
+Rxe2 37.Nxe2 h6 38.Kf5 hxg5 39.fxg5 fxg5 40.hxg5 Bg7 41.b3 b5
+42.Nf4 d4 43.g6+ Kg8 44.Ne6 c4 45.Nxg7 Kxg7 46.Ke4 d3 47.cxd3
+c3 48.Ke3 b4 0-1
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Te Kolste Jan Willem (NED)"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.Bd3 h6 6.Bxf6 Qxf6 7.e5
+Qe7 8.Qg4 O-O 9.Nf3 c5 10.dxc5 Bxc3+ 11.bxc3 Nd7 12.O-O Nxc5
+13.Rfe1 Bd7 14.c4 Nxd3 15.cxd3 Bc6 16.Nd4 Rad8 17.Rac1 Qc5 18.Re3
+dxc4 19.Rxc4 Qa5 20.h4 Bd5 21.Rc2 Kh8 22.Kh2 Qb6 23.Ne2 Bc6 24.Nf4
+Qb1 25.Rg3 Rg8 26.Re2 Rd4 27.Ng6+ fxg6 28.Qxd4 Qf1 29.Qe3 Qb1
+30.Rxg6 Kh7 31.Rxe6 Bd5 32.Rd6 Bxa2 33.Qxa7 Bf7 34.Qd4 b5 35.Qe4+ 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Van Hartingsvelt H"]
+[Result "1-0"]
+[ECO "C46"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 d6 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4 Nf6 7.b3
+g6 8.Bg5 Bg7 9.e5 dxe5 10.Qxd8+ Kxd8 11.Nd5 Kd7 12.Nxf6+ Ke6
+13.Bc4+ Kf5 14.h4 Bxf6 15.g4+ Kxg4 16.Bxf6 Re8 17.O-O-O Be6 18.Bd3
+Bd5 19.Rdg1+ Kf4 20.Bg5+ Kf3 21.Rh3+ Kxf2 22.Be3# 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Van Hartingsvelt H"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 Bxg5 7.hxg5
+Qxg5 8.Nh3 Qe7 9.Qg4 g6 10.Nf4 Nb6 11.Bd3 Nc6 12.O-O-O Bd7 13.Nxg6
+fxg6 14.Bxg6+ Kd8 15.Bxh7 Nxd4 16.Rxd4 c5 17.Rd3 Kc7 18.Rdh3
+Raf8 19.f4 Rf7 20.Bd3 Rxh3 21.Rxh3 Rg7 22.Qf3 c4 23.Bf1 d4 24.Nb1
+Qc5 25.Qa3 Na4 26.Qxc5+ Nxc5 27.Nd2 b5 28.Nf3 Bc6 29.Nxd4 Bxg2
+30.Bxg2 Rxg2 31.Nxb5+ Kb6 32.Nd6 Kc6 33.Rh1 c3 34.bxc3 Na4 35.Rf1
+Nxc3 36.Kb2 Na4+ 37.Ka3 Nc5 38.Kb2 Na4+ 39.Kb3 Nc5+ 40.Kc3 a5
+41.Rf3 Na4+ 42.Kb3 Nc5+ 43.Kb2 Na4+ 44.Ka3 Nc5 45.Nc4 Kb5 46.Ne3
+Re2 47.Kb2 Nd3+ 48.Kc3 Nxf4 49.Rxf4 Rxe3+ 50.Kd4 Ra3 51.c4+ Kc6
+52.Rf6 Kd7 53.Rf7+ Ke8 54.Ra7 Rxa2 55.Kc5 Ra4 56.Kb5 Rb4+ 57.Kc5
+Ra4 58.Rb7 Kf8 59.Rc7 Rb4 60.Kd6 Rb6+ 61.Kd7 Ra6 62.c5 a4 63.Rb7
+a3 64.Rb1 a2 65.Rf1+ Kg7 66.Ra1 Ra5 67.c6 Rxe5 68.c7 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Van Hoorn Petrus"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 dxc4 4.e4 a6 5.Bxc4 b5 6.Bd3 Bb7 7.Nf3
+c5 8.O-O cxd4 9.Nxd4 Bc5 10.Nxe6 fxe6 11.Qh5+ g6 12.Qxc5 Qxd3
+13.Rd1 Qc4 14.Qe5 Nd7 15.Qxh8 O-O-O 16.Rxd7 Kxd7 17.Bg5 Re8 18.Qxh7+
+Kc8 19.Nd5 Kb8 20.Qxg6 Bc6 21.Bf4+ Ka7 22.Qf7+ 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Wiersma"]
+[Result "1-0"]
+[ECO "C29"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Bg4 6.Qe2 Nxc3 7.bxc3
+Nd7 8.d4 Be7 9.Qf2 O-O 10.Bd3 c5 11.O-O c4 12.Be2 f6 13.Qg3 Bxf3
+14.Bh6 g6 15.Bxf3 Qa5 16.Bg4 Nb6 17.exf6 Rxf6 18.Rxf6 Bxf6 19.Rf1
+Bg7 20.Be6+ Kh8 21.Bxg7+ Kxg7 22.Rf7+ Kg8 23.Qe5 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "4"]
+[White "Euwe Max (NED)"]
+[Black "Marchand Max (NED)"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "V"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.e3 Bb4 5.Bd2 b6 6.Bd3 Bb7 7.f3 c5
+8.a3 Bxc3 9.Bxc3 d6 10.Ne2 O-O 11.Qc2 Qe7 12.O-O-O Na6 13.Kb1
+Rac8 14.d5 g6 15.dxe6 Qxe6 16.g4 fxg4 17.Bxg6 Bxf3 18.Bf5 Qe7
+19.Rhg1 Rc7 20.Rdf1 Qxe3 21.Rxf3 Qxf3 22.Bxf6 Rxf6 23.Bxg4 Qf2
+24.Be6+ Kf8 25.Rg8+ Ke7 26.Qxh7+ 1-0
+
+
+[Event ""]
+[Site "Amsterdam (Netherlands)"]
+[Date "1920.??.??"]
+[Round "6"]
+[White "Euwe Max (NED)"]
+[Black "Weenink Henri G (NED)"]
+[Result "1-0"]
+[ECO "C66"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "V"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 Bd7 6.O-O Be7 7.Bg5
+O-O 8.Bxc6 Bxc6 9.dxe5 dxe5 10.Qe2 Nd7 11.Bxe7 Qxe7 12.Rad1 f5
+13.exf5 Rae8 14.Rfe1 Rxf5 15.Nd4 Rf6 16.Qd3 Nf8 17.Nxc6 Rxc6
+18.Nd5 Qf7 19.Qb3 Ng6 20.f4 e4 21.f5 Nh4 22.Ne7+ Kf8 23.Qxf7+
+Kxf7 24.Nxc6 bxc6 25.Rd7+ Kf6 26.Rxc7 e3 27.Rxc6+ Kxf5 28.Rc3 1-0
+
+
+[Event "It (b)"]
+[Site "Goteborg (Sweden)"]
+[Date "1920.??.??"]
+[Round "12"]
+[White "Euwe Max (NED)"]
+[Black "Berndtsson Karl (SWE)"]
+[Result "1-0"]
+[ECO "E54"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Nc3 c5 5.e3 cxd4 6.exd4 d5 7.Bd3
+dxc4 8.Bxc4 O-O 9.O-O Nc6 10.Bg5 Ne7 11.Qb3 Bxc3 12.bxc3 Ng6
+13.Ne5 Qc7 14.Rfe1 Nxe5 15.Rxe5 Ng4 16.Bf4 Nxe5 17.Bxe5 Qe7 18.Re1
+b6 19.Re3 Bb7 20.Qd1 Rac8 21.Qg4 g6 22.Bb3 Bd5 23.Qf4 Rfe8 24.Rh3
+f5 25.Bd1 Qf7 26.Bh5 Bxa2 27.Bxg6 Qxg6 28.Rg3 Re7 29.Rxg6+ hxg6
+30.Qh6 Kf7 31.Bd6 Rg8 32.Bxe7 Kxe7 33.Qh7+ Kf8 34.Qxa7 Bd5 35.c4
+Be4 36.f3 Bd3 37.Qa3+ 1-0
+
+
+[Event "It (b)"]
+[Site "Goteborg (Sweden)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Hakansson Arthur"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.Bd2 b6 5.e3 Bb7 6.f3 c5 7.Bd3 Nc6
+8.Nge2 Bd6 9.a3 Rc8 10.Qc2 O-O 11.O-O-O cxd4 12.exd4 Na5 13.Nb5
+Bb8 14.Bb4 Rf7 15.Nd6 Bxd6 16.Bxd6 Nxc4 17.Bxc4 b5 18.Nc3 Rxc4
+19.Qb3 a6 20.Kb1 Ne8 21.Be5 d6 22.Bf4 Qb6 23.Rhe1 Nc7 24.Rd3
+Bd5 25.Bg3 Qc6 26.Qd1 b4 27.axb4 Rxb4 28.Qd2 a5 29.Rc1 Bc4 30.Re3
+f4 0-1
+
+
+[Event "It (b)"]
+[Site "Goteborg (Sweden)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Larsson"]
+[Result "1-0"]
+[ECO "D66"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Rc1
+c6 8.Bd3 h6 9.Bh4 dxc4 10.Bxc4 Nd5 11.Bg3 b6 12.O-O Bb7 13.Qe2
+a6 14.Rfd1 b5 15.Bb3 Rc8 16.a4 Nxc3 17.Rxc3 Qb6 18.Ne5 Nf6 19.Bh4
+Rfd8 20.Rdc1 Rc7 21.Qc2 Nd5 22.Bxd5 Bxh4 23.Bxc6 b4 24.Rc5 Be7
+25.a5 Qa7 26.Rc4 Bd6 27.Bxb7 Rxc4 28.Qxc4 Bxe5 29.Qxa6 Bb8 30.Qxa7
+Bxa7 31.Rc8 Rxc8 32.Bxc8 Kf8 33.Kf1 Ke8 34.Ke2 Kd8 35.Bb7 Kc7
+36.Bf3 Bb8 37.Kd3 Kc8 38.g3 Bc7 39.a6 Kb8 40.Kc4 Ka7 41.Kb5 Bd8
+42.b3 f5 43.Bb7 g5 44.Kc6 f4 45.Kd7 fxe3 46.fxe3 Bb6 47.Kxe6
+Kb8 48.Kf5 1-0
+
+
+[Event "It (b)"]
+[Site "Goteborg (Sweden)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Sjoberg Victor"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 a6 4.Nf3 dxc4 5.e3 c5 6.Bxc4 cxd4 7.exd4
+Nf6 8.O-O Nc6 9.Qd3 Be7 10.Bg5 O-O 11.Bb3 Nb4 12.Qe2 Nfd5 13.Bxe7
+Nxe7 14.Rad1 Nbd5 15.Bc2 Bd7 16.Ng5 h6 17.Nge4 Qc7 18.Qd3 g6
+19.Bb3 Bc6 20.Bxd5 exd5 21.Nf6+ Kg7 22.Ng4 Bd7 23.Ne3 Qd6 24.f4
+f5 25.Rde1 b5 26.a3 Be6 27.Nc2 Nc6 28.Re2 Rae8 29.Rfe1 Bf7 30.Qd2
+Rxe2 31.Rxe2 Re8 32.Ne1 Rxe2 33.Nxe2 b4 34.axb4 Qxb4 35.Qxb4
+Nxb4 36.Kf2 Kf6 37.Ke3 Be8 38.Nd3 Nxd3 39.Kxd3 Bb5+ 40.Kd2 Bxe2
+41.Kxe2 Ke6 42.Kd3 Kd6 43.Kc3 Kc6 44.Kb4 Kb6 45.h4 a5+ 46.Ka4
+Ka6 47.b3 Kb6 48.b4 1-0
+
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Qc2 d5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3
+e5 8.dxe5 Qh4 9.Bb5+ Nd7 10.Nf3 Qxe4+ 11.Qxe4 Bxe4 12.Ng5 Bxg2
+13.Rg1 c6 14.Rxg2 cxb5 15.e6 fxe6 16.Nxe6 Kf7 17.Nc7 Rc8 18.Nxb5
+a6 19.Nd4 Rxc3 20.Bb2 Rc5 21.Rd1 Rd5 22.Rd3 Ne5 23.Rb3 Bb4+ 24.Kf1
+Bc5 25.Nf5 Rhd8 26.Rxg7+ Kf6 27.Rf3 Rd2 28.Nd6+ Ke6 29.Bxe5 Bxd6
+30.Bxd6 R8xd6 31.Ra3 1/2-1/2
+
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Vajda Arpad (HUN)"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 d6 6.Bb5 Bd7 7.O-O
+Be7 8.Bg5 O-O 9.Bxc6 bxc6 10.Qd3 Ng4 11.Bxe7 Qxe7 12.f4 Rab8
+13.b3 c5 14.Nd5 Qd8 15.Nf3 Bc6 16.Rae1 Nf6 17.Nxf6+ Qxf6 18.e5
+Qxf4 19.e6 Bxf3 20.Rxf3 Qd4+ 21.Qxd4 cxd4 22.Rd3 fxe6 23.Rxe6
+Rbe8 24.Rxe8 Rxe8 25.Rxd4 Re2 26.Rc4 c5 27.Kf1 Rd2 28.b4 cxb4
+29.Rxb4 Rxc2 30.Rb8+ Kf7 31.Rb7+ Kf6 32.Rxa7 d5 1/2-1/2
+
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Euwe Max (NED)"]
+[Black "Von Balla Zoltan (HUN)"]
+[Result "1/2-1/2"]
+[ECO "A53"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.e4 e5 5.Nge2 c6 6.g3 Be7 7.Bg2
+exd4 8.Nxd4 Ne5 9.b3 Qa5 10.Bb2 Bd7 11.O-O h5 12.Qe1 Nd3 13.Qe2
+Nxb2 14.Qxb2 h4 15.Nf5 Bxf5 16.b4 Qe5 17.exf5 hxg3 18.hxg3 Qxf5
+19.Rfe1 Kf8 20.b5 Qd7 21.bxc6 bxc6 22.Rab1 Rd8 23.Qb7 d5 24.cxd5
+cxd5 25.Qxd7 Rxd7 26.Rb8+ Rd8 27.Rxd8+ Bxd8 28.Nxd5 1/2-1/2
+
+
+[Event "It"]
+[Site "Hague (Netherlands)"]
+[Date "1921.??.??"]
+[Round "1"]
+[White "Euwe Max (NED)"]
+[Black "Kostic Boris (YUG)"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Be3
+Bf5 8.Nf3 e6 9.Bd3 Bxd3 10.Qxd3 Qd7 11.Nbd2 Nb4 12.Qe4 Qc6 13.Qxc6+
+Nxc6 14.O-O Bb4 15.Rac1 Bxd2 16.Nxd2 Rd8 17.Rf4 Ne7 18.b3 Nd7
+19.Ne4 O-O 20.Rcf1 c5 21.Nd6 cxd4 22.Bxd4 Nc6 23.Nxb7 Rb8 24.Nc5
+Nxd4 25.Nxd7 Ne2+ 26.Kh1 Nxf4 27.Nxb8 Rd8 28.Nc6 Rd2 29.Nxa7
+Rxa2 30.Rd1 g5 31.Nc6 Rxg2 32.Rg1 Rxg1+ 33.Kxg1 Kf8 34.Kf2 Ke8
+35.Kf3 Kd7 36.Nd4 Nd3 37.Ke4 Nf2+ 38.Kf3 Nd3 39.Ke4 Nf2+ 40.Kf3
+Nd3 41.Kg4 Nxe5+ 42.Kxg5 f5 43.c5 h6+ 44.Kxh6 Ng4+ 45.Kg5 Nxh2
+46.b4 Ng4 47.b5 Ne5 48.b6 Nc4 49.Nxe6 Nxb6 1/2-1/2
+
+
+[Event "Match"]
+[Site "Utrecht (Netherlands)"]
+[Date "1921.??.??"]
+[Round "5"]
+[White "Euwe Max (NED)"]
+[Black "Olland Adolf G (NED)"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 Nc6 7.Qg4
+f6 8.Bd3 Ndxe5 9.dxe5 Nxe5 10.Qh5+ g6 11.Bxg6+ Nxg6 12.Bh6 Kf7
+13.f4 Bb4 14.Nge2 c5 15.O-O-O d4 16.g4 Qa5 17.Nb1 Qxa2 18.f5
+e5 19.Rhf1 Qa6 20.fxg6+ hxg6 21.Qxe5 Re8 22.Qd5+ Be6 23.Rxf6+
+Kxf6 24.Rf1+ Bf5 25.gxf5 Qxe2 26.Qd6+ Kf7 27.Qd5+ Kf6 1/2-1/2
+
+
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1921.09.13"]
+[Round "7"]
+[White "Max Euwe"]
+[Black "Alexander Alekhine"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A50"]
+[EventDate "1921.09.05"]
+[PlyCount "70"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. Qc2 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 e5
+8. dxe5 Qh4 9. Bb5+ Nd7 10. Nf3 Qxe4+ 11. Qxe4 Bxe4 12. Ng5 Bxg2 13. Rg1 c6
+14. Rxg2 cxb5 15. e6 fxe6 16. Nxe6 Kf7 17. Nc7 Rc8 18. Nxb5 a6 19. Nd4 Rxc3
+20. Bb2 Rc5 21. Rd1 Rd5 22. Rd3 Ne5 23. Rb3 Bb4+ 24. Kf1 Bc5 25. Nf5 Rhd8
+26. Rxg7+ Kf6 27. Rf3 Rd2 28. Nd6+ Ke6 29. Bxe5 Bxd6 30. Bxd6 R8xd6 31. Ra3 Rb2
+32. Rxa6 Rdd2 33. Kg1 Rxf2 34. Rxb6+ Rxb6 35. Kxf2 Rb2+
+1/2-1/2
+
+
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.09"]
+[Round "6"]
+[White "Max Euwe"]
+[Black "Victor Sjoberg"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D31"]
+[EventDate "1920.08.02"]
+[PlyCount "105"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 a6 4. Nf3 dxc4 5. e3 c5 6. Bxc4 cxd4 7. exd4 Nc6
+8. O-O Nf6 9. Qd3 Be7 10. Bg5 O-O 11. Bb3 Nb4 12. Qe2 Nfd5 13. Bxe7 Nxe7
+14. Rad1 Nbd5 15. Bc2 Bd7 16. Ng5 h6 17. Nge4 Qc7 18. Qd3 g6 19. Bb3 Bc6
+20. Bxd5 exd5 21. Nf6+ Kg7 22. Ng4 Bd7 23. Ne3 Qd6 24. f4 f5 25. Rde1 b5
+26. a3 Be6 27. Nc2 Nc6 28. Re2 Rae8 29. Rfe1 Bf7 30. Qd2 Rxe2 31. Rxe2 Re8
+32. Ne1 Rxe2 33. Nxe2 b4 34. axb4 Qxb4 35. Qxb4 Nxb4 36. Kf2 Kf6 37. Ke3 Be8
+38. Nd3 Nxd3 39. Kxd3 Bb5+ 40. Ke3 Bxe2 41. Kxe2 Ke6 42. Kd3 Kd6 43. Kc3 Kc6
+44. Kb4 Kb6 45. h4 a5+ 46. Ka4 Ka6 47. b3 Kb6 48. b4 axb4 49. Kxb4 Kc6
+50. Ka5 Kc7 51. Kb5 Kd6 52. Kb6 Ke6 53. Kc6
+1-0

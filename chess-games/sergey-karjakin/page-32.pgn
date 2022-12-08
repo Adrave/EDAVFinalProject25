@@ -1,0 +1,744 @@
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Karjakin, Sergey"]
+[Black "Giri, A."]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2769"]
+[BlackElo "2714"]
+[PlyCount "73"]
+[EventDate "2012.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2012.01.16"]
+[WhiteTeamCountry "ARM"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. dxc5 Qxc5 6. Ne4 Qb4+ 7. Nc3 Nf6 8.
+a3 Qa5 9. Bd3 a6 10. Bf4 Nbd7 11. Nf3 Nh5 12. b4 Qd8 13. Be3 Be7 14. O-O O-O
+15. Ne4 a5 16. Rb1 axb4 17. axb4 Qc7 18. Nd4 g6 19. Nb5 Qb8 20. c4 f5 21. Nec3
+b6 22. Be2 Ndf6 23. Nd4 Bd7 24. Bf3 Qc7 25. Bxa8 Rxa8 26. Nf3 Qxc4 27. Qd4 Qxd4
+28. Bxd4 Rc8 29. g3 b5 30. Ne5 Be8 31. Rfc1 g5 32. Kg2 Kf8 33. Ne2 Ra8 34. Bc5
+Nd7 35. Bxe7+ Kxe7 36. Nc6+ Kd6 37. Ned4 1-0
+
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Topalov, V."]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2769"]
+[BlackElo "2770"]
+[PlyCount "197"]
+[EventDate "2012.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2012.01.23"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bc4 Nc6 7. O-O Na5 8. Be2
+Nf6 9. d3 O-O 10. Qe1 Nc6 11. Qh4 Nd4 12. Bd1 Rc8 13. Kh1 b5 14. Nxd4 cxd4 15.
+Nb1 Rc5 16. Nd2 Qc7 17. Nb3 Rxc2 18. Bxc2 Qxc2 19. Qg3 Rc8 20. f5 Qe2 21. Bg5
+Qxb2 22. Rab1 Qxa2 23. Nxd4 Qa4 24. Ne2 Rc2 25. Qf3 gxf5 26. Ng3 fxe4 27. Nxe4
+Nxe4 28. dxe4 f6 29. Ra1 Ra2 30. Rac1 Rc2 31. Ra1 Qd4 32. Be3 Qe5 33. Bf4 Qe6
+34. Qg3 Kf8 35. Rxa7 b4 36. Rb7 Re2 37. Qf3 Rc2 38. Rxb4 Qg4 39. Rb7 Qxf3 40.
+gxf3 Be8 41. Rc1 Rxc1+ 42. Bxc1 Bg6 43. Bf4 Bf7 44. Kg2 Be6 45. Bd2 Ke8 46. Rb5
+Kf7 47. f4 Bd7 48. Ra5 f5 49. exf5 Bf6 50. Kf3 h5 51. Ke4 Bc6+ 52. Kd3 Bg2 53.
+Be3 Bf1+ 54. Kd2 Bg2 55. Bb6 Be4 56. Ke3 Bc2 57. Bd4 Bxd4+ 58. Kxd4 Kf6 59. Ra8
+Bxf5 60. Rf8+ Ke6 61. Ke3 Bg6 62. Kf3 Bf7 63. f5+ Kf6 64. Kf4 Kg7 65. Rb8 Kf6
+66. Rd8 e5+ 67. fxe6 Bxe6 68. Rxd6 h4 69. Rb6 h3 70. Rc6 Kf7 71. Ke5 Bg4 72.
+Rc4 Bd7 73. Rc7 Ke8 74. Kd6 Bg4 75. Re7+ Kf8 76. Re4 Bc8 77. Kc7 Ba6 78. Re3
+Kg7 79. Rxh3 Kg6 80. Kd6 Kg5 81. Ke5 Be2 82. Rg3+ Kh6 83. Kf5 Bd1 84. Rh3+ Kg7
+85. Kg5 Be2 86. Re3 Bd1 87. Re7+ Kf8 88. Kf6 Kg8 89. Kg6 Bc2+ 90. Kh6 Kf8 91.
+Rg7 Bd3 92. Rg5 Kf7 93. Rg3 Bc2 94. Rg7+ Kf8 95. Rg2 Be4 96. Rg4 Bc2 97. Rg5
+Kf7 98. Kh5 Kf6 99. Kg4 1-0
+
+
+[Event "19th TCh-RUS 2012"]
+[Site "Sochi RUS"]
+[Date "2012.04.10"]
+[Round "2"]
+[White "Karjakin, Sergey"]
+[Black "Tregubov, P."]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2766"]
+[BlackElo "2599"]
+[PlyCount "69"]
+[EventDate "2012.04.09"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2012.04.16"]
+[WhiteTeam "Tomsk - 400"]
+[BlackTeam "University, Belorechensk"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Na5 10. Kb1 Bxc3 11. Qxc3 Qxc3 12. bxc3 d5 13. e5 Nd7 14. f4 b5
+15. Nb3 Nc4 16. Bd4 Bb7 17. Bd3 Rc8 18. g4 Ncb6 19. Kc1 O-O 20. Rhe1 Na4 21.
+Re3 Rc7 22. Rf1 Rfc8 23. f5 Nxc3 24. Bxc3 Rxc3 25. fxe6 fxe6 26. Nd4 g6 27. Kd2
+b4 28. Rf4 Nc5 29. Ref3 Ra3 30. Rf7 Rxa2 31. Re7 Ne4+ 32. Ke3 Ra1 33. Rxb7 Re1+
+34. Ne2 a5 35. Rff7 1-0
+
+
+[Event "19th TCh-RUS 2012"]
+[Site "Sochi RUS"]
+[Date "2012.04.15"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Kokarev, Dm"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2766"]
+[BlackElo "2637"]
+[PlyCount "131"]
+[EventDate "2012.04.09"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2012.04.16"]
+[WhiteTeam "Tomsk - 400"]
+[BlackTeam "Polytechnik, Nizhniy Tagil"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 dxe5 12. fxe5 Nfd7 13. Ne4 Qxa2 14. Rd1 Qd5
+15. Qe3 Qxe5 16. Be2 Bc5 17. Bg3 Bxd4 18. Rxd4 Qa5+ 19. Rd2 O-O 20. Bd6 Nc6 21.
+O-O Nce5 22. Rdd1 f5 23. Bxf8 Kxf8 24. Nd6 Qc5 25. Nxf5 Qxe3+ 26. Nxe3+ Ke7 27.
+Rd4 b5 28. Rb1 Ra7 29. h4 Rc7 30. Bf3 Nxf3+ 31. gxf3 Ne5 32. Kf2 Bb7 33. Rg1 g5
+34. Rg3 Rc5 35. hxg5 hxg5 36. Rh3 Bd5 37. Rh7+ Kf6 38. f4 Kg6 39. Ra7 gxf4 40.
+Rxf4 Rc6 41. Ke2 Nc4 42. Nxd5 exd5 43. Kd3 Na3 44. Rg4+ Kf5 45. Rag7 Rxc2 46.
+R4g5+ Kf4 47. Rxd5 Rc8 48. Rf7+ Kg4 49. Ke2 Nc4 50. Rd1 Re8+ 51. Kf2 Kg5 52.
+Rg1+ Kh6 53. Rf4 Re5 54. Rf6+ Kh7 55. Rxa6 Rf5+ 56. Ke2 Ne5 57. Ke3 Nf7 58. Ke4
+Rg5 59. Rf1 Nh6 60. Rff6 Ng8 61. Rfb6 Rg7 62. Rxb5 Rg6 63. Ra7+ Kh6 64. Kf4 Nf6
+65. Ra1 Nh5+ 66. Rxh5+ 1-0
+
+
+[Event "World Rapid Final"]
+[Site "Astana KAZ"]
+[Date "2012.07.06"]
+[Round "2"]
+[White "Karjakin, Sergey"]
+[Black "Tkachiev, V."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2779"]
+[BlackElo "2644"]
+[PlyCount "107"]
+[EventDate "2012.07.01"]
+[EventType "tourn (rapid)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2012.07.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1
+Re8 9. Nbd2 Bf8 10. Nf1 h6 11. Ng3 b5 12. Bc2 Ne7 13. d4 Ng6 14. b3 c5 15. d5
+Bd7 16. a4 Qc7 17. h3 Reb8 18. Be3 Qd8 19. Qd2 bxa4 20. bxa4 Rb2 21. Reb1 Rab8
+22. Rxb2 Rxb2 23. Qc1 Rb8 24. Bd3 Qa5 25. Nd2 Be7 26. Bf1 Bd8 27. Qc2 Ne7 28.
+Bd3 Ng6 29. Ne2 Ne8 30. Nf3 Nh4 31. Nxh4 Bxh4 32. Qc1 Nf6 33. Bxh6 c4 34. Bc2
+gxh6 35. Qxh6 Bxf2+ 36. Kxf2 Nh7 37. Qxd6 Rb2 38. Rc1 Bxa4 39. Bxa4 Qxa4 40.
+Qxe5 Qb5 41. Kf3 Qb6 42. Nd4 Qf6+ 43. Qxf6 Nxf6 44. Ra1 Rb6 45. Ra4 Nd7 46. Kf4
+Rb2 47. g4 Rh2 48. Kg3 Rd2 49. Rxc4 Ne5 50. Rc8+ Kh7 51. Kf4 Ng6+ 52. Kg5 Rd3
+53. d6 Ne5 54. Kf6 1-0
+
+
+[Event "World Rapid Final"]
+[Site "Astana KAZ"]
+[Date "2012.07.06"]
+[Round "4"]
+[White "Karjakin, Sergey"]
+[Black "Grischuk, A."]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2779"]
+[BlackElo "2763"]
+[PlyCount "65"]
+[EventDate "2012.07.01"]
+[EventType "tourn (rapid)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2012.07.09"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. Nbd2 Nd7 8. Nb3
+Bg6 9. a4 Nf5 10. a5 Rc8 11. c4 Be7 12. cxd5 cxd5 13. Bd3 O-O 14. g4 Nh4 15.
+Nxh4 Bxd3 16. Qxd3 Bxh4 17. Bd2 f5 18. h3 Qe7 19. f4 a6 20. Kh2 Qf7 21. Rf3 Rc4
+22. Rg1 Rfc8 23. Bc3 Kh8 24. Nd2 R4c6 25. Nf1 g6 26. Ne3 Nf8 27. Ng2 Be7 28.
+Rg3 b5 29. axb6 Rxb6 30. gxf5 exf5 31. Ne3 Rb5 32. Nxf5 gxf5 33. Qxf5 1-0
+
+
+[Event "World Rapid Final"]
+[Site "Astana KAZ"]
+[Date "2012.07.07"]
+[Round "8"]
+[White "Karjakin, Sergey"]
+[Black "Dreev, A."]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2779"]
+[BlackElo "2677"]
+[PlyCount "84"]
+[EventDate "2012.07.01"]
+[EventType "tourn (rapid)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2012.07.09"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. Nbd2 Nd7 8. Nb3
+Bh7 9. a4 Nc8 10. Ne1 Be7 11. Bd3 Bxd3 12. Nxd3 Ncb6 13. f4 Nc4 14. f5 exf5 15.
+Rxf5 g6 16. Rf3 Nf8 17. Qf1 Rh7 18. Nbc5 b6 19. b3 bxc5 20. bxc4 Ne6 21. cxd5
+Qxd5 22. dxc5 Rd8 23. Be3 Qc4 24. Qf2 Bg5 25. a5 Qb5 26. h4 Bxe3 27. Rxe3 Qc4
+28. Rb1 Qd4 29. Kh2 h5 30. Rb4 Qa1 31. Rf3 Nd4 32. Rf6 Nf5 33. Rb7 Rxd3 34.
+Rxf5 gxf5 35. cxd3 Qxe5+ 36. Qg3 Qxg3+ 37. Kxg3 Rg7+ 38. Kf3 Rg4 39. Rxa7 Rxh4
+40. a6 Ra4 41. Ra8+ Ke7 42. a7 Ra3 1-0
+
+
+[Event "World Rapid Final"]
+[Site "Astana KAZ"]
+[Date "2012.07.08"]
+[Round "11"]
+[White "Karjakin, Sergey"]
+[Black "Ivanchuk, V."]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "2779"]
+[BlackElo "2769"]
+[PlyCount "149"]
+[EventDate "2012.07.01"]
+[EventType "tourn (rapid)"]
+[EventRounds "15"]
+[EventCountry "KAZ"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2012.07.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 a6 6. Ba4 g6 7. d4 Bg7 8. Re1
+Nf6 9. d5 Ne7 10. c4 O-O 11. Nc3 Bg4 12. h3 Bc8 13. b4 Nh5 14. Bd2 a5 15. a3
+Kh8 16. c5 f5 17. exf5 Nxf5 18. Ne4 axb4 19. axb4 Nf4 20. Bxf4 exf4 21. Rc1 Nh4
+22. Neg5 Nxf3+ 23. Nxf3 Bf5 24. Bc2 Bd7 25. Be4 Ba4 26. Qd3 Qf6 27. h4 Bd7 28.
+Ng5 Rae8 29. c6 bxc6 30. dxc6 Bc8 31. b5 h6 32. Nf3 g5 33. hxg5 hxg5 34. Qd5 g4
+35. Qh5+ Bh6 36. Nh4 Kg7 37. Bd3 Rxe1+ 38. Rxe1 g3 39. Nf3 Rh8 40. Qd5 Bg4 41.
+Qe4 Bxf3 42. Qxf3 Bg5 43. Rb1 Qd4 44. Rf1 Kf6 45. Qe4 Qxe4 46. Bxe4 Ke5 47. Bf3
+Rb8 48. Rb1 Rb6 49. Be2 d5 50. Ra1 Rb8 51. Ra3 Be7 52. Rc3 Bb4 53. Rc1 Kd6 54.
+fxg3 Bc5+ 55. Kf1 Rh8 56. Ke1 Rh1+ 57. Bf1 fxg3 58. Ke2 Bf2 59. Kf3 Rh8 60. Bd3
+Re8 61. Kg4 Re3 62. Bf1 Rb3 63. Kf5 Rb4 64. Rc3 Re4 65. Rc1 Be3 66. Rd1 Rf4+
+67. Kg6 Kc5 68. Kh5 Rf2 69. Kg4 Bf4 70. Rb1 Kb6 71. Rd1 Bd6 72. Rb1 Kc5 73. Rd1
+d4 74. Rc1+ Kb4 75. Rd1 1-0
+
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.21"]
+[Round "7.5"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2782"]
+[BlackElo "2774"]
+[PlyCount "275"]
+[EventDate "2013.06.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2013.06.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. c3 Rb8 13. Nc4 Nc6 14. h3 Be6 15. Ng5
+Bd7 16. f4 Rb7 17. a5 Qb8 18. Nb6 Be8 19. fxe5 dxe5 20. Be3 Qd8 21. Nf3 Bd6 22.
+Nd5 Nxd5 23. Bxd5 bxc3 24. bxc3 Rb5 25. Nd2 Ne7 26. Bc4 Rxa5 27. Bxa6 Rxa1 28.
+Qxa1 Ng6 29. Bc4 Bd7 30. Qa7 Nf4 31. Nf3 Be6 32. Bxf4 Bxc4 33. dxc4 exf4 34. e5
+Be7 35. Rb1 Qd3 36. Re1 Re8 37. e6 fxe6 38. Rxe6 Kf8 39. Qc7 Qxc3 40. Qxf4+ Bf6
+41. Qd6+ Be7 42. Qf4+ Bf6 43. Qd6+ Be7 44. Qd5 g6 45. Re1 Rd8 46. Qb7 Qf6 47.
+Ne5 Qd6 48. Kh1 Re8 49. Qe4 Qe6 50. Qf4+ Kg8 51. Nf3 Qf7 52. Qe5 h6 53. Qe4 Kg7
+54. Kg1 Qf6 55. Qb7 Qd6 56. Kh1 Kg8 57. Qe4 Kg7 58. Qe3 Qf6 59. Nh2 Qg5 60. Qe6
+Qf5 61. Qc6 Qf7 62. Qd7 Kf8 63. Qc6 Kg7 64. Nf3 Rd8 65. Qc7 Bf6 66. Qxc5 Rd7
+67. Qb4 Rb7 68. Qa4 Qc7 69. Qc2 Qc5 70. Qd3 Rc7 71. Re4 Ra7 72. Re1 Rc7 73. Rc1
+Re7 74. Qc2 h5 75. Qd2 g5 76. Nh2 Re4 77. Qd7+ Qe7 78. Qxe7+ Bxe7 79. g4 Re3
+80. c5 Rxh3 81. c6 Bd6 82. c7 Bxc7 83. Rxc7+ Kg6 84. Rc6+ Kf7 85. Kg2 hxg4 86.
+Nxg4 Ra3 87. Ne5+ Ke7 88. Nf3 Ra5 89. Kg3 Rf5 90. Ng1 Rf4 91. Nh3 Rf6 92. Rc5
+Kd6 93. Ra5 Kc7 94. Kg4 Kb6 95. Ra1 Rd6 96. Nxg5 Kb5 97. Kf4 Kc6 98. Ne4 Rd8
+99. Rc1+ Kb6 100. Ke5 Rh8 101. Nf6 Rh2 102. Kd6 Kb5 103. Rc5+ Kb4 104. Nd5+ Kb3
+105. Rc3+ Kb2 106. Rg3 Kc2 107. Ne3+ Kb2 108. Kc5 Rh4 109. Rf3 Rh5+ 110. Kd4
+Rh4+ 111. Kd3 Kb3 112. Rf5 Rb4 113. Nc2 Rb6 114. Ra5 Rb7 115. Ra6 Rd7+ 116.
+Nd4+ Kb4 117. Rc6 Rd8 118. Rc4+ Ka5 119. Kc3 Kb6 120. Rb4+ Ka6 121. Kc4 Rc8+
+122. Kd5 Ka5 123. Rb1 Rc3 124. Ne6 Rh3 125. Kc4 Rh4+ 126. Nd4 Ka6 127. Kc5 Rh5+
+128. Kd6 Rh6+ 129. Ne6 Ka5 130. Kc5 Rh5+ 131. Kc4 Rh4+ 132. Nd4 Ka6 133. Kc5
+Rh5+ 134. Kd6 Rh6+ 135. Ne6 Ka5 136. Rb2 Ka4 137. Kd5 Rh5+ 138. Ke4 1/2-1/2
+
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.23"]
+[Round "9.4"]
+[White "Karjakin, Sergey"]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[WhiteElo "2782"]
+[BlackElo "2786"]
+[PlyCount "70"]
+[EventDate "2013.06.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2013.06.24"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 dxe5 12. fxe5 Nd5 13. Nxd5 exd5 14. e6 Bxe6
+15. Rxb7 Bd6 16. Nxe6 fxe6 17. Be2 O-O 18. Qd4 Rf7 19. Rxf7 Kxf7 20. O-O+ Kg8
+21. Qg4 Qe3+ 22. Bf2 Qe5 23. Bg3 Qe3+ 24. Bf2 Qe5 25. Bd4 Qxh2+ 26. Kf2 Qf4+
+27. Qxf4 Bxf4 28. Bg4 Nc6 29. Bxe6+ Kh8 30. Bxd5 Rd8 31. Bxg7+ Kxg7 32. Bxc6
+Rd2+ 33. Kf3 Rxc2 34. Be4 Rc1 35. Rxc1 Bxc1 1/2-1/2
+
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.07"]
+[Round "4.1"]
+[White "Karjakin, Sergey"]
+[Black "Grischuk, A."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2776"]
+[BlackElo "2780"]
+[PlyCount "62"]
+[EventDate "2013.07.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.07.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8. f3
+e6 9. Be3 b5 10. Qd2 Nbd7 11. g4 h6 12. O-O-O b4 13. Nce2 Qc7 14. h4 d5 15. Bf4
+e5 16. Bh2 dxe4 17. g5 hxg5 18. hxg5 Rxh2 19. Rxh2 exd4 20. Rh8 Nd5 21. Qxd4
+Bb7 22. fxe4 N5b6 23. Qxb4 O-O-O 24. Qb3 Bxe4 25. Nc3 Qf4+ 26. Kb1 Kc7 27. Bxa6
+Nc5 28. Nb5+ Kc6 29. Na7+ Kc7 30. Nb5+ Kc6 31. Na7+ Kc7 1/2-1/2
+
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.15"]
+[Round "10.1"]
+[White "Karjakin, Sergey"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2776"]
+[BlackElo "2705"]
+[PlyCount "105"]
+[EventDate "2013.07.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.07.15"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14. cxd5 Qxd5
+15. Bf4 Rac8 16. h3 h6 17. Nd2 Na5 18. Bf3 Qd7 19. Ne4 Bf8 20. Ra2 Kh8 21. Rae2
+b6 22. Ng3 Rxe2 23. Qxe2 Bh7 24. Bg4 f5 25. Bh5 g6 26. Be5+ Bg7 27. Bxg7+ Qxg7
+28. Bf3 Rf8 29. Nf1 Bg8 30. Nd2 c5 31. dxc5 Qxc3 32. cxb6 axb6 33. Qe7 Qc5 34.
+Qd7 Rf7 35. Qa4 Kg7 36. Rb1 Re7 37. h4 Bf7 38. g3 Qc3 39. Qb4 Qxb4 40. Rxb4 Rd7
+41. Nf1 Nc4 42. Be2 Nxa3 43. Rxb6 Nc2 44. Ne3 Nxe3 45. fxe3 Rd2 46. Bf3 g5 47.
+hxg5 hxg5 48. g4 fxg4 49. Bxg4 Bg6 50. Rb7+ Kf6 51. Rb6+ Kg7 52. Rb7+ Kf6 53.
+Rb6+ 1/2-1/2
+
+
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.17"]
+[Round "5.5"]
+[White "Karjakin, Sergey"]
+[Black "Giri, A."]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2780"]
+[BlackElo "2720"]
+[PlyCount "76"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.21"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Qd6 10. Nb5 Qd7 11. f4 Qe6 12. Nc3 Nc4 13. Qe2 N6a5 14. Nf3 c5 15.
+e5 cxd4 16. Nxd4 Qb6 17. Nf5 Nxe3 18. Nxe3 Nc6 19. Ned5 Qd8 20. g3 Be6 21. Bg2
+Rc8 22. Kb1 Qa5 23. Rd2 Rfd8 24. Rhd1 Kf8 25. h4 Rd7 26. h5 Rcd8 27. a3 a6 28.
+hxg6 hxg6 29. Bf3 b5 30. Qf2 b4 31. axb4 Nxb4 32. Nxb4 Qxb4 33. Rxd7 Rxd7 34.
+Rxd7 Bxd7 35. Be4 Bh6 36. Qa7 Bb5 37. Bc2 Bc4 38. Kc1 a5 1/2-1/2
+
+
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.19"]
+[Round "7.5"]
+[White "Karjakin, Sergey"]
+[Black "Aronian, L."]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2780"]
+[BlackElo "2802"]
+[PlyCount "110"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. c3 Rb8 13. Nc4 Nc6 14. h3 h6 15. d4
+cxd4 16. cxd4 exd4 17. Bf4 b3 18. Bxb3 Be6 19. Ba2 d3 20. Qxd3 Nb4 21. Qe2 Nxa2
+22. Rxa2 Rc8 23. b3 Nxe4 24. Rc2 Bf6 25. Qxe4 d5 26. Qe2 dxc4 27. bxc4 Qa5 28.
+Be5 Bxe5 29. Qxe5 Qxa4 30. Nd4 Bxh3 31. Qf4 Bd7 32. Re7 Rce8 33. Rxe8 Rxe8 34.
+Qd6 Re1+ 35. Kh2 Rd1 36. Rc3 Qa1 37. Qb8+ Kh7 38. Ne2 Bg4 39. Qf4 Rh1+ 40. Kg3
+h5 41. Re3 Qa5 42. Nd4 Qd8 43. Nf3 f6 44. Qe4+ Kh6 45. Nh4 Qd6+ 46. f4 Rxh4 47.
+Kxh4 Qc5 48. Kg3 Bf5 49. Qe8 Qxc4 50. Qh8+ Bh7 51. Qb8 a5 52. Kh2 Bf5 53. Qh8+
+Bh7 54. Qb8 Bf5 55. Qh8+ Bh7 1/2-1/2
+
+
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.22"]
+[Round "9.1"]
+[White "Karjakin, Sergey"]
+[Black "Harikrishna, P."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2780"]
+[BlackElo "2698"]
+[PlyCount "79"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 Bd7 10. Nc3 b6 11. g4 Ne7 12. Ng5 Ke8 13. f4 f6 14. exf6
+gxf6 15. Nge4 Kf7 16. f5 h5 17. g5 Nxf5 18. Nxf6 Be6 19. Ne2 Bg7 20. Ne4 Rhf8
+21. N4g3 Kg8 22. Nxh5 Bc4 23. Nxg7 Kxg7 24. Rf2 Rae8 25. Nf4 Re1+ 26. Kh2 Bd5
+27. Nxd5 cxd5 28. b3 Kg6 29. Bb2 Rxa1 30. Bxa1 Kxg5 31. Be5 c6 32. Rg2+ Kh6 33.
+Re2 Kg6 34. c3 Re8 35. Kg1 Re7 36. Kf2 Rf7 37. Ke1 Rh7 38. Bb8 Kf6 39. Kd2 Rxh3
+40. Bxa7 1/2-1/2
+
+
+[Event "Aeroflot Open Rapid Final"]
+[Site "Moscow RUS"]
+[Date "2013.02.17"]
+[Round "3.2"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[WhiteElo "2786"]
+[BlackElo "2703"]
+[PlyCount "146"]
+[EventDate "2013.02.16"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 dxc3 12. Nxc3 Nd4 13. Bb2 Bd7 14.
+O-O-O Ndf5 15. Qh3 Qc5 16. Rd2 O-O-O 17. g4 Ne3 18. Nd1 Nxf1 19. Rxf1 Bb5 20.
+Re1 Nc6 21. f5 d4 22. fxe6 fxe6 23. Nf2 Nxe5 24. Ne4 Qc6 25. Bxd4 Nd3+ 26. Rxd3
+Bxd3 27. Qxd3 e5 28. Nf6 Qxf6 29. Qc3+ Qc6 30. Qxc6+ bxc6 31. Bxa7 Rxg4 32.
+Rxe5 Rg2 33. Be3 Rxh2 34. Rc5 Kb7 35. Rc3 Rh5 36. Rb3+ Kc8 37. Kb2 Rf5 38. Rc3
+Kc7 39. Rb3 Ra8 40. Rb4 c5 41. Rf4 Rh5 42. Rf3 Kc6 43. Bd2 Rh2 44. Bf4 Rh7 45.
+Rc3 Rb7+ 46. Ka2 Ra4 47. Be3 Rb5 48. Rb3 Rg4 49. Rxb5 Kxb5 50. Kb2 Rg3 51. Bf4
+Rf3 52. Be5 c4 53. Bc3 Ka4 54. Bb4 Rh3 55. Bc3 Kb5 56. Bb4 Kc6 57. Bc3 Kd5 58.
+Ba5 Rh7 59. Bb4 Rb7 60. Kc3 Rb8 61. Ba5 Kc5 62. Bb4+ Kb5 63. Bd6 Rc8 64. Bb4
+Rg8 65. Kb2 Rg3 66. Bc3 Rf3 67. Bb4 Rh3 68. Bc3 Kc5 69. Ba5 Kd4 70. Bb6+ Ke4
+71. Ba5 Rh5 72. Bb4 Kd4 73. Bc3+ Kc5 1/2-1/2
+
+
+[Event "Aeroflot Open Rapid Final"]
+[Site "Moscow RUS"]
+[Date "2013.02.17"]
+[Round "4.1"]
+[White "Karjakin, Sergey"]
+[Black "Grischuk, A."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2786"]
+[BlackElo "2764"]
+[PlyCount "83"]
+[EventDate "2013.02.16"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14.
+Rfe1 Bb4 15. g4 hxg4 16. hxg4 Ne7 17. Nxe6 Rxe6 18. Kg2 Bxc3 19. bxc3 Rd8 20.
+Rb1 b5 21. Kg3 Rd5 22. c4 Rc5 23. Re4 a6 24. Rb3 Ng6 25. Ra3 f6 26. Rxa6 Nxf4
+27. Kxf4 Rexe5 28. Rxe5+ fxe5+ 29. Kf5 Kf7 30. Ra7 g6+ 31. Kg5 e4+ 32. Kh6 Rxc4
+33. Rxc7+ Ke6 34. g5 Rxc2 35. Kxg6 Rxf2 36. Rxc6+ Kd5 37. Rb6 Kc5 38. Re6 Kd4
+39. Rd6+ Kc5 40. Re6 Kd4 41. Rd6+ Kc5 42. Re6 1/2-1/2
+
+
+[Event "Aeroflot Open Rapid Final"]
+[Site "Moscow RUS"]
+[Date "2013.02.16"]
+[Round "2.1"]
+[White "Karjakin, Sergey"]
+[Black "Wang Hao"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2786"]
+[BlackElo "2743"]
+[PlyCount "91"]
+[EventDate "2013.02.16"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2013.02.18"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bd3 O-O 8.
+h3 Re8 9. O-O Nbd7 10. Re1 Nf8 11. d5 Ng6 12. Nd4 Bd7 13. Be3 c6 14. Bf1 Bf8
+15. a4 cxd5 16. Nf3 Bc6 17. b4 a6 18. Bd4 Ne5 19. Rb1 Ne4 20. b5 axb5 21. axb5
+Nxf3+ 22. Qxf3 Nd2 23. Qg3 Nxb1 24. Rxb1 Bd7 25. Nxd5 Re6 26. Bd3 Ra4 27. c4 g6
+28. Nf4 Ra3 29. Nxe6 Bxe6 30. Rc1 Qa5 31. Qf3 Bg7 32. Bxg7 Kxg7 33. Qe2 Kg8 34.
+Qd1 Ra2 35. Bf1 Qb6 36. Rc2 Rxc2 37. Qxc2 Qd4 38. Qc1 Kg7 39. g3 b6 40. h4 h5
+41. Qb1 Bxc4 42. Bxc4 Qxc4 43. Qa1+ Kh7 44. Qa7 Qxb5 45. Qxf7+ Kh6 46. Qf8+
+1/2-1/2
+
+
+[Event "20th TCh-RUS 2013"]
+[Site "Loo RUS"]
+[Date "2013.04.13"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2786"]
+[BlackElo "2772"]
+[PlyCount "83"]
+[EventDate "2013.04.07"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.15"]
+[WhiteTeam "Malakhit"]
+[BlackTeam "SHSM Nashe Nasledie Moskow"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. a4
+Rb8 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Be3 Ra8 13. Nbd2 h6 14. Re1 Re8 15. Nf1
+exd4 16. cxd4 Rxe4 17. Ng3 Re7 18. Qd2 Qf8 19. Rec1 Bd7 20. Nh4 d5 21. Nhf5 Re6
+22. Rc2 Rae8 23. Rac1 Qb4 24. Qxb4 Nxb4 25. Rxc7 Bb8 26. Rb7 Rc6 27. Ne7+ Rxe7
+28. Rxb8+ Re8 29. Rxe8+ Bxe8 30. Ne2 Rxc1+ 31. Bxc1 Nc6 32. Bd2 Bd7 33. g4 Be6
+34. f3 Ne8 35. Bc2 Nd6 36. b4 g5 37. Bc3 f6 38. Nc1 f5 39. Nd3 f4 40. h4 Kg7
+41. Bb3 Ne7 42. Nc5 1/2-1/2
+
+
+[Event "20th TCh-RUS 2013"]
+[Site "Loo RUS"]
+[Date "2013.04.11"]
+[Round "5"]
+[White "Karjakin, Sergey"]
+[Black "Kamsky, G."]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2786"]
+[BlackElo "2741"]
+[PlyCount "50"]
+[EventDate "2013.04.07"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.15"]
+[WhiteTeam "Malakhit"]
+[BlackTeam "Kazan"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. c3 Nb8 11. Nbd2 Nbd7 12. Nf1 Nc5 13. Bc2 Nxa4 14. Bxa4 bxa4
+15. Qxa4 h6 16. Ne3 Re8 17. Nc4 Bf8 18. Na5 Bc8 19. Nc6 Qd7 20. h3 Re6 21. c4
+Qe8 22. Nb4 Bd7 23. Qd1 Bc8 24. Qa4 Bd7 25. Qd1 Bc8 1/2-1/2
+
+
+[Event "20th TCh-RUS 2013"]
+[Site "Loo RUS"]
+[Date "2013.04.09"]
+[Round "3"]
+[White "Karjakin, Sergey"]
+[Black "Ivanchuk, V."]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2786"]
+[BlackElo "2757"]
+[PlyCount "73"]
+[EventDate "2013.04.07"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.15"]
+[WhiteTeam "Malakhit"]
+[BlackTeam "Economist-SGSEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8.
+O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Qg4 Kf8 12. b3 c5 13. Na4 Bb7 14. c4 d4 15.
+Bd2 Qc7 16. Qf4 g5 17. Qg3 h5 18. f4 h4 19. Qf2 gxf4 20. Bxf4 Kg7 21. Re2 Rag8
+22. Rf1 Qd8 23. Nb2 Qe8 24. Be4 Bxe4 25. Rxe4 Rh5 26. Qe2 Rf5 27. Nd3 Nf8 28.
+Bc1 Ng6 29. Rxf5 exf5 30. Qd2 Rh8 31. Re1 h3 32. g3 Qc6 33. Qe2 a5 34. Rf1 Qe4
+35. Re1 Qc6 36. Rf1 Qe4 37. Re1 1/2-1/2
+
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.18"]
+[Round "1.4"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hi"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2786"]
+[BlackElo "2767"]
+[PlyCount "213"]
+[EventDate "2013.04.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.22"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qd8 16. f5 Qc8 17. Rb3 Qc4 18. fxe6 fxe6 19. Rf1 Be7 20. Qd3 Rc8 21.
+Kd2 Rf8 22. Qxc4 Rxc4 23. Rb8+ Bc8 24. Rxf8+ Bxf8 25. Ne2 Kd7 26. c3 Ra4 27.
+Nc1 Kc7 28. Rb1 Bd7 29. Ra1 Bb5 30. Nb3 Kc6 31. Kc2 Bc4 32. Kb2 Bd3 33. a3 Be7
+34. Nd2 Kb5 35. g3 h5 36. Kb3 g5 37. Kb2 g4 38. Be3 Bf8 39. Bd4 Bf5 40. Kb3 Bh6
+41. Rd1 Bd3 42. Kb2 Bf8 43. Ra1 Be7 44. Be3 h4 45. Bd4 h3 46. Be3 Bf5 47. Kb3
+Bf8 48. Kb2 Bg7 49. Bd4 Bh6 50. Rd1 Bg6 51. Kb3 Bf5 52. Kb2 Bg5 53. Kb3 Kc6 54.
+Nf1 Ra5 55. Ne3 Rb5+ 56. Ka2 Be4 57. Re1 Bf3 58. a4 Rb7 59. Rb1 Rxb1 60. Kxb1
+a5 61. Kc2 Bd8 62. Kd2 Kd7 63. Nc2 Ke8 64. Be3 Bc7 65. Bf4 Be4 66. Nd4 Kd7 67.
+Kc1 Bg6 68. Kb2 Be8 69. Kb3 Bg6 70. Kb2 Bd3 71. Kb3 Bb6 72. Kb2 Ke7 73. Kb3 Kf7
+74. Kb2 Ba6 75. Kb3 Kg6 76. Bd2 Bc8 77. Kb2 Bd7 78. Kb3 Bc5 79. Bc1 Bxd4 80.
+cxd4 Kf5 81. Kc3 Ke4 82. Ba3 Bxa4 83. Bb2 Ke3 84. Ba3 Bb5 85. Bb2 a4 86. Ba3
+Bc4 87. Bb2 Bb3 88. Ba3 Ke2 89. Bb2 Bd1 90. Ba3 Kf2 91. Kd2 Kg2 92. Ke1 Bb3 93.
+Bb2 Kf3 94. Kd2 Ba2 95. Ba3 Bc4 96. Bb2 Ke4 97. Kc3 Kf3 98. Kd2 Kg2 99. Ke1
+Kxh2 100. Kf2 Kh1 101. Ba3 Be2 102. Bb2 h2 103. Ba3 Bd1 104. Bb2 Be2 105. Ba3
+Bd1 106. Bb2 Be2 107. Ba3 1/2-1/2
+
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.20"]
+[Round "3.3"]
+[White "Karjakin, Sergey"]
+[Black "Ponomariov, R."]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2786"]
+[BlackElo "2733"]
+[PlyCount "107"]
+[EventDate "2013.04.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 d6 8.
+Be3 Be6 9. O-O-O Qe7 10. g3 O-O-O 11. Bg2 Rhe8 12. Rhe1 Kb8 13. h3 Bxb3 14.
+axb3 Bxe3+ 15. Qxe3 Qe5 16. Nd5 Ne7 17. Nxf6 Qxf6 18. f4 Nc8 19. Rd4 Qe7 20.
+Red1 h6 21. Qf3 c6 22. h4 Nb6 23. Qg4 f6 24. h5 Kc7 25. R4d3 Qd7 26. Qe2 Qf7
+27. Qd2 Qxh5 28. Bf3 Qf7 29. Rxd6 Qf8 30. e5 fxe5 31. fxe5 Rxd6 32. exd6+ Kb8
+33. Bg4 Qf6 34. c4 Qe5 35. Qf4 Qxf4+ 36. gxf4 a5 37. Rg1 g5 38. Bh5 Rd8 39.
+fxg5 hxg5 40. Rxg5 Nc8 41. c5 b6 42. Bf3 bxc5 43. Rxc5 Nxd6 44. Bxc6 Rc8 45.
+Rc3 Ka7 46. Ba4 Kb6 47. Kc2 Rxc3+ 48. bxc3 Kc5 49. Kd3 Nf7 50. Ke4 Nd6+ 51. Ke5
+Nc4+ 52. bxc4 Kxc4 53. Kd6 Kxc3 54. Kd5 1/2-1/2
+
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.25"]
+[Round "7.6"]
+[White "Karjakin, Sergey"]
+[Black "Kasimdzhanov, R."]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2786"]
+[BlackElo "2709"]
+[PlyCount "75"]
+[EventDate "2013.04.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 Qe6 10. Qe4 Bb4 11. Bd2 Ba6 12. b3 Bxc3 13. Bxc3 d5 14. Qh4 dxc4
+15. Rc1 Qg6 16. Bb4 f6 17. Qh3 Qe4+ 18. Be2 Kf7 19. Qe3 Qxe3 20. fxe3 Rhe8 21.
+exf6 Rxe3 22. fxg7 Kxg7 23. Kf2 Rxe2+ 24. Kxe2 cxb3+ 25. Kf2 bxa2 26. Rxc6 Nd5
+27. Bc3+ Nxc3 28. Rxc3 Bc8 29. Rxc7+ Kh8 30. Re1 Be6 31. Rc6 Rf8+ 32. Ke3 Rb8
+33. Ra6 Rb1 34. Kd2 Rb2+ 35. Kc3 Rb1 36. Kd2 Rb2+ 37. Kc3 Rb1 38. Kd2 1/2-1/2
+
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.26"]
+[Round "8.6"]
+[White "Karjakin, Sergey"]
+[Black "Giri, A."]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[WhiteElo "2786"]
+[BlackElo "2727"]
+[PlyCount "63"]
+[EventDate "2013.04.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.04.30"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. d5 e6 8. Qd2 exd5
+9. cxd5 Nbd7 10. Nh3 a6 11. a4 Ne5 12. Nf2 Bd7 13. h3 b5 14. f4 Nc4 15. Bxc4
+bxc4 16. O-O Nh5 17. g4 Qh4 18. gxh5 Qg3+ 19. Kh1 Bxh3 20. Rg1 Qh4 21. Rg2 Bg4+
+22. Kg1 Bf3 23. f5 Be5 24. Bg5 Bh2+ 25. Kf1 Bxg2+ 26. Kxg2 Qg3+ 27. Kh1 f6 28.
+Bh6 Qh4 29. Kg2 Qg3+ 30. Kh1 Qh4 31. Kg2 Qg3+ 32. Kh1 1/2-1/2

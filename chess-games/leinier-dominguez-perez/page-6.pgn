@@ -1,0 +1,652 @@
+[Event "2019-world-rapid-championship"]
+[White "Dominguez Perez, Leinier"]
+[Black "Wang, Hao"]
+[WhiteFideId "3503240"]
+[BlackFideId "8602883"]
+[Result "1-0"]
+[Round "11"]
+[Date "Sat Dec 28 2019"]
+[WhiteClock "0:00:45"]
+[BlackClock "0:01:01"]
+
+
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Bc5 4. c3  Nf6 5. d3  d6 6. O-O  h6 7. Re1  O-O 8. h3  a6 9. a4  Ba7 10. Nbd2  Re8 11. b4  Be6 12. Bxe6  Rxe6 13. Qc2  Qd7 14. Nf1  Ne7 15. Be3  Ng6 16. Bxa7  Rxa7 17. Ne3  Re8 18. Rad1  Raa8 19. Kh2  Rad8 20. g3  c6 21. c4  d5 22. c5  Qc8 23. Nf5  Qc7 24. Nd6  Re6 25. a5  Ne8 26. Nf5  Nf6 27. Kg2  Ne7 28. N3h4  Nxf5 29. Nxf5  Qd7 30. Qc1  Kh7 31. h4  Ree8 32. Nd6  Re6 33. f4  Nh5 34. f5  Rxd6 35. cxd6  Qxd6 36. Qc5  Qc7 37. Kf3  Re8 38. g4  Nf4 39. d4  Qd8 40. dxe5  Qxh4 41. Kxf4  Qh2+ 42. Kf3  Rxe5 43. Qf2  dxe4+ 44. Ke2  Qh3 45. Rg1  Qb3 46. Qe3  Qxb4 47. Rb1  Qc4+ 48. Kf2  Rxa5 49. Rb2  Qd5 50. Rd2  Qe5 51. Kg2  Rc5 52. Qd4  Qf4 53. Qxc5  Qxd2+ 54. Qf2  Qg5 55. Qe2  e3 56. Kf3  Qh4 57. Qxe3  f6 58. Qe1  Qg5 59. Qc1 1-0
+
+
+[Event "2019-world-blitz-championship"]
+[White "Dominguez Perez, Leinier"]
+[Black "Kezin, Roman"]
+[WhiteFideId "3503240"]
+[BlackFideId "24124621"]
+[Result "1-0"]
+[Round "18"]
+[Date "Mon Dec 30 2019"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:00:00"]
+
+
+1. e4  c5 2. Nf3  e6 3. d4  cxd4 4. Nxd4  Nc6 5. Nc3  Qc7 6. Be3  a6 7. Qd2  Nf6 8. O-O-O  Be7 9. f3  b5 10. g4  Nxd4 11. Bxd4  Bb7 12. Kb1  Rc8 13. g5  Nh5 14. Be5  d6 15. Bxd6  Bxd6 16. Qxd6  Qxd6 17. Rxd6  Ke7 18. Rb6  Rc7 19. a4  bxa4 20. Bxa6  Bc6 21. Rd1  h6 22. Bb5  Bxb5 23. Nxb5  Rd7 24. Rxd7+  Kxd7 25. Nd6  hxg5 26. Nxf7  Rf8 27. Nxg5  Nf4 28. Ra6  Rh8 29. Rxa4  Rxh2 30. e5  Rg2 31. Rxf4  Rxg5 32. Rd4+  Ke7 33. f4  Rg4 34. c3  g5 35. fxg5  Rxg5 36. Re4  Kd7 37. b4  Kc6 38. Kc2  Kd5 39. Kd3  Rg3+ 40. Re3  Rg4 41. Re2  Rg3+ 42. Kc2  Kc4 43. Re4+  Kd5 44. Rd4+  Kxe5 45. b5  Rg7 46. Kb3  Kf5 47. c4  e5 48. Rd1  e4 49. b6  e3 50. c5  Ke5 51. c6  Rg8 52. Kc4  e2 53. Re1  Kd6 54. Kb5  Rg5+ 55. Ka6  Kxc6 56. Rxe2  Rg1 57. Rc2+  Kd7 58. Ka7  Ra1+ 59. Kb8 1-0
+
+
+[Event "Champions Showdown Rapid"]
+[Site "Saint Louis USA"]
+[Date "2019.02.21"]
+[Round "8.4"]
+[White "Dominguez Perez,L"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[BlackElo "2740"]
+[BlackFideId "2900084"]
+[BlackTitle "GM"]
+[ECO "C17"]
+[EventDate "2019.02.20"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[WhiteElo "2739"]
+[WhiteFideId "3503240"]
+[WhiteTitle "GM"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Kf8 8. Nb5 Bb6
+9. Nf3 Nc6 10. Bb2 a5 11. Nbxd4 axb4 12. Nxc6 bxc6 13. axb4 Rxa1+ 14. Bxa1 c5
+15. bxc5 Bxc5 16. Bd3 Qa5+ 17. Ke2 Nh6 18. Qf4 Ba6 19. Rb1 Rg8 20. Bd4 Bxd4
+21. Qxd4 Bxd3+ 22. cxd3 g5 23. g4 Kg7 24. Kf1 Rc8 25. Qe3 Qd8 26. h3 Ng8
+27. Nxg5 h6 28. Nf3 Ne7 29. h4 Ra8 30. h5 Ra4 31. d4 Nc6 32. Qf4 Qe7 33. Kg2 Rc4
+34. Rb2 Rc3 35. Ra2 Rc4 36. Ra8 f6 37. exf6+ Qxf6 38. Rg8+
+1-0
+
+
+[Event "Champions Showdown Blitz"]
+[Site "Saint Louis USA"]
+[Date "2019.02.23"]
+[Round "10.4"]
+[White "Dominguez Perez,L"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[BlackElo "2740"]
+[BlackFideId "2900084"]
+[BlackTitle "GM"]
+[ECO "A46"]
+[EventDate "2019.02.23"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[WhiteElo "2739"]
+[WhiteFideId "3503240"]
+[WhiteTitle "GM"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O Be7 6. c4 d5 7. cxd5 Nxd5
+8. e4 Nb4 9. Bb5+ c6 10. Be2 c5 11. a3 N4a6 12. Bb5+ Kf8 13. Nc3 Nc7
+14. Be2 cxd4 15. Nxd4 Nc6 16. Nxc6 Bxc6 17. Bf4 Qxd1 18. Rfxd1 Ne8 19. Rac1 Nf6
+20. Bf3 Nd7 21. Ne2 Ba4 22. b3 Bb5 23. a4 Bxe2 24. Rxd7 Bxf3 25. gxf3 Bc5
+26. Be3 Bxe3 27. fxe3 g5 28. Rcc7 Kg7 29. Rxf7+ Kg6 30. Rg7+ Kh6 31. Rge7 Rae8
+32. Rxa7
+1-0
+
+
+[Event "Champions Showdown Blitz"]
+[Site "Saint Louis USA"]
+[Date "2019.02.24"]
+[Round "14.4"]
+[White "Dominguez Perez,L"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[BlackElo "2740"]
+[BlackFideId "2900084"]
+[BlackTitle "GM"]
+[ECO "C65"]
+[EventDate "2019.02.23"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteElo "2739"]
+[WhiteFideId "3503240"]
+[WhiteTitle "GM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 d6 6. c3 O-O 7. O-O Ne7
+8. d4 exd4 9. cxd4 Bb6 10. Re1 Bg4 11. h3 Bh5 12. a4 a6 13. Bf1 Nc6 14. a5 Nxa5
+15. d5 c5 16. b3 Bc7 17. Bb2 b5 18. g4 Bg6 19. Nh4 Nxe4 20. Nxg6 Nxd2
+21. Nxf8 Naxb3 22. Ne6 fxe6 23. dxe6 Qe7 24. Bg2 Rf8 25. Rxa6 c4 26. Bc3 Nc5
+27. Ra7 Ndb3 28. Qd5 Kh8 29. Rxc7 Qxc7 30. e7 Re8 31. Qf7
+1-0
+
+
+[Event "Champions Showdown Blitz"]
+[Site "Saint Louis USA"]
+[Date "2019.02.24"]
+[Round "16.4"]
+[White "Dominguez Perez,L"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[BlackElo "2740"]
+[BlackFideId "2900084"]
+[BlackTitle "GM"]
+[ECO "C65"]
+[EventDate "2019.02.23"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteElo "2739"]
+[WhiteFideId "3503240"]
+[WhiteTitle "GM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 d6 6. c3 O-O 7. O-O a6
+8. Ba4 b5 9. Bc2 Bb6 10. Re1 Ng4 11. Re2 Ne7 12. h3 Nf6 13. Re1 Ng6 14. Nf1 Re8
+15. Ng3 h6 16. d4 c5 17. a4 cxd4 18. cxd4 Rb8 19. axb5 axb5 20. Be3 Be6
+21. Qd2 Rc8 22. d5 Bd7 23. Bd3 Bxe3 24. Qxe3 Nf4 25. Bf1 Rc2 26. Rec1 Rxc1
+27. Rxc1 Qb8 28. Ne2 Nxe2+ 29. Bxe2 Rc8 30. Ra1 b4 31. Nd2 Bb5 32. Bd3 Bxd3
+33. Qxd3 Qc7 34. b3 Qc3 35. Qxc3 bxc3 36. Nc4 Nxe4 37. Rc1 Rb8 38. f3 Nd2
+39. Rxc3 Nxb3 40. Nxd6 Nd4 41. Rc7 Rd8 42. Nxf7 Rxd5 43. Re7 Nf5 44. Rxe5 Rd1+
+45. Kh2 Kxf7 46. Rxf5+ Kg6 47. g4 Rd3 48. Kg3 Ra3 49. Re5 Rb3 50. Kf2 Ra3
+51. Re3 Ra2+ 52. Kg3 Ra4 53. f4 Kh7 54. f5 Kg8 55. Kf3 Rb4 56. Re4 Rb3+
+57. Re3 Rb4 58. Rc3 Ra4 59. Kg3 Rb4 60. Kh4 Kh7 61. Rc7 Kg8 62. Kh5 Rb6
+63. Re7 Ra6 64. Re6 Ra8 65. Kg6 Rb8 66. Rc6 Rd8 67. h4 Rb8 68. g5 hxg5
+69. hxg5 Kh8 70. Re6 Rg8 71. Kf7 Ra8 72. Re8+
+1-0
+
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.27"]
+[Round "7.4"]
+[White "Dominguez Perez,L"]
+[Black "Lenderman,A"]
+[Result "1-0"]
+[BlackElo "2637"]
+[BlackFideId "2021285"]
+[BlackTitle "GM"]
+[ECO "B40"]
+[EventDate "2019.03.20"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[WhiteElo "2739"]
+[WhiteFideId "3503240"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+
+8. Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O d4 12. Ne2 Bg4 13. Bg5 h6
+14. Bh4 Bxe2 15. Qxe2 Re8 16. Qf3 Ne5 17. Qxb7 Nxd3 18. cxd3 Qd5 19. Qxd5 Nxd5
+20. Bg3 Re2 21. Rab1 f5 22. Bd6 Rc8 23. Rfe1 Rxe1+ 24. Rxe1 Rc2 25. Rb1 Rd2
+26. Be5 Rxd3 27. Kf1 Kf7 28. Ke2 Rxa3 29. bxa3 Nc3+ 30. Kd3 Nxb1 31. a4 Nc3
+32. a5 Nb5 33. Bxd4 g5 34. Bb2 Ke6 35. Kc4 Nd6+ 36. Kc5 Nb7+ 37. Kb5 Kd5
+38. Ka6 Nxa5 39. Kxa5 Ke4 40. Bc1 f4 41. h4 Kd3 42. hxg5 hxg5 43. g3 Ke4
+44. gxf4 gxf4 45. Ba3 Kd5 46. Ka6
+1-0
+
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.29"]
+[Round "9.2"]
+[White "Dominguez Perez,L"]
+[Black "Liang,Awonder"]
+[Result "1-0"]
+[BlackElo "2590"]
+[BlackFideId "2056437"]
+[BlackTitle "GM"]
+[ECO "C42"]
+[EventDate "2019.03.20"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteElo "2739"]
+[WhiteFideId "3503240"]
+[WhiteTitle "GM"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Qc2 Na6 10. a3 Bg4 11. Ne5 Bf5 12. b4 c5 13. cxd5 cxd4 14. Bxe4 Rc8
+15. Nc6 Bxe4 16. Qxe4 bxc6 17. dxc6 Re8 18. Qf3 Qb6 19. Nd2 Rxc6 20. Nb3 Rc3
+21. Qd1 d3 22. Bd2 Rc2 23. g3 Bf8 24. Qf3 Nc5 25. Be3 Qb7 26. Qxb7 Nxb7
+27. Rfd1 Rc3 28. Nc1 a5 29. Rxd3 Rc2 30. Rd7 Nd6 31. Nd3 Nc4 32. Bf4 f6
+33. bxa5 Nxa5 34. a4 Ra8 35. h4 Rc4 36. Be3 Nc6 37. Rc7 Bd6 38. Rd7 Bf8
+39. Nb2 Rc2 40. Rb7 Nb4 41. Nd1 Rc6 42. Rb6 Rc7 43. Bf4 Rc2 44. Ne3 Rd2
+45. Rb5 Rd7 46. a5 Nc6 47. Nc4 Nd4 48. Rb8 Ra6 49. Bd6 Ne6 50. Re8 Rdxd6
+51. Nxd6 Rxd6 52. a6 Nc7 53. a7 Nxe8 54. a8=Q Nc7 55. Qc8 Ne6 56. Ra7 Nd8
+57. h5 Rd4 58. Kg2 Rd6 59. h6 gxh6 60. Qc7
+1-0
+
+
+[Event "TCh-RUS Premier 2019"]
+[Site "Sochi RUS"]
+[Date "2019.05.03"]
+[Round "3.3"]
+[White "Dominguez Perez,L"]
+[Black "Nozdrachev,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2750"]
+[BlackElo "2489"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteTeam "Mednyi vsadnik (St. Petersburg)"]
+[BlackTeam "Moskovskaya oblast"]
+[WhiteFideId "3503240"]
+[BlackFideId "24113441"]
+[EventDate "2019.05.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. c3 Rb8 11. Bc4 Nxe4 12. Bd5 Nxf2 13. Kxf2 Nxa5 14. cxb4 Rxb4 15.
+d4 c6 16. Ba2 exd4 17. Kg1 d5 18. Na3 Bf6 19. Nc2 Rb6 20. Ncxd4 c5 21. Ne2 Be6
+22. Nf4 c4 23. Qd2 Nb3 24. Bxb3 Rxb3 25. Rxa6 c3 26. bxc3 Qc8 27. Nxe6 Bxc3 28.
+Qxd5 Bxe1 29. Qxb3 Qxc1 30. Qa3 Qxa3 31. Rxa3 Bb4 32. Ra4 Rb8 33. Ned4 g6 34.
+Kf1 Bc5 35. Ra2 Rb4 36. Nc6 Rb1+ 37. Ke2 Kg7 38. Nce5 Rb7 39. Kd3 Ra7 40. Rc2
+Be7 41. Ke4 Ra4+ 42. Nc4 Ra1 43. Rb2 Ra7 44. Nfe5 Ra1 45. Rb7 Kf8 46. Nc6 Re1+
+47. Kf3 Bg5 48. Nd6 Re3+ 1-0
+
+
+[Event "TCh-RUS Premier 2019"]
+[Site "Sochi RUS"]
+[Date "2019.05.09"]
+[Round "8.1"]
+[White "Dominguez Perez,L"]
+[Black "Shubin,Kirill"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "2750"]
+[BlackElo "2404"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[WhiteTeam "Mednyi vsadnik (St. Petersburg)"]
+[BlackTeam "SShOR (St. Petersburg)"]
+[WhiteFideId "3503240"]
+[BlackFideId "34119962"]
+[EventDate "2019.05.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Kf8 8. Nb5 Bb6
+9. Nf3 Nc6 10. Bb2 Nge7 11. Nbxd4 h5 12. Qf4 Ng6 13. Nxc6 bxc6 14. Qg3 h4 15.
+Qg4 h3 16. g3 c5 17. Bd3 Ne7 18. bxc5 Bxc5 19. O-O a5 20. Ng5 Nf5 21. Nxf7 Kxf7
+22. Bxf5 Qf8 23. Bd3 Kg8 24. a4 Bd7 25. Bc1 Rb8 26. Bd2 Bb4 27. c3 Bc5 28. Be3
+Rb3 29. Bb5 Bc8 30. Bd4 Rh6 31. Rab1 Ra3 32. Be2 Bxd4 33. Qxd4 1-0
+
+
+[Event "TCh-RUS Premier 2019"]
+[Site "Sochi RUS"]
+[Date "2019.05.10"]
+[Round "9.5"]
+[White "Dominguez Perez,L"]
+[Black "Paravyan,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2610"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteTeam "Mednyi vsadnik (St. Petersburg)"]
+[BlackTeam "Molodezhka (Tyumen region)"]
+[WhiteFideId "3503240"]
+[BlackFideId "4194985"]
+[EventDate "2019.05.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 Nh5 13. Nd5 Bxd5 14. exd5 f6 15.
+gxf6 Rxf6 16. Na5 Nf4 17. Nc6 Qf8 18. Kb1 Bd8 19. c4 Bb6 20. cxb5 axb5 21. Bxb5
+Kh8 22. Rhf1 Qf7 23. Bc4 Ng6 24. Be2 Nf4 25. Bc4 Ng6 26. Qf2 Bxe3 27. Qxe3 Rf4
+28. Be2 Ne7 29. a3 Nc5 30. Nxe7 Qxe7 31. Rg1 Rb8 32. b4 h5 33. Rd2 Qh4 34. Rb2
+Na4 35. Qa7 Nc3+ 36. Kc2 Rg8 37. Kxc3 Rd4 38. Qf7 Rf4 39. Qa7 Rd4 40. Bb5 Qf4
+41. Re2 Qxf3+ 42. Kb2 Qxd5 43. Ba4 Qf3 44. Rgg2 Qf6 45. Bc2 Rf4 46. Rg6 Qf8 47.
+Rh6+ 1-0
+
+
+[Event "IMSA World Masters Blitz"]
+[Site "Hengshui CHN"]
+[Date "2019.05.17"]
+[Round "3.3"]
+[White "Dominguez Perez,L"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2735"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "3503240"]
+[BlackFideId "8602883"]
+[EventDate "2019.05.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 a6 7. Bb3 Ba7 8. Nf1
+Ng4 9. d4 O-O 10. Ng3 Nf6 11. O-O Bg4 12. Be3 exd4 13. cxd4 Re8 14. h3 Bxf3 15.
+gxf3 Ne7 16. Kh2 c5 17. dxc5 Bxc5 18. e5 Nd7 19. e6 Ne5 20. f4 Bxe3 21. fxe5
+fxe6 22. Bxe6+ Kh8 23. fxe3 Nc6 24. Bd5 Nxe5 25. Qd4 Rc8 26. Rf2 Rc7 27. Raf1 h6
+28. a3 b5 29. Nh5 Qg5 30. Rf8+ Rxf8 31. Rxf8+ Kh7 32. Be4+ g6 33. Nf6+ Kg7 34.
+Rg8+ Kf7 35. Qd5+ Ke7 36. Re8+ Kxf6 37. Qxd6+ Kf7 38. Qf8# 1-0
+
+
+[Event "IMSA World Masters Blitz"]
+[Site "Hengshui CHN"]
+[Date "2019.05.17"]
+[Round "12.7"]
+[White "Dominguez Perez,L"]
+[Black "Mamedov,Rau"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2650"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "13401653"]
+[EventDate "2019.05.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Bc4 Be6 14. Kb1 a5
+15. Ne4 f5 16. Ng5 Qe7 17. Nxe6 Qxe6 18. Bc5 Rfb8 19. Qd2 Kh8 20. Bxd5 cxd5 21.
+Qxd5 Qf6 22. Qd6 Qg5 23. g3 Qh5 24. Qd5 e4 25. Bd4 Qxf3 26. Bxg7+ Kxg7 27. Qe5+
+Kh6 28. Rhf1 Qe2 29. b3 Rc8 30. Qf4+ Kg7 31. Rd7+ Kg8 32. Rc1 Qb5 33. Qd6 Qc6
+34. Qe7 1-0
+
+
+[Event "IMSA World Masters Blitz"]
+[Site "Hengshui CHN"]
+[Date "2019.05.18"]
+[Round "19.6"]
+[White "Dominguez Perez,L"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2739"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "8603820"]
+[EventDate "2019.05.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 c4 8. Qg4
+g6 9. h4 h6 10. Qf4 Qa4 11. Ra2 Nc6 12. Nf3 Bd7 13. Be2 Nge7 14. Nh2 g5 15. Qf6
+O-O-O 16. Ng4 Qb5 17. Ra1 Qb2 18. Rc1 h5 19. hxg5 Nf5 20. Nh6 Nxh6 21. gxh6 Rh7
+22. Rxh5 Rdh8 23. Rh4 Qxa3 24. Rg4 Ne7 25. Rg7 Nf5 26. Qxf7 Rxg7 27. hxg7 Rh1+
+28. Bf1 Nxg7 29. Qxg7 a5 30. Rb1 Qa2 31. Qf8+ Kc7 32. Qd6+ Kc8 33. Qb6 Bc6 34.
+Qb2 Qxb2 35. Rxb2 a4 36. f3 b5 37. Ra2 Be8 38. Kf2 Bg6 39. Bc1 Kc7 40. Ba3 Kc6
+41. g4 Bh7 42. Ra1 Bxc2 43. Re1 Bg6 44. Bg2 Rh8 45. Rh1 Rg8 46. Kg3 Bd3 47. f4
+Bf5 48. Bf3 Bd3 49. Rh6 Kd7 50. Rf6 Rb8 51. Rf7+ Kc6 52. Re7 b4 53. Rxe6+ Kc7
+54. Bxb4 Rxb4 55. cxb4 a3 56. Ra6 1-0
+
+
+[Event "IMSA World Masters Rapid"]
+[Site "Hengshui CHN"]
+[Date "2019.05.14"]
+[Round "1.5"]
+[White "Dominguez Perez,L"]
+[Black "Mamedov,Rau"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2650"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "13401653"]
+[EventDate "2019.05.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Rb8 12. Nc2 Bg5 13. Be2 O-O 14. O-O a5 15.
+Qd3 Ne7 16. Nce3 Be6 17. Rfd1 b4 18. Nxe7+ Qxe7 19. c4 Qa7 20. Nd5 f5 21. exf5
+Bxf5 22. Qg3 Bh6 23. Ne3 Bf4 24. Qf3 Bg6 25. Qh3 e4 26. b3 Kh8 27. Rab1 a4 28.
+Bg4 Ra8 29. Be6 axb3 30. axb3 Be5 31. Bd5 Rae8 32. Rd2 Bc3 33. Re2 Bd4 34. Rd1
+Re5 35. Rde1 Bc3 36. Rb1 Bd4 37. Rbe1 Bh5 38. Rc2 Bc3 39. Rb1 Bd4 40. Qg3 Qe7
+41. Ra2 Rg5 42. Qh3 Bf3 43. g3 Rh5 44. Qe6 Qxe6 45. Bxe6 g5 46. Bg4 Bxg4 47.
+Nxg4 Rf3 48. Kg2 Bc3 49. Re2 Rf8 50. Rxe4 1-0
+
+
+[Event "IMSA World Masters Rapid"]
+[Site "Hengshui CHN"]
+[Date "2019.05.15"]
+[Round "5.1"]
+[White "Dominguez Perez,L"]
+[Black "Andreikin,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2722"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Pytel-Wade variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "4158814"]
+[EventDate "2019.05.14"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 g6 7. Bc4 Be6 8. Bb3
+Bxb3 9. axb3 Qe6+ 10. Ne5 Nbd7 11. O-O Nxe5 12. dxe5 Qxe5 13. Re1 Qf5 14. g4 Qd7
+15. Qf3 Bg7 16. Bg5 O-O 17. Rad1 Qe8 18. Bxf6 Bxf6 19. Ne4 Qc8 20. Nxf6+ exf6
+21. Qxf6 h5 22. Re7 hxg4 23. Rdd7 gxh3 24. Rxf7 1-0
+
+
+[Event "IMSA World Masters Rapid"]
+[Site "Hengshui CHN"]
+[Date "2019.05.16"]
+[Round "9.4"]
+[White "Dominguez Perez,L"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2675"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "14103320"]
+[EventDate "2019.05.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 Be7
+9. Be2 b5 10. a3 O-O 11. O-O Bb7 12. Rad1 Rc8 13. dxc5 Nxc5 14. Nd4 Qc7 15. Nxc6
+Qxc6 16. Bd4 Ne4 17. Nxe4 dxe4 18. Qe3 Qxc2 19. Rc1 Qa4 20. b4 Bd5 21. Rxc8 Rxc8
+22. Bd1 Rc2 23. Bxc2 Qxc2 24. Rc1 Qd3 25. Rc8+ Bf8 26. Qxd3 exd3 27. Bc5 1-0
+
+
+[Event "Netanya Masters 2019"]
+[Site "Netanya ISR"]
+[Date "2019.06.24"]
+[Round "2.5"]
+[White "Dominguez Perez,L"]
+[Black "Rodshtein,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2685"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "3503240"]
+[BlackFideId "2806851"]
+[EventDate "2019.06.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. Qe2 Re8 8.
+Nc4 Nd7 9. Rg1 Nf8 10. Ncxe5 Be6 11. Be3 Bxe3 12. Qxe3 f6 13. Nc4 Bxc4 14. dxc4
+Qd6 15. c5 Qe6 16. Nd2 f5 17. f3 Nd7 18. O-O-O Nf6 19. Kb1 Rad8 20. Qf4 fxe4 21.
+Nxe4 Rxd1+ 22. Rxd1 Nxe4 23. fxe4 Qxe4 24. Qxc7 Qxg2 25. Qxb7 Qd2 26. Qb3+ Kh8
+27. Qf3 Qxh2 28. Qxc6 Qe2 29. Qd7 1-0
+
+
+[Event "Netanya Masters 2019"]
+[Site "Netanya ISR"]
+[Date "2019.06.26"]
+[Round "4.1"]
+[White "Dominguez Perez,L"]
+[Black "Nabaty,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2678"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Classical defence deferred"]
+[WhiteFideId "3503240"]
+[BlackFideId "2809052"]
+[EventDate "2019.06.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. c3 Nge7 6. O-O Ng6 7. d4 Ba7 8. Bg5
+f6 9. Be3 O-O 10. Re1 d6 11. Nbd2 Kh8 12. h3 exd4 13. Nxd4 Nxd4 14. Bxd4 f5 15.
+Bxa7 Rxa7 16. Nf3 fxe4 17. Rxe4 Bf5 18. Re3 b5 19. Bb3 c5 20. a4 c4 21. Qd4 Raf7
+22. Bd1 d5 23. axb5 axb5 24. Ne5 Nxe5 25. Rxe5 Be4 26. f3 Rf4 27. fxe4 Rf1+ 28.
+Kh2 Qb8 29. Qxd5 g6 30. Qd4 Kg8 31. Qd5+ Kh8 32. Qd4 Kg8 33. Ra5 Rxd1 34. Rxb5
+Rxd4 35. Rxb8 Rxb8 36. cxd4 Rxb2 37. Rc5 Rb4 38. d5 c3 39. e5 Rd4 40. d6 Kf7 41.
+Rxc3 Ke6 42. Re3 g5 43. Kg3 h5 44. Kf3 Rd2 45. Re2 Rd3+ 46. Kf2 Rd1 47. Re3 Rd2+
+48. Ke1 Rd4 49. Ke2 Rd5 50. Re4 Ra5 51. Kf3 Rd5 52. Ke3 Ra5 53. Kd2 Rc5 54. Rd4
+Rc8 55. d7 Rd8 56. Kd3 Kxe5 57. Kc4 Ke6 58. Kc5 Rxd7 59. Rxd7 Kxd7 60. Kd5 1-0
+
+
+[Event "Netanya Masters 2019"]
+[Site "Netanya ISR"]
+[Date "2019.06.28"]
+[Round "6.2"]
+[White "Dominguez Perez,L"]
+[Black "Postny,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2601"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[WhiteFideId "3503240"]
+[BlackFideId "2804344"]
+[EventDate "2019.06.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+Bg4 9. c3 O-O 10. h3 Bh5 11. d3 Na5 12. Ba2 c5 13. Bg5 b4 14. cxb4 cxb4 15. Nbd2
+Rb8 16. Bxf6 Bxf6 17. Bd5 Qd7 18. g4 Bg6 19. Nf1 Bd8 20. Ne3 Bb6 21. Nc4 Nxc4
+22. dxc4 Kh8 23. b3 f6 24. Qd2 Be8 25. Kh2 Bc5 26. Rg1 g6 27. Rg3 Qe7 28. Rag1
+Bd7 29. R1g2 Rbe8 30. Nh4 Bc8 31. Nf5 Qa7 32. Kh1 Re7 33. Qh6 Rg7 34. g5 fxg5
+35. Rxg5 Rf6 36. Rxg6 Rfxg6 37. Rxg6 Bxf5 38. exf5 Qd7 39. f6 1-0
+
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Dominguez Perez,L"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2672"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "1202758"]
+[EventDate "2019.07.13"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. Qf3 Bb4 8.
+Nxc6 bxc6 9. Bd3 e5 10. Qg3 d6 11. O-O Nh5 12. Qf3 Nf6 13. Qg3 Nh5 14. Qf3 Nf6
+15. Na4 Ba5 16. h3 O-O 17. Rad1 h6 18. Qg3 Nh5 19. Qf3 Nf6 20. Bc4 Bc7 21. Bc5
+Re8 22. Rfe1 Rb8 23. Qa3 d5 24. exd5 cxd5 25. Bxd5 Nxd5 26. c4 Ba5 27. Rxd5 Qh4
+28. Be7 Rxe7 29. Rxa5 Re6 30. Raxe5 Qxc4 31. Nc5 Rg6 32. Qf3 Qxa2 33. Re8+ Kh7
+34. b3 Qd2 35. Qxf7 Rf6 36. Qg8+ Kg6 37. R8e2 Qf4 38. Nd3 1-0
+
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.16"]
+[Round "3.3"]
+[White "Dominguez Perez,L"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2775"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "4168119"]
+[EventDate "2019.07.13"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Bd3 Bxc5 6. Qg4 Ne7 7. b4 h5 8. Qf4 Bb6
+9. Nf3 Nbc6 10. Nbd2 a5 11. b5 Nb4 12. Ba3 Nxd3+ 13. cxd3 Bd7 14. Qa4 Nf5 15.
+Rc1 g5 16. h3 Rc8 17. Rxc8 Qxc8 18. Ke2 Qb8 19. Nb3 Qa7 20. Rc1 g4 21. hxg4 hxg4
+22. Qxg4 Bxf2 23. Nc5 Bg3 24. Rh1 Rf8 25. Rh5 1-0
+
+
+[Event "Saint Louis Rapid 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.08.12"]
+[Round "9.3"]
+[White "Dominguez Perez,L"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2750"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "14109603"]
+[EventDate "2019.08.10"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 h6 7. O-O Nd7 8. Nbd2 Qc7
+9. Re1 Bg6 10. Nb3 a6 11. Bf4 c5 12. Nxc5 Nxc5 13. dxc5 Qxc5 14. Qb3 Qc7 15. c4
+dxc4 16. Bxc4 Nc6 17. Bxe6 fxe6 18. Qxe6+ Ne7 19. Rac1 Qd7 20. Qxd7+ Kxd7 21.
+e6+ Ke8 22. Ne5 Rh7 23. g4 Rd8 24. Rc7 Bd3 25. Nf7 Nd5 26. Nxd8 Nxc7 27. Bxc7 g5
+28. Nf7 Bc4 29. b3 Bxe6 30. Nd8 Rxc7 31. Nxe6 Rc8 32. Nxf8+ Kxf8 33. Re6 1-0
+
+
+[Event "Saint Louis Blitz 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.08.13"]
+[Round "6.5"]
+[White "Dominguez Perez,L"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2765"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "3503240"]
+[BlackFideId "13300474"]
+[EventDate "2019.08.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Be6 7. O-O Bd6 8.
+Nb3 a5 9. Qe1 a4 10. Na5 Qb8 11. b4 Bg4 12. Nh4 O-O 13. Nc4 Be6 14. Nxd6 cxd6
+15. f4 exf4 16. Bxf4 Re8 17. a3 Nh5 18. Bd2 d5 19. Qe2 Nf6 20. Rxf6 gxf6 21. Rf1
+dxe4 22. Bc3 Qd6 23. Bxf6 h6 24. Qh5 Kh7 25. Nf5 Qf8 26. dxe4 Rad8 27. Rf4 Rd2
+28. Rg4 Rd1+ 29. Kf2 Rd2+ 30. Ke1 Rxc2 31. Bg7 1-0
+
+
+[Event "Saint Louis Blitz 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.08.13"]
+[Round "8.5"]
+[White "Dominguez Perez,L"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2778"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "3503240"]
+[BlackFideId "623539"]
+[EventDate "2019.08.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 Nbd7 10. g4 b5 11. O-O-O O-O 12. g5 b4 13. Ne2 Nh5 14. Ng3 Nf4 15. h4
+a5 16. Kb1 a4 17. Nc1 b3 18. cxb3 axb3 19. a3 Qc7 20. Bxf4 exf4 21. Nf5 Ne5 22.
+Nxe7+ Qxe7 23. Qxd6 Qxd6 24. Rxd6 Nxf3 25. Be2 Ne5 26. Rf1 Rfc8 27. Rxf4 Rc2 28.
+Rf1 g6 29. Rfd1 Kg7 30. R1d2 Rc7 31. Rd1 Ra5 32. Rb6 Rc2 33. Bd3 Rh2 34. Nxb3
+Bxb3 35. Rxb3 Nxd3 36. Rbxd3 Rxh4 37. Rd5 Ra8 38. R1d4 Rg4 39. a4 Re8 40. a5
+Rexe4 41. Rxe4 Rxe4 42. a6 Ra4 43. Rd6 Ra5 44. Kc2 Rxg5 45. b4 Rg2+ 46. Kb3 Rg1
+47. Rd2 Rb1+ 48. Rb2 Rc1 49. a7 1-0

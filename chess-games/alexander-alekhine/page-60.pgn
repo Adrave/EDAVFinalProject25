@@ -1,0 +1,561 @@
+[Event "Simul, 50b"]
+[Site "Bandung INA"]
+[Date "1933.03.02"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Rein Jans Piso"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D06"]
+[EventDate "????.??.??"]
+[PlyCount "88"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 Nbd7
+8. O-O Nf8 9. Qc2 Ng6 10. e5 Nd7 11. Re1 O-O 12. d5 Nc5 13. Bxg6 hxg6
+14. Rd1 Qe8 15. d6 cxd6 16. exd6 Bf6 17. Be3 Na6 18. Ne4 Qc6 19. Qb1 Bd7
+20. a3 Bxb2 21. Qxb2 Qxe4 22. Rd4 Qf5 23. Qxb7 Nc5 24. Qb1 Rfb8 25. Qxf5 gxf5
+26. Rb4 Rxb4 27. axb4 Nd3 28. Rxa7 Rxa7 29. Bxa7 f6 30. Bc5 e5 31. Nd2 Bb5
+32. Nc4 Kf7 33. Nb6 Ke6 34. h4 f4 35. h5 e4 36. d7 Bxd7 37. Nxd7 Kxd7
+38. Bf8 Ke8 39. Bxg7 Kf7 40. Bh6 Nxb4 41. Bxf4 Nd5 42. Bd2 f5 43. g3 Nf6
+44. h6 Ng4
+1/2-1/2
+
+
+[Event "Simul, 46b"]
+[Site "Malang"]
+[Date "1933.03.05"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "S Lamminga"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D50"]
+[EventDate "????.??.??"]
+[PlyCount "98"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 c6 6. Nf3 Nbd7 7. Bd3 h6
+8. Bh4 O-O 9. Qc2 dxc4 10. Bxc4 Nb6 11. Bb3 Nbd5 12. O-O Nh5 13. Bg3 Bd7
+14. Ne5 Be8 15. e4 Ndf4 16. Qd2 Bg5 17. Qd1 Qf6 18. Qg4 Qe7 19. h4 f6
+20. Nd3 Nxg3 21. Nxf4 Bxf4 22. Bxe6+ Bf7 23. Bxf7+ Qxf7 24. Rfd1 Nh5 25. d5 f5
+26. exf5 Qxf5 27. Qxf5 Rxf5 28. g4 Re5 29. gxh5 Rxh5 30. Ne2 Be5 31. dxc6 bxc6
+32. Nd4 c5 33. Nf3 Bxb2 34. Rab1 Bf6 35. Rb5 a6 36. Ra5 Bc3 37. Ra4 Rf5
+38. Rd3 Bf6 39. Kg2 Kh7 40. Rda3 Rf8 41. Rxa6 c4 42. Rc6 c3 43. Ra4 Rd8
+44. Rac4 Rd3 45. Nh2 h5 46. a4 Bd4 47. Nf3 Rdxf3 48. Rxd4 Rxf2+ 49. Kg1 Rf1+
+1/2-1/2
+
+
+[Event "Simul, 46b"]
+[Site "Malang"]
+[Date "1933.03.05"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Goelangge A Rv"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B20"]
+[EventDate "????.??.??"]
+[PlyCount "60"]
+[WhiteElo "?"]
+
+1. e4 c5 2. c4 Nc6 3. d3 Nf6 4. f4 e5 5. Nc3 g6 6. Nf3 d6 7. Be2 Bg7 8. O-O O-O
+9. h3 Ne8 10. Nd5 f5 11. Kh1 Be6 12. Ng5 Bxd5 13. cxd5 Nd4 14. Be3 exf4
+15. Bxf4 fxe4 16. Nxe4 Qe7 17. Bg4 Be5 18. Bxe5 dxe5 19. Rc1 b6 20. Qd2 Rd8
+21. Rxf8+ Qxf8 22. Re1 Nd6 23. Ng5 Qf6 24. Ne6 Nxe6 25. Bxe6+ Kg7 26. Qe2 e4
+27. dxe4 Qe5 28. Qa6 Nxe4 29. Kg1 Qd4+ 30. Kh2 Qe5+
+1/2-1/2
+
+
+[Event "Simul, 46b"]
+[Site "Malang"]
+[Date "1933.03.05"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "C M H de Haan"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C60"]
+[EventDate "????.??.??"]
+[PlyCount "68"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 a6 5. Bc4 h6 6. d4 exd4 7. Nxd4 Nxd4
+8. Qxd4 Nc6 9. Qd5 Qf6 10. O-O Qe6 11. Re1 Nb4 12. Qxe6+ dxe6 13. Bb3 Be7
+14. Bf4 c5 15. a3 Nc6 16. Na4 O-O 17. Nb6 Ra7 18. c3 g5 19. Be3 Ne5 20. Rad1 a5
+21. a4 Ra6 22. Nc4 Nxc4 23. Bxc4 Ra7 24. e5 b5 25. Bxb5 Rd8 26. Rxd8+ Bxd8
+27. Rd1 Be7 28. f3 Kg7 29. g3 f5 30. f4 g4 31. Kf2 h5 32. Ke1 h4 33. Kf2 h3
+34. Rd3 Kf7
+1/2-1/2
+
+
+[Event "Blindfold simul, 2b"]
+[Site "Jakarta"]
+[Date "1933.03.09"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "P F Rumat"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B20"]
+[EventDate "????.??.??"]
+[PlyCount "58"]
+[WhiteElo "?"]
+
+1. e4 c5 2. b4 cxb4 3. d4 d5 4. exd5 Qxd5 5. c4 Qd8 6. Nf3 e6 7. Bd3 Nf6
+8. O-O Be7 9. Nbd2 O-O 10. Qc2 Nc6 11. Bb2 g6 12. Rad1 b6 13. Ne4 Bb7
+14. Rfe1 Rc8 15. Qa4 Na5 16. c5 Nd5 17. Ne5 Nc6 18. Ba6 Na5 19. Bxb7 Nxb7
+20. Qxa7 Na5 21. Qa6 bxc5 22. dxc5 Bxc5 23. Rxd5 exd5 24. Nf6+ Kg7 25. Ned7 d4
+26. Nxf8 Qxf8 27. Nd7 Qd8 28. Qb5 Ba7 29. Qd5 Nc6
+1/2-1/2
+
+
+[Event "Simul, 50b"]
+[Site "Surabaya"]
+[Date "1933.03.20"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Ali Tajibnapis"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A45"]
+[EventDate "????.??.??"]
+[PlyCount "100"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 c6 4. e3 Bf5 5. Bd3 Bg6 6. Nf3 e6 7. Ne5 Bd6
+8. h4 Bxd3 9. cxd3 h5 10. Qf3 Qe7 11. O-O-O Nbd7 12. e4 Bb4 13. Bd2 Nxe5
+14. dxe5 Nd7 15. d4 O-O-O 16. Kb1 Kb8 17. exd5 cxd5 18. Nb5 Bxd2 19. Rxd2 Nb6
+20. Rc2 Rc8 21. Rhc1 Rxc2 22. Rxc2 Nc4 23. b3 Qb4 24. Kc1 Na3 25. Nxa3 Qxa3+
+26. Kb1 Qe7 27. g3 Qd7 28. Kb2 b6 29. Qc3 Kb7 30. Qb4 Rd8 31. Kc1 a6 32. Kd2 f6
+33. exf6 gxf6 34. Qc3 a5 35. Qf3 Qf7 36. Qf4 Qg7 37. Kc1 Rd7 38. Kb2 e5
+39. Qe3 Rc7 40. Qf3 Rxc2+ 41. Kxc2 Qg6+ 42. Qd3 e4 43. Qe3 Kc6 44. a4 Qg7
+45. Qf4 f5 46. Kc3 Qf8 47. Qe5 Qb4+ 48. Kc2 Qa3 49. Qe6+ Kc7 50. Qe5+ Kc6
+1/2-1/2
+
+
+[Event "Blindfold simul, 32b"]
+[Site "World's Fair, Chicago, IL USA"]
+[Date "1933.07.16"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Jean Moore"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C53"]
+[EventDate "????.??.??"]
+[PlyCount "42"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 Bb6 6. O-O Nf6 7. Re1 O-O 8. h3 h6
+9. Na3 a6 10. Nc2 Re8 11. d5 Ne7 12. Bd3 c6 13. c4 a5 14. Be3 c5 15. Na3 Bd7
+16. Nd2 Ng6 17. Ndb1 Nh7 18. Nc3 Nf4 19. Bf1 Qf6 20. Nab5 Ng5 21. Kh1 Qg6
+1/2-1/2
+
+
+[Event "Simul, 35b"]
+[Site "Zagreb YUG"]
+[Date "1930.12.15"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "B Filipcic"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B20"]
+[EventDate "????.??.??"]
+[PlyCount "41"]
+[WhiteElo "?"]
+
+1. e4 c5 2. b4 e6 3. bxc5 Bxc5 4. d4 Be7 5. Bb2 Nf6 6. Bd3 Nc6 7. Ne2 Nb4
+8. O-O Qb6 9. Nbc3 Nxd3 10. Qxd3 a6 11. Rab1 d5 12. Nf4 dxe4 13. Nxe4 Qc7
+14. Qf3 Qxc2 15. Nxf6+ gxf6 16. d5 Qf5 17. dxe6 fxe6 18. Qg3 Bd6 19. Qg7 Rf8
+20. g3 Rf7 21. Qg8+
+1/2-1/2
+
+
+[Event "Simul, 35b"]
+[Site "Zagreb YUG"]
+[Date "1930.12.15"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Marijan Dumic"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D61"]
+[EventDate "????.??.??"]
+[PlyCount "98"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c6
+8. a3 Re8 9. Rd1 a6 10. h3 dxc4 11. Bxc4 b5 12. Ba2 Bb7 13. e4 Rc8 14. e5 Nd5
+15. Ne4 Bxg5 16. Nfxg5 c5 17. Nxf7 Qa5+ 18. Qd2 Qxd2+ 19. Rxd2 Kxf7 20. Nd6+ Ke7
+21. Nxb7 cxd4 22. Bxd5 exd5 23. f4 Rc1+ 24. Rd1 Rec8 25. Nd6 R8c2 26. Nf5+ Kf8
+27. Nxd4 Rxd1+ 28. Kxd1 Rxb2 29. Kc1 Rxg2 30. Ne6+ Ke7 31. Nc7 Nc5 32. Nxd5+ Ke6
+33. Nc7+ Kf5 34. Rd1 Ra2 35. Rd5 Ne6 36. Nxe6 Kxe6 37. Rd6+ Kf5 38. Rxa6 b4
+39. Ra7 Rxa3 40. Rf7+ Kg6 41. e6 Rxh3 42. f5+ Kg5 43. Kd2 Rh4 44. Kd3 b3
+45. e7 b2 46. Rxg7+ Kf6 47. Kc2 Rh2+ 48. Kb1 Re2 49. Rxh7 Rxe7
+1/2-1/2
+
+
+[Event "Simul, 35b"]
+[Site "Karlovac YUG"]
+[Date "1930.12.14"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Martin Reiner"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B18"]
+[EventDate "????.??.??"]
+[PlyCount "68"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4 e6 7. Nf3 Nd7
+8. Bc4 Ne7 9. O-O Nf5 10. c3 Be7 11. Ne4 h6 12. Qe2 Nf6 13. Nxf6+ gxf6
+14. g4 Nd6 15. Bd3 Bxd3 16. Qxd3 f5 17. gxf5 Nxf5 18. Kh1 Qd7 19. Be3 O-O-O
+20. Qe4 Qd5 21. Qxd5 exd5 22. Bf2 Rde8 23. Ne5 Nd6 24. f5 Nxf5 25. Bg1 Nd6
+26. Nxf7 Nxf7 27. Rxf7 Rhf8 28. Raf1 Rxf7 29. Rxf7 Bg5 30. Kg2 Re2+ 31. Rf2 Re7
+32. Kf3 Re1 33. Rg2 Kd7 34. Bf2 Re4
+1/2-1/2
+
+
+[Event "Simul, 34b"]
+[Site "Sombor YUG"]
+[Date "1930.12.26"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "O Horvath"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C28"]
+[EventDate "????.??.??"]
+[PlyCount "111"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Be3 Bb6 6. Bxb6 axb6 7. a3 d6
+8. Nge2 Ne7 9. O-O Ng6 10. f4 exf4 11. Nxf4 Nxf4 12. Rxf4 c6 13. Bb3 O-O
+14. Qf3 Be6 15. Rf1 Bxb3 16. cxb3 Qc7 17. Ne2 Ne8 18. Nd4 g6 19. h4 Ra5
+20. b4 Re5 21. Ne2 d5 22. Ng3 dxe4 23. dxe4 Ng7 24. Qe3 c5 25. bxc5 Qxc5
+26. Qxc5 bxc5 27. Rf6 Ne6 28. Rd1 Kg7 29. Rf2 Rd8 30. Rfd2 Rxd2 31. Rxd2 b5
+32. Kf2 Nd4 33. b4 Nb3 34. Rd5 cxb4 35. axb4 Rxd5 36. exd5 Nd4 37. Ne4 Nc2
+38. d6 Nxb4 39. Nc3 Kf6 40. Nxb5 Ke6 41. Ke3 Nc6 42. Kf4 h6 43. g4 Nd8
+44. Ke3 Nb7 45. Nd4+ Kxd6 46. h5 Ke5 47. Nf3+ Kf6 48. hxg6 fxg6 49. Kf4 g5+
+50. Ke4 Nc5+ 51. Kd5 Nd3 52. Kd4 Nf2 53. Nh2 Kg6 54. Ke3 Nxg4+ 55. Nxg4 h5
+56. Kf3
+1/2-1/2
+
+
+[Event "Simul, 35b"]
+[Site "Zagreb YUG"]
+[Date "1930.12.15"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Zlatko Weiss"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B12"]
+[EventDate "????.??.??"]
+[PlyCount "132"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Bd3 dxe4 5. fxe4 Qxd4 6. Nf3 Qd8 7. Be3 Nd7
+8. Nc3 Bc5 9. Qe2 Bxe3 10. Qxe3 h6 11. O-O-O Ngf6 12. g4 Qb6 13. Qe2 Nxg4
+14. Rhg1 Nf2 15. Na4 Qa5 16. Qxf2 Qxa4 17. Rxg7 Rf8 18. Kb1 Qb4 19. Qh4 Qe7
+20. Qxh6 Qf6 21. Qxf6 Nxf6 22. Ne5 Nd7 23. Nc4 Ke7 24. Be2 b5 25. Ne3 Ne5
+26. Rf1 Bd7 27. Ng4 Nxg4 28. Bxg4 Be8 29. e5 Rh8 30. h3 Rd8 31. a4 Rd5
+32. axb5 cxb5 33. Rg5 Rh4 34. Kc1 a5 35. b3 a4 36. Kb2 axb3 37. Kxb3 Kd8
+38. Ra1 Ke7 39. Ra6 Rh7 40. c3 Rc5 41. Ra7+ Bd7 42. Rb7 Rh8 43. Bh5 Rhc8
+44. Rg3 Rxe5 45. Bxf7 Kxf7 46. Rxd7+ Kf6 47. h4 Rh5 48. Rf3+ Ke5 49. Re3+ Kf6
+50. Rd6 Re8 51. Re4 Kf5 52. Rb4 Rb8 53. Kc2 Kf6 54. Re4 Re5 55. Rf4+ Ke7
+56. Rd2 Rh5 57. Re2 Rb6 58. Rg2 Rh7 59. Rg5 Rb8 60. h5 Rbh8 61. Rh4 Rb8
+62. Rb4 Kf6 63. Rbxb5 Rxb5 64. Rxb5 e5 65. Rb6+ Kg5 66. Rg6+ Kf5
+1/2-1/2
+
+
+[Event "Simul, 35b"]
+[Site "Novi Sad YUG"]
+[Date "1930.12.29"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Nikolaj Kulzinski"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B12"]
+[EventDate "????.??.??"]
+[PlyCount "65"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Nf6 7. e5 Nd5
+8. Qxd4 Be7 9. Nc3 Nxc3 10. Qxc3 Bh4+ 11. g3 Be7 12. e6 f6 13. Be3 O-O
+14. Rd1 Qe8 15. O-O b5 16. Bb3 Na6 17. a3 Kh8 18. Rfe1 b4 19. Qc4 bxa3
+20. bxa3 Nc7 21. Bc5 Bxe6 22. Qc3 Bxc5+ 23. Qxc5 Qf7 24. Rxe6 Nxe6 25. Qf5 Rae8
+26. Rd6 g6 27. Qg4 f5 28. Qb4 c5 29. Qc4 Qb7 30. Rxe6 Qxf3 31. Qxc5 Qd1+
+32. Kf2 Qd2+ 33. Kg1
+1/2-1/2
+
+
+[Event "Clock simul, 37b"]
+[Site "Subotica YUG"]
+[Date "1930.12.28"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "I Schreiber"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E16"]
+[EventDate "????.??.??"]
+[PlyCount "80"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 c5 7. a3 Bxd2+
+8. Qxd2 Nc6 9. O-O d6 10. Qg5 O-O 11. Rd1 Qc7 12. dxc5 dxc5 13. Bf4 Qc8
+14. Qh4 Ne7 15. Bd6 Nf5 16. Qf4 Nxd6 17. Rxd6 Rd8 18. Rad1 Rxd6 19. Qxd6 Qf8
+20. Qc7 Bxf3 21. Bxf3 Qc8 22. Qd6 Rb8 23. g4 h6 24. h4 Qf8 25. g5 Qxd6
+26. Rxd6 hxg5 27. hxg5 Nh7 28. g6 Nf8 29. gxf7+ Kxf7 30. Rc6 Rd8 31. b4 cxb4
+32. axb4 Ke7 33. c5 bxc5 34. bxc5 Ng6 35. Ra6 Rd7 36. c6 Rc7 37. Be4 Nf4
+38. e3 Nd5 39. Kg2 Nb4 40. Ra1 Nxc6
+1/2-1/2
+
+
+[Event "Simul, 35b"]
+[Site "Banja Luka YUG"]
+[Date "1931.01.10"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Kleinmayer"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B13"]
+[EventDate "????.??.??"]
+[PlyCount "60"]
+[WhiteElo "?"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nc6 5. Nf3 e6 6. Nc3 Nf6 7. Bg5 Qa5
+8. Bxf6 gxf6 9. cxd5 exd5 10. Bb5 Be6 11. Qd3 Bb4 12. O-O a6 13. Bxc6+ bxc6
+14. Nh4 O-O 15. Rfe1 Qc7 16. Qf3 Kg7 17. Re3 Qd7 18. Na4 Rab8 19. Nc5 Bxc5
+20. dxc5 Rb4 21. Qh5 Rg8 22. h3 Qc7 23. Rae1 Qf4 24. Rg3+ Kh8 25. Rxe6 fxe6
+26. Rxg8+ Kxg8 27. Qe8+ Kg7 28. Qe7+ Kg8 29. Qxe6+ Kf8 30. Qc8+ Kf7
+1/2-1/2
+
+
+[Event "Simul, 36b"]
+[Site "Belgrade YUG"]
+[Date "1931.01.04"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Sava Vukovic"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D63"]
+[EventDate "????.??.??"]
+[PlyCount "107"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 Re8
+8. Bd3 dxc4 9. Bxc4 a6 10. a4 c6 11. O-O h6 12. Bf4 b5 13. Ba2 b4 14. Ne2 Bb7
+15. Ng3 Rc8 16. e4 c5 17. d5 exd5 18. exd5 Nb6 19. d6 Bf8 20. Nf5 Qd7
+21. Ne3 Bxf3 22. Qxf3 Qxa4 23. Bb1 Qc6 24. Qh3 Bxd6 25. Bxh6 Re5 26. Ng4 Nxg4
+27. Qxg4 Bf8 28. Bf4 Ree8 29. h4 Nd5 30. Bg5 Nf6 31. Qf5 Ne4 32. Rfe1 Nxg5
+33. Qxg5 Rxe1+ 34. Rxe1 Re8 35. Rxe8 Qxe8 36. Kf1 Qd7 37. Ke2 Qe7+ 38. Qxe7 Bxe7
+39. Bd3 a5 40. h5 a4 41. Bb5 Bf6 42. Bxa4 Bxb2 43. Bb3 Kf8 44. g4 f6 45. f4 Bc1
+46. Kf3 Ke7 47. Ke4 Kd6 48. Kf5 Ke7 49. g5 fxg5 50. fxg5 Kd6 51. h6 gxh6
+52. gxh6 Bxh6 53. Ke4 Kc6 54. Ba4+
+1/2-1/2
+
+
+[Event "Simul, 35b"]
+[Site "Banja Luka YUG"]
+[Date "1931.01.10"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "R Milosevic"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B12"]
+[EventDate "????.??.??"]
+[PlyCount "53"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Be6 7. Bxe6 fxe6
+8. O-O Qb6 9. Kh1 Be7 10. Nxd4 c5 11. Qh5+ g6 12. Qe5 Bf6 13. Rxf6 Nxf6
+14. Nxe6 Kf7 15. Ng5+ Kf8 16. Nc3 Nbd7 17. Qf4 Kg7 18. Nd5 Qc6 19. Bd2 h6
+20. Nf3 Nxd5 21. exd5 Qxd5 22. Bc3+ Kh7 23. Qg4 Rhe8 24. Rf1 Rf8 25. Ng5+ Kg8
+26. Nf7 Kh7 27. Ng5+
+1/2-1/2
+
+
+[Event "Simul, 36b"]
+[Site "Belgrade YUG"]
+[Date "1931.01.04"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Bora Tot"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "E11"]
+[EventDate "????.??.??"]
+[PlyCount "66"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. e3 Bxd2+ 6. Bxd2 d6 7. Bd3 Nbd7
+8. O-O Qe7 9. Qc2 b6 10. Rae1 Bb7 11. e4 e5 12. Nh4 g6 13. Bg5 Kg7 14. f4 h6
+15. fxe5 dxe5 16. dxe5 hxg5 17. exf6+ Nxf6 18. e5 Qc5+ 19. Kh1 gxh4
+20. exf6+ Kh7 21. Be4 Bxe4 22. Rxe4 Qg5 23. Qf2 Rad8 24. Rxh4+ Kg8 25. Rd4 Rde8
+26. Rd7 Re5 27. h4 Qg4 28. Qf4 Qe2 29. Rd5 Rxd5 30. cxd5 Re8 31. Kh2 Re4
+32. Qh6 Rxh4+ 33. Qxh4 Qxf1
+1/2-1/2
+
+
+[Event "Blindfold simul, 10b"]
+[Site "Paris FRA"]
+[Date "1931.05.30"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "D Glikberg"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D30"]
+[EventDate "????.??.??"]
+[PlyCount "88"]
+[WhiteElo "?"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. e4 dxe4
+8. Nxe4 Bb4+ 9. Nc3 Nd7 10. Bd3 c5 11. O-O Bxc3 12. bxc3 O-O 13. Re1 Rd8
+14. Qe2 b6 15. Qe4 Ba6 16. Qh7+ Kf8 17. d5 g5 18. dxe6 fxe6 19. Rad1 Qg7
+20. Qe4 Re8 21. Bc2 Rad8 22. Ba4 Bc8 23. h4 Nf6 24. Qe5 g4 25. Nh2 Bd7
+26. Bxd7 Rxd7 27. Rxd7 Nxd7 28. Qf4+ Kg8 29. Nxg4 Rf8 30. Qg3 h5 31. Nh6+ Kh7
+32. Qxg7+ Kxg7 33. Rxe6 Rf4 34. g3 Rxc4 35. Nf5+ Kf7 36. Re3 Ra4 37. Re2 Ra3
+38. Nd6+ Kg6 39. f4 Nf6 40. Re6 Rxa2 41. g4 hxg4 42. h5+ Kxh5 43. Rxf6 g3
+44. Ne4 Kg4
+1/2-1/2
+
+
+[Event "Blindfold simul, 10b"]
+[Site "Paris FRA"]
+[Date "1931.05.30"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Wurzburger"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D30"]
+[EventDate "????.??.??"]
+[PlyCount "48"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 dxc4
+8. Qxc4 Nd7 9. e4 e5 10. O-O-O Be7 11. Kb1 O-O 12. Be2 exd4 13. Qxd4 Qxd4
+14. Nxd4 Nb6 15. f4 Bb4 16. Kc2 Bd7 17. a3 Bxc3 18. Kxc3 Rfe8 19. Bf3 Rad8
+20. Nb3 Na4+ 21. Kc2 Bc8 22. Rd4 Rxd4 23. Nxd4 Nc5 24. Re1 Ne6
+1/2-1/2
+
+
+[Event "Blindfold simul, 10b"]
+[Site "Paris FRA"]
+[Date "1931.05.30"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "A D Rudenko"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C50"]
+[EventDate "????.??.??"]
+[PlyCount "100"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 d6 6. Be3 Bb6 7. Qd2 Be6
+8. Bb5 O-O 9. Bxc6 bxc6 10. Bg5 h6 11. Bh4 Qe7 12. h3 Bd4 13. g4 Bxc3
+14. bxc3 Rab8 15. g5 hxg5 16. Qxg5 Kh8 17. Rg1 Rg8 18. Bg3 Rbe8 19. Rb1 Nh7
+20. Qh5 Qf6 21. Ke2 Qh6 22. Qxh6 gxh6 23. Rb7 f5 24. exf5 Bxf5 25. Nh4 Bxh3
+26. Rxc7 e4 27. d4 Ng5 28. Bxd6 Rg7 29. Be5 Rxe5 30. Rxg7 Kxg7 31. dxe5 Kf7
+32. Ke3 Ke6 33. Kf4 Kd5 34. Rd1+ Kc5 35. Nf5 Ne6+ 36. Kxe4 Ng5+ 37. Kf4 Ne6+
+38. Ke3 Bxf5 39. Rh1 Bxc2 40. Rxh6 Nc7 41. f4 Bf5 42. c4 Ne6 43. Rf6 Nd4
+44. Rd6 Ne6 45. a3 a6 46. a4 a5 47. Kd2 Kxc4 48. Rxc6+ Kb4 49. Kc1 Kxa4
+50. Rxe6 Bxe6
+1/2-1/2
+
+
+[Event "Simul, 34b"]
+[Site "Sombor YUG"]
+[Date "1930.12.26"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "G Vlasak"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D50"]
+[EventDate "????.??.??"]
+[PlyCount "76"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nc6 6. e3 O-O 7. Rc1 b6
+8. cxd5 exd5 9. Bb5 Bb7 10. Qa4 Na5 11. O-O a6 12. Bd3 Rc8 13. Ne5 h6
+14. Bh4 Nc4 15. Bxc4 dxc4 16. Qxc4 c5 17. Rcd1 b5 18. Qe2 c4 19. a3 Nd5
+20. Bxe7 Nxc3 21. bxc3 Qxe7 22. a4 Qg5 23. f4 Qd8 24. axb5 axb5 25. e4 f5
+26. exf5 Rxf5 27. d5 Bxd5 28. Qe3 Qd6 29. Rd4 Qb6 30. Rfd1 Re8 31. Nxc4 Qg6
+32. Qxe8+ Qxe8 33. Ne5 Rxe5 34. fxe5 Qxe5 35. Rxd5 Qe3+ 36. Kh1 Qe2 37. Rb1 Qc2
+38. Rdxb5 Qxc3
+1/2-1/2
+
+
+[Event "Casual game"]
+[Site "Paris FRA"]
+[Date "1931.12.??"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Stauros Fruganas"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "C55"]
+[EventDate "????.??.??"]
+[PlyCount "36"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4
+8. fxg7 Rg8 9. Bg5 f6 10. Re1+ Kf7 11. Ne5+ Nxe5 12. Rxe5 Be7 13. Qh5+ Kxg7
+14. Qh6+ Kf7 15. Qxh7+ Rg7 16. Qh5+ Rg6 17. Qh7+ Rg7 18. Qh5+ Rg6
+1/2-1/2
+
+
+[Event "Simul, 6b"]
+[Site "Gambit Chess Rooms, London ENG"]
+[Date "1928.06.08"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Charles Wreford Brown"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B01"]
+[EventDate "????.??.??"]
+[PlyCount "67"]
+[WhiteElo "?"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 c6 5. Be2 Bf5 6. O-O e6 7. c4 Nf6
+8. Nc3 Be7 9. Re1 Nbd7 10. Bf4 O-O 11. Nh4 Nh5 12. Nxf5 Nxf4 13. Nxe7+ Qxe7
+14. Bf3 Qb4 15. Qd2 Ng6 16. b3 Rad8 17. Rad1 Nf6 18. Qc2 Qa5 19. Ne4 Rxd4
+20. Nxf6+ gxf6 21. g3 Rfd8 22. Kg2 Rd2 23. Qb1 Qg5 24. Rxd2 Rxd2 25. Re4 Qa5
+26. Re2 Ne5 27. Bh5 Rxe2 28. Bxe2 Qd2 29. Qe4 Ng6 30. a4 f5 31. Qf3 Qg5
+32. Kf1 Qc1+ 33. Kg2 Qg5 34. Kf1
+1/2-1/2
+
+
+[Event "Simul, 30b"]
+[Site "Barcelona ESP"]
+[Date "1928.01.24"]
+[Round "?"]
+[White "Alexander Alekhine"]
+[Black "Fernandez"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "D30"]
+[EventDate "????.??.??"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nbd2 Be7 7. Bd3 O-O
+8. Qc2 h6 9. h4 Re8 10. O-O-O b6 11. Kb1 c5 12. Bxf6 Nxf6 13. dxc5 bxc5
+14. g4 Nxg4 15. Rhg1 h5 16. Ng5 Bf6 17. Bh7+ Kf8 18. Nde4 a6 19. Nxf6 Qxf6
+20. Rd2 Bd7 21. Bg8 Kxg8 22. Qh7+ Kf8 23. e4 dxe4 24. Rxd7 Nh6 25. Ka1 Qxf2
+26. Rb1 e3 27. Ne4 Qg2 28. Ng5 Re7 29. Qd3 e2 30. Rd8+ Rxd8 31. Qxd8+ Re8
+32. Qd2 Ng4 33. Nh7+ Ke7 34. Qa5 Rd8 35. Qxc5+
+1/2-1/2

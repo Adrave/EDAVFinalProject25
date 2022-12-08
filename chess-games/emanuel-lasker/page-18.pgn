@@ -1,0 +1,541 @@
+[Event "Simul, 31b"]
+[Site "Amsterdam NED"]
+[Date "1924.12.13"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "K Akkerman"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B17"]
+[EventDate "????.??.??"]
+[PlyCount "37"]
+[WhiteElo "?"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nc3 e6 7. Bd3 Bd6
+8. O-O h6 9. Qe2 Qc7 10. h3 O-O 11. Re1 Re8 12. Ne4 Nxe4 13. Qxe4 Nf6
+14. Qh4 Be7 15. Bxh6 Nh7 16. Qg4 Bf8 17. Bf4 Qd7 18. Bxh7+ Kh8 19. Qh5
+1-0
+
+
+[Event "Simul, 37b"]
+[Site "Brooklyn Institute CC, New York, NY USA"]
+[Date "1926.01.30"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Max Rosen"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C60"]
+[EventDate "????.??.??"]
+[PlyCount "57"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O Ng6 5. c3 Bc5 6. d4 exd4 7. cxd4 Be7
+8. d5 Nce5 9. Nxe5 Nxe5 10. f4 Ng6 11. e5 c6 12. Ba4 cxd5 13. Qxd5 O-O
+14. f5 Nh8 15. Bf4 Qb6+ 16. Kh1 Qxb2 17. Nd2 Rb8 18. Rab1 Qa3 19. Bc2 b6
+20. Ne4 Bb7 21. Qd1 Rbc8 22. Bd3 Ba6 23. Bxa6 Qxa6 24. f6 Bc5 25. fxg7 Kxg7
+26. Qh5 Rc6 27. Nf6 Rxf6 28. exf6+ Kxf6 29. Qg5+
+1-0
+
+
+[Event "Simul"]
+[Site "Toronto CAN"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "David Creemer"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "E76"]
+[EventDate "????.??.??"]
+[PlyCount "65"]
+[WhiteElo "?"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 b6 6. Nf3 c5 7. d5 e6 8. Bd3 exd5
+9. cxd5 O-O 10. O-O Bb7 11. f5 gxf5 12. Bg5 c4 13. Bxc4 Qc7 14. Bd3 fxe4
+15. Nxe4 Nxe4 16. Bxe4 Qc5+ 17. Kh1 Bxb2 18. Bh6 Nd7 19. Rb1 Bg7 20. Qd2 Qc3
+21. Qxc3 Bxc3 22. Bxf8 Rxf8 23. Rfc1 Bg7 24. Rc7 Nc5 25. Rc1 Ba8 26. Bb1 a6
+27. Ng5 Bh6 28. h4 f6 29. Rxh7 Bg7 30. Ne6 Rf7 31. Nxg7 Rxg7 32. Rxg7+ Kxg7
+33. Rd1
+1-0
+
+
+[Event "Simul"]
+[Site "Forst GER"]
+[Date "1927.01.16"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Buchholtz"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B02"]
+[EventDate "????.??.??"]
+[PlyCount "55"]
+[WhiteElo "?"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 Nxc3 7. bxc3 Bxc5
+8. Qg4 Kf8 9. d4 Be7 10. h4 h5 11. Qf4 f5 12. exf6 Bxf6 13. Nf3 Nc6 14. Ne5 Ne7
+15. Bd3 Qe8 16. Qf3 Kg8 17. Rh3 Bxe5 18. dxe5 Rb8 19. Rg3 Qf7 20. Qf6 Nd5
+21. Qd8+ Qf8 22. Rxg7+ Kxg7 23. Qg5+ Kf7 24. Qg6+ Ke7 25. Bg5+ Nf6
+26. Bxf6+ Qxf6 27. Qxf6+ Ke8 28. Bg6#
+1-0
+
+
+[Event "Clock simul, 10b"]
+[Site "Rice Progressive CC, New York, New York USA"]
+[Date "1928.11.08"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "J Kahn"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C60"]
+[EventDate "????.??.??"]
+[PlyCount "109"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f6 4. d4 Nxd4 5. Nxd4 exd4 6. Qxd4 c6 7. Bc4 Qa5+
+8. Nc3 Qc5 9. Qd3 Ne7 10. Be3 Qh5 11. O-O Ng6 12. f4 Bc5 13. Rae1 Bxe3+
+14. Qxe3 d6 15. Rd1 Ke7 16. b4 a5 17. b5 a4 18. h3 Qc5 19. Qxc5 dxc5 20. Kh2 Rd8
+21. Rxd8 Kxd8 22. g3 Nf8 23. e5 Be6 24. Bxe6 Nxe6 25. exf6 gxf6 26. bxc6 bxc6
+27. Ne4 f5 28. Nd6 Rb8 29. Nxf5 Rb2 30. Ne3 Rxa2 31. g4 Nd4 32. Kg3 Nxc2
+33. Nxc2 Rxc2 34. Ra1 Rc4 35. g5 Kd7 36. Kg4 Ke6 37. Re1+ Kf7 38. Re3 Rd4
+39. Rc3 Ke6 40. Rxc5 Kd6 41. Ra5 Rb4 42. Ra7 c5 43. Rxh7 c4 44. g6 c3 45. g7 Rb1
+46. Kf5 Rg1 47. Rh6+ Ke7 48. Rg6 Rxg6 49. Kxg6 c2 50. g8=Q c1=Q 51. Qf7+ Kd8
+52. Qd5+ Ke7 53. Qe4+ Kf8 54. Qa8+ Ke7 55. Qxa4
+1-0
+
+
+[Event "Clock simul, 10b"]
+[Site "Rice Progressive CC, New York, NY USA"]
+[Date "1928.11.08"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Sidney Norman Bernstein"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B03"]
+[EventDate "????.??.??"]
+[PlyCount "91"]
+[WhiteElo "?"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 g6 7. Nc3 Bg7
+8. Be3 c5 9. dxc5 N6d7 10. e6 fxe6 11. Nf3 Qa5 12. Rc1 Nxc5 13. Bd4 e5
+14. Nxe5 Bxe5 15. Bxe5 Nd3+ 16. Bxd3 Qxe5+ 17. Qe2 Nc6 18. O-O Qxe2 19. Bxe2 Be6
+20. Rfe1 O-O-O 21. Bf3 Bxc4 22. Bxc6 bxc6 23. Rxe7 Rd7 24. Rxd7 Kxd7 25. Kf2 Re8
+26. b3 Bf7 27. Na4 Re5 28. Rc5 Kd6 29. Rxe5 Kxe5 30. Ke3 Bd5 31. g3 Be4
+32. Nc5 Bb1 33. a3 Ba2 34. Kd3 Kd5 35. b4 a5 36. Kc3 axb4+ 37. Kxb4 Bc4
+38. Nd7 Bd3 39. a4 Kd4 40. a5 Ke3 41. Kc5 Kf2 42. Nf8 Kg2 43. Nxh7 Kxh2
+44. g4 Kg3 45. g5 Bb5 46. Kb6
+1-0
+
+
+[Event "Clock simul, 10b"]
+[Site "Rice Progressive CC, New York, New York USA"]
+[Date "1928.11.08"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Harry Kline"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C83"]
+[EventDate "????.??.??"]
+[PlyCount "63"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5
+8. dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 f5 12. exf6 Nxf6 13. Re1 Qd7
+14. Nd4 Nxd4 15. cxd4 c5 16. Qe2 Bf7 17. Nf3 Bd6 18. Ne5 Qc7 19. f4 c4
+20. Be3 a5 21. Rac1 b4 22. g4 Rad8 23. Qg2 g6 24. Kh1 Ne8 25. f5 Bxe5
+26. dxe5 d4 27. Bg5 d3 28. Bxd8 Qxd8 29. e6 d2 30. exf7+ Kg7 31. fxe8=N+ Rxe8
+32. Rf1
+1-0
+
+
+[Event "Simul, 26b"]
+[Site "Utrecht NED"]
+[Date "1933.10.24"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Fehmers"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C65"]
+[EventDate "????.??.??"]
+[PlyCount "31"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe5 6. d4 Bxd4 7. Qxd4 Qe7
+8. Nc3 O-O 9. Bg5 d6 10. Nd5 Qd8 11. f4 c5 12. fxe5 cxd4 13. exf6 gxf6
+14. Bxf6 Bd7 15. Bxd8 Bxb5 16. Bf6
+1-0
+
+
+[Event "Simul, 26b"]
+[Site "Utrecht NED"]
+[Date "1933.10.24"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Adolf Willem Hamming"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B20"]
+[EventDate "????.??.??"]
+[PlyCount "49"]
+[WhiteElo "?"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Qf3 Qxf3 5. Nxf3 Nf6 6. Bg2 Bf5 7. Na3 Nc6
+8. d3 h6 9. O-O e6 10. Bd2 Be7 11. Nc4 O-O 12. a4 Nd5 13. Nfe5 Nd4 14. Ne3 Nxe3
+15. fxe3 Nxc2 16. Rac1 Bf6 17. Nd7 Bxd3 18. Nxf6+ gxf6 19. Rxf6 Kh7 20. e4 e5
+21. Rxh6+ Kg7 22. Rd6 Nd4 23. Rxc5 Rfd8 24. Rxd8 Rxd8 25. Rxe5
+1-0
+
+
+[Event "Simul, 30b"]
+[Site "Paris FRA"]
+[Date "1933.03.18"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Sergei Prokofiev"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C62"]
+[EventDate "????.??.??"]
+[PlyCount "101"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. c3 Nf6 5. d4 Bd7 6. Nbd2 g6 7. Qe2 Qe7
+8. O-O Bg7 9. Re1 O-O 10. d5 Nb8 11. a4 a6 12. Bd3 Nh5 13. Nb3 a5 14. Be3 Bg4
+15. h3 Bxf3 16. Qxf3 Nd7 17. Bb5 f5 18. exf5 Rxf5 19. Qd1 Nf4 20. Bxf4 Rxf4
+21. Bxd7 Qxd7 22. Nd2 Qf5 23. Qe2 Rf8 24. f3 Bf6 25. Ne4 Bd8 26. b4 Qf7
+27. Red1 axb4 28. cxb4 Qd7 29. a5 Be7 30. b5 Ra8 31. Rdb1 Rff8 32. Qc4 Kg7
+33. a6 b6 34. a7 Rf7 35. Kf2 Bh4+ 36. Ke3 Rf4 37. Qc6 Qxc6 38. bxc6 Rff8
+39. Kd3 h6 40. Kc4 Rfc8 41. Kb5 Bg5 42. Ka6 Be3 43. Kb7 Bc5 44. Ra2 Bd4
+45. Rb3 Kf7 46. Nd2 Ke7 47. Nc4 Bc5 48. Rb5 Kd8 49. Rxc5 dxc5 50. Na3 Rxa7+
+51. Kxa7
+1-0
+
+
+[Event "Clock simul, 10b"]
+[Site "Rice Progressive CC, New York, New York USA"]
+[Date "1928.11.08"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "David S Polland"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B50"]
+[EventDate "????.??.??"]
+[PlyCount "67"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. d3 g6 5. Nbd2 Bg7 6. g3 Nc6 7. Bg2 O-O
+8. O-O Bg4 9. h3 Bd7 10. Qe2 Qc7 11. Rd1 Nh5 12. Nf1 Rab8 13. Ne3 b5 14. Nd5 Qc8
+15. Kh2 b4 16. cxb4 e6 17. Nf4 Nxf4 18. Bxf4 Rxb4 19. Bxd6 Rxb2 20. Qe3 Nd4
+21. Bxf8 Qxf8 22. Rab1 Re2 23. Qf4 Rxf2 24. Rb8 Be8 25. Kh1 Bh6 26. Qc7 Nxf3
+27. Rdb1 Kg7 28. Bxf3 Rxf3 29. Qe5+ f6 30. R1b7+ Bf7 31. Qc7 Be3 32. h4 Rf1+
+33. Kg2 Rf2+ 34. Kh3
+1-0
+
+
+[Event "Simul, 30b"]
+[Site "Vienna AUT"]
+[Date "1934.04.29"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Kovacs"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C84"]
+[EventDate "????.??.??"]
+[PlyCount "75"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6
+8. c3 Na5 9. Bc2 c5 10. d4 cxd4 11. cxd4 Qc7 12. Nc3 Be6 13. Bg5 Rc8 14. Bd3 Nc4
+15. Qe2 exd4 16. Nxd4 Bg4 17. f3 Qc5 18. Be3 Nxe3 19. Qxe3 Be6 20. Rac1 Qe5
+21. f4 Qh5 22. f5 Ng4 23. Qf4 Bc4 24. Bxc4 Rxc4 25. Nd5 Ne5 26. Rxc4 bxc4
+27. f6 Nd3 28. fxg7 Rg8 29. Qf6 Bxf6 30. Nxf6+ Kd8 31. Nxh5 Nxe1 32. Nc6+ Kc7
+33. Ne7 Rxg7 34. Nxg7 Nd3 35. Nd5+ Kc6 36. Kf1 Nxb2 37. Ke2 Kc5 38. Nf5
+1-0
+
+
+[Event "Lasker - Tarrasch World Championship Match"]
+[Site "Munich GER"]
+[Date "1908.09.23"]
+[Round "13"]
+[White "Emanuel Lasker"]
+[Black "Siegbert Tarrasch"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D32"]
+[EventDate "????.??.??"]
+[PlyCount "87"]
+[WhiteElo "?"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. Nf3 Nc6 5. e3 Nf6 6. a3 Bd6 7. dxc5 Bxc5
+8. b4 Bd6 9. Bb2 O-O 10. Rc1 a5 11. b5 Ne5 12. cxd5 exd5 13. Be2 Be6 14. O-O Qe7
+15. a4 Rac8 16. Nd4 Nc4 17. Ba1 Bb8 18. Re1 Qd6 19. g3 Rfd8 20. Nb1 Nb6
+21. Bc3 Re8 22. Qb3 Nc4 23. Nxe6 Qxe6 24. Bxf6 gxf6 25. Red1 Ba7 26. Bf3 Nxe3
+27. Rxc8 Qxc8 28. b6 Bxb6 29. fxe3 Rxe3 30. Qxb6 Rxf3 31. Qxa5 Qc4 32. Qd2 f5
+33. Rc1 Qg4 34. Qxd5 f4 35. Nd2 Re3 36. Rf1 Re6 37. Rxf4 Qd1+ 38. Kg2 b6
+39. Qd7 Qe2+ 40. Rf2 Qh5 41. Nf3 h6 42. Nd4 Re5 43. Qd8+ Kh7 44. Qf8
+1-0
+
+
+[Event "Simul, 16b"]
+[Site "Vienna AUH"]
+[Date "1908.12.20"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "R Schwarz"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C66"]
+[EventDate "????.??.??"]
+[PlyCount "69"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Re1 Be7 6. c3 O-O 7. d4 Bg4
+8. h3 Bh5 9. Bxc6 bxc6 10. dxe5 Bxf3 11. Qxf3 dxe5 12. Nd2 g6 13. Nc4 Nd7
+14. Bh6 Re8 15. Rad1 Qc8 16. Rd2 f6 17. Qd1 Nc5 18. b4 Ne6 19. Qb3 Kf7
+20. f4 exf4 21. Bxf4 Kg7 22. Bg3 c5 23. Red1 cxb4 24. cxb4 Rb8 25. Rd7 Nc5
+26. bxc5 Rxb3 27. axb3 Kf8 28. Rxc7 Qe6 29. Kh2 Rc8 30. Rxa7 Bxc5 31. Rxh7 Kg8
+32. Rdd7 Bf8 33. e5 g5 34. exf6 Qf5 35. Nd6
+1-0
+
+
+[Event "Simul, 25b"]
+[Site "Amsterdam NED"]
+[Date "1908.12.29"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "J P Pilger"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C41"]
+[EventDate "????.??.??"]
+[PlyCount "15"]
+[WhiteElo "?"]
+
+1. e4 e5 2. d4 d6 3. Nf3 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 Qd7
+8. Qxb7
+1-0
+
+
+[Event "Simul"]
+[Site "Breslau"]
+[Date "1908.11.17"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "NN"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C44"]
+[EventDate "????.??.??"]
+[PlyCount "91"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bb4 6. Bc4 Nf6 7. e5 d5
+8. exf6 Bxc3+ 9. bxc3 dxc4 10. Qe2+ Be6 11. fxg7 Rg8 12. O-O Rxg7 13. Rd1 Qf6
+14. Rb1 Qg6 15. Bg5 h6 16. Rxb7 Rc8 17. h4 hxg5 18. Nxg5 Kf8 19. Qe3 Qf5
+20. a4 a6 21. Re1 Rg6 22. Qg3 Qg4 23. Rxc7 Qxg3 24. Nxe6+ Rxe6 25. Rxc8+ Kg7
+26. Rxe6 Qxc3 27. Rexc6 Qe1+ 28. Kh2 Qxf2 29. Rxc4 Qf6 30. Rg4+ Kh6 31. a5 Qe5+
+32. Rg3 Kh5 33. Rg8 Kh6 34. Rg5 Qf4 35. Rd5 Qc7 36. Rf5 Qd7 37. Rgf3 Qc7+
+38. Kh3 Qd7 39. g4 Qd1 40. Rf6+ Kg7 41. Rxf7+ Kg8 42. Rf8+ Kg7 43. R3f7+ Kg6
+44. h5+ Kg5 45. Rg8+ Kh6 46. Rg6#
+1-0
+
+
+[Event "Simul, 31b"]
+[Site "Tartu RUE"]
+[Date "1909.03.20"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Hasselblatt"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C11"]
+[EventDate "????.??.??"]
+[PlyCount "71"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5 7. Qg4 O-O
+8. Nf3 Nc6 9. Bd3 f5 10. Qh3 Nd4 11. Bd2 a6 12. O-O-O b5 13. Ne2 Nxe2+
+14. Bxe2 Be7 15. g4 fxg4 16. Qxg4 Nc5 17. Rdg1 Rf7 18. h4 Ne4 19. Rh2 b4
+20. h5 Qa5 21. Kb1 Rb8 22. Ka1 Nc3 23. Bxc3 bxc3 24. b3 Ba3 25. Bd3 Bb2+
+26. Kb1 Qa3 27. Bxh7+ Kf8 28. Ne1 Bc1 29. Nd3 Bxf4 30. Rf2 Bxe5 31. Rxf7+ Kxf7
+32. Nxe5+ Ke8 33. Qg6+ Kd8 34. Qg5+ Kc7 35. Qxg7+ Kb6 36. Nd3
+1-0
+
+
+[Event "Simul, 30b"]
+[Site "Riga RUE"]
+[Date "1909.03.22"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Ewers"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "B01"]
+[EventDate "????.??.??"]
+[PlyCount "67"]
+[WhiteElo "?"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. Ng3 Nf6 5. Bc4 Bd6 6. d3 a6 7. N1e2 Nc6
+8. O-O Na5 9. f4 Nxc4 10. dxc4 Bg4 11. h3 Bxe2 12. Qxe2 h6 13. Nf5 Rg8
+14. Kh1 c5 15. c3 Qb6 16. b4 dxc3 17. bxc5 Qxc5 18. a4 Qc6 19. Nxd6+ Qxd6
+20. Ba3 Qc6 21. fxe5 Nxe4 22. Qg4 Ng5 23. Rad1 Qe6 24. Qd4 Nxh3 25. Rd3 Ng5
+26. Rfd1 f6 27. exf6 Kf7 28. Qh4 gxf6 29. Qh5+ Kg7 30. Rd7+ Nf7 31. R1d3 Qe1+
+32. Kh2 Qe5+ 33. Qxe5 fxe5 34. Rf3
+1-0
+
+
+[Event "Simul, 21b"]
+[Site "Franklin CC, Philadelphia, PA USA"]
+[Date "1910.04.23"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Walter Penn Shipley"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C12"]
+[EventDate "????.??.??"]
+[PlyCount "57"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 Qxd5 6. Bxf6 Bxc3+ 7. bxc3 gxf6
+8. Nf3 Bd7 9. Be2 Bc6 10. O-O Rg8 11. c4 Qh5 12. Re1 Qh3 13. g3 Na6 14. d5 O-O-O
+15. Nd4 Bd7 16. Bf3 e5 17. Nb3 Bg4 18. Rb1 Qh5 19. Re3 c6 20. Na5 Nc5
+21. Bxg4+ Qxg4 22. Qe1 cxd5 23. Qb4 b6 24. Nc6 Rd7 25. Ra3 Rb7 26. Rxa7 dxc4
+27. Rxb7 Nxb7 28. Qxb6 Qd7 29. Na5
+1-0
+
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1910.06.20"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Rolando Illa"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C84"]
+[EventDate "????.??.??"]
+[PlyCount "50"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6
+8. c3 Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 Nc6 12. h3 g5 13. dxe5 dxe5 14. Nh2 h5
+15. a4 Rb8 16. axb5 axb5 17. Ndf1 g4 18. h4 Nd7 19. g3 Nf8 20. Ne3 Be6
+21. Nd5 Bxd5 22. exd5 Na7 23. d6 Bxd6 24. Rxa7 Qxa7 25. Qxd6 Rb7
+1-0
+
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1910.06.28"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Jose Zamudio"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C13"]
+[EventDate "????.??.??"]
+[PlyCount "55"]
+[WhiteElo "?"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 c5
+8. Bxe7 Qxe7 9. Qxg7 Qf8 10. Qxf8+ Kxf8 11. f4 cxd4 12. Nce2 Nc6 13. Nf3 Nc5
+14. Nexd4 Bd7 15. g4 Rg8 16. Rg1 Ne7 17. h5 h6 18. Kd2 Ne4+ 19. Ke3 f5
+20. exf6 Nxf6 21. Ne5 Ke8 22. Bd3 Rg7 23. Rae1 Kf8 24. Kf3 Ne4 25. Bxe4 dxe4+
+26. Rxe4 Nf5 27. Rd1 Nxd4+ 28. Rexd4
+1-0
+
+
+[Event "Simul, 29b"]
+[Site "Washington, D.C. USA"]
+[Date "1910.04.21"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Erhard Knapp"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C68"]
+[EventDate "????.??.??"]
+[PlyCount "87"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bg4 6. d3 Bd6 7. Be3 Nf6
+8. d4 Bxf3 9. Qxf3 Qe7 10. O-O-O O-O-O 11. Rhe1 Rhe8 12. Bg5 h6 13. Bxf6 Qxf6
+14. Qxf6 gxf6 15. d5 c5 16. Ne2 Rg8 17. g3 Rg5 18. h4 Rg6 19. c4 a5 20. Kc2 b6
+21. Rd3 Be7 22. Rf3 Kb7 23. Nc3 Rgg8 24. Nd1 h5 25. Rf5 Rh8 26. Ne3 Rdg8
+27. Rd1 Rg6 28. Rf3 Bd6 29. Nf5 Rhg8 30. Re3 Re8 31. Re2 Ka7 32. f3 Reg8
+33. Rg2 Kb7 34. Rdg1 Rh8 35. Kd3 Kc8 36. g4 Rh7 37. gxh5 Rxg2 38. Rxg2 Rxh5
+39. Rg7 Kd8 40. Rxf7 Rh8 41. Rxf6 Be7 42. Re6 Bxh4 43. Nxh4 Rxh4 44. Rxe5
+1-0
+
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1910.06.27"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Lizardo Molina Carranza"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C30"]
+[EventDate "????.??.??"]
+[PlyCount "57"]
+[WhiteElo "?"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. h3 Bxf3 6. Qxf3 Nc6 7. Bc4 Nf6
+8. d3 h6 9. Nd2 Qe7 10. b4 Bb6 11. a4 a6 12. a5 Ba7 13. b5 axb5 14. Bxb5 Nd7
+15. a6 Bb6 16. Ra3 O-O 17. axb7 Rxa3 18. Bxa3 Na5 19. Nc4 Nxc4 20. Bxc4 c6
+21. Kd2 Bc5 22. Bxc5 Nxc5 23. fxe5 dxe5 24. Qxf7+ Qxf7 25. Bxf7+ Kh8 26. Rb1 Rb8
+27. Be8 Rxb7 28. Rxb7 Nxb7 29. Bxc6
+1-0
+
+
+[Event "Simul, 12b"]
+[Site "Buenos Aires ARG"]
+[Date "1910.07.17"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Miguel Angel Gelly"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "C78"]
+[EventDate "????.??.??"]
+[PlyCount "75"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Ba7 7. d4 Nxe4
+8. Re1 f5 9. Rxe4 fxe4 10. Bg5 Ne7 11. Nxe5 O-O 12. Qh5 Qe8 13. Qxe8 Rxe8
+14. Nxd7 c6 15. Ne5 Nf5 16. Nd2 e3 17. fxe3 Nxe3 18. Nxc6 Bd7 19. Ne7+ Rxe7
+20. Bb3+ Kf8 21. Bxe7+ Kxe7 22. Re1 Kd6 23. Rxe3 b5 24. Nf3 Rf8 25. Ne5 Be8
+26. Rg3 g6 27. Rh3 h6 28. Rg3 Rf6 29. Bc2 Re6 30. Kf1 b4 31. Bxg6 Kd5
+32. Bxe8 Rxe8 33. Ke2 bxc3 34. bxc3 Ke4 35. Re3+ Kd5 36. Ng6 Rb8 37. Kd3 Rb2
+38. Nf4+
+1-0
+
+
+[Event "Simul, 12b"]
+[Site "Buenos Aires ARG"]
+[Date "1910.07.17"]
+[Round "?"]
+[White "Emanuel Lasker"]
+[Black "Carlos Portela"]
+[Result "1-0"]
+[BlackElo "?"]
+[ECO "D37"]
+[EventDate "????.??.??"]
+[PlyCount "51"]
+[WhiteElo "?"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 d5 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 a6 7. Qc2 c6
+8. O-O-O dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. e4 Nd5 12. Bxe7 Nxe7 13. e5 Nb6
+14. Ne4 Nec8 15. Nc5 Qe7 16. Bxh7 Nd5 17. Be4 Ncb6 18. Kb1 Rc8 19. h4 Ba8
+20. Ng5 Rh6 21. Rh3 Rc7 22. Rf3 Rxh4 23. Nxf7 Nb4 24. Nd6+ Kd8 25. Qd2 N4d5
+26. Qg5
+1-0

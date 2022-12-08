@@ -1,0 +1,595 @@
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1958.??.??"]
+[Round "1"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Botvinnik Mikhail M (RUS)"]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "2494"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 Nf6 6.d3 e6 7.Be2
+Nbd7 8.Qg3 g6 9.O-O Bg7 10.Bf4 Qb6 11.Rab1 O-O 12.Bc7 Qd4 13.Bf3
+e5 14.Bd6 Rfe8 15.Ba3 dxe4 16.dxe4 b5 17.Rfd1 Qb6 18.b3 Nc5 19.Bc1
+Qc7 20.Be3 Ne6 21.a4 a6 22.b4 Rad8 23.Be2 Qe7 24.axb5 axb5 25.Rxd8
+Rxd8 26.Bb6 Ra8 27.f3 Ra3 28.Qe1 Bh6 29.Bf1 Nd4 30.Bc5 Qe6 31.Bd3
+Nd7 32.Bxd4 exd4 33.Ne2 Be3+ 34.Kh1 Ne5 35.Qf1 Qd6 36.f4 Nxd3
+37.cxd3 Rxd3 38.Qf3 Rd2 39.Rf1 Qxb4 40.e5 Qc4 41.Ng3 Rc2 42.f5
+Rc1 43.e6 fxe6 44.fxg6 Rxf1+ 45.Nxf1 hxg6 46.Qf6 b4 47.Kh2 g5
+48.Nxe3 dxe3 49.Qxg5+ Kf7 50.Qxe3 b3 51.Qe5 c5 52.Qc7+ Kg6 53.Qb8
+Kf5 54.Qf8+ Ke4 55.Qf6 Qd5 56.Qf3+ Kd4 57.Qd1+ Ke5 58.Qe2+ Kd6
+59.Qa6+ Ke7 60.Qa7+ Kf6 61.Qh7 Qe5+ 62.Kh1 b2 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1958.??.??"]
+[Round "3"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Botvinnik Mikhail M (RUS)"]
+[Result "0-1"]
+[ECO "B19"]
+[WhiteElo "2494"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.Bd3 Bxd3 9.Qxd3 Qc7 10.Bd2 Ngf6 11.O-O-O e6 12.Kb1 O-O-O
+13.c4 c5 14.Bc3 cxd4 15.Nxd4 a6 16.Qe2 Bd6 17.Ne4 Nxe4 18.Qxe4
+Nf6 19.Qe2 Rd7 20.Rc1 Qc5 21.Nb3 Qf5+ 22.Rc2 Bc7 23.c5 Rd5 24.c6
+Bb6 25.Nd2 Qd3 26.Nc4 Bc7 27.Qxd3 Rxd3 28.Ne5 Rxc3 29.cxb7+ Kxb7
+30.Rxc3 Bxe5 31.Rb3+ Ka7 32.Rc1 Rb8 33.Rxb8 Kxb8 34.Rc4 Nd5 35.Kc2
+h5 36.b4 Kb7 37.Kb3 Bd6 38.a3 Bc7 39.Rc2 Bb6 40.Kc4 Nf4 41.g3
+Nh3 42.f3 Ng1 43.f4 Nf3 44.a4 Nd4 45.Rd2 Nf5 46.a5 Be3 47.Rd8
+Bf2 48.b5 Kc7 49.Rg8 axb5+ 50.Kxb5 Bxg3 51.a6 Bf2 52.Ka5 g6 53.Ra8
+Be1+ 54.Kb5 Nd6+ 55.Ka4 Nc8 56.Kb5 Bf2 57.Ka5 Ba7 58.Kb5 f6 59.Kb4
+e5 60.fxe5 fxe5 61.Kc3 Bb8 62.Kd3 Nb6 63.a7 Nxa8 64.axb8Q+ Kxb8
+65.Ke4 Nb6 66.Kxe5 Nd7+ 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1958.??.??"]
+[Round "5"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Botvinnik Mikhail M (RUS)"]
+[Result "0-1"]
+[ECO "B72"]
+[WhiteElo "2494"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3
+Bg7 8.h4 O-O 9.h5 d5 10.hxg6 hxg6 11.exd5 Nxd5 12.Nxc6 bxc6 13.Nxd5
+Qxd5 14.Qxd5 cxd5 15.O-O-O Bb7 16.f4 d4 17.Bxd4 Bxg2 18.Rhg1
+Be4 19.Bxg7 Kxg7 20.Rd7 Kf6 21.Rd4 Bf5 22.Rgd1 Rac8 23.R1d2 Rc7
+24.b3 Rh8 25.Bc4 Rh3 26.Kb2 Re3 27.a4 e5 28.fxe5+ Kxe5 29.a5
+Be6 30.Bxe6 Kxe6 31.Rd8 Ke7 32.Rb8 Re6 33.c4 a6 34.Kc3 f5 35.Rdd8
+f4 36.Re8+ Kf6 37.Rxe6+ Kxe6 38.Kd4 Rf7 39.Ke4 Kd6 40.Rb6+ Kc5
+41.Kd3 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1958.??.??"]
+[Round "11"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Botvinnik Mikhail M (RUS)"]
+[Result "1-0"]
+[ECO "D99"]
+[WhiteElo "2494"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+Bg4 8.Be3 Nfd7 9.Rd1 Nb6 10.Qb3 Nc6 11.d5 Ne5 12.Be2 Nxf3+ 13.gxf3
+Bh5 14.h4 Qd7 15.a4 a5 16.Nb5 Nc8 17.Bd4 Nd6 18.Bxg7 Kxg7 19.Nd4
+Kg8 20.Rg1 Qh3 21.Qe3 c5 22.dxc6 bxc6 23.Qg5 c5 24.Nc6 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1958.??.??"]
+[Round "15"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Botvinnik Mikhail M (RUS)"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2494"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.f3 e6 4.Nc3 Nf6 5.Bg5 h6 6.Bh4 Qb6 7.a3 c5
+8.Nge2 Nc6 9.dxc5 Bxc5 10.Na4 Qa5+ 11.Nec3 Be7 12.Bxf6 Bxf6 13.exd5
+Nd4 14.Bd3 exd5 15.O-O O-O 16.f4 g6 17.Qe1 Bg7 18.Kh1 Bd7 19.b4
+Qd8 20.Rd1 b6 21.Qf2 Be6 22.Ba6 Qf6 23.Rd2 Rad8 24.Nd1 Nf5 25.Nac3
+d4 26.Ne4 Qe7 27.Bd3 a5 28.bxa5 bxa5 29.a4 Qb4 30.Re2 Bd5 31.Ng3
+Nxg3+ 32.Qxg3 Rde8 33.Ref2 Bf6 34.Qh3 Kg7 35.Bb5 Re1 36.Qd3 Be4
+37.Qb3 Rxf1+ 38.Rxf1 Qd2 39.Nf2 Ba8 40.Qd3 Qxf4 41.h3 h5 42.Qe2
+Qe3 43.Qxe3 dxe3 44.Nd1 Rc8 45.Nxe3 Rc3 46.Bd3 Rc5 47.Nc4 Rg5
+48.Rf2 Bc6 49.Nd6 Re5 50.Nc4 Rg5 51.Nd6 Rd5 52.Nb5 Re5 53.Re2
+Rxe2 54.Bxe2 Be7 55.Kg1 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1958.??.??"]
+[Round "19"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Botvinnik Mikhail M (RUS)"]
+[Result "1-0"]
+[ECO "B11"]
+[WhiteElo "2494"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 Nf6 6.d3 e6 7.a3
+Be7 8.g4 Nfd7 9.d4 Nf8 10.Be3 Ng6 11.Qg3 Bh4 12.Qh2 Nd7 13.O-O-O
+Qb8 14.f4 dxe4 15.Nxe4 Nf6 16.Nxf6+ Bxf6 17.Qf2 Bh4 18.Qf3 Ne7
+19.Bd3 g6 20.f5 exf5 21.Bf4 Qd8 22.gxf5 Qd5 23.Qg4 Bf6 24.Rhe1
+h5 25.Qg3 h4 26.Qg4 gxf5 27.Bxf5 Kf8 28.Be4 Qa2 29.c3 Rd8 30.Rf1
+Nd5 31.Bd2 Rd6 32.Qc8+ Ke7 33.Qxb7+ Rd7 34.Rde1 Qa1+ 35.Bb1+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Munich (Germany)"]
+[Date "1958.??.??"]
+[Round "3"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Bobotsov Milko G (BUL)"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2494"]
+[BlackElo "2405"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 d6 4.Nc3 c5 5.Nf3 Nc6 6.O-O e5 7.d3 Nge7
+8.a3 O-O 9.Rb1 b6 10.b4 Rb8 11.e3 h6 12.Bd2 Be6 13.Ne1 Qd7 14.Nd5
+Kh7 15.f4 f5 16.Nc2 Rfc8 17.b5 Nd8 18.e4 fxe4 19.dxe4 exf4 20.gxf4
+Nxd5 21.cxd5 Bh3 22.Qf3 Bxg2 23.Qxg2 Nf7 24.Kh1 Re8 25.Rg1 Nh8
+26.a4 Qe7 27.Rbe1 Rbc8 28.Qh3 Qf7 29.Rgf1 Rc7 30.f5 Re5 31.Bf4
+Rce7 32.Bxe5 Rxe5 33.Na3 Re7 34.Nc4 Be5 35.fxg6+ Qxg6 36.Rg1
+Qe8 37.Ne3 Rf7 38.Nf5 Bf4 39.Qg4 1-0
+
+
+[Event "Olympiad"]
+[Site "Munich (Germany)"]
+[Date "1958.??.??"]
+[Round "5"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Filip Miroslav (CZE)"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2494"]
+[BlackElo "2465"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d4 dxc4 7.Qc2
+a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bf4 Bd6 11.Nbd2 Nbd7 12.Nb3 Qe7 13.Rac1
+Be4 14.Bxd6 cxd6 15.Qc7 Ne8 16.Qa5 Ndf6 17.Ne1 Qb7 18.f3 Bd5
+19.Nc2 Bxb3 20.axb3 Nc7 21.f4 d5 22.Nb4 Rfc8 23.f5 exf5 24.Rxf5
+Ne6 25.Rd1 Rd8 26.e3 Rd6 27.Rc1 Rc8 28.Rff1 Ng5 29.Nd3 Rdd8 30.Ne5
+h5 31.Rc6 Ng4 32.Rxa6 Nxe3 33.Ra7 Qb8 34.Nxf7 Nxf1 35.Nxd8 Nxg3
+36.Nc6 Ne2+ 37.Kh1 Qf4 38.Bxd5+ Kh7 39.Qe1 Nh3 40.Rf7 Qe3 41.Rf3
+Qe8 42.Qb1+ Kh6 43.Ne5 Rc1+ 44.Qxc1+ Nxc1 45.Rxh3 Qe7 46.Rc3
+Qh4 47.Nf7+ Kh7 48.Rxc1 Qxd4 49.Bg2 Qxb2 50.Be4+ Kg8 51.Rf1 Kf8
+52.Nd6+ Ke7 53.Nf5+ Ke6 54.Bg2 Qc3 55.Rf3 Qa1+ 56.Bf1 g5 57.Kg2
+Qa8 58.Kg1 Ke5 59.Rf2 Qa3 60.Bxb5 Qxb3 61.Bf1 Qb6 62.Bd3 Qc5
+63.Kf1 Qc3 64.Re2+ Kf6 65.Bc2 Qh3+ 66.Kg1 Qg4+ 67.Rg2 Qb4 68.Rf2
+Ke5 69.Re2+ Kf6 70.Ng3 h4 71.Ne4+ Kg6 72.h3 Qd4+ 73.Kg2 Kh6 74.Nf2
+Qd5+ 75.Be4 Qd6 76.Re3 Kg7 77.Rd3 Qc7 78.Bd5 Qe5 79.Bf3 Qg3+
+80.Kf1 Qf4 81.Bg4 Qc1+ 82.Ke2 Qc2+ 83.Kf3 Qc1 84.Rd7+ Kg6 85.Nd3
+Qc6+ 86.Ke3 Qb6+ 87.Ke4 Qc6+ 88.Ke5 Qc3+ 89.Ke6 Qc4+ 90.Rd5 Qc8+
+91.Ke5 Qe8+ 92.Be6 Qb8+ 93.Rd6 Qc7 94.Kd5 Qb7+ 95.Rc6 Qb3+ 96.Kd4
+Qa4+ 97.Bc4+ Kg7 98.Rc7+ Kf6 99.Rf7+ Kg6 100.Ne5+ Kh6 101.Ke4
+Qa8+ 102.Kf5 Qc8+ 103.Rd7 Qc5 104.Bd5 Qf2+ 105.Bf3 Qc2+ 106.Kf6
+Qb2 107.Rd6 Kh7 108.Be4+ Kh6 109.Kf7+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Munich (Germany)"]
+[Date "1958.??.??"]
+[Round "7"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1-0"]
+[ECO "B25"]
+[WhiteElo "2494"]
+[BlackElo "2461"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 f5 7.Nf3 Nf6
+8.O-O O-O 9.Kh1 Bd7 10.Be3 Rb8 11.Qe2 b5 12.Bg1 b4 13.Nd1 Ne8
+14.c3 Nc7 15.Rc1 Ne6 16.Ne3 Qa5 17.exf5 gxf5 18.Nh4 Ned8 19.g4
+fxg4 20.f5 Ne5 21.Nxg4 Nxg4 22.Qxg4 Nf7 23.Bd5 Qa6 24.Rc2 Kh8
+25.Rg2 Bh6 26.Qh3 Bc6 27.c4 Bxd5 28.cxd5 Ng5 29.Ng6+ Kg7 30.Nf4
+Rf6 31.Ne6+ Kh8 32.Nxg5 Bxg5 33.Rxg5 Qxa2 34.Qg2 Rf7 35.Bd4+
+cxd4 36.Rg1 Rff8 37.Rg7 1-0
+
+
+[Event "Olympiad"]
+[Site "Munich (Germany)"]
+[Date "1958.??.??"]
+[Round "9"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Malich Burkhard Dr (GER)"]
+[Result "1-0"]
+[ECO "E66"]
+[WhiteElo "2494"]
+[BlackElo "2372"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 Bg7 4.Nf3 O-O 5.d4 d6 6.O-O Nc6 7.d5 Na5
+8.Nfd2 c5 9.Nc3 a6 10.Qc2 Bd7 11.b3 b5 12.Bb2 Rb8 13.Rab1 Qc7
+14.Rfc1 bxc4 15.bxc4 Bf5 16.e4 Bd7 17.Nd1 e5 18.Bc3 Ng4 19.h3
+Nh6 20.Rb2 Rxb2 21.Qxb2 Bf6 22.f4 Nb7 23.Nf2 Bg7 24.Rb1 Bc8 25.fxe5
+Bxe5 26.Bxe5 dxe5 27.Nd3 Re8 28.Qb6 Qe7 29.Qxa6 f5 30.Qb6 Qg5
+31.Nf1 fxe4 32.Nf2 Rf8 33.Nxe4 Qe7 34.d6 Qf7 35.d7 Qxd7 36.Nf6+
+Rxf6 37.Qxf6 Qd4+ 38.Kh2 Qxc4 39.Ne3 Qe2 40.Re1 Qd2 41.Nd5 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "12"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Gligoric Svetozar (SCG)"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[WhiteElo "2494"]
+[BlackElo "2447"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Nf3 d5 6.a3 Bxc3+ 7.bxc3
+O-O 8.cxd5 exd5 9.Bd3 Nc6 10.O-O Bg4 11.Qe1 Bxf3 12.gxf3 Re8
+13.Qd1 Nh5 14.Kh1 Qh4 15.dxc5 Ne5 16.Be2 Nf6 17.Rg1 Qxf2 18.Rb1
+Rad8 19.Rg2 Qh4 20.Qg1 Ng6 21.Rxb7 Qh3 22.Rxa7 Rb8 23.c6 Rb1
+24.c7 Qe6 25.Bd3 Rb3 26.Ba6 Rxc3 27.Bb2 Rxc7 28.Rxc7 Qxa6 29.Qc1
+d4 30.Bxd4 Nd5 31.Rc6 Qa8 32.e4 Ndf4 33.Rgc2 Nd3 34.Qe3 Ndf4
+35.Bb2 Ne6 36.Rc1 Ngf4 37.R6c2 h6 38.Be5 Ng6 39.Bg3 Ng5 40.Qd3
+Ne6 41.Qd7 Ngf8 42.Qc6 Qd8 43.Rc3 Re7 44.Bd6 Rd7 45.e5 Qg5 46.Qe4
+Ng6 47.Rg1 Qd2 48.Rc2 Qa5 49.Rc8+ Kh7 50.Qc6 Qa7 51.Rf1 Nef4
+52.Ra8 Qe3 53.Qc8 Nh4 54.Qc2+ Nd3 55.Ra5 Nxf3 56.Qg2 Nh4 57.Qg3
+Qe4+ 58.Kg1 Qd4+ 59.Kh1 Qe4+ 1/2-1/2
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "16"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Keres Paul (EST)"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[WhiteElo "2494"]
+[BlackElo "2580"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O b6
+8.cxd5 exd5 9.dxc5 bxc5 10.Na4 Nbd7 11.b3 Nb6 12.Nb2 Bg4 13.Qc2
+Bxf3 14.gxf3 d4 15.Kh1 Bc3 16.Rg1 g6 17.e4 Nh5 18.Bg5 Qc7 19.Rad1
+Nf4 20.Bf1 Bxb2 21.Qxb2 f5 22.b4 fxe4 23.bxc5 Qxc5 24.fxe4 d3
+25.Rg4 Nc4 26.Qc3 Ne6 27.Bxd3 Ne5 28.Qb3 Qb6 29.Bc4 Nxc4 30.Qxc4
+Rac8 31.Qd3 Qxf2 32.Rg2 Qf7 33.Be3 Nf4 34.Bxf4 Qxf4 35.Qd5+ 1/2-1/2
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "6"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Olafsson Fridrik (ISL)"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[WhiteElo "2494"]
+[BlackElo "2452"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Qf3
+Qc7 8.Nc2 Bd6 9.Be2 Nc6 10.Qe3 b6 11.Bd2 O-O 12.g4 Bc5 13.Qg3
+d6 14.g5 Nd7 15.h4 Bb7 16.h5 Nd4 17.Nxd4 Bxd4 18.O-O-O Nc5 19.f3
+Be5 20.Bf4 Rad8 21.Bxe5 dxe5 22.h6 g6 23.Rxd8 Rxd8 24.Rd1 Rd6
+25.Kc2 Nd7 26.Rd3 f6 27.gxf6 Rxd3 28.Bxd3 Nxf6 29.b4 Qd6 30.Qg5
+Nh5 31.c5 bxc5 32.bxc5 Qxc5 33.Qd8+ Qf8 34.Qc7 Qc8 35.Qxe5 Kf7
+36.Kb3 Qd8 37.Bc4 Qb6+ 38.Kc2 Nf6 39.Ne2 Bc8 40.Nd4 Bd7 41.f4
+Ke7 42.a3 Ng4 43.Qg7+ Kd8 44.Qg8+ Kc7 45.Nxe6+ Bxe6 46.Qxe6 Qf2+
+47.Kb3 Qxf4 48.Qe7+ Kb6 49.Qb4+ Kc7 50.Qc5+ Kd7 51.Qa7+ Kd8 52.Qd4+
+Kc7 53.Bxa6 Nxh6 54.Qc5+ Kd8 55.e5 Nf5 56.Qb6+ Ke7 57.Qf6+ Kd7
+58.Qf7+ Kc6 59.Qb7+ Kc5 60.Qc7+ Kd5 61.Bb7+ Ke6 62.Bc8+ Kd5 63.Qa5+
+Kc6 64.Qa6+ Kd5 65.Qa5+ Kc6 66.Qa8+ Kc5 67.Qa7+ Kd5 1/2-1/2
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "20"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Olafsson Fridrik (ISL)"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2494"]
+[BlackElo "2452"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 e6 4.Nf3 d5 5.Bb5 Nge7 6.exd5 Nxd5 7.Ne5
+Bd7 8.Bxc6 Bxc6 9.Nxc6 bxc6 10.O-O Be7 11.Ne4 O-O 12.d3 f5 13.Ng3
+Bf6 14.c3 g6 15.Bd2 Qb6 16.c4 Qxb2 17.cxd5 Qd4+ 18.Kh1 Qxa1 19.Qxa1
+Bxa1 20.Rxa1 cxd5 21.Ne2 Rab8 22.Bc1 Rb5 23.d4 Rfb8 24.dxc5 Rxc5
+25.Be3 Rc2 26.Nd4 Rcb2 27.Nb3 a5 28.Bd4 Rc2 29.Nxa5 Ra8 30.Nb3
+Raxa2 31.Rxa2 Rxa2 32.h3 h6 33.h4 Kf7 34.Kh2 Re2 35.Be5 g5 36.Nd4
+Re3 37.g3 1/2-1/2
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "10"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Petrosian Tigran V (ARM)"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2494"]
+[BlackElo "2580"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.c4 c5 2.Nf3 Nf6 3.b3 g6 4.Bb2 Bg7 5.e3 O-O 6.Be2 Nc6 7.O-O
+b6 8.d4 cxd4 9.Nxd4 Bb7 10.Bf3 d5 11.Nxc6 Bxc6 12.Qe2 Qc8 13.cxd5
+Bxd5 14.e4 Bb7 15.Nc3 Qe6 16.Rfe1 a6 17.Qe3 b5 18.h3 Rfd8 19.Rac1
+h5 20.b4 Nd7 21.a4 Nb6 22.Ba1 bxa4 23.Ne2 Nc4 1/2-1/2
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "24"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Petrosian Tigran V (ARM)"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2494"]
+[BlackElo "2580"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.c4 g6 2.Nf3 Bg7 3.Nc3 d6 4.d4 Nf6 5.Bg5 h6 6.Bh4 g5 7.Bg3 Nh5
+8.e3 c5 9.dxc5 Nxg3 10.hxg3 dxc5 11.Qxd8+ Kxd8 12.O-O-O+ Bd7
+13.Be2 Nc6 14.Nd2 b6 15.Ndb1 e6 16.Bf3 Rc8 17.Nb5 Ke7 18.N1c3
+a6 19.Nd6 Rc7 20.Bh5 Rf8 21.Rd2 Nb8 22.f4 Bc6 23.Bf3 1/2-1/2
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "15"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2494"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O
+d5 8.Nd2 Nf6 9.Qe2 Be7 10.Re1 O-O 11.b3 a5 12.Bb2 a4 13.a3 axb3
+14.cxb3 Qb6 15.exd5 cxd5 16.b4 Nd7 17.Nb3 e5 18.Bf5 e4 19.Rec1
+Qd6 20.Nd4 Bf6 21.Rc6 Qe7 22.Rac1 h6 23.Rc7 Be5 24.Nc6 Qg5 25.h4
+Qxh4 26.Nxe5 Nxe5 27.Rxc8 Nf3+ 28.gxf3 Qg5+ 29.Kf1 Qxf5 30.Rxf8+
+Rxf8 31.fxe4 dxe4 32.Qe3 Rd8 33.Qg3 g5 34.Rc5 Rd1+ 35.Kg2 Qe6
+36.b5 Kh7 37.Rc6 Qd5 38.Qe5 Rg1+ 39.Kh2 Rh1+ 40.Kg2 Rg1+ 1/2-1/2
+
+
+[Event "Match \"URS-Yugoslavia\""]
+[Site "Kiev (Ukraine)"]
+[Date "1959.??.??"]
+[Round "2"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Gligoric Svetozar (SCG)"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2494"]
+[BlackElo "2447"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Nf6 6.d3 g6 7.Nbd2 Bg7
+8.Nf1 O-O 9.Bg5 h6 10.Bh4 Ne7 11.Ne3 c6 12.Bc2 Qc7 13.d4 Nh5
+14.dxe5 dxe5 15.Nd2 Nf4 16.g3 Ne6 17.Bxe7 Qxe7 18.h4 h5 19.Qe2
+b5 20.a3 a5 21.O-O a4 22.Rfd1 Nc5 23.Nf3 Bh6 24.Ne1 Be6 25.Nd3
+Nxd3 26.Rxd3 Rfd8 27.Rad1 Rxd3 28.Rxd3 Rd8 29.Kf1 1/2-1/2
+
+
+[Event "Match \"URS-Yugoslavia\""]
+[Site "Kiev (Ukraine)"]
+[Date "1959.??.??"]
+[Round "4"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Gligoric Svetozar (SCG)"]
+[Result "1/2-1/2"]
+[ECO "C87"]
+[WhiteElo "2494"]
+[BlackElo "2447"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Nf6 6.d4 Bd7 7.O-O Be7
+8.Re1 O-O 9.Nbd2 Re8 10.a3 Bf8 11.b4 d5 12.Bb3 Bg4 13.exd5 Nxd5
+14.Bb2 Qd7 15.Bxd5 Qxd5 16.c4 Bxf3 17.cxd5 Bxd1 18.dxc6 Ba4 19.cxb7
+Rab8 20.dxe5 Rxb7 21.Bd4 Rd8 22.Nf3 Bc6 23.Rad1 Bxf3 24.gxf3
+Rb5 25.Be3 Re8 26.Rd7 a5 27.Rxc7 axb4 28.axb4 Bxb4 29.Rb1 Ba5
+30.Rxb5 Bxc7 31.Bd4 Rb8 32.Rd5 Rd8 33.Rxd8+ Bxd8 34.Kg2 f6 35.f4
+Kf7 36.exf6 gxf6 37.f5 Be7 38.Kf3 Bd6 39.h3 Bf8 40.Kg4 Bd6 41.Kh5
+Kg7 1/2-1/2
+
+
+[Event "It \"Central Chess Club\""]
+[Site "Moscow (Russia)"]
+[Date "1959.??.??"]
+[Round "6"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "2494"]
+[BlackElo "2461"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Ndb5 a6 7.Nd6+
+Ke7 8.Bf4 Nf6 9.Bc4 Qa5 10.O-O Ne5 11.Nxc8+ Raxc8 12.Bb3 Bxc3
+13.bxc3 Qxc3 14.Re1 d6 15.Qe2 Rhd8 16.Rad1 Kf8 17.Kh1 b5 18.Bg5
+Ng6 19.Bd2 Qc7 20.f4 Kg8 21.Rf1 Qc6 22.Ba5 Re8 23.Rd4 e5 24.fxe5
+dxe5 25.Rb4 Nf4 26.Qe3 Ne6 27.Bb6 Rb8 28.Ba7 a5 29.Bxb8 Rxb8
+30.Bd5 Nxd5 31.exd5 Qxd5 32.Qa7 Rf8 33.Qxa5 Nf4 34.Rbxf4 exf4
+35.a4 Qc4 36.Qxb5 Qxc2 37.Rxf4 g6 38.h3 Rd8 39.Qc4 1/2-1/2
+
+
+[Event "It \"Central Chess Club\""]
+[Site "Moscow (Russia)"]
+[Date "1959.??.??"]
+[Round "11"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Olafsson Fridrik (ISL)"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[WhiteElo "2494"]
+[BlackElo "2452"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 Bb4 7.a3
+Bxc3+ 8.Nxc3 d5 9.exd5 exd5 10.Bd3 h6 11.O-O O-O 12.Re1 Bg4 13.Qd2
+Qd7 14.b3 Bf5 15.Bb2 Rfe8 16.Nb5 Bxd3 17.Qxd3 Rxe1+ 18.Rxe1 Re8
+19.Rd1 Ne5 20.Qf1 a6 21.Nd4 Ne4 22.f3 Nd6 23.Qf2 Nc6 24.Ne2 Nf5
+25.Rd2 Qe7 26.Nf4 d4 27.Re2 Qd7 28.Qe1 Re3 29.Bc1 Rxe2 30.Qxe2
+Nd6 31.Qd3 Qe7 32.Bd2 Qe5 33.Ne2 Qc5 34.a4 Nf5 35.g4 Nfe7 36.Kg2
+Nd5 37.Qf5 Qe7 38.Ng3 Ne3+ 39.Bxe3 dxe3 40.Ne2 g6 41.Qe4 Qc5
+42.f4 Kf8 43.Kf3 a5 44.c4 Qb4 45.Qxe3 Qe1 46.Qb6 Qd1 47.Kf2 Qd7
+48.h3 Kg8 49.Qe3 Qd1 50.f5 gxf5 51.gxf5 Qc2 52.Qf3 Kh7 53.Qd5
+Kg7 54.c5 Kf6 1/2-1/2
+
+
+[Event "It \"Central Chess Club\""]
+[Site "Moscow (Russia)"]
+[Date "1959.??.??"]
+[Round "8"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Portisch Lajos (HUN)"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2494"]
+[BlackElo "2533"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 c5 2.g3 Nc6 3.Bg2 g6 4.e3 Bg7 5.Ne2 e6 6.O-O Nge7 7.Nbc3
+O-O 8.d4 cxd4 9.Nxd4 Nxd4 10.exd4 d5 11.cxd5 Nxd5 12.Nxd5 exd5
+13.Be3 Be6 14.Rc1 Qd7 15.Qd2 Rfc8 1/2-1/2
+
+
+[Event "Olympiad URS"]
+[Site "Moscow (Russia)"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Nikolaevsky"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[WhiteElo "2494"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 g6 7.O-O Bg7
+8.dxe5 dxe5 9.Bg5 Nge7 10.Na3 h6 11.Be3 O-O 12.Qc1 Kh7 13.Nc2
+b6 14.Rd1 Qc8 15.Nb4 Nb8 16.Bxd7 Nxd7 17.Qc2 c6 18.Qd3 Rd8 19.Qc4
+Kg8 20.Rd6 c5 21.Nd5 Nxd5 22.Qxd5 Nf6 23.Rxd8+ Qxd8 24.Qxe5 Qd7
+25.Bxh6 Re8 26.Qg5 Rxe4 27.Bxg7 Kxg7 28.Re1 Rxe1+ 29.Nxe1 Qe6 1/2-1/2
+
+
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.09.22"]
+[Round "10"]
+[White "Vasily Smyslov"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "A30"]
+[EventDate "1959.09.07"]
+[PlyCount "55"]
+[WhiteElo "?"]
+
+1. c4 c5 2. Nf3 Nf6 3. b3 g6 4. Bb2 Bg7 5. e3 O-O 6. Be2 Nc6 7. O-O b6
+8. d4 cxd4 9. Nxd4 Bb7 10. Bf3 d5 11. Nxc6 Bxc6 12. Qe2 Qc8 13. cxd5 Bxd5
+14. e4 Bb7 15. Nc3 Qe6 16. Rfe1 a6 17. Qe3 b5 18. h3 Rfd8 19. Rac1 h5 20. b4 Nd7
+21. a4 Nb6 22. Ba1 bxa4 23. Ne2 Nc4 24. Nf4 Nxe3 25. Nxe6 fxe6 26. Bxg7 Kxg7
+27. Rxe3 Rac8 28. Ra1
+1/2-1/2
+
+
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.09.15"]
+[Round "6"]
+[White "Vasily Smyslov"]
+[Black "Fridrik Olafsson"]
+[Result "1/2-1/2"]
+[BlackElo "?"]
+[ECO "B41"]
+[EventDate "1959.09.07"]
+[PlyCount "134"]
+[WhiteElo "?"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Qf3 Qc7
+8. Nc2 Bd6 9. Be2 Nc6 10. Qe3 b6 11. Bd2 O-O 12. g4 Bc5 13. Qg3 d6 14. g5 Nd7
+15. h4 Bb7 16. h5 Nd4 17. Nxd4 Bxd4 18. O-O-O Nc5 19. f3 Be5 20. Bf4 Rad8
+21. Bxe5 dxe5 22. h6 g6 23. Rxd8 Rxd8 24. Rd1 Rd6 25. Kc2 Nd7 26. Rd3 f6
+27. gxf6 Rxd3 28. Bxd3 Nxf6 29. b4 Qd6 30. Qh4 Nh5 31. c5 bxc5 32. bxc5 Qxc5
+33. Qd8+ Qf8 34. Qc7 Qc8 35. Qxe5 Kf7 36. Kb3 Qd8 37. Bc4 Qb6+ 38. Kc2 Nf6
+39. Ne2 Bc8 40. Nd4 Bd7 41. f4 Ke7 42. a3 Ng4 43. Qg7+ Kd8 44. Qg8+ Kc7
+45. Nxe6+ Bxe6 46. Qxe6 Qf2+ 47. Kb3 Qxf4 48. Qe7+ Kb6 49. Qb4+ Kc7 50. Qc5+ Kd7
+51. Qa7+ Kd8 52. Qd4+ Kc7 53. Bxa6 Nxh6 54. Qc5+ Kd8 55. e5 Nf5 56. Qb6+ Ke7
+57. Qf6+ Kd7 58. Qf7+ Kc6 59. Qb7+ Kc5 60. Qc7+ Kd5 61. Bb7+ Ke6 62. Bc8+ Kd5
+63. Qa5+ Kc6 64. Qa6+ Kd5 65. Qa5+ Kc6 66. Qa8+ Kc5 67. Qa7+ Kd5
+1/2-1/2

@@ -1,0 +1,595 @@
+[Event "It (cat.7)"]
+[Site "Budapest (Hungary)"]
+[Date "2006.02.06"]
+[Round "2"]
+[White "Caruana Fabiano (USA)"]
+[Black "Vajda Levente (ROM)"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2409"]
+[BlackElo "2526"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Bc4 Nc6 3.Nf3 Bc5 4.c3 Nf6 5.d3 a6 6.O-O Ba7 7.Nbd2
+d6 8.Bb3 O-O 9.h3 Be6 10.Re1 h6 11.Nf1 Re8 12.Bxe6 Rxe6 13.Be3
+Bxe3 14.Nxe3 d5 15.Qc2 Qd7 16.Rad1 Rd8 17.a3 Qe8 18.Nf5 Qf8 19.c4
+d4 20.g4 Ne7 21.N3h4 Ng6 22.Ng2 Nh7 23.h4 Nf4 24.Qd2 g6 25.Ng3
+Rf6 26.Kh2 Qe7 27.Ne2 Nxe2 28.Qxe2 Nf8 29.Qd2 Ne6 30.b4 Kg7 31.Kg3
+Nf4 32.Rh1 Nxg2 33.Kxg2 Rf4 34.f3 Rh8 35.h5 f5 36.Qe2 fxg4 37.fxg4
+Qg5 38.Kg3 Rhf8 39.hxg6 h5 0-1
+
+
+[Event "It (cat.7)"]
+[Site "Budapest (Hungary)"]
+[Date "2006.02.08"]
+[Round "4"]
+[White "Caruana Fabiano (USA)"]
+[Black "Bellia Fabrizio (ITA)"]
+[Result "0-1"]
+[ECO "C28"]
+[WhiteElo "2409"]
+[BlackElo "2390"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nc3 Be7 5.f4 d6 6.Nf3 Bg4 7.h3 Bxf3
+8.Qxf3 Nd4 9.Qd1 c6 10.O-O O-O 11.Be3 b5 12.Bb3 a5 13.a3 Nxb3
+14.cxb3 exf4 15.Bxf4 d5 16.e5 Ne8 17.d4 Nc7 18.Qd3 Qd7 19.Ne2
+Ne6 20.Rae1 c5 21.dxc5 Nxc5 22.Qe3 Ne6 23.Kh1 d4 24.Qg3 Rad8
+25.Bd2 b4 26.Nf4 Nxf4 27.Rxf4 Qe6 28.Qd3 Bg5 29.Rg4 Bxd2 30.Qxd2
+bxa3 31.bxa3 d3 32.b4 axb4 33.axb4 Rd5 34.Rge4 Rc8 35.R4e3 Rcd8
+36.Re4 h6 37.R1e3 R8d7 38.Re1 Rc7 39.R4e3 Rc2 40.Qd1 Qg6 41.Qf3
+Rd8 42.Rd1 d2 43.Re2 Rd3 44.Qa8+ Kh7 45.Rf2 Rc1 46.Rff1 Rdc3
+47.Qa4 Qb1 48.Kh2 Qd3 49.Kg1 Qb1 50.Kh2 Rxd1 51.Rxd1 Rc1 52.Rxd2
+Rh1+ 53.Kg3 Qg6+ 54.Kf2 Qf5+ 55.Ke2 Qe4+ 0-1
+
+
+[Event "It (cat.7)"]
+[Site "Budapest (Hungary)"]
+[Date "2006.02.10"]
+[Round "6"]
+[White "Caruana Fabiano (USA)"]
+[Black "Jakab Attila (HUN)"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "2409"]
+[BlackElo "2412"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Nf3
+Ne7 8.h4 b6 9.h5 h6 10.Bb5+ Bd7 11.Bd3 Ba4 12.Bd2 Nbc6 13.Rh4
+c4 14.Be2 O-O-O 15.Rg4 Rdg8 16.Bf4 g5 17.Bh2 Nf5 18.Ng1 f6 19.Nf3
+Qf7 20.exf6 Qxh5 21.Bg3 Ne3 22.fxe3 Qxg4 23.Be5 Rh7 24.Kd2 Qe4
+25.g4 h5 26.gxh5 g4 27.Nh2 Nxe5 28.dxe5 Rxh5 29.Nxg4 Rhg5 30.Bf3
+Qf5 31.f7 Rh8 32.Nf6 Qxe5 33.Ng8 Qg7 0-1
+
+
+[Event "It (cat.7)"]
+[Site "Budapest (Hungary)"]
+[Date "2006.02.14"]
+[Round "10"]
+[White "Caruana Fabiano (USA)"]
+[Black "Antic Dejan (SCG)"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2409"]
+[BlackElo "2505"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.Qxd4 Nc6 7.Qe4
+b6 8.Bc4 Nde7 9.O-O Bb7 10.Qe2 Ng6 11.Re1 Qc7 12.Nbd2 d6 13.exd6
+Bxd6 14.Ne4 Bf4 15.Ba6 Bxa6 16.Qxa6 O-O 17.Bxf4 Qxf4 18.Rad1
+Rad8 19.Qe2 h6 20.h3 Nce7 21.g3 Qf5 22.Kh2 e5 23.c4 Qe6 24.Nc3
+f6 25.h4 Rfe8 26.b3 Qg4 27.Rd3 Nc6 28.Red1 Rxd3 29.Qxd3 Rd8 30.Qe2
+Rxd1 31.Qxd1 Nge7 32.Qd3 Kf7 33.Kg2 Qe6 34.Qe3 f5 35.a3 e4 36.Nd2
+Qd6 37.b4 Qd4 38.Ne2 Qxe3 39.fxe3 Ne5 40.Nd4 Ng4 41.Nc2 Ke6 42.Kf1
+Ke5 43.Ke2 g5 44.hxg5 hxg5 45.Nb3 Ng6 46.Nbd4 f4 47.gxf4+ gxf4
+48.exf4+ Nxf4+ 49.Kd2 a6 50.c5 b5 51.Nc6+ Kd5 52.Nb8 Ne6 53.Ne3+
+Nxe3 54.Kxe3 Nd4 55.Nd7 Nc2+ 56.Kf4 e3 57.Nf6+ Ke6 58.c6 Kd6
+59.c7 Kxc7 60.Nd5+ Kd6 61.Nxe3 Nxa3 62.Ke4 Kc6 63.Kd4 1/2-1/2
+
+
+[Event "Ch Madrid (final)"]
+[Site "Madrid (Spain)"]
+[Date "2006.03.10"]
+[Round "7"]
+[White "Caruana Fabiano (USA)"]
+[Black "Franco Alonso Alejandro (ESP)"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2409"]
+[BlackElo "2421"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.b3 b6 4.c4 Bb7 5.Nc3 Nf6 6.Bd3 Nc6 7.Bb2 d6
+8.O-O Be7 9.Bc2 Nd4 10.Nxd4 cxd4 11.Ne2 e5 12.Ng3 h5 13.f4 g6
+14.Qf3 O-O 15.Ba3 Kg7 16.fxe5 dxe5 17.Nf5+ gxf5 18.Qxf5 Nh7 19.Qxe5+
+Bf6 20.Qg3+ Kh8 21.Bxf8 d3 22.Bd6 Bd4+ 23.Kh1 dxc2 24.Rac1 Qg5
+25.Qxg5 Nxg5 26.d3 Nxe4 27.dxe4 Bxe4 28.Rce1 f5 29.Bf4 Bc3 30.Rxe4
+fxe4 31.Rc1 Rd8 32.h4 Rd1+ 33.Kh2 Rxc1 34.Bxc1 Kh7 35.g4 hxg4
+36.Kg3 Bg7 37.Kxg4 Bh6 38.Bb2 c1Q 39.Bxc1 Bxc1 40.b4 Ba3 0-1
+
+
+[Event "Ch Madrid (final)"]
+[Site "Madrid (Spain)"]
+[Date "2006.03.17"]
+[Round "11"]
+[White "Caruana Fabiano (USA)"]
+[Black "Almagro Llanas Pablo (ESP)"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[WhiteElo "2409"]
+[BlackElo "2340"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.a3
+Bd6 8.g3 Nbd7 9.Bg2 d4 10.Nb1 h5 11.Nd2 h4 12.Nc4 Bc7 13.Bf4
+Nb6 14.O-O-O Nh5 15.Kb1 Bxf4 16.gxf4 Nxc4 17.dxc4 Qf6 18.Rhe1
+e5 19.fxe5 Qxe5 20.Qf5 f6 21.c3 c5 22.cxd4 cxd4 23.c5 Nf4 24.Bf1
+Rd8 25.Bc4 g6 26.Qg4 Ke7 27.Bd5 Rd7 28.Rc1 g5 29.Qf3 d3 30.Re3
+d2 31.Rd1 Qd4 32.Re2 Nxe2 33.Qxe2 Qxc5 34.Rxd2 Qd6 35.Qg4 Qf4
+36.Qe2 g4 37.Rd3 gxh3 38.Rxh3 Rc7 39.Ka2 a6 40.e5 fxe5 41.Re3
+h3 42.Re4 Qf6 43.Rxe5+ Kd8 44.Re6 Re7 45.Qd3 Rxe6 46.Bxe6+ Kc7
+47.Qg3+ Kb6 48.Qe3+ Kc7 49.Qg3+ Kb6 50.Qe3+ Kc7 51.Qg3+ 1/2-1/2
+
+
+[Event "It (open)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "2006.04.02"]
+[Round "4"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Cheparinov Ivan (BUL)"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2421"]
+[BlackElo "2635"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Nf3
+Qa5 8.Bd2 Qa4 9.Qb1 c4 10.h4 Bd7 11.h5 h6 12.g3 O-O-O 13.Bh3
+Nge7 14.O-O Rdg8 15.Qd1 Kb8 16.Ra2 Nc8 17.Nh4 Nb6 18.Qf3 Be8
+19.Qe2 Bd7 20.Kh2 Qa5 21.g4 Na4 22.f4 Qd8 23.Ng2 g6 24.f5 gxf5
+25.gxf5 exf5 26.Bxf5 Bxf5 27.Rxf5 Rg7 28.Rf6 Qb6 29.e6 fxe6 30.Rxe6
+a6 31.Ra1 Qc7+ 32.Kh1 Ka7 33.Rg6 Rxg6 34.hxg6 Qg3 35.Nf4 Nxc3
+36.Qg2 Qxg2+ 37.Kxg2 Ne4 38.Be3 Ne7 39.Rh1 Rg8 40.Rxh6 Nf5 41.Rh3
+Ng5 42.Rh5 Nxe3+ 43.Kf2 Ng4+ 44.Kg3 Ne6 45.Nxe6 Rxg6 46.Nf4 Rg8 1/2-1/2
+
+
+[Event "It (open)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "2006.04.05"]
+[Round "7"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Neelotpal Das (IND)"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2421"]
+[BlackElo "2514"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.c4 d5 5.cxd5 exd5 6.exd5 Nf6 7.Bb2
+Be7 8.Be2 O-O 9.O-O Nxd5 10.d4 Nf4 11.dxc5 Bf6 12.Bxf6 Qxf6 13.Nbd2
+Bh3 14.g3 Nxe2+ 15.Qxe2 Bxf1 16.Rxf1 Nd7 17.b4 Rfe8 18.Qc4 Rad8
+19.Qb3 b6 20.Rc1 Ne5 21.Rc3 Ng4 22.Rd3 bxc5 23.bxc5 Qa1+ 24.Kg2
+Rxd3 25.Qxd3 Qxa2 26.c6 Nf6 27.Nc4 Ne4 28.Qd4 Nxf2 29.c7 Ne4+
+30.Kh3 Qe2 31.Nce5 Nf2+ 32.Kg2 Nd3+ 33.Kg1 Qd1+ 34.Kg2 Qc2+ 0-1
+
+
+[Event "It (open)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "2006.04.06"]
+[Round "8"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Epishin Vladimir (GER)"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2421"]
+[BlackElo "2565"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.Qg4
+g6 8.Qe2 d6 9.a4 Nf6 10.Bh6 Bf8 11.Bxf8 Kxf8 12.a5 e5 13.Bc4
+Kg7 14.O-O Qc7 15.f4 Bg4 16.Qd3 Nbd7 17.N1d2 exf4 18.Qd4 Ne5
+19.Rxf4 Be6 20.Bd5 Rhf8 21.Raf1 Nfd7 22.Qe3 Rae8 23.Nd4 Bxd5
+24.exd5 Qc5 25.Ne4 Qxd5 26.Rh4 h5 27.Rxh5 Nf3+ 28.Rxf3 Qxh5 29.Rh3
+Rxe4 30.Qxe4 Qd1+ 31.Kf2 Qd2+ 32.Ne2 Ne5 33.Qh4 Re8 34.Qh7+ Kf6
+35.Qh4+ Kg7 36.Qh7+ Kf6 37.Qh4+ Kg7 1/2-1/2
+
+
+[Event "It \"Young Stars of the World\" (cat.7)"]
+[Site "Kirishi (Russia)"]
+[Date "2006.05.09"]
+[Round "1"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Safarli Eltaj (AZE)"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "2421"]
+[BlackElo "2417"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.h3 d6 9.c3 Nb8 10.d4 Nbd7 11.Bg5 Bb7 12.Nbd2 c5 13.a4 Re8
+14.Qe2 Qb6 15.dxe5 dxe5 16.Bxf6 Bxf6 17.axb5 axb5 18.c4 Rxa1
+19.Rxa1 b4 20.Nf1 Nf8 21.Qc2 Ra8 22.Rxa8 Bxa8 1/2-1/2
+
+
+[Event "It \"Young Stars of the World\" (cat.7)"]
+[Site "Kirishi (Russia)"]
+[Date "2006.05.11"]
+[Round "3"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Nepomniachtchi Ian (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[WhiteElo "2421"]
+[BlackElo "2506"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Bd3 c5 5.dxc5 Nf6 6.Qe2 Nc6 7.Ngf3
+O-O 8.O-O Nb4 9.Nb3 a5 10.exd5 Nfxd5 11.Be4 a4 12.Nbd4 Bxc5 13.Rd1
+Qb6 14.c3 Nc6 15.a3 Nf6 16.Bxc6 bxc6 17.Ne5 Nd5 18.Nexc6 Bb7
+19.Nb4 Rad8 20.Bg5 Rd7 21.Nd3 Bxd4 22.cxd4 Ba6 23.Qc2 Bxd3 24.Rxd3
+Qa6 25.Rh3 h6 26.Bxh6 gxh6 27.Rg3+ Kh8 28.Qd2 e5 29.dxe5 Rfd8
+30.h3 Qe6 31.Re1 Ne7 32.Qf4 Rd4 33.Re4 Rxe4 34.Qxe4 Ng6 35.Re3
+Rd5 36.Qxa4 Nxe5 37.Qf4 Qd6 1/2-1/2
+
+
+[Event "It \"Young Stars of the World\" (cat.7)"]
+[Site "Kirishi (Russia)"]
+[Date "2006.05.13"]
+[Round "5"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Hovhannisyan Robert (ARM)"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2421"]
+[BlackElo "2260"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.c4 Be7 6.d4 Bf5 7.Bd3
+Bg6 8.O-O O-O 9.Re1 Nf6 10.Bxg6 hxg6 11.Qb3 b6 12.Nc3 Re8 13.Bg5
+Nbd7 14.Qc2 c6 15.Rad1 Rc8 16.d5 cxd5 17.cxd5 Ng4 18.Bf4 Bf8
+19.Qd2 Nde5 20.Nxe5 dxe5 21.Bg3 Bd6 22.Ne4 Nf6 23.Nxf6+ gxf6
+24.f3 Bc5+ 25.Bf2 Qd6 26.Be3 Bb4 27.Qf2 Bxe1 28.Qxe1 Rc2 29.h4
+e4 30.f4 Rxb2 31.h5 Rb5 32.Qg3 Rxd5 33.Rxd5 Qxd5 34.hxg6 Qd1+
+35.Kf2 Qh5 0-1
+
+
+[Event "It (open)"]
+[Site "Salou (Spain)"]
+[Date "2006.06.09"]
+[Round "3"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Korneev Oleg (AND)"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[WhiteElo "2421"]
+[BlackElo "2671"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.g4 Nge7 7.Be3
+a6 8.Nb3 b5 9.Qe2 Na5 10.O-O-O Nc4 11.Bg2 Qc7 12.Bf4 Bb7 13.Nd2
+Ng6 14.Bg3 Nge5 15.f4 Nxb2 16.Kxb2 Rc8 17.fxe5 Qxc3+ 18.Kb1 Qxc2+
+19.Ka1 Qc3+ 20.Kb1 Qc2+ 21.Ka1 Bd5 22.exd5 Qc3+ 1/2-1/2
+
+
+[Event "It (open)"]
+[Site "Salou (Spain)"]
+[Date "2006.06.14"]
+[Round "8"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Spraggett Kevin (CAN)"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2421"]
+[BlackElo "2578"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 a6 6.Ba4 b5 7.Bc2
+Bb7 8.Re1 Ng6 9.d4 cxd4 10.cxd4 Be7 11.Nc3 O-O 12.g3 Rc8 13.h4
+Na5 14.h5 Nh8 15.h6 g6 16.d5 f5 17.Nd4 fxe4 18.Bxe4 b4 19.Nce2
+Bf6 20.Bg2 Qb6 21.b3 Bxd5 22.Bxd5 exd5 23.Be3 Qd6 24.Qd2 Nc6
+25.Rac1 Ne5 26.Rxc8 Rxc8 27.Rc1 Re8 28.Qc2 Nhf7 29.Qc5 Ng4 30.Bf4
+Qxc5 31.Rxc5 Ngxh6 32.Rxd5 d6 33.Bxh6 Nxh6 34.Rxd6 Ng4 35.Rxa6
+Rd8 36.Nf3 Be7 37.Nf4 Bc5 38.Ne6 Bxf2+ 39.Kg2 Re8 40.Nfg5 Be3
+41.Ne4 h5 42.Kf3 Re7 43.Ke2 Kf7 44.Nd6+ Kf6 45.Nc7 Bb6+ 46.Ne4+
+Rxe4+ 47.Kd2 Rd4+ 48.Kc1 Ne3 49.Rxb6+ Kf5 50.Ne6 Rd1+ 51.Kb2
+Rd2+ 52.Kc1 Rd1+ 53.Kb2 Rd2+ 54.Kc1 Rxa2 55.Nd4+ Ke4 56.Rxb4
+Kd3 1/2-1/2
+
+
+[Event "It (open)"]
+[Site "Andorra la Vella (Andorra)"]
+[Date "2006.07.13"]
+[Round "6"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Gonzalez Arribas Vidal Alejandr (ESP)"]
+[Result "1/2-1/2"]
+[ECO "B37"]
+[WhiteElo "2444"]
+[BlackElo "2301"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Nc2 d6 7.Nc3
+Nh6 8.Bd3 O-O 9.O-O f5 10.Bxh6 Bxh6 11.exf5 Bxf5 12.Bxf5 Rxf5
+13.Nd4 Nxd4 14.Qxd4 Bg7 15.Qd3 Bxc3 16.Qxc3 Rc8 17.Qe3 a6 18.Qe6+
+Kf8 19.Rfe1 Rcc5 20.Rad1 Qc7 21.b3 b5 22.Rd5 bxc4 23.Rxf5+ Rxf5
+24.bxc4 Rf7 25.h3 Qc5 26.Re2 a5 27.Qe4 Qf5 28.Qd4 Qf6 29.Qd2
+Qf5 30.Qc3 Rf6 31.Qe3 Rf7 32.h4 Qg4 33.Qc3 Rf6 34.Qe3 Rf7 35.Qc3
+Rf6 36.Qe3 Rf7 37.c5 dxc5 38.Qe5 Qd4 39.Qxd4 cxd4 40.Re4 d3 41.Rd4
+d2 42.Rxd2 Rf4 43.g3 Ra4 44.Kf1 Kf7 45.Ke2 Kf6 46.f3 Kf5 47.Kf2
+e5 48.Rb2 Ra3 49.Re2 Ra4 50.Rb2 h6 51.Rc2 g5 52.hxg5 hxg5 53.Rb2
+g4 54.Re2 gxf3 55.Kxf3 e4+ 56.Kf2 Kg4 57.Ke3 Kxg3 58.Rb2 Kg4
+59.Rb5 Rxa2 1/2-1/2
+
+
+[Event "It (open)"]
+[Site "Badalona (Spain)"]
+[Date "2006.08.??"]
+[Round "7"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Almeida Omar (CUB)"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2444"]
+[BlackElo "2475"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2
+Nc6 8.Be3 d6 9.Bxa7 Rxa7 10.O-O Nge7 11.c4 O-O 12.Nc3 e5 13.Rfd1
+Be6 14.Rac1 Qb8 15.Nd5 b6 16.Qe3 a5 17.Nc3 Rc8 18.Nb5 Rd7 19.Be2
+Na7 20.a4 Nac6 21.Nd2 Nb4 22.Nf3 h6 23.b3 f5 24.exf5 Nxf5 25.Qd2
+Rf8 26.Nc3 Rdf7 27.Bd3 Ne7 28.Be4 Nc8 29.Qe3 Na6 30.Bd5 Bxd5
+31.Nxd5 Nc5 32.Rd2 Na7 33.Rcd1 Nc6 34.Nc3 Nxb3 35.Rxd6 Nbd4 36.Rg6
+Ne7 37.Nxe5 Ndf5 38.Qe4 Nxg6 39.Nxg6 Re8 40.Qd5 Qd6 41.Qxd6 Nxd6
+42.g3 Nxc4 43.Nf4 Ne5 44.Rb1 g5 45.Nfd5 Nd3 46.Rxb6 Re1+ 47.Kg2
+Rxf2+ 48.Kh3 Rc2 49.Nf6+ Kf8 50.Nfe4 Ne5 51.Rb8+ Kf7 52.Rb7+
+Ke6 53.Rb6+ Kd7 54.Nf6+ Kc8 55.Ncd5 Ree2 56.Ng4 h5 0-1
+
+
+[Event "It (open)"]
+[Site "Badalona (Spain)"]
+[Date "2006.08.??"]
+[Round "8"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Peralta Fernando (ARG)"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2444"]
+[BlackElo "2546"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 d6 2.d4 g6 3.Nc3 Nf6 4.Bg5 Bg7 5.Qd2 h6 6.Bf4 g5 7.Bg3 Nh5
+8.O-O-O Nd7 9.e5 Nxg3 10.hxg3 dxe5 11.dxe5 Bxe5 12.f4 gxf4 13.gxf4
+Bg7 14.Nf3 e6 15.f5 Qf6 16.g4 Nb6 17.g5 hxg5 18.Rxh8+ Bxh8 19.Nxg5
+Bd7 20.fxe6 fxe6 21.Nge4 Qe5 22.Bg2 O-O-O 23.Qf2 Kb8 24.Nc5 Qg5+
+25.Kb1 Bc8 26.Rxd8 Qxd8 27.Nd3 Bxc3 28.bxc3 Qg5 29.Be4 Na4 30.Qd4
+Qa5 31.Nb4 c5 32.Qd6+ Qc7 0-1
+
+
+[Event "Ch Italy (juniors) (under 20)"]
+[Site "Bratto (Italy)"]
+[Date "2006.08.25"]
+[Round "7"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Ronchetti Niccolo' (ITA)"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2444"]
+[BlackElo "2421"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 a6 5.h4 h5 6.f3 b5 7.Qd2 Nd7
+8.O-O-O Bb7 9.Nh3 Rc8 10.Ng5 c5 11.dxc5 Nxc5 12.Bd4 Nf6 13.Kb1
+O-O 14.g3 Qc7 15.Bh3 e6 16.Rhe1 Rfd8 17.a3 Rb8 18.Qf2 e5 19.Be3
+Ba8 20.Bf1 Ncd7 21.Rd2 b4 22.axb4 Rxb4 23.Na2 Rbb8 24.Bxa6 Qa5
+25.Rxd6 Bf8 26.Qd2 Qa3 27.Rb6 Nxb6 28.Qxd8 Qxa2+ 29.Kxa2 Rxd8
+30.Bxb6 Rd6 31.Bc4 Rxb6 32.Nxf7 Kg7 33.Rd1 Be7 34.Rd3 Bb7 35.Rb3
+Rxb3 36.Bxb3 Bc5 37.Nxe5 Bf2 38.g4 Bxh4 39.gxh5 gxh5 40.Be6 Bg3
+41.Nc4 Bc6 42.Ne3 h4 43.Nf5+ Kf8 44.Kb3 Bd7 45.Bxd7 Nxd7 46.Kc4
+Bf2 47.Nxh4 Bxh4 48.Kd5 Ke7 49.b4 Bg3 50.c4 Ne5 51.c5 Kd7 52.b5
+Nxf3 53.Kc4 Ne5+ 54.Kd5 Ng6 55.Kc4 Nf4 56.e5 Bf2 57.c6+ Kc7 58.Kc3
+Bg1 59.Kb4 Kb6 60.Kc4 Bf2 61.Kb3 Bd4 62.e6 Nxe6 63.Kc4 Bc5 64.Kd5
+Nc7+ 65.Kc4 Bg1 66.Kd3 Bh2 67.Kc4 Bg3 68.Kd3 Bh4 69.Kc4 Bg5 70.Kd3
+Bh6 71.Kc4 Bg7 72.Kd3 Bh8 73.Kc4 Bf6 74.Kd3 Be7 75.Kc4 Bf8 76.Kd3
+Bd6 77.Kc4 Be5 78.Kd3 Bf4 79.Ke4 Bd2 80.Kd3 Be1 81.Kc4 Bf2 82.Kd3
+Bc5 83.Kc4 Ba3 84.Kb3 Bc1 85.Kc4 Bf4 86.Kd3 Bd6 87.Kc4 Nxb5 88.Kd3
+Nc7 89.Kc4 Kxc6 90.Kd4 Ne6+ 91.Kc4 Bc5 92.Kd3 Kd5 93.Kc3 Nf4
+94.Kb3 Kd4 95.Ka4 Kc4 96.Ka5 Ne6 97.Ka6 Kb4 98.Kb7 Kb5 99.Kc8
+Kc6 100.Kb8 Nc7 101.Kc8 Ba7 102.Kd8 Nd5 103.Ke8 Nf4 104.Kf7 Bd4
+105.Ke7 Kc7 106.Ke8 Bf6 107.Kf7 Bg5 108.Ke8 Kd6 109.Kf8 Kd7 110.Kf7
+Be7 111.Kg8 Ke6 112.Kg7 Bd6 113.Kg8 Kf6 114.Kh7 Be7 115.Kh6 Bf8+
+116.Kh7 Kf7 117.Kh8 Nd5 0-1
+
+
+[Event "Cup Mitropa"]
+[Site "Brno (Czech Republic)"]
+[Date "2006.09.??"]
+[Round "4"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Cvek Robert (CZE)"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2444"]
+[BlackElo "2509"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.h4
+Nbc6 8.h5 Qa5 9.Bd2 Bd7 10.h6 gxh6 11.Nf3 O-O-O 12.Bd3 c4 13.Be2
+Ng8 14.a4 f6 15.O-O fxe5 16.dxe5 Nge7 17.Nd4 Rhg8 18.Re1 Ng6
+19.Nb5 Nh4 20.g3 Kb8 21.Kh2 Rdf8 22.Rf1 Nxe5 23.gxh4 Qd8 24.Bg5
+hxg5 25.Qd4 Nc6 26.Qc5 Qe7 27.Nd6 h6 28.Rab1 Ka8 29.Qa3 gxh4 0-1
+
+
+[Event "Cup Mitropa"]
+[Site "Brno (Czech Republic)"]
+[Date "2006.09.??"]
+[Round "2"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Le Roux Jean-Pierre (FRA)"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "2444"]
+[BlackElo "2496"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Bc5 4.Nf3 d6 5.O-O Nc6 6.c3 Bb6 7.h3 h6
+8.Be3 g5 9.Nh2 Ne7 10.a4 c6 11.Bxb6 axb6 12.Nd2 Ng6 13.d4 h5
+14.dxe5 Nxe5 15.f4 gxf4 16.Rxf4 Qe7 17.Qf1 Rh6 18.b3 Bd7 19.Kh1
+h4 20.Be2 c5 21.Qf2 O-O-O 22.Rxh4 Rg6 23.Nhf1 Bc6 24.Ne3 d5 25.a5
+bxa5 26.Rxa5 b6 27.Ra6 Kb7 28.Qe1 Qc7 29.Qa1 Kb8 30.Rf4 dxe4
+31.Qa2 Bb7 32.Rf1 Bxa6 33.Bxa6 Nd3 34.Bc4 Qa7 35.Qc2 Rg3 36.Nf5
+Rg5 37.Ne3 Rd6 38.Rxf6 Rxf6 39.Nxe4 Qa1+ 40.Nd1 Rf1+ 41.Kh2 Rxd1
+42.Nxg5 Rh1+ 43.Kg3 Qe1+ 44.Kg4 f5+ 45.Kxf5 Rf1+ 46.Nf3 Qe5+
+47.Kg6 Rf2 48.Bxd3 Qe6+ 49.Kh5 Rxc2 50.Bxc2 Qe2 51.Bf5 Qxg2 52.Ng5
+Qb2 53.Be6 Qxc3 54.h4 Qd4 55.Bc4 Kb7 56.Nf3 Qf6 57.Kg4 Kc6 58.Ng5
+Qd4+ 0-1
+
+
+[Event "Cup Mitropa"]
+[Site "Brno (Czech Republic)"]
+[Date "2006.09.??"]
+[Round "7"]
+[White "Caruana Fabiano (ITA)"]
+[Black "Petrik Tomas (SVK)"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2444"]
+[BlackElo "2523"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4
+O-O 8.Bd3 Nbc6 9.Qh5 Ng6 10.Nf3 Qc7 11.Be3 Nce7 12.Ng5 h6 13.Nf3
+f5 14.exf6 Rxf6 15.Ne5 Nxe5 16.Qxe5 Qa5 17.dxc5 Nc6 18.Qd6 Qxc3+
+19.Ke2 Nd4+ 20.Bxd4 Qxd4 21.f3 e5 22.c3 Qxc3 23.Qd8+ Rf8 24.Qxd5+
+Kh8 25.Rhd1 Bf5 26.Bxf5 Rxf5 27.Qxb7 Qc4+ 28.Rd3 Raf8 29.Qb4
+Qa6 30.Rad1 Rf4 31.Qb3 e4 32.fxe4 Rf2+ 33.Ke3 Qf6 34.Rd5 Rf3+
+35.gxf3 Qxf3+ 36.Kd4 Qxb3 37.Rd3 Qb2+ 38.Kc4 Qc2+ 39.Kd4 Re8
+40.e5 Kh7 41.h3 Qa4+ 42.Ke3 Rf8 43.R5d4 Qc2 0-1
+
+
+[Event "3. Open"]
+[Site "Calvia ESP"]
+[Date "2006.10.22"]
+[Round "3"]
+[White "Caruana, Fabiano"]
+[Black "Strikovic, Aleksa"]
+[Result "0-1"]
+[WhiteElo "2474"]
+[BlackElo "2535"]
+[ECO "B43"]
+[EventDate "2006.10.20"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nf3 Qc7 
+8. O-O d6 9. a4 b4 10. Na2 Nc6 11. Bd2 Rb8 12. c3 bxc3 13. Bxc3 Nf6 14. 
+Qe2 Be7 15. b4 O-O 16. Rfc1 Qb7 17. Rab1 e5 18. h3 Qa8 19. Ra1 d5 20. exd5
+Nxd5 21. Bxh7+ Kxh7 22. Qe4+ Kg8 23. Qxd5 Be6 24. Qe4 f5 25. Qe2 e4 26. b5
+Nd8 27. Nd4 axb5 28. axb5 Qd5 29. Rd1 Qc4 30. Qxc4 Bxc4 31. Nc6 Nxc6 32. 
+bxc6 Rfc8 33. Rd7 Bf8 34. c7 Ra8 35. Nb4 Rxa1+ 36. Bxa1 Be6 37. Rd8 Rxc7 
+38. Be5 Rc1+ 39. Kh2 Kf7 40. Bd6 Be7 41. Bxe7 Kxe7 42. Rd2 Kf6 43. Nc2 f4 
+44. g3 g5 45. Nd4 e3 46. fxe3 fxe3 47. Rg2 Bd5 48. Rg1 Rc4 49. Rd1 Ke5 0-1
+
+
+[Event "66. ch-ITA playoff"]
+[Site "Cremona ITA"]
+[Date "2006.12.03"]
+[Round "4"]
+[White "Caruana, Fabiano"]
+[Black "Godena, Michele"]
+[Result "0-1"]
+[WhiteElo "2474"]
+[BlackElo "2522"]
+[ECO "C78"]
+[EventDate "2006.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Bb7 8.
+ c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bxf6 Qxf6 12. Bd5 O-O 13. Na3 exd4 14. 
+cxd4 Rfb8 15. Nc2 bxa4 16. Rxa4 a5 17. Re1 Ne7 18. Bxb7 Rxb7 19. Ne3 Rd8 
+20. Qc2 Rbb8 21. Nc4 Bxd4 22. Nxd4 Qxd4 23. Nxa5 Rxb2 24. Rxd4 Rxc2 25. g3
+Ra8 26. Nb3 Nc6 27. Rd2 Rc3 28. Nd4 Nxd4 29. Rxd4 Ra2 30. e5 dxe5 31. Rxe5
+Rf3 32. Rf4 Rxf4 33. gxf4 Rc2 34. Kg2 Rc3 35. f5 Kf8 36. f3 c5 37. Kg3 Rc2
+38. h4 c4 39. Rc5 Ke7 40. Rc7+ Ke8 41. Kg4 c3 42. f6 g6 43. Kf4 Rc1 44. 
+Re7+ Kf8 45. Rc7 Ke8 46. Re7+ Kf8 47. Rc7 Kg8 48. Rc8+ Kh7 49. Rf8 g5+ 50.
+ hxg5 hxg5+ 51. Kf5 c2 52. Rxf7+ Kh6 53. Rc7 g4 54. f7 Kg7 55. Kf4 gxf3 
+0-1
+
+
+[Event "19th Moratalaz Open"]
+[Site "Madrid ESP"]
+[Date "2006.09.19"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Alvarez Escudero,M"]
+[Result "1-0"]
+[WhiteElo "2444"]
+[BlackElo "1988"]
+[EventDate "2006.09.18"]
+[ECO "C62"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 exd4 6. Nxd4 Ne5 7. Be2 Nf6
+8. f4 Nc6 9. Be3 Nxd4 10. Qxd4 Be7 11. O-O-O Bg4 12. Bxg4 Nxg4 13. Qxg7
+Nxe3 14. Qxh8+ Bf8 15. Rd3 Nxg2 16. Nd5 c6 17. Nf6+ Ke7 18. e5 d5 19. Qxh7
+Nxf4 20. Rf3 Qb6 21. Qf5 Bh6 22. Qd7+ Kf8 23. Qd6+ Kg7 24. Kb1 Rd8 25. Qe7
+Rf8 26. Rxf4 Bxf4 27. Nh5+ Kg8 28. Qf6 Bxe5 29. Qxe5 1-0
+
+
+[Event "I Patrimonio de la Humanidad Open"]
+[Site "Alcala de Henares ESP"]
+[Date "2006.10.07"]
+[Round "1"]
+[White "Caruana,F"]
+[Black "Camarero Izquierdo,J"]
+[Result "1-0"]
+[WhiteElo "2474"]
+[BlackElo "1982"]
+[EventDate "2006.10.07"]
+[ECO "B99"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1 Be7 12. Qg3 Nc5 13. e5 dxe5 14.
+fxe5 Nh5 15. Qh4 Bxg5+ 16. Qxg5 g6 17. g4 h6 18. Qe3 Ng7 19. Bxb5+ Kf8 20.
+Bc4 Kg8 21. Nb3 Nxb3+ 22. axb3 Kh7 23. h4 Rhc8 24. h5 gxh5 25. Bd3+ Kg8 26.
+Qxh6 Bf3 27. Qh7+ Kf8 28. Qh8+ Ke7 29. Qxg7 Bxd1 30. Bg6 Rf8 31. Rxd1 hxg4
+32. Qf6+ Ke8 33. Qxe6+ Qe7 34. Qc6+ 1-0
