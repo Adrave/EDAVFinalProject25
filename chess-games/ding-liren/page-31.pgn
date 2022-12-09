@@ -1,6 +1,5 @@
 [Event "8th Asian Continental Open"]
 [Site "Subic Bay PHI"]
-[Date "2009.05.17"]
 [Round "5"]
 [White "Ding Liren"]
 [Black "Hassan, Ab"]
@@ -9,7 +8,6 @@
 [WhiteElo "2458"]
 [BlackElo "2322"]
 [PlyCount "67"]
-[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Bf4 Ne4 8. Qc2
 Nxc3 9. Ng5 Ne4 10. Bxe4 Bxg5 11. Bxb7 Bxf4 12. Bxa8 Bd6 13. Bf3 f5 14. c5 Be7
@@ -21,7 +19,6 @@ Rxd5 1-0
 
 [Event "8th Asian Continental Open"]
 [Site "Subic Bay PHI"]
-[Date "2009.05.19"]
 [Round "7"]
 [White "Ding Liren"]
 [Black "Hossain, Enam"]
@@ -30,7 +27,6 @@ Rxd5 1-0
 [WhiteElo "2458"]
 [BlackElo "2531"]
 [PlyCount "85"]
-[EventDate "2009.05.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
 g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 f6 12. O-O Nc5 13. Ne3 Bg6 14. b4 Ne6
@@ -43,7 +39,6 @@ Bxg4 40. Kxg4 Nf3 41. Rd7+ Kc6 42. Rxd2 Nxd2 43. Nf6 1-0
 
 [Event "8th Asian Continental Open"]
 [Site "Subic Bay PHI"]
-[Date "2009.05.23"]
 [Round "11"]
 [White "Ding Liren"]
 [Black "Gupta, Ab"]
@@ -52,7 +47,6 @@ Bxg4 40. Kxg4 Nf3 41. Rd7+ Kc6 42. Rxd2 Nxd2 43. Nf6 1-0
 [WhiteElo "2458"]
 [BlackElo "2570"]
 [PlyCount "100"]
-[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. c3 O-O 5. Nbd2 d6 6. e3 Nbd7 7. h3 c5 8. Be2
 b6 9. O-O Bb7 10. a4 a6 11. Bh2 Qc7 12. Re1 Ne4 13. Nxe4 Bxe4 14. Nd2 Bb7 15.
@@ -66,7 +60,6 @@ Rc8 41. Be2 Qe3 42. Qe5 Qxg5+ 43. Bg3 h5 44. Kf2 Kh7 45. Bxa6 Rc2+ 46. Be2 Qg4
 
 [Event "zt 3.5 Men"]
 [Site "Beijing CHN"]
-[Date "2009.04.18"]
 [Round "2"]
 [White "Ding Liren"]
 [Black "Xu Jun"]
@@ -75,7 +68,6 @@ Rc8 41. Be2 Qe3 42. Qe5 Qxg5+ 43. Bg3 h5 44. Kf2 Kh7 45. Bxa6 Rc2+ 46. Be2 Qg4
 [WhiteElo "2458"]
 [BlackElo "2498"]
 [PlyCount "123"]
-[EventDate "2009.04.17"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Nh5 8. e3 e6
 9. Nd2 Nxg3 10. hxg3 Nd7 11. Be2 Qe7 12. Qc2 Nf6 13. O-O-O Bd7 14. Kb1 O-O-O
@@ -91,7 +83,6 @@ c3 54. Kxh5 c2 55. Nb3 Kb7 56. Kxg4 Be3 57. Kf5 Kb6 58. a4 c1=Q 59. Nxc1 Ka5
 
 [Event "zt 3.5 Men"]
 [Site "Beijing CHN"]
-[Date "2009.04.21"]
 [Round "5"]
 [White "Ding Liren"]
 [Black "Gao Rui"]
@@ -100,7 +91,6 @@ c3 54. Kxh5 c2 55. Nb3 Kb7 56. Kxg4 Be3 57. Kf5 Kb6 58. a4 c1=Q 59. Nxc1 Ka5
 [WhiteElo "2458"]
 [BlackElo "2500"]
 [PlyCount "138"]
-[EventDate "2009.04.17"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bf4 a6 8. a4
 Bg7 9. h3 O-O 10. e3 Qe7 11. Be2 Nbd7 12. O-O Rb8 13. Re1 Ne8 14. e4 Nc7 15.
@@ -117,7 +107,6 @@ Kf3 66. Nf4 Kg4 67. Nxg6 Re2+ 68. Kg1 Kxg3 69. Kf1 Re6 0-1
 
 [Event "ch-CHN"]
 [Site "Xinghua Jiangsu CHN"]
-[Date "2009.05.28"]
 [Round "3"]
 [White "Ding Liren"]
 [Black "Li Shilong"]
@@ -126,7 +115,6 @@ Kf3 66. Nf4 Kg4 67. Nxg6 Re2+ 68. Kg1 Kxg3 69. Kf1 Re6 0-1
 [WhiteElo "2458"]
 [BlackElo "2557"]
 [PlyCount "77"]
-[EventDate "2009.05.26"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 e5 7. O-O Na6 8. Re1
 c6 9. Be3 exd4 10. Nxd4 Re8 11. f3 Nc5 12. Qd2 a5 13. Rad1 Nfd7 14. Bf1 a4 15.
@@ -138,7 +126,6 @@ fxe6 34. Ra1 c5 35. Rf2 Rc8 36. Bf4 Rd8 37. Be5 Nd1 38. Bxb2 axb2 39. Rxd1 1-0
 
 [Event "ch-CHN"]
 [Site "Xinghua Jiangsu CHN"]
-[Date "2009.06.01"]
 [Round "6"]
 [White "Ding Liren"]
 [Black "Ni Hua"]
@@ -147,7 +134,6 @@ fxe6 34. Ra1 c5 35. Rf2 Rc8 36. Bf4 Rd8 37. Be5 Nd1 38. Bxb2 axb2 39. Rxd1 1-0
 [WhiteElo "2458"]
 [BlackElo "2724"]
 [PlyCount "69"]
-[EventDate "2009.05.26"]
 
 1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
 Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Rb3 Qd6 13. Qd2 e6 14. f4 Bg7
@@ -159,7 +145,6 @@ h7+ Bxh7 35. Rh4 1-0
 
 [Event "ch-CHN"]
 [Site "Xinghua Jiangsu CHN"]
-[Date "2009.06.05"]
 [Round "10"]
 [White "Ding Liren"]
 [Black "Wang Hao"]
@@ -168,7 +153,6 @@ h7+ Bxh7 35. Rh4 1-0
 [WhiteElo "2458"]
 [BlackElo "2696"]
 [PlyCount "97"]
-[EventDate "2009.05.26"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c6 5. e3 a6 6. c5 Nbd7 7. b4 g6 8. Bd3 Bg7
 9. O-O O-O 10. Na4 Re8 11. Bb2 e5 12. dxe5 Ng4 13. e6 fxe6 14. Bxg7 Kxg7 15. e4
@@ -182,7 +166,6 @@ g5 47. hxg5 hxg5 48. a4 g4 49. Ra8 1-0
 
 [Event "RUS-CHN Match Standard"]
 [Site "Sochi RUS"]
-[Date "2009.08.17"]
 [Round "3"]
 [White "Ding Liren"]
 [Black "Vitiugov, N."]
@@ -191,7 +174,6 @@ g5 47. hxg5 hxg5 48. a4 g4 49. Ra8 1-0
 [WhiteElo "2530"]
 [BlackElo "2681"]
 [PlyCount "81"]
-[EventDate "2009.08.15"]
 [EventRounds "5"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -208,7 +190,6 @@ Kb8 41. Nxf6 1-0
 
 [Event "RUS-CHN Match Standard"]
 [Site "Sochi RUS"]
-[Date "2009.08.19"]
 [Round "5"]
 [White "Ding Liren"]
 [Black "Malakhov, V."]
@@ -217,7 +198,6 @@ Kb8 41. Nxf6 1-0
 [WhiteElo "2530"]
 [BlackElo "2707"]
 [PlyCount "74"]
-[EventDate "2009.08.15"]
 [EventRounds "5"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -233,7 +213,6 @@ Rxe3 35. Rxe3 Bxd4 36. Nxd4 Rxd4 37. Qb8+ Qd8 0-1
 
 [Event "RUS-CHN Match Rapid"]
 [Site "Sochi RUS"]
-[Date "2009.08.22"]
 [Round "10"]
 [White "Ding Liren"]
 [Black "Malakhov, V."]
@@ -242,7 +221,6 @@ Rxe3 35. Rxe3 Bxd4 36. Nxd4 Rxd4 37. Qb8+ Qd8 0-1
 [WhiteElo "2530"]
 [BlackElo "2707"]
 [PlyCount "105"]
-[EventDate "2009.08.21"]
 [EventType "rapid"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -262,7 +240,6 @@ Rc4 53. c7 1-0
 
 [Event "RUS-CHN Match Blitz"]
 [Site "Sochi RUS"]
-[Date "2009.08.23"]
 [Round "1"]
 [White "Ding Liren"]
 [Black "Tomashevsky, E."]
@@ -271,7 +248,6 @@ Rc4 53. c7 1-0
 [WhiteElo "2530"]
 [BlackElo "2689"]
 [PlyCount "141"]
-[EventDate "2009.08.23"]
 [EventType "blitz"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -293,7 +269,6 @@ Kb2 Rb3+ 66. Kc2 Ra3 67. Rf6 Ke5 68. Rb6 Kd4 69. g6 Ra2+ 70. Kb1 Rg2 71. a7 1-0
 
 [Event "RUS-CHN Match Blitz"]
 [Site "Sochi RUS"]
-[Date "2009.08.23"]
 [Round "5"]
 [White "Ding Liren"]
 [Black "Malakhov, V."]
@@ -302,7 +277,6 @@ Kb2 Rb3+ 66. Kc2 Ra3 67. Rf6 Ke5 68. Rb6 Kd4 69. g6 Ra2+ 70. Kb1 Rg2 71. a7 1-0
 [WhiteElo "2530"]
 [BlackElo "2707"]
 [PlyCount "55"]
-[EventDate "2009.08.23"]
 [EventType "blitz"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -318,7 +292,6 @@ Kd6 28. Qxf7 1-0
 
 [Event "Maotai Prince Cup Kings"]
 [Site "JinZhou CHN"]
-[Date "2009.09.19"]
 [Round "3"]
 [White "Ding Liren"]
 [Black "Bu Xiangzhi"]
@@ -327,7 +300,6 @@ Kd6 28. Qxf7 1-0
 [WhiteElo "2530"]
 [BlackElo "2702"]
 [PlyCount "265"]
-[EventDate "2009.09.17"]
 [EventRounds "7"]
 [EventCountry "CHN"]
 [EventCategory "16"]
@@ -360,7 +332,6 @@ Rh1 1-0
 
 [Event "Maotai Prince Cup Kings"]
 [Site "JinZhou CHN"]
-[Date "2009.09.24"]
 [Round "7"]
 [White "Ding Liren"]
 [Black "Li Chao2"]
@@ -369,7 +340,6 @@ Rh1 1-0
 [WhiteElo "2530"]
 [BlackElo "2617"]
 [PlyCount "107"]
-[EventDate "2009.09.17"]
 [EventRounds "7"]
 [EventCountry "CHN"]
 [EventCategory "16"]
@@ -389,7 +359,6 @@ Nd5 53. Rxb5 c3 54. Ke2 1-0
 
 [Event "4th All China Games Rapid"]
 [Site "Hefei CHN"]
-[Date "2010.05.18"]
 [Round "4"]
 [White "Ding Liren"]
 [Black "Zhang Pengxiang"]
@@ -398,7 +367,6 @@ Nd5 53. Rxb5 c3 54. Ke2 1-0
 [WhiteElo "2547"]
 [BlackElo "2603"]
 [PlyCount "45"]
-[EventDate "2010.05.17"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "CHN"]
@@ -413,7 +381,6 @@ Rf8 22. Bc2 Re8 23. Ba4 1/2-1/2
 
 [Event "ch-CHN"]
 [Site "Xinghua CHN"]
-[Date "2010.05.31"]
 [Round "7"]
 [White "Ding Liren"]
 [Black "Zhang Ziyang"]
@@ -422,7 +389,6 @@ Rf8 22. Bc2 Re8 23. Ba4 1/2-1/2
 [WhiteElo "2547"]
 [BlackElo "2422"]
 [PlyCount "70"]
-[EventDate "2010.05.24"]
 [EventRounds "11"]
 [EventCountry "CHN"]
 [EventCategory "13"]
@@ -439,7 +405,6 @@ Rxd4 28. Qxd4 Bb7 29. Nd1 Qh4 30. Nf2 Qe7 31. Ne4 Qh4 32. Qf2 Qd8 33. Nd6 Bd5
 
 [Event "ch-CHN"]
 [Site "Xinghua CHN"]
-[Date "2010.06.04"]
 [Round "11"]
 [White "Ding Liren"]
 [Black "Zhou Weiqi"]
@@ -448,7 +413,6 @@ Rxd4 28. Qxd4 Bb7 29. Nd1 Qh4 30. Nf2 Qe7 31. Ne4 Qh4 32. Qf2 Qd8 33. Nd6 Bd5
 [WhiteElo "2547"]
 [BlackElo "2585"]
 [PlyCount "94"]
-[EventDate "2010.05.24"]
 [EventRounds "11"]
 [EventCountry "CHN"]
 [EventCategory "13"]
@@ -467,7 +431,6 @@ Rd7 1/2-1/2
 
 [Event "TCh-CHN"]
 [Site "Shenzhan CHN"]
-[Date "2010.06.07"]
 [Round "4"]
 [White "Ding Liren"]
 [Black "Yu Ruiyuan"]
@@ -476,7 +439,6 @@ Rd7 1/2-1/2
 [WhiteElo "2565"]
 [BlackElo "2309"]
 [PlyCount "138"]
-[EventDate "2010.05.23"]
 [EventRounds "18"]
 [EventCountry "CHN"]
 [Source "Mark Crowther"]
@@ -497,7 +459,6 @@ Nf4+ 66. Kf5 Nd3 67. Ke4 Nc5+ 68. Kd5 Nd7 69. Nxd7 Kh7 1/2-1/2
 
 [Event "1st GM"]
 [Site "Danzhou CHN"]
-[Date "2010.06.14"]
 [Round "4"]
 [White "Ding Liren"]
 [Black "Yu Yangyi"]
@@ -506,7 +467,6 @@ Nf4+ 66. Kf5 Nd3 67. Ke4 Nc5+ 68. Kd5 Nd7 69. Nxd7 Kh7 1/2-1/2
 [WhiteElo "2547"]
 [BlackElo "2585"]
 [PlyCount "73"]
-[EventDate "2010.06.11"]
 [EventRounds "9"]
 [EventCountry "CHN"]
 [EventCategory "15"]
@@ -523,7 +483,6 @@ Rab8 21. Kb2 Kf8 22. Rd3 a5 23. Na3 Ba6 24. Rd7 Bb7 25. Nb5 Bc6 26. Rxa7 Bxb5
 
 [Event "1st GM"]
 [Site "Danzhou CHN"]
-[Date "2010.06.17"]
 [Round "6"]
 [White "Ding Liren"]
 [Black "Hou Yifan"]
@@ -532,7 +491,6 @@ Rab8 21. Kb2 Kf8 22. Rd3 a5 23. Na3 Ba6 24. Rd7 Bb7 25. Nb5 Bc6 26. Rxa7 Bxb5
 [WhiteElo "2547"]
 [BlackElo "2589"]
 [PlyCount "67"]
-[EventDate "2010.06.11"]
 [EventRounds "9"]
 [EventCountry "CHN"]
 [EventCategory "15"]
@@ -549,7 +507,6 @@ Qxc8 28. Rxc8+ Rd8 29. Rc4 Kf8 30. Ke2 Ke7 31. Ke3 f5 32. f3 fxe4 33. fxe4 Kd7
 
 [Event "1st GM"]
 [Site "Danzhou CHN"]
-[Date "2010.06.19"]
 [Round "8"]
 [White "Ding Liren"]
 [Black "Li Chao2"]
@@ -558,7 +515,6 @@ Qxc8 28. Rxc8+ Rd8 29. Rc4 Kf8 30. Ke2 Ke7 31. Ke3 f5 32. f3 fxe4 33. fxe4 Kd7
 [WhiteElo "2547"]
 [BlackElo "2619"]
 [PlyCount "108"]
-[EventDate "2010.06.11"]
 [EventRounds "9"]
 [EventCountry "CHN"]
 [EventCategory "15"]
@@ -578,7 +534,6 @@ Qg4+ 53. Kf1 Qd1+ 54. Kg2 Ke5 1/2-1/2
 
 [Event "TCh-CHN"]
 [Site "Ningbo City CHN"]
-[Date "2010.04.17"]
 [Round "2"]
 [White "Ding Liren"]
 [Black "Wen Yang"]
@@ -587,7 +542,6 @@ Qg4+ 53. Kf1 Qd1+ 54. Kg2 Ke5 1/2-1/2
 [WhiteElo "2565"]
 [BlackElo "2520"]
 [PlyCount "86"]
-[EventDate "2010.05.23"]
 [EventRounds "18"]
 [EventCountry "CHN"]
 [Source "Mark Crowther"]
@@ -604,7 +558,6 @@ Rxg7 41. hxg7 Nf6 42. Rf4 Nd7 43. Qe3 Nxe5 1/2-1/2
 
 [Event "TCh-CHN"]
 [Site "Guangzhou CHN"]
-[Date "2010.10.14"]
 [Round "14"]
 [White "Ding Liren"]
 [Black "Li Haoyu"]
@@ -613,7 +566,6 @@ Rxg7 41. hxg7 Nf6 42. Rf4 Nd7 43. Qe3 Nxe5 1/2-1/2
 [WhiteElo "2565"]
 [BlackElo "2369"]
 [PlyCount "112"]
-[EventDate "2010.05.23"]
 [EventRounds "18"]
 [EventCountry "CHN"]
 [Source "Mark Crowther"]
@@ -632,7 +584,6 @@ Qe5 Qc6 54. Qe2+ Qc4 55. Qe5 Qc6 56. Qe2+ Qc4 1/2-1/2
 
 [Event "TCh-CHN"]
 [Site "Guangzhou CHN"]
-[Date "2010.10.15"]
 [Round "15"]
 [White "Ding Liren"]
 [Black "Zhou Jianchao"]
@@ -641,7 +592,6 @@ Qe5 Qc6 54. Qe2+ Qc4 55. Qe5 Qc6 56. Qe2+ Qc4 1/2-1/2
 [WhiteElo "2565"]
 [BlackElo "2650"]
 [PlyCount "107"]
-[EventDate "2010.05.23"]
 [EventRounds "18"]
 [EventCountry "CHN"]
 [Source "Mark Crowther"]

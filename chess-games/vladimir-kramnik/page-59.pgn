@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Alcobendas (Spain)"]
-[Date "1993.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -25,7 +24,6 @@ Kh4 48.Bd7 1-0
 
 [Event "Match"]
 [Site "Alcobendas (Spain)"]
-[Date "1993.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -48,7 +46,6 @@ Qc2 37.Nh4 1-0
 
 [Event "Memorial M.Euwe"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1993.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -70,7 +67,6 @@ Kg7 31.Rf1 Ne6 32.Qb2 Qh5 33.Bf3 Qg5 34.Nh3 1-0
 
 [Event "Memorial M.Euwe"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -95,7 +91,6 @@ Kxh4 47.Be8 Kg5 48.Rb6 Bc7 49.Rxg6+ Kf4 50.b5 Kxe4 51.b6 1-0
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1993.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -118,7 +113,6 @@ Kf8 36.Kf4 Rb7 37.Ke5 Rb3 38.Kd6 c3 39.bxc3 Rxc3 40.Rb2 1-0
 
 [Event "Olympiad"]
 [Site "Moscow (Russia)"]
-[Date "1994.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -138,7 +132,6 @@ Kxf7 19.Qxh6 Rg8 20.f4 Nd7 21.f5 Rh8 22.fxg6+ Kg8 23.Qf4 Qxf4 1/2-1/2
 
 [Event "Ch World (PCA) (match) (cand.) (1/4)"]
 [Site "New York (USA)"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -161,7 +154,6 @@ Bxe4 26.a5 Qc7 27.Rxe4 Rxe4 28.Bxe4 Re8 29.Bg2 b6 30.axb6 Qxb6
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "New York (USA)"]
-[Date "1994.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -181,7 +173,6 @@ Bxe3 19.Nxe3 Rab8 20.Bf3 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1994.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -209,7 +200,6 @@ Kf8 58.Bc2 Rf2 59.Rc6 Ke7 60.Re6+ Kd7 61.Bd3 Rxa2 62.Bb5+ Kc8
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1994.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -230,7 +220,6 @@ Nxd4 19.Be4 Rd8 20.Qb1 Ne2+ 21.Kh1 Qc4 22.Bxg6 Nc3 23.Bxf7+ Qxf7
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -251,7 +240,6 @@ b4 25.Na4 Rg5 26.g3 Rh5 27.h4 Bf3 28.Rd4 Bd5 29.Re1 Bf7 30.f4 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1994.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -275,7 +263,6 @@ a3 42.g4 Kg7 43.Kg3 Kg6 44.h3 Kg7 45.Kh4 Kg6 46.Ra8 Kh7 1/2-1/2
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -298,7 +285,6 @@ Rxa3 36.h5 Ne6 37.Rd6 1/2-1/2
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -324,7 +310,6 @@ Nb6 53.Be4 Nd7 54.Kd2 Nf6 55.Ba8 Ne8 1/2-1/2
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Vyzmanavin Alexey (RUS)"]
@@ -350,7 +335,6 @@ bxc3+ 55.Kc2 Bg6+ 56.Kxc3 Rxc1+ 57.Kd2 Rh1 58.Rxd5 Rxh4 59.Ke3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sanghi Nagar (India)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -369,7 +353,6 @@ bxc3+ 55.Kc2 Bg6+ 56.Kxc3 Rxc1+ 57.Kd2 Rh1 58.Rxd5 Rxh4 59.Ke3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sanghi Nagar (India)"]
-[Date "1994.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -394,7 +377,6 @@ Nb5 47.Bxh5 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sanghi Nagar (India)"]
-[Date "1994.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -414,7 +396,6 @@ Qxb5 20.Nac3 Qd3 21.Nd5 Rb8 22.b4 Nxb4 23.Nxe7+ 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/8)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Yudasin Leonid (ISR)"]
@@ -433,7 +414,6 @@ Qxb5 20.Nac3 Qd3 21.Nd5 Rb8 22.b4 Nxb4 23.Nxe7+ 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/8)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Yudasin Leonid (ISR)"]
@@ -454,7 +434,6 @@ Rd8 24.a4 Ke7 25.Nc4 1/2-1/2
 
 [Event "PCA/Intel-GP"]
 [Site "Moscow RUS"]
-[Date "1994.??.??"]
 [Round "3"]
 [White "Kramnik, Vladimir"]
 [Black "Vyzmanavin, Alexey"]
@@ -475,7 +454,6 @@ Nxc5 Rbd8 33. Nd7 Ra8 34. Rfa1 Rxa7 35. Rxa7 Kf7 36. Kf2 Ke6 37. Ke2 Rc8
 
 [Event "Novgorod"]
 [Site "Novgorod RUS"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Kramnik, Vladimir"]
 [Black "Shirov, Alexei"]
@@ -493,7 +471,6 @@ Bxc5 Bxc5 21. Nxe6 Rfc8 22. h3 Rab8 23. Nxc5 Rxc5 24. Re6 b4 25. Na4 Rg5
 
 [Event "PCA/Intel-GP"]
 [Site "Moscow RUS"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Kramnik, Vladimir"]
 [Black "Anand, Viswanathan"]
@@ -509,7 +486,6 @@ Bxf6 Bxf6 15. Nd5 Qxd2 16. Nxf6+ exf6 17. Rxd2 1/2-1/2
 
 [Event "Novgorod"]
 [Site "Novgorod RUS"]
-[Date "1994.08.??"]
 [Round "1"]
 [White "Kramnik, Vladimir"]
 [Black "Short, Nigel D"]
@@ -517,7 +493,6 @@ Bxf6 Bxf6 15. Nd5 Qxd2 16. Nxf6+ exf6 17. Rxd2 1/2-1/2
 [WhiteElo "2725"]
 [BlackElo "2655"]
 [ECO "D17"]
-[EventDate "1994.??.??"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. Nc3 c6 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
 8. Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. e3 h6 13. Qe2 Bh7 14. Rd1 
@@ -531,7 +506,6 @@ Rxa4 38. Rd5 Rd7 39. Kg2 Ra2+ 40. Kh3 a4 41. Ra5 a3 42. g4 Kg7 43. Kg3 Kg6
 
 [Event "PCA/Intel-GP"]
 [Site "London ENG"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Kramnik, Vladimir"]
 [Black "Adianto, Utut"]

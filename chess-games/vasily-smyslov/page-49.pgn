@@ -1,6 +1,5 @@
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tolush Alexander (RUS)"]
@@ -23,7 +22,6 @@ Kxf6 31.Nd5+ Ke6 32.Nxb4 Bb5 33.Bb7 Bd7 34.Nd5 Bc8 35.Bc6 Rg8
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "18"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -48,7 +46,6 @@ Rc4 48.Rc7 Be6 49.Rh7+ Kg8 50.Ne7+ 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Moisieev Oleg L (RUS)"]
@@ -72,7 +69,6 @@ Rxd4 42.Ra4 Rd2 43.Rf4 Rb2 44.Raxf7+ 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Panov Vasily N (RUS)"]
@@ -98,7 +94,6 @@ Kh6 47.b5 Rc2 48.Rb7 Rd2+ 49.Kc3 Rg2 50.Rf8 Rxg3+ 51.Kd2 Rg2+
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -122,7 +117,6 @@ exd5 43.Kg2 Rb6 44.Kf3 d4 45.exd4 Rc6 46.Rc5 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Byvshev Vasily Mikhailovich (RUS)"]
@@ -146,7 +140,6 @@ Ra6 43.Rb7 Nc6 44.Nxf7 Na5 45.Rc7 Rxf7 46.e6 Rxd7 47.Rc8+ 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Estrin Yakov B (RUS)"]
@@ -166,7 +159,6 @@ Kf6 20.Nxb5 Kxf5 21.Ke2 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -190,7 +182,6 @@ Rd8 36.Bc2 Nc3 37.Rxe5 Ke7 38.Bb3 Rd2 39.Rc5 Ne2+ 40.Kf1 Nd4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -213,7 +204,6 @@ Ke7 36.Ke3 Rd1 37.Ra8 Kf6 38.Nd3 Nc6 39.Rxa6 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bronstein David I (RUS)"]
@@ -236,7 +226,6 @@ exd6 36.Ne4 Ra3 37.Nxd6 Rxh3 38.Be5 Ra8 39.Nc4+ 1-0
 
 [Event "Memorial G.Maroczy"]
 [Site "Budapest (Hungary)"]
-[Date "1952.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -255,7 +244,6 @@ Qxe2+ 8.Nxe2 Bxc5 9.Nb3 Bb6 10.Bd2 Bd7 11.Bc3 f6 12.O-O Nge7
 
 [Event "Memorial G.Maroczy"]
 [Site "Budapest (Hungary)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kottnauer Cenek (ENG)"]
@@ -282,7 +270,6 @@ Ra1+ 48.Kf2 Rf1+ 49.Ke2 Rc1 50.Rb6 Rc2+ 51.Ke1 Rxh2 52.Bd7 Rg2
 
 [Event "Memorial G.Maroczy"]
 [Site "Budapest (Hungary)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Szily Jozsef (HUN)"]
@@ -305,7 +292,6 @@ Kc8 37.Kd4 Kb7 38.Nb4 Kb6 39.Bd3 Bf3 40.Bc2 Bg2 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Helsinki (Finland)"]
-[Date "1952.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bolbochan Julio (ARG)"]
@@ -325,7 +311,6 @@ Nxd5 20.Bd2 Qc7 21.Nf5 Nf6 22.Re2 Nc6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Helsinki (Finland)"]
-[Date "1952.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -348,7 +333,6 @@ Ne8 36.f4 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Goldenov Boris"]
@@ -374,7 +358,6 @@ Ra1 49.Kc4 h4 50.gxh4+ Kxh4 51.Rg7 Kh5 52.Kb5 Kh6 53.Rc7 Kg5
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ilivitzki Georgi A (RUS)"]
@@ -396,7 +379,6 @@ Qg7 30.Qe6+ Qf7 31.Qxf7+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -419,7 +401,6 @@ Rxc4 36.Rxa7 Rc2 37.a4 c4 38.a5 c3 39.Ra8+ Kg7 40.Rc8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -445,7 +426,6 @@ Rxc6 54.Rxa5 gxf5 55.gxf5 Ke7 56.Ra7+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Konstantinopolski Alexander (RUS)"]
@@ -468,7 +448,6 @@ Bxd2 37.Qxd2 Qd5 38.Qa5 Rd7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -493,7 +472,6 @@ Rxg2+ 47.Kf3 Rf2+ 48.Kg4 Ke7 49.Rh7+ Kd6 50.Rh8 e2 51.Re8 Kc6 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Moisieev Oleg L (RUS)"]
@@ -515,7 +493,6 @@ Rxb7 30.Rd7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -542,7 +519,6 @@ Kg3 59.Rg1+ Kh4 60.Kf2 h2 61.Rh1 Kh3 62.Bc7 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -568,7 +544,6 @@ Nb5 54.f7 Rf8 55.Rg3 Rxa3 56.Rg8 Raa8 57.Bc4 Nc7 58.Re7 Nd5 59.Re6+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Taimanov Mark E (RUS)"]

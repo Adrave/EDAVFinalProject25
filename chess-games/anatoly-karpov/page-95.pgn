@@ -1,13 +1,11 @@
 [Event "Amsterdam Optiebeurs"]
 [Site "Amsterdam NED"]
-[Date "1988.05.15"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D76"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Amsterdam Optiebeurs"]
 [Site "Amsterdam NED"]
-[Date "1988.05.17"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Jan Timman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Amsterdam Optiebeurs"]
 [Site "Amsterdam NED"]
-[Date "1988.05.24"]
 [Round "9"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D87"]
-[EventDate "????.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -68,14 +62,12 @@
 
 [Event "Amsterdam Optiebeurs"]
 [Site "Amsterdam NED"]
-[Date "1988.05.26"]
 [Round "10"]
 [White "Anatoly Karpov"]
 [Black "Jan Timman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D20"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -91,14 +83,12 @@
 
 [Event "Simul"]
 [Site "Melbourne AUS"]
-[Date "1988.10.29"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Patricia Collins"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B53"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -113,14 +103,12 @@
 
 [Event "Chess Olympiad"]
 [Site "Thessaloniki GRE"]
-[Date "1988.11.21"]
 [Round "8"]
 [White "Anatoly Karpov"]
 [Black "Predrag Nikolic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -137,14 +125,12 @@
 
 [Event "Interpolis 12th"]
 [Site "Tilburg NED"]
-[Date "1988.09.15"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Nigel Short"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E06"]
-[EventDate "????.??.??"]
 [PlyCount "124"]
 [WhiteElo "?"]
 
@@ -163,14 +149,12 @@
 
 [Event "Chess Olympiad"]
 [Site "Thessaloniki GRE"]
-[Date "1988.11.23"]
 [Round "10"]
 [White "Anatoly Karpov"]
 [Black "Zoltan Ribli"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -186,14 +170,12 @@
 
 [Event "Chess Olympiad"]
 [Site "Thessaloniki GRE"]
-[Date "1988.11.25"]
 [Round "11"]
 [White "Anatoly Karpov"]
 [Black "John van der Wiel"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E54"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -207,14 +189,12 @@
 
 [Event "Mazatlan rapid"]
 [Site "Mazatlan MEX"]
-[Date "1988.12.??"]
 [Round "2"]
 [White "Anatoly Karpov"]
 [Black "Roman Dzindzichashvili"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E62"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -229,14 +209,12 @@
 
 [Event "Mazatlan rapid"]
 [Site "Mazatlan MEX"]
-[Date "1988.12.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Lev Alburt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -251,14 +229,12 @@
 
 [Event "Bugojno"]
 [Site "Bugojno BIH"]
-[Date "1986.06.??"]
 [Round "11"]
 [White "Anatoly Karpov"]
 [Black "Andrei Sokolov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A34"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -270,14 +246,12 @@
 
 [Event "SWIFT Tournament 1st"]
 [Site "Brussels BEL"]
-[Date "1986.03.26"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "John van der Wiel"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "????.??.??"]
 [PlyCount "127"]
 [WhiteElo "?"]
 
@@ -297,14 +271,12 @@
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.08.01"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -319,14 +291,12 @@
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.08.13"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -342,14 +312,12 @@
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.10.06"]
 [Round "23"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -364,14 +332,12 @@
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.10.01"]
 [Round "21"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -388,14 +354,12 @@
 
 [Event "Vienna op"]
 [Site "Vienna AUT"]
-[Date "1986.11.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Lubomir Ftacnik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -408,14 +372,12 @@
 
 [Event "Chess Olympiad"]
 [Site "Dubai UAE"]
-[Date "1986.11.27"]
 [Round "11"]
 [White "Anatoly Karpov"]
 [Black "Kiril Dimitrov Georgiev"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B77"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -433,14 +395,12 @@
 
 [Event "Simul"]
 [Site "Amsterdam NED"]
-[Date "1987.05.01"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Eveline Eijkmans"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A81"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -453,14 +413,12 @@
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "Seville ESP"]
-[Date "1987.12.02"]
 [Round "19"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "????.??.??"]
 [PlyCount "124"]
 [WhiteElo "?"]
 
@@ -479,14 +437,12 @@
 
 [Event "?"]
 [Site "?"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Yasser Seirawan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -503,14 +459,12 @@
 
 [Event "Hannover"]
 [Site "Hannover"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Mephisto (Computer)"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -523,14 +477,12 @@
 
 [Event "FRG-ch International"]
 [Site "Hannover FRG"]
-[Date "1983.08.??"]
 [Round "12"]
 [White "Anatoly Karpov"]
 [Black "Peter Ostermeyer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B92"]
-[EventDate "????.??.??"]
 [PlyCount "159"]
 [WhiteElo "?"]
 
@@ -552,14 +504,12 @@
 
 [Event "FRG-ch International"]
 [Site "Hannover FRG"]
-[Date "1983.08.??"]
 [Round "9"]
 [White "Anatoly Karpov"]
 [Black "Miguel A Quinteros"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B83"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 

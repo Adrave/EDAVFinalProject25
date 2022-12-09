@@ -1,6 +1,5 @@
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.16"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Smeets, J."]
@@ -9,7 +8,6 @@
 [WhiteElo "2686"]
 [BlackElo "2662"]
 [PlyCount "76"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -23,7 +21,6 @@ Qb8 Qc6 35. f3 Nxc4 36. Rxb4 Nb6 37. Rxd4+ Nd5 38. Qe5 Qc7 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.18"]
 [Round "4"]
 [White "Giri, A."]
 [Black "Nakamura, Hi"]
@@ -32,7 +29,6 @@ Qb8 Qc6 35. f3 Nxc4 36. Rxb4 Nb6 37. Rxd4+ Nd5 38. Qe5 Qc7 1/2-1/2
 [WhiteElo "2686"]
 [BlackElo "2751"]
 [PlyCount "138"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -51,7 +47,6 @@ Re7 66. Rg5 Rf7 67. Kh6+ Kf8 68. f5 Rf6+ 69. Kh5 Kf7 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.21"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Nepomniachtchi, I."]
@@ -60,7 +55,6 @@ Re7 66. Rg5 Rf7 67. Kh6+ Kf8 68. f5 Rf6+ 69. Kh5 Kf7 1/2-1/2
 [WhiteElo "2686"]
 [BlackElo "2733"]
 [PlyCount "76"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -74,7 +68,6 @@ Nxf3 34. Qxd5 Rxd5 35. Bxf3 Bxf2 36. Bxd5 Qg1+ 37. Ke2 Qe1+ 38. Kf3 Qf1 0-1
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.26"]
 [Round "10"]
 [White "Giri, A."]
 [Black "Aronian, L."]
@@ -83,7 +76,6 @@ Nxf3 34. Qxd5 Rxd5 35. Bxf3 Bxf2 36. Bxd5 Qg1+ 37. Ke2 Qe1+ 38. Kf3 Qf1 0-1
 [WhiteElo "2686"]
 [BlackElo "2805"]
 [PlyCount "51"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -95,7 +87,6 @@ fxg3 15. hxg3 Kb8 16. O-O-O Bb4 17. Na2 Bc5 18. e3 a5 19. Kb1 Bb6 20. Nc3 Nc5
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.30"]
 [Round "13"]
 [White "Giri, A."]
 [Black "Ponomariov, R."]
@@ -104,7 +95,6 @@ fxg3 15. hxg3 Kb8 16. O-O-O Bb4 17. Na2 Bc5 18. e3 a5 19. Kb1 Bb6 20. Nc3 Nc5
 [WhiteElo "2686"]
 [BlackElo "2744"]
 [PlyCount "63"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -117,7 +107,6 @@ Rfe8 22. Nxc5 Qxc5 23. Rdc1 Rcd8 24. Be3 Qe7 25. h3 Ng6 26. Re1 Nxe4 27. h4 Nf6
 
 [Event "Schachbundesliga 2010-11"]
 [Site "Wattenscheid GER"]
-[Date "2011.02.06"]
 [Round "9"]
 [White "Giri, A."]
 [Black "Gashimov, V."]
@@ -126,7 +115,6 @@ Rfe8 22. Nxc5 Qxc5 23. Rdc1 Rcd8 24. Be3 Qe7 25. h3 Ng6 26. Re1 Nxe4 27. h4 Nf6
 [WhiteElo "2677"]
 [BlackElo "2719"]
 [PlyCount "60"]
-[EventDate "2010.10.08"]
 [EventRounds "15"]
 [EventCountry "GER"]
 [Source "Mark Crowther"]
@@ -143,7 +131,6 @@ Rd8 28. Qb4 Qf4 29. Nc2 Qxb4 30. Nxb4 Rd2 0-1
 
 [Event "20th Amber Blindfold"]
 [Site "Monaco MNC"]
-[Date "2011.03.13"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Ivanchuk, V."]
@@ -152,7 +139,6 @@ Rd8 28. Qb4 Qf4 29. Nc2 Qxb4 30. Nxb4 Rd2 0-1
 [WhiteElo "2690"]
 [BlackElo "2779"]
 [PlyCount "124"]
-[EventDate "2011.03.12"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "MNC"]
@@ -174,7 +160,6 @@ h4 53. Rd2 Rb1 54. Rc2 Ra1 55. Rb2 Rc1 56. Rb7 Rc2+ 57. Kg1 Rc1+ 58. Kf2 Rh1
 
 [Event "20th Amber Rapid"]
 [Site "Monaco MNC"]
-[Date "2011.03.12"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Aronian, L."]
@@ -183,7 +168,6 @@ h4 53. Rd2 Rb1 54. Rc2 Ra1 55. Rb2 Rc1 56. Rb7 Rc2+ 57. Kg1 Rc1+ 58. Kf2 Rh1
 [WhiteElo "2690"]
 [BlackElo "2808"]
 [PlyCount "80"]
-[EventDate "2011.03.12"]
 [EventRounds "11"]
 [EventCountry "MNC"]
 [EventCategory "21"]
@@ -201,7 +185,6 @@ Kd2 Qxh1 0-1
 
 [Event "20th Amber Blindfold"]
 [Site "Monaco MNC"]
-[Date "2011.03.19"]
 [Round "7"]
 [White "Giri, A."]
 [Black "Topalov, V."]
@@ -210,7 +193,6 @@ Kd2 Qxh1 0-1
 [WhiteElo "2690"]
 [BlackElo "2775"]
 [PlyCount "88"]
-[EventDate "2011.03.12"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "MNC"]
@@ -229,7 +211,6 @@ b3 a5 16. Bf2 c5 17. exf5 gxf5 18. Qd2 Nc6 19. Rae1 Ra7 20. Bd1 Re7 21. Kh1 Kh8
 
 [Event "20th Amber Rapid"]
 [Site "Monaco MNC"]
-[Date "2011.03.15"]
 [Round "4"]
 [White "Giri, A."]
 [Black "Carlsen, M."]
@@ -238,7 +219,6 @@ b3 a5 16. Bf2 c5 17. exf5 gxf5 18. Qd2 Nc6 19. Rae1 Ra7 20. Bd1 Re7 21. Kh1 Kh8
 [WhiteElo "2690"]
 [BlackElo "2815"]
 [PlyCount "140"]
-[EventDate "2011.03.12"]
 [EventRounds "11"]
 [EventCountry "MNC"]
 [EventCategory "21"]
@@ -260,7 +240,6 @@ Nc8 Nd3 66. Nd6 Nf4+ 67. Kh2 g4 68. Nf5 g3+ 69. Kh1 g2+ 70. Kh2 Kf2 0-1
 
 [Event "20th Amber Rapid"]
 [Site "Monaco MNC"]
-[Date "2011.03.18"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Kramnik, V."]
@@ -269,7 +248,6 @@ Nc8 Nd3 66. Nd6 Nf4+ 67. Kh2 g4 68. Nf5 g3+ 69. Kh1 g2+ 70. Kh2 Kf2 0-1
 [WhiteElo "2690"]
 [BlackElo "2785"]
 [PlyCount "134"]
-[EventDate "2011.03.12"]
 [EventRounds "11"]
 [EventCountry "MNC"]
 [EventCategory "21"]
@@ -291,7 +269,6 @@ Kd2 g4 60. Bd4 g3 61. Ke1 Bc4 62. e6 Bxe6 63. Bf6 Bc4 64. Kd2 Kf2 65. Bh4 f5
 
 [Event "20th Amber Blindfold"]
 [Site "Monaco MNC"]
-[Date "2011.03.24"]
 [Round "11"]
 [White "Giri, A."]
 [Black "Anand, V."]
@@ -300,7 +277,6 @@ Kd2 g4 60. Bd4 g3 61. Ke1 Bc4 62. e6 Bxe6 63. Bf6 Bc4 64. Kd2 Kf2 65. Bh4 f5
 [WhiteElo "2690"]
 [BlackElo "2817"]
 [PlyCount "54"]
-[EventDate "2011.03.12"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "MNC"]
@@ -317,7 +293,6 @@ Qa8+ 0-1
 
 [Event "TCh-NED Meesterklasse 2011-12"]
 [Site "Netherlands NED"]
-[Date "2011.09.17"]
 [Round "1.1"]
 [White "Giri, A."]
 [Black "De Jong, JW."]
@@ -326,7 +301,6 @@ Qa8+ 0-1
 [WhiteElo "2722"]
 [BlackElo "2424"]
 [PlyCount "69"]
-[EventDate "2010.04.19"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "NED"]
@@ -345,7 +319,6 @@ Rxe8 Rxe8 35. Nf6 1-0
 
 [Event "15th Unive Crown"]
 [Site "Hoogeveen NED"]
-[Date "2011.10.21"]
 [Round "5"]
 [White "Giri, A."]
 [Black "Polgar, Ju"]
@@ -354,7 +327,6 @@ Rxe8 Rxe8 35. Nf6 1-0
 [WhiteElo "2722"]
 [BlackElo "2701"]
 [PlyCount "93"]
-[EventDate "2011.10.16"]
 [EventType "tourn"]
 [EventRounds "6"]
 [EventCountry "NED"]
@@ -374,7 +346,6 @@ Rxe6 1-0
 
 [Event "18th European Teams"]
 [Site "Porto Carras GRE"]
-[Date "2011.11.09"]
 [Round "7.5"]
 [White "Giri, A."]
 [Black "Banikas, H."]
@@ -383,7 +354,6 @@ Rxe6 1-0
 [WhiteElo "2714"]
 [BlackElo "2620"]
 [PlyCount "67"]
-[EventDate "2011.11.03"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -404,7 +374,6 @@ Rg1 Rg8 34. Qh3# 1-0
 
 [Event "TCh-ESP CECLUB Div Honor 2011"]
 [Site "Melilla ESP"]
-[Date "2011.11.22"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Jobava, Ba"]
@@ -413,7 +382,6 @@ Rg1 Rg8 34. Qh3# 1-0
 [WhiteElo "2714"]
 [BlackElo "2678"]
 [PlyCount "102"]
-[EventDate "2011.11.21"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -434,7 +402,6 @@ Rxe4 Qg5 48. Rg4 Rxf3+ 49. Kxf3 Ng3+ 50. Kg2 Qd5+ 51. Re4 Nxe4 0-1
 
 [Event "TCh-ESP CECLUB Div Honor 2011"]
 [Site "Melilla ESP"]
-[Date "2011.11.23"]
 [Round "4"]
 [White "Giri, A."]
 [Black "Aleksandrov, A."]
@@ -443,7 +410,6 @@ Rxe4 Qg5 48. Rg4 Rxf3+ 49. Kxf3 Ng3+ 50. Kg2 Qd5+ 51. Re4 Nxe4 0-1
 [WhiteElo "2714"]
 [BlackElo "2626"]
 [PlyCount "111"]
-[EventDate "2011.11.21"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -465,7 +431,6 @@ Kc7 47. Nd5+ Kb7 48. Rxg6 exf3 49. Bd4 Nf8 50. Rb6+ Kc8 51. Kf2 Rd7 52. Rf6 Rd8
 
 [Event "TCh-ESP CECLUB Div Honor 2011"]
 [Site "Melilla ESP"]
-[Date "2011.11.26"]
 [Round "7"]
 [White "Giri, A."]
 [Black "Bacrot, E."]
@@ -474,7 +439,6 @@ Kc7 47. Nd5+ Kb7 48. Rxg6 exf3 49. Bd4 Nf8 50. Rb6+ Kc8 51. Kf2 Rd7 52. Rf6 Rd8
 [WhiteElo "2714"]
 [BlackElo "2714"]
 [PlyCount "169"]
-[EventDate "2011.11.21"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -500,7 +464,6 @@ Ke3 80. Kc4 Ke4 81. h5 Rc6+ 82. Kb5 Rc1 83. Kb6 Kd4 84. Kb7 Ke4 85. g4 1-0
 
 [Event "Sportaccord WMG Blindfold"]
 [Site "Beijing CHN"]
-[Date "2011.12.14"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Wang Hao"]
@@ -509,7 +472,6 @@ Ke3 80. Kc4 Ke4 81. h5 Rc6+ 82. Kb5 Rc1 83. Kb6 Kd4 84. Kb7 Ke4 85. g4 1-0
 [WhiteElo "2714"]
 [BlackElo "2736"]
 [PlyCount "69"]
-[EventDate "2011.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -526,7 +488,6 @@ Ba7 28. Nd6 Bb6 29. Rc8 Rf3 30. Rxf8+ Rxf8 31. Nc4 Qc7 32. Qe4 Ba7 33. Qxe6 b5
 
 [Event "Sportaccord WMG Blindfold"]
 [Site "Beijing CHN"]
-[Date "2011.12.16"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Kamsky, G."]
@@ -535,7 +496,6 @@ Ba7 28. Nd6 Bb6 29. Rc8 Rf3 30. Rxf8+ Rxf8 31. Nc4 Qc7 32. Qe4 Ba7 33. Qxe6 b5
 [WhiteElo "2714"]
 [BlackElo "2732"]
 [PlyCount "132"]
-[EventDate "2011.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -557,7 +517,6 @@ Rc7+ Re7 0-1
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "9"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -566,7 +525,6 @@ Rc7+ Re7 0-1
 [WhiteElo "2714"]
 [BlackElo "2733"]
 [PlyCount "78"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -585,7 +543,6 @@ Rc1 Nb5 35. Rcd1 Nc3 36. Rc1 Na4 37. Nxa4 Rxa4 38. Rb1 Bh6 39. b5 e5 1-0
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "12"]
 [White "Giri, A."]
 [Black "Ponomariov, R."]
@@ -594,7 +551,6 @@ Rc1 Nb5 35. Rcd1 Nc3 36. Rc1 Na4 37. Nxa4 Rxa4 38. Rb1 Bh6 39. b5 e5 1-0
 [WhiteElo "2714"]
 [BlackElo "2723"]
 [PlyCount "110"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -616,7 +572,6 @@ Kd2 Rd1+ 53. Ke3 Qd3+ 54. Kf4 Qxf5+ 55. Ke3 Rd3+ 0-1
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "14"]
 [White "Giri, A."]
 [Black "Wang Yue"]
@@ -625,7 +580,6 @@ Kd2 Rd1+ 53. Ke3 Qd3+ 54. Kf4 Qxf5+ 55. Ke3 Rd3+ 0-1
 [WhiteElo "2714"]
 [BlackElo "2697"]
 [PlyCount "110"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -647,7 +601,6 @@ Qb7 54. Qb2 Rbc8 55. Nc5 Rb8 1-0
 
 [Event "54th Reggio Emilia"]
 [Site "Reggio Emilia ITA"]
-[Date "2011.12.28"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Morozevich, A."]
@@ -656,7 +609,6 @@ Qb7 54. Qb2 Rbc8 55. Nc5 Rb8 1-0
 [WhiteElo "2714"]
 [BlackElo "2762"]
 [PlyCount "72"]
-[EventDate "2011.12.27"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "ITA"]
@@ -676,7 +628,6 @@ Qa4+ Kb6 34. Qb4+ Ka6 35. Qa4+ Na5 36. Bf3 b5 0-1
 
 [Event "54th Reggio Emilia"]
 [Site "Reggio Emilia ITA"]
-[Date "2011.12.30"]
 [Round "4"]
 [White "Giri, A."]
 [Black "Nakamura, Hi"]
@@ -685,7 +636,6 @@ Qa4+ Kb6 34. Qb4+ Ka6 35. Qa4+ Na5 36. Bf3 b5 0-1
 [WhiteElo "2714"]
 [BlackElo "2758"]
 [PlyCount "118"]
-[EventDate "2011.12.27"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "ITA"]

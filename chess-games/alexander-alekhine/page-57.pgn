@@ -1,13 +1,11 @@
 [Event "Simul, 36b"]
 [Site "YMCA, Toronto CAN"]
-[Date "1924.01.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Maurice Fox"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Baltimore, MD USA"]
-[Date "1924.01.21"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J M Barlow"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -47,14 +43,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Baltimore, MD USA"]
-[Date "1924.01.21"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Harry P Lavelle"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Simul, 38b"]
 [Site "Omaha, NE USA"]
-[Date "1924.03.05"]
 [Round "-"]
 [White "Alexander Alekhine"]
 [Black "Howard Ohman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "136"]
 [WhiteElo "?"]
 
@@ -99,14 +91,12 @@
 
 [Event "Match"]
 [Site "Moscow RUS"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Nikolay Dmitrievich Grigoriev"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -122,14 +112,12 @@
 
 [Event "Match"]
 [Site "Moscow RUS"]
-[Date "1921.03.15"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Nikolay Dmitrievich Grigoriev"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -145,14 +133,12 @@
 
 [Event "Clock simul"]
 [Site "Barcelona ESP"]
-[Date "1922.12.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Valentin Marin y Llovet"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -168,14 +154,12 @@
 
 [Event "Blindfold simul, 12b"]
 [Site "Cercle Philidor, Paris FRA"]
-[Date "1923.02.25"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "D Freedmann"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -188,14 +172,12 @@
 
 [Event "Moscow-St Petersburg"]
 [Site "Moscow-St Petersburg"]
-[Date "1911.05.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Eugene Aleksandrovich Znosko-Borovsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -209,14 +191,12 @@
 
 [Event "Simul, 14b"]
 [Site "London ENG"]
-[Date "1913.09.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Herbert Levi Jacobs"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "132"]
 [WhiteElo "?"]
 
@@ -236,14 +216,12 @@
 
 [Event "Moscow"]
 [Site "Moscow RUE"]
-[Date "1914.03.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Emanuel Lasker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -255,14 +233,12 @@
 
 [Event "Moscow"]
 [Site "Moscow RUE"]
-[Date "1915.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Peter Konstantinovich Yurdansky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D40"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -277,14 +253,12 @@
 
 [Event "Moscow"]
 [Site "Moscow RUE"]
-[Date "1916.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Abram Isaakovich Rabinovich"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -301,14 +275,12 @@
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1926.10.07"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Domingo Cano"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -324,14 +296,12 @@
 
 [Event "Simul, 42b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1924.03.07"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "O Pedersen"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "?"]
 
@@ -349,14 +319,12 @@
 
 [Event "Blindfold simul, 28b"]
 [Site "Paris FRA"]
-[Date "1925.02.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Groupe de Joueurs isoles"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -369,14 +337,12 @@
 
 [Event "Blindfold simul, 28b"]
 [Site "Paris FRA"]
-[Date "1925.02.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Echiquier Notre-Dame"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -390,14 +356,12 @@
 
 [Event "Blindfold simul, 28b"]
 [Site "Paris FRA"]
-[Date "1925.02.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Groupe Versaillais et La Strategie"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -409,14 +373,12 @@
 
 [Event "Simul, 43b"]
 [Site "Kosice CSR"]
-[Date "1925.03.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Hajek"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -435,14 +397,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Geneva SUI"]
-[Date "1925.10.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Walter Preiswerk"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -457,14 +417,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Geneva SUI"]
-[Date "1925.10.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Harold Lommer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -481,14 +439,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Geneva SUI"]
-[Date "1925.10.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jean Louis Ormond"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C14"]
-[EventDate "????.??.??"]
 [PlyCount "112"]
 [WhiteElo "?"]
 
@@ -507,14 +463,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Geneva SUI"]
-[Date "1925.10.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "S Dolivo"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -530,14 +484,12 @@
 
 [Event "Simul, 37b"]
 [Site "The Hague NED"]
-[Date "1925.12.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Johannes Antonius Sasburg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -550,14 +502,12 @@
 
 [Event "Simul, 38b"]
 [Site "Nijmegen NED"]
-[Date "1925.12.21"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C Bekink"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A50"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 

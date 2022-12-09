@@ -1,13 +1,11 @@
 [Event "URS Team Cup"]
 [Site "Rostov-on-Don URS"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "David Bronstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D25"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Moscow ch-city"]
 [Site "?"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "David Bronstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A10"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -41,14 +37,12 @@
 
 [Event "Training Tournament"]
 [Site "Gagra"]
-[Date "1953.05.??"]
 [Round "4"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Paul Keres"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A09"]
-[EventDate "????.??.??"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -67,14 +61,12 @@
 
 [Event "Training Match Tournament"]
 [Site "Gagra"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Paul Keres"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -90,14 +82,12 @@
 
 [Event "URS-ch sf"]
 [Site "Moscow URS"]
-[Date "1947.11.??"]
 [Round "13"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Vladimir Simagin"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A96"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -110,14 +100,12 @@
 
 [Event "Training Match Tournament"]
 [Site "Gagra"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -132,14 +120,12 @@
 
 [Event "Bucharest"]
 [Site "Bucharest ROU"]
-[Date "1953.02.??"]
 [Round "13"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Stefan Szabo"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -153,14 +139,12 @@
 
 [Event "URS-ch sf"]
 [Site "Moscow"]
-[Date "1947.10.??"]
 [Round "1"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Alexander Konstantinopolsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -176,14 +160,12 @@
 
 [Event "URS-chT"]
 [Site "Moscow URS"]
-[Date "1966.09.26"]
 [Round "3"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Efim Geller"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A37"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -197,14 +179,12 @@
 
 [Event "10th Soviet Team-ch final A"]
 [Site "Moscow URS"]
-[Date "1967.07.29"]
 [Round "2"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Leonid Stein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E92"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -218,14 +198,12 @@
 
 [Event "4th Soviet Team Cup"]
 [Site "Moscow URS"]
-[Date "1964.10.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Efim Geller"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B36"]
-[EventDate "????.??.??"]
 [PlyCount "27"]
 [WhiteElo "?"]
 
@@ -237,14 +215,12 @@
 
 [Event "Zagreb"]
 [Site "Zagreb YUG"]
-[Date "1965.04.??"]
 [Round "9"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Miroslav Filip"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -257,14 +233,12 @@
 
 [Event "EUR-chT (Men) 6th"]
 [Site "Moscow URS"]
-[Date "1977.04.??"]
 [Round "4"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Zoltan Ribli"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A34"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -277,14 +251,12 @@
 
 [Event "Olympiad"]
 [Site "Buenos Aires ARG"]
-[Date "1978.11.04"]
 [Round "10"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Roman Dzindzichashvili"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D25"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -299,14 +271,12 @@
 
 [Event "Spartak Team Tournament"]
 [Site "Moscow URS"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Alexander Bangiev"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E58"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -321,14 +291,12 @@
 
 [Event "Siegen ol (Men) fin-A"]
 [Site "Siegen, West Germany"]
-[Date "1970.09.18"]
 [Round "5.2"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Levente Lengyel"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E48"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -340,14 +308,12 @@
 
 [Event "YUG-URS"]
 [Site "Ohrid YUG"]
-[Date "1972.06.??"]
 [Round "1"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Borislav Ivkov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A20"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -361,14 +327,12 @@
 
 [Event "4th Keres Memorial"]
 [Site "Tallinn EST"]
-[Date "1983.02.??"]
 [Round "4"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Uwe Boensch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A61"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -384,14 +348,12 @@
 
 [Event "Moscow Spartakiad"]
 [Site "Moscow"]
-[Date "1983.06.03"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Yuri Averbakh"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -404,14 +366,12 @@
 
 [Event "EUR-chT (Men) 8th"]
 [Site "Plovdiv BUL"]
-[Date "1983.06.29"]
 [Round "5"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Predrag Nikolic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -424,14 +384,12 @@
 
 [Event "URS Team Cup"]
 [Site "Rostov-on-Don URS"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Vitaly Tseshkovsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A05"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -445,14 +403,12 @@
 
 [Event "Vrbas"]
 [Site "Vrbas"]
-[Date "1980.10.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Bozidar Ivanovic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A14"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -468,14 +424,12 @@
 
 [Event "Kostic Memorial"]
 [Site "Vrsac YUG"]
-[Date "1981.09.17"]
 [Round "5"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Miso Cebalo"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E41"]
-[EventDate "????.??.??"]
 [PlyCount "32"]
 [WhiteElo "?"]
 
@@ -487,14 +441,12 @@
 
 [Event "15th Soviet Team-ch final"]
 [Site "Moscow URS"]
-[Date "1981.05.??"]
 [Round "7"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Viktor Kupreichik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A49"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -508,14 +460,12 @@
 
 [Event "Simul, 37b"]
 [Site "Ostersund SWE"]
-[Date "1964.03.24"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Rolf Hamberg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 

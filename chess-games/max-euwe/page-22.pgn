@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Yates Frederick"]
@@ -23,7 +22,6 @@ d4 35.Qf4+ 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -43,7 +41,6 @@ Bg4 8.dxe5 O-O-O 9.Be2 Bxf3 10.Bxf3 Nxe5 11.O-O Nxc4 12.Qb3 Nxb2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Lohr S"]
@@ -64,7 +61,6 @@ Ke8 25.Re7# 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Speyer Abraham"]
@@ -90,7 +86,6 @@ Qe4 43.Qc1 Nf3+ 44.Kf1 Nf5 45.Qb1 Qc4+ 46.Kg2 N3d4 47.axb6 Rxa1
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Straat E Sr"]
@@ -111,7 +106,6 @@ Nf8 26.c4 Bd7 27.c5 Ne6 28.Nd6 Rf8 29.N2e4 1-0
 
 [Event "Ch Netherlands"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Straat E Sr"]
@@ -136,7 +130,6 @@ Ke5 48.exf4+ Kf5 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1924.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Davidson Jacques"]
@@ -162,7 +155,6 @@ Ra1 52.Kf4 Rf1+ 53.Kg3 Rg1+ 54.Kf4 Rf1+ 55.Kg3 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1924.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Davidson Jacques"]
@@ -183,7 +175,6 @@ Rxd8 25.g3 Bd2 26.Be5 Bc1 1/2-1/2
 
 [Event "Match \"Netherlands-Belgium\""]
 [Site "Netherlands"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Koltanowski George (USA)"]
@@ -206,7 +197,6 @@ Raf8 25.Bg3 Qg4 26.Bd6 Rf2 27.Qxf2 Rxf2 28.Kxf2 Qg5 29.Rd2 e5
 
 [Event "Olympiad"]
 [Site "Paris (France)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -232,7 +222,6 @@ Qh1+ 54.Kg3 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Paris (France)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Loewenton L"]
@@ -254,7 +243,6 @@ Ke6 30.Ke3 h5 31.Kd3 Kd5 32.g3 1-0
 
 [Event "Olympiad"]
 [Site "Paris (France)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Marin Y Llovet Valentin"]
@@ -275,7 +263,6 @@ Rb8 25.h5 Qb6 26.Qd6 Rbd8 27.hxg6 hxg6 28.Qe7 1-0
 
 [Event "Olympiad"]
 [Site "Paris (France)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Palau Luis A (ARG)"]
@@ -299,7 +286,6 @@ Rg4 0-1
 
 [Event "Olympiad"]
 [Site "Paris (France)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Tschepurnoff Anatol"]
@@ -323,7 +309,6 @@ Qe3+ 1/2-1/2
 
 [Event ""]
 [Site "Rotterdam (Netherlands)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Haalebos"]
@@ -346,7 +331,6 @@ Rf8 37.Nxg6 1-0
 
 [Event ""]
 [Site "Rotterdam (Netherlands)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Key H"]
@@ -369,7 +353,6 @@ Nf4 36.a6 Rd8 37.h4 Rd1+ 38.Kh2 Rf1 39.Rxf7 Rxf2+ 40.Kg3 1-0
 
 [Event ""]
 [Site "Rotterdam (Netherlands)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Oskam Gerard"]
@@ -389,7 +372,6 @@ Nc7 19.Be7+ Kg8 20.g4 Be6 21.Rb1 1-0
 
 [Event "Match"]
 [Site "Zutphen (Netherlands)"]
-[Date "1924.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -412,7 +394,6 @@ Ke6 36.Ke4 Kd6 37.Bc4 1-0
 
 [Event "Match"]
 [Site "Zutphen (Netherlands)"]
-[Date "1924.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -433,7 +414,6 @@ Ke8 20.Qa8+ Ke7 21.Nxc6+ Kd7 22.Qb7+ Ke8 23.f3 Nd6 24.Bxd6 Qxd6
 
 [Event "Match"]
 [Site "Zutphen (Netherlands)"]
-[Date "1924.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -459,7 +439,6 @@ Kh8 53.Rxd7 1-0
 
 [Event "Match"]
 [Site "Zutphen (Netherlands)"]
-[Date "1924.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -481,14 +460,12 @@ Rxc2 25.Rxc2 Rc8 26.Rxc8+ Nxc8 27.Qc4 Nb6 28.Qc6 Qc8 29.Be3 Qb8
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1924.04.21"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "Cyril Duffield"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "1924.04.19"]
 [PlyCount "23"]
 [WhiteElo "?"]
 
@@ -499,14 +476,12 @@ Rxc2 25.Rxc2 Rc8 26.Rxc8+ Nxc8 27.Qc4 Nb6 28.Qc6 Qc8 29.Be3 Qb8
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1924.04.22"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Joseph Henry Blake"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A57"]
-[EventDate "1924.04.19"]
 [PlyCount "133"]
 [WhiteElo "?"]
 
@@ -526,14 +501,12 @@ Rxc2 25.Rxc2 Rc8 26.Rxc8+ Nxc8 27.Qc4 Nb6 28.Qc6 Qc8 29.Be3 Qb8
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1924.04.25"]
 [Round "9"]
 [White "Max Euwe"]
 [Black "Edmund Spencer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A53"]
-[EventDate "1924.04.19"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -548,14 +521,12 @@ Rxc2 25.Rxc2 Rc8 26.Rxc8+ Nxc8 27.Qc4 Nb6 28.Qc6 Qc8 29.Be3 Qb8
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1924.04.19"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "John Drewitt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B58"]
-[EventDate "1924.04.19"]
 [PlyCount "49"]
 [WhiteElo "?"]
 

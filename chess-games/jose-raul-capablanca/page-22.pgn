@@ -1,13 +1,11 @@
 [Event "Simul, 32b"]
 [Site "Mechanics' Institute, San Francisco, CA USA"]
-[Date "1916.04.11"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Ernest J Clarke"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "Simul, 52b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1916.05.03"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Stoewhaas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "Simul, 52b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1916.05.03"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Howard Louis Dolde"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Simul, 52b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1916.05.03"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Spear"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -90,14 +82,12 @@
 
 [Event "New York"]
 [Site "New York, NY USA"]
-[Date "1918.??.??"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C50"]
-[EventDate "????.??.??"]
 [PlyCount "27"]
 [WhiteElo "?"]
 
@@ -109,14 +99,12 @@
 
 [Event "Casual Game"]
 [Site "New York, NY USA"]
-[Date "1918.06.18"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Marc Fonaroff"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -129,14 +117,12 @@
 
 [Event "Simul, 52b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1916.05.03"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Gillespie"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C00"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -151,14 +137,12 @@
 
 [Event "Simul, 22b"]
 [Site "New York, NY USA"]
-[Date "1918.09.21"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Harry Borochow"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -171,14 +155,12 @@
 
 [Event "Simul, 22b"]
 [Site "New York, NY USA"]
-[Date "1918.09.21"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "William Nicoll Woodbury"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -196,14 +178,12 @@
 
 [Event "Simul, 22b"]
 [Site "New York, NY USA"]
-[Date "1918.09.21"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "H B Evans"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -219,14 +199,12 @@
 
 [Event "Simul, 30b"]
 [Site "Central YMCA, Philadelphia, PA USA"]
-[Date "1918.09.28"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Walter Penn Shipley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -243,14 +221,12 @@
 
 [Event "Simul, 30b"]
 [Site "Philadelphia, PA USA"]
-[Date "1918.09.28"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "C F Haussmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A03"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -265,14 +241,12 @@
 
 [Event "Lightning t"]
 [Site "Hastings ENG"]
-[Date "1919.08.09"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Borislav Kostic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -284,14 +258,12 @@
 
 [Event "Lightning t"]
 [Site "Hastings ENG"]
-[Date "1919.08.09"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Reginald Pryce Michell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -307,14 +279,12 @@
 
 [Event "Lightning t"]
 [Site "Hastings ENG"]
-[Date "1919.08.09"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "P Flowers"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -329,14 +299,12 @@
 
 [Event "Lightning t"]
 [Site "Hastings ENG"]
-[Date "1919.08.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edmund Tom Jesty"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -350,14 +318,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1919.08.06"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Theodore Germann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -371,14 +337,12 @@
 
 [Event "Simul, 39b"]
 [Site "?"]
-[Date "1919.08.28"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "S G Howell Smith"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B16"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -391,14 +355,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1919.08.06"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A W Daniel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -413,14 +375,12 @@
 
 [Event "Simul, 39b"]
 [Site "Gambit Cafe, London ENG"]
-[Date "1919.08.28"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Stephen Francis Smith"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -436,14 +396,12 @@
 
 [Event "Simul, 40b"]
 [Site "Newcastle ENG"]
-[Date "1919.09.22"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "W F Graham"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -456,14 +414,12 @@
 
 [Event "Simul, 40b"]
 [Site "Newcastle ENG"]
-[Date "1919.09.22"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "R J Brown"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -475,14 +431,12 @@
 
 [Event "Simul, 37b"]
 [Site "Glasgow SCO"]
-[Date "1919.09.24"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "John Roxburgh Longwill"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -497,14 +451,12 @@
 
 [Event "Simul, 40b"]
 [Site "Bradford ENG"]
-[Date "1919.10.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "H L Brooke"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -518,14 +470,12 @@
 
 [Event "Simul, 40b"]
 [Site "Leeds ENG"]
-[Date "1919.10.03"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Beaumont"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1889.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bauer Johann H (AUT)"]
@@ -23,7 +22,6 @@ Rd6 35.Qxa6 d4 36.exd4 cxd4 37.h4 d3 38.Qxd3 1-0
 
 [Event "Match"]
 [Site "Berlin (Germany)"]
-[Date "1890.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Von Bardeleben Kurt (GER)"]
@@ -47,7 +45,6 @@ Ke6 37.Nb4 Nxb6 38.axb6 Kd7 39.Nxa6 e6 40.Nd4 b4 41.cxb4 Nd8
 
 [Event "Match"]
 [Site "Berlin (Germany)"]
-[Date "1890.??.??"]
 [Round "3"]
 [White "Lasker Emanuel (GER)"]
 [Black "Von Bardeleben Kurt (GER)"]
@@ -71,7 +68,6 @@ Rxb3 42.Kf2 d3 43.Ke3 Kf7 44.g4 Ke6 45.Ke4 g6 46.Kd4 h5 47.gxh5 1/2-1/2
 
 [Event "Match"]
 [Site "Liverpool (England)"]
-[Date "1890.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bird Henry E (ENG)"]
@@ -98,7 +94,6 @@ Nf7 53.Rb8+ Kc7 54.Re8 Ng5 55.Re7+ Kd8 56.Rxa7 Nf3+ 57.Kd1 Rxh6
 
 [Event "Match"]
 [Site "Liverpool (England)"]
-[Date "1890.??.??"]
 [Round "4"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bird Henry E (ENG)"]
@@ -124,7 +119,6 @@ Ke8 48.Kf1 Rb2 49.Ra7 Rd5 50.R7xa5 Rd1+ 51.Kg2 Rbb1 52.Ra8+ Kf7
 
 [Event "Match"]
 [Site "Liverpool (England)"]
-[Date "1890.??.??"]
 [Round "6"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bird Henry E (ENG)"]
@@ -150,7 +144,6 @@ Bc8 48.c5 dxc5+ 49.Kxc5 Rh2 50.Ba6 Ra2 51.Bc4 Rc2 52.Ra8 Bd7
 
 [Event "Match"]
 [Site "Liverpool (England)"]
-[Date "1890.??.??"]
 [Round "8"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bird Henry E (ENG)"]
@@ -174,7 +167,6 @@ Nc5 38.Qh5 Qc6 39.Qf7+ Kh8 40.Nxh4 Bg7 41.Ng6+ Kh7 42.Ng5+ hxg5
 
 [Event "Match"]
 [Site "Liverpool (England)"]
-[Date "1890.??.??"]
 [Round "10"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bird Henry E (ENG)"]
@@ -200,7 +192,6 @@ Rf8 55.Qe4 Qf7 56.e6 Qf1# 0-1
 
 [Event "Match"]
 [Site "Liverpool (England)"]
-[Date "1890.??.??"]
 [Round "12"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bird Henry E (ENG)"]
@@ -223,7 +214,6 @@ Bd7 32.fxe4 c5 33.Rxd5 Qh2+ 34.Kf1 Bb5+ 35.Nd3 Kh8 36.Rxc5 Bxd3+
 
 [Event "Match"]
 [Site "Manchester (England)"]
-[Date "1890.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Miniati NT"]
@@ -248,7 +238,6 @@ Nd1+ 42.Ke2 Nxc3+ 43.Kd3 Nd5 44.Nc6 Kf6 45.Kd4 Ne3 46.Nb8 Nxg2
 
 [Event "Match"]
 [Site "Manchester (England)"]
-[Date "1890.??.??"]
 [Round "3"]
 [White "Lasker Emanuel (GER)"]
 [Black "Miniati NT"]
@@ -271,7 +260,6 @@ Kf8 36.Kc4 b6 37.Re2 1-0
 
 [Event "Match"]
 [Site "Manchester (England)"]
-[Date "1890.??.??"]
 [Round "5"]
 [White "Lasker Emanuel (GER)"]
 [Black "Miniati NT"]
@@ -296,7 +284,6 @@ Qe3+ 42.Kd1 Qg1+ 43.Kc2 Qf1 44.Rxh3 Qc4 45.Rh8 Qb3+ 46.Kb1 Ka6
 
 [Event "Simultan"]
 [Site "Berlin (Germany)"]
-[Date "1891.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Von Scheve Theodor (POL)"]
@@ -319,7 +306,6 @@ Kf5 36.Qh7+ Kf4 37.Qh6+ Kf5 38.Qxh5+ 1-0
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1892.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -346,7 +332,6 @@ Ka5 58.Nxd5 Kxa4 1/2-1/2
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1892.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Delmar Eugene (USA)"]
@@ -371,7 +356,6 @@ Qe7 1/2-1/2
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1892.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Hodges Albert"]
@@ -395,7 +379,6 @@ e3 42.Kg3 Rf2 43.Bd3 Rg1 0-1
 
 [Event "Simultan (blindfold)"]
 [Site "Philadelphia (USA)"]
-[Date "1892.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Shipley Walter P"]
@@ -416,14 +399,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Lasker - Blackburne"]
 [Site "London ENG"]
-[Date "1892.06.03"]
 [Round "6"]
 [White "Emanuel Lasker"]
 [Black "Joseph Henry Blackburne"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "1892.05.27"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -439,14 +420,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Lasker - Bird"]
 [Site "Newcastle-upon-Tyne ENG"]
-[Date "1892.08.31"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Henry Edward Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "1892.08.29"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -461,14 +440,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Lasker - Bird"]
 [Site "Newcastle-upon-Tyne ENG"]
-[Date "1892.09.02"]
 [Round "5"]
 [White "Emanuel Lasker"]
 [Black "Henry Edward Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "1892.08.29"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -484,14 +461,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Simul, 24b"]
 [Site "Montreal CAN"]
-[Date "1892.11.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "DC Robertson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "1892.11.21"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -505,14 +480,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Lasker - Showalter"]
 [Site "Logansport, IN USA"]
-[Date "1892.12.14"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Jackson Whipps Showalter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C65"]
-[EventDate "1892.12.14"]
 [PlyCount "135"]
 [WhiteElo "?"]
 
@@ -532,14 +505,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Lasker - Showalter"]
 [Site "Logansport, IN USA"]
-[Date "1893.04.14"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Jackson Whipps Showalter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "1892.12.14"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -554,14 +525,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Lasker - Showalter"]
 [Site "Kokomo, IN USA"]
-[Date "1893.04.26"]
 [Round "9"]
 [White "Emanuel Lasker"]
 [Black "Jackson Whipps Showalter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "1892.12.14"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -578,14 +547,12 @@ Qc2+ 24.Ka3 Kxb7 0-1
 
 [Event "Lasker - Showalter"]
 [Site "Kokomo, IN USA"]
-[Date "1893.04.18"]
 [Round "5"]
 [White "Emanuel Lasker"]
 [Black "Jackson Whipps Showalter"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "1892.12.14"]
 [PlyCount "106"]
 [WhiteElo "?"]
 

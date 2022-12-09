@@ -1,6 +1,5 @@
 [Event "Gibraltar Masters 2014"]
 [Site "Caleta ENG"]
-[Date "2014.01.28"]
 [Round "1.2"]
 [White "Vachier Lagrave, M."]
 [Black "Lombaers, P."]
@@ -9,7 +8,6 @@
 [WhiteElo "2745"]
 [BlackElo "2255"]
 [PlyCount "75"]
-[EventDate "2014.01.28"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -26,7 +24,6 @@ Ra8 29. f6 Bxf6 30. Qd3 e4 31. Qxe4 Rxa6 32. Rxa6 h5 33. Qh7+ Kf8 34. Rxd6 Nxd6
 
 [Event "Gibraltar Masters 2014"]
 [Site "Caleta ENG"]
-[Date "2014.02.01"]
 [Round "5.2"]
 [White "Vachier Lagrave, M."]
 [Black "Mareco, S."]
@@ -35,7 +32,6 @@ Ra8 29. f6 Bxf6 30. Qd3 e4 31. Qxe4 Rxa6 32. Rxa6 h5 33. Qh7+ Kf8 34. Rxd6 Nxd6
 [WhiteElo "2745"]
 [BlackElo "2582"]
 [PlyCount "73"]
-[EventDate "2014.01.28"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -52,7 +48,6 @@ Rd2 Qf1+ 35. Kb2 Qc4 36. Qd6 Qc7 37. f7 1-0
 
 [Event "Gibraltar Masters 2014"]
 [Site "Caleta ENG"]
-[Date "2014.01.30"]
 [Round "3.2"]
 [White "Vachier Lagrave, M."]
 [Black "Salem, AR."]
@@ -61,7 +56,6 @@ Rd2 Qf1+ 35. Kb2 Qc4 36. Qd6 Qc7 37. f7 1-0
 [WhiteElo "2745"]
 [BlackElo "2564"]
 [PlyCount "93"]
-[EventDate "2014.01.28"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -80,7 +74,6 @@ Kxg4 47. Rxa4 1-0
 
 [Event "Gibraltar Masters 2014"]
 [Site "Caleta ENG"]
-[Date "2014.02.05"]
 [Round "9.2"]
 [White "Vachier Lagrave, M."]
 [Black "Rapport, R."]
@@ -89,7 +82,6 @@ Kxg4 47. Rxa4 1-0
 [WhiteElo "2745"]
 [BlackElo "2691"]
 [PlyCount "83"]
-[EventDate "2014.01.28"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -107,7 +99,6 @@ Rb8 41. c7 Rb2+ 42. Kf1 1-0
 
 [Event "TCh-FRA Top 12 2014"]
 [Site "Saint-Quentin FRA"]
-[Date "2014.05.29"]
 [Round "6.1"]
 [White "Vachier Lagrave, M."]
 [Black "Edouard, R."]
@@ -116,7 +107,6 @@ Rb8 41. c7 Rb2+ 42. Kf1 1-0
 [WhiteElo "2758"]
 [BlackElo "2692"]
 [PlyCount "67"]
-[EventDate "2014.05.24"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -135,7 +125,6 @@ Nb4 34. a4 1-0
 
 [Event "TCh-FRA Top 12 2014"]
 [Site "Saint-Quentin FRA"]
-[Date "2014.05.27"]
 [Round "4.1"]
 [White "Vachier Lagrave, M."]
 [Black "Vaisser, A."]
@@ -144,7 +133,6 @@ Nb4 34. a4 1-0
 [WhiteElo "2758"]
 [BlackElo "2531"]
 [PlyCount "44"]
-[EventDate "2014.05.24"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -161,7 +149,6 @@ Qxd4 Nf6 9. Bc4 c6 10. Bg5 h6 11. Bh4 d5 12. O-O-O Be7 13. Rhe1 O-O 14. Qe5 Bg4
 
 [Event "TCh-FRA Top 12 2014"]
 [Site "Saint-Quentin FRA"]
-[Date "2014.05.25"]
 [Round "2.1"]
 [White "Vachier Lagrave, M."]
 [Black "Krasenkow, M."]
@@ -170,7 +157,6 @@ Qxd4 Nf6 9. Bc4 c6 10. Bg5 h6 11. Bh4 d5 12. O-O-O Be7 13. Rhe1 O-O 14. Qe5 Bg4
 [WhiteElo "2758"]
 [BlackElo "2635"]
 [PlyCount "71"]
-[EventDate "2014.05.24"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -189,7 +175,6 @@ c5 34. Rbe3 Qf7 35. Re6 c4 36. Nd4 1-0
 
 [Event "FIDE World Rapid 2014"]
 [Site "Dubai UAE"]
-[Date "2014.06.18"]
 [Round "14.20"]
 [White "Vachier Lagrave, M."]
 [Black "Najer, E."]
@@ -198,7 +183,6 @@ c5 34. Rbe3 Qf7 35. Re6 c4 36. Nd4 1-0
 [WhiteElo "2762"]
 [BlackElo "2653"]
 [PlyCount "85"]
-[EventDate "2014.06.16"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "UAE"]
@@ -216,7 +200,6 @@ axb5 41. axb5 Qd5 42. b6 Nh6 43. b7 1-0
 
 [Event "FIDE World Rapid 2014"]
 [Site "Dubai UAE"]
-[Date "2014.06.16"]
 [Round "3.10"]
 [White "Vachier Lagrave, M."]
 [Black "Meier, Geo"]
@@ -225,7 +208,6 @@ axb5 41. axb5 Qd5 42. b6 Nh6 43. b7 1-0
 [WhiteElo "2762"]
 [BlackElo "2632"]
 [PlyCount "110"]
-[EventDate "2014.06.16"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "UAE"]
@@ -245,7 +227,6 @@ Kf7 48. Rh7+ Ke6 49. Kg3 Rf4 50. Rxc7 Kf5 51. Re7 Rg4+ 52. Kh3 Rf4 53. Kg3 Rg4+
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.10"]
 [Round "2.8"]
 [White "Vachier Lagrave, M."]
 [Black "Bachmann, Ax"]
@@ -254,7 +235,6 @@ Kf7 48. Rh7+ Ke6 49. Kg3 Rf4 50. Rxc7 Kf5 51. Re7 Rg4+ 52. Kh3 Rf4 53. Kg3 Rg4+
 [WhiteElo "2758"]
 [BlackElo "2593"]
 [PlyCount "70"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -271,7 +251,6 @@ Rh8 35. Qe3 Rg8 1/2-1/2
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.23"]
 [Round "6.3"]
 [White "Vachier Lagrave, M."]
 [Black "Dubov, Daniil"]
@@ -280,7 +259,6 @@ Rh8 35. Qe3 Rg8 1/2-1/2
 [WhiteElo "2758"]
 [BlackElo "2661"]
 [PlyCount "97"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -301,7 +279,6 @@ Qc3 41. Qxc3 Bxc3 42. b5 Bd4 43. Bd5 Kf6 44. f3 Bb6 45. g4 hxg4 46. fxg4 Kg7
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.21"]
 [Round "4.1"]
 [White "Vachier Lagrave, M."]
 [Black "Radjabov, T."]
@@ -310,7 +287,6 @@ Qc3 41. Qxc3 Bxc3 42. b5 Bd4 43. Bd5 Kf6 44. f3 Bb6 45. g4 hxg4 46. fxg4 Kg7
 [WhiteElo "2758"]
 [BlackElo "2738"]
 [PlyCount "79"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -330,7 +306,6 @@ h6 40. Kd4 1/2-1/2
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "20.3"]
 [White "Vachier Lagrave, M."]
 [Black "Nepomniachtchi, I."]
@@ -339,7 +314,6 @@ h6 40. Kd4 1/2-1/2
 [WhiteElo "2758"]
 [BlackElo "2705"]
 [PlyCount "105"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -359,7 +333,6 @@ Ra4 47. Kg3 Ne5 48. Bxa6 Rxa6 49. Kf4 Nf7 50. Rc4 Nd6 51. Rb4 Ne8 52. g4 Nf6
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "15.2"]
 [White "Vachier Lagrave, M."]
 [Black "Kramnik, V."]
@@ -368,7 +341,6 @@ Ra4 47. Kg3 Ne5 48. Bxa6 Rxa6 49. Kf4 Nf7 50. Rc4 Nd6 51. Rb4 Ne8 52. g4 Nf6
 [WhiteElo "2758"]
 [BlackElo "2777"]
 [PlyCount "125"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -389,7 +361,6 @@ Ke7 54. Bxh3 Bxa3 55. Bc5+ Kf7 56. Kc3 Nd5+ 57. Kb3 Bc1 58. f5 Bxg5 59. Bf1 Nc7
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.12"]
 [Round "12.5"]
 [White "Vachier Lagrave, M."]
 [Black "Kryvoruchko, Y."]
@@ -398,7 +369,6 @@ Ke7 54. Bxh3 Bxa3 55. Bc5+ Kf7 56. Kc3 Nd5+ 57. Kb3 Bc1 58. f5 Bxg5 59. Bf1 Nc7
 [WhiteElo "2758"]
 [BlackElo "2710"]
 [PlyCount "61"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -414,7 +384,6 @@ Kh8 15. Nxc8 Rxc8 16. d3 f5 17. Qf3 Nf6 18. Bf4 Bxf4 19. Qxf4 Qc7 20. Qxc7 Rxc7
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.11"]
 [Round "10.7"]
 [White "Vachier Lagrave, M."]
 [Black "Tomashevsky, E."]
@@ -423,7 +392,6 @@ Kh8 15. Nxc8 Rxc8 16. d3 f5 17. Qf3 Nf6 18. Bf4 Bxf4 19. Qxf4 Qc7 20. Qxc7 Rxc7
 [WhiteElo "2758"]
 [BlackElo "2758"]
 [PlyCount "88"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -441,7 +409,6 @@ Rxe4 34. Rd7 Rb4 35. Kf3 Kf6 36. Ke2 Ke6 37. Rd8 Rb5 38. Rb8 Ra5 39. Rxb7 Rxa2+
 
 [Event "7th London Classic 2015"]
 [Site "London ENG"]
-[Date "2015.12.08"]
 [Round "5.2"]
 [White "Vachier Lagrave, M."]
 [Black "Giri, A."]
@@ -450,7 +417,6 @@ Rxe4 34. Rd7 Rb4 35. Kf3 Kf6 36. Ke2 Ke6 37. Rd8 Rb5 38. Rb8 Ra5 39. Rxb7 Rxa2+
 [WhiteElo "2773"]
 [BlackElo "2784"]
 [PlyCount "61"]
-[EventDate "2015.12.04"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -467,7 +433,6 @@ Kxd6 27. Bb8+ Kc6 28. Rc1+ Kd7 29. Rd1 Kc6 30. Rc1+ Kd7 31. Rd1 1/2-1/2
 
 [Event "7th London Classic 2015"]
 [Site "London ENG"]
-[Date "2015.12.10"]
 [Round "6.3"]
 [White "Vachier Lagrave, M."]
 [Black "Caruana, F."]
@@ -476,7 +441,6 @@ Kxd6 27. Bb8+ Kc6 28. Rc1+ Kd7 29. Rd1 Kc6 30. Rc1+ Kd7 31. Rd1 1/2-1/2
 [WhiteElo "2773"]
 [BlackElo "2787"]
 [PlyCount "59"]
-[EventDate "2015.12.04"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -493,7 +457,6 @@ Kf7 21. Ne5+ Kf6 22. f4 Rce8 23. Rd3 g6 24. Re1 Kg7 25. Ne4 Re6 26. Red1 Rd8
 
 [Event "7th London Classic 2015"]
 [Site "London ENG"]
-[Date "2015.12.12"]
 [Round "8.2"]
 [White "Vachier Lagrave, M."]
 [Black "Adams, Mi"]
@@ -502,7 +465,6 @@ Kf7 21. Ne5+ Kf6 22. f4 Rce8 23. Rd3 g6 24. Re1 Kg7 25. Ne4 Re6 26. Red1 Rd8
 [WhiteElo "2773"]
 [BlackElo "2737"]
 [PlyCount "73"]
-[EventDate "2015.12.04"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -520,7 +482,6 @@ Nc7 29. Nc3 Bd7 30. Na2 N7a6 31. Nb4 Be8 32. Ra1 Nxb4 33. Qxb4 Na6 34. Qb3 Nc5
 
 [Event "7th London Classic TB"]
 [Site "London ENG"]
-[Date "2015.12.13"]
 [Round "2.2"]
 [White "Vachier Lagrave, M."]
 [Black "Carlsen, M."]
@@ -529,7 +490,6 @@ Nc7 29. Nc3 Bd7 30. Na2 N7a6 31. Nb4 Be8 32. Ra1 Nxb4 33. Qxb4 Na6 34. Qb3 Nc5
 [WhiteElo "2773"]
 [BlackElo "2834"]
 [PlyCount "101"]
-[EventDate "2015.12.13"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -548,7 +508,6 @@ gxf5 41. Ne3 Nf4 42. exf5 Bc6 43. d4 Be4 44. d5 Ng2 45. Nxg2 Bxg2 46. Bc2 Bf3
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.20"]
 [Round "4.1"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "So, Wesley"]
@@ -556,7 +515,6 @@ gxf5 41. Ne3 Nf4 42. exf5 Bc6 43. d4 Be4 44. d5 Ng2 45. Nxg2 Bxg2 46. Bc2 Bf3
 [WhiteElo "2744"]
 [BlackElo "2773"]
 [ECO "C67"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. Nc3 Bf6 10. Re1 Re8 11. Nd5 Rxe1 12. Qxe1 b6 13. d3 
@@ -569,7 +527,6 @@ Kg5 38. Bb3 f4+ 39. Kd3 Kf5 40. d5 Ng5 41. Kd4 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.25"]
 [Round "5.1"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Giri, Anish"]
@@ -577,7 +534,6 @@ Kg5 38. Bb3 f4+ 39. Kd3 Kf5 40. d5 Ng5 41. Kd4 1/2-1/2
 [WhiteElo "2744"]
 [BlackElo "2793"]
 [ECO "C42"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 
 O-O 8. Qd2 Nd7 9. O-O-O c6 10. Kb1 d5 11. c4 Nb6 12. cxd5 Nxd5 13. Bc4 Be6
@@ -588,7 +544,6 @@ Nf6 26. Qe3 b6 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.19"]
 [Round "3.4"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Tomashevsky, Evgeny"]
@@ -596,7 +551,6 @@ Nf6 26. Qe3 b6 1/2-1/2
 [WhiteElo "2744"]
 [BlackElo "2758"]
 [ECO "E11"]
-[EventDate "2015.09.11"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5 7. e5 Nfd7 
 8. Bd3 c5 9. Qc2 h6 10. O-O Nc6 11. Nb3 cxd4 12. Re1 dxc4 13. Qxc4 Nb6 14.
@@ -614,7 +568,6 @@ Rb3 62. Rd6+ Kf5 63. Rf6+ Kg4 64. Rb6 Rb1 65. Rb8 Ra1 66. Bc5 Ra6 67. Be3
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.17"]
 [Round "3.1"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Tomashevsky, Evgeny"]
@@ -622,7 +575,6 @@ Rb3 62. Rd6+ Kf5 63. Rf6+ Kg4 64. Rb6 Rb1 65. Rb8 Ra1 66. Bc5 Ra6 67. Be3
 [WhiteElo "2744"]
 [BlackElo "2758"]
 [ECO "C89"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14.
@@ -633,14 +585,12 @@ Kg2 Qxf3+ 21. Kxf3 Rxe1 22. Rxe1 bxa4 23. Bxa4 c5 24. Be5 Bf8 25. Bb3 Nb6
 
 [Event "European Team Championship"]
 [Site "Reykjavik ISL"]
-[Date "2015.11.15"]
 [Round "3.3"]
 [White "Maxime Vachier-Lagrave"]
 [Black "Peter Leko"]
 [Result "1/2-1/2"]
 [BlackElo "2708"]
 [ECO "C65"]
-[EventDate "2015.11.13"]
 [PlyCount "51"]
 [WhiteElo "2765"]
 

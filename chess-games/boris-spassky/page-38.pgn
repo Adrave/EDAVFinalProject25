@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -26,7 +25,6 @@ Bd6 54.Kf3 Kg7 55.Rd4 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -50,7 +48,6 @@ Ndc4 42.g4 Ke7 43.Bc5+ Kf7 44.Qb7+ 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -73,7 +70,6 @@ Rgxf7 30.Nd5 Nc7 31.Nxc7 Rxc7 32.Kd2 h5 33.gxh5 gxh5 34.Rh1 Rh7
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Keres Paul (EST)"]
@@ -95,7 +91,6 @@ Rb8 25.d5 exd5 26.Qa1 dxe4 27.Bh5 Rb5 28.Qd4 Ng6 29.Bxg6 fxg6
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Keres Paul (EST)"]
@@ -120,7 +115,6 @@ Bc6 37.gxf5 Nxf5 38.Bg4 Bd7 39.Qxb7 Be6 40.Qb1 Nxd6 41.Bxe6 Qxe6
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Keres Paul (EST)"]
@@ -144,7 +138,6 @@ Qf6 37.Rc2 Rf8 38.Qb6 g5 39.fxg5 Qxg5 40.Qxa6 Qe5 41.Qxb5 Ne6
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1965.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Antoshin Vladimir S (RUS)"]
@@ -172,7 +165,6 @@ Qc2+ 66.Kh8 Qc3+ 67.Kg8 Qg3+ 68.Qg7 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1965.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nezhmetdinov Rashit (RUS)"]
@@ -197,7 +189,6 @@ Bd6 37.Be1 Rg1 38.Bc3 Rgg8 39.Kf2 Be8 40.Rg1 Rxg1 41.Kxg1 Bf7
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1965.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ujtumen Tudev (MGL)"]
@@ -218,7 +209,6 @@ Nd6 24.Qd5 a5 25.Qe6 1-0
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1965.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -241,7 +231,6 @@ Bf8 26.Nd3 Bxd3 27.cxd3 Rxd3 28.Kg2 Bb4 29.Bxb7 Kg7 30.Be3 h5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -262,7 +251,6 @@ Bf8 26.Nd3 Bxd3 27.cxd3 Rxd3 28.Kg2 Bb4 29.Bxb7 Kg7 30.Be3 h5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "17"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -284,7 +272,6 @@ Qe7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "21"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -307,7 +294,6 @@ Kf6 36.Rc4 Rd8 37.Ke2 Bc7 38.Ra4 g5 39.fxg5+ Kxg5 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -329,7 +315,6 @@ Rf8 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -359,7 +344,6 @@ Ra1+ 77.Kb2 Rb1+ 78.Ka3 Ra1+ 79.Kb2 Rb1+ 80.Ka3 Ra1+ 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Najdorf Miguel (POL)"]
@@ -382,7 +366,6 @@ a1Q+ 36.Qb1 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -402,7 +385,6 @@ Ke7 19.Ke2 g6 20.Nbd4 Nxd4+ 21.Bxd4 Bxd4 22.Nxd4 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "14"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -422,7 +404,6 @@ Rac8 20.Red1 Nh7 21.Nf1 Qe6 22.b3 Be7 23.Qf5 Nf8 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -447,7 +428,6 @@ Ra1+ 48.Kf2 Nc4 49.Rc6 Ne5 50.Rd6 Nc4 1/2-1/2
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1966.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Antoshin Vladimir S (RUS)"]
@@ -466,7 +446,6 @@ Qxd4 8.Nxd4 Bd6 9.Be3 Ne7 10.O-O-O Bd7 11.Nb3 O-O-O 12.Nc5 Ng6
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1966.??.??"]
 [Round "11"]
 [White "Spassky Boris V (FRA)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -488,14 +467,12 @@ Qf8 31.Nf2 h5 1/2-1/2
 
 [Event "Spassky - Keres Candidates Quarterfinal"]
 [Site "Riga URS"]
-[Date "1965.04.14"]
 [Round "5"]
 [White "Boris Spassky"]
 [Black "Paul Keres"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C97"]
-[EventDate "1965.04.07"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -512,14 +489,12 @@ Qf8 31.Nf2 h5 1/2-1/2
 
 [Event "Spassky - Tal Candidates Final"]
 [Site "Tbilisi URS"]
-[Date "1965.11.22"]
 [Round "10"]
 [White "Boris Spassky"]
 [Black "Mikhail Tal"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "1965.11.01"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -535,14 +510,12 @@ Qf8 31.Nf2 h5 1/2-1/2
 
 [Event "Second Piatigorsky Cup"]
 [Site "Santa Monica, CA USA"]
-[Date "1966.08.01"]
 [Round "10"]
 [White "Boris Spassky"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D27"]
-[EventDate "1966.07.17"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -555,14 +528,12 @@ Qf8 31.Nf2 h5 1/2-1/2
 
 [Event "Second Piatigorsky Cup"]
 [Site "Santa Monica, CA USA"]
-[Date "1966.08.11"]
 [Round "16"]
 [White "Boris Spassky"]
 [Black "Borislav Ivkov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E63"]
-[EventDate "1966.07.17"]
 [PlyCount "60"]
 [WhiteElo "?"]
 

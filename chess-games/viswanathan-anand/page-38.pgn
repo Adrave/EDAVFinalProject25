@@ -1,6 +1,5 @@
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2006.01.19"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -25,7 +24,6 @@ Rf7 48.Rd5 b4 49.Ne7 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2006.01.24"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Wely Loek (NED)"]
@@ -49,7 +47,6 @@ Ke5 42.Rd7 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2006.01.29"]
 [Round "13"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -77,7 +74,6 @@ h6 64.Nd5 Rbg8 65.Nf4+ Ke7 66.e6 1-0
 
 [Event "It \"Glitnir Blitz\""]
 [Site "Reykjavik (Iceland)"]
-[Date "2006.03.15"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -100,7 +96,6 @@ Kh8 36.Rxe5 R4f5 37.Qh6+ Kg8 38.Qxh4 Rxe5 39.Qg3+ 1-0
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.19"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -126,7 +121,6 @@ Qd4+ 53.Ka6 1-0
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.21"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -151,7 +145,6 @@ Kf8 41.d5 Qc1+ 42.Ke2 Qc2+ 43.Kf3 Qd1+ 44.Kg2 g5 45.Qc8+ Kg7
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.24"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -179,7 +172,6 @@ Kf6 65.Ne4+ Kg7 66.g5 Bc4 67.Ng3 1-0
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.28"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -202,7 +194,6 @@ Qb2 36.d7 Qe5+ 37.g3 Qf5 38.Kg2 1-0
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.29"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Aronian Levon (GER)"]
@@ -231,7 +222,6 @@ Rf4 65.Nd5 Rxf2 66.Nb6+ Ke7 67.Nc8+ Nxc8 68.Rxc8 Kf7 69.Rd8 g3
 
 [Event "It (cat.20)"]
 [Site "Sofia (Bulgaria)"]
-[Date "2006.05.14"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -257,7 +247,6 @@ Nd1+ 48.Kb4 Rd2 49.Bxa7 Rb2+ 50.Ka3 Rb1 51.Rb6 Ra1+ 52.Kb3 e4
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.23"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Batchuluun Cegmed (MGL)"]
@@ -279,7 +268,6 @@ Bc8 31.Qg6 d4 32.Bxe6+ Kh8 33.Ng5 Qc6+ 34.Kh2 1-0
 
 [Event "It (active)"]
 [Site "Leon (Spain)"]
-[Date "2006.06.09"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -305,7 +293,6 @@ fxe5 53.Bxb5 Bc8 54.Ka5 1-0
 
 [Event "It (active)"]
 [Site "Leon (Spain)"]
-[Date "2006.06.09"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -329,7 +316,6 @@ Ra1+ 43.Bb1 Kf6 44.Ra5 Rxa5 45.bxa5 1-0
 
 [Event "It (active)"]
 [Site "Leon (Spain)"]
-[Date "2006.06.11"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -354,7 +340,6 @@ c4 37.Ree6 cxb3 38.cxb3 Kf5 39.Re3 Rc8 40.Rf3+ Ke4 41.Re6+ Kd5
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "2006.08.05"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Strikovic Aleksa (SCG)"]
@@ -376,7 +361,6 @@ Rh8 31.f6+ Kg8 32.fxe7 Qxe7 33.Qh2 Kg7 34.Nf6 1-0
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "2006.08.06"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanisevic Ivan (SCG)"]
@@ -399,7 +383,6 @@ Bxe6 31.Nxe6 a4 32.Qe3 Qa5 33.Qh3 Qa7 34.Rhf1 axb3 35.cxb3 Qe7
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.26"]
 [Round "11"]
 [White "Anand, Viswanathan"]
 [Black "Shirov, Alexei"]
@@ -407,7 +390,6 @@ Bxe6 31.Nxe6 a4 32.Qe3 Qa5 33.Qh3 Qa7 34.Rhf1 axb3 35.cxb3 Qe7
 [WhiteElo "2779"]
 [BlackElo "2715"]
 [ECO "C43"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O 
 Bd6 8. c4 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 O-O 12. Qh5 g6 13. Qxd5 
@@ -419,7 +401,6 @@ bxc4 20. Rxc4 Qh4 21. Qh3 Qxh3 22. gxh3 Rac8 23. Rac1 Rxc4 24. Rxc4 f5 25.
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.20"]
 [Round "7"]
 [White "Anand, Viswanathan"]
 [Black "Radjabov, Teimour"]
@@ -427,7 +408,6 @@ bxc4 20. Rxc4 Qh4 21. Qh3 Qxh3 22. gxh3 Rac8 23. Rac1 Rxc4 24. Rxc4 f5 25.
 [WhiteElo "2779"]
 [BlackElo "2729"]
 [ECO "B33"]
-[EventDate "2007.01.13"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 
 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. a4 bxa4 14. 
@@ -440,7 +420,6 @@ Rxc1 Qa3 39. Rb1 Qa2 40. Rd1 Qf7 41. Nxf6 Qxf6 42. Qc7 Rf7 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.15"]
 [Round "3"]
 [White "Anand, Viswanathan"]
 [Black "Aronian, Levon"]
@@ -448,7 +427,6 @@ Rxc1 Qa3 39. Rb1 Qa2 40. Rd1 Qf7 41. Nxf6 Qxf6 42. Qc7 Rf7 1/2-1/2
 [WhiteElo "2779"]
 [BlackElo "2744"]
 [ECO "C89"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14.
@@ -460,7 +438,6 @@ Qxe8 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.28"]
 [Round "13"]
 [White "Anand, Viswanathan"]
 [Black "Navara, David"]
@@ -468,7 +445,6 @@ Qxe8 1/2-1/2
 [WhiteElo "2779"]
 [BlackElo "2719"]
 [ECO "C88"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. h3 Bb7 9. d3 d6 10. a3 Qd7 11. Nbd2 Rfe8 12. c3 Bf8 13. Ba2 Nd8 14. Nf1
@@ -479,14 +455,12 @@ Bf4+ 26. g3 Rd3 27. gxf4 1/2-1/2
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.6"]
 [White "Viswanathan Anand"]
 [Black "David Gomez Benitez"]
 [Result "1/2-1/2"]
 [BlackElo "2084"]
 [ECO "B01"]
-[EventDate "2007.12.05"]
 [PlyCount "110"]
 [WhiteElo "2801"]
 
@@ -504,14 +478,12 @@ Bf4+ 26. g3 Rd3 27. gxf4 1/2-1/2
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.18"]
 [White "Viswanathan Anand"]
 [Black "Jose Antonio Soler Nadal"]
 [Result "1/2-1/2"]
 [BlackElo "1939"]
 [ECO "D11"]
-[EventDate "2007.12.05"]
 [PlyCount "67"]
 [WhiteElo "2801"]
 
@@ -526,14 +498,12 @@ Bf4+ 26. g3 Rd3 27. gxf4 1/2-1/2
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.21"]
 [White "Viswanathan Anand"]
 [Black "Aaron Bendayan Claros"]
 [Result "1/2-1/2"]
 [BlackElo "1922"]
 [ECO "B15"]
-[EventDate "2007.12.05"]
 [PlyCount "98"]
 [WhiteElo "2801"]
 
@@ -550,14 +520,12 @@ Bf4+ 26. g3 Rd3 27. gxf4 1/2-1/2
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.28"]
 [White "Viswanathan Anand"]
 [Black "Ivan Rasskin Friederichs"]
 [Result "1/2-1/2"]
 [BlackElo "1781"]
 [ECO "E98"]
-[EventDate "2007.12.05"]
 [PlyCount "60"]
 [WhiteElo "2801"]
 
@@ -571,14 +539,12 @@ Bf4+ 26. g3 Rd3 27. gxf4 1/2-1/2
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.26"]
 [White "Viswanathan Anand"]
 [Black "Miguel Cubillo Munoz"]
 [Result "1/2-1/2"]
 [BlackElo "1866"]
 [ECO "E81"]
-[EventDate "2007.12.05"]
 [PlyCount "105"]
 [WhiteElo "2801"]
 

@@ -1,13 +1,11 @@
 [Event "Euwe - Alekhine World Championship Rematch"]
 [Site "Eindhoven NED"]
-[Date "1937.11.20"]
 [Round "19"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E21"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "Alekhine - Euwe World Championship Match"]
 [Site "Various Locations NED"]
-[Date "1935.10.15"]
 [Round "6"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D12"]
-[EventDate "????.??.??"]
 [PlyCount "145"]
 [WhiteElo "?"]
 
@@ -52,14 +48,12 @@
 
 [Event "Alekhine - Euwe World Championship Match"]
 [Site "Various Locations NED"]
-[Date "1935.12.08"]
 [Round "28"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -79,14 +73,12 @@
 
 [Event "Living pieces exhibition"]
 [Site "Amsterdam NED"]
-[Date "1936.10.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D17"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -99,14 +91,12 @@
 
 [Event "Exhibition Game"]
 [Site "Amsterdam NED"]
-[Date "1934.02.17"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A44"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -120,14 +110,12 @@
 
 [Event "VAS Winter"]
 [Site "Amsterdam NED"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Norbert Moldauer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -145,14 +133,12 @@
 
 [Event "VAS Winter"]
 [Site "Amsterdam NED"]
-[Date "1923.04.15"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Evert Straat"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -167,14 +153,12 @@
 
 [Event "NED-ch"]
 [Site "The Hague NED"]
-[Date "1919.12.28"]
 [Round "3"]
 [White "Max Euwe"]
 [Black "Willem Andreas Theodorus Schelfhout"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "112"]
 [WhiteElo "?"]
 
@@ -192,14 +176,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Gerard Oskam"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -217,14 +199,12 @@
 
 [Event "Amsterdam m3"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Max Marchand"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -239,14 +219,12 @@
 
 [Event "Amsterdam m3"]
 [Site "Amsterdam NED"]
-[Date "1920.03.??"]
 [Round "3"]
 [White "Max Euwe"]
 [Black "Max Marchand"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -262,14 +240,12 @@
 
 [Event "Amsterdam m3"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "9"]
 [White "Max Euwe"]
 [Black "Max Marchand"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -287,14 +263,12 @@
 
 [Event "Bromley"]
 [Site "Bromley ENG"]
-[Date "1920.04.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Edmund Spencer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -308,14 +282,12 @@
 
 [Event "Rotterdam"]
 [Site "Rotterdam NED"]
-[Date "1921.01.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Richard Reti"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C48"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -331,14 +303,12 @@
 
 [Event "Broadstairs"]
 [Site "Broadstairs ENG"]
-[Date "1921.04.02"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "John Drewitt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -355,14 +325,12 @@
 
 [Event "Vienna"]
 [Site "Vienna AUT"]
-[Date "1921.05.22"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Vladimir Vukovic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -379,14 +347,12 @@
 
 [Event "Vienna"]
 [Site "Vienna AUT"]
-[Date "1921.05.17"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Ernst Gruenfeld"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C47"]
-[EventDate "????.??.??"]
 [PlyCount "129"]
 [WhiteElo "?"]
 
@@ -406,14 +372,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1921.06.??"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Adolf Georg Olland"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "131"]
 [WhiteElo "?"]
 
@@ -433,14 +397,12 @@
 
 [Event "Simultaneous exhibition"]
 [Site "Vancouver"]
-[Date "1949.01.17"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "R H Eminson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -456,14 +418,12 @@
 
 [Event "NED-YUG"]
 [Site "Utrecht NED"]
-[Date "1950.06.24"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Svetozar Gligoric"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "25"]
 [WhiteElo "?"]
 
@@ -474,14 +434,12 @@
 
 [Event "Kamstra Cup"]
 [Site "Rotterdam NED"]
-[Date "1940.05.04"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "Chris Vlagsma"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C86"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -497,14 +455,12 @@
 
 [Event "Beverwijk"]
 [Site "Beverwijk NED"]
-[Date "1941.01.11"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Arthur Joseph Wijnans"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -521,14 +477,12 @@
 
 [Event "Mar del Plata"]
 [Site "Mar del Plata ARG"]
-[Date "1947.03.17"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Gideon Stahlberg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "????.??.??"]
 [PlyCount "188"]
 [WhiteElo "?"]
 
@@ -553,14 +507,12 @@
 
 [Event "FIDE World Championship Tournament"]
 [Site "Hague NLD/Moscow RUS"]
-[Date "1948.04.25"]
 [Round "17"]
 [White "Max Euwe"]
 [Black "Mikhail Botvinnik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -574,14 +526,12 @@
 
 [Event "Netherlands tt"]
 [Site "?"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Joseph August Polak"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E10"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 

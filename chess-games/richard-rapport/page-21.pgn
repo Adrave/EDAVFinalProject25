@@ -1,6 +1,5 @@
 [Event "Entrefaros GM 2013"]
 [Site "Camarinas ESP"]
-[Date "2013.10.14"]
 [Round "10.1"]
 [White "Rapport, R."]
 [Black "Cheparinov, I."]
@@ -9,7 +8,6 @@
 [WhiteElo "2676"]
 [BlackElo "2672"]
 [PlyCount "85"]
-[EventDate "2013.10.05"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "ESP"]
@@ -28,7 +26,6 @@ Qxe8+ Kg7 41. Qe7+ Kh6 42. Qf8+ Kh5 43. Qg7 0-1
 
 [Event "ch-European Blitz 2013"]
 [Site "Warsaw POL"]
-[Date "2013.12.13"]
 [Round "11.2"]
 [White "Rapport, R."]
 [Black "Dubov, Daniil"]
@@ -37,7 +34,6 @@ Qxe8+ Kg7 41. Qe7+ Kh6 42. Qf8+ Kh5 43. Qg7 0-1
 [WhiteElo "2687"]
 [BlackElo "2629"]
 [PlyCount "122"]
-[EventDate "2013.12.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "11"]
 [EventCountry "POL"]
@@ -58,7 +54,6 @@ Rb3+ 60. Kc7 Rb5 61. Rg7+ Kf6 0-1
 
 [Event "ch-European Blitz 2013"]
 [Site "Warsaw POL"]
-[Date "2013.12.13"]
 [Round "9.1"]
 [White "Rapport, R."]
 [Black "Wojtaszek, R."]
@@ -67,7 +62,6 @@ Rb3+ 60. Kc7 Rb5 61. Rg7+ Kf6 0-1
 [WhiteElo "2687"]
 [BlackElo "2711"]
 [PlyCount "86"]
-[EventDate "2013.12.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "11"]
 [EventCountry "POL"]
@@ -85,7 +79,6 @@ Kg1 Bxd5 41. Nd6+ Kd7 42. Bg3 b5 43. Kf2 Rh6 0-1
 
 [Event "ch-European Blitz 2013"]
 [Site "Warsaw POL"]
-[Date "2013.12.13"]
 [Round "6.2"]
 [White "Rapport, R."]
 [Black "Korobov, A."]
@@ -94,7 +87,6 @@ Kg1 Bxd5 41. Nd6+ Kd7 42. Bg3 b5 43. Kf2 Rh6 0-1
 [WhiteElo "2687"]
 [BlackElo "2713"]
 [PlyCount "75"]
-[EventDate "2013.12.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "11"]
 [EventCountry "POL"]
@@ -111,7 +103,6 @@ Nce5 Rc3 35. Rd7 h5 36. Ng6 hxg4 37. Nxh4 Rxc2 38. Ng2 0-1
 
 [Event "Breisacher Memorial"]
 [Site "Biel SUI"]
-[Date "2013.07.23"]
 [Round "2.2"]
 [White "Rapport, R."]
 [Black "Moiseenko, A1."]
@@ -120,7 +111,6 @@ Nce5 Rc3 35. Rd7 h5 36. Ng6 hxg4 37. Nxh4 Rxc2 38. Ng2 0-1
 [WhiteElo "2693"]
 [BlackElo "2699"]
 [PlyCount "76"]
-[EventDate "2012.07.22"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
@@ -139,7 +129,6 @@ bxc4 35. Ne3 c3 36. Nxf5 cxb2 37. Nd7 Qa8 38. Qxb2 c5 0-1
 
 [Event "41st TCh-GRE"]
 [Site "Rio (Achaia) GRE"]
-[Date "2013.07.04"]
 [Round "3.1"]
 [White "Rapport, R."]
 [Black "Lagopatis, N."]
@@ -148,7 +137,6 @@ bxc4 35. Ne3 c3 36. Nxf5 cxb2 37. Nd7 Qa8 38. Qxb2 c5 0-1
 [WhiteElo "2693"]
 [BlackElo "2182"]
 [PlyCount "87"]
-[EventDate "2013.07.02"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "GRE"]
@@ -168,7 +156,6 @@ Rae1 h5 23. Qd2 Bd7 24. Bc3 b6 25. Kh1 Nh7 26. Qb2 Bh6 27. Nf3 b5 28. e5 dxe5
 
 [Event "75th Tata Steel GpB"]
 [Site "Wijk aan Zee NED"]
-[Date "2013.01.13"]
 [Round "2.4"]
 [White "Rapport, R."]
 [Black "Edouard, R."]
@@ -177,7 +164,6 @@ Rae1 h5 23. Qd2 Bd7 24. Bc3 b6 25. Kh1 Nh7 26. Qb2 Bh6 27. Nf3 b5 28. e5 dxe5
 [WhiteElo "2621"]
 [BlackElo "2686"]
 [PlyCount "83"]
-[EventDate "2013.01.12"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -198,7 +184,6 @@ Nf8+ Kh8 41. Qg6 Nxe3 42. Qh7# 1-0
 
 [Event "75th Tata Steel GpB"]
 [Site "Wijk aan Zee NED"]
-[Date "2013.01.15"]
 [Round "4.4"]
 [White "Rapport, R."]
 [Black "Movsesian, S."]
@@ -207,7 +192,6 @@ Nf8+ Kh8 41. Qg6 Nxe3 42. Qh7# 1-0
 [WhiteElo "2621"]
 [BlackElo "2688"]
 [PlyCount "79"]
-[EventDate "2013.01.12"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -226,7 +210,6 @@ Bxd5 35. d8=Q Qe5+ 36. Kg1 Qe3+ 37. Rf2 Qe1+ 38. Rf1 Qe3+ 39. Kh2 Qe5+ 40. Kh1
 
 [Event "75th Tata Steel GpB"]
 [Site "Wijk aan Zee NED"]
-[Date "2013.01.26"]
 [Round "12.3"]
 [White "Rapport, R."]
 [Black "Timman, J."]
@@ -235,7 +218,6 @@ Bxd5 35. d8=Q Qe5+ 36. Kg1 Qe3+ 37. Rf2 Qe1+ 38. Rf1 Qe3+ 39. Kh2 Qe5+ 40. Kh1
 [WhiteElo "2621"]
 [BlackElo "2566"]
 [PlyCount "91"]
-[EventDate "2013.01.12"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -255,7 +237,6 @@ R8d7 Rh8 41. Rxa7 Rhb8 42. Rd2 Rb3+ 43. Kc4 Rxb2 44. Rxb2 Rxb2 45. Kxc5 Rxg2
 
 [Event "75th Tata Steel GpB"]
 [Site "Wijk aan Zee NED"]
-[Date "2013.01.23"]
 [Round "10.3"]
 [White "Rapport, R."]
 [Black "Ipatov, Alexander"]
@@ -264,7 +245,6 @@ R8d7 Rh8 41. Rxa7 Rhb8 42. Rd2 Rb3+ 43. Kc4 Rxb2 44. Rxb2 Rxb2 45. Kxc5 Rxg2
 [WhiteElo "2621"]
 [BlackElo "2587"]
 [PlyCount "143"]
-[EventDate "2013.01.12"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -288,7 +268,6 @@ fxg4 Rb7 67. Rd6 Rb5 68. g5 fxg5+ 69. hxg5 Ra5 70. Rf6+ Kg7 71. Re6 Ra1 72. Re5
 
 [Event "Bundesliga 2012-13"]
 [Site "Emsdetten GER"]
-[Date "2013.02.03"]
 [Round "8"]
 [White "Rapport, R."]
 [Black "Acs, Peter"]
@@ -297,7 +276,6 @@ fxg4 Rb7 67. Rd6 Rb5 68. g5 fxg5+ 69. hxg5 Ra5 70. Rf6+ Kg7 71. Re6 Ra1 72. Re5
 [WhiteElo "2621"]
 [BlackElo "2586"]
 [PlyCount "81"]
-[EventDate "2012.10.20"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -317,7 +295,6 @@ Qxg3+ 41. Kxg3 1-0
 
 [Event "Bundesliga 2012-13"]
 [Site "Bremen GER"]
-[Date "2013.02.24"]
 [Round "10"]
 [White "Rapport, R."]
 [Black "Zaragatski, I."]
@@ -326,7 +303,6 @@ Qxg3+ 41. Kxg3 1-0
 [WhiteElo "2621"]
 [BlackElo "2460"]
 [PlyCount "137"]
-[EventDate "2012.10.20"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -350,7 +326,6 @@ Kf6 66. Rf7+ Ke5 67. Re7+ Kd4 68. Re4+ Kd3 69. f6 1-0
 
 [Event "TCh-HUN 2012-13"]
 [Site "Szombathely HUN"]
-[Date "2013.03.03"]
 [Round "8"]
 [White "Rapport, R."]
 [Black "Izsak, Gyu"]
@@ -359,7 +334,6 @@ Kf6 66. Rf7+ Ke5 67. Re7+ Kd4 68. Re4+ Kd3 69. f6 1-0
 [WhiteElo "2621"]
 [BlackElo "2471"]
 [PlyCount "83"]
-[EventDate "2012.09.16"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "HUN"]
@@ -379,7 +353,6 @@ Re8+ Kh7 41. e6 Rd5+ 42. Kc1 1-0
 
 [Event "17th Neckar Open"]
 [Site "Deizisau GER"]
-[Date "2013.03.29"]
 [Round "3.4"]
 [White "Rapport, R."]
 [Black "Fedorovsky, M."]
@@ -388,7 +361,6 @@ Re8+ Kh7 41. e6 Rd5+ 42. Kc1 1-0
 [WhiteElo "2646"]
 [BlackElo "2392"]
 [PlyCount "115"]
-[EventDate "2013.03.28"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -408,7 +380,6 @@ Ng5 54. Ne7+ Kh8 55. Ng6+ Kg8 56. f4 Nh7 57. Ne7+ Kh8 58. Nd8 1-0
 
 [Event "17th Neckar Open"]
 [Site "Deizisau GER"]
-[Date "2013.03.28"]
 [Round "1.5"]
 [White "Rapport, R."]
 [Black "Hoecher, Michael"]
@@ -417,7 +388,6 @@ Ng5 54. Ne7+ Kh8 55. Ng6+ Kg8 56. f4 Nh7 57. Ne7+ Kh8 58. Nd8 1-0
 [WhiteElo "2646"]
 [BlackElo "1986"]
 [PlyCount "69"]
-[EventDate "2013.03.28"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -434,7 +404,6 @@ Nb6 22. Nc5 Qa7 23. Qd1 e5 24. dxe5 d4 25. Qg4 Kh8 26. exd4 Rxd4 27. N3e4 Nxe5
 
 [Event "Bundesliga 2012-13"]
 [Site "Schwetzingen GER"]
-[Date "2013.04.07"]
 [Round "15"]
 [White "Rapport, R."]
 [Black "Zwanzger, J."]
@@ -443,7 +412,6 @@ Nb6 22. Nc5 Qa7 23. Qd1 e5 24. dxe5 d4 25. Qg4 Kh8 26. exd4 Rxd4 27. N3e4 Nxe5
 [WhiteElo "2621"]
 [BlackElo "2326"]
 [PlyCount "69"]
-[EventDate "2012.10.20"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -462,7 +430,6 @@ Nh6+ Kh8 35. Qf7 1-0
 
 [Event "Bundesliga 2012-13"]
 [Site "Schwetzingen GER"]
-[Date "2013.04.05"]
 [Round "13"]
 [White "Rapport, R."]
 [Black "Janssen, Ru"]
@@ -471,7 +438,6 @@ Nh6+ Kh8 35. Qf7 1-0
 [WhiteElo "2621"]
 [BlackElo "2483"]
 [PlyCount "147"]
-[EventDate "2012.10.20"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -496,7 +462,6 @@ Rb8 Kf3 73. Rb3+ Kg4 74. d7 1-0
 
 [Event "10th Balagne Rapid KO"]
 [Site "Calvi FRA"]
-[Date "2013.04.14"]
 [Round "2.1"]
 [White "Rapport, R."]
 [Black "Skripchenko, A."]
@@ -505,7 +470,6 @@ Rb8 Kf3 73. Rb3+ Kg4 74. d7 1-0
 [WhiteElo "2654"]
 [BlackElo "2430"]
 [PlyCount "115"]
-[EventDate "2013.04.14"]
 [EventType "k.o. (rapid)"]
 [EventRounds "4"]
 [EventCountry "FRA"]
@@ -525,7 +489,6 @@ Rd4 Re5 53. Ra4 Kf6 54. Kf1 Ke6 55. Kg2 Ra5 56. Rd4 Re5 57. Ra4 Kf6 58. Kf1 1-0
 
 [Event "10th Balagne Rapid KO"]
 [Site "Calvi FRA"]
-[Date "2013.04.14"]
 [Round "1.1"]
 [White "Rapport, R."]
 [Black "Bunoust, Lucas"]
@@ -534,7 +497,6 @@ Rd4 Re5 53. Ra4 Kf6 54. Kf1 Ke6 55. Kg2 Ra5 56. Rd4 Re5 57. Ra4 Kf6 58. Kf1 1-0
 [WhiteElo "2654"]
 [BlackElo "1726"]
 [PlyCount "71"]
-[EventDate "2013.04.14"]
 [EventType "k.o. (rapid)"]
 [EventRounds "4"]
 [EventCountry "FRA"]
@@ -551,7 +513,6 @@ Rxd1 28. Rxd1 Qe7 29. Qe5 a6 30. Kg2 Kf7 31. Rd6 Rd8 32. Rxc6 Rd2+ 33. Kf3 Rd7
 
 [Event "10th Balagne Rapid Open"]
 [Site "Calvi FRA"]
-[Date "2013.04.13"]
 [Round "5"]
 [White "Rapport, R."]
 [Black "Bacrot, E."]
@@ -560,7 +521,6 @@ Rxd1 28. Rxd1 Qe7 29. Qe5 a6 30. Kg2 Kf7 31. Rd6 Rd8 32. Rxc6 Rd2+ 33. Kf3 Rd7
 [WhiteElo "2654"]
 [BlackElo "2705"]
 [PlyCount "81"]
-[EventDate "2013.04.13"]
 [EventType "swiss (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -578,7 +538,6 @@ a4 40. g6 Ree8 41. Rf7 1-0
 
 [Event "10th Balagne Rapid Open"]
 [Site "Calvi FRA"]
-[Date "2013.04.13"]
 [Round "1"]
 [White "Rapport, R."]
 [Black "Daagi, Mahdi"]
@@ -586,7 +545,6 @@ a4 40. g6 Ree8 41. Rf7 1-0
 [ECO "A01"]
 [WhiteElo "2654"]
 [PlyCount "55"]
-[EventDate "2013.04.13"]
 [EventType "swiss (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -602,7 +560,6 @@ Rxh2 27. Rb7 c4 28. b4# 1-0
 
 [Event "Bundesliga 2013-14"]
 [Site "Solingen GER"]
-[Date "2014.02.22"]
 [Round "9.1"]
 [White "Rapport, Richard"]
 [Black "Bobras, Piotr"]
@@ -610,7 +567,6 @@ Rxh2 27. Rb7 c4 28. b4# 1-0
 [WhiteElo "2676"]
 [BlackElo "2518"]
 [ECO "A45"]
-[EventDate "2013.10.12"]
 
 1. d4 Nf6 2. Bf4 g6 3. Nc3 Bg7 4. e4 d6 5. Qd2 Nc6 6. O-O-O O-O 7. Bh6 e5 
 8. Bxg7 Kxg7 9. d5 Nd4 10. Nge2 c5 11. Ng3 Bd7 12. Nb1 Rc8 13. h4 h5 14. 
@@ -621,7 +577,6 @@ Na3 b5 15. c3 b4 16. cxd4 bxa3 17. dxe5 axb2+ 18. Kxb2 dxe5 19. Ka1 Ne8
 
 [Event "Bundesliga 2013-14"]
 [Site "Solingen GER"]
-[Date "2014.02.22"]
 [Round "9"]
 [White "Rapport, Richard"]
 [Black "Bobras, Piotr"]
@@ -629,7 +584,6 @@ Na3 b5 15. c3 b4 16. cxd4 bxa3 17. dxe5 axb2+ 18. Kxb2 dxe5 19. Ka1 Ne8
 [WhiteElo "2676"]
 [BlackElo "2518"]
 [ECO "A45"]
-[EventDate "2013.10.12"]
 
 1. d4 Nf6 2. Bf4 g6 3. Nc3 Bg7 4. e4 d6 5. Qd2 Nc6 6. O-O-O O-O 7. Bh6 e5 
 8. Bxg7 Kxg7 9. d5 Nd4 10. Nge2 c5 11. Ng3 Bd7 12. Nb1 Rc8 13. h4 h5 14. 
@@ -640,7 +594,6 @@ Na3 b5 15. c3 b4 16. cxd4 bxa3 17. dxe5 axb2+ 18. Kxb2 dxe5 19. Ka1 Ne8
 
 [Event "TCh-AUT 1. Bundesliga 2013-14"]
 [Site "Sankt Veit an der Glan AUT"]
-[Date "2014.03.20"]
 [Round "8.2"]
 [White "Rapport, Richard"]
 [Black "Stevic, Hrvoje"]
@@ -648,7 +601,6 @@ Na3 b5 15. c3 b4 16. cxd4 bxa3 17. dxe5 axb2+ 18. Kxb2 dxe5 19. Ka1 Ne8
 [WhiteElo "2687"]
 [BlackElo "2611"]
 [ECO "A01"]
-[EventDate "2013.12.06"]
 
 1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 a6 6. Bxc6 dxc6 7. Nc4 Qe7
 8. a4 O-O 9. a5 Nd7 10. Ne2 b5 11. axb6 cxb6 12. Nxd6 Qxd6 13. d4 exd4 14.
@@ -665,7 +617,6 @@ Kh7 62. Rd7+ Kg8 63. g5 hxg5 64. Kg6 Kf8 65. f6 1-0
 
 [Event "TCh-AUT 1. Bundesliga 2013-14"]
 [Site "Sankt Veit an der Glan AUT"]
-[Date "2014.03.23"]
 [Round "11.2"]
 [White "Rapport, Richard"]
 [Black "Bauer, Christian"]
@@ -673,7 +624,6 @@ Kh7 62. Rd7+ Kg8 63. g5 hxg5 64. Kg6 Kf8 65. f6 1-0
 [WhiteElo "2687"]
 [BlackElo "2630"]
 [ECO "A11"]
-[EventDate "2013.12.06"]
 
 1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. O-O Bf5 5. c4 e6 6. cxd5 exd5 7. d3 Be7 
 8. Nc3 O-O 9. Nd4 Bg6 10. e4 Nbd7 11. exd5 cxd5 12. Nde2 Nc5 13. Nf4 d4 

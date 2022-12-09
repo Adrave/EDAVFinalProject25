@@ -1,13 +1,11 @@
 [Event "Simul, 37b"]
 [Site "The Hague NED"]
-[Date "1925.12.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "H B Galema"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Rosario"]
 [Site "Rosario ARG"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Felix Ferreyra"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -43,14 +39,12 @@
 
 [Event "Simul, 24b"]
 [Site "London ENG"]
-[Date "1926.01.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Hughes Hughes"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B21"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Simul, 35b"]
 [Site "Rouen FRA"]
-[Date "1937.03.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Marcel Berman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -86,14 +78,12 @@
 
 [Event "Nice"]
 [Site "Nice FRA"]
-[Date "1937.03.28"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Nicola Barbatto Rometti"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A45"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -106,14 +96,12 @@
 
 [Event "Euwe - Alekhine World Championship Rematch"]
 [Site "Amsterdam NED"]
-[Date "1937.10.12"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D17"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -127,14 +115,12 @@
 
 [Event "Euwe - Alekhine World Championship Rematch"]
 [Site "Amsterdam NED"]
-[Date "1937.11.23"]
 [Round "20"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E34"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -150,14 +136,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.05.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Octavio Figueira Trompowsky de Almeida"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E10"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -172,14 +156,12 @@
 
 [Event "Simul, 36b"]
 [Site "Leeds ENG"]
-[Date "1938.12.10"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Arnold Yarworth Green"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E34"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -198,14 +180,12 @@
 
 [Event "Simul, 30b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.05.31"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "R Ferreira"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -221,14 +201,12 @@
 
 [Event "Simul, 25b"]
 [Site "Belo Horizonte BRA"]
-[Date "1939.06.17"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Serra Negra F"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -245,14 +223,12 @@
 
 [Event "Simul, 25b"]
 [Site "Belo Horizonte BRA"]
-[Date "1939.06.19"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "T Motta"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "106"]
 [WhiteElo "?"]
 
@@ -270,14 +246,12 @@
 
 [Event "Simul, 16b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.06.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Nelson Dantas"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "121"]
 [WhiteElo "?"]
 
@@ -296,14 +270,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.05.26"]
 [Round "12"]
 [White "Alexander Alekhine"]
 [Black "Jayme Schreibman Moses"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D61"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -318,14 +290,12 @@
 
 [Event "Simul, 16b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.06.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Alcino Caldas Vianna"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -341,14 +311,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.05.26"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Joao de Souza Mendes Jr."]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -364,14 +332,12 @@
 
 [Event "Alicante"]
 [Site "Alicante ESP"]
-[Date "1935.02.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Baldo"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D66"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -386,14 +352,12 @@
 
 [Event "La Coruna"]
 [Site "La Coruna ESP"]
-[Date "1935.03.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Juan Fernandez Rua"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -409,14 +373,12 @@
 
 [Event "Clock simul, 13b"]
 [Site "Riga LAT"]
-[Date "1935.09.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Elksnis"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B29"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -429,14 +391,12 @@
 
 [Event "Warsaw Olympiad"]
 [Site "Warsaw POL"]
-[Date "1935.08.31"]
 [Round "19"]
 [White "Alexander Alekhine"]
 [Black "Eero Einar Book"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D23"]
-[EventDate "????.??.??"]
 [PlyCount "102"]
 [WhiteElo "?"]
 
@@ -454,14 +414,12 @@
 
 [Event "Alekhine - Euwe World Championship Match"]
 [Site "Various Locations NED"]
-[Date "1935.10.12"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C15"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -476,14 +434,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Riga LAT"]
-[Date "1935.09.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Janis Fride"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -496,14 +452,12 @@
 
 [Event "Alekhine - Euwe World Championship Match"]
 [Site "Various Locations NED"]
-[Date "1935.11.26"]
 [Round "23"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "????.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -522,14 +476,12 @@
 
 [Event "Clock simul, 6b"]
 [Site "Vienna AUT"]
-[Date "1936.03.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Baldur Hoenlinger"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -546,14 +498,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sofia BUL"]
-[Date "1936.04.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Alexander Kiprov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 

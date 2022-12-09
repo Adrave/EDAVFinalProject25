@@ -1,6 +1,5 @@
 [Event "It (cat.14)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1980.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dolmatov Sergey (RUS)"]
@@ -26,7 +25,6 @@ g5 48.Qe2 Rb8 49.g4 hxg4 50.hxg4 Qb1+ 51.Kg2 Rb7 52.Rxb7 Qxb7
 
 [Event "It (cat.14)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1980.??.??"]
 [Round "11"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -48,7 +46,6 @@ hxg4 25.hxg4 Bxe4 26.Rxe4 Bg7 27.Re3 Qd1+ 28.Ka2 Qd5+ 29.c4 Qd2
 
 [Event "It (cat.14)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1980.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -70,7 +67,6 @@ Rh1+ 31.Kc2 h5 32.Qd3 Kd7 33.Rb4 Rg1 34.d5 cxd5 35.c6+ Kxc6 36.Qb5+ 1-0
 
 [Event "It (cat.14)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1980.??.??"]
 [Round "13"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -92,7 +88,6 @@ Rd8 31.Kg2 Kd7 32.Re2 Kc8 33.Re7 Rd7 34.Ra2 a5 35.Rc2 1-0
 
 [Event "It (cat.14)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1980.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -114,7 +109,6 @@ Kg8 31.Rxe8+ Bf8 32.Qe6+ 1-0
 
 [Event "It (cat.15)"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -136,7 +130,6 @@ Bb5 25.Rf2 Qc1 26.Rxf6 Rac8 27.Rc2 Qa1 28.fxg6 hxg6 29.Rd6 Rc7
 
 [Event "It (cat.15)"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -170,7 +163,6 @@ Kf8 100.g5 Rg4 101.Ra7 Rg1 102.Kg6 Rg2 103.Ra8+ Ke7 1-0
 
 [Event "It (cat.13)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -194,7 +186,6 @@ Ke7 42.Nb6 1-0
 
 [Event "It (cat.13)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -214,7 +205,6 @@ Bxg2 14.Nxg2 Qe7 15.Nf4 Nd7 16.d5 Bg5 17.dxe6 Bxf4 18.Qxf4 Qxe6
 
 [Event "It (cat.13)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -239,7 +229,6 @@ Rxc7 43.Rc3 Rxc3 44.Kxc3 Nf6 45.Be2 Ne8 46.Nf1 Nf6 47.Nd2 Kd6
 
 [Event "It (cat.13)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -261,7 +250,6 @@ Kd7 31.Bh3+ Ke7 32.Bf1 Kd7 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Linares (Spain)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bellon Lopez Juan Manuel (ESP)"]
@@ -287,7 +275,6 @@ Bd2 54.Ka3 Kc6 55.Ka4 Bc3 56.b7 Kxb7 57.Kb5 Bd2 58.Kxc4 Kc6 59.Kd3 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Linares (Spain)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -306,7 +293,6 @@ Rc8 14.Qa3 a5 15.O-O Qa7 16.b3 Nd7 17.Bb5 Rc7 18.Rfd1 Rac8 19.h3 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Linares (Spain)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -330,7 +316,6 @@ Rxb6 43.Kd3 f5 44.gxf5 exf5 45.Ke3 Kf6 46.Kf3 Kg6 47.Kg3 Kh5 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Linares (Spain)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -350,7 +335,6 @@ Nc5 20.Kh1 Qa8 21.f3 Qb8 22.Qf2 Ba8 23.Ba1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Merano (Italy)"]
-[Date "1981.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -373,7 +357,6 @@ Bg6 32.Be3 Re6 33.Bf4 Qf6 34.Re1 Rae8 35.Rxe6 Rxe6 36.Rb1 h5
 
 [Event "Ch World (match)"]
 [Site "Merano (Italy)"]
-[Date "1981.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -403,7 +386,6 @@ Na4 71.Kd2 b4 72.cxb4 Nxb4 73.Nxh6 Nc5 74.Nf5 Nd5 75.h6 Ne4+
 
 [Event "Ch World (match)"]
 [Site "Merano (Italy)"]
-[Date "1981.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -425,7 +407,6 @@ axb5 31.h4 Kf7 32.Rf3+ 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Merano (Italy)"]
-[Date "1981.??.??"]
 [Round "12"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -449,7 +430,6 @@ Rb8 42.f4 Rc8 43.Kf2 Bf8 44.Ke3 Bb4 45.Rc1 Ba3 46.Rc2 Bb4 47.Rc1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Merano (Italy)"]
-[Date "1981.??.??"]
 [Round "16"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -473,7 +453,6 @@ Qc2 42.Kf1 g5 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Moscow (Russia)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -495,7 +474,6 @@ Rc8 25.Nc6 Kf8 26.Ne5 Rb7 27.Nc4 Rbc7 28.Nd6 Rd8 29.Nb5 Rxd1
 
 [Event "It (cat.15)"]
 [Site "Moscow (Russia)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Smejkal Jan (CZE)"]
@@ -515,7 +493,6 @@ Nd5 20.Ne4 1/2-1/2
 
 [Event "Match 4 Teams"]
 [Site "Moscow (Russia)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -538,7 +515,6 @@ Qb4 37.Rd7 h6 38.Qxf7+ Kh7 39.g5 Qb1 40.g6+ Qxg6+ 41.Qxg6+ Kxg6 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "URS"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -560,7 +536,6 @@ Qxf4 31.hxg4 b4 32.Ne2 Qxg4 33.Rxc8 Rxc8 1-0
 
 [Event "Ch URS (team)"]
 [Site "URS"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Smyslov Vassily (RUS)"]

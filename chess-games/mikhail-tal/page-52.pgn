@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Enevoldsen Jens (DEN)"]
@@ -21,7 +20,6 @@ Nxe5 20.dxe5 Bc6 21.Qh5 Bxe4 22.Rxe4 Qd3 23.Rg4 Rc6 24.Bg5 Bxg5
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sanguinetti Raul (ARG)"]
@@ -44,7 +42,6 @@ Qa7 26.Qe1 Rb7 27.Nd2 Rfb8 28.Ba3 Rxb1 29.Nxb1 Nc5 30.Qe3 Bd8
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Filip Miroslav (CZE)"]
@@ -67,7 +64,6 @@ Rxd4 31.cxd4 Kh7 32.Rd1 Ne8 33.f6 Nxf6 34.Qf5+ Kh8 35.e5 Qg7
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fuster Geza (CAN)"]
@@ -88,7 +84,6 @@ Be7 19.Rhf1 Rf8 20.Rxf8+ Bxf8 21.Qf3 Qe7 22.Qb3 Rb8 23.Bd7+ Qxd7
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -108,7 +103,6 @@ Bd7 14.f4 gxf4 15.Bxf4 Nh5 16.Bxe5 Qxe5 17.Kh1 Nf6 18.Nf3 Qh5
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Panno Oscar (ARG)"]
@@ -134,7 +128,6 @@ Kd5 53.a6 Ra1+ 54.Kf2 c3 55.a7 c2 56.Qb3+ Kd6 57.Qd3+ 1-0
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -160,7 +153,6 @@ Rd4 0-1
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "16"]
 [White "Tal Mikhail (LAT)"]
 [Black "Furman Semen (RUS)"]
@@ -183,7 +175,6 @@ Bf5 25.Qa4 Bb6 26.Rf1 Qh5 27.Bxb6 axb6 28.Rdf2 Bd3 29.g4 Qh4
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "14"]
 [White "Tal Mikhail (LAT)"]
 [Black "Geller Efim P (RUS)"]
@@ -205,7 +196,6 @@ Rxf2 30.Be4 Rxa2 31.Rxc4 a5 32.Rc8+ Kg7 33.Rc7 1-0
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "18"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -226,7 +216,6 @@ Qxd7 25.Qxa8+ Rf8 26.Qxa6 1-0
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "9"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -248,7 +237,6 @@ Qxc6+ 31.Kg1 Qd5 32.Qf4 Qe5 33.h6+ Rxh6 34.Qxh6+ Kxh6 35.g7 Qxg3+ 0-1
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -278,7 +266,6 @@ Qe7+ 70.Kc8 Qe3 71.Qf6+ Kg8 72.Qd8+ Kh7 73.Qc7+ Kh6 74.a7 Qe4
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Tolush Alexander (RUS)"]
@@ -299,7 +286,6 @@ Bd5 25.Nc6 Qxb3 26.Nxe7+ Kf8 27.Re1 Be6 28.Nxf5 Bxf5 29.Qh8# 1-0
 
 [Event ""]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kampenuss P"]
@@ -319,7 +305,6 @@ Bxe4 20.Rxg7+ Kh8 21.Qg5 1-0
 
 [Event ""]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kliavinsh Y (LAT)"]
@@ -340,7 +325,6 @@ Rxd8 25.Bxc6+ 1-0
 
 [Event ""]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lutskan Ilmars (LAT)"]
@@ -361,7 +345,6 @@ bxc5 25.Rxc5 Qb6 26.Rc6 Qd4 27.Rec1 Rcd8 28.Rc7 Qxd5 1-0
 
 [Event ""]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Mileika Ya"]
@@ -386,7 +369,6 @@ Bxg3 41.Rxg3 Rh7 42.h6 gxh6 43.Kc3 Kd6 44.Kd4 Rb7 45.Rg8 Rxb2
 
 [Event ""]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Skuja Roberts"]
@@ -407,7 +389,6 @@ Nc4 20.f5 Nxe3 21.Qxe3 Bxf5 22.Nxd5 Rad8 23.b4 Qa4 24.Qc3 Ne5
 
 [Event "Ch World (students)"]
 [Site "Varna (Bulgaria)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Djurasevic Bozidar (YUG)"]
@@ -431,7 +412,6 @@ g4 41.Kc4 1-0
 
 [Event "Ch World (students)"]
 [Site "Varna (Bulgaria)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Malich Burkhard Dr (GER)"]
@@ -452,7 +432,6 @@ fxe5 25.Qg5+ Kf8 26.Qf6 Rg8 27.Be6 1-0
 
 [Event "Ch World (students)"]
 [Site "Varna (Bulgaria)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Portisch Lajos (HUN)"]
@@ -474,7 +453,6 @@ Kh7 30.Qg8+ Kh6 31.Ne6 Qxc4 32.Qxf8+ Kg6 33.Qg8+ 1-0
 
 [Event "Ch World (team) (under 26) (prel-A)"]
 [Site "Varna (Bulgaria)"]
-[Date "1958.07.??"]
 [Round "3"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Kennedy RC"]
@@ -497,14 +475,12 @@ Bc8 37.f6 Rd7 38.Ne6+ 1-0
 
 [Event "USSR Championship"]
 [Site "Riga URS"]
-[Date "1958.02.??"]
 [Round "12"]
 [White "Mikhail Tal"]
 [Black "Mark Taimanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B43"]
-[EventDate "1958.??.??"]
 [PlyCount "124"]
 [WhiteElo "?"]
 
@@ -523,14 +499,12 @@ Bc8 37.f6 Rd7 38.Ne6+ 1-0
 
 [Event "Stuttgart simul"]
 [Site "?"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B75"]
-[EventDate "1958.??.??"]
 [PlyCount "28"]
 [WhiteElo "?"]
 
@@ -541,14 +515,12 @@ Bc8 37.f6 Rd7 38.Ne6+ 1-0
 
 [Event "USSR Championship"]
 [Site "Riga URS"]
-[Date "1958.01.??"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Alexander Kazimirovich Tolush"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E53"]
-[EventDate "1958.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 

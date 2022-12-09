@@ -1,6 +1,5 @@
 [Event "ch-Moscow Superfinal 2014"]
 [Site "Moscow RUS"]
-[Date "2014.01.31"]
 [Round "8.5"]
 [White "Nepomniachtchi, I."]
 [Black "Najer, E."]
@@ -9,7 +8,6 @@
 [WhiteElo "2732"]
 [BlackElo "2646"]
 [PlyCount "57"]
-[EventDate "2014.01.30"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -26,7 +24,6 @@ Rxe5 28. Bxe5+ Kg8 29. Rg1+ 1-0
 
 [Event "ch-Moscow Superfinal 2014"]
 [Site "Moscow RUS"]
-[Date "2014.01.30"]
 [Round "3.3"]
 [White "Nepomniachtchi, I."]
 [Black "Gordievsky, D."]
@@ -35,7 +32,6 @@ Rxe5 28. Bxe5+ Kg8 29. Rg1+ 1-0
 [WhiteElo "2732"]
 [BlackElo "2451"]
 [PlyCount "45"]
-[EventDate "2014.01.30"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -51,7 +47,6 @@ Kf8 22. Nxc6 Qc5 23. Qf7# 1-0
 
 [Event "ch-Moscow Superfinal 2014"]
 [Site "Moscow RUS"]
-[Date "2014.01.30"]
 [Round "5.2"]
 [White "Nepomniachtchi, I."]
 [Black "Grachev, B."]
@@ -60,7 +55,6 @@ Kf8 22. Nxc6 Qc5 23. Qf7# 1-0
 [WhiteElo "2732"]
 [BlackElo "2668"]
 [PlyCount "135"]
-[EventDate "2014.01.30"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -83,7 +77,6 @@ Qb8+ 66. Ke7 Qa7 67. Qd6+ Kxg5 68. Kf8 1-0
 
 [Event "ch-Moscow Superfinal 2014"]
 [Site "Moscow RUS"]
-[Date "2014.01.30"]
 [Round "1.4"]
 [White "Nepomniachtchi, I."]
 [Black "Vavulin, M."]
@@ -92,7 +85,6 @@ Qb8+ 66. Ke7 Qa7 67. Qd6+ Kxg5 68. Kf8 1-0
 [WhiteElo "2732"]
 [BlackElo "2390"]
 [PlyCount "125"]
-[EventDate "2014.01.30"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -114,7 +106,6 @@ b4 54. Bxf2 bxc3 55. bxc3 Qe4 56. Bd4 Qh4+ 57. Kg2 Qg4+ 58. Kf2 h5 59. Qf3 Qg6
 
 [Event "21st TCh-RUS 2014"]
 [Site "Loo RUS"]
-[Date "2014.04.11"]
 [Round "5.3"]
 [White "Nepomniachtchi, I."]
 [Black "Grishchenko, S1."]
@@ -123,7 +114,6 @@ b4 54. Bxf2 bxc3 55. bxc3 Qe4 56. Bd4 Qh4+ 57. Kg2 Qg4+ 58. Kf2 h5 59. Qf3 Qg6
 [WhiteElo "2732"]
 [BlackElo "2436"]
 [PlyCount "71"]
-[EventDate "2014.04.07"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -142,7 +132,6 @@ Nf5 28. Red1 f6 29. Rxd5 exd5 30. Rxd5 Nd6 31. exd6 O-O 32. Nd4 Re8 33. d7 Rf8
 
 [Event "15th Karpov GM 2014"]
 [Site "Poikovsky RUS"]
-[Date "2014.05.20"]
 [Round "9.1"]
 [White "Nepomniachtchi, I."]
 [Black "Jakovenko, D."]
@@ -151,7 +140,6 @@ Nf5 28. Red1 f6 29. Rxd5 exd5 30. Rxd5 Nd6 31. exd6 O-O 32. Nd4 Re8 33. d7 Rf8
 [WhiteElo "2735"]
 [BlackElo "2730"]
 [PlyCount "81"]
-[EventDate "2014.05.11"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -170,7 +158,6 @@ Rxd2 35. Qxd2 Nxe5 36. Qb2 Qd6 37. c5 Qd1+ 38. Kg2 Qd5+ 39. f3 Kf8 40. c6 Ke7
 
 [Event "50th Capablanca Mem Elite"]
 [Site "Havana CUB"]
-[Date "2015.06.24"]
 [Round "9.1"]
 [White "Nepomniachtchi, I."]
 [Black "Andreikin, D."]
@@ -179,7 +166,6 @@ Rxd2 35. Qxd2 Nxe5 36. Qb2 Qd6 37. c5 Qd1+ 38. Kg2 Qd5+ 39. f3 Kf8 40. c6 Ke7
 [WhiteElo "2720"]
 [BlackElo "2718"]
 [PlyCount "75"]
-[EventDate "2015.06.15"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "CUB"]
@@ -199,7 +185,6 @@ exf5 c5 34. bxc5 dxc5 35. Rxc5 Bf6 36. Rc6 Red8+ 37. Ke3 Rb2 38. Rxf6 1/2-1/2
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.06.28"]
 [Round "2.4"]
 [White "Nepomniachtchi, I."]
 [Black "Meier, Geo"]
@@ -208,7 +193,6 @@ exf5 c5 34. bxc5 dxc5 35. Rxc5 Bf6 36. Rc6 Red8+ 37. Ke3 Rb2 38. Rxf6 1/2-1/2
 [WhiteElo "2720"]
 [BlackElo "2654"]
 [PlyCount "50"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -226,7 +210,6 @@ Rhg8 21. Qxf7 Rxg2 22. fxe6 Qa3+ 23. Kb1 Qb4+ 24. Kc1 Qa3+ 25. Kb1 Qb4+ 1/2-1/2
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.06.27"]
 [Round "1.3"]
 [White "Nepomniachtchi, I."]
 [Black "Caruana, F."]
@@ -235,7 +218,6 @@ Rhg8 21. Qxf7 Rxg2 22. fxe6 Qa3+ 23. Kb1 Qb4+ 24. Kc1 Qa3+ 25. Kb1 Qb4+ 1/2-1/2
 [WhiteElo "2720"]
 [BlackElo "2805"]
 [PlyCount "91"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -257,7 +239,6 @@ Qd1+ 40. Kg2 Qxd4 41. e3 Qd5 42. Qb2 Qf5 43. Qh8 Qf3+ 44. Kg1 Qd1+ 45. Kg2 Qf3+
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.07.01"]
 [Round "4.1"]
 [White "Nepomniachtchi, I."]
 [Black "Nisipeanu, LD."]
@@ -266,7 +247,6 @@ Qd1+ 40. Kg2 Qxd4 41. e3 Qd5 42. Qb2 Qf5 43. Qh8 Qf3+ 44. Kg1 Qd1+ 45. Kg2 Qf3+
 [WhiteElo "2720"]
 [BlackElo "2654"]
 [PlyCount "150"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -290,7 +270,6 @@ Ra4 66. Rg7+ Kh8 67. Re7 Kg8 68. Re6 Kh7 69. Re7+ Kg8 70. Re3 Kh7 71. Re7+ Kg8
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.11"]
 [Round "9.1"]
 [White "Nepomniachtchi, I."]
 [Black "Carlsen, M."]
@@ -299,7 +278,6 @@ Ra4 66. Rg7+ Kh8 67. Re7 Kg8 68. Re6 Kh7 69. Re7+ Kg8 70. Re3 Kh7 71. Re7+ Kg8
 [WhiteElo "2705"]
 [BlackElo "2850"]
 [PlyCount "47"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -314,7 +292,6 @@ Rxh2 21. Rxh2 Nxd3+ 22. Rxd3 Qxh2 23. Rxd5 Kc8 24. Rxd8+ 1/2-1/2
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.10"]
 [Round "5.3"]
 [White "Nepomniachtchi, I."]
 [Black "Dubov, Daniil"]
@@ -323,7 +300,6 @@ Rxh2 21. Rxh2 Nxd3+ 22. Rxd3 Qxh2 23. Rxd5 Kc8 24. Rxd8+ 1/2-1/2
 [WhiteElo "2705"]
 [BlackElo "2661"]
 [PlyCount "31"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -337,7 +313,6 @@ e6 9. O-O Bxf3 10. Bxf3 Bd6 11. Bxd6 Qxd6 12. Na4 O-O 13. Rc1 e5 14. dxe5 Qxe5
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.23"]
 [Round "6.3"]
 [White "Nepomniachtchi, I."]
 [Black "Leko, P."]
@@ -346,7 +321,6 @@ e6 9. O-O Bxf3 10. Bxf3 Bd6 11. Bxd6 Qxd6 12. Na4 O-O 13. Rc1 e5 14. dxe5 Qxe5
 [WhiteElo "2705"]
 [BlackElo "2707"]
 [PlyCount "80"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -366,7 +340,6 @@ exf6+ gxf6 28. Kf2 e5 29. Ke2 h6 30. h4 Nb8 31. Nc5 Nc6 32. g4 a5 33. Bd3 axb4
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "16.9"]
 [White "Nepomniachtchi, I."]
 [Black "Leko, P."]
@@ -375,7 +348,6 @@ exf6+ gxf6 28. Kf2 e5 29. Ke2 h6 30. h4 Nb8 31. Nc5 Nc6 32. g4 a5 33. Bd3 axb4
 [WhiteElo "2705"]
 [BlackElo "2707"]
 [PlyCount "193"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -402,7 +374,6 @@ Kb6 97. Rcb2 1/2-1/2
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "2.3"]
 [White "Nepomniachtchi, I."]
 [Black "Kasimdzhanov, R."]
@@ -411,7 +382,6 @@ Kb6 97. Rcb2 1/2-1/2
 [WhiteElo "2705"]
 [BlackElo "2704"]
 [PlyCount "82"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -429,7 +399,6 @@ Bf7 35. Bc2 Be6 36. Bd1 Bf5 37. e5 dxe5 38. fxe5 Nxe5 39. Kg2 Nc6 40. Rxe7 Rxe7
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.12"]
 [Round "15.2"]
 [White "Nepomniachtchi, I."]
 [Black "Dominguez Perez, L."]
@@ -438,7 +407,6 @@ Bf7 35. Bc2 Be6 36. Bd1 Bf5 37. e5 dxe5 38. fxe5 Nxe5 39. Kg2 Nc6 40. Rxe7 Rxe7
 [WhiteElo "2705"]
 [BlackElo "2732"]
 [PlyCount "97"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -457,7 +425,6 @@ Ba4 Kc7 41. Bb3 Kd6 42. Bxe6 Kxe6 43. g4 g6 44. h3 f5+ 45. Ke3 Ke5 46. c4 Ke6
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.12"]
 [Round "11.3"]
 [White "Nepomniachtchi, I."]
 [Black "Kramnik, V."]
@@ -466,7 +433,6 @@ Ba4 Kc7 41. Bb3 Kd6 42. Bxe6 Kxe6 43. g4 g6 44. h3 f5+ 45. Ke3 Ke5 46. c4 Ke6
 [WhiteElo "2705"]
 [BlackElo "2777"]
 [PlyCount "70"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -483,7 +449,6 @@ Nxb6 cxb6 28. Be2 Bd5+ 29. Bf3 Be6 30. Rb2 Rd6 31. a4 g5 32. Rb4 f5 33. h4 Kg7
 
 [Event "ACP Masters GpA 2015"]
 [Site "Ashdod ISR"]
-[Date "2015.12.08"]
 [Round "5.2"]
 [White "Nepomniachtchi, I."]
 [Black "Guseinov, G."]
@@ -492,7 +457,6 @@ Nxb6 cxb6 28. Be2 Bd5+ 29. Bf3 Be6 30. Rb2 Rd6 31. a4 g5 32. Rb4 f5 33. h4 Kg7
 [WhiteElo "2707"]
 [BlackElo "2646"]
 [PlyCount "63"]
-[EventDate "2015.12.07"]
 [EventType "tourn (rapid)"]
 [EventRounds "5"]
 [EventCountry "ISR"]
@@ -509,7 +473,6 @@ Qd2 O-O 22. O-O f5 23. Rad1 Rf7 24. c4 Bxf3 25. Rxf3 Bf8 26. b3 Bg7 27. Qd6 Qa5
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.17"]
 [Round "3.1"]
 [White "Nepomniachtchi, Ian"]
 [Black "Nakamura, Hikaru"]
@@ -517,7 +480,6 @@ Qd2 O-O 22. O-O f5 23. Rad1 Rf7 24. c4 Bxf3 25. Rxf3 Bf8 26. b3 Bg7 27. Qd6 Qa5
 [WhiteElo "2705"]
 [BlackElo "2814"]
 [ECO "D27"]
-[EventDate "2015.09.11"]
 
 1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 a6 5. Nf3 c5 6. O-O Nf6 7. dxc5 Qxd1 
 8. Rxd1 Bxc5 9. b3 b6 10. Bb2 Bb7 11. Nbd2 Nbd7 12. Be2 O-O 13. Rac1 Rfd8 
@@ -530,7 +492,6 @@ Kc4 Nfe4 38. b4 Nd6+ 39. Kc3 axb4+ 40. axb4 Nce4+ 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.19"]
 [Round "3.4"]
 [White "Nepomniachtchi, Ian"]
 [Black "Nakamura, Hikaru"]
@@ -538,7 +499,6 @@ Kc4 Nfe4 38. b4 Nd6+ 39. Kc3 axb4+ 40. axb4 Nce4+ 1/2-1/2
 [WhiteElo "2705"]
 [BlackElo "2814"]
 [ECO "D37"]
-[EventDate "2015.09.11"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Qc2 Bb7 8. 
 cxd5 Nxd5 9. Nxd5 Qxd5 10. Bd3 h6 11. e4 Qa5+ 12. Bd2 Bb4 13. Rc1 c5 14. 
@@ -554,7 +514,6 @@ Kd6 38. Ne5 f5 39. Nc4+ Kc7 40. b5 Nc5 41. e5 Ne4 42. Bf3 Nc3 43. Nd6 Bd7
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.12"]
 [Round "1.2"]
 [White "Nepomniachtchi, Ian"]
 [Black "Zhao Jun"]
@@ -562,7 +521,6 @@ Kd6 38. Ne5 f5 39. Nc4+ Kc7 40. b5 Nc5 41. e5 Ne4 42. Bf3 Nc3 43. Nd6 Bd7
 [WhiteElo "2705"]
 [BlackElo "2621"]
 [ECO "A17"]
-[EventDate "2015.09.11"]
 
 1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. c4 e6 5. O-O Be7 6. Nc3 O-O 7. Re1 d5 8.
  cxd5 Nxd5 9. e4 Nxc3 10. bxc3 c5 11. d4 cxd4 12. cxd4 Nd7 13. Bb2 Rc8 14.
@@ -572,7 +530,6 @@ Ba3 Qxb3 21. Rxb3 Bxa3 22. Rxa3 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.14"]
 [Round "2.1"]
 [White "Nepomniachtchi, Ian"]
 [Black "Fressinet, Laurent"]
@@ -580,7 +537,6 @@ Ba3 Qxb3 21. Rxb3 Bxa3 22. Rxa3 1/2-1/2
 [WhiteElo "2705"]
 [BlackElo "2702"]
 [ECO "A29"]
-[EventDate "2015.09.11"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
 8. a3 O-O 9. b4 Be6 10. d3 a5 11. b5 Nd4 12. Bb2 f6 13. Nxd4 exd4 14. Nb1 
@@ -593,7 +549,6 @@ Kg1 Rxe2 27. Bf4 Rxc5 28. Rb2 Rxb2 29. Qxb2 Rc3 30. Qe2 Rxa3 31. Rxa3 Bxa3
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.16"]
 [Round "2.4"]
 [White "Nepomniachtchi, Ian"]
 [Black "Fressinet, Laurent"]
@@ -601,7 +556,6 @@ Kg1 Rxe2 27. Bf4 Rxc5 28. Rb2 Rxb2 29. Qxb2 Rc3 30. Qe2 Rxa3 31. Rxa3 Bxa3
 [WhiteElo "2705"]
 [BlackElo "2702"]
 [ECO "C45"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 dxc6 7. Nc3 
 Be6 8. Qg3 O-O-O 9. Be3 Bxe3 10. Qxe3 Kb8 11. f4 Qe7 12. Bd3 Nf6 13. O-O-O
@@ -614,7 +568,6 @@ e5 fxe5 33. fxe5 Nb7 34. Qd5 Qxd5 35. Nxd5 cxb3 36. cxb3 Nc5 37. Kc2 Ne6
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.16"]
 [Round "2.5"]
 [White "Nepomniachtchi, Ian"]
 [Black "Fressinet, Laurent"]
@@ -622,7 +575,6 @@ e5 fxe5 33. fxe5 Nb7 34. Qd5 Qxd5 35. Nxd5 cxb3 36. cxb3 Nc5 37. Kc2 Ne6
 [WhiteElo "2705"]
 [BlackElo "2702"]
 [ECO "C45"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 dxc6 7. Nc3 
 Be6 8. Qg3 O-O-O 9. Be3 Bxe3 10. Qxe3 Kb8 11. f4 Ne7 12. Bd3 Qd4 13. Qxd4 
@@ -638,7 +590,6 @@ Bg6 Ke7 57. Ke4 Kd6 58. Bh5 Bd5+ 59. Ke3 Bg8 60. Bf3 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.16"]
 [Round "2.7"]
 [White "Nepomniachtchi, Ian"]
 [Black "Fressinet, Laurent"]
@@ -646,7 +597,6 @@ Bg6 Ke7 57. Ke4 Kd6 58. Bh5 Bd5+ 59. Ke3 Bg8 60. Bf3 1/2-1/2
 [WhiteElo "2705"]
 [BlackElo "2702"]
 [ECO "C45"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 dxc6 7. Nc3 
 Be6 8. Qg3 Bd4 9. Be2 O-O-O 10. Rf1 Qg6 11. Bd2 Qxg3 12. hxg3 Nf6 13. 

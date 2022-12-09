@@ -1,6 +1,5 @@
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "1"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -23,7 +22,6 @@ Rfd7 37.Bxd7 Rxd7 38.Qb8+ Ke7 39.Rde1+ 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "12"]
 [White "Fischer Robert J (USA)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -44,7 +42,6 @@ g5 25.g4 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Garcia Raimundo (ARG)"]
@@ -66,7 +63,6 @@ Nf2 32.Nc5 g6 33.Qf4 gxh5 34.Qxf2 Bc6 35.h4 Qxg4 36.Bh3 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "3"]
 [White "Fischer Robert J (USA)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -88,7 +84,6 @@ Rb4 32.Rg3 Bxh6 33.Bxh6 Ne4 34.Bg7+ Kh7 35.f3 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "O'kelly De Galway Alberic (BEL)"]
@@ -111,7 +106,6 @@ Qd7 30.Qc2 Qb7 31.cxb5 axb5 32.Ng4 N6d7 33.Qd3 Qc6 34.Qe3 Kf7
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Panno Oscar (ARG)"]
@@ -134,7 +128,6 @@ Kf7 36.Qh7+ 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Rossetto Hector (ARG)"]
@@ -159,7 +152,6 @@ Be1 48.g4 Ba5 49.Ne7+ Kd7 50.Kb5 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "14"]
 [White "Fischer Robert J (USA)"]
 [Black "Rubinetti Jorge (ARG)"]
@@ -180,7 +172,6 @@ Nf4+ 19.Bxf4 Rxf4 20.Rg1 Rh4 21.Rxg7 Rxh2 22.a3 Bd6 23.f4 exf4
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1970.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Schweber Samuel (ARG)"]
@@ -205,7 +196,6 @@ Be6 1-0
 
 [Event ""]
 [Site "Berlin (Germany)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Szmetan Jorge (ARG)"]
@@ -236,7 +226,6 @@ Rg1+ 80.Kh8 Rg5 81.h7 Kc3 82.Rc8+ Kd4 83.Rg8 Rh5 84.Rg4+ Kc3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1971.??.??"]
 [Round "3"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -258,7 +247,6 @@ Qe5 31.Qh5 Qf6 32.Qe2 Re5 33.Qd3 Rd5 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1971.??.??"]
 [Round "5"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -281,7 +269,6 @@ Be2 37.Be4 Bxf3 38.Bxc2 Bd5 1/2-1/2
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Rubinstein Jose (ARG)"]
@@ -303,7 +290,6 @@ Rc2 0-1
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Vancouver (Canada)"]
-[Date "1971.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -332,7 +318,6 @@ Kb8 71.b6 1-0
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Vancouver (Canada)"]
-[Date "1971.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -356,14 +341,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Fischer - Larsen Candidates Semifinal"]
 [Site "Denver, CO USA"]
-[Date "1971.07.06"]
 [Round "1"]
 [White "Robert James Fischer"]
 [Black "Bent Larsen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C19"]
-[EventDate "1971.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -379,14 +362,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Fischer - Taimanov Candidates Quarterfinal"]
 [Site "Vancouver CAN"]
-[Date "1971.05.18"]
 [Round "2"]
 [White "Robert James Fischer"]
 [Black "Mark Taimanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "1971.05.16"]
 [PlyCount "177"]
 [WhiteElo "?"]
 
@@ -410,14 +391,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Manhattan blitz"]
 [Site "New York, NY USA"]
-[Date "1971.08.08"]
 [Round "1"]
 [White "Robert James Fischer"]
 [Black "Edmar J Mednis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -431,14 +410,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Fischer - Petrosian Candidates Final"]
 [Site "Buenos Aires ARG"]
-[Date "1971.10.07"]
 [Round "3"]
 [White "Robert James Fischer"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "1971.09.30"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -453,14 +430,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Simul"]
 [Site "Buenos Aires ARG"]
-[Date "1971.11.14"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Aldo Emilio Seidler"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B33"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -473,14 +448,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Fischer - Petrosian Candidates Final"]
 [Site "Buenos Aires ARG"]
-[Date "1971.10.19"]
 [Round "7"]
 [White "Robert James Fischer"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B42"]
-[EventDate "1971.09.30"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -495,14 +468,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Simul"]
 [Site "Mendoza ARG"]
-[Date "1971.11.24"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Manuel Miguel Pereyra Puebla"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -518,14 +489,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Simul"]
 [Site "Mar del Plata ARG"]
-[Date "1971.12.05"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Ricardo L Velarde"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B52"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -540,14 +509,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Simul, 20b"]
 [Site "Balcarce ARG"]
-[Date "1971.12.01"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Carlos Alberto Bustos"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B07"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -563,14 +530,12 @@ Bd8 43.Rxd5 Rxb2+ 1-0
 
 [Event "Simul"]
 [Site "Buenos Aires ARG"]
-[Date "1971.11.??"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "R Padula"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 

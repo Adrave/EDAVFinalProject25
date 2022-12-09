@@ -1,13 +1,11 @@
 [Event "Simul, 32b"]
 [Site "Marshall CC, New York, NY USA"]
-[Date "1936.12.14"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Faith Donaldson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.10.05"]
 [Round "9"]
 [White "Jose Raul Capablanca"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -43,14 +39,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.11.09"]
 [Round "27"]
 [White "Jose Raul Capablanca"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -67,14 +61,12 @@
 
 [Event "Simul, 30b"]
 [Site "Buenos Aires ARG"]
-[Date "1914.09.20"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Mariano Viana"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -90,14 +82,12 @@
 
 [Event "Simul, 25b"]
 [Site "Buenos Aires ARG"]
-[Date "1914.11.04"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Mariano Viana"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -113,14 +103,12 @@
 
 [Event "Simul, 65b"]
 [Site "New York, NY USA"]
-[Date "1915.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Arthur Stedman Jameson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C79"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -137,14 +125,12 @@
 
 [Event "Simul, 65b"]
 [Site "New York, NY USA"]
-[Date "1915.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Isaac Starr"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -161,14 +147,12 @@
 
 [Event "Simul, 16b"]
 [Site "Washington, DC USA"]
-[Date "1915.03.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "William Kurtz Wimsatt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B16"]
-[EventDate "????.??.??"]
 [PlyCount "102"]
 [WhiteElo "?"]
 
@@ -187,14 +171,12 @@
 
 [Event "Simul, 32b"]
 [Site "Mechanics' Institute, San Francisco, CA USA"]
-[Date "1916.04.11"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "George Hallwegen"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A00"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -210,14 +192,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.11.18"]
 [Round "31"]
 [White "Jose Raul Capablanca"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -234,14 +214,12 @@
 
 [Event "Simul, 46b"]
 [Site "Brooklyn Institute of Arts and Sciences"]
-[Date "1928.12.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Lloyd H Campbell"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C61"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -258,14 +236,12 @@
 
 [Event "Simul, 46b"]
 [Site "Brooklyn Institute of Arts and Sciences"]
-[Date "1928.12.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "George W Averill"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -280,14 +256,12 @@
 
 [Event "Simul, 47b"]
 [Site "Brooklyn Institute CC, New York, NY USA"]
-[Date "1928.02.11"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Henry J Kapp"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C87"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -305,14 +279,12 @@
 
 [Event "Simul, 21b"]
 [Site "Selfridges, London ENG"]
-[Date "1929.04.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Lord Dunsany"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C70"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -327,14 +299,12 @@
 
 [Event "Simul, 65b"]
 [Site "New York, NY USA"]
-[Date "1915.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "E S Carter"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 

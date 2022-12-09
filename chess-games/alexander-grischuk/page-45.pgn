@@ -1,6 +1,5 @@
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.16"]
 [Round "2"]
 [White "Grischuk, A."]
 [Black "Vachier Lagrave, M."]
@@ -9,7 +8,6 @@
 [WhiteElo "2773"]
 [BlackElo "2715"]
 [PlyCount "53"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -22,7 +20,6 @@ Rbf1 Raf8 22. Nf3 h6 23. Nh4 Kh7 24. R4f3 c5 25. Qe1 f5 26. exf5 Bxf5 27. Nxf5
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.18"]
 [Round "4"]
 [White "Grischuk, A."]
 [Black "Kramnik, V."]
@@ -31,7 +28,6 @@ Rbf1 Raf8 22. Nf3 h6 23. Nh4 Kh7 24. R4f3 c5 25. Qe1 f5 26. exf5 Bxf5 27. Nxf5
 [WhiteElo "2773"]
 [BlackElo "2784"]
 [PlyCount "68"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -45,7 +41,6 @@ Ng8+ Kf7 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.22"]
 [Round "7"]
 [White "Grischuk, A."]
 [Black "Aronian, L."]
@@ -54,7 +49,6 @@ Ng8+ Kf7 1/2-1/2
 [WhiteElo "2773"]
 [BlackElo "2805"]
 [PlyCount "98"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -70,7 +64,6 @@ Bf4+ 41. Kg2 Qxe5 42. Qxe5 Bxe5 43. Ne3 Bb2 44. Nb1 Kf7 45. Kf3 Kf6 46. Ke4 Kg5
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.25"]
 [Round "9"]
 [White "Grischuk, A."]
 [Black "Giri, A."]
@@ -79,7 +72,6 @@ Bf4+ 41. Kg2 Qxe5 42. Qxe5 Bxe5 43. Ne3 Bb2 44. Nb1 Kf7 45. Kf3 Kf6 46. Ke4 Kg5
 [WhiteElo "2773"]
 [BlackElo "2686"]
 [PlyCount "95"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -95,7 +87,6 @@ Qe7 Qxf4 47. Qf6+ Kh5 48. Qxb6 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.28"]
 [Round "11"]
 [White "Grischuk, A."]
 [Black "L'Ami, E."]
@@ -104,7 +95,6 @@ Qe7 Qxf4 47. Qf6+ Kh5 48. Qxb6 1/2-1/2
 [WhiteElo "2773"]
 [BlackElo "2628"]
 [PlyCount "47"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -116,7 +106,6 @@ Re1 h5 22. Bc3 h4 23. Qf2 Nh5 24. Kh1 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.30"]
 [Round "13"]
 [White "Grischuk, A."]
 [Black "Carlsen, M."]
@@ -125,7 +114,6 @@ Re1 h5 22. Bc3 h4 23. Qf2 Nh5 24. Kh1 1/2-1/2
 [WhiteElo "2773"]
 [BlackElo "2814"]
 [PlyCount "37"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -136,7 +124,6 @@ Bd2 Bxc3 9. bxc3 Nge7 10. c4 Qd6 11. d5 Nb8 12. Rb1 b6 13. Bb4 c5 14. dxc6 Qxc6
 
 [Event "World Blitz Qualifier"]
 [Site "Moscow RUS"]
-[Date "2011.02.17"]
 [Round "6.1"]
 [White "Grischuk, A."]
 [Black "Mamedov, Rau"]
@@ -145,7 +132,6 @@ Bd2 Bxc3 9. bxc3 Nge7 10. c4 Qd6 11. d5 Nb8 12. Rb1 b6 13. Bb4 c5 14. dxc6 Qxc6
 [WhiteElo "2773"]
 [BlackElo "2660"]
 [PlyCount "76"]
-[EventDate "2011.02.17"]
 [EventType "blitz"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -161,7 +147,6 @@ dxc4 Rxc4 35. Rb7 Be3 36. Kg2 Rxh4 37. Re7 Bc5 38. Kf3 Rg4 0-1
 
 [Event "20th Amber Rapid"]
 [Site "Monaco MNC"]
-[Date "2011.03.19"]
 [Round "7"]
 [White "Grischuk, A."]
 [Black "Ivanchuk, V."]
@@ -170,7 +155,6 @@ dxc4 Rxc4 35. Rb7 Be3 36. Kg2 Rxh4 37. Re7 Bc5 38. Kf3 Rg4 0-1
 [WhiteElo "2747"]
 [BlackElo "2779"]
 [PlyCount "90"]
-[EventDate "2011.03.12"]
 [EventRounds "11"]
 [EventCountry "MNC"]
 [EventCategory "21"]
@@ -188,7 +172,6 @@ fxg4 Rxg4 42. Qe2 Bh5 43. Rf3 Qc1+ 44. Qe1 Qc4+ 45. Kf2 Qc2+ 0-1
 
 [Event "WCh Candidates"]
 [Site "Kazan RUS"]
-[Date "2011.05.09"]
 [Round "1.6"]
 [White "Grischuk, A."]
 [Black "Aronian, L."]
@@ -197,7 +180,6 @@ fxg4 Rxg4 42. Qe2 Bh5 43. Rf3 Qc1+ 44. Qe1 Qc4+ 45. Kf2 Qc2+ 0-1
 [WhiteElo "2747"]
 [BlackElo "2808"]
 [PlyCount "144"]
-[EventDate "2011.05.05"]
 [EventRounds "3"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -219,7 +201,6 @@ Kc4 Kb1 0-1
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.07"]
 [Round "4.2"]
 [White "Grischuk, A."]
 [Black "Potkin, V."]
@@ -228,7 +209,6 @@ Kc4 Kb1 0-1
 [WhiteElo "2746"]
 [BlackElo "2682"]
 [PlyCount "63"]
-[EventDate "2011.08.28"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -243,7 +223,6 @@ Nxd4 16. Bxd4 Ba3 17. Rc2 O-O 18. Na4 Bb4 19. Bc3 f6 20. Bg4 Re8 21. Bxb4 Rxb4
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.14"]
 [Round "6.3"]
 [White "Grischuk, A."]
 [Black "Ivanchuk, V."]
@@ -252,7 +231,6 @@ Nxd4 16. Bxd4 Ba3 17. Rc2 O-O 18. Na4 Bb4 19. Bc3 f6 20. Bg4 Re8 21. Bxb4 Rxb4
 [WhiteElo "2746"]
 [BlackElo "2768"]
 [PlyCount "87"]
-[EventDate "2011.08.28"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -270,7 +248,6 @@ Kh3 Kf6 40. Rxb7 Rxa3 41. Kg4 Ra4+ 42. Kh5 g4 43. Rb6+ Kf5 44. Rb8 1-0
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.14"]
 [Round "6.5"]
 [White "Grischuk, A."]
 [Black "Ivanchuk, V."]
@@ -279,7 +256,6 @@ Kh3 Kf6 40. Rxb7 Rxa3 41. Kg4 Ra4+ 42. Kh5 g4 43. Rb6+ Kf5 44. Rb8 1-0
 [WhiteElo "2746"]
 [BlackElo "2768"]
 [PlyCount "69"]
-[EventDate "2011.08.28"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -296,7 +272,6 @@ Qxg6 Rc1+ 35. Bxc1 1-0
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.16"]
 [Round "7.1"]
 [White "Grischuk, A."]
 [Black "Svidler, P."]
@@ -305,7 +280,6 @@ Qxg6 Rc1+ 35. Bxc1 1-0
 [WhiteElo "2746"]
 [BlackElo "2739"]
 [PlyCount "60"]
-[EventDate "2011.08.28"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -321,7 +295,6 @@ Rd6 Nc4 28. Qf5 Rf7 29. Qe4 Nxd6 30. exd6 Nf8 0-1
 
 [Event "27th ECC"]
 [Site "Rogaska Slatina SLO"]
-[Date "2011.10.01"]
 [Round "7.1"]
 [White "Grischuk, A."]
 [Black "Shirov, A."]
@@ -330,7 +303,6 @@ Rd6 Nc4 28. Qf5 Rf7 29. Qe4 Nxd6 30. exd6 Nf8 0-1
 [WhiteElo "2757"]
 [BlackElo "2713"]
 [PlyCount "101"]
-[EventDate "2011.09.25"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "SLO"]
@@ -351,7 +323,6 @@ Ke5 Rf4 47. Kd5 Kh5 48. Kc5 Kh4 49. Rxg7 Rf5+ 50. Kb6 Rf6+ 51. Ka7 1-0
 
 [Event "18th European Teams"]
 [Site "Porto Carras GRE"]
-[Date "2011.11.04"]
 [Round "2.1"]
 [White "Grischuk, A."]
 [Black "Laznicka, V."]
@@ -360,7 +331,6 @@ Ke5 Rf4 47. Kd5 Kh5 48. Kc5 Kh4 49. Rxg7 Rf5+ 50. Kb6 Rf6+ 51. Ka7 1-0
 [WhiteElo "2752"]
 [BlackElo "2703"]
 [PlyCount "83"]
-[EventDate "2011.11.03"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -382,7 +352,6 @@ h5 40. Kf5 Ke7 41. Kg6 Kf8 42. Kxh5 1-0
 
 [Event "18th European Teams"]
 [Site "Porto Carras GRE"]
-[Date "2011.11.10"]
 [Round "8.5"]
 [White "Grischuk, A."]
 [Black "Bacrot, E."]
@@ -391,7 +360,6 @@ h5 40. Kf5 Ke7 41. Kg6 Kf8 42. Kxh5 1-0
 [WhiteElo "2752"]
 [BlackElo "2714"]
 [PlyCount "83"]
-[EventDate "2011.11.03"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -413,7 +381,6 @@ c4 41. Rd6 Rxa2+ 42. Kd1 1-0
 
 [Event "18th European Teams"]
 [Site "Porto Carras GRE"]
-[Date "2011.11.11"]
 [Round "9.4"]
 [White "Grischuk, A."]
 [Black "Lenic, L."]
@@ -422,7 +389,6 @@ c4 41. Rd6 Rxa2+ 42. Kd1 1-0
 [WhiteElo "2752"]
 [BlackElo "2634"]
 [PlyCount "71"]
-[EventDate "2011.11.03"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -443,7 +409,6 @@ Bxe3 22. Rcxe3 d5 23. Rg3 Kh8 24. exd5 Nxd5 25. Nf5 Nf4 26. Qg4 Ng6 27. Nh4 Rd6
 
 [Event "Final Russian Rapid GP"]
 [Site "Apatity RUS"]
-[Date "2011.12.02"]
 [Round "1.1"]
 [White "Grischuk, A."]
 [Black "Evdokimov, Alexa"]
@@ -452,7 +417,6 @@ Bxe3 22. Rcxe3 d5 23. Rg3 Kh8 24. exd5 Nxd5 25. Nf5 Nf4 26. Qg4 Ng6 27. Nh4 Rd6
 [WhiteElo "2752"]
 [BlackElo "2569"]
 [PlyCount "103"]
-[EventDate "2011.11.02"]
 [EventType "k.o. (rapid)"]
 [EventRounds "4"]
 [EventCountry "RUS"]
@@ -471,7 +435,6 @@ Ra7 Rc2+ 47. Kg3 Rxc4 48. bxc4 Kf6 49. c5 h5 50. c6 Nd6 51. c7 Ke6 52. Ra6 1-0
 
 [Event "Final Russian Rapid GP"]
 [Site "Apatity RUS"]
-[Date "2011.12.03"]
 [Round "3.1"]
 [White "Grischuk, A."]
 [Black "Nepomniachtchi, I."]
@@ -480,7 +443,6 @@ Ra7 Rc2+ 47. Kg3 Rxc4 48. bxc4 Kf6 49. c5 h5 50. c6 Nd6 51. c7 Ke6 52. Ra6 1-0
 [WhiteElo "2752"]
 [BlackElo "2730"]
 [PlyCount "149"]
-[EventDate "2011.11.02"]
 [EventType "k.o. (rapid)"]
 [EventRounds "4"]
 [EventCountry "RUS"]
@@ -503,7 +465,6 @@ Kf2 71. a6 Ra5+ 72. Kh6 Nd4 73. Qb7 Nf5+ 74. Kh7 Ne3 75. a7 1-0
 
 [Event "Sportaccord WMG Rapid"]
 [Site "Beijing CHN"]
-[Date "2011.12.10"]
 [Round "3"]
 [White "Grischuk, A."]
 [Black "Ivanchuk, V."]
@@ -512,7 +473,6 @@ Kf2 71. a6 Ra5+ 72. Kh6 Nd4 73. Qb7 Nf5+ 74. Kh7 Ne3 75. a7 1-0
 [WhiteElo "2752"]
 [BlackElo "2775"]
 [PlyCount "73"]
-[EventDate "2011.12.09"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -529,7 +489,6 @@ Kxe7 34. Qd2 Qd5 35. Qg5+ Ke8 36. Rxd5 cxd5 37. Qf4 1-0
 
 [Event "Sportaccord WMG Rapid"]
 [Site "Beijing CHN"]
-[Date "2011.12.10"]
 [Round "4"]
 [White "Grischuk, A."]
 [Black "Wang Hao"]
@@ -538,7 +497,6 @@ Kxe7 34. Qd2 Qd5 35. Qg5+ Ke8 36. Rxd5 cxd5 37. Qf4 1-0
 [WhiteElo "2752"]
 [BlackElo "2736"]
 [PlyCount "94"]
-[EventDate "2011.12.09"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -557,7 +515,6 @@ Bxd8 47. Bb6 Bxc7 0-1
 
 [Event "Sportaccord WMG Blindfold"]
 [Site "Beijing CHN"]
-[Date "2011.12.14"]
 [Round "2"]
 [White "Grischuk, A."]
 [Black "Vallejo Pons, F."]
@@ -566,7 +523,6 @@ Bxd8 47. Bb6 Bxc7 0-1
 [WhiteElo "2752"]
 [BlackElo "2705"]
 [PlyCount "145"]
-[EventDate "2011.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -589,7 +545,6 @@ Kf3 Nc4 73. Rd4+ 1-0
 
 [Event "Sportaccord WMG Blindfold"]
 [Site "Beijing CHN"]
-[Date "2011.12.16"]
 [Round "6"]
 [White "Grischuk, A."]
 [Black "Le Quang Liem"]
@@ -598,7 +553,6 @@ Kf3 Nc4 73. Rd4+ 1-0
 [WhiteElo "2752"]
 [BlackElo "2714"]
 [PlyCount "81"]
-[EventDate "2011.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -616,7 +570,6 @@ Kg7 41. g3 1-0
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "12"]
 [White "Grischuk, A."]
 [Black "Wang Hao"]
@@ -625,7 +578,6 @@ Kg7 41. g3 1-0
 [WhiteElo "2752"]
 [BlackElo "2736"]
 [PlyCount "57"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -643,7 +595,6 @@ g6 22. Nh4 bxa4 23. bxa4 c4 24. Rfc1 cxd3 25. Qxd3 Nc4 26. Bf6 Rd7 27. Bxd5 Qa5
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "14"]
 [White "Grischuk, A."]
 [Black "Almasi, Z."]
@@ -652,7 +603,6 @@ g6 22. Nh4 bxa4 23. bxa4 c4 24. Rfc1 cxd3 25. Qxd3 Nc4 26. Bf6 Rd7 27. Bxd5 Qa5
 [WhiteElo "2752"]
 [BlackElo "2707"]
 [PlyCount "145"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]

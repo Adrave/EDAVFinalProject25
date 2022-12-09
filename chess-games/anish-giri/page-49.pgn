@@ -1,6 +1,5 @@
 [Event "2nd LCT"]
 [Site "Leiden NED"]
-[Date "2008.07.14"]
 [Round "4"]
 [White "Giri, A."]
 [Black "Gutman, L."]
@@ -9,7 +8,6 @@
 [WhiteElo "2430"]
 [BlackElo "2497"]
 [PlyCount "83"]
-[EventDate "2008.07.11"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
 Nc6 9. O-O-O Nxd4 10. Qxd4 Qxd4 11. Rxd4 Be7 12. Be2 Bd7 13. Bf3 Bc6 14. Rhd1
@@ -22,7 +20,6 @@ Kd3 Ke6 41. Bf3 Ke5 42. Bc6 1/2-1/2
 
 [Event "2nd LCT"]
 [Site "Leiden NED"]
-[Date "2008.07.20"]
 [Round "9"]
 [White "Giri, A."]
 [Black "Van der Wiel, J."]
@@ -31,7 +28,6 @@ Kd3 Ke6 41. Bf3 Ke5 42. Bc6 1/2-1/2
 [WhiteElo "2430"]
 [BlackElo "2504"]
 [PlyCount "20"]
-[EventDate "2008.07.11"]
 
 1. d4 d6 2. e4 Nf6 3. Bd3 e5 4. c3 d5 5. dxe5 Nxe4 6. Nf3 Nc6 7. Nbd2 Nc5 8.
 Bc2 Bg4 9. O-O Be7 10. Re1 d4 1/2-1/2
@@ -39,7 +35,6 @@ Bc2 Bg4 9. O-O Be7 10. Re1 d4 1/2-1/2
 
 [Event "GM"]
 [Site "Vienna AUT"]
-[Date "2008.08.16"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Beckhuis, G."]
@@ -48,7 +43,6 @@ Bc2 Bg4 9. O-O Be7 10. Re1 d4 1/2-1/2
 [WhiteElo "2430"]
 [BlackElo "2353"]
 [PlyCount "143"]
-[EventDate "2008.08.16"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. N3h2 Nc5 15.
@@ -66,7 +60,6 @@ Kxg3 1/2-1/2
 
 [Event "GM"]
 [Site "Vienna AUT"]
-[Date "2008.08.18"]
 [Round "3"]
 [White "Giri, A."]
 [Black "Neubauer, M."]
@@ -75,7 +68,6 @@ Kxg3 1/2-1/2
 [WhiteElo "2430"]
 [BlackElo "2457"]
 [PlyCount "115"]
-[EventDate "2008.08.16"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. Bf4 Nh4 12. Nd2 Bb4 13. Nce4 Bxd2 14.
@@ -91,7 +83,6 @@ Re8+ 46. Kd4 c2 47. Bg5+ Kd1 48. Rh6 Re1 49. Rc6 Rg1 50. Be3 Rg3 51. a4 Rg4+
 
 [Event "GM"]
 [Site "Vienna AUT"]
-[Date "2008.08.23"]
 [Round "8"]
 [White "Giri, A."]
 [Black "Schroll, G."]
@@ -100,7 +91,6 @@ Re8+ 46. Kd4 c2 47. Bg5+ Kd1 48. Rh6 Re1 49. Rc6 Rg1 50. Be3 Rg3 51. a4 Rg4+
 [WhiteElo "2430"]
 [BlackElo "2436"]
 [PlyCount "73"]
-[EventDate "2008.08.16"]
 
 1. Nf3 Nf6 2. g3 d5 3. c4 e6 4. Bg2 Be7 5. O-O O-O 6. d4 dxc4 7. Qc2 a6 8. Qxc4
 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Qc8 12. Bg5 Nbd7 13. Nbd2 Bb7 14. Nb3 c5 15.
@@ -112,7 +102,6 @@ Kf8 34. Rxe5 Bf6 35. Ne6+ Rxe6 36. Bxe6 Qa1+ 37. Kg2 1-0
 
 [Event "Bundesliga 2008-9"]
 [Site "Bremen GER"]
-[Date "2008.10.05"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Graf, F."]
@@ -121,7 +110,6 @@ Kf8 34. Rxe5 Bf6 35. Ne6+ Rxe6 36. Bxe6 Qa1+ 37. Kg2 1-0
 [WhiteElo "2466"]
 [BlackElo "2287"]
 [PlyCount "150"]
-[EventDate "2008.10.03"]
 
 1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
 9. a3 Qa5 10. Ra2 Qb6 11. g3 f6 12. exf6 Nxf6 13. Bg2 Ra7 14. Ne2 Ne4 15. Qd1
@@ -139,7 +127,6 @@ Bf3 Bf5 74. Be2 Ke7 75. Bf3 Kd7 1/2-1/2
 
 [Event "Bundesliga 2008-9"]
 [Site "Wattenscheid GER"]
-[Date "2008.10.25"]
 [Round "3"]
 [White "Giri, A."]
 [Black "Werle, J."]
@@ -148,7 +135,6 @@ Bf3 Bf5 74. Be2 Ke7 75. Bf3 Kd7 1/2-1/2
 [WhiteElo "2466"]
 [BlackElo "2582"]
 [PlyCount "91"]
-[EventDate "2008.10.03"]
 
 1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nf6 7. O-O Bc5 8.
 Nb3 Be7 9. f4 d6 10. a4 Nc6 11. a5 b5 12. axb6 Qxb6+ 13. Kh1 h5 14. Qe2 Ng4 15.
@@ -162,7 +148,6 @@ Qxf7+ 1-0
 
 [Event "Corus Internet Qualifier"]
 [Site "ICC INT"]
-[Date "2008.11.01"]
 [Round "1.1"]
 [White "Giri, A."]
 [Black "Salgado Lopez, I."]
@@ -171,7 +156,6 @@ Qxf7+ 1-0
 [WhiteElo "2466"]
 [BlackElo "2556"]
 [PlyCount "113"]
-[EventDate "2008.11.01"]
 
 1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. Bg2 Nf6 5. O-O e5 6. d3 Nd7 7. e3 Be7 8. exd4
 exd4 9. Nbd2 Nc5 10. Nb3 Ne6 11. Re1 Bf6 12. Nc5 O-O 13. Nxe6 Bxe6 14. Bf4 Qd7
@@ -186,7 +170,6 @@ Kf7 53. Rd7+ Ke6 54. Rd6+ Kf7 55. Rd4 Ke6 56. Rd6+ Kf7 57. Rd4 1/2-1/2
 
 [Event "Corus Internet Qualifier"]
 [Site "ICC INT"]
-[Date "2008.11.01"]
 [Round "1.3"]
 [White "Giri, A."]
 [Black "Salgado Lopez, I."]
@@ -195,7 +178,6 @@ Kf7 53. Rd7+ Ke6 54. Rd6+ Kf7 55. Rd4 Ke6 56. Rd6+ Kf7 57. Rd4 1/2-1/2
 [WhiteElo "2466"]
 [BlackElo "2556"]
 [PlyCount "82"]
-[EventDate "2008.11.01"]
 
 1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. Bg2 e5 5. d3 Nf6 6. O-O Nd7 7. e3 Be7 8. exd4
 exd4 9. Na3 O-O 10. Nc2 Nc5 11. b4 Ne6 12. a3 Bf6 13. Re1 Re8 14. Bb2 a6 15.
@@ -208,7 +190,6 @@ Nh6 28. Nb3 Ng4 29. Qc5 Bxa1 30. Nxa1 Qf6 31. Nc2 Qh6 32. Bg2 Qh2+ 33. Kf1 Qxg3
 
 [Event "Young Stars of the World"]
 [Site "Kirishi RUS"]
-[Date "2008.11.16"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Zherebukh, Y."]
@@ -217,7 +198,6 @@ Nh6 28. Nb3 Ng4 29. Qc5 Bxa1 30. Nxa1 Qf6 31. Nc2 Qh6 32. Bg2 Qh2+ 33. Kf1 Qxg3
 [WhiteElo "2466"]
 [BlackElo "2473"]
 [PlyCount "46"]
-[EventDate "2008.11.16"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O Ne7 6. d3 Ng6 7. e5 f6 8.
 exf6 Qxf6 9. Nc3 d5 10. Bg5 Qf5 11. Qd2 Rb8 12. Ne4 h6 13. Nh4 Nxh4 14. Bxh4 e5
@@ -227,7 +207,6 @@ Qg6+ Qf7 22. Qc6+ Qd7 23. Qg6+ Qf7 1/2-1/2
 
 [Event "Young Stars of the World"]
 [Site "Kirishi RUS"]
-[Date "2008.11.18"]
 [Round "3"]
 [White "Giri, A."]
 [Black "Lintchevski, D."]
@@ -236,7 +215,6 @@ Qg6+ Qf7 22. Qc6+ Qd7 23. Qg6+ Qf7 1/2-1/2
 [WhiteElo "2466"]
 [BlackElo "2502"]
 [PlyCount "39"]
-[EventDate "2008.11.16"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. O-O-O Ngf6 13. Ne4 O-O-O 14. g3 Be7
@@ -245,7 +223,6 @@ Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. O-O-O Ngf6 13. Ne4 O-O-O 14. g3 Be7
 
 [Event "Young Stars of the World"]
 [Site "Kirishi RUS"]
-[Date "2008.11.19"]
 [Round "4"]
 [White "Giri, A."]
 [Black "Kovalev, Vl"]
@@ -254,7 +231,6 @@ Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. O-O-O Ngf6 13. Ne4 O-O-O 14. g3 Be7
 [WhiteElo "2466"]
 [BlackElo "2318"]
 [PlyCount "153"]
-[EventDate "2008.11.16"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
@@ -272,7 +248,6 @@ Kg3 Rb3 67. Ne4 Rd3 68. Nf2 Rd4 69. Ng4 Ke6 70. Nf2 Kd5 71. Ng4 Rf4 72. Nf2 Kd4
 
 [Event "Young Stars of the World"]
 [Site "Kirishi RUS"]
-[Date "2008.11.21"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Aghasaryan, R."]
@@ -281,7 +256,6 @@ Kg3 Rb3 67. Ne4 Rd3 68. Nf2 Rd4 69. Ng4 Ke6 70. Nf2 Kd5 71. Ng4 Rf4 72. Nf2 Kd4
 [WhiteElo "2466"]
 [BlackElo "2235"]
 [PlyCount "77"]
-[EventDate "2008.11.16"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Nc6 7. Bd3 Be7 8.
 O-O O-O 9. Kh1 Re8 10. f4 e5 11. fxe5 Nxe5 12. Bb5 Rf8 13. Nf5 Bxf5 14. Rxf5 a6
@@ -293,7 +267,6 @@ Rf1 a5 28. b3 Nb4 29. h3 Rb8 30. Bf3 Nd3 31. Ba7 Rd8 32. Bb6 Rb8 33. Bxa5 Nc5
 
 [Event "Young Stars of the World"]
 [Site "Kirishi RUS"]
-[Date "2008.11.26"]
 [Round "10"]
 [White "Giri, A."]
 [Black "Paikidze, N."]
@@ -302,7 +275,6 @@ Rf1 a5 28. b3 Nb4 29. h3 Rb8 30. Bf3 Nd3 31. Ba7 Rd8 32. Bb6 Rb8 33. Bxa5 Nc5
 [WhiteElo "2466"]
 [BlackElo "2292"]
 [PlyCount "77"]
-[EventDate "2008.11.16"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Rg1
 Qe7 9. Bd2 dxc4 10. Bxc4 a6 11. e4 e5 12. g5 hxg5 13. Nxg5 Rf8 14. f4 exd4 15.
@@ -314,7 +286,6 @@ b3 Nd5 35. Qe4 Rxf4 36. Qxd4 Rxd4 37. Kc2 Kc7 38. Rd1 Kd6 39. Be1 1-0
 
 [Event "TCh-NED 2008-9"]
 [Site "Netherlands NED"]
-[Date "2008.09.27"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Jens, J."]
@@ -323,7 +294,6 @@ b3 Nd5 35. Qe4 Rxf4 36. Qxd4 Rxd4 37. Kc2 Kc7 38. Rd1 Kd6 39. Be1 1-0
 [WhiteElo "2430"]
 [BlackElo "2397"]
 [PlyCount "73"]
-[EventDate "2008.09.27"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
 Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 Nc6 12. O-O Bd7 13. Bh5 Bg7 14. f5 O-O
@@ -335,7 +305,6 @@ Nf4 34. Qf3 Rxg2+ 35. Kh1 Rxh2+ 36. Kxh2 Qh6+ 37. Kg3 1-0
 
 [Event "Open A"]
 [Site "Groningen NED"]
-[Date "2008.12.21"]
 [Round "1"]
 [White "Giri, Anish"]
 [Black "Klein, David"]
@@ -343,7 +312,6 @@ Nf4 34. Qf3 Rxg2+ 35. Kh1 Rxh2+ 36. Kxh2 Qh6+ 37. Kg3 1-0
 [WhiteElo "2466"]
 [BlackElo "2184"]
 [ECO "B90"]
-[EventDate "2008.12.21"]
 
 1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Be3 Ng4 7. Bg5 h6 
 8. Bh4 g5 9. Bg3 Bg7 10. h3 Ne5 11. Nf5 Bxf5 12. exf5 Nbc6 13. Nd5 e6 14. 
@@ -360,7 +328,6 @@ Qe4 Qb4 55. Nc4+ Kd7 56. Bxd6 Qxc4 57. Qe7+ Kc6 58. Qxc7+ Kd5 59. Qf7+ Kd4
 
 [Event "Bussum NED, Open 2008"]
 [Site "Bussum NED"]
-[Date "2008.05.10"]
 [Round "3"]
 [White "Giri, Anish"]
 [Black "Miezis, Normunds"]
@@ -368,7 +335,6 @@ Qe4 Qb4 55. Nc4+ Kd7 56. Bxd6 Qxc4 57. Qe7+ Kc6 58. Qxc7+ Kd5 59. Qf7+ Kd4
 [WhiteElo "2401"]
 [BlackElo "2540"]
 [ECO "E11"]
-[EventDate "2008.05.09"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d5 6. Bg2 O-O 7. O-O Nc6 8.
  Qc2 Bd7 9. a3 Be7 10. Bf4 Bd6 11. Nbd2 Re8 12. Rad1 Nxd4 13. Nxd4 e5 14. 
@@ -379,7 +345,6 @@ d3 26. Kg2 a4 27. Nd2 Rc2 28. Nf1 Re2 29. Ne3 Rxe3 0-1
 
 [Event "Bussum NED, Open 2008"]
 [Site "Bussum NED"]
-[Date "2008.05.09"]
 [Round "1"]
 [White "Giri, Anish"]
 [Black "Van der Veen, Jan"]
@@ -387,7 +352,6 @@ d3 26. Kg2 a4 27. Nd2 Rc2 28. Nf1 Re2 29. Ne3 Rxe3 0-1
 [WhiteElo "2401"]
 [BlackElo "2121"]
 [ECO "C82"]
-[EventDate "2008.05.09"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8.
  dxe5 Be6 9. Nbd2 Nc5 10. c3 Bg4 11. Bc2 Ne6 12. Re1 Bc5 13. Nb3 Ba7 14. 
@@ -398,7 +362,6 @@ Be3 Bxe3 15. Rxe3 Ne7 16. Nbd4 c5 17. Nxe6 fxe6 18. b4 Rc8 19. bxc5 Rxc5
 
 [Event "Bussum NED, Open 2008"]
 [Site "Bussum NED"]
-[Date "2008.05.12"]
 [Round "7"]
 [White "Giri, Anish"]
 [Black "Wustefeld, Emile"]
@@ -406,7 +369,6 @@ Be3 Bxe3 15. Rxe3 Ne7 16. Nbd4 c5 17. Nxe6 fxe6 18. b4 Rc8 19. bxc5 Rxc5
 [WhiteElo "2401"]
 [BlackElo "2244"]
 [ECO "C11"]
-[EventDate "2008.05.09"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8.
  Nxd4 Bc5 9. Qd2 O-O 10. O-O-O a6 11. Qf2 Nxd4 12. Bxd4 Qc7 13. Bxc5 Qxc5 
@@ -422,7 +384,6 @@ Rd8 56. Nf5 Re5 57. Rxd8+ Kxd8 58. a7 Bd5 59. Ne3 1-0
 
 [Event "Bussum NED, Open 2008"]
 [Site "Bussum NED"]
-[Date "2008.05.11"]
 [Round "5"]
 [White "Giri, Anish"]
 [Black "Klein, David"]
@@ -430,7 +391,6 @@ Rd8 56. Nf5 Re5 57. Rxd8+ Kxd8 58. a7 Bd5 59. Ne3 1-0
 [WhiteElo "2401"]
 [BlackElo "2088"]
 [ECO "A45"]
-[EventDate "2008.05.09"]
 
 1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. e4 d6 5. Nc3 O-O 6. Nge2 e5 7. a3 Nc6 8. 
 Be3 Bd7 9. O-O Re8 10. f4 exd4 11. Nxd4 Nxd4 12. Bxd4 Bc6 13. Qd3 Nd7 14. 
@@ -442,7 +402,6 @@ Kf6 32. Rd5 Ne6 33. d7 1-0
 
 [Event "2. LCT"]
 [Site "Leiden NED"]
-[Date "2008.07.12"]
 [Round "2"]
 [White "Giri, Anish"]
 [Black "Schroer, Marcel"]
@@ -450,7 +409,6 @@ Kf6 32. Rd5 Ne6 33. d7 1-0
 [WhiteElo "2430"]
 [BlackElo "2111"]
 [ECO "D56"]
-[EventDate "2008.??.11"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Rc1 Ne4 8.
  Bxe7 Qxe7 9. e3 c6 10. Bd3 Nxc3 11. Rxc3 dxc4 12. Bxc4 Nd7 13. O-O e5 14.
@@ -459,7 +417,6 @@ Kf6 32. Rd5 Ne6 33. d7 1-0
 
 
 [Event "27th Blokadny youth festival"]
-[Date "2008.01.05"]
 [Round "1"]
 [White "Giri, Anish"]
 [Black "Belenkaya, Dina"]
@@ -484,7 +441,6 @@ Kf6 32. Rd5 Ne6 33. d7 1-0
 
 
 [Event "27th Blokadny youth festival"]
-[Date "2008.01.09"]
 [Round "5"]
 [White "Giri, Anish"]
 [Black "Gnidenko, Andrey"]
@@ -504,7 +460,6 @@ Kf6 32. Rd5 Ne6 33. d7 1-0
 
 
 [Event "27th Blokadny youth festival"]
-[Date "2008.01.13"]
 [Round "9"]
 [White "Giri, Anish"]
 [Black "Churkin, Vitaly"]
@@ -525,7 +480,6 @@ Kf6 32. Rd5 Ne6 33. d7 1-0
 
 
 [Event "27th Blokadny youth festival"]
-[Date "2008.01.07"]
 [Round "3"]
 [White "Giri, Anish"]
 [Black "Zhukov, Klim"]

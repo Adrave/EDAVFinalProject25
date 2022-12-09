@@ -1,6 +1,5 @@
 [Event "It (cat.9)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lahno Kateryna (UKR)"]
@@ -29,7 +28,6 @@ Nxh5 66.Bd8 Nf4+ 67.Kc3 Ne6 68.Bxc7 Nxc7 69.Kb4 Kd4 70.a5 Nd5+
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.25"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Rustemov Alexander (RUS)"]
@@ -49,7 +47,6 @@ bxa5 20.Rb7 axb4 21.axb4 O-O 22.g4 Nxe3 1/2-1/2
 
 [Event "It (blitz)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.17"]
 [Round "12"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Aronian Levon (GER)"]
@@ -70,7 +67,6 @@ Qxb3 25.Qc4 1/2-1/2
 
 [Event "It (active)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.18"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kasparov Garry (RUS)"]
@@ -95,7 +91,6 @@ Ba6 42.f3 Kg6 43.Kf4 h5 44.gxh5+ Kxh5 45.Rh1+ Kg6 46.Bc5 Rb2
 
 [Event "It (open)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2004.04.24"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Jobava Baadur (GEO)"]
@@ -116,7 +111,6 @@ Kf7 26.Kf2 Rh8 27.Rb1 Qd7 1/2-1/2
 
 [Event "It (open)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2004.04.28"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Iordachescu Viorel (MDA)"]
@@ -136,7 +130,6 @@ Qb6 14.O-O d5 15.Qe3 Qxe3 16.Nxe3 dxc4 17.Nxc4 Nxc4 18.bxc4 Bc5
 
 [Event "It (cat.14)"]
 [Site "Malme (Sweden)/Copenhagen"]
-[Date "2004.05.03"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -160,7 +153,6 @@ Qxd6 31.Rxd6 Rc4 32.Rd8+ Kh7 33.Rd7 f6 34.Rxb7 Rxa4 35.b4 Kh6
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.19"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Aronian Levon (GER)"]
@@ -182,7 +174,6 @@ Nb2 30.Rb1 Nd3 31.Rbd1 Nb2 1/2-1/2
 
 [Event "Ch Norway"]
 [Site "Molde (Norway)"]
-[Date "2004.07.07"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ostenstad Berge (NOR)"]
@@ -202,7 +193,6 @@ Nxd5 20.Bxd5 1/2-1/2
 
 [Event "It \"Politiken Cup\" (open)"]
 [Site "Copenhagen (Denmark)"]
-[Date "2004.07.27"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Miezis Normunds (LAT)"]
@@ -224,7 +214,6 @@ Rf1 30.R8e7+ Kc8 31.Re8+ Kd7 32.R8e7+ 1/2-1/2
 
 [Event "It \"Politiken Cup\" (open)"]
 [Site "Copenhagen (Denmark)"]
-[Date "2004.07.29"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lie Kjetil A (NOR)"]
@@ -248,7 +237,6 @@ Kg6 36.Qg3+ Kf5 37.Qf4+ Kg6 38.Qg3+ Kf7 39.Be5 Re7 40.Qg7+ Ke8
 
 [Event "It \"Politiken Cup\" (open)"]
 [Site "Copenhagen (Denmark)"]
-[Date "2004.07.31"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Rozentalis Eduardas (LTU)"]
@@ -267,7 +255,6 @@ Nbd5 1/2-1/2
 
 [Event "Ch Norway (play-off)"]
 [Site "Oslo (Norway)"]
-[Date "2004.09.04"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ostenstad Berge (NOR)"]
@@ -288,7 +275,6 @@ Qxc2+ 25.Ke1 Qb1+ 26.Ke2 Qd3+ 27.Kf3 Qe4+ 28.Ke2 Qd3+ 1/2-1/2
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2004.09.16"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Alekseev Evgeny (RUS)"]
@@ -312,7 +298,6 @@ Kg7 42.Rg4+ Kh8 1/2-1/2
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2004.09.16"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Alekseev Evgeny (RUS)"]
@@ -337,7 +322,6 @@ Rb2 42.Rc8 Rxb3 43.Rxc5+ Kf4 44.Kg2 Ra3 45.Rc4+ Kf5 46.Kg3 e5
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2004.09.20"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lahno Kateryna (UKR)"]
@@ -355,7 +339,6 @@ Bxc3+ 8.bxc3 Nc5 9.Qe3 b6 10.Bg2 Bb7 11.Ba3 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Gausdal (Norway)"]
-[Date "2004.09.26"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Sammalvuo Tapani (FIN)"]
@@ -381,7 +364,6 @@ Nd5 53.Qc6 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Gausdal (Norway)"]
-[Date "2004.09.30"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Johannessen Leif Erlend (NOR)"]
@@ -404,7 +386,6 @@ Ka7 25.Nd4 Rd8 26.Qxh7 Nxd4 27.exd4 Nf8 28.Qh5 Ne6 29.d5 Rxd5
 
 [Event "It (cat.15)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "2004.10.23"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Sokolov Ivan (NED)"]
@@ -427,7 +408,6 @@ Kxf8 31.Nc8 Bb3 32.Nxb6 Nb5 33.Nd7+ Ke7 34.Nc5 Nxd4 35.Kf2 Bd5
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.26"]
 [Round "11"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kotronias Vasilios (GRE)"]
@@ -450,7 +430,6 @@ Qd3 37.Qe8+ Rc8 38.Qe5+ Rc7 39.Qe8+ Rc8 40.Qe5+ 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.28"]
 [Round "13"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kulaots Kaido (EST)"]
@@ -475,7 +454,6 @@ Rc4 48.Re1 Rd4 49.Rxc1 Rxd6 50.Rxc2 1/2-1/2
 
 [Event "Ch Spain (team)"]
 [Site "Sanxenxo (Spain)"]
-[Date "2004.11.18"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Marin Mihail (ROM)"]
@@ -499,7 +477,6 @@ Ref1+ 1/2-1/2
 
 [Event "Ch Spain (team)"]
 [Site "Sanxenxo (Spain)"]
-[Date "2004.11.20"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -523,7 +500,6 @@ Rh4 37.Rxh4 Qxh4 38.Kg1 Qg4 39.Nd3 Nh4 40.Ne1 Qe2 41.Nc2 Qg4
 
 [Event "Ch Spain (team)"]
 [Site "Sanxenxo (Spain)"]
-[Date "2004.11.22"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Korneev Oleg (RUS)"]
@@ -545,7 +521,6 @@ Rc1+ 30.Ke2 Rc2+ 31.Kd1 Rc1+ 32.Ke2 1/2-1/2
 
 [Event "Ch Spain (team)"]
 [Site "Sanxenxo (Spain)"]
-[Date "2004.11.24"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Krasenkow Michal (POL)"]

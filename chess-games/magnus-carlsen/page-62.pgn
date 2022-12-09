@@ -1,6 +1,5 @@
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2005.01.30"]
 [Round "13"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Nijboer Friso (NED)"]
@@ -23,7 +22,6 @@ Qb5 31.Qd2 f5 32.exf5 exf5 33.Re2 Be4+ 34.Rexe4 fxe4 35.Ne3 Rc5
 
 [Event "It (cat.10)"]
 [Site "Gausdal (Norway)"]
-[Date "2005.04.21"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lie Kjetil A (NOR)"]
@@ -49,7 +47,6 @@ Rxd3 55.Rc8+ Kg7 56.a7 Rd2+ 57.Kf3 Rd3+ 58.Ke4 Ra3 59.a8Q Rxg3 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.18"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Praszak Michal (POL)"]
@@ -71,7 +68,6 @@ Qf5 30.Bxg6+ Qxg6 31.Rxg6 Kxg6 32.Kb3 Kf5 33.Ng3+ 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.25"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kharlov Andrei (RUS)"]
@@ -99,7 +95,6 @@ Nd4 65.e7 Kd7 66.Kf7 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.29"]
 [Round "11"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Korneev Oleg (RUS)"]
@@ -121,7 +116,6 @@ Qxg4+ 31.Rg2 Qf5 32.Rg5 Qd3 33.Qh4 Rh3 34.Qg4 Rh1+ 0-1
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.30"]
 [Round "12"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -146,7 +140,6 @@ Rc1 42.c3+ Ke4 43.f3+ Kf4 44.Rxb5 Rc2+ 45.Kd1 Rh2 46.Kc1 Kxf3
 
 [Event "Ch Norway"]
 [Site "Sandnes (Norway)"]
-[Date "2005.07.02"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Dannevig Oystein (NOR)"]
@@ -174,7 +167,6 @@ Kc3 60.f5 exf5 61.e6 b1Q 62.Qxb1 Rxb1 63.e7 Rb6+ 64.Kxf5 Rb5+
 
 [Event "Ch Norway"]
 [Site "Sandnes (Norway)"]
-[Date "2005.07.04"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Hole Oystein (NOR)"]
@@ -203,7 +195,6 @@ cxd5+ 71.Kxd5 g4 72.c6 g3 73.c7 g2 74.c8Q g1Q 75.Qc6# 1-0
 
 [Event "Ch Norway"]
 [Site "Sandnes (Norway)"]
-[Date "2005.07.05"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Tallaksen Geir S (NOR)"]
@@ -226,7 +217,6 @@ Kg5 35.Qg7+ Kf5 36.g4+ Ke4 37.Qxd4# 1-0
 
 [Event "Ch Norway"]
 [Site "Sandnes (Norway)"]
-[Date "2005.07.07"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Fyllingen Roy Harald (NOR)"]
@@ -254,7 +244,6 @@ Bc2 64.f6 Bb3 65.Bb4 Ba2 66.Kf4 1-0
 
 [Event "Ch Norway"]
 [Site "Sandnes (Norway)"]
-[Date "2005.07.09"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Groenn Atle (NOR)"]
@@ -274,7 +263,6 @@ Nd7 20.f6 Nxf6 21.Rxf6 Qxh4 22.Qxc6+ Ke7 23.Rf7+ Kxe6 24.Qc4# 1-0
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2005.09.17"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Paehtz Elisabeth (GER)"]
@@ -300,7 +288,6 @@ Rxc7 49.Nd2 Ke7 50.Bxd7 Rxd7 51.Nf3 f6 52.Kg3 Rc7 53.Rb4 Kd6
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2005.09.18"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Vachier-Lagrave Maxime (FRA)"]
@@ -323,7 +310,6 @@ Ngxf7 20.h3 Ng5 21.Nf5 Bxf5 22.exf5 h5 23.Qxd6 Qxd6 24.Rxd6 hxg4
 
 [Event "It (open)"]
 [Site "Gausdal (Norway)"]
-[Date "2005.10.02"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Hole Oystein (NOR)"]
@@ -345,7 +331,6 @@ Kh8 20.Re1 Qb6 21.Bd3 Ba6 22.Bb1 Nc6 23.Bh6 Rg8 24.Bxh7 Kxh7
 
 [Event "It (open)"]
 [Site "Gausdal (Norway)"]
-[Date "2005.10.04"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Burmakin Vladimir (RUS)"]
@@ -371,7 +356,6 @@ Bg2 54.g4 Bf3 55.Bf5 Ke7 56.Ke5 Be2 57.Bc8 Kd8 58.Bxa6 Bxg4 59.Ke4 1-0
 
 [Event "It (open)"]
 [Site "Gausdal (Norway)"]
-[Date "2005.10.08"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Tallaksen Geir S (NOR)"]
@@ -394,7 +378,6 @@ Kh7 31.Ba5 Qxa5 32.Rxd7 Bxe4 33.Qd1 Ba8 34.Rxf7 Rd8 35.Qb1 Nf4
 
 [Event "Ch Norway (play-off)"]
 [Site "Oslo (Norway)"]
-[Date "2005.11.08"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Agdestein Simen (NOR)"]
@@ -416,7 +399,6 @@ Rd7 30.Qb5 Nb3 31.Ne5 Re7 32.Qd5+ 1-0
 
 [Event "Ch Norway (play-off)"]
 [Site "Oslo (Norway)"]
-[Date "2005.11.09"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Agdestein Simen (NOR)"]
@@ -446,7 +428,6 @@ Ng8 76.Kf5 Kxa6 77.Kg6 Kb5 78.Kf7 1-0
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.27"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -472,7 +453,6 @@ Kg8 52.Rhg7+ Kh8 53.Rh7+ Kg8 54.d5 Re3+ 55.Kd4 1-0
 
 [Event "Cup World FIDE (active)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.29"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -494,7 +474,6 @@ Qxa5 31.e6 fxe6 32.Nf6+ Kh8 33.Rd8+ Kg7 34.Rg8+ 1-0
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.30"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Amonatov Farrukh (TJK)"]
@@ -517,7 +496,6 @@ Nc2 36.Kf1 1-0
 
 [Event "Cup World FIDE (active)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.05"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Cheparinov Ivan (BUL)"]
@@ -538,7 +516,6 @@ Bg7 20.f5 Qd7 21.Bxa6 Qxa4 22.Bd3 Qd4+ 23.Kh1 gxf5 24.Rxf5 e6
 
 [Event "Cup World FIDE (places 9-12)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.14"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Malakhov Vladimir (RUS)"]
@@ -560,7 +537,6 @@ Qa7 25.h5 Nc7 26.hxg6 hxg6 27.Bxf8 Rxf8 28.Qh6 Bg7 29.Qh4 f6
 
 [Event "Cup World FIDE (places 9-10)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.15"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kamsky Gata (USA)"]
@@ -585,7 +561,6 @@ Kc3 47.Kg2 Ba3 48.Rgd4 1-0
 
 [Event "NOR Ch"]
 [Site "Sandnes NOR"]
-[Date "2005.07.10"]
 [Round "9"]
 [White "Carlsen, Magnus"]
 [Black "Gronn, Atle"]
@@ -593,7 +568,6 @@ Kc3 47.Kg2 Ba3 48.Rgd4 1-0
 [WhiteElo "2528"]
 [BlackElo "2394"]
 [ECO "D43"]
-[EventDate "2005.07.02"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bh4 Qb6 7. Qc2 Ne4 8. 
 e3 Bb4 9. Bd3 Qa5 10. O-O Nxc3 11. bxc3 Bxc3 12. Rab1 dxc4 13. Bxc4 Bb4 

@@ -1,13 +1,11 @@
 [Event "Simul, 25b"]
 [Site "Rotterdam NED"]
-[Date "1908.05.11"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J Snoek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Simul, 25b"]
 [Site "Leiden NED"]
-[Date "1908.06.06"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "R van Dam"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "Simul, 25b"]
 [Site "Leiden NED"]
-[Date "1908.06.06"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J W Schoor"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -64,14 +58,12 @@
 
 [Event "Simul, 25b"]
 [Site "Scheveningen NED"]
-[Date "1908.06.08"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Jan Willem te Kolste"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -86,14 +78,12 @@
 
 [Event "Simul, 25b"]
 [Site "Hereford ENG"]
-[Date "1897.02.18"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "G N Carter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -107,14 +97,12 @@
 
 [Event "Simul, 25b"]
 [Site "Hereford ENG"]
-[Date "1897.02.18"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "H E Norris"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -129,14 +117,12 @@
 
 [Event "Lasker - Steinitz World Championship Rematch"]
 [Site "Moscow RUE"]
-[Date "1896.11.24"]
 [Round "6"]
 [White "Emanuel Lasker"]
 [Black "Wilhelm Steinitz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C50"]
-[EventDate "????.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -155,14 +141,12 @@
 
 [Event "Simul, 28b"]
 [Site "Hamburg GER"]
-[Date "1898.10.25"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B28"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -175,14 +159,12 @@
 
 [Event "Simul, 33b"]
 [Site "Utrecht NED"]
-[Date "1898.04.06"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Dirk Willem van Rennes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C50"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -197,14 +179,12 @@
 
 [Event "Simul, 19b"]
 [Site "Hereford ENG"]
-[Date "1897.02.19"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "G Macdonald"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -222,14 +202,12 @@
 
 [Event "Simul, 20b"]
 [Site "Basingstoke ENG"]
-[Date "1898.11.10"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "F C Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -244,14 +222,12 @@
 
 [Event "Simul, 21b"]
 [Site "London ENG"]
-[Date "1898.11.05"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Mrs Rumboll"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -263,14 +239,12 @@
 
 [Event "Simul"]
 [Site "Bristol ENG"]
-[Date "1898.11.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -285,14 +259,12 @@
 
 [Event "Simul, 31b"]
 [Site "Birmingham ENG"]
-[Date "1897.03.01"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Daniel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -305,14 +277,12 @@
 
 [Event "Simul, 31b"]
 [Site "Plymouth ENG"]
-[Date "1898.11.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "T Taylor"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -326,14 +296,12 @@
 
 [Event "Simul, 21b"]
 [Site "London ENG"]
-[Date "1898.11.05"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Anderson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -346,14 +314,12 @@
 
 [Event "Simul, 14b"]
 [Site "Falmouth ENG"]
-[Date "1898.11.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C44"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -367,14 +333,12 @@
 
 [Event "Simul, 20b"]
 [Site "Oxford ENG"]
-[Date "1898.11.12"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "R G Lynam"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -389,14 +353,12 @@
 
 [Event "Simul, 24b"]
 [Site "City of London CC, London ENG"]
-[Date "1898.11.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Arthur John Curnock"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D26"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -412,14 +374,12 @@
 
 [Event "Simul, 30b"]
 [Site "Cheltenham ENG"]
-[Date "1898.11.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Roland Julian Webb"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -432,14 +392,12 @@
 
 [Event "Simul, 26b"]
 [Site "Bristol ENG"]
-[Date "1898.11.26"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J L Daniell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -453,14 +411,12 @@
 
 [Event "Simul, 30b"]
 [Site "Cheltenham ENG"]
-[Date "1898.11.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Forbes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A34"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -477,14 +433,12 @@
 
 [Event "Simul, 25b"]
 [Site "Birmingham ENG"]
-[Date "1898.12.01"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Charles W Blake"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C79"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -498,14 +452,12 @@
 
 [Event "Simul, 25b"]
 [Site "Birmingham ENG"]
-[Date "1898.12.01"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Frederick Richard Gittins"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -520,14 +472,12 @@
 
 [Event "Simul, 25b"]
 [Site "Manchester ENG"]
-[Date "1898.12.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "G W Wright"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 

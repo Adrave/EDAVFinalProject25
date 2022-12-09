@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Seirawan Yasser (USA)"]
@@ -23,7 +22,6 @@ c4 36.Re7 f6 37.Qe3 R6d7 38.Rxd7 Qxd7 39.Qf3+ Qd5 1-0
 
 [Event "It \"S.W.I.F.T.\" (active)"]
 [Site "Brussels (Belgium)"]
-[Date "1992.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -43,7 +41,6 @@ Qc8 14.Qxd5 Bf6 15.Na3 g6 16.Qf3 Bc6 17.Bxf5 gxf5 18.Qf4 Qd7
 
 [Event "It \"S.W.I.F.T.\" (active)"]
 [Site "Brussels (Belgium)"]
-[Date "1992.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Portisch Lajos (HUN)"]
@@ -71,7 +68,6 @@ Ne5+ 60.Ke2 g4 61.hxg4 fxg4 62.b4 Ra2+ 63.Kd1 Nc4 64.Rc5 Ne3+
 
 [Event "It \"S.W.I.F.T.\" (active)"]
 [Site "Brussels (Belgium)"]
-[Date "1992.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Sokolov Ivan (NED)"]
@@ -92,7 +88,6 @@ Qxf6 24.Bxc5+ Re7 25.Qh8+ Kf7 26.Nd6+ 1-0
 
 [Event "It (open)"]
 [Site "Calcutta (India)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bologan Viktor (MDA)"]
@@ -118,7 +113,6 @@ Ra3 54.Rh7+ Kg5 55.Rf7 Qe8 56.Qf2 h4 57.Qd2+ Kg4 58.Nf6# 1-0
 
 [Event "It (open)"]
 [Site "Calcutta (India)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Deshmukh Anup (IND)"]
@@ -146,7 +140,6 @@ Nd6 65.Ke6 c3 66.f7 Nxf7 67.Kxf7 Kxd5 68.Kg7 c2 69.Kxh7 1-0
 
 [Event "It (open)"]
 [Site "Calcutta (India)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Garma Chito (PHI)"]
@@ -168,7 +161,6 @@ Qb5 33.Rbf1 Qe8 34.Qf3 Qd8 35.Kh1 Ka7 36.Bh2 b5 37.Rg2 1-0
 
 [Event "It (open)"]
 [Site "Calcutta (India)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ravi Lanka (IND)"]
@@ -192,7 +184,6 @@ Re8 37.Rh1 Nxg5 38.Rxe7+ Rxe7 39.f6 Ne6 40.Bg3 Bxg3 41.fxe7 Re8
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1992.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -218,7 +209,6 @@ Bc6 52.Ngf7 Nxf7 53.Qxf7+ Kb6 54.Qf4 Qe6 55.h5 Bb7 56.Qf6 1-0
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1992.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -240,7 +230,6 @@ Bf8 31.Qe2+ 1-0
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "13"]
 [White "Anand Viswanathan (IND)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -263,7 +252,6 @@ h5 31.Nd5 Qh6 32.g3 Re1+ 33.Kh2 h4 34.Ne7+ Kh8 35.Nxf5 hxg3+
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -286,7 +274,6 @@ Nc8 36.c6 Rb6 37.Rb1 Rxb1 38.Rxb1 1-0
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Timman Jan H (NED)"]
@@ -308,7 +295,6 @@ cxb3 31.axb3 Qb5 32.Qe3 Bd6 33.Nh5 1-0
 
 [Event "Match"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -333,7 +319,6 @@ f2 46.Qf5 1-0
 
 [Event "Match"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -356,7 +341,6 @@ Kb8 36.Be2 Qc7 37.Bf3 1-0
 
 [Event "Olympiad"]
 [Site "Manila (Philippines)"]
-[Date "1992.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adianto Utut (INA)"]
@@ -378,7 +362,6 @@ Kf8 25.Qc2 Bb7 26.Be4 Bxc6 27.Bxc6 Rc7 28.Qh7 Qe6 29.Qh8+ Ke7
 
 [Event "Olympiad"]
 [Site "Manila (Philippines)"]
-[Date "1992.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kotronias Vasilios (GRE)"]
@@ -408,7 +391,6 @@ Kc3 75.Qb3+ Kd2 76.Qb4+ Kd3 77.Bg3 Kc2 1-0
 
 [Event "Olympiad"]
 [Site "Manila (Philippines)"]
-[Date "1992.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Robatsch Karl (AUT)"]
@@ -428,7 +410,6 @@ Bf6 14.Rd8+ Bxd8 15.Bxc5 Bd7 16.Qd3 Qb5 17.c4 Qxc5 18.Qxd7+ Kf8
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "18"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -453,7 +434,6 @@ Nh4 48.Kf2 Rd3 49.Be4 Rb3 50.d6 Rb4 51.Ra8+ Kf7 52.d7 1-0
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -475,7 +455,6 @@ Bd8 30.Qe5 Ref8 31.Qh5 h6 32.Qg4 1-0
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "20"]
 [White "Anand Viswanathan (IND)"]
 [Black "Seirawan Yasser (USA)"]
@@ -503,7 +482,6 @@ Nd8 65.Bb4 Nb7 66.Ka6 Kc8 67.Be7 Kb8 68.Bd6+ Ka8 69.Bc7 1-0
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -529,7 +507,6 @@ Qd4 54.Qd2 1-0
 
 [Event "It (active)"]
 [Site "Oviedo (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ionov Sergey (RUS)"]
@@ -552,7 +529,6 @@ Qxf6 26.Qe3 e5 27.Ne2 Bg4 28.Rdf1 Qxg7 29.Ng3 Kh8 30.Rhg1 Rf8
 
 [Event "It (active)"]
 [Site "Oviedo (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kharlov Andrei (RUS)"]
@@ -577,7 +553,6 @@ Kg8 47.Rfg7+ 1/2-1/2
 
 [Event "Madrid"]
 [Site "Madrid ESP"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Kramnik, Vladimir"]
@@ -585,7 +560,6 @@ Kg8 47.Rfg7+ 1/2-1/2
 [WhiteElo "2710"]
 [BlackElo "2685"]
 [ECO "B32"]
-[EventDate "1993.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 
 8. Na3 Be6 9. Nc2 Rc8 10. Bd2 Bg5 11. Bxg5 Qxg5 12. Qd2 Qxd2+ 13. Kxd2 g6 

@@ -1,13 +1,11 @@
 [Event "New Jersey"]
 [Site "New Jersey"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Barry Spiro"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "Simul Match"]
 [Site "KL, Malaysia"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Collin Madhavan"]
 [Result "1-0"]
 [BlackElo "2240"]
 [ECO "B96"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "URS"]
 [Site "URS"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Neibult"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B21"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1986.09.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Guillermo Garcia Gonzales"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -84,14 +76,12 @@
 
 [Event "Sant. del Esterol m (09)"]
 [Site "Sant. del Esterol m (09)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Miguel A Quinteros"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B09"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -104,14 +94,12 @@
 
 [Event "St del Esterol m 5'"]
 [Site "St del Esterol"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Mikhail Tal"]
 [Black "Miguel A Quinteros"]
 [Result "1-0"]
 [BlackElo "2490"]
 [ECO "B97"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "2605"]
 
@@ -126,14 +114,12 @@
 
 [Event "St del Esterol m 5'"]
 [Site "St del Esterol"]
-[Date "1987.??.??"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Miguel A Quinteros"]
 [Result "1-0"]
 [BlackElo "2490"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "2605"]
 
@@ -148,14 +134,12 @@
 
 [Event "Reykjavik"]
 [Site "Reykjavik ISL"]
-[Date "1987.02.26"]
 [Round "7"]
 [White "Mikhail Tal"]
 [Black "Viktor Korchnoi"]
 [Result "1-0"]
 [BlackElo "2625"]
 [ECO "C80"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "2605"]
 
@@ -174,14 +158,12 @@
 
 [Event "Long Beach"]
 [Site "Long Beach"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Andreopoulas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B82"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -193,14 +175,12 @@
 
 [Event "Moscow 30' Speed Tou"]
 [Site "Moscow 30' Speed Tou"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Yuri Balashov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -214,14 +194,12 @@
 
 [Event "Simul"]
 [Site "Chicago, IL USA"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Jack Miller"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -236,14 +214,12 @@
 
 [Event "Wch-blitz final"]
 [Site "Saint John CAN"]
-[Date "1988.02.20"]
 [Round "5"]
 [White "Mikhail Tal"]
 [Black "Rafael Vaganian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C16"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -260,14 +236,12 @@
 
 [Event "National Open"]
 [Site "Chicago, IL USA"]
-[Date "1988.03.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Robert Forbis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B77"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -281,14 +255,12 @@
 
 [Event "National Open"]
 [Site "Chicago, IL USA"]
-[Date "1988.03.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Joe Eversole"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -302,14 +274,12 @@
 
 [Event "National Open"]
 [Site "Chicago, IL USA"]
-[Date "1988.03.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Aquiles Chihu Amparan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B31"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -322,14 +292,12 @@
 
 [Event "13th Soviet Team Cup"]
 [Site "Kiev URS"]
-[Date "1984.05.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Alexander Semeniuk"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -345,14 +313,12 @@
 
 [Event "Albena"]
 [Site "Albena BUL"]
-[Date "1984.09.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Tihomir Toshkov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -368,14 +334,12 @@
 
 [Event "Riga rapid"]
 [Site "Riga rapid"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Lembit Antsovich Oll"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -388,14 +352,12 @@
 
 [Event "Bremen"]
 [Site "Bremen"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Walter Henke"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B09"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -409,14 +371,12 @@
 
 [Event "Tbilisi"]
 [Site "7"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Ales Pekarek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B70"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -431,14 +391,12 @@
 
 [Event "Yerevan"]
 [Site "Yerevan"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Eduard A Mnatsakanian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B29"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -451,14 +409,12 @@
 
 [Event "Yerevan"]
 [Site "Yerevan"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Arshak B Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C87"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -474,14 +430,12 @@
 
 [Event "21st Costa del Sol"]
 [Site "Torremolinos ESP"]
-[Date "1981.04.28"]
 [Round "7"]
 [White "Mikhail Tal"]
 [Black "Ricardo Calvo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B62"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -496,14 +450,12 @@
 
 [Event "Lvov"]
 [Site "Lvov URS"]
-[Date "1981.06.??"]
 [Round "9"]
 [White "Mikhail Tal"]
 [Black "Janos Flesch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -518,14 +470,12 @@
 
 [Event "Hoogovens"]
 [Site "Wijk aan Zee NED"]
-[Date "1982.01.29"]
 [Round "12"]
 [White "Mikhail Tal"]
 [Black "Jaime Sunye Neto"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B42"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 

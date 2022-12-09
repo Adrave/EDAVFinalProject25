@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Barnes Thomas W (ENG)"]
@@ -22,7 +21,6 @@ Nb4 31.Rf6 Qe8 32.Qc5+ Bc6 33.Rf8 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -51,7 +49,6 @@ Kf4 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Hannah W"]
@@ -77,7 +74,6 @@ Rb3 47.Ke3 Rb5 48.Rxb5 axb5 49.Kf4 Kc6 50.Ke5 b4 51.cxb4 Kb5
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mongredien O"]
@@ -98,7 +94,6 @@ Rg7 25.Bg5 Qd7 26.Bxg6+ Rxg6 27.Qxg6+ Kd8 28.Rf8+ Qe8 29.Qxe8# 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Paulsen Louis (GER)"]
@@ -123,7 +118,6 @@ Rfc8 43.Nf4 Be8 44.Bb2 Nd6 45.Rhg2 Qf5 46.Qe3 Qb1+ 47.Bc1 Nf5
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Robey J"]
@@ -145,7 +139,6 @@ g6 31.fxg6 hxg6 32.Bxg6 Kg7 33.Qf7+ Kh6 34.h4 1-0
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Dubois Serafino (ITA)"]
@@ -165,7 +158,6 @@ d6 8.Bxh6 dxe5 9.Bxg7 Qg5 10.Bxh8 Nxc4 11.O-O Bg4 12.Bf6 Qg6
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Dubois Serafino (ITA)"]
@@ -188,7 +180,6 @@ Be7 36.h5 Bc2 37.d5 Bd3 38.d6 Bd8 39.d7+ Kxd7 40.Rd6+ 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -214,7 +205,6 @@ Nd4+ 42.Kd3 Kg8 43.Re7 Rxe7 44.d6+ Rf7 45.Kxd4 Kf8 46.Kd5 Ke8
 
 [Event ""]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -238,7 +228,6 @@ Nd7 35.a4 bxa4 36.bxa4 Nc5 37.Qf8+ Kg6 38.a5 h5 39.gxh5+ Kxh5
 
 [Event ""]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Wilson Peter (ENG)"]
@@ -258,7 +247,6 @@ Qh2+ 14.Kf1 Qh1+ 15.Ke2 Qxg2+ 16.Ke3 f6 17.Bc4 fxe5 18.Rf8+ Bxf8
 
 [Event ""]
 [Site "Vienna (Austria)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Pilhal"]
@@ -277,7 +265,6 @@ Bb6 14.Nxe5 Ne7 15.Nxd7 Qxd5 16.Nf6+ Kd8 17.Bxe7# 1-0
 
 [Event ""]
 [Site "Vienna (Austria)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Pilhal"]
@@ -296,7 +283,6 @@ Bxc3 14.Nxc3 dxc3 15.Nxe5 Ne7 16.Nxd7 Qxd5 17.Nf6+ Kd8 18.Bxe7# 1-0
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1863.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mongredien O"]
@@ -316,7 +302,6 @@ c5 14.Ng5 a6 15.Nxh7 Nxh7 16.Rxh7 Kxh7 17.Qh5+ Kg8 18.Rh1 Re8
 
 [Event "Match"]
 [Site ""]
-[Date "1863.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Deacon Frederic"]
@@ -335,14 +320,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "Casual game"]
 [Site "London ENG"]
-[Date "1863.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Philipp Hirschfeld"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1863.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -354,14 +337,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London"]
 [Site "?"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "George Walker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "1862.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -377,14 +358,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "Steinitz - Dubois"]
 [Site "London ENG"]
-[Date "1862.09.??"]
 [Round "6"]
 [White "Wilhelm Steinitz"]
 [Black "Serafino Dubois"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "1862.09.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -399,14 +378,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London 5"]
 [Site "London 5"]
-[Date "1863.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Augustus Mongredien"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1863.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -422,14 +399,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London m/1"]
 [Site "London ENG"]
-[Date "1863.03.??"]
 [Round "1"]
 [White "Wilhelm Steinitz"]
 [Black "Frederic Deacon"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1863.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -443,14 +418,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London"]
 [Site "?"]
-[Date "1863.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C43"]
-[EventDate "1863.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -462,14 +435,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London m/5"]
 [Site "London m/5"]
-[Date "1863.03.??"]
 [Round "5"]
 [White "Wilhelm Steinitz"]
 [Black "Frederic Deacon"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "1863.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -482,14 +453,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London 5"]
 [Site "London 5"]
-[Date "1864.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Edmund Thorold"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1864.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -502,14 +471,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London m/7"]
 [Site "London m/7"]
-[Date "1863.03.??"]
 [Round "7"]
 [White "Wilhelm Steinitz"]
 [Black "Frederic Deacon"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1863.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -522,14 +489,12 @@ O-O 14.Ba3 Nf5 15.Ne4 Rd8 16.Rad1 Qe7 17.Rfe1 Kh8 18.Nfg5 1-0
 
 [Event "London, Cigar Divan"]
 [Site "London, Cigar Divan"]
-[Date "1864.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "John Gocher"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1864.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Helsinki (Finland)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hurme Harri M (FIN)"]
@@ -26,7 +25,6 @@ h5 52.Ne4+ Kg6 53.d6 Rxa3 54.d7 Rd3 55.Nc5 Rd5 56.Ne6 Rxd7 57.Nf8+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Helsinki (Finland)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Lampen Timo (FIN)"]
@@ -49,7 +47,6 @@ Kf7 36.Ba6 Ke7 37.Bb7 Be6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Helsinki (Finland)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nouro Mikael (FIN)"]
@@ -73,7 +70,6 @@ Nf6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Helsinki (Finland)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Pyhala Antti (FIN)"]
@@ -97,7 +93,6 @@ hxg4 41.Kf2 Kf5 42.Nb8 Nbc7 43.Ba5 Kg5 44.Ke2 g3 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -121,7 +116,6 @@ f5 42.Kf2 Kf7 43.Ke3 Ke7 44.Ba5 Be5 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -148,7 +142,6 @@ Ba3 59.Be3 Bf8 60.Bd2 Kc6 61.Be3 Kd5 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -172,7 +165,6 @@ Kd6 42.Ke3 e5 43.fxe5+ fxe5 44.Kf2 Ke6 45.Kg2 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -195,7 +187,6 @@ Kg8 31.Bf4 Rh4 32.Bg3 Rxg3 33.Qxg3 Qh6 34.Qf3 Rh1+ 35.Kf2 Qd2+
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -224,7 +215,6 @@ Qd5+ 64.f3 Qa2+ 65.Kh3 Qb1 66.g4 hxg4+ 67.fxg4 Qf1+ 68.Kg3 Qf6
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -247,7 +237,6 @@ R4b6 36.Rxb6 Rxb6 37.f5 Rb4 38.Rf4 Rxb2 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -268,7 +257,6 @@ Qe4 25.Qc2 Qd5 26.Qa4 Qe4 27.Qc2 Qd5 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -295,7 +283,6 @@ Kg7 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -317,7 +304,6 @@ Rxc1 30.Qxc1 Qd4 31.Qc2 f5 32.h4 g5 33.hxg5 hxg5 34.Qc1 Kf7 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Xie Jun (CHN)"]
@@ -348,7 +334,6 @@ Kh6 81.Qd5 Kg7 82.Qc6 Qb2 83.Bg2 Qf6 84.Be4 Qb2 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -371,7 +356,6 @@ Nh5 37.Nfh4 Nxf4 38.Nxf4 Bxf4 39.Nxf5+ Bxf5 40.Bxf5 Ne5 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -392,7 +376,6 @@ Kc7 25.Ne3 Ne6 26.R4d2 Nc5 27.Rd4 Ne6 28.R4d2 Nc5 1/2-1/2
 
 [Event "Ch Yugoslavia (team) (play-off)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -418,7 +401,6 @@ Rba7 54.Rc8 Qb6 55.Rxa8 Qg1+ 56.Rg2 Qh1 1/2-1/2
 
 [Event "Ch Spain (team) (final)"]
 [Site "Oropesa (Spain)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Rogers Ian (AUS)"]
@@ -442,7 +424,6 @@ Nxe3 31.Qxe3 Bd5 32.Qg5 Bc6 33.Qxb5 Bxb5 34.e3 Bxf1 35.Kxf1 Re8
 
 [Event "It (cat.16)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -469,7 +450,6 @@ Ba8 59.Kf2 e4 60.Nf4 g5 61.hxg5 Kxg5 62.Ng2 Kg4 63.Ne3+ Kh3 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -490,7 +470,6 @@ Ra5 25.Rxc7 Rf8 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -514,7 +493,6 @@ Qe7 42.Qf3 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -540,7 +518,6 @@ Ke7 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Jussupow Artur (GER)"]
@@ -559,7 +536,6 @@ b5 14.a3 Ne5 15.f4 Nc4 16.Qd4 Rc8 17.h5 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -580,7 +556,6 @@ cxd4 14.Bxd4 Nc6 15.Qe3 Nxd4 16.Nxd4 Nd5 17.Nxd5 Qxd5 18.f4 Qc5
 
 [Event "Simultan"]
 [Site "Helsinki (Finland)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Fieandt John (FIN)"]
@@ -589,7 +564,6 @@ cxd4 14.Bxd4 Nc6 15.Qe3 Nxd4 16.Nxd4 Nd5 17.Nxd5 Qxd5 18.f4 Qc5
 [WhiteElo "2775"]
 [BlackElo "2162"]
 [PlyCount "100"]
-[EventDate "1996.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. dxc5
 Qxd1+ 9. Nxd1 Bxc5 10. e4 Bg6 11. Bxc4 Nfd7 12. Nd3 Bd4 13. Be3 Nc6 14. Bb5 Bb6

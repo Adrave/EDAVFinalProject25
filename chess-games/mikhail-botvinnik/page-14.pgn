@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "18"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Guimard Carlos E (ARG)"]
@@ -26,7 +25,6 @@ Kg8 54.Be2 Nh7+ 55.Kh4 Kf7 56.Kg3 Nf6 57.Kf2 1-0
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "16"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kottnauer Cenek (ENG)"]
@@ -52,7 +50,6 @@ axb4+ 54.Kxb4 Rf7 55.Ra8 1-0
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "8"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "O'kelly De Galway Alberic (BEL)"]
@@ -75,7 +72,6 @@ Bxd6 36.exd6 1-0
 
 [Event ""]
 [Site "Bolshevo (Russia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -98,7 +94,6 @@ Bc6 31.Rbe5 Rd7 32.Qh4 Qh8 33.Qf4 Qg7 34.Rg3 Bd5 35.Reg5 Rxc3
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "9"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -119,7 +114,6 @@ f4 26.Bf2 g5 27.Rb3 g4 28.fxg4 Qxg4 29.Bxa8 Rxa8 30.Rab1 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kottnauer Cenek (ENG)"]
@@ -145,7 +139,6 @@ Be8 55.Na6 Kd8 56.Bg4 Bd7 57.Nc5 Ke7 58.Kd3 Bc8 59.Bh3 Ke8 60.Kc3 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Novotelnov Nikolai (RUS)"]
@@ -171,7 +164,6 @@ Kd7 54.Qf5+ Ke8 55.Qh5+ 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "13"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Pachman Ludek (GER)"]
@@ -195,7 +187,6 @@ Ne8 36.Qb3 Nc7 37.Qf3 Nxd5 38.exd5 Qf6 39.Qg4+ Kf7 40.Qd7+ Qe7
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "11"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -217,7 +208,6 @@ c5 26.Kg1 g6 27.fxg6 Qxf4 28.Rxf4 fxg6 29.Rf6 Bf5 30.Rxd6 Nxc4
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "15"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Trifunovic Petar (YUG)"]
@@ -236,7 +226,6 @@ e6 8.Qb3 Bb4 9.Bb5 O-O 10.O-O Bxc3 11.Bxc6 Bxb2 12.Bxb7 Bxa1
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "7"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tsvetkov Alexandar K (BUL)"]
@@ -258,7 +247,6 @@ Qxg6 25.Qb6 Qh5 26.Qb3 Rdd8 27.d5 exd5 28.Ba7 Rbc8 29.Qxb7 f5
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -280,7 +268,6 @@ Nxc6 31.e7+ Rf7 32.Bd5 1-0
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "12"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -302,7 +289,6 @@ e5 31.bxc4 bxc4 32.Kf2 Kf7 33.Ke3 Ke6 34.Qb4 Rc7 35.Kd2 Rc6 36.a4 1-0
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "22"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -321,7 +307,6 @@ Qxd7 14.b4 Rfe8 1/2-1/2
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "10"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -341,7 +326,6 @@ exd4 14.e4 Be6 15.Rc1 Re7 16.Qxd4 Qc7 17.c5 dxc5 18.Rxc5 Qf4
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "20"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -368,7 +352,6 @@ h5 59.e6+ Kd8 60.Kxb5 1-0
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "4"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -390,7 +373,6 @@ Ra6 26.Nd5 Nxe4 27.Re2 f5 28.g4 Bc5 29.gxf5 Qxf5 30.Qxe4 Qxh3
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "14"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -414,7 +396,6 @@ Na5 31.Rd2 Rc7 32.g4 Rcd7 33.gxf5 gxf5 34.Red1 h4 35.Ke1 Nb3
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "24"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -438,7 +419,6 @@ Kh7 36.cxb5 f6 37.Bc7 Ne6 38.Rxa8 Nxc7 39.Rxa7 Nxb5 40.Rd7 fxg5
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "8"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -469,7 +449,6 @@ Kh5 1/2-1/2
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "18"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -499,7 +478,6 @@ Kxg6 76.a6 Kg7 77.Ra7+ Kg6 78.Rb7 Ra5 79.Rb6+ Kf7 80.Kxe2 Ke7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "15"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Bronstein David I (RUS)"]
@@ -521,14 +499,12 @@ Re4 31.Bg5 Re5 32.Bf4 Re4 33.Bg5 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1947.12.12"]
 [Round "11"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E40"]
-[EventDate "1947.11.26"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -543,14 +519,12 @@ Re4 31.Bg5 Re5 32.Bf4 Re4 33.Bg5 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1947.12.02"]
 [Round "5"]
 [White "Mikhail Botvinnik"]
 [Black "Nikolay Novotelnov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D74"]
-[EventDate "1947.11.26"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -568,14 +542,12 @@ Re4 31.Bg5 Re5 32.Bf4 Re4 33.Bg5 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1947.12.16"]
 [Round "13"]
 [White "Mikhail Botvinnik"]
 [Black "Ludek Pachman"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A28"]
-[EventDate "1947.11.26"]
 [PlyCount "90"]
 [WhiteElo "?"]
 

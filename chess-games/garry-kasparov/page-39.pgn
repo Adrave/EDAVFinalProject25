@@ -1,6 +1,5 @@
 [Event "Blitz"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -25,7 +24,6 @@ Ke8 42.Kd3 Kd7 43.Kxd4 Ke6 44.Kc3 Ne4+ 45.Kxb3 Nxf2 46.Ne5 Kxd6
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -50,7 +48,6 @@ f5 20.exf6 Rxf6 21.Qc3 Nc6 22.Nc2 Qf7 23.Ne3 Qd7 24.Rad1 Bxe4
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -70,7 +67,6 @@ Nbd7 14.Bb2 Nxc5 15.Qc2 Rac8 16.Bf5 Ne6 17.Qxc7 Rxc7 18.Be5 Rd7
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sosonko Gennadi (NED)"]
@@ -92,7 +88,6 @@ Qa3 31.h5 Qa5 32.g6 f6 33.Bc3 Rd8 34.Bxa5 1-0
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -111,7 +106,6 @@ Kf8 14.Be3 Qc7 15.Rc1 Ng4 16.Qd5 1-0
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -139,7 +133,6 @@ Ke5 59.Rd7 Kf6 60.Kxe4 g6 61.Kd5 gxh5 62.gxh5 Kg5 63.Kc6 Kxh5
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Torre Eugenio (PHI)"]
@@ -160,7 +153,6 @@ Nxf4 25.Qxf4 1-0
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -184,7 +176,6 @@ Kf7 37.Qg4 Rd6 38.Qh5+ Kf8 39.Be4 Rf6 40.Kg2 a5 41.Bxd4 exd4
 
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -211,7 +202,6 @@ Kxg3 58.Kf1 Ne3+ 59.Ke1 Rxc5 1-0
 
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -238,7 +228,6 @@ Qb6+ 60.Kd3 Qb1+ 61.Kc3 Qe1+ 1-0
 
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -259,7 +248,6 @@ Kg8 25.Rfd1 b6 26.Rh4 Rf5 27.Nd4 1-0
 
 [Event "Active"]
 [Site "London (England)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -284,7 +272,6 @@ Bxf6 37.exf6 Nf5 38.Ne5 Qd6 39.Qh5 Rxe5 40.Rxe5 Qd2 41.Qe2 Qxc3
 
 [Event ""]
 [Site "London (England)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -311,7 +298,6 @@ g4+ 58.Kf2 Rgb1 59.e6 Rf5+ 60.Kg2 h5 61.e7 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1987.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -336,7 +322,6 @@ Qxa3 49.g4+ Bxg4 50.Rxc4 Qa1 0-1
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -360,7 +345,6 @@ Bh5 32.Nxb7 Nd7 33.Nd6+ Kf8 34.Qxh4 Nxf6 35.g4 Re7 36.g5 Rd7
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -382,7 +366,6 @@ Bxe2 25.Rxd8 Rxd8 26.Re1 Re8 27.Qa5 b5 28.Nd2 Qd3 29.Nb3 Bf3
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -406,7 +389,6 @@ Re3 36.Bb5 Rxc3 37.Rxa7 Ng6 38.Rd7 Ne5 39.Rxd6+ Kf5 40.a6 Ra3
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -431,7 +413,6 @@ Re5 44.Nxg6 Rxf1 45.Qxf1 Rxe4 46.dxe4 Kxg6 47.Rf2 Qe8 48.e5 dxe5
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "16"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -454,7 +435,6 @@ Qe6 31.Qb2 Qe3+ 32.Kh1 b6 33.fxg7 Nc4 34.Qc2 Kxg7 35.Bd5 Nd6
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "24"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -482,7 +462,6 @@ Qc5 59.Qf7+ Kh8 60.Ba4 Qd5+ 61.Kh2 Qc5 62.Bb3 Qc8 63.Bd1 Qc5
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huss Andreas (SUI)"]
@@ -505,7 +484,6 @@ f5 32.exf6 Qxf6 33.Bxg6 Qxg6 34.Qd6 g4 35.hxg4 hxg4 36.Ne5 Qb1+
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Trepp Markus (SUI)"]
@@ -526,7 +504,6 @@ Qb8 20.Nxf6+ Nxf6 21.Qxd6 Re6 22.Qxb8+ Rxb8 23.e5 Nd7 24.f4 f6
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Wirthensohn Heinz (SUI)"]
@@ -547,7 +524,6 @@ Kg7 24.Nf4 Nc6 25.Nh5+ 1-0
 
 [Event "Blitz"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -555,7 +531,6 @@ Kg7 24.Nf4 Nc6 25.Nh5+ 1-0
 [ECO "E42"]
 [WhiteElo "2740"]
 [PlyCount "71"]
-[EventDate "1987.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
 Nxd2 9. Qxd2 b6 10. a3 Bxc3 11. Nxc3 bxc5 12. dxc5 a5 13. Rc1 Nc6 14. Bb5 Bd7
@@ -567,7 +542,6 @@ Qb4 35. Nf6+ gxf6 36. Qxb4 1-0
 
 [Event "It \"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -575,7 +549,6 @@ Qb4 35. Nf6+ gxf6 36. Qxb4 1-0
 [ECO "E48"]
 [WhiteElo "2740"]
 [PlyCount "61"]
-[EventDate "1987.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 c5 8.
 O-O Nc6 9. a3 cxd4 10. exd4 Bxc3 11. bxc3 Ne7 12. Qc2 Bd7 13. Bg5 Ng6 14. f4 h6

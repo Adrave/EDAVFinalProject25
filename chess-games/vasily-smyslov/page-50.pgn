@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Budapest (Hungary)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bronstein David I (RUS)"]
@@ -26,7 +25,6 @@ Rh8 53.Rh1 c4 54.Kg5 c3 55.Kg6 c2 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Budapest (Hungary)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -50,7 +48,6 @@ Kxf5 36.Rxe7 Rxh2 37.Kxd4 Kg4 38.Ke3 h5 39.Rg7+ Kh3 40.Kf3 Rc2
 
 [Event "Tournament (candidates)"]
 [Site "Budapest (Hungary)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Najdorf Miguel (POL)"]
@@ -74,7 +71,6 @@ Bc6+ 41.Kf4 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Budapest (Hungary)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -102,7 +98,6 @@ Rf6 66.Ke4 Re6+ 67.Kf5 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ljublinsky Victor (RUS)"]
@@ -126,7 +121,6 @@ Ree8 43.Rgf2 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -149,7 +143,6 @@ Rf6 37.Rxf6 Kxf6 38.Rg3 Ke7 39.Rg8 Ra8 40.Bg5+ Kd7 41.Rg7 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sokolsky Alexey (BLR)"]
@@ -169,7 +162,6 @@ Rh7 20.Bc3 Qd7 21.e4 Nxc3 22.Nxc3 h4 23.g4 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -194,7 +186,6 @@ Ka8 47.Rc7 Rg8+ 48.Ng3 1-0
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Castillo Larenas Mariano (CHI)"]
@@ -220,7 +211,6 @@ Kf8 53.e6 Ra5+ 54.Kd6 1-0
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -241,7 +231,6 @@ Kc8 25.Nd6+ Kc7 26.Qc4+ Bc6 27.Qc5 Qf4 28.c4 Nb6 29.a5 1-0
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Golombek Harry (ENG)"]
@@ -264,7 +253,6 @@ Nd5 31.Na5 Bh5 32.Rc1 f4 33.Qh4 Be8 34.Ba4 Rxd6 35.cxd6 Qxd6
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Chekhover Vitaly A (RUS)"]
@@ -295,7 +283,6 @@ Rb3+ 82.Kf2 Rb5 83.Ra7+ Kf8 84.e6 Re5 85.Rf7+ Kg8 86.Rf6 Nxe6 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1951.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kan Ilya A (RUS)"]
@@ -318,7 +305,6 @@ Kg7 36.a5 g5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -343,7 +329,6 @@ Rxd5 43.exd5 Nd6 44.h5 Ne4 45.g6 hxg6 46.hxg6 Nf6 47.d6+ Kd8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -368,7 +353,6 @@ Kg6 48.Kf2 h5 49.Kg3 h4+ 50.Kf2 Bf5 51.Kg2 Kf6 52.Kh2 Ke6 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kopylov Nikolay G (RUS)"]
@@ -391,7 +375,6 @@ Kg7 36.Ra7 Rxf4 37.Rxb7+ Kg8 38.Kg2 Rh4 39.Bf2 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kotov Alexander A (RUS)"]
@@ -419,7 +402,6 @@ Nc6 65.Ra8 Nd4+ 66.Kd3 Nxe2 67.Kxe2 Rh4 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Moisieev Oleg L (RUS)"]
@@ -442,7 +424,6 @@ Bf6 32.Qa6 Qb7 33.Qxb7 Bxb7 34.Bd7 Be7 35.Na5 Ba8 36.Bxb5 Nc3
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -466,7 +447,6 @@ Kd8 42.Rb6 Kc8 43.Kd6 Rf2 44.Kc6 Rc2 45.Rb7 Ne8 46.Ra7 Kb8 47.Re7 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -492,7 +472,6 @@ e4 54.a6 e3 55.a7 e2 56.Bxe2 g2 57.a8Q g1Q 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "URS"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kuzminykh Evgeny"]
@@ -515,7 +494,6 @@ Bf8 31.Qf5+ Kb8 32.Rd8+ Ka7 33.Rxf8 Qxg2 34.Re1 Be4 35.Qc8 Rh7
 
 [Event "Match (training)"]
 [Site "Moscow (Russia)"]
-[Date "1951.10.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail (ISR)"]
@@ -538,14 +516,12 @@ e5 36.c5+ Ke6 37.a5 e4 38.Nb4 d3 39.c6 d2 40.Rd1 e3 41.Kf1 1-0
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1951.12.02"]
 [Round "11"]
 [White "Vasily Smyslov"]
 [Black "Mark Taimanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "1951.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -564,14 +540,12 @@ e5 36.c5+ Ke6 37.a5 e4 38.Nb4 d3 39.c6 d2 40.Rd1 e3 41.Kf1 1-0
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1951.12.07"]
 [Round "14"]
 [White "Vasily Smyslov"]
 [Black "Paul Keres"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A12"]
-[EventDate "1951.??.??"]
 [PlyCount "112"]
 [WhiteElo "?"]
 
@@ -589,14 +563,12 @@ e5 36.c5+ Ke6 37.a5 e4 38.Nb4 d3 39.c6 d2 40.Rd1 e3 41.Kf1 1-0
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1951.12.10"]
 [Round "16"]
 [White "Vasily Smyslov"]
 [Black "Nikolai Georgiyevich Kopilov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "1951.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 

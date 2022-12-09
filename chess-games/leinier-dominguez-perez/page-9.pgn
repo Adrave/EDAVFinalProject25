@@ -1,6 +1,5 @@
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.01.18"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Ju Wenjun"]
@@ -9,7 +8,6 @@
 [WhiteElo "2739"]
 [BlackElo "2572"]
 [PlyCount "75"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -26,7 +24,6 @@ Bxg6 35. Qxg6+ Bg7 36. Bxe6+ Kf8 37. Nd7+ Rxd7 38. Bc5+ 1-0
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.02.03"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Pichot, A."]
@@ -35,7 +32,6 @@ Bxg6 35. Qxg6+ Bg7 36. Bxe6+ Kf8 37. Nd7+ Rxd7 38. Bc5+ 1-0
 [WhiteElo "2739"]
 [BlackElo "2552"]
 [PlyCount "81"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -53,7 +49,6 @@ Kc8 41. Rh7 1-0
 
 [Event "63rd ch-USA 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.03.21"]
 [Round "2.5"]
 [White "Dominguez Perez,L"]
 [Black "Shankland,S"]
@@ -62,7 +57,6 @@ Kc8 41. Rh7 1-0
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "B48"]
-[EventDate "2019.03.20"]
 [Opening "Sicilian"]
 [Variation "Taimanov variation"]
 [WhiteElo "2739"]
@@ -79,7 +73,6 @@ Kc8 41. Rh7 1-0
 
 [Event "63rd ch-USA 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.03.24"]
 [Round "5.2"]
 [White "Dominguez Perez,L"]
 [Black "Xiong,Jeffery"]
@@ -88,7 +81,6 @@ Kc8 41. Rh7 1-0
 [BlackFideId "2047640"]
 [BlackTitle "GM"]
 [ECO "B51"]
-[EventDate "2019.03.20"]
 [Opening "Sicilian"]
 [Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
 [WhiteElo "2739"]
@@ -111,7 +103,6 @@ Kc8 41. Rh7 1-0
 
 [Event "63rd ch-USA 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.03.31"]
 [Round "11.2"]
 [White "Dominguez Perez,L"]
 [Black "Gareev,T"]
@@ -120,7 +111,6 @@ Kc8 41. Rh7 1-0
 [BlackFideId "14200937"]
 [BlackTitle "GM"]
 [ECO "B56"]
-[EventDate "2019.03.20"]
 [Opening "Sicilian"]
 [WhiteElo "2739"]
 [WhiteFideId "3503240"]
@@ -144,7 +134,6 @@ Kc8 41. Rh7 1-0
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.17"]
 [Round "2.2"]
 [White "Dominguez Perez,L"]
 [Black "Cheparinov,I"]
@@ -158,7 +147,6 @@ Kc8 41. Rh7 1-0
 [Variation "advance, Steinitz variation"]
 [WhiteFideId "3503240"]
 [BlackFideId "2905540"]
-[EventDate "2019.05.17"]
 
 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 Bxc5 6. Bd3 Ne7 7. O-O Ng6 8. Nbd2
 Nc6 9. Nb3 Bb6 10. Re1 O-O 11. Be3 Bc7 12. Bc5 Ngxe5 13. Bxf8 Qxf8 14. Nxe5 Nxe5
@@ -178,7 +166,6 @@ Rxe5 Kf6 88. Rf5+ Ke6 89. Kxg4 Rxe4+ 90. Rf4 Rxf4+ 91. Kxf4 1/2-1/2
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.17"]
 [Round "6.2"]
 [White "Dominguez Perez,L"]
 [Black "Leko,P"]
@@ -191,7 +178,6 @@ Rxe5 Kf6 88. Rf5+ Ke6 89. Kxg4 Rxe4+ 90. Rf4 Rxf4+ 91. Kxf4 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "3503240"]
 [BlackFideId "703303"]
-[EventDate "2019.05.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Nbd2 d6 7. O-O a6 8. Bb3
 Re8 9. h3 Be6 10. Bc2 h6 11. Re1 d5 12. exd5 Bxd5 13. Nh2 b5 14. Ne4 Nxe4 15.
@@ -204,7 +190,6 @@ Ba2 Rb8 42. Bb3 Rd8 1/2-1/2
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.17"]
 [Round "7.3"]
 [White "Dominguez Perez,L"]
 [Black "Andreikin,D"]
@@ -217,7 +202,6 @@ Ba2 Rb8 42. Bb3 Rd8 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "3503240"]
 [BlackFideId "4158814"]
-[EventDate "2019.05.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 a5 7. O-O O-O 8. h3 h6
 9. Re1 Ba7 10. Nf1 Be6 11. Bb5 Ne7 12. Ng3 c6 13. Ba4 Ng6 14. Bc2 Qc8 15. d4 Re8
@@ -230,7 +214,6 @@ Nxc3 29. Bb3 Rd4 30. Qg3 Ncd5 31. Rac1 Qd6 32. Nf3 Rf4 33. Rcd1 Ne4 34. Qh2 Nec3
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.18"]
 [Round "16.5"]
 [White "Dominguez Perez,L"]
 [Black "Jones,G"]
@@ -243,7 +226,6 @@ Nxc3 29. Bb3 Rd4 30. Qg3 Ncd5 31. Rac1 Qd6 32. Nf3 Rf4 33. Rcd1 Ne4 34. Qh2 Nec3
 [Opening "Giuoco Piano"]
 [WhiteFideId "3503240"]
 [BlackFideId "409561"]
-[EventDate "2019.05.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 a6 7. Bb3 O-O 8. Nf1
 Be6 9. Bc2 Ba7 10. Ng3 h6 11. O-O Ne7 12. h3 Ng6 13. d4 Qc8 14. Re1 Rd8 15. Bd2
@@ -259,7 +241,6 @@ Bb4 61. Kf6 Kc7 62. Ke6 Kb6 63. Kd7 Ka5 64. Kc6 Ba3 1/2-1/2
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.18"]
 [Round "17.1"]
 [White "Dominguez Perez,L"]
 [Black "Bu Xiangzhi"]
@@ -273,7 +254,6 @@ Bb4 61. Kf6 Kc7 62. Ke6 Kb6 63. Kd7 Ka5 64. Kc6 Ba3 1/2-1/2
 [Variation "classical attack"]
 [WhiteFideId "3503240"]
 [BlackFideId "8601445"]
-[EventDate "2019.05.17"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
 Nbd2 Nd6 9. c3 Bf5 10. Be2 O-O 11. Re1 Re8 12. Qb3 Be6 13. Bd3 Bf6 14. Nf1 g6
@@ -290,7 +270,6 @@ Kg3 Rg1+ 1/2-1/2
 
 [Event "IMSA World Masters Rapid"]
 [Site "Hengshui CHN"]
-[Date "2019.05.14"]
 [Round "3.1"]
 [White "Dominguez Perez,L"]
 [Black "Fedoseev,Vl3"]
@@ -303,7 +282,6 @@ Kg3 Rg1+ 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "3503240"]
 [BlackFideId "24130737"]
-[EventDate "2019.05.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 a5 7. O-O O-O 8. h3
 Be6 9. Bb5 Ba7 10. Re1 Ne7 11. Nf1 c6 12. Ba4 h6 13. Ng3 b5 14. Bc2 c5 15. d4
@@ -321,7 +299,6 @@ Kf4 67. Rg6 Re2+ 68. Kf1 Re7 69. Kf2 Ra7 70. Kg2 Ra2+ 71. Kh3 Ra5 72. Rxg7 Rxh5+
 
 [Event "IMSA World Masters Rapid"]
 [Site "Hengshui CHN"]
-[Date "2019.05.15"]
 [Round "7.2"]
 [White "Dominguez Perez,L"]
 [Black "Vidit,S"]
@@ -334,7 +311,6 @@ Kf4 67. Rg6 Re2+ 68. Kf1 Re7 69. Kf2 Ra7 70. Kg2 Ra2+ 71. Kh3 Ra5 72. Rxg7 Rxh5+
 [Opening "Giuoco Piano"]
 [WhiteFideId "3503240"]
 [BlackFideId "5029465"]
-[EventDate "2019.05.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Nbd2 d5 7. exd5 Nxd5 8.
 Ne4 Be7 9. O-O Kh8 10. Re1 f6 11. Ng3 Na5 12. Bb5 c5 13. d4 cxd4 14. cxd4 Bb4
@@ -353,7 +329,6 @@ Kb7 73. Rf3 Ka6 74. Kc6 Rb6+ 75. Kc7 Rb7+ 76. Kc8 Rb4 77. Re3 Ka7 78. Kc7 Rb7+
 
 [Event "IMSA World Masters Rapid"]
 [Site "Hengshui CHN"]
-[Date "2019.05.16"]
 [Round "11.3"]
 [White "Dominguez Perez,L"]
 [Black "Rapport,R"]
@@ -367,7 +342,6 @@ Kb7 73. Rf3 Ka6 74. Kc6 Rb6+ 75. Kc7 Rb7+ 76. Kc8 Rb4 77. Re3 Ka7 78. Kc7 Rb7+
 [Variation "Improved Hanham variation"]
 [WhiteFideId "3503240"]
 [BlackFideId "738590"]
-[EventDate "2019.05.14"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. Re1
 h6 9. h3 Re8 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Qf3 Bb4 13. Rd1 Qe7 14. Ne2 Be6 15.
@@ -384,7 +358,6 @@ Nd3+ 68. Kg2 Ne1+ 1/2-1/2
 
 [Event "Netanya Masters 2019"]
 [Site "Netanya ISR"]
-[Date "2019.07.02"]
 [Round "9.5"]
 [White "Dominguez Perez,L"]
 [Black "Gelfand,B"]
@@ -398,7 +371,6 @@ Nd3+ 68. Kg2 Ne1+ 1/2-1/2
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteFideId "3503240"]
 [BlackFideId "2805677"]
-[EventDate "2019.06.23"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Nh6 7. c3 O-O 8. h3
 f5 9. e5 Nf7 10. d3 a5 11. Na3 Ba6 12. Bf4 e6 13. Qd2 h6 14. h4 1/2-1/2
@@ -406,7 +378,6 @@ f5 9. e5 Nf7 10. d3 a5 11. Na3 Ba6 12. Bf4 e6 13. Qd2 h6 14. h4 1/2-1/2
 
 [Event "47th GM 2019"]
 [Site "Dortmund GER"]
-[Date "2019.07.17"]
 [Round "4.3"]
 [White "Dominguez Perez,L"]
 [Black "Radjabov,T"]
@@ -420,7 +391,6 @@ f5 9. e5 Nf7 10. d3 a5 11. Na3 Ba6 12. Bf4 e6 13. Qd2 h6 14. h4 1/2-1/2
 [Variation "Berlin defence"]
 [WhiteFideId "3503240"]
 [BlackFideId "13400924"]
-[EventDate "2019.07.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. Re1 g6 7. d4 Bg7 8. d5 Ne7
 9. Bxd7+ Nxd7 10. Be3 h6 11. Nfd2 f5 12. f3 Nf6 13. c4 c6 14. Nc3 O-O 15. Qb3
@@ -433,7 +403,6 @@ Qc7+ Rf7 42. Qc8 1/2-1/2
 
 [Event "47th GM 2019"]
 [Site "Dortmund GER"]
-[Date "2019.07.20"]
 [Round "6.3"]
 [White "Dominguez Perez,L"]
 [Black "Kulaots,K"]
@@ -447,7 +416,6 @@ Qc7+ Rf7 42. Qc8 1/2-1/2
 [Variation "Najdorf"]
 [WhiteFideId "3503240"]
 [BlackFideId "4500261"]
-[EventDate "2019.07.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2
 Nbd7 9. g4 h6 10. a3 Bb7 11. O-O-O Rc8 12. Kb1 d5 13. exd5 Nxd5 14. Nxd5 Bxd5
@@ -460,7 +428,6 @@ Kf3 Rb3+ 41. Kg2 Rb2+ 42. Kg3 Rb3+ 43. Kg2 Rb2+ 44. Kg3 Rb3+ 1/2-1/2
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.10"]
 [Round "2.3"]
 [White "Dominguez Perez,L"]
 [Black "Ding Liren"]
@@ -473,7 +440,6 @@ Kf3 Rb3+ 41. Kg2 Rb2+ 42. Kg3 Rb3+ 43. Kg2 Rb2+ 44. Kg3 Rb3+ 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "3503240"]
 [BlackFideId "8603677"]
-[EventDate "2019.08.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 O-O 7. O-O a5 8. h3
 Be6 9. Bb5 Qb8 10. b3 Qa7 11. Bb2 Rad8 12. Bxc6 bxc6 13. d4 Bb6 14. Re1 Rfe8 15.
@@ -485,7 +451,6 @@ Qc2 a4 16. Rad1 h6 17. Nc4 Bxc4 18. bxc4 Nd7 19. c5 dxc5 20. dxe5 c4 21. Ba3 Qa8
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.11"]
 [Round "5.4"]
 [White "Dominguez Perez,L"]
 [Black "Caruana,F"]
@@ -499,7 +464,6 @@ Qc2 a4 16. Rad1 h6 17. Nc4 Bxc4 18. bxc4 Nd7 19. c5 dxc5 20. dxe5 c4 21. Ba3 Qa8
 [Variation "Moeller defence"]
 [WhiteFideId "3503240"]
 [BlackFideId "2020009"]
-[EventDate "2019.08.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bc2 d5 8. a4
 dxe4 9. axb5 exf3 10. Qxf3 e4 11. Bxe4 Ne5 12. Qe2 O-O 13. d4 Bg4 14. Qc2 Nxe4
@@ -514,7 +478,6 @@ Nc3+ Kxc5 54. Ne4+ Kd4 55. f3 Rg3 56. Ng5 Kd3 57. Bxf4 Rxf3 58. Nxf3 Ke4 1/2-1/2
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "3.4"]
 [White "Dominguez Perez,L"]
 [Black "Caruana,F"]
@@ -528,7 +491,6 @@ Nc3+ Kxc5 54. Ne4+ Kd4 55. f3 Rg3 56. Ng5 Kd3 57. Bxf4 Rxf3 58. Nxf3 Ke4 1/2-1/2
 [Variation "closed, anti-Marshall 8.a4"]
 [WhiteFideId "3503240"]
 [BlackFideId "2020009"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. d4 d6 10. dxe5 dxe5 11. Nbd2 Bc5 12. Qe2 h6 13. h3 Qe7 14. Nc4 Be6 15. Be3
@@ -541,7 +503,6 @@ Rxa5 41. d5 Rxd5 1/2-1/2
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "5.2"]
 [White "Dominguez Perez,L"]
 [Black "Rapport,R"]
@@ -555,7 +516,6 @@ Rxa5 41. d5 Rxd5 1/2-1/2
 [Variation "Fort Knox variation"]
 [WhiteFideId "3503240"]
 [BlackFideId "738590"]
-[EventDate "2019.08.13"]
 
 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. Neg5 Ngf6 8.
 O-O Bd6 9. Qe2 h6 10. Ne4 Nxe4 11. Bxe4 Bxe4 12. Qxe4 c6 13. Rd1 O-O 14. c4 Re8
@@ -566,7 +526,6 @@ hxg4 28. hxg4 Qd7 29. g5 Bc3 30. Kg3 Bb2 31. Kg2 Bc3 32. Kg3 Bb2 33. Kg2 1/2-1/2
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "11.5"]
 [White "Dominguez Perez,L"]
 [Black "Ding Liren"]
@@ -580,7 +539,6 @@ hxg4 28. hxg4 Qd7 29. g5 Bc3 30. Kg3 Bb2 31. Kg2 Bc3 32. Kg3 Bb2 33. Kg2 1/2-1/2
 [Variation "closed, anti-Marshall 8.a4"]
 [WhiteFideId "3503240"]
 [BlackFideId "8603677"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. d4 d6 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Qe2 a5 13. Nd2 Bc5 14. h3 Bb7 15.
@@ -591,7 +549,6 @@ Bc4 Qe7 16. Bd3 Rfd8 17. Nf3 h6 18. Nh4 Bc8 19. Qf3 Rb8 20. Bc4 Rb6 21. b3 Rbd6
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.16"]
 [Round "3.1"]
 [White "Dominguez Perez,L"]
 [Black "Wang Hao"]
@@ -605,7 +562,6 @@ Bc4 Qe7 16. Bd3 Rfd8 17. Nf3 h6 18. Nh4 Bc8 19. Qf3 Rb8 20. Bc4 Rb6 21. b3 Rbd6
 [Variation "Berlin defence"]
 [WhiteFideId "3503240"]
 [BlackFideId "8602883"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Qe7 7. Nbd2 Bg4 8.
 h3 Bh5 9. a3 a5 10. Nc4 Nd7 11. g4 Bg6 12. b4 Bb6 13. Nxb6 cxb6 14. Be3 O-O 15.
@@ -616,7 +572,6 @@ Rg6 Nf8 29. Rg2 Nh7 30. Rg6 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.14"]
 [Round "2.2"]
 [White "Dominguez Perez,L"]
 [Black "Abasov,N"]
@@ -630,7 +585,6 @@ Rg6 Nf8 29. Rg2 Nh7 30. Rg6 1/2-1/2
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteFideId "3503240"]
 [BlackFideId "13402960"]
-[EventDate "2019.09.10"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3 Nd7 8. Be3
 e5 9. Qd2 h6 10. O-O b6 11. Nh2 Nf6 12. a3 Be6 13. b4 Nd5 14. exd5 cxd5 15. Qe1
@@ -641,7 +595,6 @@ Qf2 Qc6 23. a4 Bd5 24. Nd2 Rac8 25. Rfe1 g5 26. Ra3 Qe6 27. Raa1 Qc6 28. a5 h5
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.22"]
 [Round "4.3"]
 [White "Dominguez Perez,L"]
 [Black "Grischuk,A"]
@@ -654,7 +607,6 @@ Qf2 Qc6 23. a4 Bd5 24. Nd2 Rac8 25. Rfe1 g5 26. Ra3 Qe6 27. Raa1 Qc6 28. a5 h5
 [Opening "Giuoco Piano"]
 [WhiteFideId "3503240"]
 [BlackFideId "4126025"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
 Bb6 9. Nc3 O-O 10. Be3 Bg4 11. h3 Bh5 12. Qc2 Nxc3 13. bxc3 f6 14. exf6 Qxf6 15.
@@ -666,7 +618,6 @@ Bf4 Bd6 29. Bc1 Ba3 30. Bf4 Bd6 31. Bd2 Re4 32. Bd1 b5 33. Kg2 a5 34. Bf3 Re6
 
 [Event "World Blitz 2019"]
 [Site "Moscow RUS"]
-[Date "2019.12.29"]
 [Round "10.44"]
 [White "Dominguez Perez,L"]
 [Black "Khanin,S"]
@@ -675,7 +626,6 @@ Bf4 Bd6 29. Bc1 Ba3 30. Bf4 Bd6 31. Bd2 Re4 32. Bd1 b5 33. Kg2 a5 34. Bf3 Re6
 [BlackFideId "4111990"]
 [BlackTitle "IM"]
 [ECO "C53"]
-[EventDate "2019.12.29"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2758"]
 [WhiteFideId "3503240"]

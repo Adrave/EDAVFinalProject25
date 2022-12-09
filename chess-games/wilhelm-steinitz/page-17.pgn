@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Vienna (Austria)"]
-[Date "1859.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lenhof"]
@@ -22,7 +21,6 @@ Ne5 20.Nxe5 dxe5 21.Kh2 c6 22.Nc3 Bb8 23.Bb3 Bb7 24.Rad1 Qc7
 
 [Event ""]
 [Site "Vienna (Austria)"]
-[Date "1860.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Meitner Philipp (GER)"]
@@ -43,7 +41,6 @@ Qd6 19.f4 Nxg4 20.Ng5+ Kg6 21.Qd3+ Kh5 22.Qh3+ Kg6 23.Qxg4 Qb6
 
 [Event ""]
 [Site "Vienna (Austria)"]
-[Date "1860.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Reiner"]
@@ -63,7 +60,6 @@ Nf7 14.fxe5 fxe5 15.Rxf7 Kxf7 16.Qh5+ Kf8 17.d6 Qd7 18.Nc3 g6
 
 [Event ""]
 [Site "Vienna (Austria)"]
-[Date "1860.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Straus"]
@@ -85,7 +81,6 @@ Kh4 29.Qh3# 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Green Valentine"]
@@ -106,7 +101,6 @@ Bg4 19.Qe3 Bg3 20.Be2 Qh2+ 21.Kf1 Qh1+ 22.Qg1 Qxg1+ 23.Kxg1 Bxe1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Owen John (ENG)"]
@@ -129,7 +123,6 @@ h5 37.Kf4 Rd1 38.Qb2 Rd3 39.Ke5 Kg7 40.Qc1 1/2-1/2
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Dubois Serafino (ITA)"]
@@ -154,7 +147,6 @@ Rd7 47.c5 Rd4+ 48.Kc3 bxc5 49.g7 Bd5 50.g8Q Bxg8 51.Rxg8 1/2-1/2
 
 [Event ""]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anderssen Adolf (GER)"]
@@ -178,7 +170,6 @@ Bb6 0-1
 
 [Event ""]
 [Site "London (England)"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anderssen Adolf (GER)"]
@@ -200,14 +191,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Steinitz - Lasker World Championship Match"]
 [Site "Montreal CAN"]
-[Date "1894.03.24"]
 [Round "4"]
 [White "Wilhelm Steinitz"]
 [Black "Emanuel Lasker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "119"]
 [WhiteElo "?"]
 
@@ -226,14 +215,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Simul"]
 [Site "Montreal CAN"]
-[Date "1893.11.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Frank James Marshall"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C03"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -247,14 +234,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "London m"]
 [Site "London ENG"]
-[Date "1866.09.??"]
 [Round "9"]
 [White "Wilhelm Steinitz"]
 [Black "Henry Edward Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "????.??.??"]
 [PlyCount "23"]
 [WhiteElo "?"]
 
@@ -265,14 +250,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Henry Edward Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -286,14 +269,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "London"]
 [Site "17"]
-[Date "1866.09.??"]
 [Round "17"]
 [White "Wilhelm Steinitz"]
 [Black "Henry Edward Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C00"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -305,14 +286,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "London"]
 [Site "London"]
-[Date "1870.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Henry Edward Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -326,14 +305,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Steinitz - Gunsberg World Championship Match"]
 [Site "New York, NY USA"]
-[Date "1891.01.07"]
 [Round "13"]
 [White "Wilhelm Steinitz"]
 [Black "Isidor Gunsberg"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -349,14 +326,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Steinitz - Zukertort World Championship Match"]
 [Site "New Orleans, LA USA"]
-[Date "1886.03.29"]
 [Round "20"]
 [White "Wilhelm Steinitz"]
 [Black "Johannes Zukertort"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -368,14 +343,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Prize game"]
 [Site "London ENG"]
-[Date "1869.05.01"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Joseph Henry Blackburne"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -388,14 +361,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Vienna"]
 [Site "Vienna AUH"]
-[Date "1873.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Louis Paulsen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C00"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -411,14 +382,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1873.11.05"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Arthur J Maas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -432,14 +401,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Bristol"]
 [Site "Bristol"]
-[Date "1874.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Vines"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -455,14 +422,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Manchester"]
 [Site "Manchester ENG"]
-[Date "1874.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Alexander Steinkuehler"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -478,14 +443,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1874.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Camille Moriau"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -500,14 +463,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "Vienna"]
 [Site "Vienna"]
-[Date "1860.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Lang"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C37"]
-[EventDate "1860.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -519,14 +480,12 @@ Kh8 31.Bxd5 Bxd5 0-1
 
 [Event "ch Vienna Chess Club"]
 [Site "Vienna CH"]
-[Date "1861.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "1861.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

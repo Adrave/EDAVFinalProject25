@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Ciocco (Italy)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -23,7 +22,6 @@ Qe8 36.Rxg6 Qe5 37.Qxh5# 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Alburt Lev O (USA)"]
@@ -46,7 +44,6 @@ Rc7 31.Rb7 Rxc6 32.dxc6 Bxc6 33.a7 Bxe4 34.Rb8 Qd7 35.Rxa8 Bxa8
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -71,7 +68,6 @@ Ke4 41.Rf6 Raa8 42.e6 Ke5 43.Rfxf7 Rg8 44.Rb7 Kxe6 45.Rbe7+ Kd6
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Grigorian Karen (RUS)"]
@@ -94,7 +90,6 @@ Rc1+ 36.Nf1 1-0
 
 [Event "It (open)"]
 [Site "Brilon (Germany)"]
-[Date "1978.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fijalkowski Marek (POL)"]
@@ -114,7 +109,6 @@ Rxc3 19.fxg6 hxg6 20.h4 Qd4 21.Qf3 Qxd3+ 0-1
 
 [Event "It (open)"]
 [Site "Brilon (Germany)"]
-[Date "1978.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Jedraszczyk H"]
@@ -138,7 +132,6 @@ Qe7 31.Ne4 Bxe4 32.Bxe4 Rad8 33.Rd6 Qc7 34.Qd4 Rb8 35.Rc6 Qa7
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -160,7 +153,6 @@ Nxc5 31.Bc2 Rc8 32.Kf3 Rb6 33.Rb1 Rh8 34.Kg2 Rd6 35.Rc1 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Stean Michael F (ENG)"]
@@ -184,7 +176,6 @@ Ng6 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1978.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -205,7 +196,6 @@ bxc5 25.dxc5 a5 26.h4 Rb8 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1978.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kagan Shimon (ISR)"]
@@ -231,7 +221,6 @@ Nxd6 55.Raxc5 Ne4 56.Rc6 Rf7 57.h5 g5 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1978.??.??"]
 [Round "15"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -250,7 +239,6 @@ e6 8.Bd3 Bxd3 9.Qxd3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.Rac1 Rac8
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1978.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -271,7 +259,6 @@ Na4 26.Ne2 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1978.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sveshnikov Evgeny (LAT)"]
@@ -293,7 +280,6 @@ Ne8 31.Nf3 f6 32.Nd2 Kf7 33.Nb1 Ke7 34.Nc3 Kd6 35.Kd2 Ng7 36.Nd1 1/2-1/2
 
 [Event "It (open)"]
 [Site "Lone Pine (USA)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -312,7 +298,6 @@ Bxf1 14.Kxf1 Rc8 15.Rd1 Re8 16.h4 Re5 17.Qd2 1/2-1/2
 
 [Event "It (open)"]
 [Site "Lone Pine (USA)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Peters John A (USA)"]
@@ -332,7 +317,6 @@ Bxf1 14.Kxf1 Rc8 15.Rd1 Re8 16.h4 Re5 17.Qd2 1/2-1/2
 
 [Event "It (open)"]
 [Site "Lone Pine (USA)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -356,7 +340,6 @@ Nxe4 37.Bxe4 dxe4 38.Nc7 e3 39.Bxe3 Bc3 40.Rc1 Bxb4 41.Qa4 Qb7
 
 [Event "Cup URS (team)"]
 [Site "Ordzhonikidze (Russia)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -375,7 +358,6 @@ Nd7 13.O-O exf4 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Chiburdanidze Maia (GEO)"]
@@ -397,7 +379,6 @@ Nxf1 25.Qxf1 Bxe4 26.Nxe4 Qe7 27.Ng5 Kh8 28.Qh3 e5 29.Ne6 Re8
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Csom Istvan (HUN)"]
@@ -416,7 +397,6 @@ Bf8 14.Qc2 h6 15.b4 Bc6 16.b5 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Dorfman Josif D (FRA)"]
@@ -436,7 +416,6 @@ Rad8 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Dvoretzky Mark (RUS)"]
@@ -459,7 +438,6 @@ Kf8 37.Rxb7 Rxb2 38.Rc7 Nxa3 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Espig Lutz (GER)"]
@@ -482,7 +460,6 @@ gxf5 37.exf5 Bb7 38.f6 Qe3+ 39.Qxe3 Rxe3 40.Rd7 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gulko Boris F (USA)"]
@@ -505,7 +482,6 @@ Nc6 36.Bc7 Rc8 37.Bb6 Rb8 38.Be3 Nd8 39.Rxd5 Nxe6 40.Rxh5 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kaiszauri Konstanty (SWE)"]
@@ -527,7 +503,6 @@ Bxh4 26.Qd2 Rg8+ 27.Kh1 Rg6 28.Ne5 Rg5 29.Qf4 Be8 30.Rg1 Rxg1+
 
 [Event "It \"Central Chess Club\""]
 [Site "Vilnius (Lithuania)"]
-[Date "1978.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Mikenas Alius (LTU)"]

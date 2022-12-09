@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Cazorla (Spain)"]
-[Date "1998.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -25,7 +24,6 @@ Ke5 48.b5 0-1
 
 [Event "It (cat.22) (match 1-2 place) (blitz)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -48,7 +46,6 @@ a5 31.Ba3 Kf7 32.Rb2 Ra1 33.Rb3 Bd1 34.Bb2 Bxb3 35.Bxa1 Bxa4
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -75,7 +72,6 @@ Kh5 0-1
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -99,7 +95,6 @@ a2 0-1
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "12"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -122,7 +117,6 @@ Qxe4 31.Qxe4 Bxe4 32.Nd6 Bd5 33.a3 bxa3 34.bxa3 c4 35.Rc2 f6
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "17"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -147,7 +141,6 @@ hxg4+ 47.hxg4+ Kg5 48.Kg3 g6 49.Na1 Kf6 50.Kf4 Kf7 51.Ke5 1-0
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "19"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -170,7 +163,6 @@ Rd5 36.Ke2 Bd4 37.Kf3 g5 38.f5 exf5 39.e6 1-0
 
 [Event "It (cat.18)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -191,7 +183,6 @@ exd4 14.exd4 Nb6 15.Qd3 g6 16.Rfe1 Qb4 17.Qd2 Nc4 18.Qxh6 Nxb2
 
 [Event "It (cat.18)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -215,7 +206,6 @@ Re3 31.Rd1 h5 32.Qa5 Re2+ 33.Ka3 Qf2 34.Qd8+ Be8 35.Rd2 Rxd2
 
 [Event "It (cat.18)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1998.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Zvjaginsev Vadim (RUS)"]
@@ -238,7 +228,6 @@ Rb6 37.Re8+ Qxe8 38.Qxb6 Qe1+ 39.Kg2 Qe4+ 40.Kh2 Kg7 41.Qc7 1-0
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Campora Daniel H (ARG)"]
@@ -263,7 +252,6 @@ Kd6 30.Rxf6+ Kxd5 31.Nb4+ Ke5 32.Rxf7 Rc3+ 33.Ka2 h5 34.Rb7 Rf3
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "1998.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Cifuentes Parada Roberto (ESP)"]
@@ -286,7 +274,6 @@ Nxh3+ 30.Kg2 Nf4+ 31.Kf3 Nh3 32.Kg3 Rd3+ 33.f3 Ng1 34.Bxg5 Ne2+
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gomez Gijon Pedro (ESP)"]
@@ -308,7 +295,6 @@ Ke7 30.g4 Ke6 31.Rxc6+ 1-0
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "San Segundo Carrillo Pablo (ESP)"]
@@ -331,7 +317,6 @@ Kd6 30.Bf5 Rc7 31.Rxc7 Kxc7 32.f4 Rg8 33.Kf3 Kd6 34.fxg5 Rxg5
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Vasquez Rodrigo (CHI)"]
@@ -352,7 +337,6 @@ Nc5 15.b4 Ncd7 16.fxg6 fxg6 17.O-O g5 18.hxg5 hxg5 19.Bd2 Rc8
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Nijboer Friso (NED)"]
@@ -376,7 +360,6 @@ Qxd4+ 37.Qe3 Qf6 38.Qe5 Qxe5 39.Rxe5 Rfd8 40.b6 Kg7 41.Be4 Rd2
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Salov Valery (RUS)"]
@@ -395,7 +378,6 @@ Bg4 8.O-O Nf6 9.d5 Bxf3 10.gxf3 Bxc3 11.dxc6 Ba5 12.cxb7 Rb8
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -421,7 +403,6 @@ Nd5 47.Nf5 Kc3 48.Rxa6 Re2 49.Nxg7 Ne3 50.Nxh5 Rxg2+ 51.Kh3 Rg1
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -441,7 +422,6 @@ Nf5 14.Nxf5 gxf5 15.Nc3 Qe6 16.Nd5 Rac8 17.Qd2 Qf7 18.Rae1 b6
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -464,7 +444,6 @@ f5 37.a5 Bf6 38.Bb6 f4 39.gxf4 gxf4 40.Rd1 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Nijboer Friso (NED)"]
@@ -485,7 +464,6 @@ exf4 26.Bf3 Qe7 27.Re1 Be5 28.Qg6+ Qg7 29.e7 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -510,7 +488,6 @@ Rb1 43.Qa3 Kh7 44.a5 Ree1 45.Qf8 Rh1+ 46.Kg3 Rb5 47.Rd8 Rg5+
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "12"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Van Der Sterren Paul (NED)"]
@@ -532,7 +509,6 @@ Qd8 31.Nc4 Rc5 32.Nxe5 1-0
 
 [Event "6/98-07 WDR <H"]
 [Site "Koeln 6/98-07 WDR <H"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kramnik, Vladimir"]
 [Black "Adams, Michael"]
@@ -554,7 +530,6 @@ Ne5 50. Rd5 f4+ 51. Kf2 Kf5 52. Rd8 Ra4 53. Ke1 Rxa6 54. Kd2 1-0
 
 [Event "WDR g/60"]
 [Site "Cologne GER"]
-[Date "1998.08.17"]
 [Round "1"]
 [White "Kramnik, Vladimir"]
 [Black "Adams, Michael"]
@@ -562,7 +537,6 @@ Ne5 50. Rd5 f4+ 51. Kf2 Kf5 52. Rd8 Ra4 53. Ke1 Rxa6 54. Kd2 1-0
 [WhiteElo "2780"]
 [BlackElo "2715"]
 [ECO "E32"]
-[EventDate "1998.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. 
 cxd5 exd5 9. Ne2 cxd4 10. Nxd4 Nd7 11. f4 Qh4+ 12. g3 Qh3 13. Bf1 Qh5 14. 

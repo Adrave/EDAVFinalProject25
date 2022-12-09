@@ -1,6 +1,5 @@
 [Event "Ch France (team) 2006"]
 [Site "France"]
-[Date "2006.02.03"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Flear Glenn C (ENG)"]
@@ -25,7 +24,6 @@ Ke3 49.h5 gxh5+ 50.Kxh5 Kf2 51.Kxh6 1-0
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.21"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -45,7 +43,6 @@ Bxe5 20.exd5 Bxd5 21.Bxd5+ 1-0
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.23"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -68,7 +65,6 @@ Be8 37.Nxg7 Bb5 38.Rf2 a5 39.Rf8 c4 40.e8Q 1-0
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.25"]
 [Round "7"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -89,7 +85,6 @@ Qe6 25.Bh4 Nxe5 26.Kh1 b5 27.Bxd8 bxa4 28.Rxb8 1-0
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.26"]
 [Round "8"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Aronian Levon (GER)"]
@@ -116,7 +111,6 @@ Nh8 59.g6 Kf6 60.Kd4 Kg7 61.Kxd5 1-0
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.28"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -138,7 +132,6 @@ Qe7 31.a4 c5 32.bxc5 dxc5 33.Qb2 Ra7 34.Qe5 c4 35.Nd5 Bxd5 1-0
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.29"]
 [Round "10"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -167,7 +160,6 @@ Kf5 71.Kg3 Kg6 72.Bb4 Nh6 73.Kf2 Nf7 74.Be7 Kf5 75.Ke3 e5 76.Rf1+ 1-0
 
 [Event "It (open) (active)"]
 [Site "Canada de Calatrava (Spain)"]
-[Date "2006.04.16"]
 [Round "8"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Grigoriants Sergey (RUS)"]
@@ -195,7 +187,6 @@ Ree3 65.Qgf7+ 1-0
 
 [Event "Ch Russia (club)"]
 [Site "Sochi (Russia)"]
-[Date "2006.04.26"]
 [Round "7"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Sutovsky Emil (ISR)"]
@@ -218,7 +209,6 @@ Rc6 31.Bb3 Rg6 32.Qf4 Kh8 33.Bxf7 Re7 34.Rf2 Rd6 35.Kh2 Rdd7
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.10.30"]
 [Round "3"]
 [White "Grischuk, A."]
 [Black "Hracek, Z."]
@@ -227,7 +217,6 @@ Rc6 31.Bb3 Rg6 32.Qf4 Kh8 33.Bxf7 Re7 34.Rf2 Rd6 35.Kh2 Rdd7
 [WhiteElo "2715"]
 [BlackElo "2598"]
 [PlyCount "57"]
-[EventDate "2007.10.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. d3 d6 10. Nbd2 Be6 11. Nc4 a5 12. c3 bxc3 13. bxc3 Nd7 14. Ba3 Bf6 15.
@@ -238,7 +227,6 @@ Rxb7 28. Bd2 Ne6 29. Bxa5 1/2-1/2
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.05"]
 [Round "8"]
 [White "Grischuk, A."]
 [Black "Vallejo Pons, F."]
@@ -247,7 +235,6 @@ Rxb7 28. Bd2 Ne6 29. Bxa5 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2660"]
 [PlyCount "40"]
-[EventDate "2007.10.28"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
 b6 9. O-O Bb7 10. Bb2 Rc8 11. Rad1 Qe7 12. Rfe1 c5 13. cxd5 exd5 14. Qf5 Qe6
@@ -257,7 +244,6 @@ b6 9. O-O Bb7 10. Bb2 Rc8 11. Rad1 Qe7 12. Rfe1 c5 13. cxd5 exd5 14. Qf5 Qe6
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "1"]
 [White "Grischuk, A."]
 [Black "Morozevich, A."]
@@ -266,7 +252,6 @@ b6 9. O-O Bb7 10. Bb2 Rc8 11. Rad1 Qe7 12. Rfe1 c5 13. cxd5 exd5 14. Qf5 Qe6
 [WhiteElo "2715"]
 [BlackElo "2755"]
 [PlyCount "39"]
-[EventDate "2007.11.21"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nd5 8.
 f3 e5 9. e4 Nxc3 10. bxc3 Be6 11. Ne3 Qh4+ 12. g3 Qf6 13. d5 cxd5 14. exd5 Bf5
@@ -275,7 +260,6 @@ f3 e5 9. e4 Nxc3 10. bxc3 Be6 11. Ne3 Qh4+ 12. g3 Qf6 13. d5 cxd5 14. exd5 Bf5
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "3"]
 [White "Grischuk, A."]
 [Black "Leko, P."]
@@ -284,7 +268,6 @@ f3 e5 9. e4 Nxc3 10. bxc3 Be6 11. Ne3 Qh4+ 12. g3 Qf6 13. d5 cxd5 14. exd5 Bf5
 [WhiteElo "2715"]
 [BlackElo "2755"]
 [PlyCount "53"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
@@ -295,7 +278,6 @@ Nxc4 27. Bxc4 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "5"]
 [White "Grischuk, A."]
 [Black "Adams, Mi"]
@@ -304,7 +286,6 @@ Nxc4 27. Bxc4 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2729"]
 [PlyCount "59"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2 Bb7 7. e3 a5 8.
 b3 d6 9. Be2 Nbd7 10. O-O O-O 11. Bb2 Qe7 12. Rfd1 Rfd8 13. Rac1 h6 14. Qc2 Be4
@@ -315,7 +296,6 @@ Rxd1+ 28. Bxd1 e5 29. Ba4 Be8 30. Bxc6 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "14"]
 [White "Grischuk, A."]
 [Black "Karpov, Ana"]
@@ -324,7 +304,6 @@ Rxd1+ 28. Bxd1 e5 29. Ba4 Be8 30. Bxc6 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2670"]
 [PlyCount "92"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2
 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c5 12. bxc5 bxc5 13. Rb1 Bc6 14. O-O Nd7
@@ -338,7 +317,6 @@ Rb6+ Kf7 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "21"]
 [White "Grischuk, A."]
 [Black "Shirov, A."]
@@ -347,7 +325,6 @@ Rb6+ Kf7 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2739"]
 [PlyCount "112"]
-[EventDate "2007.11.21"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 O-O 7. O-O c5 8.
 Qa4 Nb6 9. Qh4 e5 10. Qxd8 Rxd8 11. d3 c4 12. dxc4 Nxc4 13. Ng5 h6 14. Bd5 Nd6
@@ -362,7 +339,6 @@ Kxh5 Ke5 54. Kg6 Kd6 55. Kf7 Kc6 56. Re7 Kb6 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "23"]
 [White "Grischuk, A."]
 [Black "Dreev, A."]
@@ -371,7 +347,6 @@ Kxh5 Ke5 54. Kg6 Kd6 55. Kf7 Kc6 56. Re7 Kb6 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2607"]
 [PlyCount "72"]
-[EventDate "2007.11.21"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8. Nxe4
 Nxe4 9. Bxe4 c5 10. O-O O-O 11. Bc2 Qc7 12. Qd3 g6 13. Bh6 Rd8 14. Rad1 b6 15.
@@ -383,7 +358,6 @@ Re8 Kf7 35. Rh8 Kg7 36. Re8 Kf7 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "28"]
 [White "Grischuk, A."]
 [Black "Kamsky, G."]
@@ -392,7 +366,6 @@ Re8 Kf7 35. Rh8 Kg7 36. Re8 Kf7 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2714"]
 [PlyCount "113"]
-[EventDate "2007.11.21"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nf3 Nc6 8. O-O
 Nge7 9. Re1 Ng6 10. e5 Bb7 11. Qe2 Be7 12. Be4 Rc8 13. a3 Na5 14. Be3 Qc7 15.
@@ -407,7 +380,6 @@ Kh2 53. Rg8 Rg2 54. Rh8 Rg4 55. Rh7 Rf4+ 56. Ke2 Kg3 57. Rg7+ 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "34"]
 [White "Grischuk, A."]
 [Black "Mamedyarov, S."]
@@ -416,7 +388,6 @@ Kh2 53. Rg8 Rg2 54. Rh8 Rg4 55. Rh7 Rf4+ 56. Ke2 Kg3 57. Rg7+ 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2752"]
 [PlyCount "112"]
-[EventDate "2007.11.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c4 g6 7. d4 exd4 8. Nxd4
 Bg7 9. Nxc6 Bxc6 10. Nc3 Nf6 11. Be3 O-O 12. Bxc6 bxc6 13. c5 Re8 14. cxd6 cxd6
@@ -431,7 +402,6 @@ Rb1 47. Re8 g4 48. hxg4 fxg4 49. Rh8 Kg5 50. Rg8+ Kf5 51. Rf8+ Kg6 52. Rg8+ Kf5
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "38"]
 [White "Grischuk, A."]
 [Black "Carlsen, M."]
@@ -440,7 +410,6 @@ Rb1 47. Re8 g4 48. hxg4 fxg4 49. Rh8 Kg5 50. Rg8+ Kf5 51. Rf8+ Kg6 52. Rg8+ Kf5
 [WhiteElo "2715"]
 [BlackElo "2714"]
 [PlyCount "119"]
-[EventDate "2007.11.21"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Bf5 7. O-O Nd7 8.
 Ng4 e6 9. c4 N5f6 10. Ne3 Bg6 11. Nc3 Bd6 12. b3 Qc7 13. h3 O-O 14. Bb2 Rad8
@@ -456,7 +425,6 @@ Kf5 60. Ra7 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.11.30"]
 [Round "3.1"]
 [White "Grischuk, A."]
 [Black "Bareev, E."]
@@ -465,7 +433,6 @@ Kf5 60. Ra7 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2653"]
 [PlyCount "63"]
-[EventDate "2007.11.24"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Bd6 13. Ne4 Nxe4 14. Qxe4
@@ -477,7 +444,6 @@ Qe7 15. Kb1 O-O-O 16. c4 Bc7 17. Bc3 Kb8 18. Qe2 Rhe8 19. Rhe1 Qf8 20. a3 Qg8
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.12.02"]
 [Round "3.3"]
 [White "Grischuk, A."]
 [Black "Bareev, E."]
@@ -486,7 +452,6 @@ Qe7 15. Kb1 O-O-O 16. c4 Bc7 17. Bc3 Kb8 18. Qe2 Rhe8 19. Rhe1 Qf8 20. a3 Qg8
 [WhiteElo "2715"]
 [BlackElo "2653"]
 [PlyCount "155"]
-[EventDate "2007.11.24"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
 Bc5 9. Qd2 Bxd4 10. Bxd4 Nxd4 11. Qxd4 Qb6 12. Nb5 Qxd4 13. Nxd4 Ke7 14. h4 h5
@@ -504,7 +469,6 @@ Kd2 Bg6 68. Ke3 Bh7 69. Kf3 Bg6 70. Kg4 Bd3 71. Kg5 Ke7 72. Nb3 Bc2 73. Nd4 Bd3
 
 [Event "60th ch-RUS Superfinal"]
 [Site "Moscow RUS"]
-[Date "2007.12.22"]
 [Round "4"]
 [White "Grischuk, A."]
 [Black "Jakovenko, D."]
@@ -513,7 +477,6 @@ Kd2 Bg6 68. Ke3 Bh7 69. Kf3 Bg6 70. Kg4 Bd3 71. Kg5 Ke7 72. Nb3 Bc2 73. Nd4 Bd3
 [WhiteElo "2715"]
 [BlackElo "2710"]
 [PlyCount "75"]
-[EventDate "2007.12.18"]
 
 1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. b3 d6 8. Bb2
 O-O 9. e3 Nbd7 10. d4 Ne4 11. d5 Nxc3 12. Bxc3 exd5 13. cxd5 Bf6 14. Bxf6 Qxf6
@@ -525,7 +488,6 @@ Ke7 34. Rc7+ Rd7 35. Rc8 Rd8 36. Rc7+ Rd7 37. Rc6 Rd8 38. Rc7+ 1/2-1/2
 
 [Event "60th ch-RUS Superfinal"]
 [Site "Moscow RUS"]
-[Date "2007.12.27"]
 [Round "8"]
 [White "Grischuk, A."]
 [Black "Sakaev, K."]
@@ -534,7 +496,6 @@ Ke7 34. Rc7+ Rd7 35. Rc8 Rd8 36. Rc7+ Rd7 37. Rc6 Rd8 38. Rc7+ 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2634"]
 [PlyCount "98"]
-[EventDate "2007.12.18"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. Qe2 Bf5 8.
 Nbd2 Qe7 9. O-O Nd6 10. Qd1 Bxd3 11. cxd3 Qd7 12. Ne5 Nxe5 13. dxe5 Nf5 14. Nf3
@@ -548,7 +509,6 @@ dxc5 Bxc5+ 29. Bxc5 Qxc5+ 30. Kh1 Ne7 31. exf7+ Kxf7 32. Ne3 Red8 33. Nf5 Nxf5
 
 [Event "60th ch-RUS Superfinal"]
 [Site "Moscow RUS"]
-[Date "2007.12.30"]
 [Round "11"]
 [White "Grischuk, A."]
 [Black "Svidler, P."]
@@ -557,7 +517,6 @@ dxc5 Bxc5+ 29. Bxc5 Qxc5+ 30. Kh1 Ne7 31. exf7+ Kxf7 32. Ne3 Red8 33. Nf5 Nxf5
 [WhiteElo "2715"]
 [BlackElo "2732"]
 [PlyCount "77"]
-[EventDate "2007.12.18"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. Qa4+ Bd7 5. Qb3 dxc4 6. Qxc4 a6 7. d4 b5 8.
 Qb3 c5 9. dxc5 Bg7 10. e4 Bc6 11. e5 Nfd7 12. Be3 Nxe5 13. Nxe5 Bxe5 14. f4 Bg7

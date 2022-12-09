@@ -1,13 +1,11 @@
 [Event "URS-chT Juniors"]
 [Site "Leningrad URS"]
-[Date "1954.08.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Boris Spassky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A60"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "David Bronstein"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "LAT-ch"]
 [Site "Riga (Latvia)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Janis Yanovich Klovans"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "7"]
 
@@ -65,14 +59,12 @@
 
 [Event "Match"]
 [Site "Riga (Latvia)"]
-[Date "1954.??.??"]
 [Round "11"]
 [White "Mikhail Tal"]
 [Black "Vladimir Sergeevich Saigin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A17"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -89,14 +81,12 @@
 
 [Event "URS Cup qf"]
 [Site "Dneproptrovsk"]
-[Date "1970.08.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Vladimir Savon"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -115,14 +105,12 @@
 
 [Event "6th Soviet Team Cup"]
 [Site "Riga LAT"]
-[Date "1968.12.11"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Igor Arkadievich Zaitsev"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "146"]
 [WhiteElo "?"]
 
@@ -143,14 +131,12 @@
 
 [Event "Karseladze Memorial"]
 [Site "Gori GEO"]
-[Date "1968.11.13"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Aleksander Bokuchava"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B89"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -167,14 +153,12 @@
 
 [Event "Simul, 24b"]
 [Site "London ENG"]
-[Date "1964.01.09"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Godelind Becker"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D20"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -188,14 +172,12 @@
 
 [Event "Simul, 20b"]
 [Site "London ENG"]
-[Date "1964.01.10"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Raymond Keene"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -209,14 +191,12 @@
 
 [Event "Simul, 24b"]
 [Site "London ENG"]
-[Date "1964.01.09"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "David J Mabbs"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C40"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -234,14 +214,12 @@
 
 [Event "Simul, 24b"]
 [Site "London ENG"]
-[Date "1964.01.09"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Harold Israel"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -259,14 +237,12 @@
 
 [Event "Simul"]
 [Site "Amsterdam NED"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Jan George van Eybergen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C70"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -279,14 +255,12 @@
 
 [Event "LTU-LAT"]
 [Site "Vilnius URS"]
-[Date "1959.04.04"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Ratmir Kholmov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D53"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -302,14 +276,12 @@
 
 [Event "Simul"]
 [Site "Riga LAT"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "I Ikars"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B66"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -324,14 +296,12 @@
 
 [Event "URS"]
 [Site "URS"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Oleg Romanishin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -347,14 +317,12 @@
 
 [Event "47th USSR Championship"]
 [Site "Minsk BLR"]
-[Date "1979.12.??"]
 [Round "15"]
 [White "Mikhail Tal"]
 [Black "Tamas Georgadze"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E06"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -370,14 +338,12 @@
 
 [Event "Soviet Union tt"]
 [Site "Soviet Union tt"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Garry Kasparov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -393,14 +359,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1977.09.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Alexey Suetin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -415,14 +379,12 @@
 
 [Event "Moscow Interzonal"]
 [Site "Moscow URS"]
-[Date "1982.09.11"]
 [Round "4"]
 [White "Mikhail Tal"]
 [Black "John van der Wiel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A17"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -435,14 +397,12 @@
 
 [Event "Moscow Interzonal"]
 [Site "Moscow URS"]
-[Date "1982.09.17"]
 [Round "8"]
 [White "Mikhail Tal"]
 [Black "Dragoljub Velimirovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A67"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -455,14 +415,12 @@
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1982.05.??"]
 [Round "8"]
 [White "Mikhail Tal"]
 [Black "Rainer F A Knaak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E91"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -480,14 +438,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1982.12.??"]
 [Round "4"]
 [White "Mikhail Tal"]
 [Black "Murray Chandler"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -503,14 +459,12 @@
 
 [Event "4th Keres Memorial"]
 [Site "Tallinn URS"]
-[Date "1983.02.??"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Peter Szekely"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B97"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -525,14 +479,12 @@
 
 [Event "4th Keres Memorial"]
 [Site "Tallinn URS"]
-[Date "1983.03.??"]
 [Round "12"]
 [White "Mikhail Tal"]
 [Black "Lev Psakhis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -545,14 +497,12 @@
 
 [Event "Jurmala"]
 [Site "Jurmala LAT"]
-[Date "1983.06.??"]
 [Round "8"]
 [White "Mikhail Tal"]
 [Black "Guillermo Garcia Gonzales"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 

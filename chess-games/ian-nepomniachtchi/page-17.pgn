@@ -1,6 +1,5 @@
 [Event "46th GM 2018"]
 [Site "Dortmund GER"]
-[Date "2018.07.22"]
 [Round "7.4"]
 [White "Nepomniachtchi, I."]
 [Black "Meier, Geo"]
@@ -9,7 +8,6 @@
 [WhiteElo "2757"]
 [BlackElo "2628"]
 [PlyCount "53"]
-[EventDate "2018.07.14"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -24,7 +22,6 @@ Bh7 1-0
 
 [Event "46th GM 2018"]
 [Site "Dortmund GER"]
-[Date "2018.07.17"]
 [Round "3.2"]
 [White "Nepomniachtchi, I."]
 [Black "Nisipeanu, LD."]
@@ -33,7 +30,6 @@ Bh7 1-0
 [WhiteElo "2757"]
 [BlackElo "2672"]
 [PlyCount "99"]
-[EventDate "2018.07.14"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -51,7 +47,6 @@ Kf6 47. Rf1+ Ke6 48. Rf7 Rg8 49. g5 Rb7 50. g6 1-0
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.07"]
 [Round "27"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -60,7 +55,6 @@ Kf6 47. Rf1+ Ke6 48. Rf7 Rg8 49. g5 Rb7 50. g6 1-0
 [WhiteElo "2757"]
 [BlackElo "2766"]
 [PlyCount "115"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -79,7 +73,6 @@ Bf4 Qe6 53. Be5 Qf5 54. Be2 Qg5+ 55. Bg3 Qf5 56. Qh4+ Kg8 57. Bc4+ Kf8 58. Qh8+
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.07"]
 [Round "29"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -88,7 +81,6 @@ Bf4 Qe6 53. Be5 Qf5 54. Be2 Qg5+ 55. Bg3 Qf5 56. Qh4+ Kg8 57. Bc4+ Kf8 58. Qh8+
 [WhiteElo "2757"]
 [BlackElo "2766"]
 [PlyCount "115"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -106,7 +98,6 @@ g5 54. h5 Nf8 55. Rxc4 Nd7 56. Rc6 f6 57. Rd6 Kg7 58. Rxd7+ 1-0
 
 [Event "chess.com Speed 5m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.07"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -115,7 +106,6 @@ g5 54. h5 Nf8 55. Rxc4 Nd7 56. Rc6 f6 57. Rd6 Kg7 58. Rxd7+ 1-0
 [WhiteElo "2757"]
 [BlackElo "2766"]
 [PlyCount "63"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -129,7 +119,6 @@ O-O Be7 16. Rae1 Ne5 17. f4 Nxd3 18. cxd3 Qd7 19. f5 e5 20. Qg3 Kf8 21. d4 exd4
 
 [Event "chess.com Speed 5m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.07"]
 [Round "7"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -138,7 +127,6 @@ O-O Be7 16. Rae1 Ne5 17. f4 Nxd3 18. cxd3 Qd7 19. f5 e5 20. Qg3 Kf8 21. d4 exd4
 [WhiteElo "2757"]
 [BlackElo "2766"]
 [PlyCount "75"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -153,7 +141,6 @@ g6 34. f5 Nf6 35. fxg6+ fxg6 36. Ra7+ Kh8 37. Qxg6 Qxe5+ 38. Kh1 1-0
 
 [Event "chess.com Speed 5m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.07"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -162,7 +149,6 @@ g6 34. f5 Nf6 35. fxg6+ fxg6 36. Ra7+ Kh8 37. Qxg6 Qxe5+ 38. Kh1 1-0
 [WhiteElo "2757"]
 [BlackElo "2766"]
 [PlyCount "125"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -181,7 +167,6 @@ gxf4 60. gxf4 Nc4 61. f5+ Kg5 62. h4+ Kxh4 63. Rxf6 1-0
 
 [Event "71st ch-RUS 2018"]
 [Site "Satka RUS"]
-[Date "2018.09.01"]
 [Round "7.1"]
 [White "Nepomniachtchi, I."]
 [Black "Khismatullin, D."]
@@ -190,7 +175,6 @@ gxf4 60. gxf4 Nc4 61. f5+ Kg5 62. h4+ Kxh4 63. Rxf6 1-0
 [WhiteElo "2768"]
 [BlackElo "2634"]
 [PlyCount "105"]
-[EventDate "2018.08.25"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "RUS"]
@@ -209,7 +193,6 @@ h4 1-0
 
 [Event "71st ch-RUS 2018"]
 [Site "Satka RUS"]
-[Date "2018.09.02"]
 [Round "8.6"]
 [White "Nepomniachtchi, I."]
 [Black "Sarana, A."]
@@ -218,7 +201,6 @@ h4 1-0
 [WhiteElo "2768"]
 [BlackElo "2613"]
 [PlyCount "117"]
-[EventDate "2018.08.25"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "RUS"]
@@ -237,7 +219,6 @@ Ra1 54. Bc4 Rb1+ 55. Ka5 Ra1+ 56. Ba2 Kd8 57. c6 Bc7 58. Rd2+ Kc8 59. bxc7 1-0
 
 [Event "TCh-RUS Rapid 2018"]
 [Site "Sochi RUS"]
-[Date "2018.10.08"]
 [Round "2.1"]
 [White "Nepomniachtchi, Ian"]
 [Black "Rakhmanov, Aleksandr"]
@@ -245,7 +226,6 @@ Ra1 54. Bc4 Rb1+ 55. Ka5 Ra1+ 56. Ba2 Kd8 57. c6 Bc7 58. Rd2+ Kc8 59. bxc7 1-0
 [WhiteElo "2759"]
 [BlackElo "2634"]
 [ECO "A21"]
-[EventDate "2018.10.08"]
 
 1. c4 e5 2. Nc3 Bb4 3. Nd5 a5 4. Nf3 d6 5. a3 Bc5 6. e3 c6 7. d4 Ba7 8. 
 Nc3 Qe7 9. dxe5 dxe5 10. Ne4 Nd7 11. Nd6+ Kf8 12. Be2 e4 13. Nxc8 Rxc8 14.
@@ -259,7 +239,6 @@ exf3 26. Bxf3 g6 27. h3 Ne8 28. b5 c5 29. Re4+ Kf8 30. Rf4 Ke7 31. g4 hxg4
 
 [Event "TCh-RUS Rapid 2018"]
 [Site "Sochi RUS"]
-[Date "2018.10.09"]
 [Round "6.5"]
 [White "Nepomniachtchi, Ian"]
 [Black "Triapishko, Olexandr"]
@@ -267,7 +246,6 @@ exf3 26. Bxf3 g6 27. h3 Ne8 28. b5 c5 29. Re4+ Kf8 30. Rf4 Ke7 31. g4 hxg4
 [WhiteElo "2759"]
 [BlackElo "2508"]
 [ECO "B12"]
-[EventDate "2018.10.08"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 Nd7 6. Be2 Ne7 7. Nh4 Bg6 8. 
 Nd2 Nf5 9. Nxg6 hxg6 10. O-O Be7 11. Nf3 Qc7 12. Re1 a6 13. a4 c5 14. a5 
@@ -279,7 +257,6 @@ Ng5+ fxg5 33. Qh5+ Kg8 34. Qg6+ Kf8 35. Qf6+ Rf7 36. Qh8+ Ke7 37. Qxc8 1-0
 
 [Event "TCh-RUS Rapid 2018"]
 [Site "Sochi RUS"]
-[Date "2018.10.09"]
 [Round "7.3"]
 [White "Nepomniachtchi, Ian"]
 [Black "Dubov, Daniil"]
@@ -287,7 +264,6 @@ Ng5+ fxg5 33. Qh5+ Kg8 34. Qg6+ Kf8 35. Qf6+ Rf7 36. Qh8+ Ke7 37. Qxc8 1-0
 [WhiteElo "2759"]
 [BlackElo "2703"]
 [ECO "B31"]
-[EventDate "2018.10.08"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. d4 Bg7 6. dxc5 Qa5+ 7. Nbd2 
 Ba6 8. a3 Qxc5 9. c4 Nf6 10. b4 Qb6 11. O-O O-O 12. Bb2 d6 13. Qc2 Bc8 14.
@@ -299,7 +275,6 @@ Kg7 32. Kg2 Rc3 33. Nc6 Rxb5 34. Nd4 Rd5 35. Rfd1 1-0
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "8.17"]
 [White "Nepomniachtchi, Ian"]
 [Black "Bosiocic, Marin"]
@@ -307,7 +282,6 @@ Kg7 32. Kg2 Rc3 33. Nc6 Rxb5 34. Nd4 Rd5 35. Rfd1 1-0
 [WhiteElo "2763"]
 [BlackElo "2599"]
 [ECO "B08"]
-[EventDate "2018.12.29"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 c6 6. a4 O-O 7. a5 Nbd7 8. 
 h3 Qc7 9. Bc4 Nxe4 10. Bxf7+ Rxf7 11. Nxe4 Nf6 12. Nxf6+ exf6 13. O-O d5 
@@ -322,7 +296,6 @@ Ke6 50. f4 Kd5 51. h4 Ke4 52. h5 Bf7 53. h6 Bg6 54. f5 Kd5 1-0
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.24"]
 [Round "1.2"]
 [White "Nepomniachtchi, Ian"]
 [Black "Kawuma, Patrick"]
@@ -330,7 +303,6 @@ Ke6 50. f4 Kd5 51. h4 Ke4 52. h5 Bf7 53. h6 Bg6 54. f5 Kd5 1-0
 [WhiteElo "2768"]
 [BlackElo "2329"]
 [ECO "C11"]
-[EventDate "2018.09.24"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 b6 7. Nf4 Ba6 8. 
 Bxa6 Nxa6 9. Nf3 Be7 10. h4 Qc7 11. a3 O-O-O 12. b4 cxd4 13. cxd4 Qc4 14. 
@@ -341,7 +313,6 @@ Rxc8 Kxc8 21. Ng5 Qe7 22. Rc1+ Kb7 23. Qc2 Nc5 24. dxc5 bxc5 25. Qa4 h6
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.27"]
 [Round "4.9"]
 [White "Nepomniachtchi, Ian"]
 [Black "Wojtaszek, Radoslaw"]
@@ -349,7 +320,6 @@ Rxc8 Kxc8 21. Ng5 Qe7 22. Rc1+ Kb7 23. Qc2 Nc5 24. dxc5 bxc5 25. Qa4 h6
 [WhiteElo "2768"]
 [BlackElo "2727"]
 [ECO "C84"]
-[EventDate "2018.09.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. 
 a3 O-O 9. Nc3 Na5 10. Ba2 Be6 11. b4 Bxa2 12. Nxa2 Nc6 13. c4 Nd4 14. Nc3 
@@ -362,7 +332,6 @@ Bg5 dxe4 21. dxe4 Rfc8 22. Nd5 Nxd5 23. exd5 Qd6 24. Bxe7 Qxe7 25. Re1 f6
 
 [Event "Mark Dvoretsky Mem 2018"]
 [Site "Moscow RUS"]
-[Date "2018.12.08"]
 [Round "4.1"]
 [White "Nepomniachtchi, Ian"]
 [Black "Najer, Evgeniy"]
@@ -370,7 +339,6 @@ Bg5 dxe4 21. dxe4 Rfc8 22. Nd5 Nxd5 23. exd5 Qd6 24. Bxe7 Qxe7 25. Re1 f6
 [WhiteElo "2763"]
 [BlackElo "2670"]
 [ECO "A29"]
-[EventDate "2018.12.08"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Nd4 5. Bg2 Nxf3+ 6. Bxf3 Bc5 7. O-O 
 O-O 8. a3 Re8 9. b4 Bf8 10. Bg2 c6 11. d4 a5 12. b5 Qe7 13. e3 e4 14. d5 
@@ -385,7 +353,6 @@ Rd6+ 1-0
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.27"]
 [Round "9.5"]
 [White "Nepomniachtchi, Ian"]
 [Black "Saric, Ivan"]
@@ -393,7 +360,6 @@ Rd6+ 1-0
 [WhiteElo "2763"]
 [BlackElo "2695"]
 [ECO "A11"]
-[EventDate "2018.12.26"]
 
 1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Nc3 e6 5. b3 Bd6 6. Bb2 O-O 7. Be2 Nbd7 8.
  Rc1 a6 9. d4 Re8 10. O-O e5 11. dxe5 Nxe5 12. cxd5 c5 13. Nxe5 Bxe5 14. 
@@ -404,7 +370,6 @@ Nf4 Rd6 21. Qc3 g5 22. Ne6 fxe6 23. Qxf6 exd5 24. Qxg5+ Kh8 25. Qh5 Red8
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "17.12"]
 [White "Nepomniachtchi, Ian"]
 [Black "Cheparinov, Ivan"]
@@ -412,7 +377,6 @@ Nf4 Rd6 21. Qc3 g5 22. Ne6 fxe6 23. Qxf6 exd5 24. Qxg5+ Kh8 25. Qh5 Red8
 [WhiteElo "2763"]
 [BlackElo "2709"]
 [ECO "C45"]
-[EventDate "2018.12.29"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nb3 Qg6 6. f3 Bd6 7. g4 h5 
 8. g5 f6 9. Nc3 fxg5 10. Rg1 g4 11. f4 Nge7 12. Be3 O-O 13. Qd2 a5 14. e5 
@@ -423,7 +387,6 @@ Nxe5 15. fxe5 Bxe5 16. O-O-O a4 17. Nd4 a3 18. Bc4+ Kh8 19. Rdf1 axb2+ 20.
 
 [Event "Mark Dvoretsky Mem 2018"]
 [Site "Moscow RUS"]
-[Date "2018.12.09"]
 [Round "6.1"]
 [White "Nepomniachtchi, Ian"]
 [Black "Savchenko, Boris"]
@@ -431,7 +394,6 @@ Nxe5 15. fxe5 Bxe5 16. O-O-O a4 17. Nd4 a3 18. Bc4+ Kh8 19. Rdf1 axb2+ 20.
 [WhiteElo "2763"]
 [BlackElo "2562"]
 [ECO "D40"]
-[EventDate "2018.12.08"]
 
 1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. e3 e6 5. d4 d5 6. a3 cxd4 7. exd4 g6 8. 
 c5 Bg7 9. Bb5 Ne4 10. Bxc6+ bxc6 11. Qa4 O-O 12. Bf4 g5 13. Nxe4 dxe4 14. 
@@ -442,7 +404,6 @@ h3 Qh4 27. Rg1 axb4 28. Rxh6 1-0
 
 [Event "Mark Dvoretsky Mem 2018"]
 [Site "Moscow RUS"]
-[Date "2018.12.09"]
 [Round "8.1"]
 [White "Nepomniachtchi, Ian"]
 [Black "Riazantsev, Alexander"]
@@ -450,7 +411,6 @@ h3 Qh4 27. Rg1 axb4 28. Rxh6 1-0
 [WhiteElo "2763"]
 [BlackElo "2649"]
 [ECO "D35"]
-[EventDate "2018.12.08"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8.
  Bg3 Ne4 9. Rc1 h5 10. f3 Nxg3 11. hxg3 c6 12. Bd3 Be6 13. Ne2 Nd7 14. Kf2
@@ -465,7 +425,6 @@ Rc3 50. Ka2 Rg3 51. Rg7 Rg4 52. g6 f6 53. Rf7 a4 54. Rd2 axb3+ 55. Kb2 1-0
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "4.3"]
 [White "Nepomniachtchi, Ian"]
 [Black "Nakamura, Hikaru"]
@@ -473,7 +432,6 @@ Rc3 50. Ka2 Rg3 51. Rg7 Rg4 52. g6 f6 53. Rf7 a4 54. Rd2 axb3+ 55. Kb2 1-0
 [WhiteElo "2763"]
 [BlackElo "2746"]
 [ECO "A17"]
-[EventDate "2018.12.26"]
 
 1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. e3 Be7 5. b3 c5 6. cxd5 Nxd5 7. Bb2 Nxc3 
 8. Bxc3 O-O 9. h4 Bf6 10. Qc2 Bxc3 11. dxc3 Nc6 12. Bd3 f5 13. O-O-O Qa5 
@@ -487,7 +445,6 @@ Qc5 Qf3 45. Qc7+ Kg6 46. Qe5 Qe3 47. Rg2+ Kf7 48. Rg7+ 1-0
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "10.5"]
 [White "Nepomniachtchi, Ian"]
 [Black "Firouzja, Alireza"]
@@ -495,7 +452,6 @@ Qc5 Qf3 45. Qc7+ Kg6 46. Qe5 Qe3 47. Rg2+ Kf7 48. Rg7+ 1-0
 [WhiteElo "2763"]
 [BlackElo "2607"]
 [ECO "B31"]
-[EventDate "2018.12.29"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Be3 Nxe4
 8. c3 Nf6 9. Bxc5 b6 10. Be3 O-O 11. O-O Nd5 12. d4 c5 13. Bg5 h6 14. Bh4 
@@ -517,7 +473,6 @@ Rxd7 fxg2 63. Kh2 Ke6 64. Rb7 Kf5 65. Bc5 Ke4 66. Kg1 Kf3 67. Rb3+ Ke4 68.
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "2.4"]
 [White "Nepomniachtchi, Ian"]
 [Black "Mchedlishvili, Mikheil"]
@@ -525,7 +480,6 @@ Rxd7 fxg2 63. Kh2 Ke6 64. Rb7 Kf5 65. Bc5 Ke4 66. Kg1 Kf3 67. Rb3+ Ke4 68.
 [WhiteElo "2763"]
 [BlackElo "2610"]
 [ECO "B12"]
-[EventDate "2018.12.29"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 8.
  Bg5 Qa6 9. Qf3 Ne7 10. Nge2 Nf5 11. O-O Nd7 12. Rad1 Be7 13. Bxe7 Nxe7 
@@ -537,7 +491,6 @@ Kg8 32. Qxg6+ Qg7 33. Qxe6+ Kf8 34. Ne5 Rh6 35. Nd7+ 1-0
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.05"]
 [Round "11.2"]
 [White "Nepomniachtchi, Ian"]
 [Black "Bacrot, Etienne"]
@@ -545,7 +498,6 @@ Kg8 32. Qxg6+ Qg7 33. Qxe6+ Kf8 34. Ne5 Rh6 35. Nd7+ 1-0
 [WhiteElo "2768"]
 [BlackElo "2678"]
 [ECO "A06"]
-[EventDate "2018.09.24"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. Nc3 Be7 5. b3 O-O 6. Bb2 c5 7. cxd5 Nxd5 
 8. h4 b6 9. Qb1 h6 10. g4 Bb7 11. Rh3 Nd7 12. g5 h5 13. Bd3 Nb4 14. Bh7+ 
@@ -555,7 +507,6 @@ hxg5 Nf4 21. Qxb7 Nd3+ 22. Kf1 Nxb2 23. Rxh5+ Kg8 24. g6 1-0
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "2.7"]
 [White "Nepomniachtchi, Ian"]
 [Black "Rakhmanov, Aleksandr"]
@@ -563,7 +514,6 @@ hxg5 Nf4 21. Qxb7 Nd3+ 22. Kf1 Nxb2 23. Rxh5+ Kg8 24. g6 1-0
 [WhiteElo "2763"]
 [BlackElo "2629"]
 [ECO "A13"]
-[EventDate "2018.12.26"]
 
 1. c4 e6 2. Nf3 d5 3. e3 g6 4. Nc3 Bg7 5. b3 b6 6. Bb2 Bb7 7. Qc2 dxc4 8. 
 Bxc4 Nd7 9. d4 Ne7 10. e4 a6 11. a4 O-O 12. Rd1 Qc8 13. O-O c6 14. Rfe1 b5

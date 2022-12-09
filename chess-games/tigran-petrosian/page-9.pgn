@@ -1,6 +1,5 @@
 [Event "Izt (cat.12)"]
 [Site "Biel (Switzerland)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Diaz Joaquin C (CUB)"]
@@ -25,7 +24,6 @@ e4 43.Nxe4 Kh8 44.Nd6 Qd7 45.Bc5 R4b7 46.Rd1 Ne6 47.Nxb7 Qxb7
 
 [Event "Izt (cat.12)"]
 [Site "Biel (Switzerland)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Larsen Bent (DEN)"]
@@ -51,7 +49,6 @@ Qxd3 42.Rxd3 Rc8 43.f4 Re2+ 44.Kf3 Rb2 45.Rxb5 Rc4 46.Rxh5+ Kg8
 
 [Event "Izt (cat.12)"]
 [Site "Biel (Switzerland)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lombard Andre (SUI)"]
@@ -72,7 +69,6 @@ Rh8 25.Nh4 Bd7 26.Qd3 Be8 27.f4 Kg7 28.Qg3 Rh5 29.Qg4 Bf7 1-0
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Ciocco (Italy)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -91,7 +87,6 @@ cxd4 8.cxd4 Nc6 9.Bc4 b5 10.Be2 Bb4+ 11.Bd2 Qa5 12.Rb1 Bxd2+
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Ciocco (Italy)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -111,7 +106,6 @@ exd5 19.Rxd5 h6 20.Rcd1 Rxd5 21.Rxd5 Rd8 22.Qe4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Ciocco (Italy)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -134,7 +128,6 @@ Bxb2 31.Qxb2 Rxa1 32.Rxa1 Qb8 33.Qd4 e5 34.Qc3 Rh5 35.Qb4+ d6
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Ciocco (Italy)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -160,7 +153,6 @@ Kg5 53.Ke4 Kg4 54.Kd5 Kh3 55.g4 Kxh2 56.Kxc5 Kg3 57.g5 Kf4 0-1
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Ciocco (Italy)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -179,7 +171,6 @@ Bxg2 14.Kxg2 c6 15.Rac1 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -199,7 +190,6 @@ Bxf6 20.a3 Bg5 21.b4 Qd6 22.Rb1 g6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Geller Efim P (RUS)"]
@@ -219,7 +209,6 @@ Rfc8 19.Ne2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -242,7 +231,6 @@ Qxa1 36.Qe5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -262,7 +250,6 @@ Nc6 14.Rd2 Rfd8 15.Rad1 Nb4 16.a3 Na6 17.dxc5 Bxb2 18.Rxb2 Nxc5
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -282,7 +269,6 @@ axb5 20.axb5 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Moscow (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -310,7 +296,6 @@ Ra3+ 59.f3 Raa2 60.Rh1 Rg2+ 61.Kf4 Ra7 62.Rxd4 Kg7 63.Rd5 Rf7+
 
 [Event "Ch Europe (team)"]
 [Site "Moscow (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -331,7 +316,6 @@ Kh7 20.Nge2 Nxe2 21.Qxe2 Nd4 22.Qd2 Bg4 23.Rb1 Bd7 24.Rbe1 Bc6
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Adorjan Andras (HUN)"]
@@ -351,7 +335,6 @@ Rxe1+ 19.Rxe1 Nc5 20.Re5 Ne6 21.h4 Rb8 22.Nb5 a6 23.Nd6 b6 24.Be2 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Geller Efim P (RUS)"]
@@ -370,7 +353,6 @@ Rxe1+ 19.Rxe1 Nc5 20.Re5 Ne6 21.h4 Rb8 22.Nb5 a6 23.Nd6 b6 24.Be2 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Klaric Zlatko (CRO)"]
@@ -392,7 +374,6 @@ Rg8 31.Rb7 Qa8 32.Qd7 Rxb7 33.axb7 Qa7 34.Qc8 1-0
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -414,7 +395,6 @@ Rxc6 31.Ra8+ Bf8 32.Bg5 Rc7 33.Kg2 h6 34.Bd8 Rb7 35.g4 Kh7 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Panchenko Alexander N (RUS)"]
@@ -434,7 +414,6 @@ Bxd5 14.Bxd5 exd5 15.Re1 Nb6 16.Nf3 a6 17.Qd3 h6 18.Re2 Rfd8
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Suba Mihai (ROM)"]
@@ -457,7 +436,6 @@ Be6 36.Qxc6 Bc4 37.g4 Re7 38.g5 Nd5 39.Qd6 Re8 40.Nd7 Kg8 1-0
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -481,7 +459,6 @@ Kg8 43.Bg2 Kg7 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tal Mikhail (LAT)"]
@@ -501,14 +478,12 @@ dxe4 14.b4 Rad8 15.Qc2 Qg5 16.bxc5 Qxe5 17.cxb6 axb6 18.Rb1 Qa5
 
 [Event "Korchnoi - Petrosian Candidates Quarterfinal"]
 [Site "Il Ciocco ITA"]
-[Date "1977.03.02"]
 [Round "2"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D41"]
-[EventDate "1977.02.28"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -520,14 +495,12 @@ dxe4 14.b4 Rad8 15.Qc2 Qg5 16.bxc5 Qxe5 17.cxb6 axb6 18.Rb1 Qa5
 
 [Event "Korchnoi - Petrosian Candidates Quarterfinal"]
 [Site "Il Ciocco ITA"]
-[Date "1977.03.21"]
 [Round "8"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Viktor Korchnoi"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "1977.02.28"]
 [PlyCount "114"]
 [WhiteElo "?"]
 

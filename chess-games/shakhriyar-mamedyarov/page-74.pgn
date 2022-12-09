@@ -1,6 +1,5 @@
 [Event "Ch Europe (juniors) (under 12)"]
 [Site "Tallinn (Estonia)"]
-[Date "1997.??.??"]
 [Round "6"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Manescu Tiberiu (ROM)"]
@@ -19,7 +18,6 @@ c6 8.a4 Re8 9.O-O e5 10.Bh2 e4 11.Ne1 d5 12.Ba2 Nf8 13.c4 b6
 
 [Event "Ch Europe (juniors) (under 12)"]
 [Site "Tallinn (Estonia)"]
-[Date "1997.??.??"]
 [Round "3"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Sveshnikov Vladimir (LAT)"]
@@ -38,7 +36,6 @@ hxg5 15.hxg5 Rxh1+ 16.Qxh1 Ne4 17.Nxe4 dxe4 1-0
 
 [Event "Cup Baku"]
 [Site "Baku (Azerbaijan)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Aliev Rasim (AZE)"]
@@ -63,7 +60,6 @@ Kf7 41.Qb7+ Ke8 42.Qc8+ Kf7 43.Qc4+ Ke8 44.Qc8+ Kf7 45.Qd7+ Kf8
 
 [Event "Cup Baku"]
 [Site "Baku (Azerbaijan)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Pavlenko Oleg (AZE)"]
@@ -85,7 +81,6 @@ c4 31.Nf6 c3 32.Rd3 Kg7 33.Ne4 0-1
 
 [Event "Ch Azerbaijan"]
 [Site "Baku (Azerbaijan)"]
-[Date "1999.??.??"]
 [Round "9"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Abbasov Farid (AZE)"]
@@ -104,7 +99,6 @@ e5 8.e4 Re8 9.d5 Nc5 10.Qc2 a5 11.Rd1 Bd7 12.Be3 b6 13.h3 Nh5
 
 [Event "Ch Azerbaijan"]
 [Site "Baku (Azerbaijan)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Guseinov Elmir (AZE)"]
@@ -127,7 +121,6 @@ Nf5 36.Re6+ Kf7 37.Kf3 Nd4+ 0-1
 
 [Event "Cup BP AMOCO (juniors)"]
 [Site "Baku (Azerbaijan)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Gagunashvili Merab (GEO)"]
@@ -149,7 +142,6 @@ Qb8 31.Rc6 1/2-1/2
 
 [Event "Cup BP AMOCO (juniors)"]
 [Site "Baku (Azerbaijan)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -175,7 +167,6 @@ axb3 1/2-1/2
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Oropesa (Spain)"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Hassan Abdullah (UAE)"]
@@ -195,7 +186,6 @@ hxg6 14.O-O-O b5 15.Kb1 Nc6 16.Bg2 Rh4 17.Nxd5 exd5 18.Bxd5 Nb6
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Oropesa (Spain)"]
-[Date "1999.??.??"]
 [Round "11"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Mamedov Nidjat (AZE)"]
@@ -214,7 +204,6 @@ a3 15.bxa3 Rf8 16.a4 Ne8 1/2-1/2
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Oropesa (Spain)"]
-[Date "1999.??.??"]
 [Round "10"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Navara David (CZE)"]
@@ -239,7 +228,6 @@ Qe8 42.Rd2 Rxd2 43.Qxd2 Qxa4 44.Rd1 Qb3 45.Qd4+ Kh7 46.Rd2 Qe6
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Oropesa (Spain)"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Tikkanen Hans (SWE)"]
@@ -264,7 +252,6 @@ d3 48.Bf2 d2 49.b5 Qd5 50.c6+ Kc8 0-1
 
 [Event "Ch Europe (juniors) (under 12)"]
 [Site "Tallinn (Estonia)"]
-[Date "1997.??.??"]
 [Round "1"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Naiditsch Arkadij (GER)"]
@@ -273,7 +260,6 @@ d3 48.Bf2 d2 49.b5 Qd5 50.c6+ Kc8 0-1
 [WhiteElo "2709"]
 [BlackElo "2175"]
 [PlyCount "34"]
-[EventDate "1997.??.??"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Nbd2 Nbd7 7. Bc4 c6 8. a4
 Re8 9. O-O e5 10. Bh2 e4 11. Ne1 Nf8 12. Qe2 a5 13. c3 b6 14. b4 axb4 15. cxb4
@@ -282,7 +268,6 @@ d5 16. Bb3 Ba6 17. Qd1 Bxf1 0-1
 
 [Event "Ch Europe (juniors) (under 12)"]
 [Site "Tallinn (Estonia)"]
-[Date "1997.??.??"]
 [Round "8"]
 [White "Mamedyarov Shakhriyar (AZE)"]
 [Black "Tabatabai John (WLS)"]
@@ -291,7 +276,6 @@ d5 16. Bb3 Ba6 17. Qd1 Bxf1 0-1
 [WhiteElo "2709"]
 [BlackElo "2048"]
 [PlyCount "34"]
-[EventDate "1997.??.??"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. h3 O-O 5. e3 d6 6. Bc4 Nbd7 7. Nbd2 b6 8. O-O
 Bb7 9. c3 Qe8 10. Bh2 e5 11. b4 Kh8 12. b5 a6 13. a4 axb5 14. axb5 Qe7 15. Qb3
@@ -300,7 +284,6 @@ Ne4 16. Nxe4 Bxe4 17. Nd2 Bb7 1-0
 
 [Event "Ol (Children)"]
 [Site "Artek UKR"]
-[Date "1999.09.19"]
 [Round "8"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Moradiabadi, Elshan"]
@@ -308,7 +291,6 @@ Ne4 16. Nxe4 Bxe4 17. Nd2 Bb7 1-0
 [WhiteElo "2201"]
 [BlackElo "2094"]
 [ECO "E63"]
-[EventDate "1999.09.09"]
 
 1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. 
 h3 Rb8 9. e4 e5 10. d5 Ne7 11. b4 b5 12. Nd2 bxc4 13. Ba3 c6 14. Rc1 cxd5 
@@ -322,7 +304,6 @@ Kh5 45. Qg5# 1-0
 
 [Event "Ol (Children)"]
 [Site "Artek UKR"]
-[Date "1999.09.16"]
 [Round "6"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Szilagyi, Zsolt"]
@@ -330,7 +311,6 @@ Kh5 45. Qg5# 1-0
 [WhiteElo "2201"]
 [BlackElo "2189"]
 [ECO "A57"]
-[EventDate "1999.09.09"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 b4 5. Bg5 d6 6. Nbd2 Nbd7 7. e4 g6 8. 
 Be2 Bg7 9. h3 O-O 10. O-O Bb7 11. Qc2 Qc7 12. Nh2 Nb6 13. f4 e6 14. Rae1 
@@ -341,7 +321,6 @@ Bf2 Qe5 27. Nf3 Nxf7 28. exf7+ 1-0
 
 [Event "WCh U14 Boys"]
 [Site "Oropesa del Mar ESP"]
-[Date "1999.10.25"]
 [Round "2"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Hong, Jiarong"]
@@ -349,7 +328,6 @@ Bf2 Qe5 27. Nf3 Nxf7 28. exf7+ 1-0
 [WhiteElo "2201"]
 [BlackElo "2141"]
 [ECO "A46"]
-[EventDate "1999.10.24"]
 
 1. d4 Nf6 2. Nf3 d6 3. Bf4 Nbd7 4. e3 g6 5. h3 Bg7 6. Bc4 O-O 7. O-O c5 8.
  c3 b6 9. Nbd2 Bb7 10. a4 a6 11. Bh2 Bc6 12. Qe2 Qc8 13. e4 Ne8 14. Rfe1 
@@ -361,7 +339,6 @@ a5 27. Bc6 Qd8 28. Nd5 b4 29. Bc7 Qc8 30. Bxa8 bxc3 31. bxc3 Qxa8 32. Qc5
 
 [Event "WCh U14 Boys"]
 [Site "Oropesa del Mar ESP"]
-[Date "1999.11.01"]
 [Round "8"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Bernasek, Jan"]
@@ -369,7 +346,6 @@ a5 27. Bc6 Qd8 28. Nd5 b4 29. Bc7 Qc8 30. Bxa8 bxc3 31. bxc3 Qxa8 32. Qc5
 [WhiteElo "2201"]
 [BlackElo "2080"]
 [ECO "A48"]
-[EventDate "1999.10.24"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 b6 6. Nbd2 Bb7 7. c3 d6 8. 
 Bc4 Nbd7 9. O-O c5 10. Bh2 a6 11. a4 Qc7 12. b4 cxb4 13. cxb4 Bd5 14. Bd3 
@@ -382,13 +358,11 @@ Be3 Kf6 39. e5+ Kg7 40. Bg5 h6 41. Bf6+ Kf7 1/2-1/2
 
 [Event "Ol (Children)"]
 [Site "Artek UKR"]
-[Date "1999.09.12"]
 [Round "3"]
 [White "Mamedyarov,S"]
 [Black "Oliver,G"]
 [Result "1-0"]
 [WhiteElo "2201"]
-[EventDate "1999.09.09"]
 [ECO "A43"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nbd2 Nbd7 6. Bd3 Bd6 7. O-O b6 8.
@@ -398,14 +372,12 @@ Bb2 Ba3 15. Bc3 Bb4 16. Bb2 Ba3 1-0
 
 [Event "IMSA Elite Mind Games (Rapid)"]
 [Site "?"]
-[Date "2017.12.10"]
 [Round "1.5"]
 [White "Shakhriyar Mamedyarov"]
 [Black "Vassily Ivanchuk"]
 [Result "1-0"]
 [BlackElo "2796"]
 [ECO "E21"]
-[EventDate "????.??.??"]
 [PlyCount "161"]
 [WhiteElo "2814"]
 

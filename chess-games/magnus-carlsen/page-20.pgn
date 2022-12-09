@@ -1,6 +1,5 @@
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.2"]
 [White "Carlsen, M."]
 [Black "Nakamura, Hi"]
@@ -9,7 +8,6 @@
 [WhiteElo "2832"]
 [BlackElo "2786"]
 [PlyCount "132"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -29,7 +27,6 @@ Ra2 61. Nc1 Rb2 62. Rc4 Rd8 63. Re4 Rd1 64. Rc4 g5 65. hxg5 hxg5 66. g4 Rd8
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.6"]
 [White "Carlsen, M."]
 [Black "Nakamura, Hi"]
@@ -38,7 +35,6 @@ Ra2 61. Nc1 Rb2 62. Rc4 Rd8 63. Re4 Rd1 64. Rc4 g5 65. hxg5 hxg5 66. g4 Rd8
 [WhiteElo "2832"]
 [BlackElo "2786"]
 [PlyCount "150"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -59,7 +55,6 @@ Kg5 71. Qg7+ Kf4 72. Qxd4+ Kf3 73. Qd5+ Ke2 74. Qe5+ Kf2 75. Qc5+ Kf3 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.10"]
 [White "Carlsen, M."]
 [Black "Nakamura, Hi"]
@@ -68,7 +63,6 @@ Kg5 71. Qg7+ Kf4 72. Qxd4+ Kf3 73. Qd5+ Ke2 74. Qe5+ Kf2 75. Qc5+ Kf3 1/2-1/2
 [WhiteElo "2832"]
 [BlackElo "2786"]
 [PlyCount "131"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -88,7 +82,6 @@ Rxh5 Rxh5 66. Kf3 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.12"]
 [White "Carlsen, M."]
 [Black "Nakamura, Hi"]
@@ -97,7 +90,6 @@ Rxh5 Rxh5 66. Kf3 1/2-1/2
 [WhiteElo "2832"]
 [BlackElo "2786"]
 [PlyCount "132"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -117,7 +109,6 @@ Kxf2 Qd3 66. Qa5+ Kb3 0-1
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.16"]
 [White "Carlsen, M."]
 [Black "Nakamura, Hi"]
@@ -126,7 +117,6 @@ Kxf2 Qd3 66. Qa5+ Kb3 0-1
 [WhiteElo "2832"]
 [BlackElo "2786"]
 [PlyCount "154"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -147,7 +137,6 @@ Qh7+ 73. Ke8 Qg8+ 74. Qf8+ Qxf8+ 75. Kxf8 Kxe6 76. Bf2 Kd7 77. Kf7 Kc6 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.15"]
 [Round "3.1"]
 [White "Carlsen, M."]
 [Black "Wei Yi"]
@@ -156,7 +145,6 @@ Qh7+ 73. Ke8 Qg8+ 74. Qf8+ Qxf8+ 75. Kxf8 Kxe6 76. Bf2 Kd7 77. Kf7 Kc6 1/2-1/2
 [WhiteElo "2834"]
 [BlackElo "2743"]
 [PlyCount "92"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -174,7 +162,6 @@ Kh7 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.13"]
 [Round "1.1"]
 [White "Carlsen, M."]
 [Black "Caruana, F."]
@@ -183,7 +170,6 @@ Kh7 1/2-1/2
 [WhiteElo "2834"]
 [BlackElo "2811"]
 [PlyCount "81"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -200,7 +186,6 @@ Ke5 41. Nd1 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.17"]
 [Round "5.1"]
 [White "Carlsen, M."]
 [Black "Kramnik, V."]
@@ -209,7 +194,6 @@ Ke5 41. Nd1 1/2-1/2
 [WhiteElo "2834"]
 [BlackElo "2787"]
 [PlyCount "126"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -229,7 +213,6 @@ g5 54. Rb8 Re1+ 55. Kg2 Re2+ 56. Kg1 Ra2 57. Rc8 Ra1+ 58. Kg2 Ra2+ 59. Kg1 g2
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.02.04"]
 [Round "4"]
 [White "Carlsen, M."]
 [Black "Lenic, L."]
@@ -238,7 +221,6 @@ g5 54. Rb8 Re1+ 55. Kg2 Re2+ 56. Kg1 Ra2 57. Rc8 Ra1+ 58. Kg2 Ra2+ 59. Kg1 g2
 [WhiteElo "2834"]
 [BlackElo "2662"]
 [PlyCount "154"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -262,7 +244,6 @@ Re1 72. Rh8+ Kc7 73. Rh7+ Kb6 74. Bd3 Re3 75. Be4 d3 76. Ke5 Rxe4+ 77. Kxd6 d2
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.02.04"]
 [Round "4"]
 [White "Carlsen, M."]
 [Black "Spoelman, W."]
@@ -271,7 +252,6 @@ Re1 72. Rh8+ Kc7 73. Rh7+ Kb6 74. Bd3 Re3 75. Be4 d3 76. Ke5 Rxe4+ 77. Kxd6 d2
 [WhiteElo "2834"]
 [BlackElo "2578"]
 [PlyCount "80"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -289,7 +269,6 @@ Bxh1 0-1
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.02.28"]
 [Round "8"]
 [White "Carlsen, M."]
 [Black "Lalith, B."]
@@ -298,7 +277,6 @@ Bxh1 0-1
 [WhiteElo "2834"]
 [BlackElo "2542"]
 [PlyCount "172"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -323,7 +301,6 @@ a4 78. Kb1 Qd1+ 79. Ka2 Qd5+ 80. Kb1 Qb3 81. Rxb3+ Kxb3 82. Ka1 Kc4 83. Ka2 Kb4
 
 [Event "GRENKE Chess Classic 2018"]
 [Site "Karlsruhe/Baden Baden GER"]
-[Date "2018.04.08"]
 [Round "8.3"]
 [White "Carlsen, M."]
 [Black "Vitiugov, N."]
@@ -332,7 +309,6 @@ a4 78. Kb1 Qd1+ 79. Ka2 Qd5+ 80. Kb1 Qb3 81. Rxb3+ Kxb3 82. Ka1 Kc4 83. Ka2 Kb4
 [WhiteElo "2843"]
 [BlackElo "2735"]
 [PlyCount "129"]
-[EventDate "2018.03.31"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -352,7 +328,6 @@ g3 Bc1 54. Rd1 Bg5 55. Ke2 Ke6 56. Rh1 Ra6 57. Ba3 Rb6 58. Rh7 Rb7 59. Kd1 Rb8
 
 [Event "GRENKE Chess Classic 2018"]
 [Site "Karlsruhe/Baden Baden GER"]
-[Date "2018.04.04"]
 [Round "4.3"]
 [White "Carlsen, M."]
 [Black "Vachier Lagrave, M."]
@@ -361,7 +336,6 @@ g3 Bc1 54. Rd1 Bg5 55. Ke2 Ke6 56. Rh1 Ra6 57. Ba3 Rb6 58. Rh7 Rb7 59. Kd1 Rb8
 [WhiteElo "2843"]
 [BlackElo "2789"]
 [PlyCount "80"]
-[EventDate "2018.03.31"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -378,7 +352,6 @@ Bb6 Nc5 40. Bxc5+ Kxc5 1/2-1/2
 
 [Event "GRENKE Chess Classic 2018"]
 [Site "Karlsruhe/Baden Baden GER"]
-[Date "2018.04.06"]
 [Round "6.3"]
 [White "Carlsen, M."]
 [Black "Aronian, L."]
@@ -387,7 +360,6 @@ Bb6 Nc5 40. Bxc5+ Kxc5 1/2-1/2
 [WhiteElo "2843"]
 [BlackElo "2794"]
 [PlyCount "104"]
-[EventDate "2018.03.31"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -406,7 +378,6 @@ c2 41. Kf4 Rd1 42. Rxc2 Rxd4+ 43. Kf5 Kh7 44. f4 Ra4 45. Rc5 Kh6 46. Rd5 Ra6
 
 [Event "Vugar Gashimov Mem 2018"]
 [Site "Shamkir AZE"]
-[Date "2018.04.20"]
 [Round "2.3"]
 [White "Carlsen, M."]
 [Black "Navara, D."]
@@ -415,7 +386,6 @@ c2 41. Kf4 Rd1 42. Rxc2 Rxd4+ 43. Kf5 Kh7 44. f4 Ra4 45. Rc5 Kh6 46. Rd5 Ra6
 [WhiteElo "2843"]
 [BlackElo "2745"]
 [PlyCount "99"]
-[EventDate "2018.04.19"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -433,7 +403,6 @@ a3 Kb3 47. Kd4 Kxa3 48. Kc5 Kb3 49. b5 axb5 50. Kxb5 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2018"]
 [Site "Shamkir AZE"]
-[Date "2018.04.28"]
 [Round "9.3"]
 [White "Carlsen, M."]
 [Black "Ding Liren"]
@@ -442,7 +411,6 @@ a3 Kb3 47. Kd4 Kxa3 48. Kc5 Kb3 49. b5 axb5 50. Kxb5 1/2-1/2
 [WhiteElo "2843"]
 [BlackElo "2778"]
 [PlyCount "53"]
-[EventDate "2018.04.19"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -457,7 +425,6 @@ Ke6 27. Re1+ 1/2-1/2
 
 [Event "6th Norway Blitz 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.05.27"]
 [Round "8.1"]
 [White "Carlsen, M."]
 [Black "Aronian, L."]
@@ -466,7 +433,6 @@ Ke6 27. Re1+ 1/2-1/2
 [WhiteElo "2843"]
 [BlackElo "2764"]
 [PlyCount "104"]
-[EventDate "2018.05.27"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -485,7 +451,6 @@ Ke6 47. Kc4 Ke5 48. Rxb4 Rxb4+ 49. Kxb4 Kd4 50. Kb3 h5 51. Kc2 g4 52. hxg4 h4
 
 [Event "6th Norway Blitz 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.05.27"]
 [Round "5.1"]
 [White "Carlsen, M."]
 [Black "Ding Liren"]
@@ -494,7 +459,6 @@ Ke6 47. Kc4 Ke5 48. Rxb4 Rxb4+ 49. Kxb4 Kd4 50. Kb3 h5 51. Kc2 g4 52. hxg4 h4
 [WhiteElo "2843"]
 [BlackElo "2791"]
 [PlyCount "56"]
-[EventDate "2018.05.27"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -509,7 +473,6 @@ exd4 9. Nxd5 cxd5 10. Nxd4 Nc6 11. Nxc6 bxc6 12. O-O Be6 13. Qc2 Qb6 14. b3 d4
 
 [Event "6th Norway Chess 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.06.02"]
 [Round "5.1"]
 [White "Carlsen, M."]
 [Black "Anand, V."]
@@ -518,7 +481,6 @@ exd4 9. Nxd5 cxd5 10. Nxd4 Nc6 11. Nxc6 bxc6 12. O-O Be6 13. Qc2 Qb6 14. b3 d4
 [WhiteElo "2843"]
 [BlackElo "2760"]
 [PlyCount "89"]
-[EventDate "2018.05.28"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -535,7 +497,6 @@ Ke2 Bd6 34. Nc2 Nc6 35. Nd4 Nxd4+ 36. Bxd4 a6 37. Kd3 Ke6 38. Be3 Kd5 39. f3 b5
 
 [Event "6th Norway Blitz 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.05.27"]
 [Round "1.1"]
 [White "Carlsen, M."]
 [Black "Karjakin, Sergey"]
@@ -544,7 +505,6 @@ Ke2 Bd6 34. Nc2 Nc6 35. Nd4 Nxd4+ 36. Bxd4 a6 37. Kd3 Ke6 38. Be3 Kd5 39. f3 b5
 [WhiteElo "2843"]
 [BlackElo "2782"]
 [PlyCount "71"]
-[EventDate "2018.05.27"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -560,7 +520,6 @@ Qf4 28. Rcd1 Kg7 29. Bf1 Rd4 30. Re3 c4 31. g3 Qd6 32. Qxd6 Rxd6 33. Rc3 Rcd7
 
 [Event "6th Norway Chess 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.06.06"]
 [Round "8.1"]
 [White "Carlsen, M."]
 [Black "Mamedyarov, S."]
@@ -569,7 +528,6 @@ Qf4 28. Rcd1 Kg7 29. Bf1 Rd4 30. Re3 c4 31. g3 Qd6 32. Qxd6 Rxd6 33. Rc3 Rcd7
 [WhiteElo "2843"]
 [BlackElo "2808"]
 [PlyCount "100"]
-[EventDate "2018.05.28"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -587,7 +545,6 @@ Kg6 47. Be5 Kf7 48. Bc3 Kg6 49. Be5 Kf7 50. Bc3 Kg6 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "2.1"]
 [White "Carlsen, Magnus"]
 [Black "Vokhidov, Shamsiddin"]
@@ -595,7 +552,6 @@ Kg6 47. Be5 Kf7 48. Bc3 Kg6 49. Be5 Kf7 50. Bc3 Kg6 1/2-1/2
 [WhiteElo "2835"]
 [BlackElo "2480"]
 [ECO "C20"]
-[EventDate "2018.12.26"]
 
 1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Qe7 5. Ne2 Nf6 6. d3 Bg7 7. Nbc3 h6 
 8. Nd5 Nxd5 9. exd5 Na5 10. d6 cxd6 11. Bd5 Nc6 12. Bd2 Qf6 13. Qe4 O-O 
@@ -607,7 +563,6 @@ Qxc5 32. Ra1 d5 33. Rxa5 Qc7 34. Ra4 Qxh2 35. Rxa7 Qh1+ 36. Kf2 d4 0-1
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.27"]
 [Round "8.1"]
 [White "Carlsen, Magnus"]
 [Black "Petrov, Nikita"]
@@ -615,7 +570,6 @@ Qxc5 32. Ra1 d5 33. Rxa5 Qc7 34. Ra4 Qxh2 35. Rxa7 Qh1+ 36. Kf2 d4 0-1
 [WhiteElo "2835"]
 [BlackElo "2593"]
 [ECO "A22"]
-[EventDate "2018.12.26"]
 
 1. c4 e5 2. g3 Nf6 3. Nc3 Bb4 4. e4 Bxc3 5. dxc3 d6 6. f3 Be6 7. Nh3 h6 8.
  Nf2 a5 9. f4 Na6 10. f5 Bd7 11. Bg2 b5 12. cxb5 Bxb5 13. b3 a4 14. c4 Bc6
@@ -633,7 +587,6 @@ Kg6 Qg8+ 63. Kh6 Kc3 64. Qc5+ Kb2 65. Qb6+ Ka1 66. Qf6+ Kb1 67. e5 Qc4 68.
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "4.1"]
 [White "Carlsen, Magnus"]
 [Black "Vlassov, Nikolai"]
@@ -641,7 +594,6 @@ Kg6 Qg8+ 63. Kh6 Kc3 64. Qc5+ Kb2 65. Qb6+ Ka1 66. Qf6+ Kb1 67. e5 Qc4 68.
 [WhiteElo "2835"]
 [BlackElo "2401"]
 [ECO "A10"]
-[EventDate "2018.12.26"]
 
 1. c4 f5 2. b4 d6 3. Bb2 e5 4. e3 Nf6 5. d4 e4 6. d5 g6 7. Ne2 Bg7 8. Nf4 
 O-O 9. h4 Qe8 10. Be2 a5 11. b5 Nh5 12. Bxg7 Nxg7 13. b6 cxb6 14. Nc3 Na6 
@@ -655,7 +607,6 @@ Nxe4 Ra3+ 45. Bd3 1-0
 
 [Event "WCh Rapid TB 2018"]
 [Site "London ENG"]
-[Date "2018.11.28"]
 [Round "1"]
 [White "Carlsen, Magnus"]
 [Black "Caruana, Fabiano"]
@@ -663,7 +614,6 @@ Nxe4 Ra3+ 45. Bd3 1-0
 [WhiteElo "2835"]
 [BlackElo "2832"]
 [ECO "A22"]
-[EventDate "2018.11.28"]
 
 1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. e4 O-O 5. Nge2 c6 6. Bg2 a6 7. O-O b5 8. 
 d4 d6 9. a3 Bxc3 10. Nxc3 bxc4 11. dxe5 dxe5 12. Na4 Be6 13. Qxd8 Rxd8 14.

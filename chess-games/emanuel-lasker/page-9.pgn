@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Berlin (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Beratende"]
@@ -23,7 +22,6 @@ Bxh8 37.Ne4 1-0
 
 [Event ""]
 [Site "Bern (Switzerland)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Hanni"]
@@ -48,7 +46,6 @@ Ke8 41.Qb8+ Ke7 42.Qc7+ Ke8 43.Qc6+ Ke7 44.g3 Qd1+ 45.Ne1 Re8
 
 [Event "Simultan"]
 [Site "Bristol (England)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Moore1"]
@@ -71,7 +68,6 @@ Bxc5 31.b4 Bb6 32.Kh1 g5 33.Rf3 Rxe5 34.fxe5 Qxf3 35.Bxg5 Qxg4
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -95,7 +91,6 @@ Qd2 37.Rexd1 Qxc2 38.Rbc1 Qxf5 39.Nb6 Rd8 40.Nc4 Nb7 41.Ne3 Qf4
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -120,7 +115,6 @@ Re8 43.h3 Na6 44.Qd5+ Kh7 45.Qf7 Nb4 46.Rd7 Re1+ 47.Kh2 Bd6+
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Lee Francis J (ENG)"]
@@ -143,7 +137,6 @@ Kd5 35.Rd1 Qb6 36.Nf3+ Ke6 37.Qd6+ Kf5 38.Qd3+ Kg4 39.Ne5+ 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Pillsbury Harry N (USA)"]
@@ -172,7 +165,6 @@ Rh6+ 65.Rf6 Rh4 66.Ke7+ Kb5 67.Bd6 Rh7+ 68.Ke6 Bd8 69.Rf8 Bh4
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Showalter Jackson W (USA)"]
@@ -195,7 +187,6 @@ Bf3 36.fxe6 Bxh5 37.exf7 Bxf7 38.Rf1 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -216,7 +207,6 @@ Qb6 25.Na4 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "15"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bird Henry E (ENG)"]
@@ -239,7 +229,6 @@ Kxb6 36.a3 Rxf5 37.Qb3 Qg6 38.axb4 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Cohn Wilhelm (GER)"]
@@ -260,7 +249,6 @@ hxg6 14.Bg5 Qc7 15.Rad1 Nh7 16.Ne4 Ndf6 17.Bxf6 gxf6 18.d5 exd5
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "10"]
 [White "Lasker Emanuel (GER)"]
 [Black "Janowski Dawid M (POL)"]
@@ -286,7 +274,6 @@ Kf6 48.Kg3 Nxf5+ 49.gxf5 Kxf5 50.Kf3 Bc7 51.Nc5 b6 52.Nxa6 Bd6
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "11"]
 [White "Lasker Emanuel (GER)"]
 [Black "Maroczy Geza (HUN)"]
@@ -308,7 +295,6 @@ Ke8 30.g4 g5 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "22"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mason James (ENG)"]
@@ -333,7 +319,6 @@ Rxf6 36.Rc4 Rf5 37.Kf2 Rxa5 38.Kf3 Rh5 39.Rxc6 Rxh2 40.Kg4 Rg2+
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Schlechter Carl (AUT)"]
@@ -355,7 +340,6 @@ Be8 19.Bh4 g5 20.Bg3 Bg6 21.Ke1 f5 22.exf5 Nxf5 23.Nxf5 Bxf5
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "20"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tinsley Samuel"]
@@ -379,7 +363,6 @@ Bb5 37.Rxe6 Qc7 38.Qb2 Kg7 39.Rg6+ Kh7 40.Qb1 Qc3 41.Rc6 Bd3
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -399,7 +382,6 @@ Nd7 8.Nd5 Nxd4 9.Nxd4 exd4 10.Qxd4 O-O 11.Bxd7 Qxd7 12.Bd2 Bd8
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Sterling Francisco"]
@@ -420,7 +402,6 @@ Qd6 19.Nd2 Kd7 20.O-O-O Rb8 21.Nb3 Rb6 22.Nc5+ Ke7 23.Qf2 Rgb8
 
 [Event "Blindfold"]
 [Site "Vienna (Austria)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bram"]
@@ -442,14 +423,12 @@ Nf8 26.Rd3 Ng6 27.d5 cxd5 28.cxd5 Nxe5 29.Rxe5 Qf7 30.dxe6 Rxe6
 
 [Event "Simul, 25b"]
 [Site "Manchester ENG"]
-[Date "1898.12.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Julius Wahltuch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1898.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -462,14 +441,12 @@ Nf8 26.Rd3 Ng6 27.d5 cxd5 28.cxd5 Nxe5 29.Rxe5 Qf7 30.dxe6 Rxe6
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1899.06.12"]
 [Round "10"]
 [White "Emanuel Lasker"]
 [Black "David Janowski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "1899.05.30"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -488,14 +465,12 @@ Nf8 26.Rd3 Ng6 27.d5 cxd5 28.cxd5 Nxe5 29.Rxe5 Qf7 30.dxe6 Rxe6
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1899.06.24"]
 [Round "19"]
 [White "Emanuel Lasker"]
 [Black "Wilhelm Cohn"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "1899.05.30"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -509,14 +484,12 @@ Nf8 26.Rd3 Ng6 27.d5 cxd5 28.cxd5 Nxe5 29.Rxe5 Qf7 30.dxe6 Rxe6
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1899.07.01"]
 [Round "24"]
 [White "Emanuel Lasker"]
 [Black "Harry Nelson Pillsbury"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "1899.05.30"]
 [PlyCount "149"]
 [WhiteElo "?"]
 
@@ -538,14 +511,12 @@ Nf8 26.Rd3 Ng6 27.d5 cxd5 28.cxd5 Nxe5 29.Rxe5 Qf7 30.dxe6 Rxe6
 
 [Event "Casual game"]
 [Site "Augsburg GER"]
-[Date "1900.08.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Harry Nelson Pillsbury"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1900.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -559,14 +530,12 @@ Nf8 26.Rd3 Ng6 27.d5 cxd5 28.cxd5 Nxe5 29.Rxe5 Qf7 30.dxe6 Rxe6
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1900.06.14"]
 [Round "15"]
 [White "Emanuel Lasker"]
 [Black "Harry Nelson Pillsbury"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A83"]
-[EventDate "1900.??.??"]
 [PlyCount "169"]
 [WhiteElo "?"]
 

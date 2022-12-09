@@ -1,6 +1,5 @@
 [Event "Gibraltar Masters 2017"]
 [Site "Caleta ENG"]
-[Date "2017.02.02"]
 [Round "10.6"]
 [White "Caruana, F."]
 [Black "Akobian, V."]
@@ -9,7 +8,6 @@
 [WhiteElo "2827"]
 [BlackElo "2633"]
 [PlyCount "116"]
-[EventDate "2017.01.24"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -28,7 +26,6 @@ Rh2+ 48. Kg4 Rg2+ 49. Kh4 Rxg5 50. f4 Qxd4 51. Rxd4 Rb5 52. e5 Rb7 53. Rd6 Rc7
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.11"]
 [Round "5"]
 [White "Caruana, F."]
 [Black "Tari, A."]
@@ -37,7 +34,6 @@ Rh2+ 48. Kg4 Rg2+ 49. Kh4 Rxg5 50. f4 Qxd4 51. Rxd4 Rb5 52. e5 Rb7 53. Rd6 Rc7
 [WhiteElo "2827"]
 [BlackElo "2584"]
 [PlyCount "150"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -61,7 +57,6 @@ Be8+ 73. Kf5 Bd7+ 74. Kg6 Be8+ 75. Kf5 Bd7+ 1/2-1/2
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.11"]
 [Round "5"]
 [White "Caruana, F."]
 [Black "Carlsen, M."]
@@ -70,7 +65,6 @@ Be8+ 73. Kf5 Bd7+ 74. Kg6 Be8+ 75. Kf5 Bd7+ 1/2-1/2
 [WhiteElo "2827"]
 [BlackElo "2840"]
 [PlyCount "171"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -96,7 +90,6 @@ Qd7 66. Qb8 Qd8 67. Qb7+ Kf8 68. Qh7 Qd3+ 69. f3 Qf5 70. Qh8+ Ke7 71. Qg7+ Kd6
 
 [Event "ch-USA 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.03.30"]
 [Round "2.1"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -105,7 +98,6 @@ Qd7 66. Qb8 Qd8 67. Qb7+ Kf8 68. Qh7 Qd3+ 69. f3 Qf5 70. Qh8+ Ke7 71. Qg7+ Kd6
 [WhiteElo "2817"]
 [BlackElo "2793"]
 [PlyCount "115"]
-[EventDate "2017.03.29"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "USA"]
@@ -125,7 +117,6 @@ Rxa4 47. Bc7 Ra2 48. Rd6+ Ke7 49. Rb6 Bc4 50. Be5 Rc2 51. Rb1 Ke6 52. Bb8 Kf6
 
 [Event "ch-USA 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.04.01"]
 [Round "4.5"]
 [White "Caruana, F."]
 [Black "Xiong, Jeffery"]
@@ -134,7 +125,6 @@ Rxa4 47. Bc7 Ra2 48. Rd6+ Ke7 49. Rb6 Bc4 50. Be5 Rc2 51. Rb1 Ke6 52. Bb8 Kf6
 [WhiteElo "2817"]
 [BlackElo "2674"]
 [PlyCount "116"]
-[EventDate "2017.03.29"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "USA"]
@@ -155,7 +145,6 @@ Kxc6 41. Rd1 Rf4 42. Rd3 g5 43. Kc3 Ra4 44. Rf3 Kb5 45. Rf7 Kxa5 46. Rxb7 Rf4
 
 [Event "4th GRENKE Chess Classic"]
 [Site "Karlsruhe GER"]
-[Date "2017.04.20"]
 [Round "5.3"]
 [White "Caruana, F."]
 [Black "Vachier Lagrave, M."]
@@ -164,7 +153,6 @@ Kxc6 41. Rd1 Rf4 42. Rd3 g5 43. Kc3 Ra4 44. Rf3 Kb5 45. Rf7 Kxa5 46. Rxb7 Rf4
 [WhiteElo "2817"]
 [BlackElo "2803"]
 [PlyCount "85"]
-[EventDate "2017.04.15"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -182,7 +170,6 @@ Rc7 34. Ke3 Bc8 35. Kd4 Kf7 36. Nc5 Ra7 37. Kxd5 a5 38. Rf4+ Bf5 39. Kc6 Ke7
 
 [Event "4th GRENKE Chess Classic"]
 [Site "Karlsruhe GER"]
-[Date "2017.04.22"]
 [Round "7.2"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -191,7 +178,6 @@ Rc7 34. Ke3 Bc8 35. Kd4 Kf7 36. Nc5 Ra7 37. Kxd5 a5 38. Rf4+ Bf5 39. Kc6 Ke7
 [WhiteElo "2817"]
 [BlackElo "2774"]
 [PlyCount "121"]
-[EventDate "2017.04.15"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -212,7 +198,6 @@ Kg4 Kf8 59. Qf6+ Kg8 60. g6 Rxg6+ 61. Qxg6+ 1/2-1/2
 
 [Event "5th Norway Blitz 2017"]
 [Site "Stavanger NOR"]
-[Date "2017.06.05"]
 [Round "9.5"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -221,7 +206,6 @@ Kg4 Kf8 59. Qf6+ Kg8 60. g6 Rxg6+ 61. Qxg6+ 1/2-1/2
 [WhiteElo "2808"]
 [BlackElo "2793"]
 [PlyCount "49"]
-[EventDate "2017.06.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -235,7 +219,6 @@ Qg5+ 22. Kh1 Qh4+ 23. Kg2 Qg5+ 24. Kh1 Qh4+ 25. Kg2 1/2-1/2
 
 [Event "5th Norway Chess 2017"]
 [Site "Stavanger NOR"]
-[Date "2017.06.10"]
 [Round "4.1"]
 [White "Caruana, F."]
 [Black "Kramnik, V."]
@@ -244,7 +227,6 @@ Qg5+ 22. Kh1 Qh4+ 23. Kg2 Qg5+ 24. Kh1 Qh4+ 25. Kg2 1/2-1/2
 [WhiteElo "2808"]
 [BlackElo "2808"]
 [PlyCount "105"]
-[EventDate "2017.06.06"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -263,7 +245,6 @@ Ke3 1/2-1/2
 
 [Event "5th Norway Chess 2017"]
 [Site "Stavanger NOR"]
-[Date "2017.06.07"]
 [Round "2.4"]
 [White "Caruana, F."]
 [Black "Carlsen, M."]
@@ -272,7 +253,6 @@ Ke3 1/2-1/2
 [WhiteElo "2808"]
 [BlackElo "2832"]
 [PlyCount "84"]
-[EventDate "2017.06.06"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -289,7 +269,6 @@ Kg8 34. Qe8+ Kh7 35. Qe3 c6 36. h4 Kg6 37. Qe8+ Kh7 38. h5 Qxd4 39. Qg6+ Kg8
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.25"]
 [Round "12.4"]
 [White "Caruana, F."]
 [Black "Vachier Lagrave, M."]
@@ -298,7 +277,6 @@ Kg8 34. Qe8+ Kh7 35. Qe3 c6 36. h4 Kg6 37. Qe8+ Kh7 38. h5 Qxd4 39. Qg6+ Kg8
 [WhiteElo "2808"]
 [BlackElo "2796"]
 [PlyCount "85"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -315,7 +293,6 @@ Rd2 Qc1+ 28. Kh2 Qa1 29. b4 Qe5+ 30. g3 Rc8 31. Rd4 f5 32. Rd5 Qf6 33. c5 bxc5
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.24"]
 [Round "7.4"]
 [White "Caruana, F."]
 [Black "Bacrot, E."]
@@ -324,7 +301,6 @@ Rd2 Qc1+ 28. Kh2 Qa1 29. b4 Qe5+ 30. g3 Rc8 31. Rd4 f5 32. Rd5 Qf6 33. c5 bxc5
 [WhiteElo "2808"]
 [BlackElo "2708"]
 [PlyCount "91"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -342,7 +318,6 @@ c4 Nb4 22. Ng4 Qd7 23. Bd6 a5 24. Bxb4 axb4 25. c5+ Kh8 26. Qg3 Be4 27. Ne3 g5
 
 [Event "GCT Rapid Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.23"]
 [Round "8.5"]
 [White "Caruana, F."]
 [Black "Carlsen, M."]
@@ -351,7 +326,6 @@ c4 Nb4 22. Ng4 Qd7 23. Bd6 a5 24. Bxb4 axb4 25. c5+ Kh8 26. Qg3 Be4 27. Ne3 g5
 [WhiteElo "2808"]
 [BlackElo "2832"]
 [PlyCount "158"]
-[EventDate "2017.06.21"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -374,7 +348,6 @@ g7 Rxg7+ 79. Kxg7 Kxe3 1/2-1/2
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.09"]
 [Round "3.1"]
 [White "Caruana, F."]
 [Black "Najer, E."]
@@ -383,7 +356,6 @@ g7 Rxg7+ 79. Kxg7 Kxe3 1/2-1/2
 [WhiteElo "2799"]
 [BlackElo "2694"]
 [PlyCount "35"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -395,7 +367,6 @@ Ne2 Rad8 16. Nf4 Kh8 17. Re1 Qc6 18. Qe2 1/2-1/2
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.08"]
 [Round "2.4"]
 [White "Caruana, F."]
 [Black "Lenic, L."]
@@ -404,7 +375,6 @@ Ne2 Rad8 16. Nf4 Kh8 17. Re1 Qc6 18. Qe2 1/2-1/2
 [WhiteElo "2799"]
 [BlackElo "2646"]
 [PlyCount "132"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -424,7 +394,6 @@ Qxf3+ 66. Kxf3 Kf7 1/2-1/2
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.07"]
 [Round "2.2"]
 [White "Caruana, F."]
 [Black "Lenic, L."]
@@ -433,7 +402,6 @@ Qxf3+ 66. Kxf3 Kf7 1/2-1/2
 [WhiteElo "2799"]
 [BlackElo "2646"]
 [PlyCount "69"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -448,7 +416,6 @@ Qe7 35. Rd1 1/2-1/2
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.23"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -457,7 +424,6 @@ Qe7 35. Rd1 1/2-1/2
 [WhiteElo "2802"]
 [BlackElo "2786"]
 [PlyCount "190"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -481,7 +447,6 @@ Kf1 Ke4 92. Kf2 Kf4 93. Kf1 Ke3 94. Ke1 f2+ 95. Kf1 Kf3 1/2-1/2
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.25"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -490,7 +455,6 @@ Kf1 Ke4 92. Kf2 Kf4 93. Kf1 Ke3 94. Ke1 f2+ 95. Kf1 Kf3 1/2-1/2
 [WhiteElo "2802"]
 [BlackElo "2786"]
 [PlyCount "39"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -503,7 +467,6 @@ Qg4+ 15. Kh1 Qf3+ 16. Kg1 Qg4+ 17. Kh1 Qf3+ 18. Kg1 Qg4+ 19. Kh1 Qf3+ 20. Kg1
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.3"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -512,7 +475,6 @@ Qg4+ 15. Kh1 Qf3+ 16. Kg1 Qg4+ 17. Kh1 Qf3+ 18. Kg1 Qg4+ 19. Kh1 Qf3+ 20. Kg1
 [WhiteElo "2802"]
 [BlackElo "2786"]
 [PlyCount "95"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -529,7 +491,6 @@ Be5 48. Be3 1/2-1/2
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.5"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -538,7 +499,6 @@ Be5 48. Be3 1/2-1/2
 [WhiteElo "2802"]
 [BlackElo "2786"]
 [PlyCount "105"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -556,7 +516,6 @@ Bc8 35. Rxe7 Qxe7 36. Nh5 Kf7 37. Nf6 Ra8 38. Nxe4 Nf3+ 39. Kh1 Ra2 40. Qc3 Ba6
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.15"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -565,7 +524,6 @@ Bc8 35. Rxe7 Qxe7 36. Nh5 Kf7 37. Nf6 Ra8 38. Nxe4 Nf3+ 39. Kh1 Ra2 40. Qc3 Ba6
 [WhiteElo "2802"]
 [BlackElo "2786"]
 [PlyCount "213"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -591,7 +549,6 @@ e3+ 105. Kxf3 e2 106. Ba6+ Kc3 107. Bxe2 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "4.2"]
 [White "Caruana, Fabiano"]
 [Black "Dominguez Perez, Leinier"]
@@ -599,7 +556,6 @@ e3+ 105. Kxf3 e2 106. Ba6+ Kc3 107. Bxe2 1/2-1/2
 [WhiteElo "2807"]
 [BlackElo "2739"]
 [ECO "A14"]
-[EventDate "2017.08.17"]
 
 1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c5 7. e3 Nc6 8. 
 Bb2 b6 9. cxd5 Nxd5 10. d4 Ba6 11. Re1 Ndb4 12. Bc3 Nd3 13. Re2 cxd4 14. 
@@ -609,7 +565,6 @@ Nxd4 Nxd4 15. exd4 Rc8 16. Re3 Nb4 17. Bxb4 Bxb4 18. a3 Bc5 19. Re4 f5 20.
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.24"]
 [Round "1.11"]
 [White "Caruana, Fabiano"]
 [Black "Hou, Yifan"]
@@ -617,7 +572,6 @@ Nxd4 Nxd4 15. exd4 Rc8 16. Re3 Nb4 17. Bxb4 Bxb4 18. a3 Bc5 19. Re4 f5 20.
 [WhiteElo "2802"]
 [BlackElo "2652"]
 [ECO "B23"]
-[EventDate "2017.05.03"]
 
 1. e4 c5 2. Nc3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qf4 Nh5 7. Qe4 d6 
 8. Bb5 dxe5 9. Nf3 Bd7 10. Bg5 h6 11. Bh4 Nf6 12. Bxf6 exf6 13. O-O-O Be7 
@@ -631,7 +585,6 @@ axb5 Rxe3 44. Rxe3+ Kxe3 45. c4 Kd4 46. Kb4 Rf1 0-1
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "12.3"]
 [White "Caruana, Fabiano"]
 [Black "Kasparov, Garry"]
@@ -639,7 +592,6 @@ axb5 Rxe3 44. Rxe3+ Kxe3 45. c4 Kd4 46. Kb4 Rf1 0-1
 [WhiteElo "2807"]
 [BlackElo "2812"]
 [ECO "B23"]
-[EventDate "2017.08.17"]
 
 1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 g6 5. Bg2 Nc6 6. d3 Bg7 7. O-O O-O 8.
  a3 Rb8 9. Rb1 b6 10. b4 Bb7 11. h3 Nd7 12. Be3 Re8 13. Qd2 Ba8 14. f4 Rc8
@@ -656,7 +608,6 @@ Ra7 Rf5 57. Rxf5 gxf5 58. Kg2 Ne3+ 59. Kf3 Nxf1 60. Nc5 Re1 61. Kg2 Ne3+
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "17.3"]
 [White "Caruana, Fabiano"]
 [Black "Aronian, Levon"]
@@ -664,7 +615,6 @@ Ra7 Rf5 57. Rxf5 gxf5 58. Kg2 Ne3+ 59. Kf3 Nxf1 60. Nc5 Re1 61. Kg2 Ne3+
 [WhiteElo "2807"]
 [BlackElo "2799"]
 [ECO "A14"]
-[EventDate "2017.08.17"]
 
 1. Nf3 d5 2. c4 e6 3. b3 c5 4. g3 Nf6 5. Bg2 Be7 6. O-O O-O 7. e3 Nc6 8. 
 Bb2 b6 9. Nc3 dxc4 10. bxc4 Bb7 11. Qe2 Qc7 12. Rac1 Rfd8 13. Rfd1 Na5 14.

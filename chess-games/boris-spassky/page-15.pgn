@@ -1,6 +1,5 @@
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Andersson Ulf (SWE)"]
@@ -19,7 +18,6 @@ Nxc3 14.bxc3 Bxa6 15.Qxa6 c5 16.a4 Rfe8 17.a5 Qd8 18.h3 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -40,7 +38,6 @@ Re8 25.Ke2 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Miles Anthony J (ENG)"]
@@ -62,7 +59,6 @@ Rf7 26.Rd4 Qh3 27.Rd8 Rh4 28.Ba3 Rxg4 29.Rxg4 fxg4 30.Kg1 Qh5
 
 [Event "Bundesliga 1983/84"]
 [Site "Germany"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cordes Hans-Joerg Dr (GER)"]
@@ -83,7 +79,6 @@ Qf5 25.Rf1 Rxb7 26.Qxb7 g5 27.Qg2 Rc8 28.Bg3 Qd3 29.Qf2 1-0
 
 [Event "Bundesliga 1983/84"]
 [Site "Germany"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Robatsch Karl (AUT)"]
@@ -106,7 +101,6 @@ Qd7 37.Rxh7 Nxh7 38.Rg6+ Kh8 39.Rh6 e6 40.g6 1-0
 
 [Event "Bundesliga 1984/85"]
 [Site "Germany"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bartsch Berthold (GER)"]
@@ -134,7 +128,6 @@ Rc1+ 66.Kd5 Ra1 67.Rh7+ 1-0
 
 [Event "It (open) \"Lloyds Bank\""]
 [Site "London (England)"]
-[Date "1984.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "De Firmian Nick E (USA)"]
@@ -162,7 +155,6 @@ Ra8 60.a4 Rb8+ 61.Kc5 Rc8+ 62.Kb5 Rb8+ 63.Ka6 Rc8 64.Ra2 Ke6
 
 [Event "It (open) \"Lloyds Bank\""]
 [Site "London (England)"]
-[Date "1984.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hawksworth John C (ENG)"]
@@ -187,7 +179,6 @@ Na4 47.f4 1-0
 
 [Event "It (open) \"Lloyds Bank\""]
 [Site "London (England)"]
-[Date "1984.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zueger Beat (SUI)"]
@@ -209,7 +200,6 @@ Nc4 25.Qd4 Nxd6 26.cxd6 Qa6 27.Rd1 Rab8 28.f4 Rb2 29.Qa4 Qb6
 
 [Event "Ch Switzerland"]
 [Site "Zurich (Switzerland)"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Seirawan Yasser (USA)"]
@@ -229,7 +219,6 @@ e6 14.O-O-O Nd7 15.h4 dxe5 16.dxe5 Qe7 17.Rxd7 Bxd7 18.h5 f5
 
 [Event "It (open)"]
 [Site "Zurich (Switzerland)"]
-[Date "1984.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Dueckstein Andreas (AUT)"]
@@ -252,7 +241,6 @@ Bc6 0-1
 
 [Event "It (cat.14)"]
 [Site "Linares (Spain)"]
-[Date "1985.??.??"]
 [Round "22"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -272,7 +260,6 @@ Re8 8.Nd3 Bxc3 9.dxc3 Nxe4 10.Qf3 Qf6 11.Qxf6 Nxf6 12.Bf4 Bf5
 
 [Event "It (cat.14)"]
 [Site "Linares (Spain)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -290,7 +277,6 @@ c5 8.O-O O-O 9.c3 cxd4 10.exd4 d6 11.Re1 Nbd7 12.a4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Linares (Spain)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Rivas Pastor Manuel (ESP)"]
@@ -308,7 +294,6 @@ c5 8.O-O O-O 9.c3 cxd4 10.exd4 d6 11.Re1 Nbd7 12.a4 1/2-1/2
 
 [Event "Ch World (team)"]
 [Site "Lucerne (Switzerland)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -326,7 +311,6 @@ b5 8.a3 e6 9.Be3 Nge7 10.b4 cxb4 11.axb4 a6 12.Rb1 O-O 13.Qd2 1/2-1/2
 
 [Event "Ch World (team)"]
 [Site "Lucerne (Switzerland)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Miles Anthony J (ENG)"]
@@ -344,7 +328,6 @@ b5 8.a3 e6 9.Be3 Nge7 10.b4 cxb4 11.axb4 a6 12.Rb1 O-O 13.Qd2 1/2-1/2
 
 [Event "Ch World (team)"]
 [Site "Lucerne (Switzerland)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -363,7 +346,6 @@ Rc8 14.a4 Nc6 15.axb5 axb5 16.Bxb5 Nxb4 17.Rfb1 1/2-1/2
 
 [Event "Ch World (team)"]
 [Site "Lucerne (Switzerland)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Suba Mihai (ROM)"]
@@ -381,7 +363,6 @@ Bb7 8.O-O Nbd7 9.c3 Nh5 1/2-1/2
 
 [Event "Tournament (cand.) (cat.14)"]
 [Site "Montpellier (France)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -407,7 +388,6 @@ Rxc5 47.Re7 Kd6 48.Re8 Rg5+ 49.Kf4 Rg7 50.f3 Rf7+ 51.Ke4 Rf6
 
 [Event "Tournament (cand.) (cat.14)"]
 [Site "Montpellier (France)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -426,7 +406,6 @@ dxc3 14.Bxc3 Bxc3 15.bxc3 O-O 1/2-1/2
 
 [Event "Tournament (cand.) (cat.14)"]
 [Site "Montpellier (France)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -445,7 +424,6 @@ exf3 14.exf3 e5 15.c3 Qc7 16.dxe5 1/2-1/2
 
 [Event "It"]
 [Site "Reykjavik (Iceland)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Olafsson Helgi (ISL)"]
@@ -465,7 +443,6 @@ Bc6 14.Rf2 f5 15.Nd5 Qxd2 16.Nxe7+ Rxe7 17.Rxd2 Rfe8 18.c3 Nb3
 
 [Event "It"]
 [Site "Reykjavik (Iceland)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -486,7 +463,6 @@ Nxe6 26.Nc4 f6 27.b3 Bf8 28.h4 Kf7 29.g3 Qd8 1/2-1/2
 
 [Event "Tournament (cand.) (cat.14)"]
 [Site "Montpellier (France)"]
-[Date "1985.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -494,7 +470,6 @@ Nxe6 26.Nc4 f6 27.b3 Bf8 28.h4 Kf7 29.g3 Qd8 1/2-1/2
 [ECO "B80"]
 [WhiteElo "2590"]
 [PlyCount "41"]
-[EventDate "1985.??.??"]
 
 1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. d4 cxd4 5. Nxd4 d6 6. g3 Nf6 7. Bg2 Bd7 8.
 O-O Be7 9. Be3 O-O 10. Qe2 a6 11. a4 Qc7 12. f4 Nxd4 13. Bxd4 e5 14. Be3 Be6
@@ -504,7 +479,6 @@ O-O Be7 9. Be3 O-O 10. Qe2 a6 11. a4 Qc7 12. f4 Nxd4 13. Bxd4 e5 14. Be3 Be6
 
 [Event "?"]
 [Site "?"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Plesset Kiven (USA)"]
@@ -513,7 +487,6 @@ O-O Be7 9. Be3 O-O 10. Qe2 a6 11. a4 Qc7 12. f4 Nxd4 13. Bxd4 e5 14. Be3 Be6
 [WhiteElo "2590"]
 [BlackElo "2145"]
 [PlyCount "85"]
-[EventDate "1984.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
 Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 dxc3 11. f4 Nd7 12. Qd3 Nb6 13. Qxc3 Nc6 14. g3

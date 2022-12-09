@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Bled (Slovenia)"]
-[Date "2002.??.??"]
 [Round "10"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Cekro Ekrem (BEL)"]
@@ -22,7 +21,6 @@ exd4 14.Nxd4 c5 15.Nb3 b4 16.axb4 cxb4 17.Nd5 Bxd5 18.exd5 Ne4
 
 [Event "Olympiad"]
 [Site "Bled (Slovenia)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Johansen Darryl K (AUS)"]
@@ -44,7 +42,6 @@ Bxf6 31.exf6 Qxb5 32.Rg3 g5 33.Qh4 g4 34.Rxg4+ 1-0
 
 [Event "It (open) \"Politiken Cup\""]
 [Site "Copenhagen (Denmark)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Collins Sam E (IRL)"]
@@ -69,7 +66,6 @@ Bh5 47.Qxh5+ 1-0
 
 [Event "It (open) \"Politiken Cup\""]
 [Site "Copenhagen (Denmark)"]
-[Date "2002.??.??"]
 [Round "10"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Mortensen Erling (DEN)"]
@@ -91,7 +87,6 @@ Kh7 31.Rd7 1-0
 
 [Event "It (open) \"Politiken Cup\""]
 [Site "Copenhagen (Denmark)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Rasmussen Allan Stig (DEN)"]
@@ -112,7 +107,6 @@ Be7 20.Qh3 Qd5 21.Rad1 Kc7 22.Bf1 Rhg8 23.Bxf6 Qxd1 24.Rxd1 Rxd1
 
 [Event "Cup North Sea (cat.14)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Galliamova Alisa (RUS)"]
@@ -139,7 +133,6 @@ d4 59.Qg3+ Ke6 60.Qg8 d3 61.Rf4+ Ke5 62.Rxe4+ Kxe4 63.Qg4+ 1-0
 
 [Event "Cup North Sea (cat.14)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Glek Igor V (GER)"]
@@ -164,7 +157,6 @@ Ke4 49.h7 Rb2+ 50.Kc3 Rc2+ 51.Kb3 Rc8 1-0
 
 [Event "Cup North Sea (cat.14)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Stefansson Hannes (ISL)"]
@@ -186,7 +178,6 @@ Qb5+ 30.Qd3 Qxd3+ 31.Rxd3 Nf6 32.Bf3 1-0
 
 [Event "Memorial J.Capablanca (a) (cat.13)"]
 [Site "Habana (Cuba)"]
-[Date "2002.??.??"]
 [Round "9"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Stefansson Hannes (ISL)"]
@@ -206,7 +197,6 @@ Bg5 20.Qb3 b5 21.f6 h6 22.Ne7+ Kh7 23.Qg3 1-0
 
 [Event "Ch Cuba"]
 [Site "Holguin (Cuba)"]
-[Date "2002.??.??"]
 [Round "16"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Abreu Aryam (CUB)"]
@@ -228,7 +218,6 @@ Rec8 25.Qa5 Qe7 26.Bc4 Rc5 27.Qc3 Rh5 28.Qd4 Rf8 29.Rfe1 Qa3
 
 [Event "Ch Cuba"]
 [Site "Holguin (Cuba)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Gomez Felix (CUB)"]
@@ -251,7 +240,6 @@ Bxc6 36.Qf5+ 1-0
 
 [Event "Ch Pan-American Continental"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Charbonneau Pascal (CAN)"]
@@ -271,7 +259,6 @@ fxg6 20.Be2 Ne5 21.Qh6 Ne8 22.Rf1 Bg7 23.Rxf8+ Bxf8 24.Qg5 1/2-1/2
 
 [Event "Ch Pan-American Continental"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Goldin Alexander (USA)"]
@@ -290,7 +277,6 @@ Bb6 14.b3 O-O 15.Re1 Rfe8 16.Qd1 1/2-1/2
 
 [Event "Ch Pan-American Continental"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Kudrin Sergey (USA)"]
@@ -322,7 +308,6 @@ Qd6+ 89.Ka7 Qd4+ 1/2-1/2
 
 [Event "Cup North Sea (cat.15)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Dreev Alexey (RUS)"]
@@ -347,7 +332,6 @@ Nxd5 48.Ra1 Nb6 49.Be3 Nd5 50.Bd2 Nb6 51.Be3 1/2-1/2
 
 [Event "Cup North Sea (cat.15)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Hansen Curt (DEN)"]
@@ -368,7 +352,6 @@ e5 19.Rhg1 Bb7 20.Bf6 Nxf6 21.gxf6 Bxf6 22.Rg8+ Ke7 23.Rdg1 Rxg8
 
 [Event "Cup North Sea (cat.15)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Krasenkow Michal (POL)"]
@@ -393,7 +376,6 @@ Qf7 42.Qh4 Ke7 43.Re4+ Kd7 44.Qf2 Qg6 45.Qa7+ Kd8 46.Qb8+ Kd7
 
 [Event "Cup North Sea (cat.15)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Dominguez Lenier (CUB)"]
 [Black "McShane Luke J (ENG)"]
@@ -412,7 +394,6 @@ d5 8.d4 dxe4 9.Nbd2 exf3 10.Qxf3 Be7 11.Qxc6+ Bd7 12.Qf3 exd4
 
 [Event "Cup North Sea (cat.15)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Schandorff Lars (DEN)"]
@@ -435,7 +416,6 @@ b4 20.fxe4 bxa3 21.exf5 Rxb2 22.f6 Ng6 23.fxg7 Kxg7 24.Bd3 Qxc3
 
 [Event "Zt (cat.8)"]
 [Site "Guayaquil (Ecuador)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Estrada Nieto Julian (MEX)"]
@@ -455,7 +435,6 @@ Nxc4 20.Nxc4 bxc4 21.Ba3 Nh5 22.dxe5 dxe5 23.Bd6 Qa7 24.Bxe5 1/2-1/2
 
 [Event "Zt (cat.8)"]
 [Site "Guayaquil (Ecuador)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Garcia Gildardo (COL)"]
@@ -483,7 +462,6 @@ Kh7 59.Ra7 Kg8 60.Ra8+ Kg7 61.Ra7 g5+ 62.Ke4 Kg6 63.Ra6+ Kg7
 
 [Event "Zt (cat.8)"]
 [Site "Guayaquil (Ecuador)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Ramirez Alejandro (CRC)"]
@@ -504,7 +482,6 @@ Qb6 25.Kh1 d5 26.Nxd5 1/2-1/2
 
 [Event "Memorial J.Capablanca (a) (cat.13)"]
 [Site "Habana (Cuba)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -524,7 +501,6 @@ Rab8 20.Bb1 Bd8 21.dxe5 Nxe5 22.Nxe5 dxe5 23.Bc5 Rc8 24.Bd3 1/2-1/2
 
 [Event "Memorial J.Capablanca (a) (cat.13)"]
 [Site "Habana (Cuba)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Granda Zuniga Julio E (PER)"]
@@ -552,7 +528,6 @@ Rd6 64.Qb4+ Rb6 65.Qd4 Rd6 66.Qb4+ Rb6 67.Qf8 Qd7 68.Qc5 1/2-1/2
 
 [Event "2. American Continental"]
 [Site "Buenos Aires ARG"]
-[Date "2003.08.21"]
 [Round "4"]
 [White "Dominguez, L."]
 [Black "Milos, Gilberto"]
@@ -560,7 +535,6 @@ Rd6 64.Qb4+ Rb6 65.Qd4 Rd6 66.Qb4+ Rb6 67.Qf8 Qd7 68.Qc5 1/2-1/2
 [WhiteElo "2610"]
 [BlackElo "2592"]
 [ECO "B19"]
-[EventDate "2003.08.17"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 
 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Qc7 13. O-O-O Ngf6 

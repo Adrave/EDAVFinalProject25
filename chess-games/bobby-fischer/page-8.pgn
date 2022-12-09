@@ -1,6 +1,5 @@
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "12"]
 [White "Fischer Robert J (USA)"]
 [Black "Bilek Istvan (HUN)"]
@@ -23,7 +22,6 @@ Rxh7 37.Qd7+ Re7 38.Qxf5+ Ke8 39.f4 Kd8 40.e6 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Johannessen Svein (NOR)"]
@@ -45,7 +43,6 @@ Qc6 31.Re6 Qc8 32.h4 g6 33.Re7 Rxe7 34.Qxe7 Rf7 35.Rd8+ Kg7 36.Ne6+ 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Minev Nikolay N (USA)"]
@@ -67,7 +64,6 @@ Nxf6 25.Bxc6 Rac8 26.b5 axb5 27.axb5 Rg5 28.d5 Qc5 29.dxe6 Rxc6
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "3"]
 [White "Fischer Robert J (USA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -90,7 +86,6 @@ Bf3 36.Ng6 Be4 37.Ne5+ 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -112,7 +107,6 @@ f4 14.e5 Bxe5 15.Bxc5 Bxc3 16.bxc3 Ng6 17.Nc6 Be6 18.cxb5 axb5
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Spassky Boris V (FRA)"]
@@ -138,7 +132,6 @@ Ra1 48.Kg3 Kf6 49.Kg4 Rc3 50.Bd5 Raa3 51.h4 gxh4 52.Kxh4 Ra1
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1966.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Addison Wiliam G (USA)"]
@@ -160,7 +153,6 @@ h5 25.h3 Rdb8 26.Rxb8+ Rxb8 27.Rxa4 Bxc2 28.Rc4 Rb1+ 29.Kf2 Rb2
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1966.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Byrne Robert E (USA)"]
@@ -182,7 +174,6 @@ Rad8 25.Rad1 Rxd1 26.Rxd1 Rg5 27.Re1 h6 28.Ra1 Ng4 29.Bf3 Ne3
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1966.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -206,7 +197,6 @@ Qe4 36.Qh5+ Kg7 37.Rd2 Qe7 38.Qh3 Kg8 39.Qf3 Rf7 40.Qa8+ Kg7
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1966.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Saidy Anthony F (USA)"]
@@ -229,7 +219,6 @@ Nxh5 26.Rxh5 exd4 27.Bxd4 Bb7 28.Rh6 Kf7 29.Qe2 Be4 30.Qh5 Rg8
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1966.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "Zuckerman Bernard (USA)"]
@@ -252,7 +241,6 @@ a4 31.Qxd5 Qxd5 32.Rxd5 Be6 33.Rb5 axb3 34.axb3 Rc6 35.Rd2 Bf6
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -274,7 +262,6 @@ Rxc2 31.Bxf5 Rc1 32.Qxc1 Bxc1 33.Kf1 h6 34.Ke2 Kf8 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -295,7 +282,6 @@ Nd5 20.f5 Re8 21.fxg6 fxg6 22.Nxg6 Qd7 23.Nf4 Rad8 24.Nh5 Kh8
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Larsen Bent (DEN)"]
@@ -316,7 +302,6 @@ Nxf5 20.Bd2 Qh4 21.Qf1 Nc5 22.g3 Qc4 23.Qg2 Nd3 24.Bxd3 Qxd3
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Najdorf Miguel (POL)"]
@@ -340,7 +325,6 @@ Kd5 37.d7 a4 38.Nb6+ Rxb6 39.Rc8 Rd6 40.Rxa8 Rxd7 41.Rxa4 e5
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -363,7 +347,6 @@ Bd6 30.Re4 Rf8 31.Rxf8 Bxf8 32.Kf2 Bd6 33.Re2 Rf5+ 34.Ke3 a5
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -392,7 +375,6 @@ Kg7 70.Nf5+ Kf8 71.Nxg3 Rxg3 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -415,7 +397,6 @@ Rb4 36.Qf3 Kh6 37.g3 Qxh3 38.Qxd5 1-0
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Spassky Boris V (FRA)"]
@@ -437,7 +418,6 @@ Bf3 25.Bc2 Nd6 26.b3 Kf8 27.a4 Ne4 28.Bxe4 Bxe4 29.axb5 axb5
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -464,7 +444,6 @@ Kd7 60.Bf3 Bf7 61.Ke2 Ba7 62.Ba8 Bc4+ 63.Ke1 Be6 1/2-1/2
 
 [Event "Blitz"]
 [Site "USA"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Larsen Bent (DEN)"]
@@ -484,14 +463,12 @@ Ke8 19.Nb5 1-0
 
 [Event "Second Piatigorsky Cup"]
 [Site "Santa Monica, CA USA"]
-[Date "1966.07.21"]
 [Round "4"]
 [White "Robert James Fischer"]
 [Black "Jan Hein Donner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "1966.07.17"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -506,14 +483,12 @@ Ke8 19.Nb5 1-0
 
 [Event "Second Piatigorsky Cup"]
 [Site "Santa Monica, CA USA"]
-[Date "1966.07.19"]
 [Round "2"]
 [White "Robert James Fischer"]
 [Black "Lajos Portisch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C95"]
-[EventDate "1966.07.17"]
 [PlyCount "142"]
 [WhiteElo "?"]
 
@@ -534,14 +509,12 @@ Ke8 19.Nb5 1-0
 
 [Event "Second Piatigorsky Cup"]
 [Site "Santa Monica, CA USA"]
-[Date "1966.08.08"]
 [Round "14"]
 [White "Robert James Fischer"]
 [Black "Wolfgang Unzicker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C83"]
-[EventDate "1966.07.17"]
 [PlyCount "126"]
 [WhiteElo "?"]
 
@@ -561,14 +534,12 @@ Ke8 19.Nb5 1-0
 
 [Event "Havana ol (Men) fin-A"]
 [Site "Havana CUB"]
-[Date "1966.11.18"]
 [Round "13"]
 [White "Robert James Fischer"]
 [Black "Eleazar Jimenez Zerquera"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C69"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

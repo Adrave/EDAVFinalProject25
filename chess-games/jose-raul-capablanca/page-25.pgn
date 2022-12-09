@@ -1,13 +1,11 @@
 [Event "Simul, 20b"]
 [Site "Winnipeg CAN"]
-[Date "1912.05.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Robert John Spencer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Simul, 26b"]
 [Site "New York, NY USA"]
-[Date "1911.12.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Randolph"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Simul, 14b"]
 [Site "Louisville, KY USA"]
-[Date "1912.06.03"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Simul, 13b"]
 [Site "Havana CUB"]
-[Date "1912.09.28"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Ramon Pardo Santa Marina"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C48"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -88,14 +80,12 @@
 
 [Event "Simul, 23b"]
 [Site "Brooklyn Academy of Music, New York USA"]
-[Date "1912.11.23"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Harry Zirn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -108,14 +98,12 @@
 
 [Event "Exhibition game"]
 [Site "Brownsville CC, New York, NY USA"]
-[Date "1912.10.21"]
 [Round "1"]
 [White "Jose Raul Capablanca"]
 [Black "Oscar Chajes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -133,14 +121,12 @@
 
 [Event "Exhibition match"]
 [Site "Tapkaow Club, Morristown, NJ USA"]
-[Date "1912.10.23"]
 [Round "2"]
 [White "Jose Raul Capablanca"]
 [Black "Charles Jaffe"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -158,14 +144,12 @@
 
 [Event "Clock simul, 3b"]
 [Site "Havana CUB"]
-[Date "1913.09.07"]
 [Round "1"]
 [White "Jose Raul Capablanca"]
 [Black "Rene Portela"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A03"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -182,14 +166,12 @@
 
 [Event "Clock simul, 3b"]
 [Site "Havana CUB"]
-[Date "1913.09.07"]
 [Round "1"]
 [White "Jose Raul Capablanca"]
 [Black "Rafael Blanco Estera"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -208,14 +190,12 @@
 
 [Event "Clock simul, 3b"]
 [Site "Havana CUB"]
-[Date "1913.09.09"]
 [Round "3"]
 [White "Jose Raul Capablanca"]
 [Black "Rene Portela"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -233,14 +213,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Frederick Samson Dunkelsbuhler"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -252,14 +230,12 @@
 
 [Event "Clock simul, 3b"]
 [Site "Havana CUB"]
-[Date "1913.09.09"]
 [Round "3"]
 [White "Jose Raul Capablanca"]
 [Black "Rafael Blanco Estera"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -275,14 +251,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Reginald Pryce Michell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -298,14 +272,12 @@
 
 [Event "Clock simul, 3b"]
 [Site "Havana CUB"]
-[Date "1913.09.09"]
 [Round "3"]
 [White "Jose Raul Capablanca"]
 [Black "Juan Corzo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C88"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -321,14 +293,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Arthur Hermann Privonitz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -342,14 +312,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "John Herbert White"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -366,14 +334,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A Dolci"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -388,14 +354,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edwin Joseph Brooks"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -411,14 +375,12 @@
 
 [Event "Simul, 7b"]
 [Site "London ENG"]
-[Date "1913.10.17"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edward Lasker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C91"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -434,14 +396,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "J Pomerantz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C38"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -456,14 +416,12 @@
 
 [Event "Exhibition game"]
 [Site "Berlin GER"]
-[Date "1913.11.20"]
 [Round "2"]
 [White "Jose Raul Capablanca"]
 [Black "Richard Teichmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -478,14 +436,12 @@
 
 [Event "Exhibition game"]
 [Site "Paris FRA"]
-[Date "1913.10.24"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Arnold Aurbach"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -503,14 +459,12 @@
 
 [Event "Simul"]
 [Site "St. Petersburg RUE"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Boris Nikolayevich Bashkirov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -522,14 +476,12 @@
 
 [Event "Exhibition Game"]
 [Site "Berlin GER"]
-[Date "1913.11.17"]
 [Round "1"]
 [White "Jose Raul Capablanca"]
 [Black "Jacques Mieses"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A43"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -542,14 +494,12 @@
 
 [Event "Simul, 30b"]
 [Site "Kiev RUE"]
-[Date "1914.03.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Masyutin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A83"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 

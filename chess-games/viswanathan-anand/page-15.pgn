@@ -1,6 +1,5 @@
 [Event "29th Leon GM 2016"]
 [Site "Leon ESP"]
-[Date "2016.06.10"]
 [Round "1.4"]
 [White "Anand, V."]
 [Black "Anton Guijarro, D."]
@@ -9,7 +8,6 @@
 [WhiteElo "2770"]
 [BlackElo "2627"]
 [PlyCount "135"]
-[EventDate "2016.06.10"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ESP"]
@@ -31,7 +29,6 @@ Bb5 Ra3+ 67. Kf2 Ra2+ 68. Ke1 1-0
 
 [Event "29th Leon GM 2016"]
 [Site "Leon ESP"]
-[Date "2016.06.10"]
 [Round "1.2"]
 [White "Anand, V."]
 [Black "Anton Guijarro, D."]
@@ -40,7 +37,6 @@ Bb5 Ra3+ 67. Kf2 Ra2+ 68. Ke1 1-0
 [WhiteElo "2770"]
 [BlackElo "2627"]
 [PlyCount "101"]
-[EventDate "2016.06.10"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ESP"]
@@ -59,7 +55,6 @@ Qg6+ Kf8 42. Bxg3 Ne3+ 43. Kh3 Qf5+ 44. Qxf5+ Nxf5 45. Rh8+ Kf7 46. Bh5+ Ke6
 
 [Event "29th Leon GM 2016"]
 [Site "Leon ESP"]
-[Date "2016.06.12"]
 [Round "2.1"]
 [White "Anand, V."]
 [Black "Wei Yi"]
@@ -68,7 +63,6 @@ Qg6+ Kf8 42. Bxg3 Ne3+ 43. Kh3 Qf5+ 44. Qxf5+ Nxf5 45. Rh8+ Kf7 46. Bh5+ Ke6
 [WhiteElo "2770"]
 [BlackElo "2694"]
 [PlyCount "99"]
-[EventDate "2016.06.10"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ESP"]
@@ -87,7 +81,6 @@ Qxb6 48. Qd5 Ne6 49. Nxe6 fxe6 50. Qd7+ 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2016.06.20"]
 [Round "14.1"]
 [White "Anand, V."]
 [Black "Vachier Lagrave, M."]
@@ -96,7 +89,6 @@ Qxb6 48. Qd5 Ne6 49. Nxe6 fxe6 50. Qd7+ 1-0
 [WhiteElo "2770"]
 [BlackElo "2789"]
 [PlyCount "101"]
-[EventDate "2016.06.19"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -116,7 +108,6 @@ Kxf6 47. Bxe4 b4 48. cxb4 Ke5 49. Bf3 Kd4 50. b5 Kc5 51. Bc6 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2016.06.20"]
 [Round "10.1"]
 [White "Anand, V."]
 [Black "Topalov, V."]
@@ -125,7 +116,6 @@ Kxf6 47. Bxe4 b4 48. cxb4 Ke5 49. Bf3 Kd4 50. b5 Kc5 51. Bc6 1-0
 [WhiteElo "2770"]
 [BlackElo "2761"]
 [PlyCount "67"]
-[EventDate "2016.06.19"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -143,7 +133,6 @@ Bxf1 Bf7 29. a6 bxa6 30. bxa6 Rd8 31. Nd7 fxe4 32. a7 e3 33. a8=Q exf2+ 34. Kh1
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2016.06.18"]
 [Round "6.1"]
 [White "Anand, V."]
 [Black "Giri, A."]
@@ -152,7 +141,6 @@ Bxf1 Bf7 29. a6 bxa6 30. bxa6 Rd8 31. Nd7 fxe4 32. a7 e3 33. a8=Q exf2+ 34. Kh1
 [WhiteElo "2770"]
 [BlackElo "2782"]
 [PlyCount "51"]
-[EventDate "2016.06.17"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -168,7 +156,6 @@ Qg6 22. c4 Nf6 23. Qb2 Nf7 24. d4 e5 25. dxe5 Nh5 26. e6 1-0
 
 [Event "Gibraltar Masters 2016"]
 [Site "Caleta ENG"]
-[Date "2016.01.31"]
 [Round "6.28"]
 [White "Anand, V."]
 [Black "Fiala, Va"]
@@ -177,7 +164,6 @@ Qg6 22. c4 Nf6 23. Qb2 Nf7 24. d4 e5 25. dxe5 Nh5 26. e6 1-0
 [WhiteElo "2784"]
 [BlackElo "2217"]
 [PlyCount "63"]
-[EventDate "2016.01.26"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -193,7 +179,6 @@ a5 d5 29. Nxd5 Bxd5 30. Qxd5 Nd6 31. Rxc7 Qxc7 32. Bc5 1-0
 
 [Event "Gibraltar Masters 2016"]
 [Site "Caleta ENG"]
-[Date "2016.01.28"]
 [Round "3.22"]
 [White "Anand, V."]
 [Black "Xu, Xiangyu"]
@@ -202,7 +187,6 @@ a5 d5 29. Nxd5 Bxd5 30. Qxd5 Nd6 31. Rxc7 Qxc7 32. Bc5 1-0
 [WhiteElo "2784"]
 [BlackElo "2466"]
 [PlyCount "59"]
-[EventDate "2016.01.26"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -218,7 +202,6 @@ Nxd6 Rcd8 29. Nxf7 Rxh3 30. Nxd8 1-0
 
 [Event "FIDE Candidates 2016"]
 [Site "Moscow RUS"]
-[Date "2016.03.24"]
 [Round "11.3"]
 [White "Anand, V."]
 [Black "Karjakin, Sergey"]
@@ -227,7 +210,6 @@ Nxd6 Rcd8 29. Nxf7 Rxh3 30. Nxd8 1-0
 [WhiteElo "2762"]
 [BlackElo "2760"]
 [PlyCount "139"]
-[EventDate "2016.03.11"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -250,7 +232,6 @@ Rh7 60. Re1 Kc8 61. Kg3 Rf7 62. Re8+ Kd7 63. Ra8 Kc7 64. Kf4 Rd7 65. Bh4 Kb7
 
 [Event "FIDE Candidates 2016"]
 [Site "Moscow RUS"]
-[Date "2016.03.17"]
 [Round "6.1"]
 [White "Anand, V."]
 [Black "Svidler, P."]
@@ -259,7 +240,6 @@ Rh7 60. Re1 Kc8 61. Kg3 Rf7 62. Re8+ Kd7 63. Ra8 Kc7 64. Kf4 Rd7 65. Bh4 Kb7
 [WhiteElo "2762"]
 [BlackElo "2757"]
 [PlyCount "47"]
-[EventDate "2016.03.11"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -275,7 +255,6 @@ h6 22. Qxf7+ Kh8 23. Rg4 Qa5 24. h4 1-0
 
 [Event "FIDE Candidates 2016"]
 [Site "Moscow RUS"]
-[Date "2016.03.21"]
 [Round "9.2"]
 [White "Anand, V."]
 [Black "Aronian, L."]
@@ -284,7 +263,6 @@ h6 22. Qxf7+ Kh8 23. Rg4 Qa5 24. h4 1-0
 [WhiteElo "2762"]
 [BlackElo "2786"]
 [PlyCount "131"]
-[EventDate "2016.03.11"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -307,7 +285,6 @@ Rd5+ 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "14.6"]
 [White "Anand, V."]
 [Black "Artemiev, V."]
@@ -316,7 +293,6 @@ Rd5+ 1-0
 [WhiteElo "2782"]
 [BlackElo "2691"]
 [PlyCount "83"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. dxc5 Qxc5 7. Be3 Qc7 8.
@@ -330,7 +306,6 @@ Rxg6 Kg3 40. Rxg7 f3 41. Bxf3 Kxf3 42. g5 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "10.5"]
 [White "Anand, V."]
 [Black "Ding Liren"]
@@ -339,7 +314,6 @@ Rxg6 Kg3 40. Rxg7 f3 41. Bxf3 Kxf3 42. g5 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2777"]
 [PlyCount "75"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O O-O 6. c3 d6 7. a4 a5 8. Na3
@@ -352,7 +326,6 @@ Kh1 Rgh6 35. Rf2 Rd6 36. Rfd2 Rdh6 37. Rf2 Rd6 38. Rfd2 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "18.2"]
 [White "Anand, V."]
 [Black "Karjakin, Sergey"]
@@ -361,7 +334,6 @@ Kh1 Rgh6 35. Rf2 Rd6 36. Rfd2 Rdh6 37. Rf2 Rd6 38. Rfd2 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2760"]
 [PlyCount "32"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
@@ -371,7 +343,6 @@ Kh8 15. Nxc8 Rxc8 16. d3 f5 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "18.1"]
 [White "Anand, Viswanathan"]
 [Black "Karjakin, Sergey"]
@@ -379,7 +350,6 @@ Kh8 15. Nxc8 Rxc8 16. d3 f5 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2773"]
 [ECO "C67"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Bc7 13. Nf5 d5 
@@ -391,7 +361,6 @@ Kg7 32. Qe2 Qxe2 33. Bxe2 Bc7 34. Bd3 Bd6 35. Be2 Bc7 36. Bd3 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "1.4"]
 [White "Anand, Viswanathan"]
 [Black "Nepomniachtchi, Ian"]
@@ -399,7 +368,6 @@ Kg7 32. Qe2 Qxe2 33. Bxe2 Bc7 34. Bd3 Bd6 35. Be2 Bc7 36. Bd3 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2751"]
 [ECO "B09"]
-[EventDate "2017.08.17"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. a3 O-O 6. Nf3 Bg4 7. Be2 Nc6 8. 
 d5 Nb8 9. h3 Bxf3 10. Bxf3 c6 11. Be3 Nbd7 12. O-O Rc8 13. Bd4 Nb6 14. b3 
@@ -416,7 +384,6 @@ Kg8 62. Bd5+ Kh7 63. Be4+ 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "3.2"]
 [White "Anand, Viswanathan"]
 [Black "Nakamura, Hikaru"]
@@ -424,7 +391,6 @@ Kg8 62. Bd5+ Kh7 63. Be4+ 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2792"]
 [ECO "C65"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Qe7 7. Nbd2 
 Bg4 8. h3 Bh5 9. a3 a5 10. Nc4 Nd7 11. g4 Bg6 12. b4 axb4 13. Bg5 f6 14. 
@@ -435,7 +401,6 @@ Nf3 Nd7 27. Ng5 Nf6 28. Nf3 Nd7 29. Ng5 Nf6 30. Nf3 Nd7 1/2-1/2
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.10"]
 [Round "8.1"]
 [White "Anand, Viswanathan"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -443,7 +408,6 @@ Nf3 Nd7 27. Ng5 Nf6 28. Nf3 Nd7 29. Ng5 Nf6 30. Nf3 Nd7 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2791"]
 [ECO "A31"]
-[EventDate "2017.08.02"]
 
 1. Nf3 c5 2. c4 Nf6 3. d4 cxd4 4. Nxd4 d5 5. cxd5 Nxd5 6. e4 Nb4 7. Bb5+ 
 Bd7 8. Bc4 N8c6 9. Nxc6 Nxc6 10. O-O e6 11. Nc3 Be7 12. Bf4 O-O 13. Qd2 
@@ -455,7 +419,6 @@ Kf1 Ke8 26. Be1 Rd8 27. Rxd8+ Bxd8 28. Ke2 Rc2+ 29. Rd2 Rxd2+ 30. Bxd2 Kd7
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.02"]
 [Round "1.4"]
 [White "Anand, Viswanathan"]
 [Black "Nakamura, Hikaru"]
@@ -463,7 +426,6 @@ Kf1 Ke8 26. Be1 Rd8 27. Rxd8+ Bxd8 28. Ke2 Rc2+ 29. Rd2 Rxd2+ 30. Bxd2 Kd7
 [WhiteElo "2783"]
 [BlackElo "2792"]
 [ECO "C65"]
-[EventDate "2017.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bg5 h6 7. Bh4 Re8 8.
  Nbd2 Be7 9. Bg3 d6 10. h3 a6 11. Ba4 b5 12. Bc2 Bb7 13. O-O Bf8 14. Nh2 
@@ -474,7 +436,6 @@ Na5 27. Bc2 Nc4 28. Bb3 Na5 29. Bc2 Nc4 30. Bb3 Na5 1/2-1/2
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.16"]
 [Round "8.4"]
 [White "Anand, Viswanathan"]
 [Black "Caruana, Fabiano"]
@@ -482,7 +443,6 @@ Na5 27. Bc2 Nc4 28. Bb3 Na5 29. Bc2 Nc4 30. Bb3 Na5 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2807"]
 [ECO "C42"]
-[EventDate "2017.08.14"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 
 8. c4 c6 9. Nc3 Nxc3 10. bxc3 dxc4 11. Bxc4 Bf5 12. Re1 Nd7 13. Bg5 Qa5 
@@ -493,7 +453,6 @@ Na5 27. Bc2 Nc4 28. Bb3 Na5 29. Bc2 Nc4 30. Bb3 Na5 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "8.5"]
 [White "Anand, Viswanathan"]
 [Black "Navara, David"]
@@ -501,7 +460,6 @@ Na5 27. Bc2 Nc4 28. Bb3 Na5 29. Bc2 Nc4 30. Bb3 Na5 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2737"]
 [ECO "B84"]
-[EventDate "2017.08.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Qc7 8.
  a4 b6 9. O-O Bb7 10. Bf3 Nbd7 11. Qe2 Be7 12. e5 dxe5 13. Bxb7 Qxb7 14. 
@@ -514,7 +472,6 @@ fxe5 Bc5 15. Be3 Nd5 16. Bf2 Nxc3 17. bxc3 O-O 18. Kh1 Rae8 19. Bg3 Rc8
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.15"]
 [Round "6.1"]
 [White "Anand, Viswanathan"]
 [Black "Kasparov, Garry"]
@@ -522,7 +479,6 @@ fxe5 Bc5 15. Be3 Nd5 16. Bf2 Nxc3 17. bxc3 O-O 18. Kh1 Rae8 19. Bg3 Rc8
 [WhiteElo "2783"]
 [BlackElo "2812"]
 [ECO "B51"]
-[EventDate "2017.08.14"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Nc3 
 e5 8. Qd3 h6 9. Nd2 Be6 10. Nc4 Rc8 11. Ne3 Nf6 12. O-O Be7 13. Rd1 O-O 
@@ -534,7 +490,6 @@ Bxe1 f6 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "13.5"]
 [White "Anand, Viswanathan"]
 [Black "Le, Quang Liem"]
@@ -542,7 +497,6 @@ Bxe1 f6 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2739"]
 [ECO "C54"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 O-O 6. Bg5 h6 7. Bh4 Be7 8.
  Bg3 d6 9. Nbd2 Na5 10. Bb5 a6 11. Ba4 b5 12. Bc2 c5 13. Nf1 Bb7 14. Ne3 
@@ -556,7 +510,6 @@ Rb6 Ke6 45. Rb8 Rxb8 46. Bxb8 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "6.5"]
 [White "Anand, Viswanathan"]
 [Black "Kasparov, Garry"]
@@ -564,7 +517,6 @@ Rb6 Ke6 45. Rb8 Rxb8 46. Bxb8 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2812"]
 [ECO "B31"]
-[EventDate "2017.08.17"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Bxc6 bxc6 6. Re1 Nf6 7. e5 Nd5
 8. c4 Nc7 9. d4 cxd4 10. Qxd4 Ne6 11. Qh4 d6 12. exd6 Qxd6 13. Nc3 h5 14. 
@@ -580,7 +532,6 @@ Ra2 56. Rc8 1/2-1/2
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.04"]
 [Round "3.1"]
 [White "Anand, Viswanathan"]
 [Black "Carlsen, Magnus"]
@@ -588,7 +539,6 @@ Ra2 56. Rc8 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2822"]
 [ECO "C78"]
-[EventDate "2017.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. Nc3 O-O 
 8. d3 d6 9. Nd5 h6 10. c3 Rb8 11. Re1 Ba7 12. Be3 Bxe3 13. Nxe3 Re8 14. a4

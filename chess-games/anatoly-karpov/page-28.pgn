@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Izbinski Bartlomiej (POL)"]
@@ -21,7 +20,6 @@ Bb7 26.Qxf5 1-0
 
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Mickiewicz Piotr (POL)"]
@@ -44,7 +42,6 @@ Nb8 33.Rb1 Ba6 34.Rcc1 Qf8 35.Rb3 Bxb5 36.Rxb5 Na6 37.Rb7 Rdb8
 
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Mista Aleksander (POL)"]
@@ -71,7 +68,6 @@ Ba7 60.Rb7 Bd4 61.Rxh7 1-0
 
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zawadzki Stanislaw (POL)"]
@@ -91,7 +87,6 @@ Nb6 20.Ng5+ Kh8 21.Nxf7+ 1-0
 
 [Event "Ch World FIDE (final)"]
 [Site "Lausanne (Switzerland)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -127,7 +122,6 @@ Qd6+ 106.Kh3 Qb8 107.R3e5 Kg1 108.Rg7+ 1-0
 
 [Event "Ch World FIDE (final) (active)"]
 [Site "Lausanne (Switzerland)"]
-[Date "1998.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -154,7 +148,6 @@ Rxa2 53.g4 Nc3 54.g5 Nxe4 55.Rf7+ Kg6 56.Rg7+ Kf5 57.h7 Rxf2+
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -175,7 +168,6 @@ Re8 14.a3 Bb7 15.dxe5 Nxe5 16.Bg5 Nxf3+ 17.Bxf3 Be5 18.Bxf6 gxf6
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -200,7 +192,6 @@ Rb3 43.Bc6 Rb4 44.Rb8 Bh5 45.Bxd5 Rxd4 46.b7 Bf7 47.Rf8 Rxd5+
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -227,7 +218,6 @@ Ne2 59.d5 exd5 60.e6 Kf6 61.Kd7 1-0
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -268,7 +258,6 @@ Kf6 98.Rc8 Kg5 99.Ra8 Kf6 100.Bc4 Rc5 101.Kd4 Rc7 102.Rf8+ Ke7
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -294,7 +283,6 @@ Rc8 53.Rd6 Be7 54.Rb6 Kh8 55.Rcc6 1-0
 
 [Event "Ch Amateur Team"]
 [Site "USA"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kwartler Lonnie (USA)"]
@@ -316,7 +304,6 @@ Be7 31.Qc2 Bd6 32.Rd1 Re7 33.Bg5 Ra7 34.Nh6+ Kg7 35.Nxf7 1-0
 
 [Event "Ch Amateur Team"]
 [Site "USA"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "McCarthy Brian (USA)"]
@@ -337,7 +324,6 @@ Kf6 20.Bxf8 Nxf8 21.Rh8 a6 22.Bd5 Kg7 23.Rg8+ Kh7 24.Ke2 Kh6
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -357,7 +343,6 @@ g6 8.Qe2 Bg7 9.c3 Nc6 10.O-O-O d5 11.e5 b6 12.h4 h6 13.Rdg1 Ne7
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1998.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -379,7 +364,6 @@ Qxe2 30.Re3 Qc2 31.Qxe6 Rxf7 32.Bxf6 1-0
 
 [Event "Simultan"]
 [Site "Bastia (France)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Galli Jean-Christian (FRA)"]
@@ -388,7 +372,6 @@ Qxe2 30.Re3 Qc2 31.Qxe6 Rxf7 32.Bxf6 1-0
 [WhiteElo "2725"]
 [BlackElo "2049"]
 [PlyCount "85"]
-[EventDate "1998.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
 Qd2 Qa5 9. Rb1 a6 10. Rc1 O-O 11. d5 Rd8 12. Nf3 Nc6 13. Be2 e6 14. O-O exd5
@@ -401,7 +384,6 @@ Kg7 41. Rc7 Rxb4 42. Rxd7+ Kg8 43. Nxh7 1-0
 
 [Event "Simultan"]
 [Site "Bastia (France)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gallissot Alexandre (MNC)"]
@@ -410,7 +392,6 @@ Kg7 41. Rc7 Rxb4 42. Rxd7+ Kg8 43. Nxh7 1-0
 [WhiteElo "2725"]
 [BlackElo "2099"]
 [PlyCount "45"]
-[EventDate "1998.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Bd3 Nbd7 6. Nf3 dxc4 7. Bxc4 b5 8. Bd3
 Bb7 9. e4 a6 10. e5 Nd5 11. Nxd5 cxd5 12. O-O Rc8 13. h4 Be7 14. h5 h6 15. Bd2
@@ -420,7 +401,6 @@ fxe6 fxe6 23. Qg4 1-0
 
 [Event "Simultan"]
 [Site "Internet"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Boucher Emmanuel (FRA)"]
@@ -429,7 +409,6 @@ fxe6 fxe6 23. Qg4 1-0
 [WhiteElo "2725"]
 [BlackElo "2025"]
 [PlyCount "39"]
-[EventDate "1998.??.??"]
 
 1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
 e5 9. d5 Ne7 10. Rad1 Bxf3 11. Bxf3 Nd7 12. Be2 f5 13. f3 Nf6 14. Qd3 a6 15.
@@ -438,7 +417,6 @@ Qc4 Qd7 16. a4 fxe4 17. fxe4 Ng4 18. Bd2 Rxf1+ 19. Rxf1 Rf8 20. Rxf8+ 1-0
 
 [Event "Simultan"]
 [Site "Internet"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Cernousek Lukas (CZE)"]
@@ -447,7 +425,6 @@ Qc4 Qd7 16. a4 fxe4 17. fxe4 Ng4 18. Bd2 Rxf1+ 19. Rxf1 Rf8 20. Rxf8+ 1-0
 [WhiteElo "2725"]
 [BlackElo "2150"]
 [PlyCount "57"]
-[EventDate "1998.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
 Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 Qd5+ 14.
@@ -458,7 +435,6 @@ Qd7 27. Rd3 Qb7 28. Rcd1 Qb6 29. Rd6 1-0
 
 [Event "Simultan"]
 [Site "Internet"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Virostko Petr (CZE)"]
@@ -467,7 +443,6 @@ Qd7 27. Rd3 Qb7 28. Rcd1 Qb6 29. Rd6 1-0
 [WhiteElo "2725"]
 [BlackElo "2190"]
 [PlyCount "73"]
-[EventDate "1998.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 Nc6 8. d5
 Ne7 9. Qd2 Nd7 10. g4 f5 11. h3 a5 12. O-O-O fxe4 13. fxe4 Nc5 14. Kb1 Qd7 15.
@@ -479,7 +454,6 @@ Re8 35. Qb7 Nxe6 36. Nxe7 Ng5 37. Nxg6+ 1-0
 
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dobosz Lukasz (POL)"]
@@ -488,7 +462,6 @@ Re8 35. Qb7 Nxe6 36. Nxe7 Ng5 37. Nxg6+ 1-0
 [WhiteElo "2725"]
 [BlackElo "2144"]
 [PlyCount "81"]
-[EventDate "1998.??.??"]
 
 1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bd3 Nc6 7. Be3 Nb4 8.
 Be4 N4d5 9. Nc3 c6 10. Qd3 Be6 11. Nge2 Qd7 12. O-O Nxe3 13. fxe3 O-O-O 14. b3
@@ -501,7 +474,6 @@ Rxa5 40. dxe6 Kc8 41. Ke4 1-0
 
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Fojudzki Marcin (POL)"]
@@ -510,7 +482,6 @@ Rxa5 40. dxe6 Kc8 41. Ke4 1-0
 [WhiteElo "2725"]
 [BlackElo "2134"]
 [PlyCount "63"]
-[EventDate "1998.??.??"]
 
 1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 c6 7. Nc3 Nbd7 8. e4
 e5 9. Re1 Qb6 10. d5 cxd5 11. cxd5 Ng4 12. Re2 f5 13. h3 Ngf6 14. Be3 Qd8 15.
@@ -521,7 +492,6 @@ Qg3 28. Rd2 Qxg5 29. Rde2 Rg8 30. Qc4 Nxe6 31. Kg1 Qg6 32. Rxe6 1-0
 
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Rutkowska Mariola (POL)"]
@@ -530,7 +500,6 @@ Qg3 28. Rd2 Qxg5 29. Rde2 Rg8 30. Qc4 Nxe6 31. Kg1 Qg6 32. Rxe6 1-0
 [WhiteElo "2725"]
 [BlackElo "2072"]
 [PlyCount "47"]
-[EventDate "1998.??.??"]
 
 1. e4 g6 2. d4 Bg7 3. c3 d5 4. e5 c5 5. Nf3 Nc6 6. Be2 cxd4 7. cxd4 Bg4 8. Nc3
 Bxf3 9. Bxf3 e6 10. Be3 Qb6 11. O-O Nge7 12. Na4 Qd8 13. Nc5 Rb8 14. g4 h5 15.
@@ -540,7 +509,6 @@ Nc6 22. Rh1 Rg8 23. Rhc1 Ne7 24. Bg5 1-0
 
 [Event "Simultan"]
 [Site "Koszalin (Poland)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Wojtowicz Adam (POL)"]
@@ -549,7 +517,6 @@ Nc6 22. Rh1 Rg8 23. Rhc1 Ne7 24. Bg5 1-0
 [WhiteElo "2725"]
 [BlackElo "2131"]
 [PlyCount "58"]
-[EventDate "1998.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 c5 7. dxc5 dxc4 8.
 Qxd8 Rxd8 9. e3 Na6 10. c6 bxc6 11. Bxc4 Nd5 12. Be5 Nb6 13. Be2 Nb4 14. Bxg7
@@ -560,7 +527,6 @@ Rb1 f6 28. f4 Ng4 29. Rb7 h5 1-0
 
 [Event "Hoogovens, aan"]
 [Site "Hoogovens, Wijk aan"]
-[Date "1998.??.??"]
 [Round "10"]
 [White "Karpov, Anatoly"]
 [Black "Polgar, Judit"]

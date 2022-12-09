@@ -1,6 +1,5 @@
 [Event "Match (blitz)"]
 [Site "Internet"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -26,7 +25,6 @@ Qa5 48.Bxh6+ Kxh6 49.Qc1+ Kg7 50.h6+ Kh8 51.g7+ Kh7 52.Rg1 Rd8
 
 [Event "Match (man+computer)"]
 [Site "Leon (Spain)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -48,7 +46,6 @@ Bxb5 32.axb5 h6 33.Na4 Ba3 34.Qxc8+ Rxc8 35.Rxc8+ Kh7 36.b6 1-0
 
 [Event "Match (man+computer)"]
 [Site "Leon (Spain)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -71,7 +68,6 @@ b5 37.Rh4 Nxf5 38.Rxh7+ Kxh7 39.Be4 Kg8 40.Bxf5 e4 41.Qh3 1-0
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -93,7 +89,6 @@ Rxd1+ 31.Rxd1 Qg7 32.f3 Re8 33.Qf5 Ka8 34.h5 Rf8 35.Rd7 1-0
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Howell David WL (ENG)"]
@@ -118,7 +113,6 @@ d4 48.exd4 Rd8 49.b7 Rb8 50.a6 1-0
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Jones Gawain C (ENG)"]
@@ -144,7 +138,6 @@ Kg7 54.Nf5+ Kh7 55.Qf7+ 1-0
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Rendle Thomas (ENG)"]
@@ -169,7 +162,6 @@ Qa6 31.Qxa6 bxa6 32.Rc1 Rb8 33.Rc6 Rxb2 34.Nxd5 Rb1+ 35.Kg2 Re8
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -190,7 +182,6 @@ Bd7 25.Rxd3 Nxd3 26.Rf1 Rfc8 27.Bc3 1-0
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "16"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -217,7 +208,6 @@ Rh2 53.Bxe4 Rd2+ 54.Ke3 Rd6 55.Rh7 Kc5 56.Rxh5 Ra6 57.Rh2 Ra3+
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "18"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -241,7 +231,6 @@ Nf6 36.Rh6 Rbf8 37.Bxd7 Kxd7 38.Ng6 Re8 39.Ne5+ Ke6 40.Ng4+ Kf5
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "20"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -268,7 +257,6 @@ Rf8 59.f7 Rh8 60.Be6 Ba6 61.Ra7 Bc8 62.Bxc8 1-0
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "22"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -291,7 +279,6 @@ Bf2 31.Nf1 Qe1 32.Bd3 Rd7 33.e6 fxe6 34.fxe6 Rxf3 35.exd7 Bxd7
 
 [Event "Match"]
 [Site "Prague (Czech Republic)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -312,7 +299,6 @@ Rc8 25.Rc1 Rc7 26.Nb8 1-0
 
 [Event "Match (active)"]
 [Site "Sofia (Bulgaria)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -335,7 +321,6 @@ Qxa2 25.Rb5 Rg6 26.Rf5 g4 27.hxg4 Nxg4 28.Qf3 f6 29.Rh5 Nxh2
 
 [Event "Match (active)"]
 [Site "Sofia (Bulgaria)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -358,7 +343,6 @@ Rd4 37.Bc3 1-0
 
 [Event "Simultan"]
 [Site "Tel Aviv (Israel)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huzman Alexander (ISR)"]
@@ -381,7 +365,6 @@ f3 36.a6 e4 37.a7 Nb6 38.Kxb2 e3 39.Kc2 e2 40.Rh1+ Kg6 41.Kd2 1-0
 
 [Event "Simultan"]
 [Site "Tel Aviv (Israel)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sutovsky Emil (ISR)"]
@@ -404,7 +387,6 @@ Rxe8 36.Qxe8+ Kc7 37.Qe7+ 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.05.31"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Serper Grigory (USA)"]
@@ -424,7 +406,6 @@ Ne4 20.Qc1 Rf8 21.Nxd5 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.06.02"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Serper Grigory (USA)"]
@@ -448,7 +429,6 @@ Nd2 42.Kb5 Nxf3 43.a4 Ke6 44.a5 Kd7 45.a6 Kc8 46.Bd6 e4 47.Kb6 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.06.04"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Akopian Vladimir (ARM)"]
@@ -471,7 +451,6 @@ fxg5 37.fxg5 Rxe1+ 38.Rxe1 Rd7 39.b4 Na4 40.Bh3 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.06.07"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gurevich Ilya (USA)"]
@@ -493,7 +472,6 @@ Kxe8 31.Re7+ Kd8 32.Rxf7 c3 33.Re7 Nd3 34.Re2 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.06.29"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Akopian Vladimir (ARM)"]
@@ -520,7 +498,6 @@ Kf7 47.Ne5+ Kg7 48.Qa7+ Kf6 49.Nd7+ Ke6 50.Nc5+ Kd6 51.Ne4+ Kc6
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.05"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Zarnicki Pablo (ARG)"]
@@ -542,7 +519,6 @@ Rb8 31.Ra7 Qe8 32.Qh5 bxc3 33.bxc3 Qxh5 34.Nxh5 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.07"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Zarnicki Pablo (ARG)"]
@@ -568,7 +544,6 @@ g5 53.e6 Kf6 54.Kd6 g4 55.e7 Kxf7 56.Kd7 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.10"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dlugy Maxim (USA)"]

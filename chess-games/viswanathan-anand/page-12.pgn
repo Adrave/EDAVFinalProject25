@@ -1,6 +1,5 @@
 [Event "Zurich Korchnoi CC Blitz"]
 [Site "Zurich SUI"]
-[Date "2017.04.17"]
 [Round "5.1"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -9,7 +8,6 @@
 [WhiteElo "2786"]
 [BlackElo "2724"]
 [PlyCount "107"]
-[EventDate "2017.04.17"]
 [EventType "tourn (blitz)"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -29,7 +27,6 @@ Kg7 54. Qh8+ 1-0
 
 [Event "Zurich Korchnoi CC 2017"]
 [Site "Zurich SUI"]
-[Date "2017.04.15"]
 [Round "4.1"]
 [White "Anand, V."]
 [Black "Oparin, G."]
@@ -38,7 +35,6 @@ Kg7 54. Qh8+ 1-0
 [WhiteElo "2786"]
 [BlackElo "2604"]
 [PlyCount "83"]
-[EventDate "2017.04.13"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -56,7 +52,6 @@ Bd3 41. Rxa7 Bxe4 42. Re1 1-0
 
 [Event "Zurich Korchnoi CC 2017"]
 [Site "Zurich SUI"]
-[Date "2017.04.16"]
 [Round "6.1"]
 [White "Anand, V."]
 [Black "Svidler, P."]
@@ -65,7 +60,6 @@ Bd3 41. Rxa7 Bxe4 42. Re1 1-0
 [WhiteElo "2786"]
 [BlackElo "2747"]
 [PlyCount "63"]
-[EventDate "2017.04.13"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -81,7 +75,6 @@ f5 Ne5 28. Rg1 d5 29. Rb3 Kc7 30. cxd5 Rh8 31. f6 Bf8 32. d6+ 1-0
 
 [Event "Zurich Korchnoi CC 2017"]
 [Site "Zurich SUI"]
-[Date "2017.04.14"]
 [Round "2.1"]
 [White "Anand, V."]
 [Black "Pelletier, Y."]
@@ -90,7 +83,6 @@ f5 Ne5 28. Rg1 d5 29. Rb3 Kc7 30. cxd5 Rh8 31. f6 Bf8 32. d6+ 1-0
 [WhiteElo "2786"]
 [BlackElo "2541"]
 [PlyCount "77"]
-[EventDate "2017.04.13"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -107,7 +99,6 @@ gxh5 Rxh5 16. h4 Rh8 17. Qg2 Bf8 18. f5 exf5 19. Bg5 Qc7 20. h5 Be6 21. h6 Kd7
 
 [Event "6th Zurich Opening Blitz"]
 [Site "Zurich SUI"]
-[Date "2017.04.12"]
 [Round "5.4"]
 [White "Anand, V."]
 [Black "Kramnik, V."]
@@ -116,7 +107,6 @@ gxh5 Rxh5 16. h4 Rh8 17. Qg2 Bf8 18. f5 exf5 19. Bg5 Qc7 20. h5 Be6 21. h6 Kd7
 [WhiteElo "2786"]
 [BlackElo "2811"]
 [PlyCount "83"]
-[EventDate "2017.04.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -134,7 +124,6 @@ Qf6 35. Rc2 Rf7 36. Kg2 Kh7 37. Qxb4 Qg6 38. Rc4 Bh6 39. Rh4 Qf6 40. Ng4 Qf3+
 
 [Event "Bundesliga 2016-17"]
 [Site "Berlin GER"]
-[Date "2017.04.30"]
 [Round "14.8"]
 [White "Anand, V."]
 [Black "L'Ami, E."]
@@ -143,7 +132,6 @@ Qf6 35. Rc2 Rf7 36. Kg2 Kh7 37. Qxb4 Qg6 38. Rc4 Bh6 39. Rh4 Qf6 40. Ng4 Qf3+
 [WhiteElo "2776"]
 [BlackElo "2605"]
 [PlyCount "61"]
-[EventDate "2016.10.15"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -159,7 +147,6 @@ Qh6 28. Kg2 b6 29. Qe5 Re8 30. Rh1 Qf8 31. Ne6 1-0
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.06.30"]
 [Round "9.5"]
 [White "Anand, V."]
 [Black "Jobava, Ba"]
@@ -168,7 +155,6 @@ Qh6 28. Kg2 b6 29. Qe5 Re8 30. Rh1 Qf8 31. Ne6 1-0
 [WhiteElo "2786"]
 [BlackElo "2707"]
 [PlyCount "97"]
-[EventDate "2017.06.28"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -186,7 +172,6 @@ Nc5 gxh2 48. Bd5 Nd1+ 49. Kd2 1-0
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.06.28"]
 [Round "3.1"]
 [White "Anand, V."]
 [Black "Nepomniachtchi, I."]
@@ -195,7 +180,6 @@ Nc5 gxh2 48. Bd5 Nd1+ 49. Kd2 1-0
 [WhiteElo "2786"]
 [BlackElo "2732"]
 [PlyCount "133"]
-[EventDate "2017.06.28"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -216,7 +200,6 @@ Be5 60. Kd3 Kb5 61. Re4 Bb2 62. Rg4 Be5 63. f4 Bc7 64. Rxg3 Bxf4 65. Rg4 Bh6
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.06.29"]
 [Round "5.5"]
 [White "Anand, V."]
 [Black "Ivanchuk, V."]
@@ -225,7 +208,6 @@ Be5 60. Kd3 Kb5 61. Re4 Bb2 62. Rg4 Be5 63. f4 Bc7 64. Rxg3 Bxf4 65. Rg4 Bh6
 [WhiteElo "2786"]
 [BlackElo "2738"]
 [PlyCount "67"]
-[EventDate "2017.06.28"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -241,7 +223,6 @@ Raf1 Nh5 29. f6 Kh8 30. Bd1 Ne8 31. g3 Rg8 32. R3f2 Qd7 33. Bxh5 gxh5 34. Rf5
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.01"]
 [Round "8.4"]
 [White "Anand, V."]
 [Black "Aronian, L."]
@@ -250,7 +231,6 @@ Raf1 Nh5 29. f6 Kh8 30. Bd1 Ne8 31. g3 Rg8 32. R3f2 Qd7 33. Bxh5 gxh5 34. Rf5
 [WhiteElo "2786"]
 [BlackElo "2793"]
 [PlyCount "75"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -266,7 +246,6 @@ Rxf5 28. Rxf5 Qxf5 29. Qf3 Qc8 30. Bxd6 cxd6 31. Rc1 Qe8 32. Ne4 d5 33. Ng3 Qe6
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.02"]
 [Round "11.2"]
 [White "Anand, V."]
 [Black "So, W."]
@@ -275,7 +254,6 @@ Rxf5 28. Rxf5 Qxf5 29. Qf3 Qc8 30. Bxd6 cxd6 31. Rc1 Qe8 32. Ne4 d5 33. Ng3 Qe6
 [WhiteElo "2786"]
 [BlackElo "2812"]
 [PlyCount "81"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -292,7 +270,6 @@ Kf5 41. Qxg7 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.01"]
 [Round "3.4"]
 [White "Anand, V."]
 [Black "Jobava, Ba"]
@@ -301,7 +278,6 @@ Kf5 41. Qxg7 1-0
 [WhiteElo "2786"]
 [BlackElo "2707"]
 [PlyCount "85"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -318,7 +294,6 @@ b3 Rg8 42. bxc4 dxc4 43. Rxe4+ 1-0
 
 [Event "30th Leon GM 2017"]
 [Site "Leon ESP"]
-[Date "2017.07.08"]
 [Round "1.5"]
 [White "Anand, V."]
 [Black "Santos Latasa, J."]
@@ -327,7 +302,6 @@ b3 Rg8 42. bxc4 dxc4 43. Rxe4+ 1-0
 [WhiteElo "2783"]
 [BlackElo "2542"]
 [PlyCount "95"]
-[EventDate "2017.07.07"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ESP"]
@@ -344,7 +318,6 @@ Ke6 47. Bxg7 Bg5 48. Ra1 1-0
 
 [Event "30th Leon GM 2017"]
 [Site "Leon ESP"]
-[Date "2017.07.08"]
 [Round "1.3"]
 [White "Anand, V."]
 [Black "Santos Latasa, J."]
@@ -353,7 +326,6 @@ Ke6 47. Bxg7 Bg5 48. Ra1 1-0
 [WhiteElo "2783"]
 [BlackElo "2542"]
 [PlyCount "79"]
-[EventDate "2017.07.07"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ESP"]
@@ -369,7 +341,6 @@ Rxf7 1-0
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2017.09.23"]
 [Round "1.3"]
 [White "Anand, V."]
 [Black "Esserman, M."]
@@ -378,7 +349,6 @@ Rxf7 1-0
 [WhiteElo "2794"]
 [BlackElo "2453"]
 [PlyCount "91"]
-[EventDate "2017.09.23"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -394,7 +364,6 @@ e6 fxe6 42. Nf6+ Bxf6 43. Qxf6 Qxe3 44. Qxg6+ Kf8 45. Qf6+ Kg8 46. Rxa3 1-0
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2017.09.25"]
 [Round "3.12"]
 [White "Anand, V."]
 [Black "Lubbe, N."]
@@ -403,7 +372,6 @@ e6 fxe6 42. Nf6+ Bxf6 43. Qxf6 Qxe3 44. Qxg6+ Kf8 45. Qf6+ Kg8 46. Rxa3 1-0
 [WhiteElo "2794"]
 [BlackElo "2515"]
 [PlyCount "83"]
-[EventDate "2017.09.23"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -419,7 +387,6 @@ Bf5 Kf6 35. Rd7 Qc4 36. Bd3 Qa4 37. Be2 Qb3 38. R1d6+ Kg5 39. g3 g6 40. h4+ Kf5
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2017.10.01"]
 [Round "9.2"]
 [White "Anand, V."]
 [Black "Hou Yifan"]
@@ -428,7 +395,6 @@ Bf5 Kf6 35. Rd7 Qc4 36. Bd3 Qa4 37. Be2 Qb3 38. R1d6+ Kg5 39. g3 g6 40. h4+ Kf5
 [WhiteElo "2794"]
 [BlackElo "2670"]
 [PlyCount "105"]
-[EventDate "2017.09.23"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -446,7 +412,6 @@ f6 1-0
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2017.09.28"]
 [Round "6.6"]
 [White "Anand, V."]
 [Black "Sethuraman, S."]
@@ -455,7 +420,6 @@ f6 1-0
 [WhiteElo "2794"]
 [BlackElo "2617"]
 [PlyCount "101"]
-[EventDate "2017.09.23"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -472,7 +436,6 @@ Ng4 Qg6 41. Ne5 Qd6 42. Nf3 Rd5 43. Qe7 Qxe7 44. Rxe7 Rf6 45. h4 b4 46. Rb7 a5
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.26"]
 [Round "2.7"]
 [White "Anand, V."]
 [Black "Leko, P."]
@@ -481,7 +444,6 @@ Ng4 Qg6 41. Ne5 Qd6 42. Nf3 Rd5 43. Qe7 Qxe7 44. Rxe7 Rf6 45. h4 b4 46. Rb7 a5
 [WhiteElo "2782"]
 [BlackElo "2691"]
 [PlyCount "101"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -498,7 +460,6 @@ g4 Ne8 41. Qh8+ Bg8 42. h5 Bd8 43. Qh6+ Ng7 44. Qd6+ Be7 45. Qb8+ Ne8 46. b4 a5
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.26"]
 [Round "4.5"]
 [White "Anand, V."]
 [Black "Demchenko, A."]
@@ -507,7 +468,6 @@ g4 Ne8 41. Qh8+ Bg8 42. h5 Bd8 43. Qh6+ Ng7 44. Qd6+ Be7 45. Qb8+ Ne8 46. b4 a5
 [WhiteElo "2782"]
 [BlackElo "2660"]
 [PlyCount "57"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -521,7 +481,6 @@ Nb7 22. Qf3 a4 23. Bc4 Rc8 24. Rc1 Bf8 25. Nh5 Ke7 26. Qg4 Bh6 27. Nxf6 Bxd2
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.28"]
 [Round "14.2"]
 [White "Anand, V."]
 [Black "Grischuk, A."]
@@ -530,7 +489,6 @@ Nb7 22. Qf3 a4 23. Bc4 Rc8 24. Rc1 Bf8 25. Nh5 Ke7 26. Qg4 Bh6 27. Nxf6 Bxd2
 [WhiteElo "2782"]
 [BlackElo "2772"]
 [PlyCount "113"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -548,7 +506,6 @@ Rg3 Rc1 54. g6 fxg6 55. hxg6 Rxc4+ 56. Kh5 Bd4 57. Rg4 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "2.38"]
 [White "Anand, V."]
 [Black "Kovalev, Vl"]
@@ -557,7 +514,6 @@ Rg3 Rc1 54. g6 fxg6 55. hxg6 Rxc4+ 56. Kh5 Bd4 57. Rg4 1-0
 [WhiteElo "2782"]
 [BlackElo "2639"]
 [PlyCount "73"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 a6 6. c3 d6 7. a4 h6 8. Nbd2
@@ -570,7 +526,6 @@ a6 e5 35. Qb7 Re8 36. dxe5 Rxe5 37. Qb8+ 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "12.12"]
 [White "Anand, V."]
 [Black "Bacrot, E."]
@@ -579,7 +534,6 @@ a6 e5 35. Qb7 Re8 36. dxe5 Rxe5 37. Qb8+ 1-0
 [WhiteElo "2782"]
 [BlackElo "2725"]
 [PlyCount "99"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
@@ -594,7 +548,6 @@ Rxe6 47. c4 h5 48. gxh5+ Kxh5 49. c5 Re4 50. Rc3 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "16.10"]
 [White "Anand, V."]
 [Black "Fedoseev, Vl3"]
@@ -603,7 +556,6 @@ Rxe6 47. c4 h5 48. gxh5+ Kxh5 49. c5 Re4 50. Rc3 1-0
 [WhiteElo "2782"]
 [BlackElo "2718"]
 [PlyCount "63"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 b5 6. Bd3 Qb6 7. e5 Nh6 8. Ne4 O-O
@@ -615,7 +567,6 @@ Qf2 Kh8 28. Rae1 Rg8 29. Qf7 Qc5+ 30. Kh1 Qh5 31. Rxe6 Qxh6 32. Rxe7 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "19.3"]
 [White "Anand, V."]
 [Black "Petrosian, TL."]
@@ -624,7 +575,6 @@ Qf2 Kh8 28. Rae1 Rg8 29. Qf7 Qc5+ 30. Kh1 Qh5 31. Rxe6 Qxh6 32. Rxe7 1-0
 [WhiteElo "2782"]
 [BlackElo "2601"]
 [PlyCount "135"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. a3 O-O 6. Nf3 Nc6 7. Be3 b6 8. e5 Ng4

@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "California (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Bedford M"]
@@ -21,7 +20,6 @@ Rxb5 20.Qe2 Rb8 21.Rxa5 Nh5 22.g4 Nf6 23.Ra7 e6 24.dxe6 fxe6
 
 [Event "Simultan"]
 [Site "Cheltenham (England)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Nickel Ross"]
@@ -40,7 +38,6 @@ Kd8 14.Na4 Qc7 15.Bg4 1-0
 
 [Event "Simultan"]
 [Site "Chicago (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Grunberg Sergiu-Florin (ROM)"]
@@ -60,7 +57,6 @@ Qg6 19.Qg4+ Qf5 20.Qxf5+ Kxf5 21.fxe4+ Kxe4 22.Rae1+ Kd5 23.Re5+ 1-0
 
 [Event "Simultan"]
 [Site "Chicago (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Kral G"]
@@ -86,7 +82,6 @@ Rxd5 53.cxd5 Kf6 54.Ke4 Ke7 55.Ke5 Kd7 1-0
 
 [Event "Simultan"]
 [Site "Chicago (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Kuhn Juergen (GER)"]
@@ -104,7 +99,6 @@ Nxe5 8.Bxd5 fxg5 9.O-O Bd7 10.Re1 Qf6 11.Qh5+ Qg6 12.Rxe5+ 1-0
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "14"]
 [White "Fischer Robert J (USA)"]
 [Black "Cobo Arteaga Eldis (CUB)"]
@@ -127,7 +121,6 @@ Ra8 35.a3 Ra4 36.Bb4 Kg6 37.Rf4 Kg5 38.Rd4 Kh5 39.c4 1-0
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "16"]
 [White "Fischer Robert J (USA)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -149,7 +142,6 @@ gxf4 32.Rae1 Bg7 33.Re8 Bd4+ 34.Kh1 Bf6 35.gxf4 1-0
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -175,7 +167,6 @@ Kf6 47.Kf4 h5 48.Ke3 Nf3 49.Kxe4 Ng5+ 50.Kf4 Nxh3+ 51.Kg3 Ng5
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "18"]
 [White "Fischer Robert J (USA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -199,7 +190,6 @@ Bh4 42.Ke2 Rg2+ 43.Kf1 Rh2 44.Kg1 Re2 45.Bb6 c3 46.Kf1 Rh2 0-1
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "O'kelly De Galway Alberic (BEL)"]
@@ -224,7 +214,6 @@ Ka8 49.g4 Qf4 50.Qf2 Kb7 51.Qd4 Qc1 52.Qd3 Qe1 53.gxh5 gxh5 54.f4 1/2-1/2
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "20"]
 [White "Fischer Robert J (USA)"]
 [Black "Perez Perez Francisco J (ESP)"]
@@ -245,7 +234,6 @@ Rc8 20.exf7+ Rxf7 21.Ng5 Rf6 22.Rde1 b4 23.Ne6 bxc3 24.Nxg7 Qxd4+
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -269,7 +257,6 @@ bxc4 37.Nxc4 Nb5 38.Ra6 Kf6 39.Bc1 Bb8 40.Bb2 c5 41.Nb6 Nxb6
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -291,7 +278,6 @@ f5 31.Bh4 dxe5 32.fxe5 f4 33.Rf3 Qd7 34.Qd2 Qf5 35.e6 Ne4 36.Qd4 1-0
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Wade Robert G (ENG)"]
@@ -320,7 +306,6 @@ Rb2 70.Nd4 h2 71.Kg3 1/2-1/2
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1965.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Benko Pal C (USA)"]
@@ -343,7 +328,6 @@ Rd8 36.Be4 Qc8 37.Qe8+ 1-0
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Byrne Robert E (USA)"]
@@ -366,7 +350,6 @@ Rd8 36.Rb6 d4 0-1
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1965.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Rossolimo Nicholas (RUS)"]
@@ -388,7 +371,6 @@ Kg7 25.Rad1 Nxd4+ 26.Kf1 Rhe8 27.Rg3 Nc6 28.Qh4 Nxe5 29.Nf4 Ng4
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Suttles Duncan (CAN)"]
@@ -411,7 +393,6 @@ Rxb8 31.Qxb8+ Kh7 32.Rb1 Qxa4 33.Qf8 Rg7 34.Rb8 g5 35.Qh8+ Kg6
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Zuckerman Bernard (USA)"]
@@ -437,7 +418,6 @@ Qc5 48.Kg4 Be7 49.Kh5 Bd6 50.Kg6 Bc7 51.Kxg7 Qc3 52.Qb5+ Ka7
 
 [Event "Simultan"]
 [Site "New York (USA)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Leayza L"]
@@ -457,7 +437,6 @@ Qa5 14.Ne4 Nxe4 15.Qxe4 Nf6 16.Qe2 Rfd8 17.Ne5 c5 18.g4 cxd4
 
 [Event "Simultan"]
 [Site "New York (USA)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Martinez Gabriel"]
@@ -480,14 +459,12 @@ Be6 37.Nxg5+ hxg5 38.Qxg5 1-0
 
 [Event "Simul, 26b"]
 [Site "New York, NY USA"]
-[Date "1965.05.21"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Fred Snitzer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "1965.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -503,14 +480,12 @@ Be6 37.Nxg5+ hxg5 38.Qxg5 1-0
 
 [Event "Simul, 26b"]
 [Site "New York, NY USA"]
-[Date "1965.05.21"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Evgeny Zhukov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "1965.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -524,14 +499,12 @@ Be6 37.Nxg5+ hxg5 38.Qxg5 1-0
 
 [Event "Havana"]
 [Site "Havana CUB"]
-[Date "1965.08.30"]
 [Round "4"]
 [White "Robert James Fischer"]
 [Black "Alberic O'Kelly de Galway"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "1965.08.25"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -549,14 +522,12 @@ Be6 37.Nxg5+ hxg5 38.Qxg5 1-0
 
 [Event "Havana"]
 [Site "Havana CUB"]
-[Date "1965.09.01"]
 [Round "6"]
 [White "Robert James Fischer"]
 [Black "Robert Wade"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "1965.08.25"]
 [PlyCount "137"]
 [WhiteElo "?"]
 

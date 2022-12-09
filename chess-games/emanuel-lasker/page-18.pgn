@@ -1,13 +1,11 @@
 [Event "Simul, 31b"]
 [Site "Amsterdam NED"]
-[Date "1924.12.13"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "K Akkerman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -19,14 +17,12 @@
 
 [Event "Simul, 37b"]
 [Site "Brooklyn Institute CC, New York, NY USA"]
-[Date "1926.01.30"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Max Rosen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -40,14 +36,12 @@
 
 [Event "Simul"]
 [Site "Toronto CAN"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "David Creemer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E76"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -62,14 +56,12 @@
 
 [Event "Simul"]
 [Site "Forst GER"]
-[Date "1927.01.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Buchholtz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -83,14 +75,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Rice Progressive CC, New York, New York USA"]
-[Date "1928.11.08"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J Kahn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -108,14 +98,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Rice Progressive CC, New York, NY USA"]
-[Date "1928.11.08"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Sidney Norman Bernstein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B03"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -132,14 +120,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Rice Progressive CC, New York, New York USA"]
-[Date "1928.11.08"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Harry Kline"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C83"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -154,14 +140,12 @@
 
 [Event "Simul, 26b"]
 [Site "Utrecht NED"]
-[Date "1933.10.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Fehmers"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C65"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -173,14 +157,12 @@
 
 [Event "Simul, 26b"]
 [Site "Utrecht NED"]
-[Date "1933.10.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Adolf Willem Hamming"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -193,14 +175,12 @@
 
 [Event "Simul, 30b"]
 [Site "Paris FRA"]
-[Date "1933.03.18"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Sergei Prokofiev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -218,14 +198,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Rice Progressive CC, New York, New York USA"]
-[Date "1928.11.08"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "David S Polland"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B50"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -240,14 +218,12 @@
 
 [Event "Simul, 30b"]
 [Site "Vienna AUT"]
-[Date "1934.04.29"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Kovacs"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -262,14 +238,12 @@
 
 [Event "Lasker - Tarrasch World Championship Match"]
 [Site "Munich GER"]
-[Date "1908.09.23"]
 [Round "13"]
 [White "Emanuel Lasker"]
 [Black "Siegbert Tarrasch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -285,14 +259,12 @@
 
 [Event "Simul, 16b"]
 [Site "Vienna AUH"]
-[Date "1908.12.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "R Schwarz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -307,14 +279,12 @@
 
 [Event "Simul, 25b"]
 [Site "Amsterdam NED"]
-[Date "1908.12.29"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J P Pilger"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "15"]
 [WhiteElo "?"]
 
@@ -325,14 +295,12 @@
 
 [Event "Simul"]
 [Site "Breslau"]
-[Date "1908.11.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C44"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -349,14 +317,12 @@
 
 [Event "Simul, 31b"]
 [Site "Tartu RUE"]
-[Date "1909.03.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Hasselblatt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -371,14 +337,12 @@
 
 [Event "Simul, 30b"]
 [Site "Riga RUE"]
-[Date "1909.03.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Ewers"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -393,14 +357,12 @@
 
 [Event "Simul, 21b"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1910.04.23"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Walter Penn Shipley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -414,14 +376,12 @@
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1910.06.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Rolando Illa"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -434,14 +394,12 @@
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1910.06.28"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Jose Zamudio"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -455,14 +413,12 @@
 
 [Event "Simul, 29b"]
 [Site "Washington, D.C. USA"]
-[Date "1910.04.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Erhard Knapp"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -478,14 +434,12 @@
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1910.06.27"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Lizardo Molina Carranza"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -499,14 +453,12 @@
 
 [Event "Simul, 12b"]
 [Site "Buenos Aires ARG"]
-[Date "1910.07.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Miguel Angel Gelly"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -522,14 +474,12 @@
 
 [Event "Simul, 12b"]
 [Site "Buenos Aires ARG"]
-[Date "1910.07.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Carlos Portela"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 

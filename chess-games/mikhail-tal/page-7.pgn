@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -8,7 +7,6 @@
 [ECO "B10"]
 [BlackElo "2700"]
 [PlyCount "59"]
-[EventDate "1987.??.??"]
 
 1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nxc3 7. bxc3 g6
 8. d4 Bg7 9. Bd3 O-O 10. O-O Nc6 11. Re1 Re8 12. Bg5 Be6 13. Rxe6 fxe6 14. Bc4
@@ -19,7 +17,6 @@ Rxf2 28. Qh7+ Kf7 29. Qg6+ Kg8 30. Bh6+ 1-0
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -27,7 +24,6 @@ Rxf2 28. Qh7+ Kf7 29. Qg6+ Kg8 30. Bh6+ 1-0
 [ECO "C91"]
 [BlackElo "2570"]
 [PlyCount "77"]
-[EventDate "1987.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. d4 Bg4 10. Be3 Bh5 11. h3 Re8 12. Nbd2 Bf8 13. d5 Na5 14. Bc2 Qd7 15.
@@ -39,7 +35,6 @@ Nxg6 Rd2 35. Re3 b4 36. Rg3 Rxc3 37. Rcxc3 bxc3 38. Rxc3 Rxa2 39. Rc8 1-0
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Short Nigel D (ENG)"]
@@ -47,7 +42,6 @@ Nxg6 Rd2 35. Re3 b4 36. Rg3 Rxc3 37. Rcxc3 bxc3 38. Rxc3 Rxa2 39. Rc8 1-0
 [ECO "C09"]
 [BlackElo "2620"]
 [PlyCount "63"]
-[EventDate "1987.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5 Bxc5 8.
 Nb3 Bd6 9. O-O Nge7 10. h3 O-O 11. c3 a6 12. Bd3 Bc7 13. Bc2 Nf5 14. Qd3 Qd6
@@ -58,7 +52,6 @@ Kg2 Re6 28. Nf6+ Rxf6 29. Qxf6 Qxc3 30. Rh1 Rf8 31. Rh3 Qd2 32. Nf5 1-0
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sosonko Gennadi (NED)"]
@@ -66,7 +59,6 @@ Kg2 Re6 28. Nf6+ Rxf6 29. Qxf6 Qxc3 30. Rh1 Rf8 31. Rh3 Qd2 32. Nf5 1-0
 [ECO "E26"]
 [BlackElo "2530"]
 [PlyCount "105"]
-[EventDate "1987.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 d6 8. Ne2
 e5 9. e4 O-O 10. O-O exd4 11. cxd4 cxd4 12. Bb2 Re8 13. f3 Qb6 14. Rb1 Qc5 15.
@@ -81,7 +73,6 @@ Rc3 Be6 41. Re5 g6 42. Ra5 Kg7 43. a4 Bd7 44. Rc4 Be6 45. Rd4 Kf6 46. Rc5 Ke7
 
 [Event "It \"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Meulders Richard (BEL)"]
@@ -89,7 +80,6 @@ Rc3 Be6 41. Re5 g6 42. Ra5 Kg7 43. a4 Bd7 44. Rc4 Be6 45. Rd4 Kf6 46. Rc5 Ke7
 [ECO "A81"]
 [BlackElo "2360"]
 [PlyCount "73"]
-[EventDate "1987.??.??"]
 
 1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. b3 c6 7. Bb2 Qe8 8. Nbd2
 h6 9. Ne5 d6 10. Nd3 Qf7 11. e4 fxe4 12. Nxe4 Bf5 13. Nxf6+ Bxf6 14. g4 Bxd3
@@ -101,7 +91,6 @@ Rd6+ Kg5 34. h4+ Kh6 35. Kf3 Re3+ 36. Kxf4 Rc3 37. Rdd7 1-0
 
 [Event "It \"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Winants Luc (BEL)"]
@@ -109,7 +98,6 @@ Rd6+ Kg5 34. h4+ Kh6 35. Kf3 Re3+ 36. Kxf4 Rc3 37. Rdd7 1-0
 [ECO "A34"]
 [BlackElo "2415"]
 [PlyCount "74"]
-[EventDate "1987.??.??"]
 
 1. Nf3 c5 2. c4 Nf6 3. Nc3 b6 4. e4 Nc6 5. d4 cxd4 6. Nxd4 Bb7 7. Bf4 d6 8. Nf3
 g6 9. Qd2 Bg7 10. Be2 Rc8 11. Bh6 O-O 12. Bxg7 Kxg7 13. b3 Nb4 14. Nd4 Na6 15.
@@ -121,7 +109,6 @@ Qxe3+ 35. Qf2 Rc1+ 36. Bf1 Rxf1+ 37. Kxf1 Qc1+ 1-0
 
 [Event "Ch Latvia"]
 [Site "Latvia"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Klovans Janis (LAT)"]
@@ -129,7 +116,6 @@ Qxe3+ 35. Qf2 Rc1+ 36. Bf1 Rxf1+ 37. Kxf1 Qc1+ 1-0
 [ECO "C84"]
 [BlackElo "2420"]
 [PlyCount "55"]
-[EventDate "1987.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Ne4 8.
 Nxd4 O-O 9. Nf5 d5 10. Bxc6 bxc6 11. Nxe7+ Qxe7 12. Re1 f6 13. f3 Ng5 14. exf6
@@ -140,7 +126,6 @@ Nxd5 Re6 28. Qh4 1-0
 
 [Event "It"]
 [Site "Reykjavik (Iceland)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -148,7 +133,6 @@ Nxd5 Re6 28. Qh4 1-0
 [ECO "C99"]
 [BlackElo "2550"]
 [PlyCount "85"]
-[EventDate "1987.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 cxd4 14. cxd4 Rac8 15.
@@ -161,7 +145,6 @@ Nb3 f4 29. Na5 Qb6 30. Rc1 Ra8 31. Qc2 Nce8 32. Qb3 Bf6 33. Nc6 Nh5 34. Qb2 Bg7
 
 [Event "It"]
 [Site "Reykjavik (Iceland)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -169,7 +152,6 @@ Nb3 f4 29. Na5 Qb6 30. Rc1 Ra8 31. Qc2 Nce8 32. Qb3 Bf6 33. Nc6 Nh5 34. Qb2 Bg7
 [ECO "C80"]
 [BlackElo "2630"]
 [PlyCount "113"]
-[EventDate "1987.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
 Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. Ne4 Be7 14. Be3 Nf5
@@ -184,7 +166,6 @@ Kf2 Rb1 53. b5 Rb2+ 54. Ke1 Kf5 55. Qc3 Rb4 56. b6 Nd5 57. Qc8+ 1-0
 
 [Event "It"]
 [Site "Reykjavik (Iceland)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petursson Margeir (ISL)"]
@@ -192,7 +173,6 @@ Kf2 Rb1 53. b5 Rb2+ 54. Ke1 Kf5 55. Qc3 Rb4 56. b6 Nd5 57. Qc8+ 1-0
 [ECO "A35"]
 [BlackElo "2535"]
 [PlyCount "91"]
-[EventDate "1987.??.??"]
 
 1. c4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. Nc2 Nc6 6. g3 Nf6 7. Bg2 O-O 8.
 Nc3 d6 9. O-O Bd7 10. b3 a6 11. Bb2 Rb8 12. Nd5 Nxd5 13. Bxg7 Ne3 14. Nxe3 Kxg7
@@ -205,7 +185,6 @@ fxe5 fxe5 35. e4 Kf6 36. exf5 Rd8 37. Rd1 Kxf5 38. Ke3 e4 39. d6 Ke5 40. g4 b5
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -213,7 +192,6 @@ fxe5 fxe5 35. e4 Kf6 36. exf5 Rd8 37. Rd1 Kxf5 38. Ke3 e4 39. d6 Ke5 40. g4 b5
 [ECO "C67"]
 [BlackElo "2595"]
 [PlyCount "35"]
-[EventDate "1988.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
 8. Qxd8+ Kxd8 9. Nc3 Be6 10. b3 h6 11. Bb2 b6 12. Ne2 Bc5 13. Nd2 Kc8 14. Ne4
@@ -222,7 +200,6 @@ Be7 15. Nf4 h5 16. Rfd1 Kb7 17. Kf1 a5 18. Nxe6 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sokolov Andrei (FRA)"]
@@ -230,7 +207,6 @@ Be7 15. Nf4 h5 16. Rfd1 Kb7 17. Kf1 a5 18. Nxe6 1/2-1/2
 [ECO "A13"]
 [BlackElo "2600"]
 [PlyCount "27"]
-[EventDate "1988.??.??"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O c5 5. c4 dxc4 6. Na3 Nc6 7. Nxc4 Be7 8. b3
 O-O 9. Bb2 Bd7 10. d4 cxd4 11. Nxd4 Rc8 12. Rc1 Nxd4 13. Qxd4 Bc6 14. Rfd1
@@ -239,7 +215,6 @@ O-O 9. Bb2 Bd7 10. d4 cxd4 11. Nxd4 Rc8 12. Rc1 Nxd4 13. Qxd4 Bc6 14. Rfd1
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -247,7 +222,6 @@ O-O 9. Bb2 Bd7 10. d4 cxd4 11. Nxd4 Rc8 12. Rc1 Nxd4 13. Qxd4 Bc6 14. Rfd1
 [ECO "D58"]
 [BlackElo "2560"]
 [PlyCount "31"]
-[EventDate "1988.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. Bd3
 Bb7 9. O-O Nbd7 10. Qe2 dxc4 11. Bxc4 Ne4 12. Bxe7 Qxe7 13. Rac1 Nxc3 14. Rxc3
@@ -256,7 +230,6 @@ c5 15. Bb5 e5 16. Rd1 1/2-1/2
 
 [Event "It (open)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -264,7 +237,6 @@ c5 15. Bb5 e5 16. Rd1 1/2-1/2
 [ECO "B08"]
 [BlackElo "2505"]
 [PlyCount "36"]
-[EventDate "1988.??.??"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Qc7 8. Bf4
 Nh5 9. Be3 e5 10. Qd2 Nd7 11. a4 Re8 12. Rad1 exd4 13. Nxd4 Nhf6 14. f3 a6 15.
@@ -273,7 +245,6 @@ Nb3 d5 16. Bf4 Ne5 17. exd5 Nxd5 18. Nxd5 cxd5 1/2-1/2
 
 [Event "It (open)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kristensen Bjarke (DEN)"]
@@ -281,7 +252,6 @@ Nb3 d5 16. Bf4 Ne5 17. exd5 Nxd5 18. Nxd5 cxd5 1/2-1/2
 [ECO "B33"]
 [BlackElo "2391"]
 [PlyCount "92"]
-[EventDate "1988.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
 exd5 Ne7 9. c4 Nf5 10. Bd3 Be7 11. O-O O-O 12. Kh1 g6 13. Nc3 Qb6 14. Rb1 Qd4
@@ -295,7 +265,6 @@ fxg4+ 41. Bxg4 Kf6 42. Ke4 Bd6 43. h3 h6 44. Bc8 a5 45. f5 gxf5+ 46. Bxf5 h5
 
 [Event "It (open)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lputian Smbat G (ARM)"]
@@ -303,7 +272,6 @@ fxg4+ 41. Bxg4 Kf6 42. Ke4 Bd6 43. h3 h6 44. Bc8 a5 45. f5 gxf5+ 46. Bxf5 h5
 [ECO "A13"]
 [BlackElo "2540"]
 [PlyCount "24"]
-[EventDate "1988.??.??"]
 
 1. Nf3 d5 2. c4 e6 3. g3 dxc4 4. Qa4+ Nd7 5. Bg2 c5 6. O-O Ngf6 7. Qxc4 b6 8.
 Nd4 Ne5 9. Nc6 Nxc4 10. Nxd8 Nd5 11. Nc3 Kxd8 12. Nxd5 Bb7 1/2-1/2
@@ -311,7 +279,6 @@ Nd4 Ne5 9. Nc6 Nxc4 10. Nxd8 Nd5 11. Nc3 Kxd8 12. Nxd5 Bb7 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Prandstetter Eduard (CZE)"]
@@ -319,7 +286,6 @@ Nd4 Ne5 9. Nc6 Nxc4 10. Nxd8 Nd5 11. Nc3 Kxd8 12. Nxd5 Bb7 1/2-1/2
 [ECO "A14"]
 [BlackElo "2415"]
 [PlyCount "41"]
-[EventDate "1988.??.??"]
 
 1. Nf3 d5 2. c4 e6 3. b3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Bb2 Nbd7 8. e3
 b6 9. Nc3 Bb7 10. Qe2 Ne4 11. Nxe4 dxe4 12. Nd4 c5 13. Nb5 Bf6 14. Nc3 Qc7 15.
@@ -329,7 +295,6 @@ Rf2 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ubilava Elizbar (ESP)"]
@@ -337,7 +302,6 @@ Rf2 1/2-1/2
 [ECO "D62"]
 [BlackElo "2500"]
 [PlyCount "33"]
-[EventDate "1988.??.??"]
 
 1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Qc2 c5 8. cxd5
 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Bd3 g6 12. dxc5 Nxc5 13. O-O Bg4 14. Nd4
@@ -346,7 +310,6 @@ Rac8 15. Rac1 a6 16. Qd2 Rc7 17. Rc2 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Agdestein Simen (NOR)"]
@@ -354,7 +317,6 @@ Rac8 15. Rac1 a6 16. Qd2 Rc7 17. Rc2 1/2-1/2
 [ECO "B17"]
 [BlackElo "2560"]
 [PlyCount "33"]
-[EventDate "1988.??.??"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Be6
 8. Be2 g6 9. O-O Bg7 10. c3 O-O 11. Bf4 Nd7 12. Nf3 Bd5 13. Qc2 Re8 14. Rad1 e5
@@ -363,7 +325,6 @@ Rac8 15. Rac1 a6 16. Qd2 Rc7 17. Rc2 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Farago Ivan (HUN)"]
@@ -371,7 +332,6 @@ Rac8 15. Rac1 a6 16. Qd2 Rc7 17. Rc2 1/2-1/2
 [ECO "C18"]
 [BlackElo "2475"]
 [PlyCount "62"]
-[EventDate "1988.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
 Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Qxc3 Nf5 14. Rb1
@@ -382,7 +342,6 @@ Kxd2 Ra4 28. Ra1 Ke7 29. c3 Nc6 30. Bf1 Rxh5 31. gxh5 Rxf4 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hansen Curt (DEN)"]
@@ -390,7 +349,6 @@ Kxd2 Ra4 28. Ra1 Ke7 29. c3 Nc6 30. Bf1 Rxh5 31. gxh5 Rxf4 1/2-1/2
 [ECO "B85"]
 [BlackElo "2520"]
 [PlyCount "68"]
-[EventDate "1988.??.??"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
 a6 9. Kh1 Qc7 10. a4 Nc6 11. Be3 Re8 12. Nf3 b6 13. Qe1 Nb4 14. Rc1 Bb7 15. Bd3
@@ -402,7 +360,6 @@ Rf1 Bg7 29. Rhf3 Rf8 30. Rxf7 Rxf7 31. Rxf7 Bxd5 32. Nxd5 Qxd5 33. Qxd5 Rxd5
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -410,7 +367,6 @@ Rf1 Bg7 29. Rhf3 Rf8 30. Rxf7 Rxf7 31. Rxf7 Bxd5 32. Nxd5 Qxd5 33. Qxd5 Rxd5
 [ECO "A30"]
 [BlackElo "2725"]
 [PlyCount "27"]
-[EventDate "1988.??.??"]
 
 1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 c5 5. O-O g6 6. b3 Bg7 7. Bb2 O-O 8. Nc3
 d5 9. Nxd5 Nxd5 10. Bxg7 Kxg7 11. cxd5 Qxd5 12. d4 Na6 13. dxc5 Nxc5 14. Qxd5
@@ -419,7 +375,6 @@ d5 9. Nxd5 Nxd5 10. Bxg7 Kxg7 11. cxd5 Qxd5 12. d4 Na6 13. dxc5 Nxc5 14. Qxd5
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Piket Jeroen (NED)"]
@@ -427,7 +382,6 @@ d5 9. Nxd5 Nxd5 10. Bxg7 Kxg7 11. cxd5 Qxd5 12. d4 Na6 13. dxc5 Nxc5 14. Qxd5
 [ECO "B60"]
 [BlackElo "2495"]
 [PlyCount "60"]
-[EventDate "1988.??.??"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Be2 Qa5 8.
 Bxf6 gxf6 9. Nb3 Qg5 10. Nd5 O-O-O 11. O-O f5 12. f4 Qg7 13. exf5 Bxf5 14. Bf3
@@ -438,7 +392,6 @@ fxe6 27. Qxc6 Qg4+ 28. Kf2 Qf4+ 29. Kg2 Qg4+ 30. Kf2 Qf4+ 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -446,7 +399,6 @@ fxe6 27. Qxc6 Qg4+ 28. Kf2 Qf4+ 29. Kg2 Qg4+ 30. Kf2 Qf4+ 1/2-1/2
 [ECO "A11"]
 [BlackElo "2540"]
 [PlyCount "42"]
-[EventDate "1988.??.??"]
 
 1. c4 c6 2. Nf3 Nf6 3. Nc3 d5 4. e3 e6 5. b3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
 Re8 9. Bb2 dxc4 10. bxc4 e5 11. d4 Qe7 12. Rae1 b6 13. Ne4 Nxe4 14. Qxe4 Nf6
@@ -456,14 +408,12 @@ Rfd1 Nd3 1/2-1/2
 
 [Event "55th USSR Championship"]
 [Site "Moscow URS"]
-[Date "1988.07.25"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Rafael Vaganian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D59"]
-[EventDate "1988.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 

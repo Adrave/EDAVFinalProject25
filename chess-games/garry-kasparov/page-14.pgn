@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nicoara Malina (FRA)"]
@@ -22,7 +21,6 @@ f5 31.exf6 exf6 32.Re6 Kf7 33.Rd6 1-0
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sermier Alain (FRA)"]
@@ -46,7 +44,6 @@ Ke7 43.Rf2 Bd7 44.a6 bxa6 45.b7 1-0
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -70,7 +67,6 @@ Re8 31.Rc2 Ng6 32.Rxc4 Bd5 33.Bg4 Qe7 34.Rc7 Qb4 35.Qc3 Rab8
 
 [Event "It"]
 [Site "Internet"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -95,7 +91,6 @@ Ng7 42.Ng3 Qc2 43.Qf6 Nf5 44.Qxb6 Nh4+ 45.Kh2 Nf3+ 46.Kg2 Nh4+
 
 [Event "It"]
 [Site "Internet"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -119,7 +114,6 @@ Bxg1 37.e7 Bc6 38.Qe5 Qxe5 39.exd8Q Qe1+ 40.Kb2 Qc3+ 41.Kb1 Qe1+
 
 [Event "It (active) (final)"]
 [Site "Kopavogur (Iceland)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -140,7 +134,6 @@ Qc5 25.Qf4 Nh5 26.Qh6 Qf8 27.Qg5 Qc5 28.Qh6 1/2-1/2
 
 [Event "It (active) (qual)"]
 [Site "Kopavogur (Iceland)"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -160,7 +153,6 @@ exd5 19.Bf3 Bc6 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "2000.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -181,7 +173,6 @@ Rxe3 26.Qxe3 Bc8 27.f5 Bxf5 28.Bxf5 gxf5 29.Nf2 Ne4 30.Nxe4 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "2000.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -207,7 +198,6 @@ R4a7 54.Bb3 Ra5 55.Re5 Rd8 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -227,7 +217,6 @@ Qxd5 14.Re1 Bb7 15.Bd3 Rae8 16.Qc2 h6 17.Bh7+ Kh8 18.Be4 Qd8
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -250,7 +239,6 @@ exf5 37.e6 f4 38.Ke4 Kc7 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -271,7 +259,6 @@ Nf5 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -297,7 +284,6 @@ Rg5 53.Rf8 Ke5 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -317,7 +303,6 @@ e6 20.Rfc1 Bh6 21.Rcb1 Bf8 22.Nb3 Bg7 23.Bxd5 Rxd5 24.Nbd2 e5 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -335,7 +320,6 @@ Nc6 8.Nxc6 dxc6 9.Bg2 e5 10.O-O Be6 11.Na4 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -357,7 +341,6 @@ Rxc3 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -381,7 +364,6 @@ Kd5 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -400,7 +382,6 @@ Be6 14.g4 1/2-1/2
 
 [Event "Ch World (match) \"Braingames\""]
 [Site "London (England)"]
-[Date "2000.??.??"]
 [Round "15"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -423,7 +404,6 @@ fxe5 37.Nxe5 Rd8 38.h4 Rd5 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "2000.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -444,7 +424,6 @@ Qh4 19.Be1 Qa4 20.Rxf6 Nc6 21.Rxe6 Nd4 22.Qg4 Qxa2 23.Bxg6 hxg6
 
 [Event "It (cat.18)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2000.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -470,7 +449,6 @@ Kf7 52.Ra7+ Kg6 53.f5+ Kh6 54.g5+ fxg5 55.e5 g4 56.e6 Kg5 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2000.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -492,7 +470,6 @@ Kf8 31.Qg3 Qxg3 32.fxg3 bxc3 33.bxc3 Rxc3 34.Bd5 Rxg3 1/2-1/2
 
 [Event "Simultan"]
 [Site "Frankfurt (Germany)"]
-[Date "2000.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beutel Jens / FRITZ7"]
@@ -501,7 +478,6 @@ Kf8 31.Qg3 Qxg3 32.fxg3 bxc3 33.bxc3 Rxc3 34.Bd5 Rxg3 1/2-1/2
 [WhiteElo "2849"]
 [BlackElo "2140"]
 [PlyCount "46"]
-[EventDate "2000.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 h6 7. Nbd2 Bd7 8. h3
 Qe7 9. Nf1 Bb6 10. Ne3 a6 11. a4 g5 12. Ba2 Nd8 13. Nf5 Bxf5 14. exf5 Qd7 15.
@@ -511,7 +487,6 @@ a5 22. f3 Rhe8 23. Bb1 Qc7 1/2-1/2
 
 [Event "KasparovChess GP g/60 aborted"]
 [Site "Internet INT"]
-[Date "2000.02.19"]
 [Round "4.1"]
 [White "Kasparov, Garry"]
 [Black "Piket, Jeroen"]
@@ -519,7 +494,6 @@ a5 22. f3 Rhe8 23. Bb1 Qc7 1/2-1/2
 [WhiteElo "2851"]
 [BlackElo "2633"]
 [ECO "C95"]
-[EventDate "2000.02.09"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
  c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
@@ -528,13 +502,11 @@ c5 15. d5 c4 16. Bg5 Qc7 17. Qd2 Reb8 18. Nf5 *
 
 [Event "Simul"]
 [Site "Frankfurt GER"]
-[Date "2000.06.19"]
 [Round "?"]
 [White "Kasparov,G"]
 [Black "Schmitt,HW"]
 [Result "1/2-1/2"]
 [WhiteElo "2851"]
-[EventDate "2000.06.19"]
 [ECO "D30"]
 
 1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. e3 e6 5. Nbd2 Nbd7 6. Bd3 Be7 7. O-O b6 8.

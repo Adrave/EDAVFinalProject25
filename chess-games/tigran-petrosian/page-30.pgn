@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -30,7 +29,6 @@ Rxh5+ 64.Kf6 Ra5 65.Rg7+ Kh8 66.Re7 Ra6+ 67.Kf7 Ra5 68.Re6 Kh7
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -49,7 +47,6 @@ Rd8 14.Qe2 Nd4 1/2-1/2
 
 [Event "Memorial A.Nimzowitsch"]
 [Site "Copenhagen (Denmark)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Geller Efim P (RUS)"]
@@ -68,7 +65,6 @@ Rxd8 14.Rfd1 Bd7 15.Nc5 Bxc5 16.Bxc5 Be8 17.Bxc6 Bxc6 1/2-1/2
 
 [Event "Tournament"]
 [Site "Copenhagen (Denmark)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Larsen Bent (DEN)"]
@@ -90,7 +86,6 @@ Qe7 31.Ne4 Rd1+ 32.Kf2 f5 33.Nf6+ Kd8 34.Rh8+ 1-0
 
 [Event ""]
 [Site "Copenhagen (Denmark)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Nielsen (FAI)"]
@@ -111,7 +106,6 @@ hxg5 25.Qb7 1-0
 
 [Event "Match \"BRD-URS\""]
 [Site "Hamburg (Germany)"]
-[Date "1960.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lehmann Heinz G (GER)"]
@@ -133,7 +127,6 @@ Bf8 31.Bxd4 Rxd4 32.Qa8 1-0
 
 [Event "Match \"BRD-URS\""]
 [Site "Hamburg (Germany)"]
-[Date "1960.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pfeiffer Gerhard (GER)"]
@@ -161,7 +154,6 @@ Re8 65.Kxd5 1-0
 
 [Event "Match \"BRD-URS\""]
 [Site "Hamburg (Germany)"]
-[Date "1960.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Teschner Rudolf (GER)"]
@@ -182,7 +174,6 @@ Nxd6 25.exd6 Nf6 26.Bb2 Rcc8 27.Qc3 Rce8 28.Rxe8 Qxe8 29.d7 1-0
 
 [Event "Match \"BRD-URS\""]
 [Site "Hamburg (Germany)"]
-[Date "1960.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -208,7 +199,6 @@ Rb7 49.Nb3 Ra7 50.Qh2 Bf6 51.Rc8 Rad7 52.Nc5 b3+ 53.Kxb3 Rd6
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Cardoso Radolfo Tan (PHI)"]
@@ -231,7 +221,6 @@ Ra5 36.h5 Kf8 37.Kf3 Rb5 38.Kf4 Rb2 39.f3 Rh2 40.Rxd5 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Golz Werner (GER)"]
@@ -256,7 +245,6 @@ Rb2 43.Kf1 Kf8 44.Rxa5 Ng7 45.Ra8+ Kf7 46.Ra7+ Kf8 47.g4 Rb4
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Janetschek Karl (AUT)"]
@@ -278,7 +266,6 @@ Qc8 31.axb6 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pfeiffer Gerhard (GER)"]
@@ -300,7 +287,6 @@ Rc2 25.dxe7 Rxe2 26.Rd8+ Kg7 27.Rc1 Rxe6 28.Rc7 Kh6 29.Bxf6 Be4
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Seth"]
@@ -323,7 +309,6 @@ Ba8 37.Nc4 Nxd3 38.Qxd3 Qxb5 39.fxg6 fxg6 40.Ra7 Qb4 41.Qf3 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Vukcevich Milan R (USA)"]
@@ -346,7 +331,6 @@ Qg6 37.Be2 Qb6 38.Qb3 Qg6 39.Bf3 b6 40.Qd1 Bf8 41.h4 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Wade Robert G (ENG)"]
@@ -372,7 +356,6 @@ Nd3 53.Kb5 Ke5 54.a6 Nxb4 55.Kxb4 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gufeld Eduard (USA)"]
@@ -395,7 +378,6 @@ f5 32.Nc6 Rbe8 33.Nb1 Kh7 34.Rb3 fxe4 35.Qxe4 Rf5 36.Ra3 Qb7
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gurgenidze Bukhuti (GEO)"]
@@ -416,7 +398,6 @@ Nc5 20.O-O Ne6 21.Bc3 Bc6 22.Bxc6 bxc6 23.Qc4 Qe8 24.Rce1 Nf8
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -434,7 +415,6 @@ Nc5 20.O-O Ne6 21.Bc3 Bc6 22.Bxc6 bxc6 23.Qc4 Qe8 24.Rce1 Nf8
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -458,7 +438,6 @@ Kc8 41.Bf5+ Kb8 42.Bxc5 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Nei Iivo (EST)"]
@@ -481,7 +460,6 @@ Nd6 31.bxa5 Rxa5 32.a4 Nc4 33.Nxb7 Rxa4 34.Nc5 Ra8 35.Rb4 Rea7
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -500,7 +478,6 @@ O-O 8.O-O f5 9.c3 d6 10.b4 Nd7 11.b5 Nf6 12.a4 a5 13.bxa6 Bxa6
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "17"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -522,7 +499,6 @@ b3 33.axb3 axb3 34.Qd1 Rxa1 35.Qxa1 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -542,7 +518,6 @@ dxe4 14.Bg5 Bf5 15.d5 Qc7 16.Bxf6 gxf6 17.Bg4 Bxg4 18.Qxg4 Qe5
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Taimanov Mark E (RUS)"]

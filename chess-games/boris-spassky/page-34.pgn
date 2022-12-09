@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Kiev (Ukraine)"]
-[Date "1968.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -20,7 +19,6 @@ Rfc8 20.Kh2 Rxa1 21.Qxa1 Qd8 22.Qa7 Ra8 23.Qxb7 Rb8 24.Qa7 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Kiev (Ukraine)"]
-[Date "1968.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -43,7 +41,6 @@ Nd6 32.Rxf8+ Kxf8 33.Kh2 Ne8 34.Qd1 a4 35.bxa4 Qxa4 36.Qb1 Nc7
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Kiev (Ukraine)"]
-[Date "1968.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -68,7 +65,6 @@ Nd1+ 48.Kf3 Nc3 49.Nh4 Na2 50.Ke2 Nb4 51.Kd2 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Kiev (Ukraine)"]
-[Date "1968.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -94,7 +90,6 @@ Kf5 53.Rf8+ 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -120,7 +115,6 @@ Nf3+ 48.Rxf3 Rxe4 49.Rf6 g5 50.Rxh6 Rd4 51.Rxa6 Rxd5 52.h4 gxh4
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tringov Georgi P (BUL)"]
@@ -144,7 +138,6 @@ Rd5 42.b3 Rb5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -164,7 +157,6 @@ Nxd4 14.Nxd4 c5 15.Nxe6 Qxe6 16.f3 Ng5 17.a4 Rad8 18.axb5 axb5
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Malme (Sweden)"]
-[Date "1968.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -187,7 +179,6 @@ Qb4 31.Nd7 Qe1+ 32.Kg2 Qe2+ 33.Kg3 Nf5+ 34.gxf5 Qe1+ 35.Kf4 Qh4+
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Malme (Sweden)"]
-[Date "1968.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -212,7 +203,6 @@ Bxg3 43.Kxg3 Bc2 44.Rb2 f4+ 45.Kg4 Bxa4 46.Kxg5 f3 47.Ne4 Kf8
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Malme (Sweden)"]
-[Date "1968.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -235,7 +225,6 @@ Re3 37.Qg2 Rd3 38.Be2 Rd2 39.bxa4 Qe5 0-1
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Malme (Sweden)"]
-[Date "1968.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -260,7 +249,6 @@ Kg8 47.Rb7 Bg7 48.Rb8 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Benko Pal C (USA)"]
@@ -286,7 +274,6 @@ Ke6 53.Kg5 Ne3 54.Kxh5 Nd5 55.Bf4 Kf6 56.Bd2 Nc7 57.Bc3+ 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "16"]
 [White "Spassky Boris V (FRA)"]
 [Black "Byrne Donald (USA)"]
@@ -309,7 +296,6 @@ Rf7 31.Bc8 h6 32.Rd8+ Kh7 33.Nf8+ Kg7 34.Rg3+ Kf6 35.Re8 Bxc8
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -331,7 +317,6 @@ Ned5 31.Bxe5 Rxe5 32.Rxc7 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -354,7 +339,6 @@ Nf6 36.Kh1 Rxg2 37.Rc6 Qb2 38.Rc7+ Kd6 39.Rc6+ Ke7 40.Rc7+ Kd6 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Medina-Garcia Antonio (ESP)"]
@@ -377,7 +361,6 @@ axb5 26.axb5 exf4 27.Nxf4 Nxf4 28.Bxf4 d5 29.c5 Rfe8 30.Qf3 Ra8
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -396,7 +379,6 @@ Ng6 14.Ng3 Nf6 15.Nf5 Qb6 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -421,7 +403,6 @@ cxb5 41.b3 bxc4 42.bxc4 g4+ 43.Ke2 Be7 44.Ne3 Bf8 45.Kd3 Kc6
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "14"]
 [White "Spassky Boris V (FRA)"]
 [Black "Toran Albero Roman (ESP)"]
@@ -447,7 +428,6 @@ Ke6 47.Kd4 Bf2+ 48.Be3 Bxe3+ 49.Kxe3 Ke7 50.Ba4 Kd6 51.Kd4 g5
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Visier Segovia Fernando (ESP)"]
@@ -471,7 +451,6 @@ Qd7 42.Kb2 h4 43.Kb3 Kg8 44.a4 Bxc6 45.dxc6 1-0
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sukhumi (Georgia)"]
-[Date "1968.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -494,7 +473,6 @@ Bb7 32.Bf3 Qd7 33.Bh5 Re7 34.Ng4 Rg8 35.Qf2 Nd4 36.Nxf6 Rxg1+
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sukhumi (Georgia)"]
-[Date "1968.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -519,7 +497,6 @@ Rc7 42.Qxc7 Kxg5 43.Qe7 Qe3 44.Ne4+ Kh5 45.Qh7+ Bh6 46.Qd7 Bf4
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sukhumi (Georgia)"]
-[Date "1968.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -541,14 +518,12 @@ Kd7 31.Qf7+ Kc6 32.exf5+ 1-0
 
 [Event "Spassky - Larsen Candidates Semifinal"]
 [Site "Malmo SWE"]
-[Date "1968.07.13"]
 [Round "5"]
 [White "Boris Spassky"]
 [Black "Bent Larsen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "1968.07.06"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -564,14 +539,12 @@ Kd7 31.Qf7+ Kc6 32.exf5+ 1-0
 
 [Event "Palma de Mallorca"]
 [Site "Palma ESP"]
-[Date "1968.12.12"]
 [Round "16"]
 [White "Boris Spassky"]
 [Black "Donald Byrne"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D86"]
-[EventDate "1968.11.24"]
 [PlyCount "78"]
 [WhiteElo "?"]
 

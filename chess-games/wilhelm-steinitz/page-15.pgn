@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "London (England)"]
-[Date "1864.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Green Valentine"]
@@ -21,7 +20,6 @@ Ke6 24.Qf7+ 1-0
 
 [Event ""]
 [Site "Manchester (England)"]
-[Date "1864.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anonymous"]
@@ -40,7 +38,6 @@ Kd7 14.Be6+ Kc6 15.Ne5+ Kb5 16.Bc4+ Ka4 17.axb3+ Ka5 18.Bb4# 1-0
 
 [Event "It"]
 [Site "Dublin (Ireland)"]
-[Date "1865.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "MacDonnell G"]
@@ -65,7 +62,6 @@ Kf7 48.b4 Na6 49.c5 Be5 50.c6 1-0
 
 [Event "Simultan (blindfold)"]
 [Site "Dublin (Ireland)"]
-[Date "1865.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Barry G"]
@@ -86,7 +82,6 @@ Qg4 26.Bxf5 Qxd4 27.Bxd4 Nf3 28.Bxg6 Nxe1 29.Bxh7+ Kf8 30.Bf5 1-0
 
 [Event ""]
 [Site "Dublin (Ireland)"]
-[Date "1865.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Twigg"]
@@ -108,7 +103,6 @@ Kg7 30.Bh6+ Kh8 31.Qf6+ Kg8 32.Qg7# 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1865.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Duffy"]
@@ -129,7 +123,6 @@ Re7 25.Nf6+ Kf8 26.Bb4 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anderssen Adolf (GER)"]
@@ -150,7 +143,6 @@ Re2 0-1
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "4"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anderssen Adolf (GER)"]
@@ -174,7 +166,6 @@ Bh4 31.Rh5 Bxf2 32.Qxf2 Rg8 33.Qf5 Rg7 34.Rh6 Reg8 35.Reh1 Rxg4+
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "10"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anderssen Adolf (GER)"]
@@ -196,7 +187,6 @@ gxh3 26.Kf2 Qxf6 27.Be5 Qg6 28.Rxh3 Bh6 29.Nc5+ Ke8 30.Rxh6 Nxh6
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "14"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anderssen Adolf (GER)"]
@@ -227,7 +217,6 @@ Nd5 76.Re5 Nf4 77.Kf7 Nh3 78.Re3 Ng5+ 79.Kf8 Kh8 80.Re7 Nh7+
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -249,7 +238,6 @@ Qc7 31.Qe6+ Bg6 32.Rd7 1-0
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -273,7 +261,6 @@ Bxe4 42.Kf6 f4 43.Bxf4 1/2-1/2
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -294,7 +281,6 @@ Bf5 20.f3 Nxh2 21.Kxh2 Qh5+ 22.Kg1 Rad8 23.Qe2 Bh4 24.g4 fxg3
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -318,7 +304,6 @@ Kf7 40.Qd5+ 1-0
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -340,7 +325,6 @@ Bxe3 25.dxc6 Bxc5 26.cxb7 Qe5 27.Qc4 h5 28.Bc8 Qg3+ 29.Kh1 Qf3+
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -368,7 +352,6 @@ Kh5 58.Qc3 Qg1+ 59.Kb2 h2 60.Qh8+ Kg4 61.Qg7+ Kf3 62.Qc3+ Qe3
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -388,7 +371,6 @@ Nxe5 20.a5 Qxb4 21.Qxe6+ Nd7 22.Rb1 Qa3 23.Bf5 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "BelIaev V"]
@@ -408,7 +390,6 @@ Qxg8 20.Bh4+ 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "De Vere Cecil (ENG)"]
@@ -428,14 +409,12 @@ Nxe5 14.fxe5 Bb6 15.Be3 f5 16.exf6 Rxf6 17.Qh5 g6 18.Qh6 Bf5
 
 [Event "Anderssen - Steinitz"]
 [Site "London ENG"]
-[Date "1866.07.27"]
 [Round "6"]
 [White "Wilhelm Steinitz"]
 [Black "Adolf Anderssen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "1866.07.18"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -453,14 +432,12 @@ Nxe5 14.fxe5 Bb6 15.Be3 f5 16.exf6 Rxf6 17.Qh5 g6 18.Qh6 Bf5
 
 [Event "Anderssen - Steinitz"]
 [Site "London ENG"]
-[Date "1866.08.06"]
 [Round "12"]
 [White "Wilhelm Steinitz"]
 [Black "Adolf Anderssen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "1866.07.18"]
 [PlyCount "122"]
 [WhiteElo "?"]
 
@@ -479,14 +456,12 @@ Nxe5 14.fxe5 Bb6 15.Be3 f5 16.exf6 Rxf6 17.Qh5 g6 18.Qh6 Bf5
 
 [Event "London cg"]
 [Site "London cg"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Johann Jacob Loewenthal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1866.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -499,14 +474,12 @@ Nxe5 14.fxe5 Bb6 15.Be3 f5 16.exf6 Rxf6 17.Qh5 g6 18.Qh6 Bf5
 
 [Event "London 5"]
 [Site "London 5"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Johann Jacob Loewenthal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "1866.??.??"]
 [PlyCount "155"]
 [WhiteElo "?"]
 
@@ -528,14 +501,12 @@ Nxe5 14.fxe5 Bb6 15.Be3 f5 16.exf6 Rxf6 17.Qh5 g6 18.Qh6 Bf5
 
 [Event "London m/2"]
 [Site "London m/2"]
-[Date "1864.05.??"]
 [Round "2"]
 [White "Wilhelm Steinitz"]
 [Black "Valentine Green"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "1864.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -550,14 +521,12 @@ Nxe5 14.fxe5 Bb6 15.Be3 f5 16.exf6 Rxf6 17.Qh5 g6 18.Qh6 Bf5
 
 [Event "London m/6"]
 [Site "London ENG"]
-[Date "1864.05.??"]
 [Round "6"]
 [White "Wilhelm Steinitz"]
 [Black "Valentine Green"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1864.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 

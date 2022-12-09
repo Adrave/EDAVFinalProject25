@@ -1,6 +1,5 @@
 [Event "6th Gibtelecom Masters"]
 [Site "Gibraltar ENG"]
-[Date "2008.01.23"]
 [Round "2"]
 [White "Nakamura, H."]
 [Black "Szabo, Krisz1"]
@@ -9,7 +8,6 @@
 [WhiteElo "2670"]
 [BlackElo "2500"]
 [PlyCount "83"]
-[EventDate "2008.01.22"]
 
 1. c4 e6 2. Nc3 d5 3. d4 c6 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
 9. e5 Nd5 10. Nd2 Bb7 11. Be2 Nd7 12. a4 Qb6 13. O-O a5 14. Nde4 b4 15. Na2 c5
@@ -22,7 +20,6 @@ Qxh4 Kg7 42. Qf4 1-0
 
 [Event "6th Gibtelecom Masters"]
 [Site "Gibraltar ENG"]
-[Date "2008.01.27"]
 [Round "6"]
 [White "Nakamura, H."]
 [Black "Caspi, I."]
@@ -31,7 +28,6 @@ Qxh4 Kg7 42. Qf4 1-0
 [WhiteElo "2670"]
 [BlackElo "2378"]
 [PlyCount "79"]
-[EventDate "2008.01.22"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. Nc4 Qc7 8.
 g3 Nb6 9. Ne5 Be6 10. Bg2 Rd8 11. O-O g6 12. Ne2 Bg7 13. a4 O-O 14. a5 Nc4 15.
@@ -44,7 +40,6 @@ Rd2 Qxb6 35. axb6 c5 36. Rc1 Bg5 37. f4 Bf6 38. b7 Bd4+ 39. Kh1 Bb5 40. Rxd4
 
 [Event "6th Gibtelecom Masters"]
 [Site "Gibraltar ENG"]
-[Date "2008.01.29"]
 [Round "8"]
 [White "Nakamura, H."]
 [Black "Hebden, M."]
@@ -53,7 +48,6 @@ Rd2 Qxb6 35. axb6 c5 36. Rc1 Bg5 37. f4 Bf6 38. b7 Bd4+ 39. Kh1 Bb5 40. Rxd4
 [WhiteElo "2670"]
 [BlackElo "2530"]
 [PlyCount "97"]
-[EventDate "2008.01.22"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8.
 Be3 Bd7 9. Bxc6 bxc6 10. Nd2 Qh4 11. O-O Bb6 12. N2b3 Qe7 13. Re1 O-O 14. f3
@@ -67,7 +61,6 @@ Rdd7 Bf1 47. Rxg7 Bd3 48. Rgd7 Rxf3 49. Kg2 1-0
 
 [Event "6th Gibtelecom Masters"]
 [Site "Gibraltar ENG"]
-[Date "2008.01.31"]
 [Round "10"]
 [White "Nakamura, H."]
 [Black "Efimenko, Z."]
@@ -76,7 +69,6 @@ Rdd7 Bf1 47. Rxg7 Bd3 48. Rgd7 Rxf3 49. Kg2 1-0
 [WhiteElo "2670"]
 [BlackElo "2638"]
 [PlyCount "67"]
-[EventDate "2008.01.22"]
 
 1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Bg2 Bxc3 5. bxc3 O-O 6. d3 d6 7. e4 Nc6 8. Ne2
 Bd7 9. h3 Ne8 10. O-O a6 11. a4 b6 12. f4 exf4 13. Bxf4 Ne5 14. Nd4 g6 15. Nc2
@@ -88,7 +80,6 @@ Nxa4 29. Bxf8 Rxf8 30. g5 Ng4 31. Nxg4 Bxg4 32. Rxf6 Rc8 33. R1f4 Bd7 34. Bf1
 
 [Event "6th Gibtelecom Masters Rapid Playoff"]
 [Site "Gibraltar ENG"]
-[Date "2008.01.31"]
 [Round "1"]
 [White "Nakamura, H."]
 [Black "Bu Xiangzhi"]
@@ -97,7 +88,6 @@ Nxa4 29. Bxf8 Rxf8 30. g5 Ng4 31. Nxg4 Bxg4 32. Rxf6 Rc8 33. R1f4 Bd7 34. Bf1
 [WhiteElo "2670"]
 [BlackElo "2691"]
 [PlyCount "121"]
-[EventDate "2008.01.22"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O a6 8. a4
 dxc4 9. a5 Bg4 10. Ne5 Bxe2 11. Qxe2 Qc7 12. Nxc4 Nbd7 13. e4 e5 14. Be3 Rfe8
@@ -113,7 +103,6 @@ Nf4+ 59. Rxf4+ Kxe6 60. Re4+ Kd7 61. Kf3 1-0
 
 [Event "TCh-FRA Top 16 Gp A"]
 [Site "Marseille FRA"]
-[Date "2008.03.24"]
 [Round "3"]
 [White "Nakamura, H."]
 [Black "Sokolov, And1"]
@@ -122,7 +111,6 @@ Nf4+ 59. Rxf4+ Kxe6 60. Re4+ Kd7 61. Kf3 1-0
 [WhiteElo "2670"]
 [BlackElo "2594"]
 [PlyCount "83"]
-[EventDate "2008.03.22"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g4 a6 7. Be3 Nge7 8. f4
 b5 9. g5 Bb7 10. Bg2 Nxd4 11. Qxd4 d5 12. O-O-O dxe4 13. Qe5 Qb8 14. Nxe4 Nf5
@@ -135,7 +123,6 @@ Rg2+ 40. Kh3 Rg1 41. Rb3 Rh1+ 42. Kg2 1-0
 
 [Event "IX Dos Hermanas Internet"]
 [Site "ICC INT"]
-[Date "2008.04.04"]
 [Round "2.2"]
 [White "Nakamura, H."]
 [Black "Gormally, D."]
@@ -144,7 +131,6 @@ Rg2+ 40. Kh3 Rg1 41. Rb3 Rh1+ 42. Kg2 1-0
 [WhiteElo "2686"]
 [BlackElo "2508"]
 [PlyCount "71"]
-[EventDate "2008.04.04"]
 
 1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. d5 Qb6 7. Bc1 e6 8. e4
 exd5 9. e5 Qe6 10. Qe2 Ng8 11. Nh3 Nc6 12. Nf4 Qxe5 13. Nxd5 Qxe2+ 14. Bxe2 Kd8
@@ -156,7 +142,6 @@ Bxb7 Rb8 34. Bxb8 Rxb8 35. Be4 h4 36. Bxg6 1-0
 
 [Event "IX Dos Hermanas Internet"]
 [Site "ICC INT"]
-[Date "2008.04.05"]
 [Round "3.4"]
 [White "Nakamura, H."]
 [Black "Andriasian, Z."]
@@ -165,7 +150,6 @@ Bxb7 Rb8 34. Bxb8 Rxb8 35. Be4 h4 36. Bxg6 1-0
 [WhiteElo "2686"]
 [BlackElo "2533"]
 [PlyCount "153"]
-[EventDate "2008.04.04"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 a6 8. a4 Nbd7
 9. Nh3 Rb8 10. Qd2 Re8 11. Be2 Ne5 12. Nf2 Qa5 13. O-O Qb4 14. a5 Nxc4 15. Bxc4
@@ -183,7 +167,6 @@ Rf5+ 73. Kg8 Rf1 74. g7 Rh1 75. Re2 Rf1 76. Rh2 Rh1 77. Rxh1 1-0
 
 [Event "TCh-FRA Top 16 Gp A"]
 [Site "Noyon FRA"]
-[Date "2008.04.10"]
 [Round "4"]
 [White "Nakamura, H."]
 [Black "Bauer, Ch"]
@@ -192,7 +175,6 @@ Rf5+ 73. Kg8 Rf1 74. g7 Rh1 75. Re2 Rf1 76. Rh2 Rh1 77. Rxh1 1-0
 [WhiteElo "2670"]
 [BlackElo "2614"]
 [PlyCount "107"]
-[EventDate "2008.04.10"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
 d3 O-O 9. a3 Be6 10. b4 a5 11. b5 Nd4 12. Rb1 f6 13. e3 Nxf3+ 14. Bxf3 Rb8 15.
@@ -207,7 +189,6 @@ Rxb7 54. Ra5 1-0
 
 [Event "17th Open"]
 [Site "Chicago USA"]
-[Date "2008.05.23"]
 [Round "1"]
 [White "Nakamura, H."]
 [Black "Parry, M."]
@@ -216,7 +197,6 @@ Rxb7 54. Ra5 1-0
 [WhiteElo "2686"]
 [BlackElo "2265"]
 [PlyCount "73"]
-[EventDate "2008.05.23"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Ne5 Bb4 7. Bd2 Bxc3 8.
 Bxc3 Ne4 9. Nxd7 Bxd7 10. Bb4 a5 11. Ba3 b5 12. b3 Qg5 13. g3 b4 14. Bb2 O-O
@@ -228,7 +208,6 @@ b5 cxb5 35. Bxd5+ Kh7 36. Qh2+ Kg6 37. Bf3 1-0
 
 [Event "17th Open"]
 [Site "Chicago USA"]
-[Date "2008.05.25"]
 [Round "4"]
 [White "Nakamura, H."]
 [Black "Felecan, F."]
@@ -237,7 +216,6 @@ b5 cxb5 35. Bxd5+ Kh7 36. Qh2+ Kg6 37. Bf3 1-0
 [WhiteElo "2686"]
 [BlackElo "2377"]
 [PlyCount "117"]
-[EventDate "2008.05.23"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. f4
 Bb7 9. e5 dxe5 10. fxe5 Bc5 11. Be3 Bxd4 12. Qxd4 Qxd4 13. Bxd4 Nfd7 14. O-O-O
@@ -253,7 +231,6 @@ exd6 1-0
 
 [Event "17th Open"]
 [Site "Chicago USA"]
-[Date "2008.05.26"]
 [Round "6"]
 [White "Nakamura, H."]
 [Black "Kolev, At1"]
@@ -262,7 +239,6 @@ exd6 1-0
 [WhiteElo "2686"]
 [BlackElo "2568"]
 [PlyCount "81"]
-[EventDate "2008.05.23"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. g3 Bg7 12. exf5 Bxf5 13. Bg2 Be6 14. c3 O-O
@@ -275,7 +251,6 @@ Qb2+ Rf6 41. Rh5 1-0
 
 [Event "TCh-FRA Top 16 Poule Basse"]
 [Site "Evry FRA"]
-[Date "2008.05.29"]
 [Round "8"]
 [White "Nakamura, H."]
 [Black "Ninov, N."]
@@ -284,7 +259,6 @@ Qb2+ Rf6 41. Rh5 1-0
 [WhiteElo "2686"]
 [BlackElo "2509"]
 [PlyCount "111"]
-[EventDate "2008.05.29"]
 
 1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. h3 e6 7. g4 b5 8. Bg2
 Bb7 9. O-O b4 10. Nd5 exd5 11. exd5 Be7 12. g5 Nfd7 13. Nc6 Qc7 14. Nxe7 Kxe7
@@ -299,7 +273,6 @@ axb3 53. axb3 d5 54. b4 d4 55. b5 Kd5 56. f4 1-0
 
 [Event "Foxwoods Open"]
 [Site "Ledyard USA"]
-[Date "2009.04.09"]
 [Round "3"]
 [White "Nakamura, Hi"]
 [Black "Ivanov, AV USA."]
@@ -308,7 +281,6 @@ axb3 53. axb3 d5 54. b4 d4 55. b5 Kd5 56. f4 1-0
 [WhiteElo "2701"]
 [BlackElo "2516"]
 [PlyCount "41"]
-[EventDate "2009.04.08"]
 
 1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Nbd7 6. c4 Qe7+ 7. Qe2 Qxe2+
 8. Kxe2 a6 9. Bxd7+ Bxd7 10. d4 Nh5 11. Kf2 O-O-O 12. Nc3 h6 13. Ne5 Be8 14. g4
@@ -318,7 +290,6 @@ fxg3+ 15. hxg3 f6 16. Nf3 g5 17. Bd2 Bg6 18. g4 Ng7 19. Rae1 Re8 20. Rxe8+ Nxe8
 
 [Event "Foxwoods Open"]
 [Site "Ledyard USA"]
-[Date "2009.04.11"]
 [Round "7"]
 [White "Nakamura, Hi"]
 [Black "Friedel, J."]
@@ -327,7 +298,6 @@ fxg3+ 15. hxg3 f6 16. Nf3 g5 17. Bd2 Bg6 18. g4 Ng7 19. Rae1 Re8 20. Rxe8+ Nxe8
 [WhiteElo "2701"]
 [BlackElo "2516"]
 [PlyCount "241"]
-[EventDate "2009.04.08"]
 
 1. g3 e5 2. Bg2 d5 3. d3 Nf6 4. a3 Bd6 5. c4 dxc4 6. Qa4+ Nc6 7. Bxc6+ bxc6 8.
 Qxc6+ Bd7 9. Qxc4 O-O 10. Nf3 Bh3 11. Bg5 h6 12. Bxf6 Qxf6 13. Nbd2 e4 14. Nxe4
@@ -353,7 +323,6 @@ Rh4+ 121. Kc5 1/2-1/2
 
 [Event "ch-USA"]
 [Site "Saint Louis USA"]
-[Date "2009.05.12"]
 [Round "5"]
 [White "Nakamura, Hi"]
 [Black "Kamsky, G."]
@@ -362,7 +331,6 @@ Rh4+ 121. Kc5 1/2-1/2
 [WhiteElo "2701"]
 [BlackElo "2720"]
 [PlyCount "69"]
-[EventDate "2009.05.08"]
 
 1. c4 g6 2. Nf3 Nf6 3. Nc3 d5 4. Qa4+ Bd7 5. Qb3 dxc4 6. Qxc4 a6 7. d4 b5 8.
 Qb3 c5 9. dxc5 Bg7 10. e4 O-O 11. Be2 Be6 12. Qc2 Nbd7 13. Be3 Rc8 14. c6 Rxc6
@@ -374,7 +342,6 @@ Qxg6+ Kh8 35. Qh6+ 1/2-1/2
 
 [Event "City of Culture GM"]
 [Site "Donostia ESP"]
-[Date "2009.07.13"]
 [Round "6"]
 [White "Nakamura, Hi"]
 [Black "Ponomariov, R."]
@@ -383,7 +350,6 @@ Qxg6+ Kh8 35. Qh6+ 1/2-1/2
 [WhiteElo "2710"]
 [BlackElo "2727"]
 [PlyCount "27"]
-[EventDate "2009.07.07"]
 [EventRounds "9"]
 [EventCountry "ESP"]
 [EventCategory "18"]
@@ -397,7 +363,6 @@ Qc7 9. O-O-O b5 10. e5 Bb7 11. Qh3 dxe5 12. Nxe6 fxe6 13. Qxe6+ Be7 14. Bxb5
 
 [Event "City of Culture GM"]
 [Site "Donostia ESP"]
-[Date "2009.07.15"]
 [Round "8"]
 [White "Nakamura, Hi"]
 [Black "Movsesian, S."]
@@ -406,7 +371,6 @@ Qc7 9. O-O-O b5 10. e5 Bb7 11. Qh3 dxe5 12. Nxe6 fxe6 13. Qxe6+ Be7 14. Bxb5
 [WhiteElo "2710"]
 [BlackElo "2716"]
 [PlyCount "33"]
-[EventDate "2009.07.07"]
 [EventRounds "9"]
 [EventCountry "ESP"]
 [EventCategory "18"]
@@ -420,7 +384,6 @@ Nh4 Ne5 16. Bxe5 dxe5 17. Ng6 1/2-1/2
 
 [Event "3rd NH Chess Tournament"]
 [Site "Amsterdam NED"]
-[Date "2009.08.21"]
 [Round "2"]
 [White "Nakamura, Hi"]
 [Black "Van Wely, L."]
@@ -429,7 +392,6 @@ Nh4 Ne5 16. Bxe5 dxe5 17. Ng6 1/2-1/2
 [WhiteElo "2710"]
 [BlackElo "2655"]
 [PlyCount "157"]
-[EventDate "2009.08.20"]
 [EventRounds "10"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -452,7 +414,6 @@ Rg6 78. Qxg6+ fxg6+ 79. Kxg6 1/2-1/2
 
 [Event "3rd NH Chess Tournament"]
 [Site "Amsterdam NED"]
-[Date "2009.08.23"]
 [Round "4"]
 [White "Nakamura, Hi"]
 [Black "Nielsen, PH."]
@@ -461,7 +422,6 @@ Rg6 78. Qxg6+ fxg6+ 79. Kxg6 1/2-1/2
 [WhiteElo "2710"]
 [BlackElo "2680"]
 [PlyCount "82"]
-[EventDate "2009.08.20"]
 [EventRounds "10"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -478,7 +438,6 @@ b4 41. b3 Bd2 1/2-1/2
 
 [Event "25th ECC"]
 [Site "Ohrid MKD"]
-[Date "2009.10.10"]
 [Round "7"]
 [White "Nakamura, Hi"]
 [Black "Grischuk, A."]
@@ -487,7 +446,6 @@ b4 41. b3 Bd2 1/2-1/2
 [WhiteElo "2735"]
 [BlackElo "2733"]
 [PlyCount "36"]
-[EventDate "2009.10.04"]
 [EventRounds "7"]
 [EventCountry "MKD"]
 [Source "Mark Crowther"]
@@ -500,7 +458,6 @@ Be2 Qg6 9. O-O d6 10. f4 Qxe4 11. Bf2 Bxd4 12. cxd4 N5g6 13. g3 Bh3 14. Bf3 Qf5
 
 [Event "USCL 2009"]
 [Site "ICC INT"]
-[Date "2009.10.28"]
 [Round "9"]
 [White "Nakamura, Hi"]
 [Black "Ramirez, Alej"]
@@ -509,7 +466,6 @@ Be2 Qg6 9. O-O d6 10. f4 Qxe4 11. Bf2 Bxd4 12. cxd4 N5g6 13. g3 Bh3 14. Bf3 Qf5
 [WhiteElo "2710"]
 [BlackElo "2547"]
 [PlyCount "89"]
-[EventDate "2009.08.31"]
 [EventType "rapid"]
 [EventRounds "10"]
 [Source "Mark Crowther"]
@@ -526,7 +482,6 @@ Qxc6 41. Qxc6 Bxc6 42. Rc1 Bd5 43. Ra1 Bc4 44. Rc1 Bd5 45. Ra1 1/2-1/2
 
 [Event "Chess Classic"]
 [Site "London ENG"]
-[Date "2009.12.08"]
 [Round "1"]
 [White "Nakamura, Hi"]
 [Black "Ni Hua"]
@@ -535,7 +490,6 @@ Qxc6 41. Qxc6 Bxc6 42. Rc1 Bd5 43. Ra1 Bc4 44. Rc1 Bd5 45. Ra1 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2665"]
 [PlyCount "91"]
-[EventDate "2009.12.08"]
 [EventRounds "7"]
 [EventCountry "ENG"]
 [EventCategory "18"]
@@ -554,7 +508,6 @@ Rf8 Rc2 40. Kg4 Rc7 41. e6 b3 42. Rb8 Rg7+ 43. Kh5 Re7 44. Kg4 Rg7+ 45. Kh5 Re7
 
 [Event "Chess Classic"]
 [Site "London ENG"]
-[Date "2009.12.10"]
 [Round "3"]
 [White "Nakamura, Hi"]
 [Black "Short, N."]
@@ -563,7 +516,6 @@ Rf8 Rc2 40. Kg4 Rc7 41. e6 b3 42. Rb8 Rg7+ 43. Kh5 Re7 44. Kg4 Rg7+ 45. Kh5 Re7
 [WhiteElo "2715"]
 [BlackElo "2707"]
 [PlyCount "85"]
-[EventDate "2009.12.08"]
 [EventRounds "7"]
 [EventCountry "ENG"]
 [EventCategory "18"]
@@ -581,7 +533,6 @@ Kf8 41. Rxd7 Rxb5 42. Rb7 Rxf5 43. Rxb6 1/2-1/2
 
 [Event "Chess Classic"]
 [Site "London ENG"]
-[Date "2009.12.15"]
 [Round "7"]
 [White "Nakamura, Hi"]
 [Black "Kramnik, V."]
@@ -590,7 +541,6 @@ Kf8 41. Rxd7 Rxb5 42. Rb7 Rxf5 43. Rxb6 1/2-1/2
 [WhiteElo "2715"]
 [BlackElo "2772"]
 [PlyCount "68"]
-[EventDate "2009.12.08"]
 [EventRounds "7"]
 [EventCountry "ENG"]
 [EventCategory "18"]

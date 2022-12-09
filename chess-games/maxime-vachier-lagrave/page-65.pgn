@@ -1,6 +1,5 @@
 [Event "Ch France (team) (juniors) 2002/03"]
 [Site "France"]
-[Date "2003.??.??"]
 [Round "10"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Lepan Marvin (FRA)"]
@@ -23,7 +22,6 @@ Ra7 37.Rd1 1-0
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Halkidiki (Greece)"]
-[Date "2003.??.??"]
 [Round "10"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Goh Koon-Jong Jason (SIN)"]
@@ -50,7 +48,6 @@ Rxb7 54.axb7 Kxb7 55.Kxd5 Kc7 56.Ke6 Kd8 57.Kxf6 Ke8 58.g5 Kf8
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Halkidiki (Greece)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Lenderman Alex (USA)"]
@@ -74,7 +71,6 @@ Rh5 37.Rg5 Rxg5 38.fxg5 Kd8 39.Nxc5 Ke7 40.Ke4 Kf7 41.d4 Kg6
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Nikcevic Nebojsa (SCG)"]
@@ -100,7 +96,6 @@ Qe5 53.Qa4+ Kc1 54.Qf4+ 1-0
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Nguyen Chi-Minh (FRA)"]
@@ -124,7 +119,6 @@ d2 37.Rd1 Nd4 38.Bxd4 Rxd4 39.Kf1 a4 40.bxa4 Rxc4 41.Rxd2 Rxa4
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Marzolo Cyril (FRA)"]
@@ -146,7 +140,6 @@ Kg7 25.Ne5 Nxe5 26.Rxc8 Nf3+ 27.gxf3 Bxc8 28.Qc3 Qd8 29.Rc1 Rf8
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Pira Davoud (FRA)"]
@@ -169,7 +162,6 @@ Qxa2 31.Re1 Rf7 32.Rxe7 Qb1+ 33.Kh2 Qf5 34.Qd6 h5 35.Rxf7+ Kh6
 
 [Event "It (open)"]
 [Site "Cergy (France)"]
-[Date "2004.05.16"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Korneev Oleg (RUS)"]
@@ -191,7 +183,6 @@ Rxd6 31.Rxd6 Kxd6 32.Ke3 Ke5 33.g4 h6 34.h3 Kd5 35.Kd3 Ke5 36.Ke3 1/2-1/2
 
 [Event "Ch Paris (open)"]
 [Site "Paris (France)"]
-[Date "2004.07.06"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "David Alberto (LUX)"]
@@ -212,7 +203,6 @@ Kd7 25.Qb7+ Kd6 26.Qb8+ 1/2-1/2
 
 [Event "Ch Paris (open)"]
 [Site "Paris (France)"]
-[Date "2004.07.07"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Tregubov Pavel V (RUS)"]
@@ -234,7 +224,6 @@ Rxe3 31.fxe3 Kf8 32.a4 Rd3 33.a5 bxa5 1/2-1/2
 
 [Event "Ch Paris (open)"]
 [Site "Paris (France)"]
-[Date "2004.07.09"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Socko Bartosz (POL)"]
@@ -256,7 +245,6 @@ Qd7 25.Ne5 Nxe5 26.Rxe5 Re8 27.c4 Rxe5 28.dxe5 d4 29.Kf1 Qe7
 
 [Event "Ch France"]
 [Site "Val d'Isere (France)"]
-[Date "2004.08.17"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Nataf Igor-Alexandre (FRA)"]
@@ -280,7 +268,6 @@ Ke8 0-1
 
 [Event "Ch France"]
 [Site "Val d'Isere (France)"]
-[Date "2004.08.21"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Apicella Manuel (FRA)"]
@@ -300,7 +287,6 @@ Nb6 15.g4 hxg4 16.hxg4 Qd7 17.Bd2 O-O-O 18.Kf2 Be7 19.Rh1 a5
 
 [Event "Ch France"]
 [Site "Val d'Isere (France)"]
-[Date "2004.08.23"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Fontaine Robert (FRA)"]
@@ -326,7 +312,6 @@ Ne2+ 43.Ke3 Nxf4 44.Ra6 Bd8 45.Rd6 Bxg5 46.Kf3 Bf6 47.Ra6 g5
 
 [Event "Ch France"]
 [Site "Val d'Isere (France)"]
-[Date "2004.08.25"]
 [Round "10"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Lautier Joel (FRA)"]
@@ -345,7 +330,6 @@ O-O 8.Be3 b6 9.Qd2 e5 10.Bh6 Qd6 11.O-O Nh5 12.Ne2 f6 13.a3 a5
 
 [Event "Ch World (juniors) (under 16)"]
 [Site "Heraklio (Greece)"]
-[Date "2004.11.06"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Rodshtein Maxim (ISR)"]
@@ -367,7 +351,6 @@ Bg4 31.f3 Bc8 32.h6+ Kf8 33.Qe3 Be5 1/2-1/2
 
 [Event "Ch World (juniors) (under 16)"]
 [Site "Heraklio (Greece)"]
-[Date "2004.11.10"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Lenic Luka (SLO)"]
@@ -391,7 +374,6 @@ Be7 36.Rd1 Bf8 37.Re1 Qd7 38.Qxd7+ Nxd7 39.f4 Kf6 40.fxe5+ Nxe5
 
 [Event "Ch World (juniors) (under 16)"]
 [Site "Heraklio (Greece)"]
-[Date "2004.11.12"]
 [Round "10"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Mamedov Rauf (AZE)"]
@@ -417,7 +399,6 @@ Qa7+ 51.Kd5 Rd8+ 52.Kc6 Qa6+ 53.Kc7 Qa5+ 54.Kc6 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Paris (France)"]
-[Date "2004.12.18"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Gouliev Namig (AZE)"]
@@ -441,7 +422,6 @@ Kg8 42.Rg6+ Kf7 43.Rf6+ Kg8 44.Rxf8+ Kxf8 45.Bxf4 Rb7 46.Rxb7 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Paris (France)"]
-[Date "2004.12.21"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Kazhgaleyev Murtas (KAZ)"]
@@ -460,7 +440,6 @@ Qf6 8.Be3 Bxf3 9.Qxf3 Qxf3 10.gxf3 Bd6 11.Nd2 Ne7 12.Rfb1 Ng6
 
 [Event "Ch France (juniors) (under 20)"]
 [Site "France"]
-[Date "2004.04.??"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Le Pape Jeremy (FRA)"]
@@ -469,7 +448,6 @@ Qf6 8.Be3 Bxf3 9.Qxf3 Qxf3 10.gxf3 Bd6 11.Nd2 Ne7 12.Rfb1 Ng6
 [WhiteElo "2493"]
 [BlackElo "2147"]
 [PlyCount "61"]
-[EventDate "2004.??.??"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 b5 7. g4 Bb7 8. Bg2
 e5 9. Nde2 b4 10. Nd5 Nxd5 11. exd5 Nd7 12. O-O Be7 13. a3 h5 14. gxh5 Rxh5 15.
@@ -480,7 +458,6 @@ bxa6 Kd7 29. Rc6 Nxd3 30. Nf5 Bd8 31. Rxc8 1-0
 
 [Event "Ch France (juniors) (under 20)"]
 [Site "France"]
-[Date "2004.04.??"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Sebbah Julien (FRA)"]
@@ -489,7 +466,6 @@ bxa6 Kd7 29. Rc6 Nxd3 30. Nf5 Bd8 31. Rxc8 1-0
 [WhiteElo "2493"]
 [BlackElo "2129"]
 [PlyCount "31"]
-[EventDate "2004.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ne4 5. Nxe4 dxe4 6. Bc4 a6 7. a4 Nd7 8. Ne2
 c5 9. O-O b6 10. Bf4 Bb7 11. d5 b5 12. axb5 Nb6 13. bxa6 Bxd5 14. Bb5+ Ke7 15.
@@ -498,7 +474,6 @@ Nc3 h6 16. Qe2 1-0
 
 [Event "Ch France (team) (juniors) 2003/04"]
 [Site "France"]
-[Date "2004.05.02"]
 [Round "11"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Ricbour Jeremy (FRA)"]
@@ -507,7 +482,6 @@ Nc3 h6 16. Qe2 1-0
 [WhiteElo "2493"]
 [BlackElo "2115"]
 [PlyCount "109"]
-[EventDate "2004.??.??"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 b5 8. Bg2
 Bb7 9. a3 Be7 10. O-O Qc7 11. Re1 Nfd7 12. a4 bxa4 13. Nxa4 O-O 14. Be3 Nc6 15.
@@ -522,7 +496,6 @@ Rxh6 Rg1+ 54. Kf2 Rb1 55. Rc6 1-0
 
 [Event "Cergy FRA, 2. Open"]
 [Site "Cergy FRA"]
-[Date "2004.05.16"]
 [Round "?"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Jactel, Nicolas"]
@@ -530,7 +503,6 @@ Rxh6 Rg1+ 54. Kf2 Rb1 55. Rc6 1-0
 [WhiteElo "2434"]
 [BlackElo "2105"]
 [ECO "B02"]
-[EventDate "2004.05.16"]
 
 1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Nb6 5. Bb3 Nc6 6. Nf3 Bf5 7. O-O 
 e6 8. d4 Be7 9. Be3 O-O 10. Qe2 Bf6 11. Rad1 Nd5 12. Nxd5 exd5 13. Qb5 Be4
@@ -544,7 +516,6 @@ Ke6 1-0
 
 [Event "FRA, Nationale I (j) 04/05, rounds 1-3"]
 [Site "FRA"]
-[Date "2004.11.20"]
 [Round "1.1"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Vuillermoz, Robert"]
@@ -552,7 +523,6 @@ Ke6 1-0
 [WhiteElo "2493"]
 [BlackElo "2056"]
 [ECO "B40"]
-[EventDate "2004.11.20"]
 
 1. e4 c5 2. Nf3 e6 3. d3 d5 4. Qe2 dxe4 5. dxe4 Qc7 6. g3 Nc6 7. c3 e5 8. 
 Bg2 Bg4 9. Nbd2 Rd8 10. Nc4 Nge7 11. Ne3 Be6 12. Ng5 Qc8 13. O-O g6 14. 

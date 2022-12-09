@@ -1,6 +1,5 @@
 [Event "GM"]
 [Site "Vienna AUT"]
-[Date "2008.08.20"]
 [Round "5"]
 [White "Giri, A."]
 [Black "Pachta, P."]
@@ -9,7 +8,6 @@
 [WhiteElo "2430"]
 [BlackElo "2312"]
 [PlyCount "77"]
-[EventDate "2008.08.16"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6 8.
 Qd2 O-O 9. O-O-O Ng4 10. Bxg4 Bxg4 11. f3 Bd7 12. h4 Ne5 13. b3 Rc8 14. Kb1 Re8
@@ -21,7 +19,6 @@ dxe5 Kf8 35. Ne4 Ke7 36. Rh8 Bd7 37. Rxc8 Bxc8 38. Nd6 Bd7 39. b4 1-0
 
 [Event "GM"]
 [Site "Vienna AUT"]
-[Date "2008.08.21"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Chatalbashev, B."]
@@ -30,7 +27,6 @@ dxe5 Kf8 35. Ne4 Ke7 36. Rh8 Bd7 37. Rxc8 Bxc8 38. Nd6 Bd7 39. b4 1-0
 [WhiteElo "2430"]
 [BlackElo "2596"]
 [PlyCount "111"]
-[EventDate "2008.08.16"]
 
 1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. c4 Bb7 5. Qc2 Na6 6. a3 e6 7. e4 exd5 8. cxd5
 Qe7 9. Nbd2 c4 10. Be2 Nc5 11. O-O Nfxe4 12. Nd4 Nd6 13. b4 Na4 14. Nxc4 bxc4
@@ -45,7 +41,6 @@ Kxf5 53. Ke3 Ke5 54. f4+ Kd5 55. Kd3 Kd6 56. Kd4 1-0
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2009.01.17"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Holzke, F."]
@@ -54,7 +49,6 @@ Kxf5 53. Ke3 Ke5 54. f4+ Kd5 55. Kd3 Kd6 56. Kd4 1-0
 [WhiteElo "2469"]
 [BlackElo "2524"]
 [PlyCount "68"]
-[EventDate "2009.01.17"]
 
 1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e3 b5 5. a4 b4 6. Ne4 Qd5 7. Nd2 c3 8. bxc3
 bxc3 9. Nb1 Qa5 10. Qc2 Na6 11. Ba3 e5 12. Bxf8 Kxf8 13. Bxa6 Bxa6 14. dxe5 Rb8
@@ -66,7 +60,6 @@ Qxh2 21. Ne4 Qh5+ 22. f3 Nxe4 23. Qb2 Kg8 24. Qd4 Qh2 25. fxe4 h5 26. Qf6 Qxg2+
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2009.01.19"]
 [Round "3"]
 [White "Giri, A."]
 [Black "So, W."]
@@ -75,7 +68,6 @@ Qxh2 21. Ne4 Qh5+ 22. f3 Nxe4 23. Qb2 Kg8 24. Qd4 Qh2 25. fxe4 h5 26. Qf6 Qxg2+
 [WhiteElo "2469"]
 [BlackElo "2627"]
 [PlyCount "76"]
-[EventDate "2009.01.17"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Bd3 Bg4 6. Nbd2 e6 7. O-O Nbd7 8. Qc2
 Bd6 9. b3 Qe7 10. Bb2 g6 11. Rfe1 O-O 12. Ne5 Bf5 13. Nxd7 Qxd7 14. e4 dxe4 15.
@@ -87,7 +79,6 @@ Rd4 28. Qe2 c5 29. Re8+ Kg7 30. Rxd8 Rxd8 31. Qe3 Qc6+ 32. f3 Qf6 33. Qh6+ Kg8
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2009.01.24"]
 [Round "7"]
 [White "Giri, A."]
 [Black "Nijboer, F."]
@@ -96,7 +87,6 @@ Rd4 28. Qe2 c5 29. Re8+ Kg7 30. Rxd8 Rxd8 31. Qe3 Qc6+ 32. f3 Qf6 33. Qh6+ Kg8
 [WhiteElo "2469"]
 [BlackElo "2560"]
 [PlyCount "68"]
-[EventDate "2009.01.17"]
 
 1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. Re1
 Qf7 9. b3 Ne4 10. Bb2 Nd7 11. Qc2 Ndf6 12. e3 c6 13. Nxe4 Nxe4 14. Nd2 Nf6 15.
@@ -108,7 +98,6 @@ Bf8 34. Bxf8 Rxf8 1/2-1/2
 
 [Event "TCh-NED 2008-9"]
 [Site "Netherlands NED"]
-[Date "2009.03.07"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Wiersma, E."]
@@ -117,7 +106,6 @@ Bf8 34. Bxf8 Rxf8 1/2-1/2
 [WhiteElo "2430"]
 [BlackElo "2419"]
 [PlyCount "130"]
-[EventDate "2008.09.27"]
 
 1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nh3 Bg7 5. Nf4 Nc6 6. d5 Ne5 7. Nc3 c6 8. e4 d6
 9. exf5 Bxf5 10. h3 O-O 11. O-O Ne8 12. Qe2 Nc7 13. a4 Kh8 14. a5 Qc8 15. Kh2
@@ -134,7 +122,6 @@ Ke5 60. Kf3 d2+ 61. Ke2 Rd3 62. Kd1 Kf5 63. g4+ Ke5 64. Rb4 Kd5 65. Rb5+ Ke4
 
 [Event "Bundesliga 2008-9"]
 [Site "Werder Bremen GER"]
-[Date "2009.03.28"]
 [Round "14"]
 [White "Giri, A."]
 [Black "Heinemann, T."]
@@ -143,7 +130,6 @@ Ke5 60. Kf3 d2+ 61. Ke2 Rd3 62. Kd1 Kf5 63. g4+ Ke5 64. Rb4 Kd5 65. Rb5+ Ke4
 [WhiteElo "2466"]
 [BlackElo "2490"]
 [PlyCount "100"]
-[EventDate "2008.10.03"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qb3 Nc6 6. Nbd2 Na5 7. Qc3 c5 8. dxc5
 bxc5 9. e4 Bb7 10. e5 Ne4 11. Nxe4 Bxe4 12. Bg2 Rb8 13. O-O Be7 14. Re1 Bg6 15.
@@ -157,7 +143,6 @@ Rh5+ 47. Kf6 Rf5+ 48. Rxf5 gxf5 49. a3 Kd7 50. Kf7 Kd6 1/2-1/2
 
 [Event "Intomart GfK Open"]
 [Site "Hilversum NED"]
-[Date "2009.07.04"]
 [Round "8"]
 [White "Giri, A."]
 [Black "Reinderman, D."]
@@ -166,7 +151,6 @@ Rh5+ 47. Kf6 Rf5+ 48. Rxf5 gxf5 49. a3 Kd7 50. Kf7 Kd6 1/2-1/2
 [WhiteElo "2517"]
 [BlackElo "2560"]
 [PlyCount "86"]
-[EventDate "2009.06.27"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -183,7 +167,6 @@ Bxh6 c5 34. Bf4 Kg7 35. Bd6 c4 36. Rc1 c3 37. Bb4 Bd7 38. Bxc3 Bc6 39. Bd2 a5
 
 [Event "Dutch Open"]
 [Site "Dieren NED"]
-[Date "2009.07.27"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Ernst, S."]
@@ -192,7 +175,6 @@ Bxh6 c5 34. Bf4 Kg7 35. Bd6 c4 36. Rc1 c3 37. Bb4 Bd7 38. Bxc3 Bc6 39. Bd2 a5
 [WhiteElo "2518"]
 [BlackElo "2598"]
 [PlyCount "38"]
-[EventDate "2009.07.21"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -205,7 +187,6 @@ Bxc4 Qh5 16. Kg2 c5 17. Be2 Qh7 18. dxc5 Nxc5 19. Bc4 a6 1/2-1/2
 
 [Event "University of Twente YM"]
 [Site "Enschede NED"]
-[Date "2009.08.01"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Zhigalko, S."]
@@ -214,7 +195,6 @@ Bxc4 Qh5 16. Kg2 c5 17. Be2 Qh7 18. dxc5 Nxc5 19. Bc4 a6 1/2-1/2
 [WhiteElo "2518"]
 [BlackElo "2621"]
 [PlyCount "93"]
-[EventDate "2009.07.31"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -232,7 +212,6 @@ Kg2 Rxb3 41. Ra5 g6 42. g4 Rb5 43. Ra8 h5 44. Ra7+ Ke6 45. Ra6 Kd7 46. Ra7+ Ke6
 
 [Event "University of Twente YM"]
 [Site "Enschede NED"]
-[Date "2009.08.08"]
 [Round "9"]
 [White "Giri, A."]
 [Black "Pruijssers, R."]
@@ -241,7 +220,6 @@ Kg2 Rxb3 41. Ra5 g6 42. g4 Rb5 43. Ra8 h5 44. Ra7+ Ke6 45. Ra6 Kd7 46. Ra7+ Ke6
 [WhiteElo "2518"]
 [BlackElo "2401"]
 [PlyCount "145"]
-[EventDate "2009.07.31"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -263,7 +241,6 @@ Bxh5 73. Bxh5 1/2-1/2
 
 [Event "Jubilee Open"]
 [Site "Zuerich SUI"]
-[Date "2009.08.11"]
 [Round "4"]
 [White "Giri, A."]
 [Black "Bauer, Ch"]
@@ -272,7 +249,6 @@ Bxh5 73. Bxh5 1/2-1/2
 [WhiteElo "2518"]
 [BlackElo "2602"]
 [PlyCount "146"]
-[EventDate "2009.08.09"]
 [EventRounds "9"]
 [EventCountry "SUI"]
 [Source "Mark Crowther"]
@@ -294,7 +270,6 @@ Kf4 Ke6 67. Bc3 g6 68. Ke3 f5 69. g5 Kd5 70. Kd3 Kc5 71. Bd2 Kd5 72. Bc3 Kc5
 
 [Event "Jubilee Open"]
 [Site "Zuerich SUI"]
-[Date "2009.08.12"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Kuzubov, Y."]
@@ -303,7 +278,6 @@ Kf4 Ke6 67. Bc3 g6 68. Ke3 f5 69. g5 Kd5 70. Kd3 Kc5 71. Bd2 Kd5 72. Bc3 Kc5
 [WhiteElo "2518"]
 [BlackElo "2635"]
 [PlyCount "100"]
-[EventDate "2009.08.09"]
 [EventRounds "9"]
 [EventCountry "SUI"]
 [Source "Mark Crowther"]
@@ -321,7 +295,6 @@ Nf2 48. Re3 Nxd1 49. Re7+ Kg8 50. f6 Nc3 0-1
 
 [Event "ch-NED"]
 [Site "Haaksbergen NED"]
-[Date "2009.09.12"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Ernst, S."]
@@ -330,7 +303,6 @@ Nf2 48. Re3 Nxd1 49. Re7+ Kg8 50. f6 Nc3 0-1
 [WhiteElo "2552"]
 [BlackElo "2589"]
 [PlyCount "156"]
-[EventDate "2009.09.12"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [EventCategory "11"]
@@ -354,7 +326,6 @@ Rxh6 Kxh6 1/2-1/2
 
 [Event "ch-NED"]
 [Site "Haaksbergen NED"]
-[Date "2009.09.14"]
 [Round "3"]
 [White "Giri, A."]
 [Black "Swinkels, R."]
@@ -363,7 +334,6 @@ Rxh6 Kxh6 1/2-1/2
 [WhiteElo "2552"]
 [BlackElo "2511"]
 [PlyCount "45"]
-[EventDate "2009.09.12"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [EventCategory "11"]
@@ -378,7 +348,6 @@ Nd4 21. Nc2 Nxe2+ 22. Rxe2 Be6 23. b3 1/2-1/2
 
 [Event "25th ECC"]
 [Site "Ohrid MKD"]
-[Date "2009.10.09"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Stupak, K."]
@@ -387,7 +356,6 @@ Nd4 21. Nc2 Nxe2+ 22. Rxe2 Be6 23. b3 1/2-1/2
 [WhiteElo "2552"]
 [BlackElo "2451"]
 [PlyCount "42"]
-[EventDate "2009.10.04"]
 [EventRounds "7"]
 [EventCountry "MKD"]
 [Source "Mark Crowther"]
@@ -401,7 +369,6 @@ Bd3 Qb6 1/2-1/2
 
 [Event "Unive Crown"]
 [Site "Hoogeveen NED"]
-[Date "2009.10.18"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Ivanchuk, V."]
@@ -410,7 +377,6 @@ Bd3 Qb6 1/2-1/2
 [WhiteElo "2552"]
 [BlackElo "2756"]
 [PlyCount "43"]
-[EventDate "2009.10.18"]
 [EventRounds "6"]
 [EventCountry "NED"]
 [EventCategory "17"]
@@ -425,7 +391,6 @@ Qa5 15. Bd2 Qf5 16. Rxc4 O-O 17. Qc2 Nb6 18. Rc5 Qg6 19. Rg5 Qc6 20. Rc5 Qg6
 
 [Event "Unive Crown"]
 [Site "Hoogeveen NED"]
-[Date "2009.10.19"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Tiviakov, S."]
@@ -434,7 +399,6 @@ Qa5 15. Bd2 Qf5 16. Rxc4 O-O 17. Qc2 Nb6 18. Rc5 Qg6 19. Rg5 Qc6 20. Rc5 Qg6
 [WhiteElo "2552"]
 [BlackElo "2670"]
 [PlyCount "103"]
-[EventDate "2009.10.18"]
 [EventRounds "6"]
 [EventCountry "NED"]
 [EventCategory "17"]
@@ -453,7 +417,6 @@ g5 Ne8 48. Bh3 Bc8 49. Bxe6 Re7 50. Rce3 Ng7 51. Bxc8 Rxe3 52. fxe3 1/2-1/2
 
 [Event "Unive Crown"]
 [Site "Hoogeveen NED"]
-[Date "2009.10.23"]
 [Round "5"]
 [White "Giri, A."]
 [Black "Polgar, Ju"]
@@ -462,7 +425,6 @@ g5 Ne8 48. Bh3 Bc8 49. Bxe6 Re7 50. Rce3 Ng7 51. Bxc8 Rxe3 52. fxe3 1/2-1/2
 [WhiteElo "2552"]
 [BlackElo "2687"]
 [PlyCount "72"]
-[EventDate "2009.10.18"]
 [EventRounds "6"]
 [EventCountry "NED"]
 [EventCategory "17"]
@@ -479,7 +441,6 @@ b5 22. Qe2 c4 23. Rad1 Nd3 24. Ne1 Bxg2 25. Kxg2 Nxe1+ 26. Qxe1 Rb7 27. a3 b4
 
 [Event "Haye Kramer Zeskamp"]
 [Site "Leeuwarden NED"]
-[Date "2009.11.15"]
 [Round "5"]
 [White "Giri, A."]
 [Black "Werle, J."]
@@ -488,7 +449,6 @@ b5 22. Qe2 c4 23. Rad1 Nd3 24. Ne1 Bxg2 25. Kxg2 Nxe1+ 26. Qxe1 Rb7 27. a3 b4
 [WhiteElo "2585"]
 [BlackElo "2565"]
 [PlyCount "44"]
-[EventDate "2009.11.13"]
 [EventRounds "5"]
 [EventCountry "NED"]
 [EventCategory "10"]
@@ -503,7 +463,6 @@ h6 9. Nc3 Ne4 10. Nb5 Na6 11. Nd2 d5 12. cxd5 exd5 13. Nxe4 dxe4 14. Rc1 Bg5
 
 [Event "TCh-NED 2009-10"]
 [Site "Netherlands NED"]
-[Date "2009.10.31"]
 [Round "2"]
 [White "Giri, A."]
 [Black "Feygin, M."]
@@ -512,7 +471,6 @@ h6 9. Nc3 Ne4 10. Nb5 Na6 11. Nd2 d5 12. cxd5 exd5 13. Nxe4 dxe4 14. Rc1 Bg5
 [WhiteElo "2552"]
 [BlackElo "2546"]
 [PlyCount "53"]
-[EventDate "2009.09.26"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -527,7 +485,6 @@ Bh2+ 21. Kh1 Rxe1+ 22. Qxe1 Be5 23. Qe4 f6 24. Bh6 Rd8 25. f4 Bd4 26. b3 Qxd5
 
 [Event "Open A"]
 [Site "Groningen NED"]
-[Date "2009.12.28"]
 [Round "7"]
 [White "Giri, A."]
 [Black "Greenfeld, A."]
@@ -536,7 +493,6 @@ Bh2+ 21. Kh1 Rxe1+ 22. Qxe1 Be5 23. Qe4 f6 24. Bh6 Rd8 25. f4 Bd4 26. b3 Qxd5
 [WhiteElo "2585"]
 [BlackElo "2559"]
 [PlyCount "75"]
-[EventDate "2009.12.21"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -552,7 +508,6 @@ Kd5 c4 35. Ra5 b3 36. cxb3 cxb3 37. Rxb5 Rxa7 38. Rxb3 1/2-1/2
 
 [Event "Open A"]
 [Site "Groningen NED"]
-[Date "2009.12.30"]
 [Round "9"]
 [White "Giri, A."]
 [Black "Werle, J."]
@@ -561,7 +516,6 @@ Kd5 c4 35. Ra5 b3 36. cxb3 cxb3 37. Rxb5 Rxa7 38. Rxb3 1/2-1/2
 [WhiteElo "2585"]
 [BlackElo "2565"]
 [PlyCount "155"]
-[EventDate "2009.12.21"]
 [EventRounds "9"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -584,7 +538,6 @@ Kh3 Qf6 60. Qe4 Bf8 61. Be3 Kg8 62. Bd4 Qe7 63. f5 Qg5 64. f6 Qh5+ 65. Kg2 Qe2+
 
 [Event "Bussum NED, Open 2009"]
 [Site "Bussum NED"]
-[Date "2009.06.01"]
 [Round "6"]
 [White "Giri, Anish"]
 [Black "Danin, Alexandre"]
@@ -592,7 +545,6 @@ Kh3 Qf6 60. Qe4 Bf8 61. Be3 Kg8 62. Bd4 Qe7 63. f5 Qg5 64. f6 Qh5+ 65. Kg2 Qe2+
 [WhiteElo "2517"]
 [BlackElo "2498"]
 [ECO "D87"]
-[EventDate "2009.05.29"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
 8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Rc1 e5 13. dxc5 Be6 14. 
@@ -603,7 +555,6 @@ Qg4 26. h3 Qg3 27. Qe1 1/2-1/2
 
 [Event "Bussum NED, Open 2009"]
 [Site "Bussum NED"]
-[Date "2009.06.01"]
 [Round "7"]
 [White "Giri, Anish"]
 [Black "Miezis, Normunds"]
@@ -611,7 +562,6 @@ Qg4 26. h3 Qg3 27. Qe1 1/2-1/2
 [WhiteElo "2517"]
 [BlackElo "2579"]
 [ECO "B41"]
-[EventDate "2009.05.29"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nc6 6. O-O Nge7 7. Nb3 d5 
 8. N1d2 Ng6 9. exd5 exd5 10. c4 Be6 11. Nf3 dxc4 12. Nbd4 Bd5 13. Nxc6 

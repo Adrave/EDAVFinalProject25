@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "3"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Czerniak Moshe (ISR)"]
@@ -22,7 +21,6 @@ a6 31.Rd1 Qb2 32.Nc3 Nd4 33.Rb1 Qc2 34.Be4 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "9"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Grau Roberto (ARG)"]
@@ -46,7 +44,6 @@ Qb4 42.Qd7+ Bg7 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "7"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -67,7 +64,6 @@ Rd5 25.Nxd3 Re8 26.Rf3 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "11"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Petrov Vladimir M (LAT)"]
@@ -89,7 +85,6 @@ g5 30.Ra5 h6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "4"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -111,7 +106,6 @@ b5 25.Nc3 f5 26.Nxd5 cxd5 27.Rc5 f4 28.exf4 Rxf4 29.Rxd5 Qf6
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "15"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Trompowsky Octavio"]
@@ -134,7 +128,6 @@ Nb8 36.Kd2 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "5"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -157,7 +150,6 @@ Qb5 31.Bxe5 dxe5 32.Qxe5 Rf7 33.Rc3 Qb1+ 34.Kf2 Qb6+ 35.Kg2 Qd8
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "2"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Vassaux G"]
@@ -178,7 +170,6 @@ Bd7 20.Rf3 Be8 21.Rh3 Qd6 22.gxf5 exf5 23.Rd1 cxd4 24.exd4 Qa3
 
 [Event ""]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Anonymous 1"]
@@ -198,7 +189,6 @@ Qe7 19.Rd7 Bxd7 20.Nxd7 Rfc8 21.Qc3 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Golombek Harry (ENG)"]
@@ -219,7 +209,6 @@ Ne6 25.Nc3 Red8 26.Qxb7 Qa3 27.Nxd5 Qxa2 28.Nb4 Qa4 29.Nc6 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Menchik Vera"]
@@ -244,7 +233,6 @@ Kh5 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Thomas George A (ENG)"]
@@ -267,7 +255,6 @@ Nxh6 32.Ra1 Ng4 33.Rag1 Nxe3 34.fxe3 Rf7 35.Ng5 Rg7 36.Bc4 Nh7
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Wheatcroft Ge"]
@@ -287,7 +274,6 @@ Rd8 19.Rxd8 Nxd8 20.Ne8+ 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Villegas Benito H (ARG)"]
@@ -309,7 +295,6 @@ Kg7 31.a4 Rd6 32.Qe5+ Kf8 33.Qxd6+ 1-0
 
 [Event "Simultan"]
 [Site "Habana (Cuba)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bucelo A"]
@@ -332,7 +317,6 @@ Ra6 30.Rd8+ Rxd8 31.Rxa6 Rd5 32.h4 g6 33.g4 Rd4 34.Rxa5 Rxg4+
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Gelabert J A"]
@@ -354,7 +338,6 @@ fxe4 32.Qxe4 f5 1/2-1/2
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Gonzalez Manchon Juan Miguel (ESP)"]
@@ -382,7 +365,6 @@ d2 64.Kxa3 Kxf5 65.Kb4 Kf4 66.c5 Nxc5 67.Kxc5 e4 68.Rxd2 1/2-1/2
 
 [Event "Ch Manhattan Chess Club"]
 [Site "New York (USA)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Forsberg H"]
@@ -404,7 +386,6 @@ Rxc1 25.Rxc1 Kxg7 26.Rc7 Kf8 27.Qd2 Qe8 28.Nf6 Re1+ 29.Kf2 Re2+
 
 [Event "Ch Manhattan Chess Club"]
 [Site "New York (USA)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Karff May N"]
@@ -425,7 +406,6 @@ Qc3 25.Re1 Rxg3+ 0-1
 
 [Event "Ch Manhattan Chess Club"]
 [Site "New York (USA)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lewis James E (DOM)"]
@@ -448,7 +428,6 @@ Re8 30.Rd7 Qd2+ 31.Kh3 Qd3 32.Bg2 Re5 33.Kh4 Rxh5+ 34.Kxh5 Qg6+
 
 [Event ""]
 [Site "Pinar del Rio (Cuba)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Castillo Jose (NCA)"]
@@ -470,7 +449,6 @@ Bd7 25.Nd5 Qg4 26.Rxc8 Bxc8 27.Qc4 Be6 28.Qc5 Nf3+ 29.Nxf3 Qxf3
 
 [Event ""]
 [Site "Pinar del Rio (Cuba)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Celorio Rodriguez Mas"]
@@ -492,7 +470,6 @@ Qb5 25.Qc7 a4 26.Bxf6 Bxf6 27.Qe5 Qxe5 28.dxe5 axb3 29.axb3 Rg8
 
 [Event ""]
 [Site "Pinar del Rio (Cuba)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lluis R"]
@@ -515,7 +492,6 @@ Bxd6 20.exd6 Qc6 21.b4 Ng5 22.Ne1 Qc8 23.b5 Bxg2 24.Kxg2 Qb7+
 
 [Event ""]
 [Site "Pinar del Rio (Cuba)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rodriguez Carnero A"]
@@ -535,14 +511,12 @@ Rf8 20.Qf3 c5 21.Bxb7+ Qxb7 22.Qxb7+ 1-0
 
 [Event "Margate"]
 [Site "Margate ENG"]
-[Date "1939.04.16"]
 [Round "5"]
 [White "Jose Raul Capablanca"]
 [Black "Vera Menchik"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "1939.04.12"]
 [PlyCount "93"]
 [WhiteElo "?"]
 

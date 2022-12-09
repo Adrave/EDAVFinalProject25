@@ -1,6 +1,5 @@
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Akopian Vladimir (ARM)"]
@@ -24,7 +23,6 @@ Qa5 43.e7+ Kh8 44.Re1 Be5 45.Qc6 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -49,7 +47,6 @@ Rdd8 46.Qe6+ Rd6 47.Qc4 Rf6 48.Qd5 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -75,7 +72,6 @@ Kg7 53.Ra7+ Kf6 54.Kc3 Re4 55.Rh7 Ra4 56.a7 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.01.23"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Timman Jan H (NED)"]
@@ -96,7 +92,6 @@ Kxh7 26.Qh2+ Kxg7 27.Nxg6 Rxe3 28.Ne7+ Kf8 29.Nxc8 1-0
 
 [Event "Bundesliga 2003/04"]
 [Site "Germany"]
-[Date "2004.02.13"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Schmittdiel Eckhard (GER)"]
@@ -119,7 +114,6 @@ Qf3+ 32.Qxf3 Rxf3 33.Re1 Bf6 34.Bg2 Rf5 35.Re2 Be7 36.Rge1 Bd6
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.21"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -147,7 +141,6 @@ Rc3 66.Qe6 Rc7 67.g6+ 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.22"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -169,7 +162,6 @@ Kxh7 31.Rh1+ 1-0
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.23"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Wely Loek (NED)"]
@@ -192,7 +184,6 @@ Kh4 35.Qf6+ Kh3 36.Rg3+ 1-0
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.26"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -216,7 +207,6 @@ Qg5 42.f4 Qh4 43.Qe5 1-0
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.31"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -240,7 +230,6 @@ Rc8 42.a7 Ra8 43.Qb6 Qd2 44.Qc5 Qd7 45.Ra5 Qb7 46.Qd4 Qc7 47.Rxh5+ 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.04.01"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -266,7 +255,6 @@ Nd3 53.d7 Nc5 54.Ne5 Rd5 55.f4 1-0
 
 [Event "Match \"Armenia-Rest of the World\""]
 [Site "Moscow (Russia)"]
-[Date "2004.06.10"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Lputian Smbat G (ARM)"]
@@ -293,7 +281,6 @@ Rd8+ 58.Kc4 Rd1 59.Rxa5 Ra1 60.Kb3 Rb1+ 61.Ka3 1-0
 
 [Event "It (Gr.1)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.23"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -318,7 +305,6 @@ h4 48.Rc1 h3 49.Rh1 Rh8 50.a4 Kf6 51.b6 Ke7 52.a5 Kd6 53.Rc1 1-0
 
 [Event "It (Gr.1)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.26"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Rublevsky Sergei (RUS)"]
@@ -340,7 +326,6 @@ Qxb4 31.Ne2 f5 32.Ng3 f4 33.Nf5 Qb1+ 34.Kf2 fxe3+ 35.Ke2 1-0
 
 [Event "It (1/2 final)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.30"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -361,7 +346,6 @@ Bc8 25.Rb8 Qc7 26.Ra8 g6 27.Qb2 1-0
 
 [Event "It (final)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.08.01"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -383,7 +367,6 @@ Nc5 26.fxg6 fxg6 27.gxh5 Nxb3 28.axb3 Qd4 29.Rc2 Rf8 30.Rd1 Qf6
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2004.08.05"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -410,7 +393,6 @@ Rgf7 59.Kg3 1-0
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2004.08.07"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -431,7 +413,6 @@ Qd7 25.Qxa6 d5 26.a4 bxa4 27.Qxa4 g6 28.Rd1 Bc5 29.b4 Bb6 30.c4 1-0
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.20"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Vescovi Giovanni (BRA)"]
@@ -456,7 +437,6 @@ Ba7 48.Kf5 1-0
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.21"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Milos Gilberto (BRA)"]
@@ -476,7 +456,6 @@ Qb6 14.Nb3 a5 15.Bxd6 Bxd6 16.Rxd6 a4 17.Nd2 Qxb2 18.e5 Qxc2
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.22"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Morovic Fernandez Ivan (CRO)"]
@@ -497,7 +476,6 @@ Kf8 25.Bd6+ 1-0
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.23"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -520,7 +498,6 @@ Rb8 37.a4 Ng6 38.Bc4 Rhe8 39.a5 1-0
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.24"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leitao Rafael (BRA)"]
@@ -547,7 +524,6 @@ Rf1 54.Bxh2 Nf6 55.Rh8 Rxf5+ 56.Kb6 Rf2 57.Kxb7 Rb2 58.b5 axb5
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.17"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ramirez Alejandro (CRC)"]
@@ -570,7 +546,6 @@ Kh7 37.h5 Kh6 38.Kf4 1-0
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.20"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Wely Loek (NED)"]

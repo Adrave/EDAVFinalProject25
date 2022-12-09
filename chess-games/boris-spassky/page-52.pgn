@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1949.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Awtonomow"]
@@ -20,14 +19,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Hoogovens"]
 [Site "Beverwijk NED"]
-[Date "1967.01.28"]
 [Round "14"]
 [White "Boris Spassky"]
 [Black "Bent Larsen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D86"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -42,14 +39,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Student Olympiade"]
 [Site "Marianske Lazne"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Lothar Zinn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -65,14 +60,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Capablanca Memorial 1st"]
 [Site "Havana CUB"]
-[Date "1962.05.??"]
 [Round "11"]
 [White "Boris Spassky"]
 [Black "Ludek Pachman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D59"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -86,14 +79,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Varna ol (Men) qual-A"]
 [Site "Varna BUL"]
-[Date "1962.09.19"]
 [Round "4"]
 [White "Boris Spassky"]
 [Black "Klaus Viktor Darga"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B48"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -107,14 +98,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Rostov"]
 [Site "Rostov"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Gunnar Andreyevich Uusi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E28"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "2548"]
 
@@ -129,14 +118,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Eduard A Mnatsakanian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -149,14 +136,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Alekhine Memorial"]
 [Site "Moscow URS"]
-[Date "1959.04.13"]
 [Round "6"]
 [White "Boris Spassky"]
 [Black "Evgeni Vasiukov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A54"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -170,14 +155,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Leningrad-ch"]
 [Site "Leningrad URS"]
-[Date "1959.05.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Aron G Reshko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -191,14 +174,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Leningrad-ch"]
 [Site "Leningrad URS"]
-[Date "1959.05.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "A Genin"]
 [Result "1-0"]
 [BlackElo "2300"]
 [ECO "C50"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "2548"]
 
@@ -212,14 +193,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Riga"]
 [Site "Riga"]
-[Date "1959.12.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Mikhail Tal"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C97"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -237,14 +216,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Trud Ch"]
 [Site "Minsk"]
-[Date "1948.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Shman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "2548"]
 
@@ -259,14 +236,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Leningrad"]
 [Site "Leningrad"]
-[Date "1949.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Vilup"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "2548"]
 
@@ -280,14 +255,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Soviet Junior Qualifiers"]
 [Site "Leningrad URS"]
-[Date "1949.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Avtonomov"]
 [Result "1-0"]
 [BlackElo "2200"]
 [ECO "D28"]
-[EventDate "1949.??.??"]
 [PlyCount "41"]
 [WhiteElo "2300"]
 
@@ -300,14 +273,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Bucharest"]
 [Site "Bucharest ROU"]
-[Date "1953.01.??"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "Vasily Smyslov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E31"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -322,14 +293,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Bucharest"]
 [Site "Bucharest ROU"]
-[Date "1953.02.??"]
 [Round "9"]
 [White "Boris Spassky"]
 [Black "Stefan Szabo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -347,14 +316,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "2nd World Student Team-ch"]
 [Site "Lyon FRA"]
-[Date "1955.05.??"]
 [Round "7"]
 [White "Boris Spassky"]
 [Black "Julius Kozma"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B63"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -368,14 +335,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "13th Soviet Team-ch final A"]
 [Site "Riga LAT"]
-[Date "1975.07.??"]
 [Round "2"]
 [White "Boris Spassky"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E54"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -391,14 +356,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Alekhine Memorial"]
 [Site "Moscow URS"]
-[Date "1975.10.14"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "Robert Eugene Byrne"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -414,14 +377,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Siegen ol (Men) qual-A"]
 [Site "Siegen FRG"]
-[Date "1970.09.09"]
 [Round "5"]
 [White "Boris Spassky"]
 [Black "Jerzy Kostro"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -434,14 +395,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Siegen"]
 [Site "Siegen FRG"]
-[Date "1970.09.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Florin Gheorghiu"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A54"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -457,14 +416,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Havana ol (Men) fin-A"]
 [Site "Havana CUB"]
-[Date "1966.11.18"]
 [Round "13"]
 [White "Boris Spassky"]
 [Black "Milko Bobotsov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D53"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -480,14 +437,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "RUS Spartakiad"]
 [Site "Leningrad URS"]
-[Date "1967.06.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Nagaizev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -501,14 +456,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "10th Soviet Team-ch final A"]
 [Site "Moscow URS"]
-[Date "1967.07.31"]
 [Round "4"]
 [White "Boris Spassky"]
 [Black "Alexey Suetin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B48"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -527,14 +480,12 @@ h5 19.Rxd5 Qxd5 20.Qxe7+ Kg8 21.Qxf6 1-0
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1967.09.??"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "Maximilian Ujtelky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 

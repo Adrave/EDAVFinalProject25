@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cardoso Radolfo Tan (PHI)"]
@@ -22,7 +21,6 @@ bxc3 14.exf6 cxb2+ 15.Kb1 gxf6 16.Qh5 Bg7 17.f5 O-O 18.fxe6 fxe6
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -48,7 +46,6 @@ Ra5 54.Rxe5 Ra3 55.Rd5 Rh2+ 56.Ke3 Rh3+ 57.Kf4 Rhxd3 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Byrne Robert E (USA)"]
@@ -71,7 +68,6 @@ Rf8 30.Ra5 Rf3+ 31.Kb4 Rf2 32.Rxa7+ Kd8 33.c3 Rxh2 34.Kc5 Bd5
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Garcia Martinez Silvino (CUB)"]
@@ -92,7 +88,6 @@ Nc5 26.Nbxc5 Bxc5 27.Rf3 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -111,7 +106,6 @@ Bxf5 14.Qxf5 Qc8 15.Qxc8 Raxc8 16.Bd2 Bf8 17.Rad1 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lengyel Levente (HUN)"]
@@ -133,7 +127,6 @@ Rd7 31.Ke2 Nd8 32.Rc1 Ke6 33.g5 h6 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -153,7 +146,6 @@ Bc6 19.Kf2 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Planinec Albin (SLO)"]
@@ -176,7 +168,6 @@ h6 36.Be7 Rfe8 37.Be4+ Kg7 38.Bd6 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "11"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -197,7 +188,6 @@ Nc5 20.Nd5 Nxd5 21.Rxd5 Bh2+ 22.Kh1 Rxd5 23.Bxd5 Be5 24.Ba3 Bd6
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -223,7 +213,6 @@ Ke6 53.Kg2 Kf7 54.Kg1 Ne8 0-1
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Grigorian Levon (ARM)"]
@@ -243,7 +232,6 @@ g6 19.Kf1 Kf8 20.Re3 a5 21.Ke1 Rd8 22.Re5 Re8 23.Rxe8+ 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kakageldyev Amanmurad (TKM)"]
@@ -266,7 +254,6 @@ Rc8 31.Bc3 Bxc3 32.Rxc3 Kg7 33.Kf1 Kf6 34.Rf3+ Kg5 35.Ke2 Ra8
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -289,7 +276,6 @@ Kh8 31.Rc1 Ne7 32.Nd4 Ra6 33.Bd7 Nhg8 34.Bb5 Raa8 35.Kf1 Be5
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zilberman Nathan R (KGZ)"]
@@ -311,7 +297,6 @@ R8e7 31.Nxg5 hxg5 32.Nf3 Qc7 33.Kg2 c5 34.Nxg5 1-0
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1975.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -330,7 +315,6 @@ Nf6 14.Qb2 Qc7 15.Nd2 Bb7 16.Bf3 Bxf3 1/2-1/2
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -353,7 +337,6 @@ Rxe7 31.Rd1 Qc2 32.Rbd5 Rce8 33.b4 Qb2 34.R1d4 Qe2 35.b5 Rxe5
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1975.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lengyel Levente (HUN)"]
@@ -373,7 +356,6 @@ fxe6 20.Nd7 1-0
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1975.??.??"]
 [Round "11"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lombardy William J (USA)"]
@@ -392,7 +374,6 @@ Bg4 14.Be2 Be7 15.Ne5 Bxe2 1/2-1/2
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1975.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nei Iivo (EST)"]
@@ -414,7 +395,6 @@ Bxe5 32.fxe5 Rf8 33.Qg6 Rg8 34.Ne4 Qe8 35.Rf7 1-0
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1975.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Rantanen Yrjo A (FIN)"]
@@ -439,7 +419,6 @@ Rxb4 47.h5 Rh4 48.Re7 1-0
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1975.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -461,7 +440,6 @@ a6 25.Qe2 Rb8 26.Rc2 Rfd8 27.Rxd8+ Rxd8 28.h3 Qe5 29.Rd2 Rxd2
 
 [Event "Izt (cat.12)"]
 [Site "Manila (Philippines)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tseshkovsky Vitaly (RUS)"]
@@ -481,7 +459,6 @@ Rxb3 20.Qxb3 Nxa4 21.Nd4 1/2-1/2
 
 [Event "Izt (cat.12)"]
 [Site "Manila (Philippines)"]
-[Date "1976.07.06"]
 [Round "16"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -502,14 +479,12 @@ Nh5 25.Nf6+ Nxf6 1/2-1/2
 
 [Event "Manila Interzonal"]
 [Site "Manila PHI"]
-[Date "1976.07.09"]
 [Round "16"]
 [White "Boris Spassky"]
 [Black "Florin Gheorghiu"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B42"]
-[EventDate "1976.06.13"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -522,14 +497,12 @@ Nh5 25.Nf6+ Nxf6 1/2-1/2
 
 [Event "Manila Interzonal"]
 [Site "Manila PHI"]
-[Date "1976.06.23"]
 [Round "8"]
 [White "Boris Spassky"]
 [Black "Sergio Mariotti"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B42"]
-[EventDate "1976.06.13"]
 [PlyCount "72"]
 [WhiteElo "?"]
 

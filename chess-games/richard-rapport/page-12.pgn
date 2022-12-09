@@ -1,6 +1,5 @@
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.15"]
 [Round "2.3"]
 [White "Rapport, R."]
 [Black "Karjakin, Sergey"]
@@ -9,7 +8,6 @@
 [WhiteElo "2702"]
 [BlackElo "2785"]
 [PlyCount "60"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -25,7 +23,6 @@ Rfb8 22. c3 Rb5 23. g4 Bxc5 24. Bxc5 Qe4 25. Bd4 Rab8 26. Qf3 h6 27. Kg3 Re8
 
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.17"]
 [Round "4.3"]
 [White "Rapport, R."]
 [Black "Wojtaszek, R."]
@@ -34,7 +31,6 @@ Rfb8 22. c3 Rb5 23. g4 Bxc5 24. Bxc5 Qe4 25. Bd4 Rab8 26. Qf3 h6 27. Kg3 Re8
 [WhiteElo "2702"]
 [BlackElo "2750"]
 [PlyCount "103"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -53,7 +49,6 @@ cxb4 axb4 41. a4 Nf6 42. Rc1 Qa7 43. Bb5 Re7 44. Qd2 b3 45. Rd3 Ne4 46. Qe3 Nc5
 
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.27"]
 [Round "11.3"]
 [White "Rapport, R."]
 [Black "Van Wely, L."]
@@ -62,7 +57,6 @@ cxb4 axb4 41. a4 Nf6 42. Rc1 Qa7 43. Bb5 Re7 44. Qd2 b3 45. Rd3 Ne4 46. Qe3 Nc5
 [WhiteElo "2702"]
 [BlackElo "2695"]
 [PlyCount "78"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -80,7 +74,6 @@ Qxf6 Qe3+ 29. Kb1 Qxf2 30. Qd8+ Kf7 31. Qc7+ Kf6 32. Qd8+ Kf7 33. Rxg7+ Nxg7
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.27"]
 [Round "9.6"]
 [White "Rapport, R."]
 [Black "Li Chao2"]
@@ -89,7 +82,6 @@ Qxf6 Qe3+ 29. Kb1 Qxf2 30. Qd8+ Kf7 31. Qc7+ Kf6 32. Qd8+ Kf7 33. Rxg7+ Nxg7
 [WhiteElo "2692"]
 [BlackElo "2720"]
 [PlyCount "51"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -103,7 +95,6 @@ Bb5+ Bd7 9. a4 Nc6 10. Nf3 Qc7 11. Qe2 Ne5 12. Nxe5 Bxe5 13. Bb2 a6 14. Bc4 Rc8
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.25"]
 [Round "7.5"]
 [White "Rapport, R."]
 [Black "Aronian, L."]
@@ -112,7 +103,6 @@ Bb5+ Bd7 9. a4 Nc6 10. Nf3 Qc7 11. Qe2 Ne5 12. Nxe5 Bxe5 13. Bb2 a6 14. Bc4 Rc8
 [WhiteElo "2692"]
 [BlackElo "2785"]
 [PlyCount "46"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -126,7 +116,6 @@ Rxa1 22. Qxa1 Qxb5 23. Qb1 Rb8 1/2-1/2
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.21"]
 [Round "4.9"]
 [White "Rapport, R."]
 [Black "Salem, AR."]
@@ -135,7 +124,6 @@ Rxa1 22. Qxa1 Qxb5 23. Qb1 Rb8 1/2-1/2
 [WhiteElo "2692"]
 [BlackElo "2656"]
 [PlyCount "52"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -150,7 +138,6 @@ Nc6 9. Bc2 Re8 10. O-O e5 11. dxe5 Nxe5 12. Nxe5 Rxe5 13. f4 Re8 14. f5 Qxb3
 
 [Event "GRENKE Chess Open 2017"]
 [Site "Karlsruhe GER"]
-[Date "2017.04.17"]
 [Round "8.2"]
 [White "Rapport, R."]
 [Black "Landa, K."]
@@ -159,7 +146,6 @@ Nc6 9. Bc2 Re8 10. O-O e5 11. dxe5 Nxe5 12. Nxe5 Rxe5 13. f4 Re8 14. f5 Qxb3
 [WhiteElo "2696"]
 [BlackElo "2611"]
 [PlyCount "69"]
-[EventDate "2017.04.13"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -175,7 +161,6 @@ Nh6 29. Ne5 Bc8 30. Nd2 Nf7 31. Ndf3 Nxe5 32. Nxe5 g5 33. Qb2 gxf4 34. gxf4 h6
 
 [Event "TCh-HUN 2016-17"]
 [Site "Hungary HUN"]
-[Date "2017.04.09"]
 [Round "9.1"]
 [White "Rapport, R."]
 [Black "Mihok, O."]
@@ -184,7 +169,6 @@ Nh6 29. Ne5 Bc8 30. Nd2 Nf7 31. Ndf3 Nxe5 32. Nxe5 g5 33. Qb2 gxf4 34. gxf4 h6
 [WhiteElo "2729"]
 [BlackElo "2498"]
 [PlyCount "79"]
-[EventDate "2016.10.30"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "HUN"]
@@ -203,7 +187,6 @@ bxc5+ 1/2-1/2
 
 [Event "36th Zalakaros Open 2017"]
 [Site "Zalakaros HUN"]
-[Date "2017.05.22"]
 [Round "5.12"]
 [White "Rapport, R."]
 [Black "Nemeth, Mi1"]
@@ -212,7 +195,6 @@ bxc5+ 1/2-1/2
 [WhiteElo "2698"]
 [BlackElo "2451"]
 [PlyCount "72"]
-[EventDate "2017.05.18"]
 
 1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bd6 5. Nf3 Bxf4 6. exf4 Qd6 7. Ne5 a6 8.
 Qf3 c5 9. dxc5 Qxc5 10. O-O-O Nc6 11. Kb1 b5 12. Nxc6 Qxc6 13. Bd3 Bb7 14. Rhe1
@@ -224,7 +206,6 @@ Ka2 f6 28. Re2 e5 29. fxe5 fxe5 30. Rd1 d4 31. Ne4 Rd8 32. f3 d3 33. Red2 Bxe4
 
 [Event "36th Zalakaros Open 2017"]
 [Site "Zalakaros HUN"]
-[Date "2017.05.20"]
 [Round "3.22"]
 [White "Rapport, R."]
 [Black "Gara, A."]
@@ -233,7 +214,6 @@ Ka2 f6 28. Re2 e5 29. fxe5 fxe5 30. Rd1 d4 31. Ne4 Rd8 32. f3 d3 33. Red2 Bxe4
 [WhiteElo "2698"]
 [BlackElo "2373"]
 [PlyCount "55"]
-[EventDate "2017.05.18"]
 
 1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 a6 5. Bd3 Nxf3+ 6. Qxf3 e6 7. b3 Qc7 8.
 Bb2 Ne7 9. O-O Ng6 10. Ne2 Bd6 11. Qh3 f6 12. a4 b6 13. g3 Bb7 14. f4 O-O-O 15.
@@ -244,7 +224,6 @@ c4 Ne7 16. Qh5 Nc6 17. Rae1 Rdf8 18. Bb1 Kb8 19. h3 g6 20. Qh6 Rf7 21. Kh2 Bf8
 
 [Event "Geneva Grand Prix 2017"]
 [Site "Geneva SUI"]
-[Date "2017.07.06"]
 [Round "1.6"]
 [White "Rapport, R."]
 [Black "Nepomniachtchi, I."]
@@ -253,7 +232,6 @@ c4 Ne7 16. Qh5 Nc6 17. Rae1 Rdf8 18. Bb1 Kb8 19. h3 g6 20. Qh6 Rf7 21. Kh2 Bf8
 [WhiteElo "2694"]
 [BlackElo "2742"]
 [PlyCount "93"]
-[EventDate "2017.07.06"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "SUI"]
@@ -270,7 +248,6 @@ Re6+ Kg7 47. Re7+ 1/2-1/2
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.10"]
 [Round "3.2"]
 [White "Rapport, R."]
 [Black "Li Chao2"]
@@ -279,7 +256,6 @@ Re6+ Kg7 47. Re7+ 1/2-1/2
 [WhiteElo "2675"]
 [BlackElo "2745"]
 [PlyCount "41"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -292,7 +268,6 @@ c4 Nc6 16. Nf2 Bh5 17. f5 gxf5 18. cxd5 exd5 19. Rxb7 Re8 20. Rb2 Rb8 21. Rxb8
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.07"]
 [Round "2.2"]
 [White "Rapport, R."]
 [Black "Wei Yi"]
@@ -301,7 +276,6 @@ c4 Nc6 16. Nf2 Bh5 17. f5 gxf5 18. cxd5 exd5 19. Rxb7 Re8 20. Rb2 Rb8 21. Rxb8
 [WhiteElo "2675"]
 [BlackElo "2748"]
 [PlyCount "15"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -312,7 +286,6 @@ c4 Nc6 16. Nf2 Bh5 17. f5 gxf5 18. cxd5 exd5 19. Rxb7 Re8 20. Rb2 Rb8 21. Rxb8
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.15"]
 [Round "5.1"]
 [White "Rapport, R."]
 [Black "Ding Liren"]
@@ -321,7 +294,6 @@ c4 Nc6 16. Nf2 Bh5 17. f5 gxf5 18. cxd5 exd5 19. Rxb7 Re8 20. Rb2 Rb8 21. Rxb8
 [WhiteElo "2675"]
 [BlackElo "2771"]
 [PlyCount "21"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -332,7 +304,6 @@ Qe2 Re8 9. h3 Nd7 10. Nd1 Nf8 11. Ne3 1/2-1/2
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.12"]
 [Round "4.1"]
 [White "Rapport, R."]
 [Black "Najer, E."]
@@ -341,7 +312,6 @@ Qe2 Re8 9. h3 Nd7 10. Nd1 Nf8 11. Ne3 1/2-1/2
 [WhiteElo "2675"]
 [BlackElo "2694"]
 [PlyCount "159"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -363,7 +333,6 @@ Bb3 72. Ne2 Bc4 73. Nf4 Bd5 74. Ne2 Bb3 75. Nf4 Bc4 76. Ke4 Ba6 77. Nxe6 Kxg3
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2017.09.24"]
 [Round "2.35"]
 [White "Rapport, R."]
 [Black "Kjartansson, G."]
@@ -372,7 +341,6 @@ Bb3 72. Ne2 Bc4 73. Nf4 Bd5 74. Ne2 Bb3 75. Nf4 Bc4 76. Ke4 Ba6 77. Nxe6 Kxg3
 [WhiteElo "2675"]
 [BlackElo "2456"]
 [PlyCount "117"]
-[EventDate "2017.09.23"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -390,7 +358,6 @@ Kf3 Ke6 48. Ke3 h6 49. Bd3 Nd6 50. Kf4 Kf6 51. Ke3 g5 52. hxg5+ hxg5 53. f3 Ne8
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2017.10.01"]
 [Round "9.4"]
 [White "Rapport, R."]
 [Black "Vidit, S."]
@@ -399,7 +366,6 @@ Kf3 Ke6 48. Ke3 h6 49. Bd3 Nd6 50. Kf4 Kf6 51. Ke3 g5 52. hxg5+ hxg5 53. f3 Ne8
 [WhiteElo "2675"]
 [BlackElo "2702"]
 [PlyCount "60"]
-[EventDate "2017.09.23"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -413,7 +379,6 @@ Bc5 28. Qxe4 Rac8 29. a4 b4 30. Na2 a5 1/2-1/2
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2017.09.29"]
 [Round "7.9"]
 [White "Rapport, R."]
 [Black "Swapnil, SD."]
@@ -422,7 +387,6 @@ Bc5 28. Qxe4 Rac8 29. a4 b4 30. Na2 a5 1/2-1/2
 [WhiteElo "2675"]
 [BlackElo "2532"]
 [PlyCount "61"]
-[EventDate "2017.09.23"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -436,7 +400,6 @@ Bxb2 22. Ra2 Bc3 23. f6 Qd6 24. fxg7 Kxg7 25. f5 Bxd2 26. f6+ Kh8 27. Rxd2 Nxb3
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "9.20"]
 [White "Rapport, R."]
 [Black "Melkumyan, H."]
@@ -445,7 +408,6 @@ Bxb2 22. Ra2 Bc3 23. f6 Qd6 24. fxg7 Kxg7 25. f5 Bxd2 26. f6+ Kh8 27. Rxd2 Nxb3
 [WhiteElo "2707"]
 [BlackElo "2633"]
 [PlyCount "86"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Nf3 Nf6 5. Nc3 Be7 6. Ne5 h6 7. g4 Bh7 8. Bd3
@@ -459,7 +421,6 @@ Rb6+ Ka7 42. Bh2 Qad1 43. Qxg8 Qhf3# 0-1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.23"]
 [White "Rapport, Richard"]
 [Black "Grischuk, Alexander"]
@@ -467,7 +428,6 @@ Rb6+ Ka7 42. Bh2 Qad1 43. Qxg8 Qhf3# 0-1
 [WhiteElo "2698"]
 [BlackElo "2750"]
 [ECO "A45"]
-[EventDate "2017.05.03"]
 
 1. d4 Nf6 2. Bg5 c5 3. d5 Ne4 4. Bc1 d6 5. c3 Nf6 6. e4 g6 7. Bd3 Bg7 8. 
 c4 O-O 9. Nc3 e6 10. Nge2 Ng4 11. h4 h6 12. h5 g5 13. f4 gxf4 14. Bxf4 Na6
@@ -480,7 +440,6 @@ Nb6 Rc3 39. Na4 Ra3 0-1
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.7"]
 [White "Rapport, Richard"]
 [Black "Grischuk, Alexander"]
@@ -488,7 +447,6 @@ Nb6 Rc3 39. Na4 Ra3 0-1
 [WhiteElo "2698"]
 [BlackElo "2750"]
 [ECO "D03"]
-[EventDate "2017.05.03"]
 
 1. d4 Nf6 2. c3 g6 3. Bg5 Bg7 4. e3 O-O 5. Nd2 d5 6. Ngf3 c5 7. Be2 b6 8. 
 O-O Nc6 9. h3 Bb7 10. Bf4 Nd7 11. Bb5 a6 12. Ba4 b5 13. Bb3 e5 14. Bg5 Qb6
@@ -503,7 +461,6 @@ Nf3 Nc5 27. Nd4 Ne6 28. Qxd3 Nxd4 29. exd4 Qxd4 30. Qb3 Qd5 31. Qa3 Qd3
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.19"]
 [White "Rapport, Richard"]
 [Black "Grischuk, Alexander"]
@@ -511,7 +468,6 @@ Nf3 Nc5 27. Nd4 Ne6 28. Qxd3 Nxd4 29. exd4 Qxd4 30. Qb3 Qd5 31. Qa3 Qd3
 [WhiteElo "2698"]
 [BlackElo "2750"]
 [ECO "A01"]
-[EventDate "2017.05.03"]
 
 1. b3 d5 2. Bb2 Bf5 3. Nf3 e6 4. g3 h6 5. Bg2 Nf6 6. O-O Be7 7. d3 O-O 8. 
 Nbd2 a5 9. a3 Bh7 10. c4 c6 11. Qc2 Na6 12. Rab1 Rc8 13. Rfc1 Nd7 14. Qd1 
@@ -525,7 +481,6 @@ Qf3 44. Qd4+ e5 0-1
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.17"]
 [White "Rapport, Richard"]
 [Black "Grischuk, Alexander"]
@@ -533,7 +488,6 @@ Qf3 44. Qd4+ e5 0-1
 [WhiteElo "2698"]
 [BlackElo "2750"]
 [ECO "B20"]
-[EventDate "2017.05.03"]
 
 1. e4 c5 2. Qh5 Nf6 3. Qh4 Nc6 4. Nf3 d6 5. Bb5 Bd7 6. O-O g6 7. d3 h6 8. 
 Bxc6 Bxc6 9. e5 dxe5 10. Nxe5 Rc8 11. Re1 Bg7 12. Nc3 b6 13. a4 Bb7 14. a5
@@ -546,7 +500,6 @@ Kb6 33. Rba1 h4 34. R5a2 f5 35. g3 h3 36. Kf2 Re5 37. Ra3 Re3 38. R3a2 f4
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.21"]
 [White "Rapport, Richard"]
 [Black "Grischuk, Alexander"]
@@ -554,7 +507,6 @@ Kb6 33. Rba1 h4 34. R5a2 f5 35. g3 h3 36. Kf2 Re5 37. Ra3 Re3 38. R3a2 f4
 [WhiteElo "2698"]
 [BlackElo "2750"]
 [ECO "D78"]
-[EventDate "2017.05.03"]
 
 1. g3 g6 2. Bg2 Bg7 3. d4 d5 4. Nf3 Nf6 5. O-O O-O 6. c4 c6 7. b3 dxc4 8. 
 bxc4 c5 9. Bb2 cxd4 10. Nxd4 Nc6 11. Nxc6 bxc6 12. Nd2 Qc7 13. Qa4 Rb8 14.
@@ -566,7 +518,6 @@ Rf3 Bf2+ 32. Kf1 Nh2# 0-1
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.11"]
 [White "Rapport, Richard"]
 [Black "Grischuk, Alexander"]
@@ -574,7 +525,6 @@ Rf3 Bf2+ 32. Kf1 Nh2# 0-1
 [WhiteElo "2698"]
 [BlackElo "2750"]
 [ECO "A01"]
-[EventDate "2017.05.03"]
 
 1. b3 d5 2. Bb2 Bf5 3. d3 e6 4. Nd2 Nf6 5. g3 Be7 6. Bg2 O-O 7. e4 Bg6 8. 
 Nh3 h6 9. O-O Bh7 10. Kh1 a5 11. a4 Na6 12. e5 Nd7 13. f4 Nb4 14. Nf2 c5 

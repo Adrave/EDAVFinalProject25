@@ -1,6 +1,5 @@
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.9"]
 [White "Kasparov, G."]
 [Black "Bartels, Simon"]
@@ -9,7 +8,6 @@
 [WhiteElo "2812"]
 [BlackElo "1631"]
 [PlyCount "85"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -27,7 +25,6 @@ Qe7 41. Ra1 Qd6 42. Nd7+ Kc8 43. Ra8+ 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.10"]
 [White "Kasparov, G."]
 [Black "Ingenerf, Willi"]
@@ -35,7 +32,6 @@ Qe7 41. Ra1 Qd6 42. Nd7+ Kc8 43. Ra8+ 1-0
 [ECO "B31"]
 [WhiteElo "2812"]
 [PlyCount "69"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -52,7 +48,6 @@ Bg7 28. Qxd8+ Bf8 29. Qg5+ Bg7 30. e6 f6 31. Qh5 Qe7 32. Rd4 Ra7 33. Rh4 Nd6
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.12"]
 [White "Kasparov, G."]
 [Black "Noever, Niklas"]
@@ -61,7 +56,6 @@ Bg7 28. Qxd8+ Bf8 29. Qg5+ Bg7 30. e6 f6 31. Qh5 Qe7 32. Rd4 Ra7 33. Rh4 Nd6
 [WhiteElo "2812"]
 [BlackElo "1648"]
 [PlyCount "65"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -77,7 +71,6 @@ Qe2 cxd3 16. cxd3 Qd7 17. d4 g4 18. hxg4 Bxg4 19. a4 h5 20. Rfc1 Kb7 21. a5 Ra8
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.13"]
 [White "Kasparov, G."]
 [Black "Fischer, Gert"]
@@ -85,7 +78,6 @@ Qe2 cxd3 16. cxd3 Qd7 17. d4 g4 18. hxg4 Bxg4 19. a4 h5 20. Rfc1 Kb7 21. a5 Ra8
 [ECO "C43"]
 [WhiteElo "2812"]
 [PlyCount "113"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -105,7 +97,6 @@ Rd5 47. Rxd4 Rg5 48. Ke3 Ke5 49. Rb4 Kd6 50. Kf4 Rd5 51. Re4 Rg5 52. Re8 Rg7
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.14"]
 [White "Kasparov, G."]
 [Black "Ophuels, Jan"]
@@ -113,7 +104,6 @@ Rd5 47. Rxd4 Rg5 48. Ke3 Ke5 49. Rb4 Kd6 50. Kf4 Rd5 51. Re4 Rg5 52. Re8 Rg7
 [ECO "B40"]
 [WhiteElo "2812"]
 [PlyCount "51"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -128,7 +118,6 @@ Re3 Bb7 22. Rf1 g6 23. Bxg6 hxg6 24. Qxg6+ Qg7 25. Qe4 Re6 26. Rg3 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.11"]
 [White "Kasparov, G."]
 [Black "Schuster, Andreas"]
@@ -136,7 +125,6 @@ Re3 Bb7 22. Rf1 g6 23. Bxg6 hxg6 24. Qxg6+ Qg7 25. Qe4 Re6 26. Rg3 1-0
 [ECO "A45"]
 [WhiteElo "2812"]
 [PlyCount "79"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -153,7 +141,6 @@ Nb3 Rb8 35. d5 Bd8 36. Nd4 b4 37. Kc4 h4 38. Ra7+ Kc8 39. d6 b3 40. d7# 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.16"]
 [White "Kasparov, G."]
 [Black "Schneider, Ka"]
@@ -162,7 +149,6 @@ Nb3 Rb8 35. d5 Bd8 36. Nd4 b4 37. Kc4 h4 38. Ra7+ Kc8 39. d6 b3 40. d7# 1-0
 [WhiteElo "2812"]
 [BlackElo "1975"]
 [PlyCount "61"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -178,7 +164,6 @@ Qxf5 22. Nc4 Ke7 23. Ne5 Rhd8 24. Ra1 Ke8 25. Nc4 Ke7 26. Ra5 c5 27. Ne5 Ke8
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.15"]
 [White "Kasparov, G."]
 [Black "Paff, Volker"]
@@ -186,7 +171,6 @@ Qxf5 22. Nc4 Ke7 23. Ne5 Rhd8 24. Ra1 Ke8 25. Nc4 Ke7 26. Ra5 c5 27. Ne5 Ke8
 [ECO "B40"]
 [WhiteElo "2812"]
 [PlyCount "64"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -202,7 +186,6 @@ Ba7 Bc7 29. f3 Nh6 30. Nf1 f6 31. Ne3 Nf7 32. Nc2 Nh6 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.3"]
 [White "Kasparov, G."]
 [Black "Vovchik, V."]
@@ -211,7 +194,6 @@ Ba7 Bc7 29. f3 Nh6 30. Nf1 f6 31. Ne3 Nf7 32. Nc2 Nh6 1-0
 [WhiteElo "2812"]
 [BlackElo "1797"]
 [PlyCount "73"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -228,7 +210,6 @@ Rg8 22. Kh2 Qe8 23. Qc1 Qf8 24. a3 Bc5 25. gxh5 cxd5 26. exd5 Nb7 27. Qf4 Re8
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.4"]
 [White "Kasparov, G."]
 [Black "Goertz, Wolfram"]
@@ -236,7 +217,6 @@ Rg8 22. Kh2 Qe8 23. Qc1 Qf8 24. a3 Bc5 25. gxh5 cxd5 26. exd5 Nb7 27. Qf4 Re8
 [ECO "C62"]
 [WhiteElo "2812"]
 [PlyCount "53"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -252,7 +232,6 @@ b4 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.2"]
 [White "Kasparov, G."]
 [Black "Fischdick, Werner"]
@@ -260,7 +239,6 @@ b4 1-0
 [ECO "C09"]
 [WhiteElo "2812"]
 [PlyCount "91"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -279,7 +257,6 @@ Ne5 Kb4 40. g4 Ka3 41. g5 Kxa2 42. gxh6 gxh6 43. b4 Kb3 44. Nc6 Kc4 45. Kf6 Kb5
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.1"]
 [White "Kasparov, G."]
 [Black "Falk, Thomas"]
@@ -287,7 +264,6 @@ Ne5 Kb4 40. g4 Ka3 41. g5 Kxa2 42. gxh6 gxh6 43. b4 Kb3 44. Nc6 Kc4 45. Kf6 Kb5
 [ECO "C00"]
 [WhiteElo "2812"]
 [PlyCount "69"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -304,7 +280,6 @@ h3 f4 34. Rhe7 Kf6 35. Kf2 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.5"]
 [White "Kasparov, G."]
 [Black "Stoer, Nathan"]
@@ -313,7 +288,6 @@ h3 f4 34. Rhe7 Kf6 35. Kf2 1-0
 [WhiteElo "2812"]
 [BlackElo "1884"]
 [PlyCount "61"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -329,7 +303,6 @@ Bxe5 22. Bxe5 Qxe5 23. b3 Rb8 24. f4 Qe7 25. Qd4 Qc7 26. f5 Nd7 27. fxg6 hxg6
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.6"]
 [White "Kasparov, G."]
 [Black "Behne, Michael"]
@@ -337,7 +310,6 @@ Bxe5 22. Bxe5 Qxe5 23. b3 Rb8 24. f4 Qe7 25. Qd4 Qc7 26. f5 Nd7 27. fxg6 hxg6
 [ECO "D00"]
 [WhiteElo "2812"]
 [PlyCount "57"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -353,7 +325,6 @@ Qf5 b6 28. Bf6 Rd6 29. Rg8# 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.8"]
 [White "Kasparov, G."]
 [Black "Kircher, Roger"]
@@ -361,7 +332,6 @@ Qf5 b6 28. Bf6 Rd6 29. Rg8# 1-0
 [ECO "B06"]
 [WhiteElo "2812"]
 [PlyCount "81"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -379,7 +349,6 @@ fxg6 41. Bxg6 1-0
 
 [Event "Kasparov Simul 2016"]
 [Site "Moenchengladbach GER"]
-[Date "2016.06.02"]
 [Round "1.7"]
 [White "Kasparov, G."]
 [Black "Alonso, Jose"]
@@ -387,7 +356,6 @@ fxg6 41. Bxg6 1-0
 [ECO "C42"]
 [WhiteElo "2812"]
 [PlyCount "55"]
-[EventDate "2016.06.02"]
 [EventType "simul"]
 [EventRounds "1"]
 [EventCountry "GER"]
@@ -403,7 +371,6 @@ Bxb7 28. Rc7# 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.28"]
 [Round "1.2"]
 [White "Kasparov, G."]
 [Black "So, W."]
@@ -412,7 +379,6 @@ Bxb7 28. Rc7# 1-0
 [WhiteElo "2812"]
 [BlackElo "2773"]
 [PlyCount "75"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -430,7 +396,6 @@ d6 Bc6 35. f5 Rf8 36. Qe6+ Kg7 37. d7 Qc5 38. Qd6 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.28"]
 [Round "5.2"]
 [White "Kasparov, G."]
 [Black "Nakamura, Hi"]
@@ -439,7 +404,6 @@ d6 Bc6 35. f5 Rf8 36. Qe6+ Kg7 37. d7 Qc5 38. Qd6 1-0
 [WhiteElo "2812"]
 [BlackElo "2787"]
 [PlyCount "97"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -459,7 +423,6 @@ f4 Qd8 47. Qd5+ Qxd5 48. Ne7+ Kf7 49. Nxd5 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.29"]
 [Round "17.2"]
 [White "Kasparov, G."]
 [Black "Nakamura, Hi"]
@@ -468,7 +431,6 @@ f4 Qd8 47. Qd5+ Qxd5 48. Ne7+ Kf7 49. Nxd5 1-0
 [WhiteElo "2812"]
 [BlackElo "2787"]
 [PlyCount "125"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -490,7 +452,6 @@ Kd5 59. Rd7+ Ke4 60. f6 Rf3 61. f7 b4 62. Kg2 b3 63. Re7+ 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.28"]
 [Round "7.2"]
 [White "Kasparov, G."]
 [Black "So, W."]
@@ -499,7 +460,6 @@ Kd5 59. Rd7+ Ke4 60. f6 Rf3 61. f7 b4 62. Kg2 b3 63. Re7+ 1-0
 [WhiteElo "2812"]
 [BlackElo "2773"]
 [PlyCount "82"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -518,7 +478,6 @@ b7 Qxd6 0-1
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.28"]
 [Round "9.1"]
 [White "Kasparov, G."]
 [Black "Caruana, F."]
@@ -527,7 +486,6 @@ b7 Qxd6 0-1
 [WhiteElo "2812"]
 [BlackElo "2795"]
 [PlyCount "137"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -550,7 +508,6 @@ Kd3 g5 60. c5 g4 61. c6 Bd6 62. Rxf7+ Kg5 63. c7 Bxc7 64. Rxc7 h3 65. Rh7 Nh4
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.29"]
 [Round "15.1"]
 [White "Kasparov, G."]
 [Black "Caruana, F."]
@@ -559,7 +516,6 @@ Kd3 g5 60. c5 g4 61. c6 Bd6 62. Rxf7+ Kg5 63. c7 Bxc7 64. Rxc7 h3 65. Rh7 Nh4
 [WhiteElo "2812"]
 [BlackElo "2795"]
 [PlyCount "68"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -577,7 +533,6 @@ Rxd7 22. Qe2 Re8 23. Re1 Nc8 24. g3 Rde7 25. Ndf1 Nd6 26. Bd3 Be4 27. Qd1 Bxd3
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "1.5"]
 [White "Kasparov, Garry"]
 [Black "Karjakin, Sergey"]
@@ -585,7 +540,6 @@ Rxd7 22. Qe2 Re8 23. Re1 Nc8 24. g3 Rde7 25. Ndf1 Nd6 26. Bd3 Be4 27. Qd1 Bxd3
 [WhiteElo "2812"]
 [BlackElo "2773"]
 [ECO "C33"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 Qd8 5. d4 Nf6 6. Bxf4 Bb4 7. Bg5 
 Bxc3 8. bxc3 d6 9. Nf3 O-O 10. Bxf6 Qxf6 11. Kf2 c5 12. h3 Re8 13. Qd3 b6 
@@ -602,7 +556,6 @@ Qd1+ 1/2-1/2
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.14"]
 [Round "1.1"]
 [White "Kasparov, Garry"]
 [Black "Karjakin, Sergey"]
@@ -610,7 +563,6 @@ Qd1+ 1/2-1/2
 [WhiteElo "2812"]
 [BlackElo "2773"]
 [ECO "E34"]
-[EventDate "2017.08.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Qf5 7. Qb3 Nc6
 8. Bd2 O-O 9. h3 a5 10. g4 Qg6 11. a3 a4 12. Qc4 Bxc3 13. Bxc3 Nd5 14. Bd2
@@ -624,7 +576,6 @@ f6 15. Rc1 Bd7 16. Qc2 Qxc2 17. Rxc2 Be8 18. e3 Bg6 19. Rc5 Be4 20. Be2 e5
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.14"]
 [Round "3.1"]
 [White "Kasparov, Garry"]
 [Black "Dominguez Perez, Leinier"]
@@ -632,7 +583,6 @@ f6 15. Rc1 Bd7 16. Qc2 Qxc2 17. Rxc2 Be8 18. e3 Bg6 19. Rc5 Be4 20. Be2 e5
 [WhiteElo "2812"]
 [BlackElo "2739"]
 [ECO "D53"]
-[EventDate "2017.08.14"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Qc2 c5 8. 
 dxc5 Nbd7 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Nxd5 exd5 12. Nf3 Nxc5 13. Be2 

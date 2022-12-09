@@ -1,13 +1,11 @@
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ronaldo Abud"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D60"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Sergio Roberto Boffa"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Philastolpho Almeida Jr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C65"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -62,14 +56,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Marco Paulo Carneiro"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D70"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -85,14 +77,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Rodrigo Jukemura"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -108,14 +98,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Paulo Roberto Benasse"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A54"]
-[EventDate "????.??.??"]
 [PlyCount "123"]
 [WhiteElo "?"]
 
@@ -134,14 +122,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Alexandre Klimas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A44"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -157,14 +143,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Giovanni Costa"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -182,14 +166,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Augusto Horiguti"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E71"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -207,14 +189,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Bruno Malavazzi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -229,14 +209,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Paulo Haddad Filho"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -255,14 +233,12 @@
 
 [Event "Simul"]
 [Site "Warsaw"]
-[Date "2003.04.11"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Wojciech Bartelski"]
 [Result "1-0"]
 [BlackElo "1800"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "2686"]
 
@@ -277,14 +253,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Wolfgang Grube"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E71"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "2644"]
 
@@ -299,14 +273,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Gunther Hagen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "2644"]
 
@@ -320,14 +292,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Heinz Aldenhoven"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "2644"]
 
@@ -345,14 +315,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ralf Ciaxz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A35"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "2644"]
 
@@ -370,14 +338,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Konrad Schmidt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D91"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "2644"]
 
@@ -393,14 +359,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Karl Heinz Hartmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "2644"]
 
@@ -417,14 +381,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Herbert Steinbring"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E71"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "2644"]
 
@@ -441,14 +403,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Norbert Hanemann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B31"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "2644"]
 
@@ -462,14 +422,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Jurij Vasilijev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "2644"]
 
@@ -483,14 +441,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Thomas Munck"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "2644"]
 
@@ -504,14 +460,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp-Lintfort GER"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Pero Kegelj"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "2644"]
 
@@ -523,14 +477,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Boris Tummes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "2644"]
 
@@ -546,14 +498,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Jens Mewes"]
 [Result "1-0"]
 [BlackElo "2253"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "137"]
 [WhiteElo "2644"]
 

@@ -1,6 +1,5 @@
 [Event "Tournament"]
 [Site "Rostov on Don (Russia)"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Yuhtman Jacov (RUS)"]
@@ -21,7 +20,6 @@ Re6 20.e4 h4 21.Nh1 dxe4 22.fxe4 Rxe4 23.Rxe4 Qxe4 24.Bg5 h3
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Filip Miroslav (CZE)"]
@@ -50,7 +48,6 @@ Ke3 70.Qa3+ Kf4 71.Qb4+ Kg5 72.Qb5 Qh3 0-1
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Golombek Harry (ENG)"]
@@ -71,7 +68,6 @@ Rd8 19.Nc3 O-O 20.Nd5 Qe6 21.Qxe6 fxe6 22.Ne7+ Kf7 23.Nc6 Ke8
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Milev Zdravko (BUL)"]
@@ -100,7 +96,6 @@ Rxa6 64.Kh2 Ra2+ 65.Kh1 Re2 66.Kg1 Kg3 67.Rb1 Kf3 68.Rf1+ Ke3
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "O'kelly De Galway Alberic (BEL)"]
@@ -125,7 +120,6 @@ e2 43.Qe6 c4 44.Rxg7+ Kxg7 45.Qe7+ Kg8 46.Qe6+ Kh7 47.Be1 Qg7
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Radulescu Constantin (ROM)"]
@@ -148,7 +142,6 @@ Qb1+ 36.Kg2 Qe4+ 37.Qxe4 Nxe4 38.Ra7 Be1 39.Re7 Bxf2 40.Rxe4 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Reicher Emanoil (ROM)"]
@@ -173,7 +166,6 @@ Ke6 42.Nd6 b6 43.Bf5+ Kd5 44.Bh3 Rf8 45.Bg2 Kxd4 46.cxb6 axb6
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sajtar Jaroslav (CZE)"]
@@ -195,7 +187,6 @@ e5 30.Rg3 e6 1/2-1/2
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -217,7 +208,6 @@ Bxg2 31.Nf5 Rfe8 32.Re3 Rad8 33.Nxg7 Rxd6 34.Nxe6 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Szabo Stefan"]
@@ -243,7 +233,6 @@ Qxh4 52.d7 g3 53.Qd3+ Kb2 54.Qd4+ Kc2 55.d8Q 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tolush Alexander (RUS)"]
@@ -262,7 +251,6 @@ Qxh4 52.d7 g3 53.Qd3+ Kb2 54.Qd4+ Kc2 55.d8Q 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Paschaian Melik"]
@@ -282,7 +270,6 @@ Qxf1+ 19.Kxf1 Nf5 20.Bf6 Rac8 21.Nd4 gxf6 22.exf6 1-0
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Estrin Yakov B (RUS)"]
@@ -305,7 +292,6 @@ Rb6 25.Qc2 f5 26.e5 Be7 27.Nxe7+ Qxe7 28.Ba3 Qh4 29.Bxf8 Qxh3
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -328,7 +314,6 @@ Qd7 36.Rg1 Bb3 37.Ne4 Rf8 38.Rg7+ 1-0
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1954.08.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gusev Nikolay Nikolaevich"]
@@ -351,7 +336,6 @@ Kb6 36.Rd3 Bxc5 37.Rb3+ 1-0
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1954.08.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Levin Naum L (AUS)"]
@@ -375,7 +359,6 @@ Qd3 42.b5 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1955.??.??"]
 [Round "17"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -404,7 +387,6 @@ Rf2 71.b7 Rf7+ 72.Kd6 Rxb7 73.Rxb7 h3 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1955.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -427,7 +409,6 @@ Rb8 38.Qd3 b4 39.f4 bxc3 40.fxe5 fxe5 41.Nf5+ Kh7 42.Qxc3 Rbc8 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1955.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -452,7 +433,6 @@ Rh5 48.Ra8+ Ke7 49.Ra7+ 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -475,7 +455,6 @@ Nf4 31.Qg1 Qxg1+ 32.Kxg1 Nxd5 33.Ba2 Re5 34.h4 Kf8 35.Bxd5 Bxd5
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kan Ilya A (RUS)"]
@@ -499,7 +478,6 @@ Ke6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Keres Paul (EST)"]
@@ -520,7 +498,6 @@ Qc6 20.Rfe1 f6 21.exf6 N7xf6 22.Ne5 Qxd6 23.Ng6 Rf7 24.Bf3 Re8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -544,7 +521,6 @@ exf4 32.Bh5 Rg7 33.Nd4 Ke7 34.Nd5+ Bxd5 35.exd5 Nf6 36.Re1 e5
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -563,14 +539,12 @@ Rfd8 14.Rac1 c5 15.b4 Qe7 16.bxc5 dxc5 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1955.02.18"]
 [Round "5"]
 [White "Boris Spassky"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B95"]
-[EventDate "1955.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 

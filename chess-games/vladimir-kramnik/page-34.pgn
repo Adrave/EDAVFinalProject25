@@ -1,6 +1,5 @@
 [Event "It (active) (Gr.A)"]
 [Site "Cap d'Agde (France)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -23,7 +22,6 @@ Qxb4 37.Nd7 f5 38.Nxf8 Kxf8 39.Rxd6 1-0
 
 [Event "Simultan"]
 [Site "Brissago (Switzerland)"]
-[Date "2004.01.29"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Bischoff Klaus (GER)"]
@@ -44,7 +42,6 @@ fxe6 20.Qe2 Nc6 21.Nxe6 Bxe6 22.Qxe6 Qd6 23.Qe2 O-O 24.Bxa6 Bf6
 
 [Event "Simultan"]
 [Site "Brissago (Switzerland)"]
-[Date "2004.01.29"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Dautov Rustem (GER)"]
@@ -65,7 +62,6 @@ Nxe6 20.Rad1 Nf4 21.Bxf4 Bxf4 22.Ne5 Qc7 23.Qc2 Rbd8 24.Qf5 Bxe5
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.02.20"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -85,7 +81,6 @@ Qb6 20.Be3 Qb7 21.Nxe5 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.02.22"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -104,7 +99,6 @@ Bxc1 8.Rxc1 Nge7 9.Ne3 O-O 10.O-O Ng6 11.Ncd5 Nce7 12.Nxe7+ Qxe7
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.02.27"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -124,7 +118,6 @@ Bxd5 14.c3 Rc8 15.Qe1 Na5 16.Rd1 Nxb3 17.axb3 Qa5 18.Qg3 Be6
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.02.29"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -146,7 +139,6 @@ Nxd5 31.cxd5 Re7 32.Rb3 Ra8 33.Rbe3 Ra4 34.Qe2 Rd4 35.b3 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.03.03"]
 [Round "12"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -165,7 +157,6 @@ Bxc5 8.Qxd8+ Kxd8 9.Ne5 Ke7 10.Be2 Bd7 11.Bf3 Nc6 12.Nxc6+ Bxc6
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.22"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -192,7 +183,6 @@ Rc5 60.f5+ Rxf5 61.h5+ Rxh5 62.Rxf6+ Kxf6 63.Kxh5 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.23"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -216,7 +206,6 @@ Kf5 36.Re1 Re6 37.Rg1 Rh6 38.Rg5+ Kf6 39.Kg3 Rg6 40.Rxg6+ Kxg6
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.25"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -237,7 +226,6 @@ Rad8 25.Rxd8 Rxd8 26.Qg3 Kh7 27.Qh4 c5 28.c3 c4 29.Bc2 Nd5 30.Qxe7 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2004.03.26"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -256,7 +244,6 @@ Be6 14.Qg3 Rfd8 15.Kh1 Ne8 16.Bb5 Nf6 17.Be2 Ne8 18.Bb5 Nf6 1/2-1/2
 
 [Event "It (Gr.2)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.22"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Karjakin Sergey (UKR)"]
@@ -277,7 +264,6 @@ Nf8 14.Qh5 f6 15.f4 exf4 16.Nxd6 cxd6 17.Rxf4 Ng6 18.Rf3 Be6
 
 [Event "It (Gr.2)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.23"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -298,7 +284,6 @@ a5 26.e4 Be6 27.Qf4 Qd8 28.e5 Rb7 29.exf6 Qxf6 30.Qxf6 1/2-1/2
 
 [Event "It (Gr.2)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.26"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Bologan Viktor (MDA)"]
@@ -319,7 +304,6 @@ Qd8 25.Bd3 1/2-1/2
 
 [Event "It (Gr.2) (play-off)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.27"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -339,7 +323,6 @@ Qc7 20.Qxc3 Re8 21.b4 1/2-1/2
 
 [Event "It (1/2 final)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.29"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -363,7 +346,6 @@ Rc2 36.Kf3 Rc3+ 37.Ke2 Rc2+ 38.Ke3 Rc3+ 39.Kd2 Rf3 40.Ke2 Rc3
 
 [Event "It (1/2 final)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.30"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -382,7 +364,6 @@ c5 8.Rc1 Qa5 9.Qd2 cxd4 10.cxd4 Qxd2+ 11.Bxd2 O-O 12.Nf3 Bg4
 
 [Event "It (final)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.08.01"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -407,7 +388,6 @@ Ke5 1/2-1/2
 
 [Event "It (final)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.08.01"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -426,7 +406,6 @@ O-O 8.h3 Bb7 9.d3 Re8 10.a3 Bc5 11.Nc3 d6 12.Nd5 h6 13.c3 Ba7
 
 [Event "Ch World (match) (1/2 final)"]
 [Site "Brissago (Switzerland)"]
-[Date "2004.09.26"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -445,7 +424,6 @@ Na5 14.Ba2 c5 15.f4 exf4 16.e5 Nd5 17.Bxd5 Qxg5 18.Bxb7 1/2-1/2
 
 [Event "Ch World (match) (1/2 final)"]
 [Site "Brissago (Switzerland)"]
-[Date "2004.09.30"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -469,7 +447,6 @@ Rd1 42.Re3 Kh7 43.Kf3 Rd2 1/2-1/2
 
 [Event "Ch World (match) (1/2 final)"]
 [Site "Brissago (Switzerland)"]
-[Date "2004.10.03"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -489,7 +466,6 @@ Bf8 20.Bb1 h6 1/2-1/2
 
 [Event "Ch World (match) (1/2 final)"]
 [Site "Brissago (Switzerland)"]
-[Date "2004.10.10"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -511,7 +487,6 @@ Nxd4 14.Qxd4 Qxd4 15.cxd4 Bb7 16.Bg5 h6 17.Bxf6 gxf6 18.Nd2 Rg8
 
 [Event "Ch World (match) (1/2 final)"]
 [Site "Brissago (Switzerland)"]
-[Date "2004.10.14"]
 [Round "12"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]

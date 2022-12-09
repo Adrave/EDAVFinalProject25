@@ -1,6 +1,5 @@
 [Event "It \"OHRA\" (swiss)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Dorfman Josif D (FRA)"]
@@ -18,7 +17,6 @@ Qd7 8.Bf4 Na6 9.h3 Be6 10.Nd4 1/2-1/2
 
 [Event "It \"OHRA\" (swiss)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Fedorowicz John P (USA)"]
@@ -43,7 +41,6 @@ Rxb3 0-1
 
 [Event "It \"OHRA\" (swiss)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -68,7 +65,6 @@ Re1+ 41.Kg2 Re2+ 42.Kf3 Rc2 43.Ke4 Re2+ 44.Kd3 Rxa2 45.h5 b4
 
 [Event "Zt"]
 [Site "India"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Thipsay Praveen M (IND)"]
@@ -97,7 +93,6 @@ Rf5+ 70.Ke4 Rh5 1/2-1/2
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Chandler Murray G (ENG)"]
@@ -116,7 +111,6 @@ h6 14.b3 Nc6 15.a3 Qc7 16.h3 Rfd8 17.Na4 Nd7 18.Nc3 Nf6 19.Na4 1/2-1/2
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -134,7 +128,6 @@ Be7 8.c4 Nb4 9.Be2 O-O 10.Nc3 Be6 11.Be3 f5 12.a3 1/2-1/2
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Seirawan Yasser (USA)"]
@@ -153,7 +146,6 @@ Nc6 14.Qh5 Qa5 15.Ng5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -175,7 +167,6 @@ d6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a3 h6 13.Bc2 Nb8
 
 [Event "Olympiad"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Timman Jan H (NED)"]
@@ -198,7 +189,6 @@ Kxe7 37.Ke3 1/2-1/2
 
 [Event "It (open)"]
 [Site "Oakham (England)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Arakhamia-Grant Ketevan (GEO)"]
@@ -219,7 +209,6 @@ Rxa2 25.Bxd4 exd4 26.b4 Rxd5 27.exd5 Ng3+ 28.Kh2 Ne2 29.Re1 1-0
 
 [Event "It (open)"]
 [Site "Oakham (England)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Blatny Pavel (CZE)"]
@@ -237,7 +226,6 @@ a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bd2 Be4 11.Qc1 Bb7 1/2-1/2
 
 [Event "It (open)"]
 [Site "Oakham (England)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hennigan Michael (ENG)"]
@@ -260,7 +248,6 @@ axb3 37.axb3 Nc6+ 38.Kc3 Ka5 39.b4+ Ka4 40.Nb1 1-0
 
 [Event "It (open)"]
 [Site "Oakham (England)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Norwood David (ENG)"]
@@ -281,7 +268,6 @@ Bxh6 20.Rxf5 Qxc5+ 21.Kh2 e6 22.Rh5 Bf4+ 23.Kg2 Qd5+ 24.Kg1 Qd4+
 
 [Event "It (open)"]
 [Site "Oakham (England)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tiviakov Sergei (NED)"]
@@ -300,7 +286,6 @@ Ne7 14.Nxe7+ Qxe7 15.Na3 Rfd8 16.Nc2 1/2-1/2
 
 [Event "It"]
 [Site "Prestwich (England)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Badea Bela (ROM)"]
@@ -321,7 +306,6 @@ Bb5 26.gxf5 Bxf1 27.Rxf1 Qd7 28.fxe6 Qxe6 29.Qg2 1-0
 
 [Event "It"]
 [Site "Prestwich (England)"]
-[Date "1990.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Galliamova Alisa (RUS)"]
@@ -345,7 +329,6 @@ d5 42.Rxd5 1-0
 
 [Event "It"]
 [Site "Prestwich (England)"]
-[Date "1990.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Quillan Gary (ENG)"]
@@ -368,7 +351,6 @@ Nxc6 37.Qd6+ Ke8 38.Rb8+ Nxb8 39.Qd8# 1-0
 
 [Event "It (open)"]
 [Site "Rome (Italy)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Farago Ivan (HUN)"]
@@ -395,7 +377,6 @@ Nc4 60.Kd1 Kb6 61.Ke1 Nd6 62.Kd1 Ndf5 63.Ke1 Nd6 1/2-1/2
 
 [Event "It (open)"]
 [Site "Rome (Italy)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -419,7 +400,6 @@ h5 42.Nd3 Rh1 43.Bf2 Bc3 44.Bc5 Rh2 45.Kf2 Rh1 46.Bxb4 Bd4+ 47.Ke2 1-0
 
 [Event "It (open)"]
 [Site "Rome (Italy)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Novoselski Zoran (SCG)"]
@@ -443,7 +423,6 @@ Kf8 31.Ra1 Bc8 32.b4 Bd7 33.bxc5 a5 34.Rdd1 Qa7 35.Rab1 Rxb1
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nunn John D M (ENG)"]
@@ -467,7 +446,6 @@ Bxe4+ 41.Kxe4 c2 0-1
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Portisch Lajos (HUN)"]
@@ -489,7 +467,6 @@ Bxe4 25.Qxe4 Kg8 26.Qg2 Bb4 27.Qg3 Qd7 28.Bf4 Ng6 29.Bc7 Rc8
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Short Nigel D (ENG)"]
@@ -515,7 +492,6 @@ f5 0-1
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -539,7 +515,6 @@ Ng4 41.f3 Nf2 42.Be3 Nh1 43.Rxc5 1-0
 
 [Event "FIDE (37) 1990-1993"]
 [Site "Manila izt"]
-[Date "1990.07.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Ye, Jiangchuan"]
@@ -547,7 +522,6 @@ Ng4 41.f3 Nf2 42.Be3 Nh1 43.Rxc5 1-0
 [WhiteElo "2610"]
 [BlackElo "2525"]
 [ECO "C79"]
-[EventDate "1990.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. Bxc6+ bxc6 7. d4 
 exd4 8. Qxd4 Be7 9. e5 c5 10. Qa4+ Bd7 11. Qb3 Be6 12. exf6 Bxb3 13. fxe7 

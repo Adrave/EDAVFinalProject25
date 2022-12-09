@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Lublin/Warsaw/Krakow"]
-[Date "1942.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Brinckmann Alfred (GER)"]
@@ -22,7 +21,6 @@ gxf4 26.Rxa7 Qd5 27.exf4 Kh8 28.Bf3 Qb5 29.e6 Qb6 30.Qe3 Rf6
 
 [Event "It"]
 [Site "Lublin/Warsaw/Krakow"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Junge Klaus (CHI)"]
@@ -43,7 +41,6 @@ gxf6 25.Qh6 f5 26.Bxf7+ Qxf7 27.Rxd8 Na4 28.b3 1-0
 
 [Event "It"]
 [Site "Lublin/Warsaw/Krakow"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kunerth Werner Eberhard"]
@@ -69,7 +66,6 @@ Rg3 48.Rxc5 Kxd6 49.Rd5+ Ke7 50.f5 Rxa3 51.Rxd4 Rg3 52.Re4+ Kd6
 
 [Event "It"]
 [Site "Lublin/Warsaw/Krakow"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Zollner Hans"]
@@ -91,7 +87,6 @@ Rd3 31.Ng5 Nh6 32.Ne6 Qe7 33.Qxh6 Qxe6 34.Rh4 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1942.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Barcza Gedeon (HUN)"]
@@ -112,7 +107,6 @@ Qxe4 26.Bd4 Qg6 27.Rxa7 Rxa7 28.Qxa7 Ne5 29.Bxe5 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -134,7 +128,6 @@ axb5 20.axb5 Qa2 21.Nec4 Qa8 22.Bxf6 gxf6 23.b6 Rc6 24.e5 Rxb6
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1942.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Napolitano Mario (ITA)"]
@@ -162,7 +155,6 @@ Rxa8 65.Rxa8 Kxb2 66.c4 Bd4 67.Ke4 Kc3 68.Ra3+ Kb4 69.Kxd4 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1942.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rabar Braslav (YUG)"]
@@ -183,7 +175,6 @@ Be7 14.Qf3 Qb6 15.Be3 O-O 16.Nf5 Bc5 17.Na4 Qa5 18.Nxc5 Nxc5
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1942.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Richter Kurt Sr (GER)"]
@@ -207,7 +198,6 @@ Qc2 43.Rf1 Rg7 44.f3 exf3 45.Rxf3 Kh6 46.Ne3 1-0
 
 [Event "It \"Duras-60\""]
 [Site "Prague (Czech Republic)"]
-[Date "1942.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Hromadka Karel (AUT)"]
@@ -231,7 +221,6 @@ Qxd6 37.Rxe8+ Rxe8 38.Rd1 Qc7 39.Qf3 b4 40.Rd7 Re1+ 41.Kh2 Nxh4
 
 [Event "It \"Duras-60\""]
 [Site "Prague (Czech Republic)"]
-[Date "1942.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Junge Klaus (CHI)"]
@@ -252,7 +241,6 @@ axb5 14.Rd1 Qb6 15.Nd2 e5 16.Nb3 Nc5 17.Nxc5 Bxc5 18.Ra6 Qxa6
 
 [Event "It \"Duras-60\""]
 [Site "Prague (Czech Republic)"]
-[Date "1942.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Prokop Frantisek Josef (CZE)"]
@@ -276,7 +264,6 @@ Bxd6 31.cxd6 Rxd6 32.Rxe5 Rb7 33.Ra4 Ra7 34.Rea5 c5 35.Rxc5 Re7
 
 [Event ""]
 [Site "Prague (Czech Republic)"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Podgorny Jiri (CZE)"]
@@ -297,7 +284,6 @@ Rab8 19.b5 axb5 20.Rxa7 b4 21.Ne2 Rfc8 22.f3 Ra8 23.Rxa8 Rxa8
 
 [Event "It"]
 [Site "Salzburg (Austria)"]
-[Date "1942.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -325,7 +311,6 @@ Rc7 58.e5 Kg7 59.Kf4 Rd7 60.Rxc6 Rd4+ 61.Kf3 Rxh4 62.Rc7 Rh3+
 
 [Event "It"]
 [Site "Salzburg (Austria)"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -351,7 +336,6 @@ gxh5 48.Bxf5 Ra8 49.Be6+ Kh8 50.Rd5 Nf6 51.Rxc5 Kg7 52.Kg2 Ra2
 
 [Event "Simultan"]
 [Site "Gijon (France)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Moran P"]
@@ -375,7 +359,6 @@ Ra2 31.Nxb3 Rxb2 32.Na5 Rxf2 33.Kg3 Rd2 34.Nc6 Bf1 35.Nd8 Bxg2
 
 [Event "Simultan"]
 [Site "Gijon (France)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Salas"]
@@ -399,7 +382,6 @@ Bxd1 42.Rxd1 Rc3 43.g4 g5+ 44.Ke4 1/2-1/2
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gillar A"]
@@ -421,7 +403,6 @@ Ke6 30.Rd3 Nc6 31.f4 Rd8 1/2-1/2
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Jilek A"]
@@ -444,7 +425,6 @@ fxe6 30.f4 Re7 31.Kf2 e5 32.fxe5+ Rxe5 33.Rxe5 Kxe5 34.Ke3 Kd5
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Malcanek"]
@@ -468,7 +448,6 @@ Bb1 42.Ba6 Bc2 43.Bb7 axb4 44.axb4 Ba4 45.Bf3 Bc6 46.Be2 1/2-1/2
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Stancl"]
@@ -491,7 +470,6 @@ Rd7 37.b3 Rdxe7 1/2-1/2
 
 [Event "It"]
 [Site "Prague (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fichtl Jiri (CZE)"]
@@ -515,7 +493,6 @@ Re2 37.Bf3 Re1 38.Rxe1 Qxe1+ 39.Kg2 Qd2+ 40.Kh3 Qf4 41.Qf6+ Rg7
 
 [Event "It"]
 [Site "Prague (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -539,7 +516,6 @@ Kf6 42.h4 Kg6 43.Rxf7 Bd8 44.Rf8 Bxg5 45.Rg8+ Kh5 46.hxg5 e5 1/2-1/2
 
 [Event "It"]
 [Site "Salzburg (Austria)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -563,7 +539,6 @@ Bb2 42.Kf3 Be5 43.Rh7 Bb2 44.Rh6 Be5 1/2-1/2
 
 [Event "It"]
 [Site "Salzburg (Austria)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Keres Paul (EST)"]

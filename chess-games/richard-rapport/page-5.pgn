@@ -5,7 +5,6 @@
 [BlackFideId "4671910"]
 [Result "1-0"]
 [Round "01"]
-[Date "Sat Nov 23 2019"]
 [WhiteClock "0:12:09"]
 [BlackClock "0:01:14"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "8603154"]
 [Result "1-0"]
 [Round "15"]
-[Date "Fri Aug 23 2019"]
 [WhiteClock "0:06:15"]
 [BlackClock "0:00:32"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "12942766"]
 [Result "1-0"]
 [Round "04"]
-[Date "Sun Dec 08 2019"]
 [WhiteClock "0:59:23"]
 [BlackClock "0:00:57"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "4659600"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Sat Feb 08 2020"]
 [WhiteClock "0:12:34"]
 [BlackClock "0:01:41"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "1105663"]
 [Result "1-0"]
 [Round "06"]
-[Date "Sun Feb 09 2020"]
 [WhiteClock "0:12:45"]
 [BlackClock "0:05:07"]
 
@@ -75,7 +70,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.27"]
 [Round "13.2"]
 [White "Rapport,R"]
 [Black "Van Foreest,Jorden"]
@@ -84,7 +78,6 @@
 [BlackFideId "1039784"]
 [BlackTitle "GM"]
 [ECO "D37"]
-[EventDate "2019.01.12"]
 [Opening "QGD"]
 [Variation "4.Nf3"]
 [WhiteElo "2731"]
@@ -100,7 +93,6 @@
 
 [Event "Champions Showdown Rapid"]
 [Site "Saint Louis USA"]
-[Date "2019.02.20"]
 [Round "1.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -109,7 +101,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "D31"]
-[EventDate "2019.02.20"]
 [Opening "QGD"]
 [Variation "semi-Slav"]
 [WhiteElo "2735"]
@@ -128,7 +119,6 @@
 
 [Event "Champions Showdown Rapid"]
 [Site "Saint Louis USA"]
-[Date "2019.02.20"]
 [Round "3.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -137,7 +127,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.02.20"]
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -160,7 +149,6 @@
 
 [Event "Champions Showdown Rapid"]
 [Site "Saint Louis USA"]
-[Date "2019.02.22"]
 [Round "11.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -169,7 +157,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A47"]
-[EventDate "2019.02.20"]
 [Opening "Queen's Indian defence"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -188,7 +175,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.23"]
 [Round "5.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -197,7 +183,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.02.23"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -213,7 +198,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.23"]
 [Round "11.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -222,7 +206,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.02.23"]
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -241,7 +224,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "13.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -250,7 +232,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.02.23"]
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -266,7 +247,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "15.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -275,7 +255,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "D00"]
-[EventDate "2019.02.23"]
 [Opening "Levitsky attack (Queen's bishop attack)"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -298,7 +277,6 @@
 [BlackElo "2777"]
 [Result "1/2-1/2"]
 [Round "02"]
-[Date "Thu Dec 03 2020"]
 [WhiteClock "0:07:26"]
 [BlackClock "0:07:18"]
 
@@ -316,7 +294,6 @@
 [BlackElo "2709"]
 [Result "1-0"]
 [Round "10"]
-[Date "Mon Dec 07 2020"]
 [WhiteClock "0:02:32"]
 [BlackClock "0:00:14"]
 
@@ -334,7 +311,6 @@
 [BlackElo "2791"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Mon Dec 07 2020"]
 [WhiteClock "0:04:53"]
 [BlackClock "0:01:50"]
 
@@ -352,7 +328,6 @@
 [BlackElo "2732"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Sat Dec 05 2020"]
 [WhiteClock "0:07:55"]
 [BlackClock "0:02:42"]
 
@@ -370,7 +345,6 @@
 [BlackElo "2764"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Fri Dec 04 2020"]
 [WhiteClock "0:04:15"]
 [BlackClock "0:06:30"]
 
@@ -388,7 +362,6 @@
 [BlackElo "2735"]
 [Result "1-0"]
 [Round "12"]
-[Date "Tue Dec 08 2020"]
 [WhiteClock "0:15:29"]
 [BlackClock "0:14:23"]
 
@@ -406,7 +379,6 @@
 [BlackElo "2763"]
 [Result "1/2-1/2"]
 [Round "13"]
-[Date "Wed Dec 09 2020"]
 [WhiteClock "0:04:39"]
 [BlackClock "0:02:11"]
 
@@ -425,7 +397,6 @@
 [Result "1/2-1/2"]
 [Round "26-03"]
 [TimeControl "300+1"]
-[Date "2021.12.02"]
 [WhiteClock "0:00:51"]
 [BlackClock "0:00:04"]
 
@@ -445,7 +416,6 @@
 [Result "1/2-1/2"]
 [Round "28-10"]
 [TimeControl "60+1"]
-[Date "2021.12.02"]
 [WhiteClock "0:00:41"]
 [BlackClock "0:00:18"]
 
@@ -465,7 +435,6 @@
 [Result "1/2-1/2"]
 [Round "26-05"]
 [TimeControl "300+1"]
-[Date "2021.12.02"]
 [WhiteClock "0:00:08"]
 [BlackClock "0:00:11"]
 
@@ -485,7 +454,6 @@
 [Result "1/2-1/2"]
 [Round "27-01"]
 [TimeControl "180+1"]
-[Date "2021.12.02"]
 [WhiteClock "0:00:03"]
 [BlackClock "0:00:02"]
 
@@ -505,7 +473,6 @@
 [Result "1/2-1/2"]
 [Round "26-07"]
 [TimeControl "300+1"]
-[Date "2021.12.02"]
 [WhiteClock "0:00:09"]
 [BlackClock "0:00:05"]
 

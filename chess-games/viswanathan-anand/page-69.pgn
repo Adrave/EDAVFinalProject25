@@ -1,6 +1,5 @@
 [Event "Memorial M.Euwe"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1993.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Piket Jeroen (NED)"]
@@ -27,7 +26,6 @@ Nf1+ 54.Kh3 Nxd2 55.f6 Ra1 56.Kg4 Rg1 57.Kg3 Rh1 58.Kf4 Rh4+
 
 [Event "Simultan"]
 [Site "Bad Mergentheim (Germany)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Heinatz Dr Gundula (SUI)"]
@@ -48,7 +46,6 @@ f6 25.Ne6+ 1-0
 
 [Event "Simultan"]
 [Site "Bad Mergentheim (Germany)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Werner Isabel (GER)"]
@@ -70,7 +67,6 @@ Rcd8 25.Nd5 Rh8 26.f6+ exf6 27.gxf6+ Kf8 28.Rh1 Rg8 29.Rc1 Nb4
 
 [Event "Cup European Club"]
 [Site "Barcelona (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Muir Andrew J (SCO)"]
@@ -91,7 +87,6 @@ axb3 26.Nxb3 Bf6 27.Qxg6 Bb7 28.Rh2 Qc3 29.Bd4 1-0
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ftacnik Lubomir (SVK)"]
@@ -114,7 +109,6 @@ Ba3+ 25.Kb1 Nc3+ 26.Ka1 Qa4 27.Qd3 Bb4 28.Nc1 Kb8 29.Bd4 Rc8
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -141,7 +135,6 @@ Kc8 60.c6 Kb8 61.Be6 Ra7 62.a3 1-0
 
 [Event "Ch World (qual) (PCA)"]
 [Site "Groningen (Netherlands)"]
-[Date "1993.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -164,7 +157,6 @@ Bd7 35.Kb2 Rc5 36.Rb8+ Kg7 37.Rb7 Bc8 38.Rb5 1-0
 
 [Event "Ch World (qual) (PCA)"]
 [Site "Groningen (Netherlands)"]
-[Date "1993.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Serper Grigory (USA)"]
@@ -186,7 +178,6 @@ Qc5 26.Qe1 Nxa4 27.Rd5 Nc3+ 28.Bxc3 Qxc3 29.Qe2 Rfa8 30.g5 hxg5
 
 [Event "Cup European Club"]
 [Site "Hilversum (Netherlands)"]
-[Date "1993.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tolnai Tibor (HUN)"]
@@ -207,7 +198,6 @@ Rxc4 14.h5 Nxh5 15.g4 Nf6 16.Kb1 Bxg4 17.fxg4 Nxg4 18.Qe2 Nxe3
 
 [Event "It \"Gran Canaria\" (cat.16)"]
 [Site "Las Palmas (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -233,7 +223,6 @@ Rf1 53.f6+ Kd6 54.g6 1-0
 
 [Event "It \"Gran Canaria\" (cat.16)"]
 [Site "Las Palmas (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -256,7 +245,6 @@ Bxg3 31.Bxg3 e3 32.Re7 Be4 33.Re8+ Kh7 34.Rxe4 dxe4 35.Qxe4 Qh3
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -278,7 +266,6 @@ O-O 25.f5 exf5 26.Bxf5 Qd8 27.Bg4 Bg5 28.Qe2 h5 29.Bxh5 gxh5
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -299,7 +286,6 @@ Kb8 25.Qb6+ Ka8 26.Qxc6+ Kb8 27.Qb6+ Ka8 28.Bb5 1-0
 
 [Event "Ch World (PCA) (match) (cand.) (1/4)"]
 [Site "New York (USA)"]
-[Date "1994.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -322,7 +308,6 @@ Nf7 32.Qa3 Qc2 33.Nc3 Ng5 34.Nxg5 Qxd2 35.Nf3 Qc2 36.Ne1 Qd2
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "New York (USA)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Smirin Ilia (ISR)"]
@@ -344,7 +329,6 @@ Rd7 31.h4 Qf3 32.Qe5+ Qf6 33.Qc5 Qf3 34.Rf4 Qd5 35.Qxd5 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sanghi Nagar (India)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kamsky Gata (USA)"]
@@ -368,7 +352,6 @@ Rxb2 36.Re7 Bf4 37.fxg3 Rg2+ 38.Kh1 Rh2+ 39.Kg1 Rg2+ 40.Kh1 Rh2+
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sanghi Nagar (India)"]
-[Date "1994.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kamsky Gata (USA)"]
@@ -394,7 +377,6 @@ Bd8 48.g4 hxg4 49.hxg4 Rc8 50.Qe3 Rxc3 51.Qxc3 Qa6 52.Qc2 Qa7
 
 [Event "Ch World (match) (cand.) (1/8)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Jussupow Artur (GER)"]
@@ -415,7 +397,6 @@ fxe4 25.Nxe4 Bd4 26.Re2 Bb6 27.Rhe1 Ba5+ 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/8)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1994.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Jussupow Artur (GER)"]
@@ -442,7 +423,6 @@ Kd6 60.Be3 1/2-1/2
 
 [Event "Simultan"]
 [Site "Frankfurt (Germany)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Froehlich Andreas (GER)"]
@@ -451,7 +431,6 @@ Kd6 60.Be3 1/2-1/2
 [WhiteElo "2720"]
 [BlackElo "2098"]
 [PlyCount "74"]
-[EventDate "1994.??.??"]
 
 1. d4 c5 2. d5 Nf6 3. c4 b5 4. cxb5 a6 5. f3 axb5 6. e4 d6 7. Bxb5+ Bd7 8.
 Bxd7+ Nbxd7 9. Ne2 g6 10. O-O Bg7 11. Nec3 O-O 12. a4 Qb6 13. Kh1 c4 14. Na3
@@ -463,7 +442,6 @@ a6 Rb2 34. h3 Kf6 35. Kh2 Ke5 36. Ra4 Kf4 37. Rac4 Ra2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Ch World (match)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Kamsky, Gata"]
@@ -482,7 +460,6 @@ Bxg5 32. Re5 1/2-1/2
 
 [Event "Buenos Aires thema"]
 [Site "Buenos Aires thema"]
-[Date "1994.10.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Shirov, Alexei"]
@@ -490,7 +467,6 @@ Bxg5 32. Re5 1/2-1/2
 [WhiteElo "2720"]
 [BlackElo "2740"]
 [ECO "B32"]
-[EventDate "1994.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. Bd3 Nf6 
 8. O-O O-O 9. N1c3 a6 10. Na3 Ne8 11. b3 Bg5 12. Bb2 Be6 13. Nc2 Rc8 14. 
@@ -505,7 +481,6 @@ Rg2+ 1/2-1/2
 
 [Event "PCA/Intel-GP"]
 [Site "Moscow RUS"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Anand, Viswanathan"]
 [Black "Kramnik, Vladimir"]
@@ -530,7 +505,6 @@ Ra3+ 62. f3 Ra1 63. Rb5 Ra6 64. f4 Rc6 65. Kh4 Rd6 66. f5+ Kg7 67. Kg5 Rd7
 
 [Event "PCA (02) 1993-1995"]
 [Site "New York cm qf"]
-[Date "1994.06.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Romanishin, Oleg M"]
@@ -538,7 +512,6 @@ Ra3+ 62. f3 Ra1 63. Rb5 Ra6 64. f4 Rc6 65. Kh4 Rd6 66. f5+ Kg7 67. Kg5 Rd7
 [WhiteElo "2715"]
 [BlackElo "2605"]
 [ECO "C88"]
-[EventDate "1994.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
  c3 Bg4 9. d3 Na5 10. Bc2 c5 11. h3 Bd7 12. d4 Qc7 13. Nbd2 cxd4 14. cxd4 
@@ -550,7 +523,6 @@ Rc8 15. Bb1 O-O 16. Nf1 Rfe8 17. d5 Nh5 18. Bd3 Bf6 19. Ne3 Nf4 20. Bf1 g6
 
 [Event "PCA/Intel-GP"]
 [Site "Moscow RUS"]
-[Date "1994.??.??"]
 [Round "3"]
 [White "Anand, Viswanathan"]
 [Black "Ivanchuk, Vassily"]

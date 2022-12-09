@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.23"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Naiditsch Arkadij (GER)"]
@@ -22,7 +21,6 @@ Bxf8 24.Rxc6 Rd8 25.Rfc1 Kg7 26.R1c2 Nf5 27.e3 a5 28.Ra6 Rd5
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.25"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Aronian Levon (GER)"]
@@ -45,7 +43,6 @@ Bxb4 37.Qxb4 Qe8 1-0
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.28"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Aleksandrov Aleksej (BLR)"]
@@ -64,7 +61,6 @@ Bf5 14.Nd4 Bd7 15.Ng5 Bxg5 16.Bxg5+ Ke8 17.e6 fxe6 18.Nxe6 Bc8 1-0
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.06.03"]
 [Round "12"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -86,7 +82,6 @@ Ke8 31.Rf3 Qh5 32.Bd6 1-0
 
 [Event "It (cat.19)"]
 [Site "Dortmund (Germany)"]
-[Date "2006.08.06"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -111,7 +106,6 @@ Kxg6 48.Be3 1-0
 
 [Event "Ch World (match)"]
 [Site "Elista (Russia)"]
-[Date "2006.09.23"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -140,7 +134,6 @@ Kg6 71.Ng3 Rb2 72.h5+ Kf7 73.Re5 Nd1 74.Ne2 Kf6 75.Rd5 1-0
 
 [Event "WCh"]
 [Site "Mexico City MEX"]
-[Date "2007.09.13"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Svidler, P."]
@@ -149,7 +142,6 @@ Kg6 71.Ng3 Rb2 72.h5+ Kf7 73.Re5 Nd1 74.Ne2 Kf6 75.Rd5 1-0
 [WhiteElo "2769"]
 [BlackElo "2735"]
 [PlyCount "45"]
-[EventDate "2007.09.13"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
 g6 9. e4 dxc4 10. e5 Qe7 11. Bxc4 Bg7 12. O-O O-O 13. Re1 Rd8 14. Qe2 b6 15.
@@ -159,7 +151,6 @@ Nh2 Rxd4 23. Rxd4 1/2-1/2
 
 [Event "WCh"]
 [Site "Mexico City MEX"]
-[Date "2007.09.16"]
 [Round "4"]
 [White "Kramnik, V."]
 [Black "Grischuk, A."]
@@ -168,7 +159,6 @@ Nh2 Rxd4 23. Rxd4 1/2-1/2
 [WhiteElo "2769"]
 [BlackElo "2726"]
 [PlyCount "120"]
-[EventDate "2007.09.13"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
 b5 9. Qc2 Bb7 10. Bd2 Ra7 11. a3 Nbd7 12. Ba5 Qa8 13. Qxc7 Rc8 14. Qf4 Rc2 15.
@@ -184,7 +174,6 @@ Rxc5 41. dxc5 Kf8 42. c6 Ke7 43. c7 Kd7 44. Bc6+ Kxc7 45. Ba4 Kb6 46. Kg2 Kc5
 
 [Event "WCh"]
 [Site "Mexico City MEX"]
-[Date "2007.09.20"]
 [Round "7"]
 [White "Kramnik, V."]
 [Black "Gelfand, B."]
@@ -193,7 +182,6 @@ Rxc5 41. dxc5 Kf8 42. c6 Ke7 43. c7 Kd7 44. Bc6+ Kxc7 45. Ba4 Kb6 46. Kg2 Kc5
 [WhiteElo "2769"]
 [BlackElo "2733"]
 [PlyCount "80"]
-[EventDate "2007.09.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 h5 12. Nxd7 Qxd7 13. Qc1 Rg8 14. Rd1 Bb4 15.
@@ -206,7 +194,6 @@ Kf2 Bxb5 1/2-1/2
 
 [Event "WCh"]
 [Site "Mexico City MEX"]
-[Date "2007.09.24"]
 [Round "10"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -215,7 +202,6 @@ Kf2 Bxb5 1/2-1/2
 [WhiteElo "2769"]
 [BlackElo "2792"]
 [PlyCount "81"]
-[EventDate "2007.09.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. Bh5 Bf8 15.
@@ -228,7 +214,6 @@ Ka5 41. Ra8+ 1/2-1/2
 
 [Event "Tal Mem"]
 [Site "Moscow RUS"]
-[Date "2007.11.10"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Carlsen, M."]
@@ -237,7 +222,6 @@ Ka5 41. Ra8+ 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2714"]
 [PlyCount "79"]
-[EventDate "2007.11.10"]
 
 1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
 b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Bg5 Nbd7 12. Nbd2 Rc8 13. Nb3 c5 14. Bxf6 Nxf6
@@ -250,7 +234,6 @@ Qc8 28. Nf4 Qg4 29. Qd7 Rf5 30. Rd5 Rxf4 31. exf4 f5 32. Qe6+ Kh8 33. Qxf5 Qxf5
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "7"]
 [White "Kramnik, V."]
 [Black "Shirov, A."]
@@ -259,7 +242,6 @@ Qc8 28. Nf4 Qg4 29. Qd7 Rf5 30. Rd5 Rxf4 31. exf4 f5 32. Qe6+ Kh8 33. Qxf5 Qxf5
 [WhiteElo "2785"]
 [BlackElo "2739"]
 [PlyCount "35"]
-[EventDate "2007.11.21"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 h6 5. Bg5 c6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. a4 e5 15. Re1
@@ -268,7 +250,6 @@ Qf6 16. Ba3 Bf8 17. Bg4 Rd8 18. Nd5 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "23"]
 [White "Kramnik, V."]
 [Black "Ivanchuk, V."]
@@ -277,7 +258,6 @@ Qf6 16. Ba3 Bf8 17. Bg4 Rd8 18. Nd5 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2787"]
 [PlyCount "69"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O
 d5 9. cxd5 exd5 10. Nc3 Bb7 11. Qc2 Na6 12. Bf4 Qc8 13. Rfd1 Rd8 14. Ng5 Qd7
@@ -289,7 +269,6 @@ Qxc6 Nxc6 35. d7 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "25"]
 [White "Kramnik, V."]
 [Black "Morozevich, A."]
@@ -298,7 +277,6 @@ Qxc6 Nxc6 35. d7 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2755"]
 [PlyCount "143"]
-[EventDate "2007.11.21"]
 
 1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
 Nbd7 9. Qe2 Bg4 10. Rd1 O-O 11. e4 Re8 12. h3 Bh5 13. Bf4 Qa5 14. e5 Nd5 15.
@@ -316,7 +294,6 @@ e8=Q 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "27"]
 [White "Kramnik, V."]
 [Black "Leko, P."]
@@ -325,7 +302,6 @@ e8=Q 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2755"]
 [PlyCount "96"]
-[EventDate "2007.11.21"]
 
 1. Nf3 Nf6 2. c4 c5 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. d4 cxd4 7. Nxd4 d5 8.
 cxd5 Nxd5 9. Nc3 Nc6 10. Nxd5 exd5 11. Be3 a6 12. Rc1 Ne5 13. Nb3 Be6 14. Nc5
@@ -339,7 +315,6 @@ Rf4 Ra2+ 47. Ke1 Kxb6 48. Bxf5 Kc5 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "29"]
 [White "Kramnik, V."]
 [Black "Grischuk, A."]
@@ -348,7 +323,6 @@ Rf4 Ra2+ 47. Ke1 Kxb6 48. Bxf5 Kc5 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2715"]
 [PlyCount "95"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 a6 5. b3 c5 6. Bd3 Nc6 7. Bb2 Be7 8. cxd5
 exd5 9. O-O O-O 10. Nbd2 cxd4 11. Nxd4 Ne5 12. N2f3 Nxd3 13. Qxd3 Ne4 14. h3
@@ -362,7 +336,6 @@ hxg5+ hxg5+ 47. Kg3 Kf5 48. Bc5 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "31"]
 [White "Kramnik, V."]
 [Black "Kasimdzhanov, R."]
@@ -371,7 +344,6 @@ hxg5+ hxg5+ 47. Kg3 Kf5 48. Bc5 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2690"]
 [PlyCount "111"]
-[EventDate "2007.11.21"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. g3 Nd7 8. Bg2
 dxc4 9. O-O Be7 10. Ne4 Qf5 11. Ned2 Nb6 12. Ne5 O-O 13. e3 c5 14. Be4 Qh3 15.
@@ -386,7 +358,6 @@ Bb2 54. Kd5 Bc3 55. a4 a5 56. Ke4 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "33"]
 [White "Kramnik, V."]
 [Black "Kamsky, G."]
@@ -395,7 +366,6 @@ Bb2 54. Kd5 Bc3 55. a4 a5 56. Ke4 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2714"]
 [PlyCount "95"]
-[EventDate "2007.11.21"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 e6 7. e3 Nc6 8. Bd3
 Be7 9. O-O O-O 10. Rc1 Bd7 11. Ne5 Rc8 12. Qf3 Be8 13. Qh3 Kh8 14. Bg5 g6 15.
@@ -409,7 +379,6 @@ Re8 34. Red1 Be6 35. Qh5 Qb8 36. Re2 Bc3 37. h3 Bf7 38. Qxf7 Rxe2 39. Qc4 Re1+
 
 [Event "Advanced Chess Rapid Match"]
 [Site "Moscow RUS"]
-[Date "2007.11.23"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -418,7 +387,6 @@ Re8 34. Red1 Be6 35. Qh5 Qb8 36. Re2 Bc3 37. h3 Bf7 38. Qxf7 Rxe2 39. Qc4 Re1+
 [WhiteElo "2785"]
 [BlackElo "2801"]
 [PlyCount "93"]
-[EventDate "2007.11.23"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 Bb7 9. a3 Bd6 10. O-O O-O 11. Qc2 a5 12. e4 e5 13. dxe5 Nxe5 14. Nxe5 Bxe5 15.
@@ -432,7 +400,6 @@ Kc1 Ke6 47. Kb1 1/2-1/2
 
 [Event "Sparkassen GM, Dortmund GER"]
 [Site "?"]
-[Date "2007.??.??"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -441,7 +408,6 @@ Kc1 Ke6 47. Kb1 1/2-1/2
 [WhiteElo "2770"]
 [BlackElo "2785"]
 [PlyCount "69"]
-[EventDate "2007.??.??"]
 [Source "Mark Crowther"]
 [SourceDate "2010.02.01"]
 
@@ -455,7 +421,6 @@ Qxc3 Ng4 28. Bf3 Nf6 29. Qc8 Nd5 30. a3 a5 31. h4 b6 32. Qc6 Qd8 33. Bxd5 exd5
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.26"]
 [Round "11"]
 [White "Kramnik, Vladimir"]
 [Black "Radjabov, Teimour"]
@@ -463,7 +428,6 @@ Qxc3 Ng4 28. Bf3 Nf6 29. Qc8 Nd5 30. a3 a5 31. h4 b6 32. Qc6 Qd8 33. Bxd5 exd5
 [WhiteElo "2766"]
 [BlackElo "2729"]
 [ECO "E92"]
-[EventDate "2007.01.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. 
 Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 11. d5 Nd7 12. Nd2 f5 13. exf5 Nf6 14. Bd3 
@@ -474,7 +438,6 @@ Bg7 21. cxd6 cxd6 22. Qxg4 Nxg3 23. Qxg3 Bd7 24. Nc7 Rac8 25. Ne6 Bxe6 26.
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.21"]
 [Round "8"]
 [White "Kramnik, Vladimir"]
 [Black "Carlsen, Magnus"]
@@ -482,7 +445,6 @@ Bg7 21. cxd6 cxd6 22. Qxg4 Nxg3 23. Qxg3 Bd7 24. Nc7 Rac8 25. Ne6 Bxe6 26.
 [WhiteElo "2766"]
 [BlackElo "2690"]
 [ECO "E04"]
-[EventDate "2007.01.13"]
 
 1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Bd7 8. 
 Nc3 Nd5 9. Nd2 Nb6 10. Qe2 Na5 11. Nde4 Be7 12. Nc5 Bc6 13. Bxc6+ Nxc6 14.
@@ -493,7 +455,6 @@ Qb7 26. Rc1 Ne5 27. Qc7 f6 28. Qxb7 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.16"]
 [Round "4"]
 [White "Kramnik, Vladimir"]
 [Black "Navara, David"]
@@ -501,7 +462,6 @@ Qb7 26. Rc1 Ne5 27. Qc7 f6 28. Qxb7 1/2-1/2
 [WhiteElo "2766"]
 [BlackElo "2719"]
 [ECO "A35"]
-[EventDate "2007.01.13"]
 
 1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Nc3 d5 5. d4 cxd4 6. Nxd4 dxc4 7. Nxc6 
 Qxd1+ 8. Nxd1 bxc6 9. Bg2 Nd5 10. Ne3 e6 11. Nxc4 Ba6 12. Na5 Rc8 13. Bd2 
@@ -518,7 +478,6 @@ Rg2 62. b6 Rxg3 63. Rxe2 1/2-1/2
 
 [Event "WCh"]
 [Site "Elista RUS"]
-[Date "2006.10.08"]
 [Round "10"]
 [White "Kramnik, Vladimir"]
 [Black "Topalov, Veselin"]
@@ -526,7 +485,6 @@ Rg2 62. b6 Rxg3 63. Rxe2 1/2-1/2
 [WhiteElo "2743"]
 [BlackElo "2813"]
 [ECO "E08"]
-[EventDate "2006.09.23"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
  Bf4 Nbd7 9. Qc2 a5 10. Rd1 Nh5 11. Bc1 b5 12. cxd5 cxd5 13. e4 dxe4 14. 
@@ -540,14 +498,12 @@ Bxa5 1-0
 
 [Event "World Blitz Championship"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "7"]
 [White "Vladimir Kramnik"]
 [Black "Alexey Shirov"]
 [Result "1/2-1/2"]
 [BlackElo "2739"]
 [ECO "D44"]
-[EventDate "2007.11.21"]
 [PlyCount "35"]
 [WhiteElo "2785"]
 

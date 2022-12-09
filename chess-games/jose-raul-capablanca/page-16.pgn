@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Corzo Jorge"]
@@ -23,7 +22,6 @@ Qh5+ 30.Kg2 Rg4+ 31.Kf1 Rf8+ 32.Bf2 Qh3+ 33.Ke2 Re8+ 34.Kd2 Rxe1
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Janowski Dawid M (POL)"]
@@ -48,7 +46,6 @@ Ke7 37.Rxc5 d3 38.Kf2 Bxe4 39.fxe4 Rxe4 40.Rd5 Re3 41.b4 Re4
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kupchik Abraham (USA)"]
@@ -76,7 +73,6 @@ Rd1+ 59.Ke5 Re1+ 60.Kf6 Rh1 61.Re8+ Ka7 62.h8Q Rxh8 63.Rxh8 Kb6
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -102,7 +98,6 @@ f2 0-1
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Loman Rudolf J (NED)"]
@@ -124,7 +119,6 @@ Rd4 31.Rc2 Rdd3 32.Na5 Rdc3 33.Rd2 Rb4 34.Kg2 Rc5 0-1
 
 [Event "Blitz"]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Black Richard (BER)"]
@@ -143,7 +137,6 @@ Bb4+ 8.Nbd2 O-O 9.O-O Re8 10.cxd5 Nf6 11.Ne5 Nbd7 12.Ndf3 Nxd5
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Adair R"]
@@ -163,7 +156,6 @@ Rh6 20.Qd3 Kf7 21.Nb5 Bb8 22.Bc1 Rh8 23.Bf4 a6 24.Bxb8 axb5 25.Be5 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bernstain G"]
@@ -184,7 +176,6 @@ Rd5 19.Rd4 Kf8 20.c4 Rdd8 21.Rxd8+ Rxd8 22.Bd4 Bc6 23.Bxb6 Rd3
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Beynon"]
@@ -207,7 +198,6 @@ Ke8 36.c7 Rc5 37.Rxe4+ Kf8 38.Re7 Nf6 39.d7 Nxd7 40.Rxd7 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Chajes Oscar (GER)"]
@@ -229,7 +219,6 @@ bxc4 30.Bxc4+ Ke7 31.Qf5 Qb6+ 32.Kf1 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Grommer"]
@@ -253,7 +242,6 @@ Kh8 42.Rxf8+ Rxf8 43.Qf7 Qc8 44.Qxf8+ 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Jaffe C"]
@@ -275,7 +263,6 @@ Qh6 26.Rg1 Be7 27.f4 exf4 28.Bb2 Rg8 29.Qxf4 Nh3 30.Rxg8+ Rxg8
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Janowski Dawid M (POL)"]
@@ -301,7 +288,6 @@ Ra3 54.d5 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kupchik Abraham (USA)"]
@@ -324,7 +310,6 @@ Rb6 37.Ne7 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Liebenstein"]
@@ -344,7 +329,6 @@ Qd7 19.Nxa8 b6 20.d5 Bb7 21.Bd4 f6 22.Qg6 Bxa8 23.e5 Kg8 24.exf6 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Phillips"]
@@ -366,7 +350,6 @@ Kf8 26.Nxd5 Bg5 27.Nf4 Bxf4 28.Bxf4 Ne6 29.Qc4 Nxf4 30.Qxf4 Rh7
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tennenwurzel Edward"]
@@ -387,7 +370,6 @@ Rxe4 25.Bxc7 Rd7 26.Ba5 1-0
 
 [Event "Game"]
 [Site "St. Petersburg (Russia)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -409,7 +391,6 @@ Rac8 25.b3 Rc2 26.a4 Be2 27.Nh4 h5 28.Nhxg6 Re8 29.Rxf7+ Kh6
 
 [Event "Game"]
 [Site "St. Petersburg (Russia)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Duz-Hotimirsky F I (RUS)"]
@@ -432,14 +413,12 @@ Qd8 31.Bxb5 Nc3 32.Nxe7+ Qxe7 33.Qd7 Qxd7 34.Bxd7 Rb8 35.e7 Kf7
 
 [Event "American National"]
 [Site "New York, NY USA"]
-[Date "1913.01.19"]
 [Round "1"]
 [White "Jose Raul Capablanca"]
 [Black "Hermann Liebenstein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "1913.01.19"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -452,14 +431,12 @@ Qd8 31.Bxb5 Nc3 32.Nxe7+ Qxe7 33.Qd7 Qxd7 34.Bxd7 Rb8 35.e7 Kf7
 
 [Event "American National"]
 [Site "New York, NY USA"]
-[Date "1913.01.25"]
 [Round "5"]
 [White "Jose Raul Capablanca"]
 [Black "Edward Tennenwurzel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "1913.01.19"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -474,14 +451,12 @@ Qd8 31.Bxb5 Nc3 32.Nxe7+ Qxe7 33.Qd7 Qxd7 34.Bxd7 Rb8 35.e7 Kf7
 
 [Event "Havana"]
 [Site "Havana CUB"]
-[Date "1913.02.25"]
 [Round "8"]
 [White "Jose Raul Capablanca"]
 [Black "Juan Corzo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "1913.02.15"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -496,14 +471,12 @@ Qd8 31.Bxb5 Nc3 32.Nxe7+ Qxe7 33.Qd7 Qxd7 34.Bxd7 Rb8 35.e7 Kf7
 
 [Event "Havana"]
 [Site "Havana CUB"]
-[Date "1913.03.03"]
 [Round "12"]
 [White "Jose Raul Capablanca"]
 [Black "Oscar Chajes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "1913.02.15"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -519,14 +492,12 @@ Qd8 31.Bxb5 Nc3 32.Nxe7+ Qxe7 33.Qd7 Qxd7 34.Bxd7 Rb8 35.e7 Kf7
 
 [Event "Rice CC Masters"]
 [Site "New York, NY USA"]
-[Date "1913.07.16"]
 [Round "6"]
 [White "Jose Raul Capablanca"]
 [Black "Frank Percival Beynon"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B58"]
-[EventDate "1913.07.02"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -542,14 +513,12 @@ Qd8 31.Bxb5 Nc3 32.Nxe7+ Qxe7 33.Qd7 Qxd7 34.Bxd7 Rb8 35.e7 Kf7
 
 [Event "Savorin Cup"]
 [Site "St Petersburg RUE"]
-[Date "1913.12.21"]
 [Round "2"]
 [White "Jose Raul Capablanca"]
 [Black "Fyodor Ivanovich Dus Chotimirsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "1913.12.12"]
 [PlyCount "93"]
 [WhiteElo "?"]
 

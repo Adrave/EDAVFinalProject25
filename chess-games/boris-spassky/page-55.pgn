@@ -1,13 +1,11 @@
 [Event "Simul, 30b"]
 [Site "London ENG"]
-[Date "1979.01.20"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Nigel Short"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C19"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Horten Tournament"]
 [Site "Bad Kissingen FRG"]
-[Date "1980.02.??"]
 [Round "3"]
 [White "Boris Spassky"]
 [Black "Wolfgang Unzicker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -43,14 +39,12 @@
 
 [Event "Horten Tournament"]
 [Site "Bad Kissingen FRG"]
-[Date "1980.02.??"]
 [Round "5"]
 [White "Boris Spassky"]
 [Black "Robert Huebner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "23"]
 [WhiteElo "?"]
 
@@ -61,14 +55,12 @@
 
 [Event "Interpolis 4th"]
 [Site "Tilburg NED"]
-[Date "1980.09.19"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "Robert Huebner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -87,14 +79,12 @@
 
 [Event "Moscow-4teams"]
 [Site "Moscow URS"]
-[Date "1981.02.??"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "David Bronstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -108,14 +98,12 @@
 
 [Event "Master Challenge Simul"]
 [Site "Pickering, Canada"]
-[Date "1995.04.10"]
 [Round "9"]
 [White "Boris Spassky"]
 [Black "Mark S Dutton"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C32"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 

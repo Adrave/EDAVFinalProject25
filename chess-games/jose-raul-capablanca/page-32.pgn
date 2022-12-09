@@ -1,13 +1,11 @@
 [Event "Lasker - Capablanca World Championship Match"]
 [Site "Havana CUB"]
-[Date "1921.04.06"]
 [Round "9"]
 [White "Jose Raul Capablanca"]
 [Black "Emanuel Lasker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D33"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Lasker - Capablanca World Championship Match"]
 [Site "Havana CUB"]
-[Date "1921.04.02"]
 [Round "7"]
 [White "Jose Raul Capablanca"]
 [Black "Emanuel Lasker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -40,14 +36,12 @@
 
 [Event "Rapid transit t"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1924.03.11"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Geza Maroczy"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -63,14 +57,12 @@
 
 [Event "Simul, 36b"]
 [Site "Manchester ENG"]
-[Date "1928.11.21"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "M Sutcliffe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -84,14 +76,12 @@
 
 [Event "Simul, 36b"]
 [Site "Manchester ENG"]
-[Date "1928.11.21"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Charles William Warburton"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -107,14 +97,12 @@
 
 [Event "Simul, 46b"]
 [Site "Brooklyn Institute, New York, NY USA"]
-[Date "1928.12.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Sidney Norman Bernstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A52"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -129,14 +117,12 @@
 
 [Event "Simul, 34b"]
 [Site "Turnov CSR"]
-[Date "1929.07.21"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "K J Rada"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "112"]
 [WhiteElo "?"]
 
@@ -155,14 +141,12 @@
 
 [Event "Simul, 30b"]
 [Site "Den Bosch NED"]
-[Date "1920.10.23"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "S W Weisfelt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -175,14 +159,12 @@
 
 [Event "Simul, 35b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1920.12.16"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Toscha Seidel"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -195,14 +177,12 @@
 
 [Event "Simul, 40b"]
 [Site "Paris FRA"]
-[Date "1922.05.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Victor Kahn"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -220,14 +200,12 @@
 
 [Event "Simul, 34b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1922.11.16"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "S Rakowitz"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -245,14 +223,12 @@
 
 [Event "Simul, 25b"]
 [Site "Marshall CC, New York, NY USA"]
-[Date "1922.11.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Hyman Kabatsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B73"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -268,14 +244,12 @@
 
 [Event "Simul, 43b"]
 [Site "Cleveland Athletic Club. Cleveland, OH USA"]
-[Date "1922.12.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "C A Judson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -290,14 +264,12 @@
 
 [Event "Simul, 30b"]
 [Site "Warsaw POL"]
-[Date "1925.10.30"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Emil Gross"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A23"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -312,14 +284,12 @@
 
 [Event "Simul, 25b"]
 [Site "Chicago, IL USA"]
-[Date "1926.05.06"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Ernest Reel"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -335,14 +305,12 @@
 
 [Event "Simul, 24b"]
 [Site "Philadelphia, PA USA"]
-[Date "1926.05.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "LeRoy Smith"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -358,14 +326,12 @@
 
 [Event "Simul, 30b"]
 [Site "Brooklyn Institute, New York, NY USA"]
-[Date "1915.11.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "J L McCudden"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C79"]
-[EventDate "????.??.??"]
 [PlyCount "145"]
 [WhiteElo "?"]
 
@@ -386,14 +352,12 @@
 
 [Event "Simul, 26b"]
 [Site "Washington, D.C. USA"]
-[Date "1915.11.20"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Albert Whiting Fox"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C79"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -409,14 +373,12 @@
 
 [Event "Simul, 32b"]
 [Site "Mechanics' Institute, San Francisco, CA USA"]
-[Date "1916.04.11"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Adolf Jay Fink"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "2003.01.02"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -433,14 +395,12 @@
 
 [Event "Simul, 65b"]
 [Site "New York, NY USA"]
-[Date "1915.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Max Wolfson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A10"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -456,14 +416,12 @@
 
 [Event "Simul, 65b"]
 [Site "New York, NY USA"]
-[Date "1915.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Charles S Taber"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -482,14 +440,12 @@
 
 [Event "Simul, 28b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1916.10.26"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "John William Brunnemer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -504,14 +460,12 @@
 
 [Event "Simul, 30b"]
 [Site "The Hague NED"]
-[Date "1920.10.19"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A G van Kranendonk"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -528,14 +482,12 @@
 
 [Event "Simul, 34b"]
 [Site "Stockholm SWE"]
-[Date "1928.11.05"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "D Hellqvist"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -550,14 +502,12 @@
 
 [Event "Simul, 32b"]
 [Site "Imperial CC, London ENG"]
-[Date "1928.11.22"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "C H Reid"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A29"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 

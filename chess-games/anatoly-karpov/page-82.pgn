@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Budapest (Hungary)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -28,7 +27,6 @@ Qd3 64.Kg7 Nf5+ 65.Kf8 Qf3 66.Qf6+ Kd7 67.d5 Qxh5 1/2-1/2
 
 [Event ""]
 [Site "Hungary"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Adorjan Andras (HUN)"]
@@ -52,7 +50,6 @@ Kg7 36.Qf3 Qe1+ 37.Kg2 Rc1 38.g4 Qh1+ 39.Kg3 Rg1+ 40.Kf4 Qh2+
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Arakelov A"]
@@ -75,7 +72,6 @@ Rc7 37.Rd7 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kogan Efim"]
@@ -98,7 +94,6 @@ Nxa4 37.Bxa6 Ra8 38.Ra1 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nebolsin Valery"]
@@ -124,7 +119,6 @@ Rb3 47.Be5 Rc1+ 48.Kd6 Rb6+ 49.Kd7 Rc2 50.Ba1 Rb1 51.Be5 Rb5
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shteinberg M"]
@@ -148,7 +142,6 @@ Qe8 42.Qxh4 Kg7 43.Qf6+ 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shteinberg M"]
@@ -173,7 +166,6 @@ Kd6 0-1
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shteinberg M"]
@@ -199,7 +191,6 @@ Nxd4 50.Bb2 c3 51.Rxc3 Kg8 52.Re3 Bc5 53.Re5 Rb8 54.Bc3 Nxc2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tserdakh"]
@@ -222,7 +213,6 @@ Kd5 35.Ng4 Ke6 36.Nxe3 Ke5 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -246,7 +236,6 @@ Qe7 42.Kg2 Kg8 43.Rh1 Qg7 44.Rc1 Qb7 45.Rh1 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -270,7 +259,6 @@ g4 41.Rf1 h5 42.Ra6 g3 43.a4 Bh6 44.Rf3 h4 0-1
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -296,7 +284,6 @@ Kxd4 53.h4 1/2-1/2
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Evrosimovski"]
@@ -324,7 +311,6 @@ Re8 68.Kc3 Kg6 69.Nd2 Kh5 70.Nf1 Ra8 71.Kb4 1/2-1/2
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Evrosimovski"]
@@ -347,7 +333,6 @@ R4e5 30.Rxe5 Rxe5 31.b4 Kf6 32.Kg2 Ke6 33.Kf3 Re4 34.Rd2 Rc4
 
 [Event "Ch World (juniors)"]
 [Site "Stockholm (Sweden)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -374,7 +359,6 @@ Rxe7 60.Rxe7 1-0
 
 [Event "Ch World (juniors)"]
 [Site "Stockholm (Sweden)"]
-[Date "1969.??.??"]
 [Round "11"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Diaz Joaquin C (CUB)"]
@@ -396,7 +380,6 @@ Rdc6 1-0
 
 [Event "Ch World (juniors)"]
 [Site "Stockholm (Sweden)"]
-[Date "1969.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "McKay Roderick M (SCO)"]
@@ -419,7 +402,6 @@ Nd6 37.Bc5 1-0
 
 [Event "Ch World (juniors)"]
 [Site "Stockholm (Sweden)"]
-[Date "1969.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Neckar Lubomir (CZE)"]
@@ -445,7 +427,6 @@ g4+ 47.Ke4 Ra4+ 48.Rc4 f5+ 49.Kf4 Rxc4+ 50.Nxc4 b5 51.Nd6 Ra8
 
 [Event "Ch World (juniors)"]
 [Site "Stockholm (Sweden)"]
-[Date "1969.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Payrhuber Klaus"]
@@ -464,7 +445,6 @@ Rxf7 14.Qxf7 e6 15.Bg5 1-0
 
 [Event "Ch World (juniors)"]
 [Site "Stockholm (Sweden)"]
-[Date "1969.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sznapik Aleksander (POL)"]
@@ -485,7 +465,6 @@ b4 20.Bc4 bxc3 21.bxc3 Rb1 22.f4 Kh8 23.Qf2 Bc6 24.Nxe7 Bxc3
 
 [Event "Ch World (juniors)"]
 [Site "Stockholm (Sweden)"]
-[Date "1969.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vogt Lothar (GER)"]
@@ -508,7 +487,6 @@ Rb8 31.g3 Qd4 32.Qxd4 Rxd4 33.b3 Kf8 34.Rfe1 Re4 35.R1xe4 Nxe4
 
 [Event ""]
 [Site "Warsaw (Poland)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Konikowski Jerzy (GER)"]
@@ -529,7 +507,6 @@ Qe7 14.Be3 Rd8 15.Nxc4 Nxc4 16.Qxc4 Nb6 17.Qb3 Bd7 18.Na2 c5
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Savon Vladimir A (UKR)"]
@@ -549,7 +526,6 @@ Qc7 14.Re1 e5 15.Qd2 exf4 16.Bxf4 Ne5 17.Rad1 Rb6 18.Be2 Be6
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "20"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -570,7 +546,6 @@ Rxe4 25.fxe4 Re8 26.axb5 axb5 27.f3 f5 28.Ra5 1/2-1/2
 
 [Event "Wch U20 fin-A"]
 [Site "Stockholm SWE"]
-[Date "1969.08.24"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Lothar Vogt"]

@@ -1,13 +1,11 @@
 [Event "USA-URS"]
 [Site "New York, NY USA"]
-[Date "1954.06.21"]
 [Round "3"]
 [White "Vasily Smyslov"]
 [Black "Samuel Reshevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "112"]
 [WhiteElo "?"]
 
@@ -26,14 +24,12 @@
 
 [Event "Mar del Plata 27th"]
 [Site "Mar del Plata ARG"]
-[Date "1966.03.19"]
 [Round "7"]
 [White "Vasily Smyslov"]
 [Black "Samuel Reshevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -46,14 +42,12 @@
 
 [Event "USSR Tch Moscow"]
 [Site "USSR Tch Moscow"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Training Match Tournament"]
 [Site "USSR"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Efim Geller"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -89,14 +81,12 @@
 
 [Event "Training Tournament"]
 [Site "Gagra URS"]
-[Date "1953.05.??"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "Yuri Averbakh"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A26"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -112,14 +102,12 @@
 
 [Event "Training Tournament"]
 [Site "Gagra"]
-[Date "1953.05.??"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Alexander Kazimirovich Tolush"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -135,14 +123,12 @@
 
 [Event "Moscow (URS)"]
 [Site "Moscow URS"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Isaac Boleslavsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -161,14 +147,12 @@
 
 [Event "Simul, 27b"]
 [Site "Heriot Watt University"]
-[Date "1969.01.13"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Alastair F White"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -184,14 +168,12 @@
 
 [Event "Portoroz"]
 [Site "Portoroz YUG"]
-[Date "1971.04.??"]
 [Round "4"]
 [White "Vasily Smyslov"]
 [Black "Lajos Portisch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "144"]
 [WhiteElo "?"]
 
@@ -212,14 +194,12 @@
 
 [Event "Alekhine Memorial"]
 [Site "Moscow URS"]
-[Date "1959.04.19"]
 [Round "11"]
 [White "Vasily Smyslov"]
 [Black "Fridrik Olafsson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -237,14 +217,12 @@
 
 [Event "Szolnok"]
 [Site "Szolnok HUN"]
-[Date "1975.10.??"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Peter Lukacs"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -257,14 +235,12 @@
 
 [Event "Szolnok"]
 [Site "Szolnok HUN"]
-[Date "1975.10.??"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Janos Flesch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D26"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -276,14 +252,12 @@
 
 [Event "Moscow tt"]
 [Site "Moscow tt"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Alexey Vladislavovich Yermolinsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A35"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -298,14 +272,12 @@
 
 [Event "Simul"]
 [Site "London ENG"]
-[Date "1973.01.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Alan J McDonnell"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D25"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -322,14 +294,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1974.09.??"]
 [Round "4"]
 [White "Vasily Smyslov"]
 [Black "Vladimir Antoshin"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A85"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -342,14 +312,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1974.09.??"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Vitaly Tseshkovsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -362,14 +330,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1974.09.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Heikki Westerinen"]
 [Result "1/2-1/2"]
 [BlackElo "2333"]
 [ECO "A42"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "2494"]
 
@@ -385,14 +351,12 @@
 
 [Event "Moscow Veterans"]
 [Site "Moscow URS"]
-[Date "1991.06.??"]
 [Round "8"]
 [White "Vasily Smyslov"]
 [Black "Vladimir Bagirov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D13"]
-[EventDate "????.??.??"]
 [PlyCount "24"]
 [WhiteElo "?"]
 
@@ -403,14 +367,12 @@
 
 [Event "New York Open"]
 [Site "New York, NY USA"]
-[Date "1987.04.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Andras Adorjan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "27"]
 [WhiteElo "?"]
 
@@ -421,14 +383,12 @@
 
 [Event "New York Open"]
 [Site "New York, NY USA"]
-[Date "1987.04.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Ognjen Cvitan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D76"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -442,14 +402,12 @@
 
 [Event "Hastings 1988/89"]
 [Site "Hastings ENG"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Jonathan Speelman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -463,14 +421,12 @@
 
 [Event "Barcelona"]
 [Site "Barcelona ESP"]
-[Date "1990.??.??"]
 [Round "8"]
 [White "Vasily Smyslov"]
 [Black "Julio Ernesto Granda Zuniga"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "23"]
 [WhiteElo "?"]
 
@@ -481,14 +437,12 @@
 
 [Event "Be'er Sheva"]
 [Site "Be'er Sheva ISR"]
-[Date "1990.??.??"]
 [Round "3"]
 [White "Vasily Smyslov"]
 [Black "Alon Greenfeld"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "27"]
 [WhiteElo "?"]
 
@@ -499,14 +453,12 @@
 
 [Event "Candidates Final"]
 [Site "Vilnius"]
-[Date "1984.03.12"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -522,14 +474,12 @@
 
 [Event "Candidates Final"]
 [Site "Vilnius"]
-[Date "1984.03.22"]
 [Round "6"]
 [White "Vasily Smyslov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 

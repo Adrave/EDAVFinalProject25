@@ -1,6 +1,5 @@
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -22,7 +21,6 @@ fxg4 26.Bg6+ Kg8 27.f4 Nf3 28.Bxh7+ Rxh7 29.Ng6 Bd8 30.Rac1 Be8
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -45,7 +43,6 @@ Kh7 31.Qa3 Rg8 32.e4 Rxg1+ 33.Kxg1 Qb5 34.exd5 Qb1+ 35.Kg2 Qg6+
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -69,7 +66,6 @@ Kh8 1-0
 
 [Event "Simultan"]
 [Site "Glasgow (Scotland)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Smeeton"]
@@ -90,7 +86,6 @@ Qxb6 20.Rab1 Qc6 21.Bb5 Qd5 22.Ba6 Nb6 23.a5 bxa6 24.axb6 axb6
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Boek Eero (FIN)"]
@@ -111,7 +106,6 @@ Bxf6 25.e5 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Golombek Harry (ENG)"]
@@ -133,7 +127,6 @@ Rd8 30.Qf7 Rd1+ 31.Kg2 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1938.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Menchik Vera"]
@@ -158,7 +151,6 @@ Kxf5 48.Rxc6 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Milner Barry Philip S (ENG)"]
@@ -184,7 +176,6 @@ Rd7 47.Bh6+ Bg7 48.Bf4 Rd8 49.Ra6 Bc3 50.Kxf5 Rc8 51.Bd6+ Kg7
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bensadon Rafael"]
@@ -206,7 +197,6 @@ Rde7 31.Rgxg6+ Qxg6 32.Rxe7 Rxe7 33.Qxe7 Qg7 34.Qg5+ 1-0
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Da Silva Rocha A (BRA)"]
@@ -228,7 +218,6 @@ Bd8 31.Rd1 Bb6 32.Rd7 Kg7 33.Rb7 1-0
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "De Oliveira Adriano Fernandes (BRA)"]
@@ -251,7 +240,6 @@ Nc8 37.Rcd1 Na7 38.Qb6 Nc8 39.Nxc8 1-0
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fenoglio Virgilio (ARG)"]
@@ -275,7 +263,6 @@ Nf3 42.a6 Nd2+ 43.Kc2 Ne4 44.Rg7 Nxd6 45.cxd6 Rh2+ 46.Kd3 1-0
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Flores Alvarez Rodrigo (CHI)"]
@@ -298,7 +285,6 @@ b4 36.c5 a5 37.Kc4 Re7 38.Rf3 Re5 39.Rd3 Kf7 40.Kb5 b3 41.Kc6 1-0
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Letelier Rene (CHI)"]
@@ -319,7 +305,6 @@ Qxe5 25.Qb4 1-0
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "13"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Trompowsky Octavio"]
@@ -342,7 +327,6 @@ Re3 31.Qxf4 cxb4 32.Bf3 Ra3 33.Qd2 Qa5 34.Qd4 Rxa2+ 35.Kh1 Rc8
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -364,7 +348,6 @@ Ne4 25.Rd7 Nf6 26.R7d3 Re4 27.f3 Re5 28.Re3 Qc7 29.Rde1 Rae8
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Prooth"]
@@ -382,7 +365,6 @@ Bh7 8.Qh5 g6 9.Bc4 e6 10.Qe2 Nf6 11.Nxf7 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -413,7 +395,6 @@ gxh6 82.Ke5 Nh5 83.Kxf5 Kf8 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Trompowsky Octavio"]
@@ -435,7 +416,6 @@ Rxa3 30.Rxa3 Bxd1 31.Bxb6 Kh7 32.Kf2 Kg6 33.Rd3 Bc2 34.Rc3 Bb1 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tsvetkov Alexandar K (BUL)"]
@@ -461,7 +441,6 @@ Nf8 54.Rc6 Nd7 55.Ke4 Ke7 56.Kd5 Bg1 57.Bb4+ Kd8 58.Ke6 1-0
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1939.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Golombek Harry (ENG)"]
@@ -483,7 +462,6 @@ dxc5 25.Qe3 Rfe8 26.Qxc5 gxf5 27.Qc7 Rad8 28.Qxa5 e5 29.Qc7 Qxc7
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1939.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Menchik Vera"]
@@ -508,7 +486,6 @@ Qg4+ 48.Kf1 Kb7 49.Qd5+ Kb6 50.Nd4 Qh3+ 51.Ke2 g5 52.b4 1-0
 
 [Event "Simultan"]
 [Site "Panama"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Linares Enrique Jr"]
@@ -528,7 +505,6 @@ f5 14.g4 Ng6 15.Rdf1 h6 16.gxf5 exf5 17.Qh5 hxg5 18.Qxg6 gxh4
 
 [Event "Simultan"]
 [Site "Panama"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rodriguez Vicente"]
@@ -549,7 +525,6 @@ Nd7 20.Nd3 Nb6 21.Nb4 Nc4 22.Ncxd5 Rd7 23.c6 Rxd5 24.cxb7 Rad8
 
 [Event ""]
 [Site "South America"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Consultants"]

@@ -1,6 +1,5 @@
 [Event "Game (exhibition)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1937.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -23,7 +22,6 @@ Kg8 37.Re8+ 1-0
 
 [Event "It"]
 [Site "Bad Nauheim (Germany)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -49,7 +47,6 @@ Kd5 54.h5 e3 55.fxe3 fxe3 56.Nc1 1-0
 
 [Event "It"]
 [Site "Bad Nauheim (Germany)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -73,7 +70,6 @@ Qc2+ 43.Kh1 Qf2 44.Qxf5 1-0
 
 [Event "It"]
 [Site "Kemeri (Latvia)"]
-[Date "1937.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Feigin Movsa"]
@@ -97,7 +93,6 @@ Qf5 37.Nd2 Bxd5 38.Bxd5 Nxd5 39.Ne4 Bg7 40.Nxd6 Qe6 41.Qd2 Nf6
 
 [Event "It"]
 [Site "Kemeri (Latvia)"]
-[Date "1937.??.??"]
 [Round "16"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fine Reuben (USA)"]
@@ -120,7 +115,6 @@ Nd6 36.Bd7 Rxd7 37.Ra8+ 1-0
 
 [Event "It"]
 [Site "Kemeri (Latvia)"]
-[Date "1937.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Ozols Karlis Alexander"]
@@ -144,7 +138,6 @@ Kg6 36.Kb3 Rb8+ 37.Kc4 Rd6 38.b3 Rdb6 39.Nxe5+ Bxe5 40.Rxe5 Rxb3
 
 [Event "It"]
 [Site "Kemeri (Latvia)"]
-[Date "1937.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -167,7 +160,6 @@ Kxb8 36.Qxe5+ 1-0
 
 [Event "It"]
 [Site "Kemeri (Latvia)"]
-[Date "1937.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Steiner Endre (HUN)"]
@@ -186,7 +178,6 @@ O-O 14.d6 Bxd6 15.Nf5 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1937.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Alexander Conel H O'D (ENG)"]
@@ -210,7 +201,6 @@ Rd6 35.gxf7+ Kxf7 36.Ra5 Rb6 37.d4 Rb3+ 38.Kf4 Rb4 39.d5 Rb6
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "14"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -232,7 +222,6 @@ Kh7 30.Kg2 Qg6 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fine Reuben (USA)"]
@@ -260,7 +249,6 @@ f5 65.Ra2 Kb7 66.Rd2 f4 67.Nxd6+ Rxd6 68.Rxd6 g2 0-1
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -284,7 +272,6 @@ Kf8 42.Qh7 Kf7 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -311,7 +298,6 @@ Qb2+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Brno (Czech Republic)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Stein"]
@@ -334,7 +320,6 @@ Qg5 25.Qf1 Ne4 26.h4 Qxh4 27.Rxb6 Nd2 28.Qd3 Nf3+ 29.gxf3 Qg5+
 
 [Event "It"]
 [Site "Montevideo (Uruguay)"]
-[Date "1938.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Guimard Carlos E (ARG)"]
@@ -356,7 +341,6 @@ e5 30.Qb4 Qd7 31.Qe4 Rxa4 32.Qxe5 1/2-1/2
 
 [Event "Simultan"]
 [Site "Prague (Czech Republic)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bacinsky"]
@@ -380,14 +364,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "Montevideo"]
 [Site "Montevideo URU"]
-[Date "1938.03.07"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Virgilio Fenoglio"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A09"]
-[EventDate "1938.03.07"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -404,14 +386,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "Montevideo"]
 [Site "Montevideo URU"]
-[Date "1938.03.15"]
 [Round "7"]
 [White "Alexander Alekhine"]
 [Black "Adhemar Da Silva Rocha"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B60"]
-[EventDate "1938.03.07"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -427,14 +407,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "Margate"]
 [Site "Margate ENG"]
-[Date "1938.04.22"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Harry Golombek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E20"]
-[EventDate "1938.04.20"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -448,14 +426,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "Montevideo"]
 [Site "Carrasco Hotel, Montevideo URU"]
-[Date "1938.03.21"]
 [Round "11"]
 [White "Alexander Alekhine"]
 [Black "Americo Barboza de Oliveira"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "1938.03.07"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -470,14 +446,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "Margate"]
 [Site "Margate ENG"]
-[Date "1938.04.20"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Philip Stuart Milner-Barry"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "1938.04.20"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -495,14 +469,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "Plymouth"]
 [Site "Plymouth ENG"]
-[Date "1938.09.06"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Ronald MacKay Bruce"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "1938.09.05"]
 [PlyCount "23"]
 [WhiteElo "?"]
 
@@ -513,14 +485,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "Plymouth"]
 [Site "Plymouth ENG"]
-[Date "1938.09.09"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "George Shorrock Ashcombe Wheatcroft"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E13"]
-[EventDate "1938.09.05"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -533,14 +503,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "AVRO"]
 [Site "The Netherlands"]
-[Date "1938.11.19"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "1938.11.06"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -555,14 +523,12 @@ Qxc5 42.Qe6 d3 43.Kg2 Qd6 44.Qe8+ Qf8 45.Qe6 d2 0-1
 
 [Event "AVRO"]
 [Site "The Netherlands"]
-[Date "1938.11.22"]
 [Round "11"]
 [White "Alexander Alekhine"]
 [Black "Salomon Flohr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "1938.11.06"]
 [PlyCount "83"]
 [WhiteElo "?"]
 

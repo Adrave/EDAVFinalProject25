@@ -1,6 +1,5 @@
 [Event "54th Reggio Emilia"]
 [Site "Reggio Emilia ITA"]
-[Date "2012.01.02"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Ivanchuk, V."]
@@ -9,7 +8,6 @@
 [WhiteElo "2714"]
 [BlackElo "2775"]
 [PlyCount "101"]
-[EventDate "2011.12.27"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "ITA"]
@@ -31,7 +29,6 @@ Ke6 47. Ke3 Ke5 48. gxh5 f5 49. h6 f4+ 50. Kd2 Kf6 51. h5 1-0
 
 [Event "54th Reggio Emilia"]
 [Site "Reggio Emilia ITA"]
-[Date "2012.01.04"]
 [Round "8"]
 [White "Giri, A."]
 [Black "Vitiugov, N."]
@@ -40,7 +37,6 @@ Ke6 47. Ke3 Ke5 48. gxh5 f5 49. h6 f4+ 50. Kd2 Kf6 51. h5 1-0
 [WhiteElo "2714"]
 [BlackElo "2729"]
 [PlyCount "107"]
-[EventDate "2011.12.27"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "ITA"]
@@ -63,7 +59,6 @@ Qb7+ Kg8 53. Qc8+ Kg7 54. Qxf5 1-0
 
 [Event "74th Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2012.01.20"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Kamsky, G."]
@@ -72,7 +67,6 @@ Qb7+ Kg8 53. Qc8+ Kg7 54. Qxf5 1-0
 [WhiteElo "2714"]
 [BlackElo "2732"]
 [PlyCount "171"]
-[EventDate "2012.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -98,7 +92,6 @@ Kb3 Kg4 86. Ne1 1-0
 
 [Event "13th EICC"]
 [Site "Plovdiv BUL"]
-[Date "2012.03.20"]
 [Round "1.4"]
 [White "Giri, A."]
 [Black "Jianu, V."]
@@ -107,7 +100,6 @@ Kb3 Kg4 86. Ne1 1-0
 [WhiteElo "2717"]
 [BlackElo "2497"]
 [PlyCount "97"]
-[EventDate "2012.03.20"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "BUL"]
@@ -126,7 +118,6 @@ Kf3 41. Rb2 Rg8 42. Be3 Ng2 43. Bxb6 Ne1 44. Rb3+ Ke2 45. Re3+ Kf1 46. h4 Rh8
 
 [Event "13th EICC"]
 [Site "Plovdiv BUL"]
-[Date "2012.03.31"]
 [Round "11.52"]
 [White "Giri, A."]
 [Black "Zontakh, A."]
@@ -135,7 +126,6 @@ Kf3 41. Rb2 Rg8 42. Be3 Ng2 43. Bxb6 Ne1 44. Rb3+ Ke2 45. Re3+ Kf1 46. h4 Rh8
 [WhiteElo "2717"]
 [BlackElo "2556"]
 [PlyCount "51"]
-[EventDate "2012.03.20"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "BUL"]
@@ -150,7 +140,6 @@ O-O dxc4 9. Rc1 c5 10. dxc5 Nxc5 11. Ne5 Nd5 12. Nxc4 b6 13. b4 Na4 14. e4 Nc7
 
 [Event "19th TCh-RUS 2012"]
 [Site "Sochi RUS"]
-[Date "2012.04.09"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Zontakh, A."]
@@ -159,7 +148,6 @@ O-O dxc4 9. Rc1 c5 10. dxc5 Nxc5 11. Ne5 Nd5 12. Nxc4 b6 13. b4 Na4 14. e4 Nc7
 [WhiteElo "2717"]
 [BlackElo "2556"]
 [PlyCount "61"]
-[EventDate "2012.04.09"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -177,7 +165,6 @@ Bxe4 22. Bxe4 Nb5 23. a4 Nd6 24. Bg2 e5 25. dxe5 Nxe5 26. Nc5 Rb6 27. Bc3 Nd7
 
 [Event "TCh-FRA Top 12 2012"]
 [Site "Belfort FRA"]
-[Date "2012.05.31"]
 [Round "1.1"]
 [White "Giri, A."]
 [Black "Navara, D."]
@@ -186,7 +173,6 @@ Bxe4 22. Bxe4 Nb5 23. a4 Nd6 24. Bg2 e5 25. dxe5 Nxe5 26. Nc5 Rb6 27. Bc3 Nd7
 [WhiteElo "2693"]
 [BlackElo "2706"]
 [PlyCount "67"]
-[EventDate "2012.05.31"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -205,7 +191,6 @@ Re4 d5 34. Re5 1-0
 
 [Event "ch-NED 2012"]
 [Site "Amsterdam NED"]
-[Date "2012.07.15"]
 [Round "1"]
 [White "Giri, A."]
 [Black "Sokolov, Ivan"]
@@ -214,7 +199,6 @@ Re4 d5 34. Re5 1-0
 [WhiteElo "2696"]
 [BlackElo "2676"]
 [PlyCount "81"]
-[EventDate "2012.07.15"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "NED"]
@@ -233,7 +217,6 @@ Rh8 35. Qf2 Rh7 36. Re3 Rd6 37. h3 Nd5 38. Rg3 Rxe6 39. hxg4 Re4 40. gxf5+ Kf7
 
 [Event "ch-NED 2012"]
 [Site "Amsterdam NED"]
-[Date "2012.07.17"]
 [Round "3"]
 [White "Giri, A."]
 [Black "Swinkels, R."]
@@ -242,7 +225,6 @@ Rh8 35. Qf2 Rh7 36. Re3 Rd6 37. h3 Nd5 38. Rg3 Rxe6 39. hxg4 Re4 40. gxf5+ Kf7
 [WhiteElo "2696"]
 [BlackElo "2485"]
 [PlyCount "81"]
-[EventDate "2012.07.15"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "NED"]
@@ -261,7 +243,6 @@ Bxg5 41. Rxa4 1-0
 
 [Event "ch-NED 2012"]
 [Site "Amsterdam NED"]
-[Date "2012.07.20"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Van Kampen, R."]
@@ -270,7 +251,6 @@ Bxg5 41. Rxa4 1-0
 [WhiteElo "2696"]
 [BlackElo "2560"]
 [PlyCount "59"]
-[EventDate "2012.07.15"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "NED"]
@@ -287,7 +267,6 @@ Rb8 21. Rb6 Rd6 22. Rxd6 Kxd6 23. Ne8+ Ke7 24. Nxg7 Bd7 25. Nh5 e5 26. f4 f6
 
 [Event "45th Biel GM"]
 [Site "Biel SUI"]
-[Date "2012.07.25"]
 [Round "3"]
 [White "Giri, A."]
 [Black "Bacrot, E."]
@@ -296,7 +275,6 @@ Rb8 21. Rb6 Rd6 22. Rxd6 Kxd6 23. Ne8+ Ke7 24. Nxg7 Bd7 25. Nh5 e5 26. f4 f6
 [WhiteElo "2696"]
 [BlackElo "2713"]
 [PlyCount "73"]
-[EventDate "2012.07.23"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
@@ -314,7 +292,6 @@ Qh3 22. Qxd6 Rf7 23. c5 Nf5 24. exf5 Rfxc7 25. Be3 Qxf5 26. Rf1 Bf8 27. Bd3 e4
 
 [Event "45th Biel GM"]
 [Site "Biel SUI"]
-[Date "2012.07.28"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Bologan, V."]
@@ -323,7 +300,6 @@ Qh3 22. Qxd6 Rf7 23. c5 Nf5 24. exf5 Rfxc7 25. Be3 Qxf5 26. Rf1 Bf8 27. Bd3 e4
 [WhiteElo "2696"]
 [BlackElo "2732"]
 [PlyCount "183"]
-[EventDate "2012.07.23"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
@@ -350,7 +326,6 @@ Rf8 86. Be4 gxh4 87. Kxh4 Nf5+ 88. Kg4 Nd6 89. Bd5+ Kh8 90. f4 Nf5 91. Be4 Ba5
 
 [Event "40th Olympiad Open"]
 [Site "Istanbul TUR"]
-[Date "2012.09.03"]
 [Round "6.22"]
 [White "Giri, A."]
 [Black "Dgebuadze, A."]
@@ -359,7 +334,6 @@ Rf8 86. Be4 gxh4 87. Kxh4 Nf5+ 88. Kg4 Nd6 89. Bd5+ Kh8 90. f4 Nf5 91. Be4 Ba5
 [WhiteElo "2711"]
 [BlackElo "2556"]
 [PlyCount "83"]
-[EventDate "2012.08.28"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "TUR"]
@@ -381,7 +355,6 @@ Qg6 35. Rxf8+ Kxf8 36. Nc5 Ke8 37. Qd3 Qf7 38. Qf1 Qg6 39. Qf6 Qc2+ 40. Kg3 Qe2
 
 [Event "28th European Club Cup"]
 [Site "Eilat ISR"]
-[Date "2012.10.11"]
 [Round "1.2"]
 [White "Giri, A."]
 [Black "Rodshtein, M."]
@@ -390,7 +363,6 @@ Qg6 35. Rxf8+ Kxf8 36. Nc5 Ke8 37. Qd3 Qf7 38. Qf1 Qg6 39. Qf6 Qc2+ 40. Kg3 Qe2
 [WhiteElo "2730"]
 [BlackElo "2616"]
 [PlyCount "73"]
-[EventDate "2012.10.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ISR"]
@@ -409,7 +381,6 @@ Rc5 34. a4 bxa4 35. Rxc5 dxc5 36. f4 a3 37. Ba1 1-0
 
 [Event "28th European Club Cup"]
 [Site "Eilat ISR"]
-[Date "2012.10.16"]
 [Round "6.4"]
 [White "Giri, A."]
 [Black "Brunner, L."]
@@ -418,7 +389,6 @@ Rc5 34. a4 bxa4 35. Rxc5 dxc5 36. f4 a3 37. Ba1 1-0
 [WhiteElo "2730"]
 [BlackElo "2448"]
 [PlyCount "153"]
-[EventDate "2012.10.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ISR"]
@@ -443,7 +413,6 @@ Kxg2 Ra8 67. Kf3 Ke7 68. b7 Rb8 69. Kf4 f6 70. Rb6 Kf7 71. Ke4 Ke7 72. Kd5 Kd7
 
 [Event "TCh-ESP CECLUB Div Honor 2012"]
 [Site "Leon ESP"]
-[Date "2012.11.05"]
 [Round "1.4"]
 [White "Giri, A."]
 [Black "Svetushkin, D."]
@@ -452,7 +421,6 @@ Kxg2 Ra8 67. Kf3 Ke7 68. b7 Rb8 69. Kf4 f6 70. Rb6 Kf7 71. Ke4 Ke7 72. Kd5 Kd7
 [WhiteElo "2715"]
 [BlackElo "2589"]
 [PlyCount "55"]
-[EventDate "2012.11.05"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -470,7 +438,6 @@ Ne5 15. Bf1 Nxd5 16. exd5 g5 17. Bxb6 axb6 18. Re4 Qg6 19. Rb4 Rde8 20. a4 Re7
 
 [Event "TCh-ESP CECLUB Div Honor 2012"]
 [Site "Leon ESP"]
-[Date "2012.11.09"]
 [Round "5.2"]
 [White "Giri, A."]
 [Black "Bauer, Ch"]
@@ -479,7 +446,6 @@ Ne5 15. Bf1 Nxd5 16. exd5 g5 17. Bxb6 axb6 18. Re4 Qg6 19. Rb4 Rde8 20. a4 Re7
 [WhiteElo "2715"]
 [BlackElo "2639"]
 [PlyCount "97"]
-[EventDate "2012.11.05"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -500,7 +466,6 @@ c5 Rc1 47. g6 a5 48. Rf7+ Kg8 49. Ke4 1-0
 
 [Event "TCh-ESP CECLUB Div Honor 2012"]
 [Site "Leon ESP"]
-[Date "2012.11.11"]
 [Round "7.1"]
 [White "Giri, A."]
 [Black "Cuenca Jimenez, J."]
@@ -509,7 +474,6 @@ c5 Rc1 47. g6 a5 48. Rf7+ Kg8 49. Ke4 1-0
 [WhiteElo "2715"]
 [BlackElo "2490"]
 [PlyCount "113"]
-[EventDate "2012.11.05"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -531,7 +495,6 @@ Rc8+ 54. Kb7 Rd8 55. d6 h5 56. a5 Re5 57. Bc3 1-0
 
 [Event "TCh-NED Meesterklasse 2012-13"]
 [Site "Netherland NED"]
-[Date "2012.11.24"]
 [Round "4.1"]
 [White "Giri, A."]
 [Black "Sprenger, J."]
@@ -540,7 +503,6 @@ Rc8+ 54. Kb7 Rd8 55. d6 h5 56. a5 Re5 57. Bc3 1-0
 [WhiteElo "2730"]
 [BlackElo "2498"]
 [PlyCount "95"]
-[EventDate "2012.09.15"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "NED"]
@@ -561,7 +523,6 @@ gxh4 47. Nd4 Re8 48. Kf4 1-0
 
 [Event "TCh-BEL 2012-13"]
 [Site "Belgium BEL"]
-[Date "2012.12.02"]
 [Round "5.1"]
 [White "Giri, A."]
 [Black "Michiels, B."]
@@ -570,7 +531,6 @@ gxh4 47. Nd4 Re8 48. Kf4 1-0
 [WhiteElo "2730"]
 [BlackElo "2506"]
 [PlyCount "81"]
-[EventDate "2012.09.23"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "BEL"]
@@ -590,7 +550,6 @@ fxe5 Nb8 28. Rc1 Kd7 29. b3 Rb6 30. g5 g6 31. h5 gxh5 32. Rh1 Nc6 33. Kc3 Ke8
 
 [Event "Bundesliga 2012-13"]
 [Site "Emsdetten GER"]
-[Date "2012.12.09"]
 [Round "6"]
 [White "Giri, A."]
 [Black "Kopylov, M."]
@@ -599,7 +558,6 @@ fxe5 Nb8 28. Rc1 Kd7 29. b3 Rb6 30. g5 g6 31. h5 gxh5 32. Rh1 Nc6 33. Kc3 Ke8
 [WhiteElo "2730"]
 [BlackElo "2473"]
 [PlyCount "161"]
-[EventDate "2012.10.20"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -625,7 +583,6 @@ Bc4 79. Rc5 Bb3 80. Rc3 Be6 81. Re3 1-0
 
 [Event "SportAccord Rapid Men 2012"]
 [Site "Beijing CHN"]
-[Date "2012.12.14"]
 [Round "2.5"]
 [White "Giri, A."]
 [Black "Morozevich, A."]
@@ -634,7 +591,6 @@ Bc4 79. Rc5 Bb3 80. Rc3 Be6 81. Re3 1-0
 [WhiteElo "2720"]
 [BlackElo "2748"]
 [PlyCount "49"]
-[EventDate "2012.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -649,7 +605,6 @@ Rc1 Kd8 22. Bf6+ Be7 23. Qd5+ Nd7 24. Bd4 Rc7 25. Qa8+ 1-0
 
 [Event "SportAccord Blitz Men 2012"]
 [Site "Beijing CHN"]
-[Date "2012.12.17"]
 [Round "15.8"]
 [White "Giri, A."]
 [Black "Fressinet, L."]
@@ -658,7 +613,6 @@ Rc1 Kd8 22. Bf6+ Be7 23. Qd5+ Nd7 24. Bd4 Rc7 25. Qa8+ 1-0
 [WhiteElo "2720"]
 [BlackElo "2700"]
 [PlyCount "139"]
-[EventDate "2012.12.16"]
 [EventType "tourn (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -681,7 +635,6 @@ Rh1 60. Kc5 Kc8 61. h6 Kd8 62. Kd6 Kc8 63. Kc6 Rc1+ 64. Kb6 Rh1 65. Rh8+ Kd7
 
 [Event "TCh-NED Meesterklasse 2013-14"]
 [Site "Netherland NED"]
-[Date "2014.04.12"]
 [Round "8.1"]
 [White "Giri, Anish"]
 [Black "Jussupow, Artur"]
@@ -689,7 +642,6 @@ Rh1 60. Kc5 Kc8 61. h6 Kd8 62. Kd6 Kc8 63. Kc6 Rc1+ 64. Kb6 Rh1 65. Rh8+ Kd7
 [WhiteElo "2737"]
 [BlackElo "2579"]
 [ECO "D20"]
-[EventDate "2013.09.21"]
 
 1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Nc3 exd4 6. Qxd4 Qxd4 7. Nxd4 
 Nf6 8. f3 Bc5 9. Be3 Nc6 10. Nc2 Bxe3 11. Nxe3 Be6 12. O-O-O Ne5 13. Nb5 
@@ -700,7 +652,6 @@ Ra5 26. Nc2 Nd7 27. a3 bxa3+ 28. Nxa3 Nc5 29. Bf1 1/2-1/2
 
 [Event "Bundesliga 2013-14"]
 [Site "Hamburg GER"]
-[Date "2014.02.22"]
 [Round "9"]
 [White "Giri, Anish"]
 [Black "Van Kampen, Robin"]
@@ -708,7 +659,6 @@ Ra5 26. Nc2 Nd7 27. a3 bxa3+ 28. Nxa3 Nc5 29. Bf1 1/2-1/2
 [WhiteElo "2749"]
 [BlackElo "2607"]
 [ECO "D23"]
-[EventDate "2013.10.12"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Na3 c5 5. Nxc4 Nc6 6. Be3 cxd4 7. Nxd4 
 Nxd4 8. Bxd4 e6 9. a3 b5 10. Ne5 Bb7 11. e4 a6 12. f3 Bd6 13. Nd3 Bxh2 14.

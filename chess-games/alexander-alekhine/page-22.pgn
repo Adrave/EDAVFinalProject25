@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bergsma KM"]
@@ -22,7 +21,6 @@ Qe7 25.Nge4 Bc7 26.f3 Kc8 27.Nh7 Rd8 28.Nhg5 Rxd4+ 29.Kc1 c5
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Colle Edgard (BEL)"]
@@ -49,7 +47,6 @@ Qh7 59.Rg6 1-0
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "17"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Marshall Frank J (USA)"]
@@ -71,7 +68,6 @@ Qf7 30.e8Q+ 1-0
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "13"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rabinovich Ilya L (RUS)"]
@@ -91,7 +87,6 @@ O-O 14.Rf1 Nc6 15.Nc3 Nd4 16.fxg6 Qxg6 17.Rxf8+ Bxf8 18.Bh5 Qb6
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -116,7 +111,6 @@ Qb3 42.Bc2 Qb5 43.Qd3 Qxd3 44.Bxd3 Nc8 45.Bxh7 Ne7 46.Kc1 f5
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Te Kolste Jan Willem (NED)"]
@@ -137,7 +131,6 @@ Be7 14.e6 Ne5 15.exf7+ Kf8 16.Nxh7+ Kxf7 17.Qh5+ g6 18.Qxe5 Rxh7
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Treybal Karel (CZE)"]
@@ -163,7 +156,6 @@ Nxf4 37.Kxf4 Rd8 38.Kg5 Kg7 39.Kxh4 Rd5 40.Kg5 Rd8 41.Kf4 Rd7
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Yates Frederick"]
@@ -188,7 +180,6 @@ Rc8 42.Ka5 Ra8+ 43.Kb4 Ra4+ 44.Kc3 Ra5 45.Kb4 Ra4+ 46.Kb3 Ra5
 
 [Event "Simultan"]
 [Site "Geneva (Switzerland)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Grigorieff W"]
@@ -212,7 +203,6 @@ Qb1+ 42.Rd1 Qf5 43.Qd5+ 1-0
 
 [Event "Simultan"]
 [Site "Hague (Netherlands)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Meijer"]
@@ -235,7 +225,6 @@ cxb5 30.Ke2 Nb4 31.Nc3 Ke7 32.Nxb5 e5 33.Ke3 Nd5+ 34.Ke4 Ke6
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Yates Frederick"]
@@ -261,7 +250,6 @@ Bxf7 54.e6 Bh5 55.Nxd5 Be8 56.Nc3 1-0
 
 [Event "It"]
 [Site "Dresden (Germany)"]
-[Date "1926.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Von Holzhausen Walther (GER)"]
@@ -283,7 +271,6 @@ Be7 19.Ne5 Bd6 20.Rfd1 Re7 21.c5 Bxe5 22.dxe5 Rd5 23.Rxd5 exd5
 
 [Event "Simultan"]
 [Site "Newcastle (England)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Carmichael Ian (SCO)"]
@@ -306,7 +293,6 @@ a4 31.Re4 a3 32.Rh5+ Kg8 33.Qg3 axb2+ 34.Kxb2 Nxh5 35.Qg5 Ndf4
 
 [Event "Simultan"]
 [Site "Scarborough (England)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bardsley H"]
@@ -330,7 +316,6 @@ Rxe4 30.Kxe4 Rxb2 31.b4 Re2+ 32.Kd3 Re3+ 33.Kd2 Rg3 34.b5 Rxg4
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gilg Karl (GER)"]
@@ -358,7 +343,6 @@ Rd5 64.Kc2 Ke2 65.Re6+ Kf3 66.Rf6+ Ke3 67.Rf8 Rd4 0-1
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Janowski Dawid M (POL)"]
@@ -392,7 +376,6 @@ gxh5 99.Ke4 Rb1 100.Kf5 h4 101.Ke6 Rb6+ 102.Kf5 Rb1 1/2-1/2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -414,7 +397,6 @@ Rxf6 29.Rc1 Ne4 30.Rc8+ Rf8 31.Rc7 1/2-1/2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -440,14 +422,12 @@ Qd1 54.Ba3 Qa1 55.a6 Nc3+ 56.Kb4 Nc2+ 57.Kc5 Qxa3+ 58.Kb6 Ne3 0-1
 
 [Event "Semmering"]
 [Site "Semmering AUT"]
-[Date "1926.03.24"]
 [Round "13"]
 [White "Alexander Alekhine"]
 [Black "Milan Vidmar"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "1926.03.07"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -466,14 +446,12 @@ Qd1 54.Ba3 Qa1 55.a6 Nc3+ 56.Kb4 Nc2+ 57.Kc5 Qxa3+ 58.Kb6 Ne3 0-1
 
 [Event "Semmering"]
 [Site "Semmering AUT"]
-[Date "1926.03.18"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "David Janowski"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D28"]
-[EventDate "1926.03.07"]
 [PlyCount "205"]
 [WhiteElo "?"]
 
@@ -499,14 +477,12 @@ Qd1 54.Ba3 Qa1 55.a6 Nc3+ 56.Kb4 Nc2+ 57.Kc5 Qxa3+ 58.Kb6 Ne3 0-1
 
 [Event "Scarborough Premier (A)"]
 [Site "Scarborough ENG"]
-[Date "1926.05.25"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "George Alan Thomas"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "1926.05.22"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -525,14 +501,12 @@ Qd1 54.Ba3 Qa1 55.a6 Nc3+ 56.Kb4 Nc2+ 57.Kc5 Qxa3+ 58.Kb6 Ne3 0-1
 
 [Event "Birmingham"]
 [Site "Birmingham ENG"]
-[Date "1926.06.08"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Frank H Terrill"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "1926.06.03"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -546,14 +520,12 @@ Qd1 54.Ba3 Qa1 55.a6 Nc3+ 56.Kb4 Nc2+ 57.Kc5 Qxa3+ 58.Kb6 Ne3 0-1
 
 [Event "Alekhine - Euwe Training Match"]
 [Site "Amsterdam NED"]
-[Date "1926.12.22"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C86"]
-[EventDate "1926.12.22"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -570,14 +542,12 @@ Qd1 54.Ba3 Qa1 55.a6 Nc3+ 56.Kb4 Nc2+ 57.Kc5 Qxa3+ 58.Kb6 Ne3 0-1
 
 [Event "Alekhine - Euwe Training Match"]
 [Site "Amsterdam NED"]
-[Date "1926.12.29"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "1926.12.22"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -594,14 +564,12 @@ Qd1 54.Ba3 Qa1 55.a6 Nc3+ 56.Kb4 Nc2+ 57.Kc5 Qxa3+ 58.Kb6 Ne3 0-1
 
 [Event "Alekhine - Euwe Training Match"]
 [Site "Rotterdam NED"]
-[Date "1927.01.07"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B83"]
-[EventDate "1926.12.22"]
 [PlyCount "80"]
 [WhiteElo "?"]
 

@@ -5,7 +5,6 @@
 [BlackFideId "13300474"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Sun Nov 24 2019"]
 [WhiteClock "0:21:17"]
 [BlackClock "0:24:14"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "5202213"]
 [Result "1/2-1/2"]
 [Round "11"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:57"]
 [BlackClock "0:01:20"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5029465"]
 [Result "1/2-1/2"]
 [Round "21"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:09"]
 [BlackClock "0:00:00"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "2805677"]
 [Result "1/2-1/2"]
 [Round "1-01"]
-[Date "Wed Dec 11 2019"]
 [WhiteClock "1:25:25"]
 [BlackClock "1:25:17"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "5202213"]
 [Result "1/2-1/2"]
 [Round "2-02"]
-[Date "Sun Dec 15 2019"]
 [WhiteClock "1:16:44"]
 [BlackClock "1:37:06"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "8603405"]
 [Result "1/2-1/2"]
 [Round "4-02"]
-[Date "Sun Dec 22 2019"]
 [WhiteClock "1:03:12"]
 [BlackClock "0:54:01"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "4125029"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:11:29"]
 [BlackClock "0:00:33"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "4104226"]
 [Result "1/2-1/2"]
 [Round "02"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:31"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "24126055"]
 [Result "1/2-1/2"]
 [Round "13"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:03"]
 [BlackClock "0:00:04"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "4126025"]
 [Result "1/2-1/2"]
 [Round "14"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:13:50"]
 [BlackClock "0:13:30"]
 
@@ -155,7 +145,6 @@
 [BlackFideId "3503240"]
 [Result "1/2-1/2"]
 [Round "10"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:12:47"]
 [BlackClock "0:00:08"]
 
@@ -170,7 +159,6 @@
 [BlackFideId "24126055"]
 [Result "1/2-1/2"]
 [Round "12"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:12:01"]
 [BlackClock "0:09:00"]
 
@@ -185,7 +173,6 @@
 [BlackFideId "24133795"]
 [Result "1/2-1/2"]
 [Round "17"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:01"]
 
@@ -195,7 +182,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.16"]
 [Round "5.5"]
 [White "Nepomniachtchi,I"]
 [Black "Rapport,R"]
@@ -204,7 +190,6 @@
 [BlackFideId "738590"]
 [BlackTitle "GM"]
 [ECO "C79"]
-[EventDate "2019.01.12"]
 [Opening "Ruy Lopez"]
 [Variation "Steinitz defence deferred (Russian defence)"]
 [WhiteElo "2763"]
@@ -222,7 +207,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.19"]
 [Round "7.4"]
 [White "Nepomniachtchi,I"]
 [Black "Duda,J"]
@@ -231,7 +215,6 @@
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "C42"]
-[EventDate "2019.01.12"]
 [Opening "Petrov"]
 [Variation "classical attack"]
 [WhiteElo "2763"]
@@ -254,7 +237,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.27"]
 [Round "13.3"]
 [White "Nepomniachtchi,I"]
 [Black "Radjabov,T"]
@@ -263,7 +245,6 @@
 [BlackFideId "13400924"]
 [BlackTitle "GM"]
 [ECO "C67"]
-[EventDate "2019.01.12"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence, open variation"]
 [WhiteElo "2763"]
@@ -279,7 +260,6 @@
 
 [Event "12th World Teams 2019"]
 [Site "Astana KAZ"]
-[Date "2019.03.05"]
 [Round "1.2"]
 [White "Nepomniachtchi,I"]
 [Black "Idani,P"]
@@ -289,7 +269,6 @@
 [BlackTeam "Iran"]
 [BlackTitle "GM"]
 [ECO "A13"]
-[EventDate "2019.03.05"]
 [Opening "English opening"]
 [Variation "Agincourt variation"]
 [WhiteElo "2771"]
@@ -312,7 +291,6 @@
 
 [Event "12th World Teams 2019"]
 [Site "Astana KAZ"]
-[Date "2019.03.08"]
 [Round "4.1"]
 [White "Nepomniachtchi,I"]
 [Black "Adams,Mi"]
@@ -322,7 +300,6 @@
 [BlackTeam "England"]
 [BlackTitle "GM"]
 [ECO "C84"]
-[EventDate "2019.03.05"]
 [Opening "Ruy Lopez"]
 [Variation "closed defence"]
 [WhiteElo "2771"]
@@ -340,7 +317,6 @@
 
 [Event "Cote d'Ivoire Rapid 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.09"]
 [Round "6.4"]
 [White "Nepomniachtchi,I"]
 [Black "Wei Yi"]
@@ -353,7 +329,6 @@
 [Opening "Petrov's defence"]
 [WhiteFideId "4168119"]
 [BlackFideId "8603405"]
-[EventDate "2019.05.08"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nd3 Nxe4 5. Qe2 Qe7 6. Nf4 Nc6 7. c3 Nf6 8. h4
 h5 9. d4 g6 10. Na3 a6 11. Nc4 Bg7 12. f3 O-O 13. Qxe7 Nxe7 14. Kf2 b5 15. Ne3
@@ -366,7 +341,6 @@ Rxb2+ 42. Bxb2 Bd5 43. Bd3 Bc4 44. Be4 Bd5 1/2-1/2
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "2.5"]
 [White "Nepomniachtchi,I"]
 [Black "Topalov,V"]
@@ -380,7 +354,6 @@ Rxb2+ 42. Bxb2 Bd5 43. Bd3 Bc4 44. Be4 Bd5 1/2-1/2
 [Variation "Berlin defence, open variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "2900084"]
-[EventDate "2019.05.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8.
 Nf3 O-O 9. d4 d5 10. c3 Bd6 11. b3 g6 12. Na3 a6 13. Nc2 Nce7 14. c4 c6 15. Qd2
@@ -398,7 +371,6 @@ Nxf3 Rxf3 74. Rb4 Rd3 75. b6 Rd8 76. b7 Rb8 1/2-1/2
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "5.5"]
 [White "Nepomniachtchi,I"]
 [Black "So,W"]
@@ -412,7 +384,6 @@ Nxf3 Rxf3 74. Rb4 Rd3 75. b6 Rd8 76. b7 Rb8 1/2-1/2
 [Variation "Berlin defence, open variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "5202213"]
-[EventDate "2019.05.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8.
 Nf3 O-O 9. d4 d5 10. c3 Bd6 11. b3 Re8 12. Na3 a6 13. Nc2 Rxe1 14. Qxe1 Nce7 15.
@@ -430,7 +401,6 @@ Kf4 67. h6 Ra8 68. Nd5+ Kg5 69. Nc7 Rh8 70. Bd3 Rxh6 71. Ne6+ Kg4 72. Ke3 Rh3+
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "7.3"]
 [White "Nepomniachtchi,I"]
 [Black "Nakamura,Hi"]
@@ -444,7 +414,6 @@ Kf4 67. h6 Ra8 68. Nd5+ Kg5 69. Nc7 Rh8 70. Bd3 Rxh6 71. Ne6+ Kg4 72. Ke3 Rh3+
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "4168119"]
 [BlackFideId "2016192"]
-[EventDate "2019.05.11"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5
 Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ 11. Nd2 d4 12. e4 Na6 13. O-O Nc5 14. Nb3 Be6 15.
@@ -458,7 +427,6 @@ Bc5 a2 49. Bxa7 a1=Q+ 50. Bg1 Qe1 51. Qd7 b3 52. e7 b2 53. e8=Q Qxe8 1/2-1/2
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "9.3"]
 [White "Nepomniachtchi,I"]
 [Black "Vachier Lagrave,M"]
@@ -472,7 +440,6 @@ Bc5 a2 49. Bxa7 a1=Q+ 50. Bg1 Qe1 51. Qd7 b3 52. e7 b2 53. e8=Q Qxe8 1/2-1/2
 [Variation "Najdorf, Zagreb (fianchetto) variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "623539"]
-[EventDate "2019.05.11"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
 O-O 9. O-O b5 10. a4 b4 11. Nd5 Nxd5 12. Qxd5 Ra7 13. Be3 Be6 14. Qd3 Rb7 15.
@@ -489,7 +456,6 @@ Qxf2 Qxa3 68. Qxf7+ Kh6 69. Qf4+ Kh7 70. Qc7+ Kh6 71. Qe5 Kh7 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2020.01.05"]
 [Round "3.10"]
 [White "Nepomniachtchi,I"]
 [Black "Nakamura,Hi"]
@@ -498,7 +464,6 @@ Qxf2 Qxa3 68. Qxf7+ Kh6 69. Qf4+ Kh7 70. Qc7+ Kh6 71. Qe5 Kh7 1/2-1/2
 [BlackFideId "2016192"]
 [BlackTitle "GM"]
 [ECO "C50"]
-[EventDate "2019.09.02"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2776"]
 [WhiteFideId "4168119"]
@@ -516,7 +481,6 @@ Qxf2 Qxa3 68. Qxf7+ Kh6 69. Qf4+ Kh7 70. Qc7+ Kh6 71. Qe5 Kh7 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2020.01.05"]
 [Round "3.28"]
 [White "Nepomniachtchi,I"]
 [Black "Nakamura,Hi"]
@@ -525,7 +489,6 @@ Qxf2 Qxa3 68. Qxf7+ Kh6 69. Qf4+ Kh7 70. Qc7+ Kh6 71. Qe5 Kh7 1/2-1/2
 [BlackFideId "2016192"]
 [BlackTitle "GM"]
 [ECO "B33"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Pelikan (Lasker/Sveshnikov) variation"]
 [WhiteElo "2776"]

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ciocaltea Viktor (ROM)"]
@@ -22,7 +21,6 @@ Bf4 31.c5 Kg7 32.c6 1/2-1/2
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "17"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Filip Miroslav (CZE)"]
@@ -46,7 +44,6 @@ Kg8 42.Kg3 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Golombek Harry (ENG)"]
@@ -75,7 +72,6 @@ Rg4 65.Kc5 Rg5+ 66.Kd4 Rg4+ 67.Re4 Rg1 68.Kc5 Rg7 69.Kb4 Rh7
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "19"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "O'kelly De Galway Alberic (BEL)"]
@@ -94,7 +90,6 @@ Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 d5 11.Bf4 c6 12.Bd3 Be6
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Radulescu Constantin (ROM)"]
@@ -117,7 +112,6 @@ Qf6 37.Qf3 Kc7 38.Ref1 c5 39.h6 Qd4 40.Rh4 Qf6 41.Qf4 Kc6 42.Ne5+ 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Radulescu Mihai"]
@@ -140,7 +134,6 @@ Qf6 37.Qf3 Kc7 38.Rdf1 c5 39.h6 Qd4 40.Rh4 Qf6 41.Qf4 Kc6 42.Ne5+ 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Reicher Emanoil (ROM)"]
@@ -165,7 +158,6 @@ Qe7 31.Nc5 Nd5 32.Qxb7 Qxb7 33.Nxb7 Rdb8 34.Nd6 Ne7 35.Nxf7 Kxf7
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sajtar Jaroslav (CZE)"]
@@ -185,7 +177,6 @@ h6 14.Ne4 Na6 15.Ned2 Be6 16.Rxe6 fxe6 17.Qg4 Nab4 18.Ne4 Nxc2
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -204,7 +195,6 @@ Bd6 8.Bxd6 Qxd6 9.Bd3 O-O 10.O-O e5 11.dxe5 Nxe5 12.Nxe5 Qxe5
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Szabo Stefan"]
@@ -225,7 +215,6 @@ Nxc8 25.Nc4 Be8 26.Kd2 Ke7 27.Ne5 Nd6 28.g4 Kf6 1/2-1/2
 
 [Event "Tournament"]
 [Site "Gagra (Georgia)"]
-[Date "1953.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -249,7 +238,6 @@ Qxc8 37.Qd4 Qd8 38.Nc5 Nc4 39.Nxe6 Qf6 40.Bxc4 bxc4 41.Qxc4 Qf7
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Yudovich Mikhail M Sr (RUS)"]
@@ -272,7 +260,6 @@ Qxf6 37.Rxf6 Rd6 38.Rf8 1-0
 
 [Event "Match \"Austria-URS\""]
 [Site "Vienna (Austria)"]
-[Date "1953.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lokvenc Josef (AUT)"]
@@ -303,7 +290,6 @@ Rxb5 82.Nc6 Rb7 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Euwe Max (NED)"]
@@ -330,7 +316,6 @@ Qd4+ 53.Be3 Qxb4 54.Qf8 Qb2+ 55.Kg3 Qf6 56.Qd6+ Kc8 57.Bd4 Qd8
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -353,7 +338,6 @@ Qd8 37.Ne2 Rda4 38.Nc3 Rd4 39.b3 Qb8 40.h5 Bxh5 41.Qh4 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -381,7 +365,6 @@ Ke7 66.Ke5 Re1+ 67.Kd4 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -405,7 +388,6 @@ Qh3 36.Kd2 e4 37.Nf6+ Kh8 38.Nxe4 Qe6 39.Kd3 Qd7+ 40.Ke2 Qe6
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -428,7 +410,6 @@ Qd3 36.Qe1 Qd5 37.Qg3 Ne4 38.Qh4 Nc3 39.Qg4 h5 40.Qh3 Ne2+ 41.Kf2 0-1
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Furman Semen (RUS)"]
@@ -455,7 +436,6 @@ Rxb2 54.Rd4 Kc6 55.Rxa4 Ra2 56.Ke3 Ra1 57.Rb4 Rxa3 58.Kd4 Kd6
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ilivitzki Georgi A (RUS)"]
@@ -479,7 +459,6 @@ Kd7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lisitsyn Georgy (RUS)"]
@@ -499,7 +478,6 @@ c5 14.c4 dxc4 15.Bxc4 cxd4 16.exd4 Bc6 17.d5 Bxd5 18.Bxd5 Rad8
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -523,7 +501,6 @@ Rb5 42.Nc3 Re5 43.Kg2 Nc7 44.Ra7 1/2-1/2
 
 [Event "Match \"URS-USA\""]
 [Site "New York (USA)"]
-[Date "1954.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -545,7 +522,6 @@ Rxd8 25.Rd1 Rxd1 26.Kxd1 Nb5 27.Bb2 Nd6 28.Nd2 Bh6 29.Ke2 f5
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1954.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -565,7 +541,6 @@ e6 20.Bb3 Nxb3 21.axb3 Bxe2 22.Qxe2 Bxd4 23.f4 1/2-1/2
 
 [Event "Match \"Sweden-URS\""]
 [Site "Stockholm (Sweden)"]
-[Date "1954.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Goode Royal"]

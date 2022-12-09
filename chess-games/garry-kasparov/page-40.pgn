@@ -1,6 +1,5 @@
 [Event "Blitz"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -23,7 +22,6 @@ Bg8 37.Qg6 1-0
 
 [Event "It"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -43,7 +41,6 @@ Rfd8 14.Rad1 Nh5 15.Bc1 Nf4 16.Qe4 Ng6 17.Rfe1 Bf8 18.Qe2 Rac8
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1988.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -64,7 +61,6 @@ Rd8 20.Nxe8 Rxe8 21.Bf3 Rd8 22.Qb3 Nc6 23.g3 Bf6 24.Kg2 Rab8
 
 [Event "Simultan"]
 [Site "Basel (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ballmann Martin (SUI)"]
@@ -88,7 +84,6 @@ Kf8 36.Qg4 R6d7 37.Rh8+ Ke7 38.Qg6 Qc6+ 39.Kf2 Kd6 40.Rxe8 Rxe8
 
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -112,7 +107,6 @@ Bb7+ 42.f3 Rc1 43.Be6 Rc2+ 44.Kg1 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -135,7 +129,6 @@ Ne5+ 36.Kd4 Nd7 37.Rc6 Rb7 38.Nd2 Nb6 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -159,7 +152,6 @@ Qg6 36.Qxc6 Qf5 37.Rf4 Rxf4 38.exf4 Kh7 39.Rg1 Rf7 40.Qxa6 b4
 
 [Event "Simultan"]
 [Site "Cannes (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ulibin Mikhail (RUS)"]
@@ -182,7 +174,6 @@ Nxd6 36.Qd4 gxf4 37.Qxf4 Rg6 38.g5 Qf5 39.Qxf5 Nxf5 40.Rxc4 1/2-1/2
 
 [Event "Match"]
 [Site "Cologne (Germany)"]
-[Date "1988.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -202,7 +193,6 @@ Nxd6 36.Qd4 gxf4 37.Qxf4 Rg6 38.g5 Qf5 39.Qxf5 Nxf5 40.Rxc4 1/2-1/2
 
 [Event "Simultan"]
 [Site "Evry (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kouatly Bachar (FRA)"]
@@ -227,7 +217,6 @@ Nxd6 48.Bb6 e3 49.Bxa5 e2 50.Rxc8 Nxc8 51.Kc2 Kd7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Eingorn Vereslav S (UKR)"]
@@ -247,7 +236,6 @@ Bf8 20.Ne2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Malaniuk Vladimir P (UKR)"]
@@ -267,7 +255,6 @@ cxd5 15.Nxd5 Ne4 16.f3 Nec5 17.Nb5 Bxb5 18.cxb5 Nc7 19.Nxc7 Rxc7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -287,7 +274,6 @@ Ne4 20.Bf3 f5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sokolov Andrei (FRA)"]
@@ -309,7 +295,6 @@ Bf7 25.Qb4 Na4 26.Nb3 Rc4 27.Qe1 Nc3 28.Rd3 Qa4 29.Nxd4 Nxe2+
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -336,7 +321,6 @@ Rxb4+ 59.Kc5 Rxg4 60.Ra7+ Kc8 61.Ra2 h5 62.Rd2 g6 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -357,7 +341,6 @@ O-O 14.Nxe4 Nxe4 15.Nf3 Nd5 16.Qxb7 Nb4 17.Ne5 Rc8 18.Bf3 Ng5
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nunn John D M (ENG)"]
@@ -380,7 +363,6 @@ Qa1+ 37.Qf1 Qxa5 38.Rxd6 Re8 39.Re6 Rxe6 40.dxe6 Qe5 41.Qc1 Kg7 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -399,7 +381,6 @@ Rd8 14.Rd1 Nd7 15.Be3 Qc6 16.Bb5 Qc7 17.Nd2 f5 18.a4 1/2-1/2
 
 [Event "Ch World (blitz)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dlugy Maxim (USA)"]
@@ -428,7 +409,6 @@ Kg3 71.Kf5 Kg2 1/2-1/2
 
 [Event "Ch World (blitz)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dlugy Maxim (USA)"]
@@ -450,7 +430,6 @@ Qh4 32.fxg3 Qxe4+ 33.Kg1 Nd4 34.Qd7 Nf3+ 35.Rxf3 Qxf3 0-1
 
 [Event "Ch World (blitz)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -475,7 +454,6 @@ Ke6 48.Bc4+ Kf6 49.b4 axb3 50.Bxb3 Bb5 1/2-1/2
 
 [Event "Ch World (blitz)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -502,7 +480,6 @@ Ke7 59.Nh7 Bd3 60.Rh8 Bxh7 61.Rxh7+ Kf6 62.Rxh6+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kupper Patrick (SUI)"]
@@ -523,7 +500,6 @@ Qc6 25.Qa2 Rc2 26.Qa3 Rc3 27.Qa2 Rc2 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -531,7 +507,6 @@ Qc6 25.Qa2 Rc2 26.Qa3 Rc3 27.Qa2 Rc2 1/2-1/2
 [ECO "D17"]
 [WhiteElo "2760"]
 [PlyCount "84"]
-[EventDate "1988.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Nh4 Bc8 7. e3 e5 8. Bxc4
 exd4 9. exd4 Be7 10. O-O Nd5 11. Re1 O-O 12. Nf3 Be6 13. Qb3 Na6 14. Bxd5 cxd5
@@ -544,7 +519,6 @@ Kb3 40. f4 Kxb2 41. f5 b3 42. f6 Ka2 1/2-1/2
 
 [Event "Simultan"]
 [Site "Basel (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Haldemann Paul (SUI)"]
@@ -553,7 +527,6 @@ Kb3 40. f4 Kxb2 41. f5 b3 42. f6 Ka2 1/2-1/2
 [WhiteElo "2760"]
 [BlackElo "2164"]
 [PlyCount "82"]
-[EventDate "1988.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 a5 8. b3
 O-O 9. Bb2 Qe7 10. e3 Re8 11. Be2 e5 12. dxe5 dxe5 13. O-O Bg4 14. h3 Bh5 15.

@@ -1,6 +1,5 @@
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -22,7 +21,6 @@ bxc4 26.Nd4 Qb6 27.Qg5 Bf8 28.Bxf8 Rxf8 29.Rhe1 Rb8 30.b3 Rd8
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "1999.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -50,7 +48,6 @@ Kg6 63.Nd4 Kf6 64.Kd6 Kf7 65.Ne6 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "1999.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -72,7 +69,6 @@ Nd7 31.Nc6 Bxc6 32.bxc6 Nb8 33.Bb6 Bd6 34.Nc3 Bc7 35.Bf2 d4 36.Nd5 1-0
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Costa Joao Guerra (POR)"]
@@ -92,7 +88,6 @@ Ba7 20.b5 axb5 21.axb5 Nd8 22.Ke2 Ne6 23.g3 Nd8 24.Ra2 Bb6 25.Rha1 1-0
 
 [Event "It (cat.19)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1999.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -114,7 +109,6 @@ Rxe8 31.Rd1 1-0
 
 [Event "It (cat.19)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1999.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -140,7 +134,6 @@ Rg6 48.d6+ Kd7 49.Rb7+ Kc8 50.Rc7+ Kd8 51.Ra7 Rxg3 52.Rxa6 Rc3+
 
 [Event "It (cat.19)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1999.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -163,7 +156,6 @@ Qg7 31.Qh7+ Kf8 32.Qh4 Rc8 33.Rh5 Bxg6 34.Rh8+ Kf7 35.Rxc8 Nxc8
 
 [Event "It (cat.19)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1999.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sokolov Ivan (NED)"]
@@ -188,7 +180,6 @@ e5 48.Qc5 Kg6 49.Qc7 1-0
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -210,7 +201,6 @@ dxe2 19.Qxe2 Bf6 20.Be3 Qc7 21.c4 Re8 22.Qc2 Rb8 23.Rb1 Rxb1+
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Reinderman Dimitri (NED)"]
@@ -235,7 +225,6 @@ Kf8 41.f6 Rb5+ 42.Ka1 Ne3 43.Nh7+ Ke8 44.Rg8+ Kd7 45.Rg7+ Kd6
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sokolov Ivan (NED)"]
@@ -262,7 +251,6 @@ Rg4 59.Qf7 Rg2+ 60.Kd3 Rg3+ 61.Kc4 Rg4+ 62.Kxb3 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kasimdzhanov Rustam (UZB)"]
@@ -285,7 +273,6 @@ Ra1 36.Ne7+ 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -308,7 +295,6 @@ Rd3 37.Be5 Bb7 38.Bg3 Ke7 39.Ng8+ Kd7 40.Nh6 Bc6 41.Nf7 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -330,7 +316,6 @@ Nf6 31.Qe3 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -354,7 +339,6 @@ Kd2 35.Qb2+ Kd1 36.Bf1 Rd2 37.Rd7 Rxd7 38.Bxc4 bxc4 39.Qxh8 Rd3
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -378,7 +362,6 @@ Ke7 36.Rg8 Rxb4 37.Ra8 Kd7 38.Rxg7 Rc1+ 39.Kh2 Rf4 40.Ng4 Ne7
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Biyidi Thomas (FRA)"]
@@ -387,7 +370,6 @@ Ke7 36.Rg8 Rxb4 37.Ra8 Kd7 38.Rxg7 Rc1+ 39.Kh2 Rf4 40.Ng4 Ne7
 [WhiteElo "2851"]
 [BlackElo "2120"]
 [PlyCount "58"]
-[EventDate "1999.??.??"]
 
 1. d4 Nf6 2. Bg5 d5 3. e3 e6 4. Nd2 Be7 5. Bd3 b6 6. Ngf3 Ba6 7. Bxa6 Nxa6 8.
 Ne5 Nb8 9. c4 Nfd7 10. Bxe7 Qxe7 11. Ndf3 O-O 12. O-O c5 13. Qa4 dxc4 14. Nxc4
@@ -398,7 +380,6 @@ Qe8 27. Qxb6 Rxa2 28. Qe3 Kf8 29. Qc5+ Kg8 1-0
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bonnafous Nathalie (FRA)"]
@@ -407,7 +388,6 @@ Qe8 27. Qxb6 Rxa2 28. Qe3 Kf8 29. Qc5+ Kg8 1-0
 [WhiteElo "2851"]
 [BlackElo "2109"]
 [PlyCount "67"]
-[EventDate "1999.??.??"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 c6 5. Qd2 b5 6. Bd3 Nd7 7. Nf3 Nb6 8. h3
 Nf6 9. Bh6 O-O 10. O-O a5 11. Rfe1 b4 12. Ne2 Ba6 13. Ng3 c5 14. Bxa6 Rxa6 15.
@@ -419,7 +399,6 @@ Ra8 28. Rec1 Qg7 29. R1c5 a4 30. Rb5 Rb8 31. h4 a3 32. bxa3 bxa3 33. h5 gxh5
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bonnet Edouard (FRA)"]
@@ -428,7 +407,6 @@ Ra8 28. Rec1 Qg7 29. R1c5 a4 30. Rb5 Rb8 31. h4 a3 32. bxa3 bxa3 33. h5 gxh5
 [WhiteElo "2851"]
 [BlackElo "2147"]
 [PlyCount "63"]
-[EventDate "1999.??.??"]
 
 1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. Nf3 c5 6. O-O a6 7. Be2 Nc6 8. Ne5
 Nxe5 9. dxe5 Qxd1 10. Rxd1 Nd5 11. Bf3 Nc7 12. Nd2 Be7 13. Nc4 O-O 14. Bd2 Rb8
@@ -439,7 +417,6 @@ Ke8 28. Kf2 Kf7 29. Bc7 Bf6 30. b3 Ra7 31. Be5 Ra8 32. h4 1-0
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bordet Christophe"]
@@ -448,7 +425,6 @@ Ke8 28. Kf2 Kf7 29. Bc7 Bf6 30. b3 Ra7 31. Be5 Ra8 32. h4 1-0
 [WhiteElo "2851"]
 [BlackElo "2020"]
 [PlyCount "61"]
-[EventDate "1999.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 cxd4 5. exd4 Be7 6. Nc3 O-O 7. Bd3 d6 8. O-O
 Nbd7 9. d5 e5 10. Bc2 a5 11. h3 Nc5 12. Be3 b6 13. a3 Ne8 14. b4 axb4 15. axb4
@@ -459,7 +435,6 @@ Qxe7 22. c5 Nd7 23. Ba4 Nef6 24. Bxd7 Nxd7 25. c6 Nb6 26. Qa5 Qd8 27. Rc1 Rf7
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Lamorelle Julien (FRA)"]
@@ -468,7 +443,6 @@ Qxe7 22. c5 Nd7 23. Ba4 Nef6 24. Bxd7 Nxd7 25. c6 Nb6 26. Qa5 Qd8 27. Rc1 Rf7
 [WhiteElo "2851"]
 [BlackElo "2156"]
 [PlyCount "52"]
-[EventDate "1999.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 O-O 7. Bg5 a6 8. Nbd2
 Ba7 9. Qe2 Ne7 10. Nh4 Bg4 11. f3 Be6 12. Bxf6 gxf6 13. g4 c6 14. Ng2 d5 15. f4
@@ -478,7 +452,6 @@ Re8 22. Qg2 cxd4 23. g5 Rxe4 24. gxf6+ Kf8 25. Qxe4 Qc8 26. Qe7+ Kg8 1-0
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Baptista Ana Filipa (POR)"]
@@ -487,7 +460,6 @@ Re8 22. Qg2 cxd4 23. g5 Rxe4 24. gxf6+ Kf8 25. Qxe4 Qc8 26. Qe7+ Kg8 1-0
 [WhiteElo "2851"]
 [BlackElo "2030"]
 [PlyCount "45"]
-[EventDate "1999.??.??"]
 
 1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. Nd2 b6 5. Ngf3 Bb7 6. Bd3 c5 7. c3 Nc6 8. a3
 O-O 9. O-O Rc8 10. Re1 cxd4 11. cxd4 d5 12. e5 Ne8 13. Bf4 Na5 14. Nf1 Nc4 15.
@@ -497,7 +469,6 @@ Qe2 Rc7 16. Ng3 Qc8 17. h4 h6 18. Rad1 Rc6 19. Bc1 Nc7 20. Nh5 a6 21. Bb1 Re8
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Baptista Paulo (POR)"]
@@ -506,7 +477,6 @@ Qe2 Rc7 16. Ng3 Qc8 17. h4 h6 18. Rad1 Rc6 19. Bc1 Nc7 20. Nh5 a6 21. Bb1 Re8
 [WhiteElo "2851"]
 [BlackElo "2046"]
 [PlyCount "63"]
-[EventDate "1999.??.??"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Be3 Nd7 6. Nd2 c5 7. f4 Qb6 8. Qb3 Qxb3
 9. axb3 cxd4 10. Bxd4 Bc5 11. Ngf3 Ne7 12. b4 Bb6 13. Bb5 O-O-O 14. Bxb6 axb6
@@ -517,7 +487,6 @@ N2f3 fxe5 22. fxe5 Rf8 23. Ke3 Ng6 24. Bd3 Ndxe5 25. Nxe5 Nxe5 26. Bxf5 Rxf5
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Coimbra Margarida (POR)"]
@@ -526,7 +495,6 @@ N2f3 fxe5 22. fxe5 Rf8 23. Ke3 Ng6 24. Bd3 Ndxe5 25. Nxe5 Nxe5 26. Bxf5 Rxf5
 [WhiteElo "2851"]
 [BlackElo "2066"]
 [PlyCount "61"]
-[EventDate "1999.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 a6 7. Nf3 Bg4 8. h3
 Bh5 9. g4 Bg6 10. Ne5 e6 11. h4 h6 12. Nxg6 fxg6 13. Bd3 Ne7 14. Qf3 Rc8 15.
@@ -537,7 +505,6 @@ e4 dxe4 29. Nxe4 Rh6 30. Bc4 Rh8 31. Ng5+ 1-0
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ribeiro Luis Landeiro (POR)"]
@@ -546,7 +513,6 @@ e4 dxe4 29. Nxe4 Rh6 30. Bc4 Rh8 31. Ng5+ 1-0
 [WhiteElo "2851"]
 [BlackElo "2069"]
 [PlyCount "51"]
-[EventDate "1999.??.??"]
 
 1. d4 Nf6 2. Bg5 Ne4 3. Bf4 e6 4. f3 Nf6 5. e4 d5 6. e5 Nfd7 7. Be3 c5 8. c3
 Nc6 9. f4 Qb6 10. Qd2 Be7 11. Nf3 O-O 12. Be2 cxd4 13. cxd4 Na5 14. b3 Nb8 15.

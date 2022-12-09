@@ -5,7 +5,6 @@
 [BlackFideId "24116068"]
 [Result "0-1"]
 [Round "03"]
-[Date "Wed Nov 06 2019"]
 [WhiteClock "0:00:14"]
 [BlackClock "0:05:10"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "8603405"]
 [Result "0-1"]
 [Round "2-05"]
-[Date "Mon Dec 16 2019"]
 [WhiteClock "0:01:36"]
 [BlackClock "0:01:21"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "12573981"]
 [Result "0-1"]
 [Round "04"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:05:47"]
 [BlackClock "0:00:30"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "4147332"]
 [Result "0-1"]
 [Round "12"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:04"]
 [BlackClock "0:00:42"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "13602250"]
 [Result "0-1"]
 [Round "11"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:01:06"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "5029465"]
 [Result "0-1"]
 [Round "09"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:06"]
 [BlackClock "0:00:00"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "2801990"]
 [Result "0-1"]
 [Round "13"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:00:51"]
 [BlackClock "0:00:41"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "9301348"]
 [Result "0-1"]
 [Round "21"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:15"]
 
@@ -120,7 +112,6 @@
 
 [Event "12th World Teams 2019"]
 [Site "Astana KAZ"]
-[Date "2019.03.11"]
 [Round "6.1"]
 [White "Karjakin,Sergey"]
 [Black "Naiditsch,A"]
@@ -130,7 +121,6 @@
 [BlackTeam "Azerbaijan"]
 [BlackTitle "GM"]
 [ECO "B32"]
-[EventDate "2019.03.05"]
 [Opening "Sicilian"]
 [Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
 [WhiteElo "2753"]
@@ -154,7 +144,6 @@
 
 [Event "Vugar Gashimov Mem 2019"]
 [Site "Shamkir AZE"]
-[Date "2019.04.08"]
 [Round "8.3"]
 [White "Karjakin,Sergey"]
 [Black "Carlsen,M"]
@@ -163,7 +152,6 @@
 [BlackFideId "1503014"]
 [BlackTitle "GM"]
 [ECO "B33"]
-[EventDate "2019.03.31"]
 [Opening "Sicilian"]
 [Variation "Pelikan (Lasker/Sveshnikov) variation"]
 [WhiteElo "2753"]
@@ -182,7 +170,6 @@
 
 [Event "Cote d'Ivoire Rapid 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.09"]
 [Round "4.2"]
 [White "Karjakin,Sergey"]
 [Black "Carlsen,M"]
@@ -195,7 +182,6 @@
 [Opening "Sicilian defence"]
 [WhiteFideId "14109603"]
 [BlackFideId "1503014"]
-[EventDate "2019.05.08"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Nf6 7. Nf1 Nd7 8. a3
 Nb6 9. Ba2 O-O 10. Ne3 Be6 11. Ncd5 Bg5 12. O-O Bxe3 13. fxe3 Ne7 14. c4 f5 15.
@@ -207,7 +193,6 @@ Rxd7 35. Re6 Qf4+ 0-1
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "5.3"]
 [White "Karjakin,Sergey"]
 [Black "Carlsen,M"]
@@ -220,7 +205,6 @@ Rxd7 35. Re6 Qf4+ 0-1
 [Opening "Sicilian defence"]
 [WhiteFideId "14109603"]
 [BlackFideId "1503014"]
-[EventDate "2019.05.11"]
 
 1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nb6 8. Bb5
 Bd7 9. exd6 e6 10. Bg5 f6 11. Bh4 Bxd6 12. Nc3 Nb4 13. O-O O-O 14. Qb3 Re8 15.
@@ -236,7 +220,6 @@ d5 Kf6 61. Nc5 Rd4 62. d6 Rd5 63. d7 Ke7 64. Ne4 Rxd7 65. Ng3 Rd5 66. Kf4 Kf6 0-
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "9.5"]
 [White "Karjakin,Sergey"]
 [Black "Ding Liren"]
@@ -250,7 +233,6 @@ d5 Kf6 61. Nc5 Rd4 62. d6 Rd5 63. d7 Ke7 64. Ne4 Rxd7 65. Ng3 Rd5 66. Kf4 Kf6 0-
 [Variation "Anderssen variation"]
 [WhiteFideId "14109603"]
 [BlackFideId "8603677"]
-[EventDate "2019.05.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 d6 8. h3 O-O
 9. Nbd2 Be6 10. Bxe6 fxe6 11. O-O Nh5 12. b4 Bb6 13. a4 Nf4 14. Nb3 Rb8 15. Kh2
@@ -263,7 +245,6 @@ g3 Bd2 41. Na2 c5 0-1
 
 [Event "Armageddon: Chess for TV"]
 [Site "Moscow RUS"]
-[Date "2019.06.13"]
 [Round "2.2"]
 [White "Karjakin,Sergey"]
 [Black "Nepomniachtchi,I"]
@@ -277,7 +258,6 @@ g3 Bd2 41. Na2 c5 0-1
 [Variation "Najdorf"]
 [WhiteFideId "14109603"]
 [BlackFideId "4168119"]
-[EventDate "2019.06.10"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e6 7. a4 Nbd7 8. O-O
 Nc5 9. a5 Be7 10. Be3 O-O 11. f3 e5 12. Nb3 Nxd3 13. Qxd3 Be6 14. Rfd1 Rc8 15.
@@ -287,7 +267,6 @@ Bb6 Qd7 16. h3 h6 17. Nc1 Rc4 18. N1e2 Rfc8 19. Rd2 Rb4 20. b3 d5 21. exd5 Bf5
 
 [Event "Tower of Concord Rapid"]
 [Site "Nazran RUS"]
-[Date "2019.08.02"]
 [Round "3"]
 [White "Karjakin,Sergey"]
 [Black "Inarkiev,E"]
@@ -301,7 +280,6 @@ Bb6 Qd7 16. h3 h6 17. Nc1 Rc4 18. N1e2 Rfc8 19. Rd2 Rb4 20. b3 d5 21. exd5 Bf5
 [Variation "Pelikan (Lasker/Sveshnikov) variation"]
 [WhiteFideId "14109603"]
 [BlackFideId "4162722"]
-[EventDate "2019.08.02"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
 exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Bf5 12. h4 h5 13. Bg5 Qb8 14. g3 a6 15.
@@ -314,7 +292,6 @@ Kg7 41. h5 gxh5 42. Bxh5 Bc5 43. b4 Bxb4 0-1
 
 [Event "Tower of Concord Blitz"]
 [Site "Nazran RUS"]
-[Date "2019.08.04"]
 [Round "4"]
 [White "Karjakin,Sergey"]
 [Black "Inarkiev,E"]
@@ -328,7 +305,6 @@ Kg7 41. h5 gxh5 42. Bxh5 Bc5 43. b4 Bxb4 0-1
 [Variation "classical variation"]
 [WhiteFideId "14109603"]
 [BlackFideId "4162722"]
-[EventDate "2019.08.04"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Bd3 Nf6 8.
 Bxg6 hxg6 9. O-O c5 10. dxc5 Qxd1 11. Rxd1 Bxc5 12. Ne5 Nbd7 13. Nxd7 Nxd7 14.
@@ -344,7 +320,6 @@ Nd5 54. Rg8 Ne3 55. Rg7 Kd4 56. Rd7+ Nd5 57. Rg7 Nf6 58. Rg6 Ne4+ 59. Kf1 Nxg3+
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "9.3"]
 [White "Karjakin,Sergey"]
 [Black "Dominguez Perez,L"]
@@ -357,7 +332,6 @@ Nd5 54. Rg8 Ne3 55. Rg7 Kd4 56. Rd7+ Nd5 57. Rg7 Nf6 58. Rg6 Ne4+ 59. Kf1 Nxg3+
 [Opening "Queen's pawn game"]
 [WhiteFideId "14109603"]
 [BlackFideId "3503240"]
-[EventDate "2019.08.13"]
 
 1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. b3 Bg4 5. Be2 Nc6 6. Bb2 Bxf3 7. Bxf3 cxd4 8.
 exd4 e6 9. O-O Bd6 10. c4 O-O 11. Na3 Rc8 12. g3 Re8 13. Bg2 Bxa3 14. Bxa3 dxc4
@@ -370,7 +344,6 @@ Rca2 41. Qf3 Nf6 42. Bg5 R8a3 43. Qf4 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "10.4"]
 [White "Karjakin,Sergey"]
 [Black "Aronian,L"]
@@ -384,7 +357,6 @@ Rca2 41. Qf3 Nf6 42. Bg5 R8a3 43. Qf4 1-0
 [Variation "Scotch, 4...exd4"]
 [WhiteFideId "14109603"]
 [BlackFideId "13300474"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O 8.
 O-O d5 9. Bd2 Bxc3 10. Bxc3 Nxe4 11. Bxe4 dxe4 12. Qh5 Qd6 13. Rfe1 Re8 14. Re3
@@ -398,7 +370,6 @@ g4 48. Be5 g5 49. Bd6 g3 50. Bxg3 g4 51. Bf4 g3 52. b7+ 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "12.5"]
 [White "Karjakin,Sergey"]
 [Black "Vachier Lagrave,M"]
@@ -412,7 +383,6 @@ g4 48. Be5 g5 49. Bd6 g3 50. Bxg3 g4 51. Bf4 g3 52. b7+ 1-0
 [Variation "Najdorf"]
 [WhiteFideId "14109603"]
 [BlackFideId "623539"]
-[EventDate "2019.08.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 Be7 8. O-O
 O-O 9. Ng3 Be6 10. Nd5 Nbd7 11. c4 g6 12. Nxe7+ Qxe7 13. b3 Rfc8 14. Bg5 Qf8 15.
@@ -428,7 +398,6 @@ Rxc2 61. Bxc2 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "13.5"]
 [White "Karjakin,Sergey"]
 [Black "Rapport,R"]
@@ -442,7 +411,6 @@ Rxc2 61. Bxc2 1-0
 [Variation "Scotch, 4...exd4"]
 [WhiteFideId "14109603"]
 [BlackFideId "738590"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
 Bd2 O-O 9. O-O Rb8 10. Re1 Re8 11. a3 Bxc3 12. Bxc3 dxe4 13. Bxe4 Qxd1 14. Raxd1
@@ -459,7 +427,6 @@ Re8 68. Kg5 Bg8 69. Rh6 Ra8 70. Rf6 Bf7 71. Bb4+ 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "15.3"]
 [White "Karjakin,Sergey"]
 [Black "Ding Liren"]
@@ -472,7 +439,6 @@ Re8 68. Kg5 Bg8 69. Rh6 Ra8 70. Rf6 Bf7 71. Bb4+ 1-0
 [Opening "Queen's pawn game"]
 [WhiteFideId "14109603"]
 [BlackFideId "8603677"]
-[EventDate "2019.08.13"]
 
 1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. dxc5 e6 5. c4 Bxc5 6. a3 O-O 7. Nc3 dxc4 8. Qxd8
 Rxd8 9. Bxc4 a6 10. Be2 b5 11. O-O Bb7 12. Bd2 Nbd7 13. Rfd1 Be7 14. Nd4 Nb6 15.
@@ -485,7 +451,6 @@ Rb5 e5 42. Rb8 f5 43. Rb6+ f6 44. exf5+ Kxf5 45. h5 Kg5 46. h6 Kg6 47. Kh2 Kh7 0
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.25"]
 [Round "8.3"]
 [White "Karjakin,Sergey"]
 [Black "Vachier Lagrave,M"]
@@ -499,7 +464,6 @@ Rb5 e5 42. Rb8 f5 43. Rb6+ f6 44. exf5+ Kxf5 45. h5 Kg5 46. h6 Kg6 47. Kh2 Kh7 0
 [Variation "exchange, classical variation"]
 [WhiteFideId "14109603"]
 [BlackFideId "623539"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
 Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. dxc5 Qc7 12. Nd4 Ne5 13. Nb5 Qb8 14. Bd5 Ng4
@@ -513,7 +477,6 @@ Qf8+ Bg7 41. Qf3 Bd4 42. a6 Qe7 43. Qa8 Bf6 44. a7 Qd7+ 45. g4 Qe7 46. Qf3 Qxa7
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.13"]
 [Round "2.1"]
 [White "Karjakin,Sergey"]
 [Black "Sevian,Samuel"]
@@ -527,7 +490,6 @@ Qf8+ Bg7 41. Qf3 Bd4 42. a6 Qe7 43. Qa8 Bf6 44. a7 Qd7+ 45. g4 Qe7 46. Qf3 Qxa7
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteFideId "14109603"]
 [BlackFideId "2040506"]
-[EventDate "2019.09.10"]
 
 1. Nf3 d5 2. g3 Bg4 3. Bg2 e6 4. c4 c6 5. cxd5 Bxf3 6. Bxf3 cxd5 7. O-O Nc6 8.
 d4 Nf6 9. Nc3 Be7 10. e3 Rc8 11. Bd2 O-O 12. Qe2 Ne8 13. Rfd1 Nd6 14. Rac1 Qd7
@@ -544,7 +506,6 @@ Nb7+ 67. Ke5 Ke7 68. h5 Nc5 69. hxg6 Nxe6 70. Nf5+ Kd7 71. g7 1-0
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.13"]
 [Round "4.9"]
 [White "Karjakin,Sergey"]
 [Black "Demchenko,A"]
@@ -558,7 +519,6 @@ Nb7+ 67. Ke5 Ke7 68. h5 Nc5 69. hxg6 Nxe6 70. Nf5+ Kd7 71. g7 1-0
 [Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
 [WhiteFideId "14109603"]
 [BlackFideId "4160258"]
-[EventDate "2019.10.10"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
 O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 Qb6 13. Qh6 O-O-O 14. Qh5
@@ -571,7 +531,6 @@ Re2 Ba6 34. Ka1 Rc6 35. h4 Rb6 36. Bxc4 Bxc4 37. Re3 d5 38. exd5 Ra6 39. a3 Rd6
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.18"]
 [Round "8.8"]
 [White "Karjakin,Sergey"]
 [Black "Dreev,A"]
@@ -585,7 +544,6 @@ Re2 Ba6 34. Ka1 Rc6 35. h4 Rb6 36. Bxc4 Bxc4 37. Re3 d5 38. exd5 Ra6 39. a3 Rd6
 [Variation "Anderssen variation"]
 [WhiteFideId "14109603"]
 [BlackFideId "4100107"]
-[EventDate "2019.10.10"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
 Ne4 Qc7 9. f4 Qb6 10. c4 Bb4+ 11. Ke2 f5 12. exf6 Nxf6 13. Be3 Qd8 14. Nd6+ Bxd6

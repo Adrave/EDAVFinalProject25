@@ -1,6 +1,5 @@
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Xie Jun (CHN)"]
@@ -22,7 +21,6 @@ Qc7 20.dxe5 dxe5 21.Qe2 Rab8 22.Bg5 h6 23.Bxf6 Nxf6 24.Qxe5 Qxe5
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Arakhamia-Grant Ketevan (GEO)"]
@@ -52,7 +50,6 @@ Kf7 76.Kh2 Nh3 0-1
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Cramling Pia (SWE)"]
@@ -80,7 +77,6 @@ Kf5 58.Rf7+ Kg5 59.Rb7 Bc3 60.Rf7 Kg6 61.Rb7 Kf5 62.Rf7+ Kg5
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ioseliani Nana (GEO)"]
@@ -105,7 +101,6 @@ Rb7 47.Kc5 g5 48.g4 Ra7 49.Rf5 h6 50.Kd6 Ra6+ 51.Ke5 1-0
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Zhu Chen (CHN)"]
@@ -129,7 +124,6 @@ Rb1 42.h3 Nc5 43.Kh4 Kf8 44.Kg5 Kg7 45.f5 Rb8 46.f6+ Kg8 47.Kh6 1-0
 
 [Event "Ch World FIDE"]
 [Site "Groningen (Netherlands)"]
-[Date "1997.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -156,7 +150,6 @@ g5 59.Rxa7 e4 60.b6 Rb5 61.b7 Rb4 62.Kd2 g4 63.Kc3 Rb6 0-1
 
 [Event "It (cat.16)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1997.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -178,7 +171,6 @@ Qxc3 31.Red1 Bxe4 32.Rd8+ Rxd8 33.Rxd8+ Kh7 34.Ng5+ Kh6 35.Nf7+ 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1997.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sutovsky Emil (ISR)"]
@@ -197,7 +189,6 @@ g4 14.Nh4 d5 15.Ng6 Rf7 16.Ne5 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1997.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -222,7 +213,6 @@ Ke3 48.Rf3+ Ke2 49.Rb3 Kf1 50.Rxb2 Re7 0-1
 
 [Event "It (cat.13)"]
 [Site "Malme (Sweden)"]
-[Date "1997.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Akesson Ralf (SWE)"]
@@ -243,7 +233,6 @@ Qxd1 20.Rxd1 Rfc8 21.Bb4 Bxf1 22.Rfxf1 Nb3 23.Rd7 a5 24.Rb1 axb4
 
 [Event "Cup Rilton"]
 [Site "Stockholm (Sweden)"]
-[Date "1997.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ingbrandt Johan (SWE)"]
@@ -264,7 +253,6 @@ Rxa8 25.Ne5 Rg8 26.Qh5 1-0
 
 [Event "Cup Rilton"]
 [Site "Stockholm (Sweden)"]
-[Date "1997.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sanden Stefan (SWE)"]
@@ -290,7 +278,6 @@ Rxb3 42.Rxa5 Kg7 43.Ra7+ Kh6 44.a5 g5+ 45.Kf5 Rb5+ 46.Kf6 Rb3
 
 [Event "Match \"Belgrade-Moscow\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -312,7 +299,6 @@ Kh5 30.Bxg7 Kxh4 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Chiburdanidze Maia (GEO)"]
@@ -331,7 +317,6 @@ c5 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Cramling Pia (SWE)"]
@@ -357,7 +342,6 @@ Kxf6 54.g5+ hxg5 55.fxg5+ Ke6 56.h5 gxh5 57.Bxh5 Kd6 58.Kd3 b4 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ioseliani Nana (GEO)"]
@@ -376,7 +360,6 @@ Bf5 8.Bxf6 Bxf6 9.Bd3 Bxd3 10.Qxd3 O-O 11.O-O Be7 12.Rab1 a5
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Xie Jun (CHN)"]
@@ -397,7 +380,6 @@ Qxa8 26.Nxc4 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Zhu Chen (CHN)"]
@@ -415,7 +397,6 @@ e6 8.Bd3 Bxd3 9.Qxd3 1/2-1/2
 
 [Event "Memorial Alois Nagler"]
 [Site "Zurich (Switzerland)"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Forster Richard (SUI)"]
@@ -433,7 +414,6 @@ Bg7 8.Rb1 a6 9.b4 b6 10.bxc5 bxc5 11.d3 O-O 1/2-1/2
 
 [Event "Memorial Alois Nagler"]
 [Site "Zurich (Switzerland)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hug Werner (SUI)"]
@@ -457,7 +437,6 @@ Rxa3 41.Rb7+ Kf8 42.e6 Rg3 43.Rb8+ Ke7 44.Rb7+ 1/2-1/2
 
 [Event "Memorial Alois Nagler"]
 [Site "Zurich (Switzerland)"]
-[Date "1998.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Moor Roger (SUI)"]
@@ -477,7 +456,6 @@ O-O 14.Nxf5 Rxf5 15.Bxc6 bxc6 16.b3 Qa5 17.Qe1 Qb5 18.Qe3 Rc8
 
 [Event "Memorial Alois Nagler"]
 [Site "Zurich (Switzerland)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pelletier Yannick (SUI)"]
@@ -497,7 +475,6 @@ Bb7 14.O-O Rc8 15.Qe2 Ne4 16.Nxe4 Bxe4 17.Rac1 O-O 18.Nd2 Bb7
 
 [Event "Cup Rilton"]
 [Site "Stockholm (Sweden)"]
-[Date "1997.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Eklund Mathias (SWE)"]
@@ -506,7 +483,6 @@ Bb7 14.O-O Rc8 15.Qe2 Ne4 16.Nxe4 Bxe4 17.Rac1 O-O 18.Nd2 Bb7
 [WhiteElo "2480"]
 [BlackElo "2151"]
 [PlyCount "57"]
-[EventDate "1997.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8. Bd2
 Nbc6 9. Nf3 O-O 10. Bb5 Qc7 11. O-O Na5 12. dxc5 Qxc5 13. Bd3 h6 14. Re1 Nc4
@@ -517,7 +493,6 @@ Nd4 Rc8 28. Re1 Rc4 29. Rf3 1-0
 
 [Event "Cup Rilton"]
 [Site "Stockholm (Sweden)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Azizi Haroon (SWE)"]
@@ -526,7 +501,6 @@ Nd4 Rc8 28. Re1 Rc4 29. Rf3 1-0
 [WhiteElo "2500"]
 [BlackElo "2145"]
 [PlyCount "97"]
-[EventDate "1998.??.??"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. c4 Nb6 7. exd6 cxd6 8. h3
 Bh5 9. O-O Be7 10. Nc3 O-O 11. b3 N8d7 12. Bb2 Nf6 13. Re1 Rc8 14. Nh4 Bg6 15.
@@ -540,7 +514,6 @@ Rfg1 Nf8 48. b7 N6d7 49. h4 1-0
 
 [Event "Cup Rilton"]
 [Site "Stockholm (Sweden)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kallgren Mikael (SWE)"]
@@ -549,7 +522,6 @@ Rfg1 Nf8 48. b7 N6d7 49. h4 1-0
 [WhiteElo "2500"]
 [BlackElo "2180"]
 [PlyCount "79"]
-[EventDate "1998.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d4 fxe4 5. Bxc6 dxc6 6. Nxe5 Nf6 7. Nc3 Bd6 8.
 Bg5 O-O 9. Qe2 Qe8 10. Nxe4 Nxe4 11. Qxe4 Bf5 12. Qe2 Bxe5 13. dxe5 Qg6 14. Qe3

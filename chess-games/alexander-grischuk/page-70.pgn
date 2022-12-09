@@ -1,6 +1,5 @@
 [Event "Cup World (active) (1/2 final) (play-off)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -23,7 +22,6 @@ Rc3 37.Rg7+ Kc6 38.Rc7+ Kb6 39.Bd4+ Kxc7 0-1
 
 [Event "Cup World (active) (1/4 final)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -49,7 +47,6 @@ Nf3+ 53.Kh3 d4 54.Qd6 Qe4 55.Kg2 d3 56.Kf1 0-1
 
 [Event "Cup World (active) (1/4 final) (play-off)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -74,7 +71,6 @@ Bxc3+ 49.bxc3 Kf6 50.Re5 Re6 51.Rxe6+ Kxe6 52.c4 Kd6 53.Kc3 Kc5 0-1
 
 [Event "Cup World (active) (1/4 final) (play-off)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -105,7 +101,6 @@ Kh7 82.f8Q Rxf8+ 83.Kxf8 Kh6 84.Kf7 Kh5 85.Rg8 Kh4 86.Kf6 1-0
 
 [Event "Cup World (active) (1/4 final) (play-off)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -132,7 +127,6 @@ e4 60.h7 Bf6 61.Rxf6 Rc7 62.Rd6 Kd3 63.Kg3 1-0
 
 [Event "Cup World (active) (Gr.A)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Bauer Christian (FRA)"]
@@ -162,7 +156,6 @@ Ba6 77.Kb6 Bc8 78.Bc6 Kg6 79.Bb7 1-0
 
 [Event "Cup World (active) (Gr.A)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -187,7 +180,6 @@ g6 42.b4 Ra8 43.Kf2 e5 44.Qd5 exf4 45.Rxg6+ hxg6 46.Qxb7 Re8
 
 [Event "It (cat.17)"]
 [Site "Enghien (France)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -211,7 +203,6 @@ Rd1+ 37.Kh2 Qd5 38.Qxd5 Rdxd5 39.Nc6 Rdc5 40.Nd4 Rb7 41.g4 h5
 
 [Event "Ch France (team) 2001"]
 [Site "France"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -235,7 +226,6 @@ Nb1+ 37.Rxb1 Qxb1 38.Qf4 Bc6 39.Qc7 Be7 40.f4 Kh8 41.Qxc6 Rg8
 
 [Event "Ch France (team) 2001"]
 [Site "France"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Maier Christian (GER)"]
@@ -257,7 +247,6 @@ Kf8 25.Rf1 Bxd6 26.exd6 Qxd6 27.Bg3 Qb4 28.Be5 Rg8 29.Qf3 f5
 
 [Event "It (cat.19)"]
 [Site "Linares (Spain)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -282,7 +271,6 @@ Kc2 46.Rdd3 Raf4 47.Rdf3 Rxf3 48.Rxf3 Rh8 49.Rf4 Kd3 50.h4 1-0
 
 [Event "It (cat.19)"]
 [Site "Linares (Spain)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -307,7 +295,6 @@ h3 46.Rh4 Rh1 47.Kd5 h2 48.Ke5 Rf1 49.Rxh2 Rxf3 50.Rc2+ Kb6 51.Rc4 1-0
 
 [Event "Ch Moscow (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -327,7 +314,6 @@ Kg7 19.Qe7 gxh4 20.Be6+ Kh8 21.Qf8+ Kh7 22.Bxc8 1-0
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Ghaem Maghami Ehsan (IRI)"]
@@ -349,7 +335,6 @@ Nxe3 25.Qxd6 Qb6 26.Qd3 Nc4 27.Bh3 Qd6 28.Re1+ Kd8 29.Rd1 Kc7
 
 [Event "Cup European Club (final)"]
 [Site "Panormo (Greece)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Babula Vlastimil (CZE)"]
@@ -374,7 +359,6 @@ Qb7 49.Na7+ Kb8 50.h4 Ka8 51.Nc6 1-0
 
 [Event "Cup European Club (final)"]
 [Site "Panormo (Greece)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -393,7 +377,6 @@ gxh6 8.cxd4 Bd7 9.Nc3 Qb6 10.Bb5 Rg8 11.O-O Nxe5 12.Nxe5 Bxb5
 
 [Event "Cup European Club (final)"]
 [Site "Panormo (Greece)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Zetocha Claudiu (SVK)"]
@@ -412,7 +395,6 @@ Bxd4 14.exf6 Bxf3 15.Rxf3 gxf6 16.Ne4 Nd7 17.Bf4 Be5 18.Nxf6+ 1-0
 
 [Event "Match (team)"]
 [Site "Shanghai (China)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Zhang Pengxiang (CHN)"]
@@ -434,7 +416,6 @@ d4 31.Rd1 1-0
 
 [Event "Match (team)"]
 [Site "Shanghai (China)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Zhang Zhong (CHN)"]
@@ -457,7 +438,6 @@ hxg3 31.Qxf4 Qh5 32.h3 exf3 33.Qxf3 Ne4 34.Qxh5 Nf2+ 35.Kg1 Bb6
 
 [Event "Ch World (team)"]
 [Site "Yerevan (Armenia)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Graf Alexander (GER)"]
@@ -480,7 +460,6 @@ Ne8 25.Be7 Nd6 26.Qd2 Bg4 27.Qh6 f5 28.Bc4+ Rf7 29.Bxd6 Qxd6
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -501,7 +480,6 @@ f6 20.f4 a3 21.f5 Qd7 22.b3 g5 23.Qe3 h6 24.c3 Qe7 25.Ng1 Rfe8
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -523,7 +501,6 @@ Rg8+ 26.Kh1 Nh6 27.Rg1 Rxg1+ 28.Kxg1 Ng8 29.Kf2 Qd8 30.Kg3 Ne7
 
 [Event "It \"Eurotel World Chess Trophy\""]
 [Site "Prague (Czech Republic)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -549,7 +526,6 @@ Re3 53.Kf2 Re4 54.Kg2 Re1 55.Kf2 Re4 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2002.??.??"]
 [Round "10"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -570,7 +546,6 @@ Qg5+ 20.Kf1 Bxe5 21.dxe5 Bc6 22.Bc1 Qh4 23.Bxe4 fxe4 24.Be3 Qxh3+
 
 [Event "It (cat.18)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]

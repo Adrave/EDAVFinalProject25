@@ -1,13 +1,11 @@
 [Event "Euwe - Alekhine World Championship Rematch"]
 [Site "Amsterdam NED"]
-[Date "1937.10.10"]
 [Round "3"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D46"]
-[EventDate "????.??.??"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -26,14 +24,12 @@
 
 [Event "Simultaneous exhibition"]
 [Site "Vancouver"]
-[Date "1949.01.17"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Harold Ostrom"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D09"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -52,14 +48,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1942.06.05"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Arnoldus Johannes van den Hoek"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E33"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -73,14 +67,12 @@
 
 [Event "Hilversum"]
 [Site "Hilversum NED"]
-[Date "1947.08.06"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Willem Jan Muhring"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "????.??.??"]
 [PlyCount "26"]
 [WhiteElo "?"]
 
@@ -91,14 +83,12 @@
 
 [Event "Hilversum"]
 [Site "Hilversum NED"]
-[Date "1947.08.02"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "J J van Oosterwijk Bruyn"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C86"]
-[EventDate "????.??.??"]
 [PlyCount "138"]
 [WhiteElo "?"]
 
@@ -119,14 +109,12 @@
 
 [Event "7th olm final"]
 [Site "Stockholm SWE"]
-[Date "1937.08.07"]
 [Round "11"]
 [White "Max Euwe"]
 [Black "Andre Lilienthal"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E33"]
-[EventDate "????.??.??"]
 [PlyCount "142"]
 [WhiteElo "?"]
 
@@ -147,14 +135,12 @@
 
 [Event "ASC-VAS"]
 [Site "Amsterdam NED"]
-[Date "1940.01.28"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Salo Landau"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D28"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -171,14 +157,12 @@
 
 [Event "Kamstra Cup"]
 [Site "Rotterdam NED"]
-[Date "1940.04.20"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Hans Kmoch"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E33"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -194,14 +178,12 @@
 
 [Event "DD-ASC"]
 [Site "The Hague NED"]
-[Date "1931.12.13"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Johannes Hendrik Otto van den Bosch"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D95"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -214,14 +196,12 @@
 
 [Event "Simul, 30b"]
 [Site "Amsterdam NED"]
-[Date "1931.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Eduard Spanjaard"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -237,14 +217,12 @@
 
 [Event "Simul, 30b"]
 [Site "Amsterdam NED"]
-[Date "1931.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "R Rath"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C72"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -259,14 +237,12 @@
 
 [Event "Simul, 30b"]
 [Site "Amsterdam NED"]
-[Date "1931.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "G Teunisse"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C02"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -279,14 +255,12 @@
 
 [Event "Simul, 30b"]
 [Site "Amsterdam NED"]
-[Date "1931.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "I Holwedel"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -301,14 +275,12 @@
 
 [Event "NED-chT VAS-ASC"]
 [Site "Amsterdam NED"]
-[Date "1932.02.21"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Abraham Speijer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -324,14 +296,12 @@
 
 [Event "Rotterdam sim"]
 [Site "Rotterdam NED"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Willem Jan Muhring"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -344,14 +314,12 @@
 
 [Event "Rotterdam sim"]
 [Site "Rotterdam NED"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "G Boersma"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D69"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -367,14 +335,12 @@
 
 [Event "?"]
 [Site "?"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Erich Eliskases"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D57"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -390,14 +356,12 @@
 
 [Event "Watersnood"]
 [Site "Amsterdam NED"]
-[Date "1926.02.21"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Norbert Moldauer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A10"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -412,14 +376,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1926.04.17"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Edgar Colle"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E38"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -431,14 +393,12 @@
 
 [Event "Simul"]
 [Site "Batavia INA"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Cornelis Johannes Baay"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -455,14 +415,12 @@
 
 [Event "Simul"]
 [Site "URS"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Rafael Vaganian"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B28"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -476,14 +434,12 @@
 
 [Event "NED-ENG"]
 [Site "Vlissingen NED"]
-[Date "1962.11.03"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Jonathan Penrose"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E66"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -501,14 +457,12 @@
 
 [Event "Paul Masson Chess Festival"]
 [Site "Saratoga, CA USA"]
-[Date "1980.07.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Bruce Matzner"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -524,14 +478,12 @@
 
 [Event "Simultaneous exhibition"]
 [Site "Cleveland, OH USA"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Willa White Owens"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E39"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -544,14 +496,12 @@
 
 [Event "Clock simul, 6b"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1955.01.08"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Charles I Kalme"]
 [Result "0-1"]
 [BlackElo "2330"]
 [ECO "D72"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 

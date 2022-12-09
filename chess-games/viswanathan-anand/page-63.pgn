@@ -1,6 +1,5 @@
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Lautier Joel (FRA)"]
@@ -21,7 +20,6 @@ a5 25.Re2 Qd4 26.Qxd4 Bxd4 27.h4 Rc7 28.h5 Bf6 29.Bc4 Rcc8 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -46,7 +44,6 @@ Rc8 42.Ba6 Rc3 43.Kxb2 Bd7 44.Rd4 Bf5 45.Rxb4 Rxc2+ 46.Kb3 Rxh2
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -65,7 +62,6 @@ Rd8 14.Ba3 Nf8 15.Qd2 Bg4 16.Qe3 b6 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -86,7 +82,6 @@ Nc2+ 25.Kb1 Na3+ 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1996.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Polgar Judit (HUN)"]
@@ -110,7 +105,6 @@ Qxf2 42.Qd8+ Kg7 43.Qe7+ Kg6 44.Qe8+ Kg7 1/2-1/2
 
 [Event "It \"CS Masters\" (active)"]
 [Site "Geneva (Switzerland)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -136,7 +130,6 @@ Qf1+ 48.Kh2 Qe2+ 49.Kg1 Qxd1 50.Kf1 Qd7 51.Qxa6 h2 52.Qg6+ Rg7
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -158,7 +151,6 @@ Qxc2 25.Rxe5 Qxf2 26.Rxf2 g6 27.Rd5 Nc7 28.Rd7 Ne6 29.Bg4 Nxg5
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -178,7 +170,6 @@ h6 19.Rf1 Kg8 20.Bh4 Nd5 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -199,7 +190,6 @@ Bb7 25.Raf1 Rf7 26.Nd5 Bxd5 27.exd5 Qxd5 28.Rxf6 Rxf6 29.Rxf6 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -223,7 +213,6 @@ Rb2+ 42.Ke1 Rb1+ 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -246,7 +235,6 @@ h4 36.gxh4 gxh4 37.Rb6 Ra8+ 38.Ra6 Rxa6+ 39.Bxa6 h3 40.Ra1 Kf6 0-1
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Lautier Joel (FRA)"]
@@ -268,7 +256,6 @@ f5 31.f4 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -288,7 +275,6 @@ Qc3 20.Rae1 Kf7 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -314,7 +300,6 @@ Ra3 53.Kc4 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Xie Jun (CHN)"]
@@ -336,7 +321,6 @@ Nfd7 26.Nf3 Ne5 27.Nxe5 dxe5 28.Qf2 Rf8 29.Nf5 Qc7 30.d6 Qb6
 
 [Event "It \"PCA Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Krasenkow Michal (POL)"]
@@ -356,7 +340,6 @@ O-O-O 14.a4 Bd5 15.a5 Kb7 16.axb6 axb6 17.c4 Bxe4 18.Qa4 Rb8
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -380,7 +363,6 @@ Rxd5 37.Qxd5 Re7 38.Qd6 Re6 39.Qd8 Qe5 40.Rc7 Kg7 41.Rxa7 Rd6
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1996.??.??"]
 [Round "13"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tiviakov Sergei (NED)"]
@@ -415,7 +397,6 @@ Nc5 99.h4 h5 100.Bh3 Ke7 101.a5 Nxe6 102.Kxb6 Nf4 103.a6 Nd5+
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -436,7 +417,6 @@ Bxf8 25.h4 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1996.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -462,7 +442,6 @@ Kc6 54.Na4 1-0
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Sokolov Ivan (NED)"]
@@ -487,7 +466,6 @@ a5 48.d5 a4 0-1
 
 [Event "Cup G.Kasparov"]
 [Site "Porto"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Anand, Viswanathan"]
 [Black "Nikolic, Predrag"]
@@ -505,7 +483,6 @@ Rxc8 Nxe3 21. Rxf8+ Bxf8 22. fxe3 g5 23. Be5 g4 24. Nh4 Nxe5 25. Nxf5 exf5
 
 [Event "Hoogovens"]
 [Site "Wijk aan Zee NED"]
-[Date "1996.01.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Sokolov, I"]
@@ -513,7 +490,6 @@ Rxc8 Nxe3 21. Rxf8+ Bxf8 22. fxe3 g5 23. Be5 g4 24. Nh4 Nxe5 25. Nxf5 exf5
 [WhiteElo "2725"]
 [BlackElo "2665"]
 [ECO "C88"]
-[EventDate "1996.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. a4 b4 9. d3 d6 10. a5 Bg4 11. Be3 d5 12. Nbd2 h6 13. h3 d4 14. hxg4 
@@ -527,7 +503,6 @@ Nxg6 32. Kf1 Rh1+ 33. Kg2 Rd1 34. Rxg6+ Kxg6 35. Ne5+ Kg7 36. Nxg4 Qe1 37.
 
 [Event "Memorial A.Alekhine Open"]
 [Site "Merida MEX"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Anand, Viswanathan"]
 [Black "Lautier, Joel"]
@@ -547,7 +522,6 @@ Qh5 Ngf4 27. exf4 Nxf4 28. Qf5 Ne2+ 29. Kh2 Nxc1 30. Rxc1 g6 31. Qf3 f5
 
 [Event "Memorial A.Alekhine Open"]
 [Site "Merida MEX"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Dreev, Aleksey"]

@@ -1,6 +1,5 @@
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -24,7 +23,6 @@ h5 42.Nc7 1-0
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -47,7 +45,6 @@ Raa2 36.g3 Rac2 37.Rxc2 Rxc2 38.Bd4 h4 39.Bxf6 1-0
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -70,7 +67,6 @@ e4 37.b6 axb6 38.axb6 Kh7 39.Qc5 1-0
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Najdorf Miguel (POL)"]
@@ -91,7 +87,6 @@ Bxg7 25.Bh6 1-0
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -111,7 +106,6 @@ Re8 20.Rdd1 Rf8 21.a3 Kg7 22.b3 Kg8 23.a4 Rd8 24.Qc5 1-0
 
 [Event "Cup URS (team)"]
 [Site "Kislovodsk (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -139,7 +133,6 @@ Ke6 64.h5 Kd5 65.Ra4 Rd8 66.Kxf5 Rg8 67.Kf6 Rg5 68.e6 1-0
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -164,7 +157,6 @@ fxg3 42.hxg3 h5 43.Bf2 Nf5 44.f4 gxf4 45.gxf4 Ng7 46.Kc5 Bg2
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nunn John D M (ENG)"]
@@ -184,7 +176,6 @@ O-O 14.Bg5 f6 15.Bf4 gxf5 16.Bxd6 Bxa4 17.Rxa4 Qxd6 18.Nh4 fxe4
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Suba Mihai (ROM)"]
@@ -209,7 +200,6 @@ fxe4 31.fxe4 Kh8 32.Rf1 Nd4 33.Rg2 Nxb3 34.Nf5 Rf8 35.Nfxd6 Rxf1+
 
 [Event "Izt (cat.12)"]
 [Site "Moscow (Russia)"]
-[Date "1982.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -230,7 +220,6 @@ Rd8 25.c4 Qc6 26.Ne5 Qc8 27.Qb1 1-0
 
 [Event "Izt (cat.12)"]
 [Site "Moscow (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Murey Jacob (ISR)"]
@@ -251,7 +240,6 @@ Re8 25.Bh6+ Kg8 26.Qg4+ 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -276,7 +264,6 @@ Rf3+ 48.Kd4 Rxg3 49.Rxh5 Re3 50.Rh6 Ke7 51.h5 e5+ 52.Kd5 f3 0-1
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -295,7 +282,6 @@ Re8 14.Rxc6 Bxc6 15.Qxc6 Nf8 16.e3 Ne6 17.Bd6 Be7 18.Bxe7 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -315,7 +301,6 @@ Rcd8 19.Qc6 Qa5 20.a3 b4 21.Bf4 Nd5 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -343,7 +328,6 @@ b3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -364,7 +348,6 @@ Nc5 19.Qf3 Nxd3 20.Nc6 Qe6 21.b3 Ne5 22.Nxe5 Qxe5 23.Rae1 Qc7
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -384,7 +367,6 @@ Nxe5 14.fxe5 c5 15.Qe1 Rad8 16.Rd1 Qg5 17.Rf3 f6 18.exf6 cxd4
 
 [Event "It (cat.14)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1983.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -406,7 +388,6 @@ Rd7 24.Qa1 Rdc7 25.Qa2 Ne4 26.Rxa7 Rxc4 27.Qb2 Nf6 28.Qb7 Rf8
 
 [Event "It (cat.14)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -429,7 +410,6 @@ Bg7 36.Rd3 Be6 37.Rad5 1-0
 
 [Event "It (cat.14)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanovic Bozidar (SCG)"]
@@ -450,7 +430,6 @@ Re6 20.f4 Ne7 21.f5 gxf5 22.Qxh5 dxe4 23.Nxf5 Nxf5 24.Rxf5 Rae8
 
 [Event "It (cat.14)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -475,7 +454,6 @@ Ra6 48.h4 gxh4+ 49.Nxh4+ Kg7 50.Nf5+ Kg6 51.Bd4 1-0
 
 [Event "It (cat.14)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -498,7 +476,6 @@ Nc4 30.Rfd1 Ne5 31.Qh7+ Ke6 32.Qg8+ Kf5 33.g4+ Kf4 34.Rd4+ Kf3
 
 [Event "It (cat.14)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -520,7 +497,6 @@ Qxc5 26.Nf3 Red8 27.Ng5 Qe7 28.Qh4 Rd3 29.Qh7+ Kf8 30.Nxe6+ fxe6
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -528,7 +504,6 @@ Qxc5 26.Nf3 Red8 27.Ng5 Qe7 28.Qh4 Rd3 29.Qh7+ Kf8 30.Nxe6+ fxe6
 [ECO "D44"]
 [WhiteElo "2690"]
 [PlyCount "86"]
-[EventDate "1983.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2 O-O-O 15.
@@ -541,7 +516,6 @@ Ba7+ Kc8 41. Qxe6 Qd5 42. Qa6+ Qb7 43. Qc4+ Qc7 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Niksic (Yugoslavia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -549,7 +523,6 @@ Ba7+ Kc8 41. Qxe6 Qd5 42. Qa6+ Qb7 43. Qc4+ Qc7 1/2-1/2
 [ECO "E11"]
 [WhiteElo "2690"]
 [PlyCount "65"]
-[EventDate "1983.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. Nc3 b6 6. e3 Bb7 7. Bd3 d6 8. Qc2
 Nbd7 9. e4 e5 10. Nd5 Bxd2+ 11. Qxd2 exd4 12. Nxd4 Nc5 13. O-O O-O 14. Rfe1 Re8

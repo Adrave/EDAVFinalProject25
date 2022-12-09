@@ -1,6 +1,5 @@
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2010.01.22"]
 [Round "6"]
 [White "Dominguez Perez, L."]
 [Black "Tiviakov, S."]
@@ -9,7 +8,6 @@
 [WhiteElo "2712"]
 [BlackElo "2662"]
 [PlyCount "75"]
-[EventDate "2010.01.16"]
 [EventRounds "13"]
 [EventCountry "NED"]
 [EventCategory "19"]
@@ -26,7 +24,6 @@ Nf6 22. h3 Ne8 23. Qb3 Nc7 24. Ne5 Bb4 25. Nd3 Qe7 26. Nxb4 Qxb4 27. Qc2 Re8
 
 [Event "46th Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2011.05.11"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Le Quang Liem"]
@@ -35,7 +32,6 @@ Nf6 22. h3 Ne8 23. Qb3 Nc7 24. Ne5 Bb4 25. Nd3 Qe7 26. Nxb4 Qxb4 27. Qc2 Re8
 [WhiteElo "2726"]
 [BlackElo "2687"]
 [PlyCount "43"]
-[EventDate "2011.05.11"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -47,7 +43,6 @@ Rb8 22. h3 1/2-1/2
 
 [Event "46th Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2011.05.13"]
 [Round "3"]
 [White "Dominguez Perez, L."]
 [Black "Navara, D."]
@@ -56,7 +51,6 @@ Rb8 22. h3 1/2-1/2
 [WhiteElo "2726"]
 [BlackElo "2702"]
 [PlyCount "80"]
-[EventDate "2011.05.11"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -71,7 +65,6 @@ Ke3 Ra2 1/2-1/2
 
 [Event "46th Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2011.05.18"]
 [Round "7"]
 [White "Dominguez Perez, L."]
 [Black "Ivanchuk, V."]
@@ -80,7 +73,6 @@ Ke3 Ra2 1/2-1/2
 [WhiteElo "2726"]
 [BlackElo "2776"]
 [PlyCount "77"]
-[EventDate "2011.05.11"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -95,7 +87,6 @@ bxc6 15. Qxc6 Qa5+ 16. Qc3 Qxa2 17. b4 Bg4 18. f3 Bf5 19. Ra1 d4 20. Qxd4 Qb3
 
 [Event "46th Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2011.05.21"]
 [Round "10"]
 [White "Dominguez Perez, L."]
 [Black "Bruzon Batista, L."]
@@ -104,7 +95,6 @@ bxc6 15. Qxc6 Qa5+ 16. Qc3 Qxa2 17. b4 Bg4 18. f3 Bf5 19. Ra1 d4 20. Qxd4 Qb3
 [WhiteElo "2726"]
 [BlackElo "2693"]
 [PlyCount "27"]
-[EventDate "2011.05.11"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -115,7 +105,6 @@ O-O b6 9. Rc1 O-O 10. Ne5 Bb7 11. cxd5 cxd5 12. Nc3 a6 13. Nxd7 Qxd7 14. e3
 
 [Event "Baku Open A"]
 [Site "Baku AZE"]
-[Date "2011.08.12"]
 [Round "7"]
 [White "Dominguez Perez, L."]
 [Black "Mchedlishvili, M."]
@@ -124,7 +113,6 @@ O-O b6 9. Rc1 O-O 10. Ne5 Bb7 11. cxd5 cxd5 12. Nc3 a6 13. Nxd7 Qxd7 14. e3
 [WhiteElo "2719"]
 [BlackElo "2618"]
 [PlyCount "64"]
-[EventDate "2011.08.06"]
 [EventRounds "9"]
 [EventCountry "AZE"]
 [Source "Mark Crowther"]
@@ -139,7 +127,6 @@ Nc5 Re3 28. Bd2 Re2 29. Bxf4 exf4 30. Nd3 Rd2 31. Nxf4 Rd4 32. Ne2 Rxc4 1/2-1/2
 
 [Event "Baku Open A"]
 [Site "Baku AZE"]
-[Date "2011.08.14"]
 [Round "9"]
 [White "Dominguez Perez, L."]
 [Black "Najer, E."]
@@ -148,7 +135,6 @@ Nc5 Re3 28. Bd2 Re2 29. Bxf4 exf4 30. Nd3 Rd2 31. Nxf4 Rd4 32. Ne2 Rxc4 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2643"]
 [PlyCount "53"]
-[EventDate "2011.08.06"]
 [EventRounds "9"]
 [EventCountry "AZE"]
 [Source "Mark Crowther"]
@@ -163,7 +149,6 @@ Qc2 Qe5 22. Nf3 Qf6 23. Kg2 Rad8 24. Rd4 Qe6 25. Rfd1 Nf6 26. Qe2 Rd7 27. R4d3
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.01"]
 [Round "2.2"]
 [White "Dominguez Perez, L."]
 [Black "Bologan, V."]
@@ -172,7 +157,6 @@ Qc2 Qe5 22. Nf3 Qf6 23. Kg2 Rad8 24. Rd4 Qe6 25. Rfd1 Nf6 26. Qe2 Rd7 27. R4d3
 [WhiteElo "2719"]
 [BlackElo "2678"]
 [PlyCount "20"]
-[EventDate "2011.08.28"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -184,7 +168,6 @@ Bb7 9. Ng5 Ngf6 10. e5 b4 1/2-1/2
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.05"]
 [Round "3.4"]
 [White "Dominguez Perez, L."]
 [Black "Lysyj, I."]
@@ -193,7 +176,6 @@ Bb7 9. Ng5 Ngf6 10. e5 b4 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2629"]
 [PlyCount "33"]
-[EventDate "2011.08.28"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -206,7 +188,6 @@ Nbd7 9. Nc3 Ne4 10. Ne2 Bf6 11. d4 dxc4 12. bxc4 c5 13. Nf4 Nd6 14. Qb3 cxd4
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.05"]
 [Round "3.5"]
 [White "Dominguez Perez, L."]
 [Black "Lysyj, I."]
@@ -215,7 +196,6 @@ Nbd7 9. Nc3 Ne4 10. Ne2 Bf6 11. d4 dxc4 12. bxc4 c5 13. Nf4 Nd6 14. Qb3 cxd4
 [WhiteElo "2719"]
 [BlackElo "2629"]
 [PlyCount "92"]
-[EventDate "2011.08.28"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -233,7 +213,6 @@ Bh7 1/2-1/2
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.05"]
 [Round "3.8"]
 [White "Dominguez Perez, L."]
 [Black "Lysyj, I."]
@@ -242,7 +221,6 @@ Bh7 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2629"]
 [PlyCount "36"]
-[EventDate "2011.08.28"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -255,7 +233,6 @@ dxe4 h6 16. Qxd8 Rxd8 17. Be3 Bxe3 18. Rxe3 Kf8 1/2-1/2
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.08"]
 [Round "4.8"]
 [White "Dominguez Perez, L."]
 [Black "Polgar, Ju"]
@@ -264,7 +241,6 @@ dxe4 h6 16. Qxd8 Rxd8 17. Be3 Bxe3 18. Rxe3 Kf8 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2699"]
 [PlyCount "62"]
-[EventDate "2011.08.28"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -279,7 +255,6 @@ Nxe5 Qxc2+ 28. Ka1 Bxe5 29. Rb1 f6 30. Be4 Qd2 31. Bf5 Bxb2+ 0-1
 
 [Event "5th SPICE Cup GpA"]
 [Site "Lubbock USA"]
-[Date "2011.10.15"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Meier, Geo"]
@@ -288,7 +263,6 @@ Nxe5 Qxc2+ 28. Ka1 Bxe5 29. Rb1 f6 30. Be4 Qd2 31. Bf5 Bxb2+ 0-1
 [WhiteElo "2710"]
 [BlackElo "2648"]
 [PlyCount "118"]
-[EventDate "2011.10.15"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "USA"]
@@ -310,7 +284,6 @@ Rb1 Kd7 1/2-1/2
 
 [Event "5th SPICE Cup GpA"]
 [Site "Lubbock USA"]
-[Date "2011.10.23"]
 [Round "8"]
 [White "Dominguez Perez, L."]
 [Black "Shulman, Y."]
@@ -319,7 +292,6 @@ Rb1 Kd7 1/2-1/2
 [WhiteElo "2710"]
 [BlackElo "2608"]
 [PlyCount "61"]
-[EventDate "2011.10.15"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "USA"]
@@ -336,7 +308,6 @@ bxc6 27. b3 Rb6 28. Rc4 a5 29. Ra4 Rb5 30. Rc4 Rb6 31. Ra4 1/2-1/2
 
 [Event "TCh-ESP CECLUB Div Honor 2011"]
 [Site "Melilla ESP"]
-[Date "2011.11.22"]
 [Round "2"]
 [White "Dominguez Perez, L."]
 [Black "Vallejo Pons, F."]
@@ -345,7 +316,6 @@ bxc6 27. b3 Rb6 28. Rc4 a5 29. Ra4 Rb5 30. Rc4 Rb6 31. Ra4 1/2-1/2
 [WhiteElo "2712"]
 [BlackElo "2705"]
 [PlyCount "89"]
-[EventDate "2011.11.21"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -365,7 +335,6 @@ Rab6 41. Nc3 Ra6 42. Rd1 Rh8 43. Rh1 Rxh1 44. Bxh1 Ba4 45. Bb7 1/2-1/2
 
 [Event "TCh-ESP CECLUB Div Honor 2011"]
 [Site "Melilla ESP"]
-[Date "2011.11.26"]
 [Round "7"]
 [White "Dominguez Perez, L."]
 [Black "Ponomariov, R."]
@@ -374,7 +343,6 @@ Rab6 41. Nc3 Ra6 42. Rd1 Rh8 43. Rh1 Rxh1 44. Bxh1 Ba4 45. Bb7 1/2-1/2
 [WhiteElo "2712"]
 [BlackElo "2723"]
 [PlyCount "60"]
-[EventDate "2011.11.21"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -392,7 +360,6 @@ Be4 28. Qe3 Qb7 29. Nxg6 Bxg6 30. Qd2 Bd3 1/2-1/2
 
 [Event "Sportaccord WMG Blindfold"]
 [Site "Beijing CHN"]
-[Date "2011.12.15"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Almasi, Z."]
@@ -401,7 +368,6 @@ Be4 28. Qe3 Qb7 29. Nxg6 Bxg6 30. Qd2 Bd3 1/2-1/2
 [WhiteElo "2712"]
 [BlackElo "2707"]
 [PlyCount "92"]
-[EventDate "2011.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -420,7 +386,6 @@ Rd5 Kf7 1/2-1/2
 
 [Event "Sportaccord WMG Blindfold"]
 [Site "Beijing CHN"]
-[Date "2011.12.16"]
 [Round "6"]
 [White "Dominguez Perez, L."]
 [Black "Ponomariov, R."]
@@ -429,7 +394,6 @@ Rd5 Kf7 1/2-1/2
 [WhiteElo "2712"]
 [BlackElo "2723"]
 [PlyCount "120"]
-[EventDate "2011.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -450,7 +414,6 @@ cxd5 53. h6 Kxh6 54. Kf4 Kg7 55. Ke5 a4 56. Kxd5 Kf6 57. Kc4 Ke6 58. Kb4 Kd7
 
 [Event "Sportaccord WMG Blindfold"]
 [Site "Beijing CHN"]
-[Date "2011.12.16"]
 [Round "7"]
 [White "Dominguez Perez, L."]
 [Black "Karjakin, Sergey"]
@@ -459,7 +422,6 @@ cxd5 53. h6 Kxh6 54. Kf4 Kg7 55. Ke5 a4 56. Kxd5 Kf6 57. Kc4 Ke6 58. Kb4 Kd7
 [WhiteElo "2712"]
 [BlackElo "2763"]
 [PlyCount "143"]
-[EventDate "2011.12.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -482,7 +444,6 @@ Bxb1 1/2-1/2
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "9"]
 [White "Dominguez Perez, L."]
 [Black "Nielsen, PH."]
@@ -491,7 +452,6 @@ Bxb1 1/2-1/2
 [WhiteElo "2712"]
 [BlackElo "2693"]
 [PlyCount "21"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -506,7 +466,6 @@ Nc6 9. O-O-O d5 10. Nxc6 bxc6 11. Bd4 1/2-1/2
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "11"]
 [White "Dominguez Perez, L."]
 [Black "Karjakin, Sergey"]
@@ -515,7 +474,6 @@ Nc6 9. O-O-O d5 10. Nxc6 bxc6 11. Bd4 1/2-1/2
 [WhiteElo "2712"]
 [BlackElo "2763"]
 [PlyCount "119"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -538,7 +496,6 @@ g5 0-1
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "13"]
 [White "Dominguez Perez, L."]
 [Black "Ivanchuk, V."]
@@ -547,7 +504,6 @@ g5 0-1
 [WhiteElo "2712"]
 [BlackElo "2775"]
 [PlyCount "88"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -567,7 +523,6 @@ axb3 41. axb3 Rh5 42. c4 Rhxh2 43. Kc2 Rh3 44. b4 h5 0-1
 
 [Event "Sportaccord WMG Blitz"]
 [Site "Beijing CHN"]
-[Date "2011.12.13"]
 [Round "15"]
 [White "Dominguez Perez, L."]
 [Black "Giri, A."]
@@ -576,7 +531,6 @@ axb3 41. axb3 Rh5 42. c4 Rhxh2 43. Kc2 Rh3 44. b4 h5 0-1
 [WhiteElo "2712"]
 [BlackElo "2714"]
 [PlyCount "8"]
-[EventDate "2011.12.12"]
 [EventType "swiss (blitz)"]
 [EventRounds "15"]
 [EventCountry "CHN"]
@@ -590,7 +544,6 @@ axb3 41. axb3 Rh5 42. c4 Rhxh2 43. Kc2 Rh3 44. b4 h5 0-1
 
 [Event "Donostia KO GpA"]
 [Site "San Sebastian ESP"]
-[Date "2011.12.30"]
 [Round "3"]
 [White "Dominguez Perez, L."]
 [Black "Stefanova, A."]
@@ -599,7 +552,6 @@ axb3 41. axb3 Rh5 42. c4 Rhxh2 43. Kc2 Rh3 44. b4 h5 0-1
 [WhiteElo "2712"]
 [BlackElo "2531"]
 [PlyCount "122"]
-[EventDate "2011.12.28"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "ESP"]
@@ -622,7 +574,6 @@ Kc3 Kd8 60. Kc2 Rb1 61. Rh7 Kc8 1/2-1/2
 
 [Event "5. SPICE Cup GpA"]
 [Site "Lubbock USA"]
-[Date "2011.10.24"]
 [Round "9"]
 [White "Dominguez Perez, Leinier"]
 [Black "Feller, Sebastien"]
@@ -630,7 +581,6 @@ Kc3 Kd8 60. Kc2 Rb1 61. Rh7 Kc8 1/2-1/2
 [WhiteElo "2710"]
 [BlackElo "2668"]
 [ECO "C67"]
-[EventDate "2011.10.15"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 
 Nf5 8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. Nc3 Ne7 11. h3 Ng6 12. Re1 h6 13. Kh2 

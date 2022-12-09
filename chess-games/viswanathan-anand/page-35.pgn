@@ -1,6 +1,5 @@
 [Event "WCh"]
 [Site "Mexico City MEX"]
-[Date "2007.09.20"]
 [Round "7"]
 [White "Anand, V."]
 [Black "Grischuk, A."]
@@ -9,7 +8,6 @@
 [WhiteElo "2792"]
 [BlackElo "2726"]
 [PlyCount "99"]
-[EventDate "2007.09.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. c3 Nc6 13. d4 bxc3 14. bxc3 exd4 15.
@@ -23,7 +21,6 @@ Rf1 Rff8 48. Rxf8+ Kxf8 49. Rxh7 c3 50. Ng6+ 1-0
 
 [Event "WCh"]
 [Site "Mexico City MEX"]
-[Date "2007.09.25"]
 [Round "11"]
 [White "Anand, V."]
 [Black "Morozevich, A."]
@@ -32,7 +29,6 @@ Rf1 Rff8 48. Rxf8+ Kxf8 49. Rxh7 c3 50. Ng6+ 1-0
 [WhiteElo "2792"]
 [BlackElo "2758"]
 [PlyCount "111"]
-[EventDate "2007.09.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
 Nbd7 9. g4 Nb6 10. g5 Nh5 11. Qd2 Rc8 12. O-O-O Be7 13. Rg1 O-O 14. Kb1 Qc7 15.
@@ -47,7 +43,6 @@ Ne3 Ra1+ 54. Kxa1 h1=Q+ 55. Ka2 Qe4 56. Re5 1-0
 
 [Event "23rd ECC Men"]
 [Site "Kemer TUR"]
-[Date "2007.10.09"]
 [Round "7"]
 [White "Anand, V."]
 [Black "Pelletier, Y."]
@@ -56,7 +51,6 @@ Ne3 Ra1+ 54. Kxa1 h1=Q+ 55. Ka2 Qe4 56. Re5 1-0
 [WhiteElo "2801"]
 [BlackElo "2609"]
 [PlyCount "101"]
-[EventDate "2007.10.03"]
 
 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8.
 Be3 cxd4 9. Bxd4 Qc7 10. Bb5+ Bd7 11. Bxd7+ Qxd7 12. Ne5 Qb5 13. a4 Qd5 14. Qe2
@@ -70,7 +64,6 @@ Rcxb7 Rxb7 48. Rxb7 Re6 49. Rf7+ Ke4 50. b5 g4 51. Kc4 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Carlsen, M."]
@@ -79,7 +72,6 @@ Rcxb7 Rxb7 48. Rxb7 Re6 49. Rf7+ Ke4 50. b5 g4 51. Kc4 1-0
 [WhiteElo "2801"]
 [BlackElo "2714"]
 [PlyCount "91"]
-[EventDate "2007.11.21"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Bf5 7. g4 Be6 8. c4
 Nc7 9. Rg1 Nd7 10. Nf3 g6 11. Nc3 Bg7 12. Be3 O-O 13. Qd2 b5 14. cxb5 cxb5 15.
@@ -93,7 +85,6 @@ Qc5+ 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "7"]
 [White "Anand, V."]
 [Black "Adams, Mi"]
@@ -102,7 +93,6 @@ Qc5+ 1-0
 [WhiteElo "2801"]
 [BlackElo "2729"]
 [PlyCount "91"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. g3 O-O 7. Bg2 d6 8.
 O-O Re8 9. Qd3 a5 10. a3 Na6 11. Nbd2 Qc7 12. Rfc1 h6 13. Ne1 e5 14. Nc2 bxa3
@@ -115,7 +105,6 @@ Bxd5 Re7 41. Qc4 Qf5 42. a5 Kf8 43. Bf3 g5 44. hxg5 hxg5 45. a6 bxa6 46. b7 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "16"]
 [White "Anand, V."]
 [Black "Mamedyarov, S."]
@@ -124,7 +113,6 @@ Bxd5 Re7 41. Qc4 Qf5 42. a5 Kf8 43. Bf3 g5 44. hxg5 hxg5 45. a6 bxa6 46. b7 1-0
 [WhiteElo "2801"]
 [BlackElo "2752"]
 [PlyCount "47"]
-[EventDate "2007.11.21"]
 
 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e5 5. Nge2 exd4 6. Nxd4 Nc6 7. Be3 Nge7 8.
 h4 f5 9. h5 Rf8 10. hxg6 hxg6 11. Rh7 Rf7 12. Rxg7 Rxg7 13. Bg5 Qd7 14. Nxc6
@@ -134,7 +122,6 @@ Nxc6 15. Nd5 Qe6 16. Be2 Ne5 17. f4 c6 18. Nf6+ Kf8 19. fxe5 Qxe5 20. Qd2 Rf7
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "18"]
 [White "Anand, V."]
 [Black "Korotylev, A."]
@@ -143,7 +130,6 @@ Nxc6 15. Nd5 Qe6 16. Be2 Ne5 17. f4 c6 18. Nf6+ Kf8 19. fxe5 Qxe5 20. Qd2 Rf7
 [WhiteElo "2801"]
 [BlackElo "2600"]
 [PlyCount "108"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Nbd7 6. Bd3 Be7 7. Nge2 O-O 8. O-O
 Ne8 9. a3 Bg5 10. b4 Bxc1 11. Qxc1 b6 12. Rb1 cxb4 13. axb4 a5 14. Qc2 axb4 15.
@@ -158,7 +144,6 @@ Rd7 41. f4 exf4+ 42. gxf4 Rb7 43. Rb5 Rxb5 44. cxb5 Nd7 45. Kd4 g5 46. Bg4 Nb6
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "21"]
 [White "Anand, V."]
 [Black "Morozevich, A."]
@@ -167,7 +152,6 @@ Rd7 41. f4 exf4+ 42. gxf4 Rb7 43. Rb5 Rxb5 44. cxb5 Nd7 45. Kd4 g5 46. Bg4 Nb6
 [WhiteElo "2801"]
 [BlackElo "2755"]
 [PlyCount "85"]
-[EventDate "2007.11.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 exd4 8. Nxd4
 Bb7 9. c4 c5 10. Nf5 g6 11. Ng3 Nxb3 12. axb3 h5 13. Nc3 h4 14. Nge2 h3 15. g3
@@ -180,7 +164,6 @@ Rh1+ 41. Ke2 h2 42. Rg7+ Kf8 43. Rb8# 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "23"]
 [White "Anand, V."]
 [Black "Leko, P."]
@@ -189,7 +172,6 @@ Rh1+ 41. Ke2 h2 42. Rg7+ Kf8 43. Rb8# 1-0
 [WhiteElo "2801"]
 [BlackElo "2755"]
 [PlyCount "77"]
-[EventDate "2007.11.21"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
@@ -202,7 +184,6 @@ Kg4 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "32"]
 [White "Anand, V."]
 [Black "Bacrot, E."]
@@ -211,7 +192,6 @@ Kg4 1-0
 [WhiteElo "2801"]
 [BlackElo "2695"]
 [PlyCount "96"]
-[EventDate "2007.11.21"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8.
 Bd3 Ne4 9. Bxe7 Qxe7 10. Qc2 Ndf6 11. O-O O-O 12. Ne5 Nxc3 13. bxc3 g6 14. Rab1
@@ -225,7 +205,6 @@ Kg8 34. Nd3 Rxc3 35. Qxb5 Rc2 36. Rf4 Qe6 37. Rf3 Ne4 38. Nf4 Nc3 39. Qb3 Qe4
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "36"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -234,7 +213,6 @@ Kg8 34. Nd3 Rxc3 35. Qxb5 Rc2 36. Rf4 Qe6 37. Rf3 Ne4 38. Nf4 Nc3 39. Qb3 Qe4
 [WhiteElo "2801"]
 [BlackElo "2736"]
 [PlyCount "69"]
-[EventDate "2007.11.21"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. Nc3 Rb8 8. e3
 b5 9. Qe2 Be7 10. Rd1 Nd5 11. e4 Nxc3 12. bxc3 O-O 13. h4 Qe8 14. Bf4 Bd8 15.
@@ -246,7 +224,6 @@ Qxd7 Rxd7 35. Bb6 1-0
 
 [Event "XXIV SuperGM"]
 [Site "Morelia/Linares MEX/ESP"]
-[Date "2007.02.21"]
 [Round "4"]
 [White "Anand, V."]
 [Black "Morozevich, A."]
@@ -255,7 +232,6 @@ Qxd7 Rxd7 35. Bb6 1-0
 [WhiteElo "2779"]
 [BlackElo "2741"]
 [PlyCount "117"]
-[EventDate "2007.02.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 c6 15.
@@ -271,7 +247,6 @@ Kg4 Rd2 54. Rd5 Rxd5 55. Nxd5 Re6 56. Rxe6 fxe6 57. Nf4 Kf7 58. Nd3 Bc7 59. Kf3
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.18"]
 [Round "5"]
 [White "Anand, Viswanathan"]
 [Black "Svidler, Peter"]
@@ -279,7 +254,6 @@ Kg4 Rd2 54. Rd5 Rxd5 55. Nxd5 Re6 56. Rxe6 fxe6 57. Nf4 Kf7 58. Nd3 Bc7 59. Kf3
 [WhiteElo "2779"]
 [BlackElo "2728"]
 [ECO "C88"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. h3 Bb7 9. d3 Re8 10. a4 h6 11. c3 b4 12. Nbd2 d5 13. a5 dxe4 14. dxe4 
@@ -289,7 +263,6 @@ Qxd7 Red8 21. Qxc7 1-0
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.23"]
 [Round "9"]
 [White "Anand, Viswanathan"]
 [Black "Van Wely, Loek"]
@@ -297,7 +270,6 @@ Qxd7 Red8 21. Qxc7 1-0
 [WhiteElo "2779"]
 [BlackElo "2683"]
 [ECO "B97"]
-[EventDate "2007.01.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
  Qd2 Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 dxe5 12. fxe5 Nfd7 13. Ne4 Qxa2 14.
@@ -310,7 +282,6 @@ Qxd7 Red8 21. Qxc7 1-0
 
 [Event "2. Rapid"]
 [Site "Canada de Calatrava ESP"]
-[Date "2007.04.06"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Borras Duran, Pere"]
@@ -318,7 +289,6 @@ Qxd7 Red8 21. Qxc7 1-0
 [WhiteElo "2786"]
 [BlackElo "2164"]
 [ECO "E71"]
-[EventDate "2007.04.06"]
 
 1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. h3 O-O 6. Bd3 e5 7. d5 a5 8. 
 Nge2 Na6 9. g4 c6 10. Ng3 cxd5 11. cxd5 Nc5 12. Be2 b5 13. Bxb5 Ba6 14. 
@@ -330,14 +300,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.31"]
 [White "Viswanathan Anand"]
 [Black "Salvador Palomino"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "2007.12.05"]
 [PlyCount "17"]
 [WhiteElo "2801"]
 
@@ -348,14 +316,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.33"]
 [White "Viswanathan Anand"]
 [Black "Juan Albert Dasmas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "2007.12.05"]
 [PlyCount "52"]
 [WhiteElo "2801"]
 
@@ -369,14 +335,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.34"]
 [White "Viswanathan Anand"]
 [Black "Miguel Perez Ferris"]
 [Result "1-0"]
 [BlackElo "1935"]
 [ECO "A04"]
-[EventDate "2007.12.05"]
 [PlyCount "101"]
 [WhiteElo "2801"]
 
@@ -393,14 +357,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.35"]
 [White "Viswanathan Anand"]
 [Black "Rafael Valverde Caballero"]
 [Result "1-0"]
 [BlackElo "1914"]
 [ECO "A35"]
-[EventDate "2007.12.05"]
 [PlyCount "95"]
 [WhiteElo "2801"]
 
@@ -417,14 +379,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.8"]
 [White "Viswanathan Anand"]
 [Black "Martin Ferrando Perello"]
 [Result "1-0"]
 [BlackElo "2047"]
 [ECO "D35"]
-[EventDate "2007.12.05"]
 [PlyCount "37"]
 [WhiteElo "2801"]
 
@@ -436,14 +396,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.1"]
 [White "Viswanathan Anand"]
 [Black "David Pardo Simon"]
 [Result "1-0"]
 [BlackElo "2173"]
 [ECO "C43"]
-[EventDate "2007.12.05"]
 [PlyCount "61"]
 [WhiteElo "2801"]
 
@@ -457,14 +415,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.12"]
 [White "Viswanathan Anand"]
 [Black "Jose Antonio Moya Albadalejo"]
 [Result "1-0"]
 [BlackElo "1976"]
 [ECO "D06"]
-[EventDate "2007.12.05"]
 [PlyCount "47"]
 [WhiteElo "2801"]
 
@@ -477,14 +433,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.5"]
 [White "Viswanathan Anand"]
 [Black "Alex Rodriguez Gonzalez"]
 [Result "1-0"]
 [BlackElo "2088"]
 [ECO "B09"]
-[EventDate "2007.12.05"]
 [PlyCount "55"]
 [WhiteElo "2801"]
 
@@ -498,14 +452,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.10"]
 [White "Viswanathan Anand"]
 [Black "John Hickman"]
 [Result "1-0"]
 [BlackElo "2002"]
 [ECO "B07"]
-[EventDate "2007.12.05"]
 [PlyCount "69"]
 [WhiteElo "2801"]
 
@@ -520,14 +472,12 @@ Nxd4 Bg7 33. Nc6 Be5 34. hxg6 fxg6 35. Nxa7 Nf4+ 36. Kf3 Qxa7 37. Rbc1 1-0
 
 [Event "Festival de Benidorm Simultaneas Anand"]
 [Site "Benidorm ESP"]
-[Date "2007.??.??"]
 [Round "?.2"]
 [White "Viswanathan Anand"]
 [Black "Manuel Navarro Perez"]
 [Result "1-0"]
 [BlackElo "2158"]
 [ECO "E97"]
-[EventDate "2007.12.05"]
 [PlyCount "105"]
 [WhiteElo "2801"]
 

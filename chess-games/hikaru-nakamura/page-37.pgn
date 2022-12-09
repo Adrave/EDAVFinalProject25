@@ -1,6 +1,5 @@
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.13"]
 [White "Nakamura, Hi"]
 [Black "Carlsen, M."]
@@ -9,7 +8,6 @@
 [WhiteElo "2786"]
 [BlackElo "2832"]
 [PlyCount "129"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -29,7 +27,6 @@ Rc4+ 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.15"]
 [White "Nakamura, Hi"]
 [Black "Carlsen, M."]
@@ -38,7 +35,6 @@ Rc4+ 1/2-1/2
 [WhiteElo "2786"]
 [BlackElo "2832"]
 [PlyCount "80"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -54,7 +50,6 @@ Qd3 Qf6 28. b5 Kg7 29. h3 Re7 30. bxc6 bxc6 31. Qa6 Re6 32. Be2 Bc7 33. Bc4 Qe5
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.01.03"]
 [Round "4.19"]
 [White "Nakamura, Hi"]
 [Black "Carlsen, M."]
@@ -63,7 +58,6 @@ Qd3 Qf6 28. b5 Kg7 29. h3 Re7 30. bxc6 bxc6 31. Qa6 Re6 32. Be2 Bc7 33. Bc4 Qe5
 [WhiteElo "2786"]
 [BlackElo "2832"]
 [PlyCount "187"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -87,7 +81,6 @@ Kc4 Kc7 85. Kd4 Kc8 86. Kd5 Kc7 87. Kd4 Kc8 88. b6 Kb8 89. Kc5 Ka8 90. Kd6 Kb8
 
 [Event "Gibraltar Masters 2018"]
 [Site "Caleta ENG"]
-[Date "2018.01.29"]
 [Round "7.1"]
 [White "Nakamura, Hi"]
 [Black "Antipov, M2."]
@@ -96,7 +89,6 @@ Kc4 Kc7 85. Kd4 Kc8 86. Kd5 Kc7 87. Kd4 Kc8 88. b6 Kb8 89. Kc5 Ka8 90. Kd6 Kb8
 [WhiteElo "2781"]
 [BlackElo "2588"]
 [PlyCount "60"]
-[EventDate "2018.01.23"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "GGB"]
@@ -110,7 +102,6 @@ Rxe8+ Rxe8 28. Re1 Rxe1+ 29. Bxe1 f6 30. Bd2 Kf7 1/2-1/2
 
 [Event "Gibraltar Masters 2018"]
 [Site "Caleta ENG"]
-[Date "2018.01.28"]
 [Round "6.1"]
 [White "Nakamura, Hi"]
 [Black "Howell, D."]
@@ -119,7 +110,6 @@ Rxe8+ Rxe8 28. Re1 Rxe1+ 29. Bxe1 f6 30. Bd2 Kf7 1/2-1/2
 [WhiteElo "2781"]
 [BlackElo "2682"]
 [PlyCount "64"]
-[EventDate "2018.01.23"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "GGB"]
@@ -134,7 +124,6 @@ hxg6 21. a3 b5 22. Bd4 b4 23. axb4 axb4 24. Bd3 Nd7 25. Rhe1 Rc6 26. Be4 Ra6
 
 [Event "Gibraltar Masters TB 2018"]
 [Site "Caleta ENG"]
-[Date "2018.02.01"]
 [Round "1.4"]
 [White "Nakamura, Hi"]
 [Black "Vachier Lagrave, M."]
@@ -143,7 +132,6 @@ hxg6 21. a3 b5 22. Bd4 b4 23. axb4 axb4 24. Bd3 Nd7 25. Rhe1 Rc6 26. Be4 Ra6
 [WhiteElo "2781"]
 [BlackElo "2793"]
 [PlyCount "130"]
-[EventDate "2018.02.01"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -163,7 +151,6 @@ Nxa5 e3 60. Bb5 Bd5 61. Be2 Kg6 62. Bd3 Be4 63. Bc4 h5 64. Nb3 h4 65. g4 h3
 
 [Event "Gibraltar Masters TB 2018"]
 [Site "Caleta ENG"]
-[Date "2018.02.01"]
 [Round "1.1"]
 [White "Nakamura, Hi"]
 [Black "Vachier Lagrave, M."]
@@ -172,7 +159,6 @@ Nxa5 e3 60. Bb5 Bd5 61. Be2 Kg6 62. Bd3 Be4 63. Bc4 h5 64. Nb3 h4 65. g4 h3
 [WhiteElo "2781"]
 [BlackElo "2793"]
 [PlyCount "109"]
-[EventDate "2018.02.01"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -190,7 +176,6 @@ Rc7+ Rd7 54. Rc6 Rd6 55. Rc7+ 1/2-1/2
 
 [Event "Gibraltar Masters 2018"]
 [Site "Caleta ENG"]
-[Date "2018.01.31"]
 [Round "9.2"]
 [White "Nakamura, Hi"]
 [Black "Rapport, R."]
@@ -199,7 +184,6 @@ Rc7+ Rd7 54. Rc6 Rd6 55. Rc7+ 1/2-1/2
 [WhiteElo "2781"]
 [BlackElo "2700"]
 [PlyCount "65"]
-[EventDate "2018.01.23"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -213,7 +197,6 @@ Rxe4 Bd6 22. Nc6 Raa8 23. Kf1 a3 24. Ke2 Ra4 25. Kd3 Rfa8 26. f4 Kf8 27. Rf1 h5
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "12.1"]
 [White "Nakamura, Hi"]
 [Black "Artemiev, V."]
@@ -222,7 +205,6 @@ Rxe4 Bd6 22. Nc6 Raa8 23. Kf1 a3 24. Ke2 Ra4 25. Kd3 Rfa8 26. f4 Kf8 27. Rf1 h5
 [WhiteElo "2787"]
 [BlackElo "2697"]
 [PlyCount "134"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -243,7 +225,6 @@ Kxf6 61. Ne4+ Kf5 62. Rb1 e5 63. fxe5 Kxe5 64. Nf2 Bc7 65. Kf3 Ke6 66. Rb3 Rf5+
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "2.1"]
 [White "Nakamura, Hi"]
 [Black "Dubov, Daniil"]
@@ -252,7 +233,6 @@ Kxf6 61. Ne4+ Kf5 62. Rb1 e5 63. fxe5 Kxe5 64. Nf2 Bc7 65. Kf3 Ke6 66. Rb3 Rf5+
 [WhiteElo "2787"]
 [BlackElo "2701"]
 [PlyCount "53"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -267,7 +247,6 @@ Kxg2 1/2-1/2
 
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.04"]
 [Round "8.5"]
 [White "Nakamura, Hi"]
 [Black "Karjakin, Sergey"]
@@ -276,7 +255,6 @@ Kxg2 1/2-1/2
 [WhiteElo "2787"]
 [BlackElo "2763"]
 [PlyCount "107"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -295,7 +273,6 @@ Qf7+ Kh6 54. Qf4+ 1/2-1/2
 
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.03"]
 [Round "5.2"]
 [White "Nakamura, Hi"]
 [Black "Svidler, P."]
@@ -304,7 +281,6 @@ Qf7+ Kh6 54. Qf4+ 1/2-1/2
 [WhiteElo "2787"]
 [BlackElo "2760"]
 [PlyCount "74"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -320,7 +296,6 @@ Rxc3 Bxf4 35. Kf1 Rd2 36. a4 Kg7 37. Ne3 Bxe3 1/2-1/2
 
 [Event "Region Blitz Moscow 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.01"]
 [Round "7.2"]
 [White "Nakamura, Hi"]
 [Black "Mamedyarov, S."]
@@ -329,7 +304,6 @@ Rxc3 Bxf4 35. Kf1 Rd2 36. a4 Kg7 37. Ne3 Bxe3 1/2-1/2
 [WhiteElo "2787"]
 [BlackElo "2809"]
 [PlyCount "88"]
-[EventDate "2018.03.01"]
 [EventType "swiss (blitz)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -345,7 +319,6 @@ Nd7 16. f3 c5 17. dxc5 Qc7 18. fxg4 Nxc5 19. gxh5 b4 20. Ne4 Qxe5 21. Nf6+ Bxf6
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.5"]
 [White "Nakamura, Hikaru"]
 [Black "So, Wesley"]
@@ -353,7 +326,6 @@ Nd7 16. f3 c5 17. dxc5 Qc7 18. fxg4 Nxc5 19. gxh5 b4 20. Ne4 Qxe5 21. Nf6+ Bxf6
 [WhiteElo "2777"]
 [BlackElo "2780"]
 [ECO "A06"]
-[EventDate "2018.07.24"]
 
 1. Nf3 d5 2. b3 e6 3. Bb2 Nf6 4. e3 Be7 5. c4 O-O 6. d4 c5 7. dxc5 dxc4 8.
  Qxd8 Rxd8 9. Bxc4 Ne4 10. Ke2 Nxc5 11. Rc1 Nc6 12. Nbd2 Na5 13. Bb5 a6 
@@ -366,7 +338,6 @@ Nd7 16. f3 c5 17. dxc5 Qc7 18. fxg4 Nxc5 19. gxh5 b4 20. Ne4 Qxe5 21. Nf6+ Bxf6
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.01"]
 [Round "3.25"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -374,7 +345,6 @@ Nd7 16. f3 c5 17. dxc5 Qc7 18. fxg4 Nxc5 19. gxh5 b4 20. Ne4 Qxe5 21. Nf6+ Bxf6
 [WhiteElo "2777"]
 [BlackElo "2767"]
 [ECO "D24"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O 
 Nxc3 8. bxc3 Bd6 9. Bg5 Be7 10. Bf4 O-O 11. Ne5 Nd7 12. Re1 Nxe5 13. Bxe5 
@@ -391,7 +361,6 @@ Kd3 Rb7 50. Rd8+ Kc6 51. Rc8+ Kb5 52. Kc3 Ra7 53. Rb8+ Kc6 54. Rc8+ Rc7
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.01"]
 [Round "3.23"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -399,7 +368,6 @@ Kd3 Rb7 50. Rd8+ Kc6 51. Rc8+ Kb5 52. Kc3 Ra7 53. Rb8+ Kc6 54. Rc8+ Rc7
 [WhiteElo "2777"]
 [BlackElo "2767"]
 [ECO "C00"]
-[EventDate "2018.07.24"]
 
 1. e4 e6 2. Ke2 d5 3. d3 Nc6 4. c3 Nf6 5. Qc2 e5 6. g3 g6 7. Bg2 Bg7 8. 
 Nf3 O-O 9. Rd1 Bg4 10. h3 Be6 11. Kf1 h6 12. Kg1 a5 13. a4 Qd7 14. Kh2 
@@ -411,7 +379,6 @@ Nxd1 32. Nhxf5 Qd7 33. Nxh6+ Kg7 34. Ng4 Qd5 35. h4 Nf3+ 36. Kh3 Ng1+ 0-1
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.01"]
 [Round "3.27"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -419,7 +386,6 @@ Nxd1 32. Nhxf5 Qd7 33. Nxh6+ Kg7 34. Ng4 Qd5 35. h4 Nf3+ 36. Kh3 Ng1+ 0-1
 [WhiteElo "2777"]
 [BlackElo "2767"]
 [ECO "C00"]
-[EventDate "2018.07.24"]
 
 1. e4 e6 2. Ke2 d5 3. d3 Nc6 4. c3 g6 5. Qc2 Bg7 6. g3 Nge7 7. Bg2 O-O 8. 
 Nf3 e5 9. Rd1 f5 10. Kf1 f4 11. gxf4 Bg4 12. h3 Bh5 13. d4 dxe4 14. Qxe4 
@@ -440,7 +406,6 @@ Re8 Qf2+ 86. Kg5 Qhg2+ 87. Kh5 Rd5+ 88. Re5 Rxe5+ 0-1
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "6.4"]
 [White "Nakamura, Hikaru"]
 [Black "Korobov, Anton"]
@@ -448,7 +413,6 @@ Re8 Qf2+ 86. Kg5 Qhg2+ 87. Kh5 Rd5+ 88. Re5 Rxe5+ 0-1
 [WhiteElo "2746"]
 [BlackElo "2698"]
 [ECO "A06"]
-[EventDate "2018.12.29"]
 
 1. Nf3 d5 2. b3 c5 3. Bb2 f6 4. g3 e5 5. Bg2 Nc6 6. O-O Be6 7. c4 d4 8. e3
 Nge7 9. d3 Ng6 10. exd4 cxd4 11. Ba3 Bxa3 12. Nxa3 O-O 13. Nc2 Qd7 14. Nd2
@@ -459,7 +423,6 @@ Nb3 Ng4 27. Qe1 Qf3+ 28. Kg1 Nf4 0-1
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.25"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -467,7 +430,6 @@ Nb3 Ng4 27. Qe1 Qf3+ 28. Kg1 Nf4 0-1
 [WhiteElo "2777"]
 [BlackElo "2779"]
 [ECO "D85"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 c5
 8. Rc1 O-O 9. d5 h6 10. Be3 e6 11. c4 Na6 12. Qd2 Re8 13. Bd3 exd5 14. 
@@ -482,7 +444,6 @@ Qd4 Qxa3+ 45. Rc3 Qd6 46. g5 Rh3 47. Kc2 Qe5 48. Qxe5 fxe5 49. Rc7 Rg3 50.
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.7"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -490,7 +451,6 @@ Qd4 Qxa3+ 45. Rc3 Qd6 46. g5 Rh3 47. Kc2 Qe5 48. Qxe5 fxe5 49. Rc7 Rg3 50.
 [WhiteElo "2777"]
 [BlackElo "2779"]
 [ECO "D85"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 c5
 8. Rc1 cxd4 9. cxd4 Nc6 10. d5 Nd4 11. Be3 e5 12. Bc4 O-O 13. Ne2 Re8 14. 
@@ -503,7 +463,6 @@ Qe1+ 38. Kh2 Bg4 39. Qa8+ Kg7 40. Qd8 Qxe2 41. Qf6+ Kg8 0-1
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.9"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -511,7 +470,6 @@ Qe1+ 38. Kh2 Bg4 39. Qa8+ Kg7 40. Qd8 Qxe2 41. Qf6+ Kg8 0-1
 [WhiteElo "2777"]
 [BlackElo "2779"]
 [ECO "D85"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 c5
 8. Rc1 cxd4 9. cxd4 Nc6 10. d5 Nd4 11. Be3 e5 12. Bc4 O-O 13. Ne2 Re8 14. 
@@ -523,7 +481,6 @@ Bh2+ 33. Kf1 Bf4 34. Rxb4 Rd8 35. Qxc3 Bd2 0-1
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.3"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -531,7 +488,6 @@ Bh2+ 33. Kf1 Bf4 34. Rxb4 Rd8 35. Qxc3 Bd2 0-1
 [WhiteElo "2777"]
 [BlackElo "2779"]
 [ECO "D85"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 c5
 8. Rc1 cxd4 9. cxd4 Nc6 10. d5 Nd4 11. Be3 e5 12. Ne2 O-O 13. Nxd4 exd4 
@@ -541,7 +497,6 @@ Qd2 20. Qe3 Qxa2 21. Qf3 g5 22. g4 h5 23. Rg1 Rf4 0-1
 
 [Event "PRO League All Stars St1"]
 [Site "chess.com INT"]
-[Date "2018.09.08"]
 [Round "6"]
 [White "Nakamura, Hikaru"]
 [Black "Gupta, Abhijeet"]
@@ -549,7 +504,6 @@ Qd2 20. Qe3 Qxa2 21. Qf3 g5 22. g4 h5 23. Rg1 Rf4 0-1
 [WhiteElo "2763"]
 [BlackElo "2588"]
 [ECO "E60"]
-[EventDate "2018.09.08"]
 
 1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. c4 O-O 5. g3 d6 6. d4 e5 7. dxe5 dxe5 8.
  Qxd8 Rxd8 9. Bxe5 Nc6 10. Bc3 Ne4 11. Bxg7 Kxg7 12. Bg2 Nb4 13. Na3 Nc3 
@@ -561,7 +515,6 @@ Rxa1 b5 27. cxb5 Rxb3 28. Rxa2 Rb4 29. Rc2 Rxd2 30. Rxd2 Rxe4 31. Rc2 Rc4
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "8.7"]
 [White "Nakamura, Hikaru"]
 [Black "Adly, Ahmed"]
@@ -569,7 +522,6 @@ Rxa1 b5 27. cxb5 Rxb3 28. Rxa2 Rb4 29. Rc2 Rxd2 30. Rxd2 Rxe4 31. Rc2 Rc4
 [WhiteElo "2746"]
 [BlackElo "2626"]
 [ECO "B29"]
-[EventDate "2018.12.29"]
 
 1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 Nc6 6. Bc4 e6 7. Bf4 Qc7
 8. Qd2 h6 9. h4 Rb8 10. a4 b6 11. Bd3 Bb7 12. Qe2 d5 13. b3 Rd8 14. Rd1 g6
@@ -585,7 +537,6 @@ exd6 a4 57. d7+ Kxd7 58. Kxf7 Rxf4 59. g6 a3 60. g7 Rxf6+ 0-1
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.13"]
 [Round "1.5"]
 [White "Nakamura, Hikaru"]
 [Black "Caruana, Fabiano"]
@@ -593,7 +544,6 @@ exd6 a4 57. d7+ Kxd7 58. Kxf7 Rxf4 59. g6 a3 60. g7 Rxf6+ 0-1
 [WhiteElo "2746"]
 [BlackElo "2832"]
 [ECO "A06"]
-[EventDate "2018.12.11"]
 
 1. Nf3 d5 2. e3 Nf6 3. b3 e6 4. c4 Be7 5. Bb2 O-O 6. Nc3 c5 7. cxd5 Nxd5 
 8. Be2 b6 9. Nxd5 exd5 10. d4 a5 11. dxc5 bxc5 12. O-O Be6 13. Bb5 Qb6 14.

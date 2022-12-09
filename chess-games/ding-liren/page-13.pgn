@@ -1,6 +1,5 @@
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.27"]
 [Round "9.5"]
 [White "Ding Liren"]
 [Black "Aronian, L."]
@@ -9,7 +8,6 @@
 [WhiteElo "2760"]
 [BlackElo "2785"]
 [PlyCount "87"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -26,7 +24,6 @@ Qf6 Nd3 42. Bd4 Qd6 43. Be3 Ne1+ 44. Kf1 1-0
 
 [Event "Du Te Cup 2017"]
 [Site "Shenzhen CHN"]
-[Date "2017.03.25"]
 [Round "3.3"]
 [White "Ding Liren"]
 [Black "Svidler, P."]
@@ -35,7 +32,6 @@ Qf6 Nd3 42. Bd4 Qd6 43. Be3 Ne1+ 44. Kf1 1-0
 [WhiteElo "2759"]
 [BlackElo "2741"]
 [PlyCount "87"]
-[EventDate "2017.03.23"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "CHN"]
@@ -53,7 +49,6 @@ Rd7 Nb5 41. Rxf7+ Kg8 42. Bxf6 Rxa2 43. Rg7+ Kf8 44. Rb7 1-0
 
 [Event "Du Te Cup 2017"]
 [Site "Shenzhen CHN"]
-[Date "2017.03.29"]
 [Round "6.3"]
 [White "Ding Liren"]
 [Black "Yu Yangyi"]
@@ -62,7 +57,6 @@ Rd7 Nb5 41. Rxf7+ Kg8 42. Bxf6 Rxa2 43. Rg7+ Kf8 44. Rb7 1-0
 [WhiteElo "2759"]
 [BlackElo "2750"]
 [PlyCount "101"]
-[EventDate "2017.03.23"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "CHN"]
@@ -81,7 +75,6 @@ Nxe5 Nxe5 49. Rxf6 Qh5 50. Bc3 Ra7 51. Qf4 1-0
 
 [Event "TCh-CHN 2017"]
 [Site "China CHN"]
-[Date "2017.04.20"]
 [Round "3.6"]
 [White "Ding Liren"]
 [Black "Li, Yankai"]
@@ -90,7 +83,6 @@ Nxe5 Nxe5 49. Rxf6 Qh5 50. Bc3 Ra7 51. Qf4 1-0
 [WhiteElo "2759"]
 [BlackElo "2392"]
 [PlyCount "83"]
-[EventDate "2017.04.18"]
 [EventType "team"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -109,7 +101,6 @@ Rh1 Re6 35. a4 a6 36. a5 Rf6 37. Qd1 Re6 38. Bf5 Rf6 39. Qd3 g6 40. Bh3 Qe4+
 
 [Event "Moscow Grand Prix 2017"]
 [Site "Moscow RUS"]
-[Date "2017.05.13"]
 [Round "2.4"]
 [White "Ding Liren"]
 [Black "Inarkiev, E."]
@@ -118,7 +109,6 @@ Rh1 Re6 35. a4 a6 36. a5 Rf6 37. Qd1 Re6 38. Bf5 Rf6 39. Qd3 g6 40. Bh3 Qe4+
 [WhiteElo "2773"]
 [BlackElo "2727"]
 [PlyCount "173"]
-[EventDate "2017.05.12"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -141,7 +131,6 @@ Kb5 Rc8 86. Bg7 Rd8 87. c4 1-0
 
 [Event "11th World Teams 2017"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2017.06.25"]
 [Round "8.2"]
 [White "Ding Liren"]
 [Black "Urkedal, F."]
@@ -150,7 +139,6 @@ Kb5 Rc8 86. Bg7 Rd8 87. c4 1-0
 [WhiteElo "2783"]
 [BlackElo "2541"]
 [PlyCount "87"]
-[EventDate "2017.06.17"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -170,7 +158,6 @@ Qe3 Qc4 29. Nd2 Qxa2 30. b3 Qa5 31. Nc4 Qb5 32. Bf4 Ne8 33. Nb6 Rd8 34. Nxd7 h6
 
 [Event "11th World Teams 2017"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2017.06.23"]
 [Round "6.3"]
 [White "Ding Liren"]
 [Black "Ponomariov, R."]
@@ -179,7 +166,6 @@ Qe3 Qc4 29. Nd2 Qxa2 30. b3 Qa5 31. Nc4 Qb5 32. Bf4 Ne8 33. Nb6 Rd8 34. Nxd7 h6
 [WhiteElo "2783"]
 [BlackElo "2712"]
 [PlyCount "83"]
-[EventDate "2017.06.17"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -199,7 +185,6 @@ Nd8 Qb5 41. Re8+ Kg7 42. Qe5+ 1-0
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.03"]
 [Round "1.1"]
 [White "Ding Liren"]
 [Black "Haddouche, M."]
@@ -208,7 +193,6 @@ Nd8 Qb5 41. Re8+ Kg7 42. Qe5+ 1-0
 [WhiteElo "2771"]
 [BlackElo "2487"]
 [PlyCount "91"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -225,7 +209,6 @@ exd4 1-0
 
 [Event "TCh-CHN 2017"]
 [Site "China CHN"]
-[Date "2017.07.27"]
 [Round "9.3"]
 [White "Ding Liren"]
 [Black "Lin Chen"]
@@ -234,7 +217,6 @@ exd4 1-0
 [WhiteElo "2781"]
 [BlackElo "2449"]
 [PlyCount "81"]
-[EventDate "2017.04.18"]
 [EventType "team"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -252,7 +234,6 @@ Rb1+ 41. Kg2 1-0
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.11"]
 [Round "3.4"]
 [White "Ding Liren"]
 [Black "Vidit, S."]
@@ -261,7 +242,6 @@ Rb1+ 41. Kg2 1-0
 [WhiteElo "2771"]
 [BlackElo "2702"]
 [PlyCount "75"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -276,7 +256,6 @@ Kg7 28. Rc4 f6 29. Nd3 e5 30. Qf3 Qd8 31. Rxc5 Rxc5 32. Nxc5 Qa5 33. Rc1 Qxa2
 
 [Event "China vs World Team 2018"]
 [Site "Liaocheng CHN"]
-[Date "2018.04.09"]
 [Round "10.3"]
 [White "Ding Liren"]
 [Black "Bacrot, E."]
@@ -285,7 +264,6 @@ Kg7 28. Rc4 f6 29. Nd3 e5 30. Qf3 Qd8 31. Rxc5 Rxc5 32. Nxc5 Qa5 33. Rc1 Qxa2
 [WhiteElo "2778"]
 [BlackElo "2718"]
 [PlyCount "82"]
-[EventDate "2018.04.07"]
 [EventType "schev (rapid)"]
 [EventRounds "10"]
 [EventCountry "CHN"]
@@ -303,7 +281,6 @@ Nb4 Bb7 22. Rxc8 Qxc8 23. Rc1 Qd8 24. b3 Qa5 25. Nd5 e6 26. Rc7 Ne5 27. b4 Qa4
 
 [Event "China vs World Team 2018"]
 [Site "Liaocheng CHN"]
-[Date "2018.04.07"]
 [Round "6.1"]
 [White "Ding Liren"]
 [Black "Duda, J."]
@@ -312,7 +289,6 @@ Nb4 Bb7 22. Rxc8 Qxc8 23. Rc1 Qd8 24. b3 Qa5 25. Nd5 e6 26. Rc7 Ne5 27. b4 Qa4
 [WhiteElo "2778"]
 [BlackElo "2724"]
 [PlyCount "99"]
-[EventDate "2018.04.07"]
 [EventType "schev (rapid)"]
 [EventRounds "10"]
 [EventCountry "CHN"]
@@ -331,7 +307,6 @@ Kd2 Ke7 48. Be2 Kf6 49. Bf1 Ke7 50. Be2 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2018"]
 [Site "Shamkir AZE"]
-[Date "2018.04.23"]
 [Round "5.5"]
 [White "Ding Liren"]
 [Black "Radjabov, T."]
@@ -340,7 +315,6 @@ Kd2 Ke7 48. Be2 Kf6 49. Bf1 Ke7 50. Be2 1/2-1/2
 [WhiteElo "2778"]
 [BlackElo "2748"]
 [PlyCount "80"]
-[EventDate "2018.04.19"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -357,7 +331,6 @@ Ke3 Ba5 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2018"]
 [Site "Shamkir AZE"]
-[Date "2018.04.19"]
 [Round "1.2"]
 [White "Ding Liren"]
 [Black "Wojtaszek, R."]
@@ -366,7 +339,6 @@ Ke3 Ba5 1/2-1/2
 [WhiteElo "2778"]
 [BlackElo "2744"]
 [PlyCount "133"]
-[EventDate "2018.04.19"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -387,7 +359,6 @@ Kf3 Qf6+ 66. Ke3 Qd4+ 67. Ke2 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2018"]
 [Site "Shamkir AZE"]
-[Date "2018.04.21"]
 [Round "3.4"]
 [White "Ding Liren"]
 [Black "Topalov, V."]
@@ -396,7 +367,6 @@ Kf3 Qf6+ 66. Ke3 Qd4+ 67. Ke2 1/2-1/2
 [WhiteElo "2778"]
 [BlackElo "2749"]
 [PlyCount "114"]
-[EventDate "2018.04.19"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -415,7 +385,6 @@ Kh2 Qe2+ 54. Kg1 Qd1+ 55. Kh2 Qe2+ 56. Kg1 Qe1+ 57. Kg2 Qe2+ 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2018"]
 [Site "Shamkir AZE"]
-[Date "2018.04.25"]
 [Round "6.1"]
 [White "Ding Liren"]
 [Black "Mamedyarov, S."]
@@ -424,7 +393,6 @@ Kh2 Qe2+ 54. Kg1 Qd1+ 55. Kh2 Qe2+ 56. Kg1 Qe1+ 57. Kg2 Qe2+ 1/2-1/2
 [WhiteElo "2778"]
 [BlackElo "2814"]
 [PlyCount "74"]
-[EventDate "2018.04.19"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -440,7 +408,6 @@ Rxb2+ 34. Kf1 Rb1+ 35. Kf2 Rb2+ 36. Kf1 Rb1+ 37. Kf2 Rb2+ 1/2-1/2
 
 [Event "6th Norway Blitz 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.05.27"]
 [Round "6.5"]
 [White "Ding Liren"]
 [Black "Aronian, L."]
@@ -449,7 +416,6 @@ Rxb2+ 34. Kf1 Rb1+ 35. Kf2 Rb2+ 36. Kf1 Rb1+ 37. Kf2 Rb2+ 1/2-1/2
 [WhiteElo "2791"]
 [BlackElo "2764"]
 [PlyCount "124"]
-[EventDate "2018.05.27"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -469,7 +435,6 @@ Kc7 a5 60. bxa5 b4 61. a6 b3 62. a7 b2 1/2-1/2
 
 [Event "6th Norway Chess 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.05.29"]
 [Round "2.3"]
 [White "Ding Liren"]
 [Black "Vachier Lagrave, M."]
@@ -478,7 +443,6 @@ Kc7 a5 60. bxa5 b4 61. a6 b3 62. a7 b2 1/2-1/2
 [WhiteElo "2791"]
 [BlackElo "2789"]
 [PlyCount "85"]
-[EventDate "2018.05.28"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -495,7 +459,6 @@ Qg5+ Kf8 41. Qd8+ Kg7 42. Qg5+ Kf8 43. Qd8+ 1/2-1/2
 
 [Event "Ding vs Topalov Match"]
 [Site "Wenzhou CHN"]
-[Date "2018.08.12"]
 [Round "2"]
 [White "Ding Liren"]
 [Black "Topalov, V."]
@@ -504,7 +467,6 @@ Qg5+ Kf8 41. Qd8+ Kg7 42. Qg5+ Kf8 43. Qd8+ 1/2-1/2
 [WhiteElo "2797"]
 [BlackElo "2747"]
 [PlyCount "80"]
-[EventDate "2018.08.11"]
 [EventType "match"]
 [EventRounds "4"]
 [EventCountry "CHN"]
@@ -520,7 +482,6 @@ h5 28. dxe5 Qf3 29. Re3 Qd5 30. Re2 Qf3 31. Re3 Qd5 32. Rf4 Rxf4 33. gxf4 g6
 
 [Event "2. Du Te Cup 2018"]
 [Site "Shenzhen CHN"]
-[Date "2018.11.14"]
 [Round "10.1"]
 [White "Ding, Liren"]
 [Black "Vitiugov, Nikita"]
@@ -528,7 +489,6 @@ h5 28. dxe5 Qf3 29. Re3 Qd5 30. Re2 Qf3 31. Re3 Qd5 32. Rf4 Rxf4 33. gxf4 g6
 [WhiteElo "2816"]
 [BlackElo "2709"]
 [ECO "D12"]
-[EventDate "2018.11.04"]
 
 1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. e3 Bf5 5. Nc3 a6 6. Bd3 Bxd3 7. Qxd3 e6 8.
  O-O Bb4 9. a3 Bxc3 10. bxc3 b5 11. cxb5 axb5 12. a4 Ne4 13. Ba3 Rxa4 14. 
@@ -541,7 +501,6 @@ Nc6 38. Ke4 Ke6 39. h4 Kd6 40. g4 Ke6 41. Nf4+ Kf7 42. Nd3 Ke6 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.28"]
 [Round "5.3"]
 [White "Ding, Liren"]
 [Black "Navara, David"]
@@ -549,7 +508,6 @@ Nc6 38. Ke4 Ke6 39. h4 Kd6 40. g4 Ke6 41. Nf4+ Kf7 42. Nd3 Ke6 1/2-1/2
 [WhiteElo "2804"]
 [BlackElo "2740"]
 [ECO "A29"]
-[EventDate "2018.09.24"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O
 8. d3 Bb6 9. Nxd5 Qxd5 10. Bd2 Qd6 11. Bc3 Re8 12. Nd2 Qh6 13. b4 Bh3 14. 
@@ -565,7 +523,6 @@ Kxh5 Ra5+ 56. Kxg4 Ra4+ 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.02"]
 [Round "8.7"]
 [White "Ding, Liren"]
 [Black "Giri, Anish"]
@@ -573,7 +530,6 @@ Kxh5 Ra5+ 56. Kxg4 Ra4+ 1/2-1/2
 [WhiteElo "2804"]
 [BlackElo "2780"]
 [ECO "E05"]
-[EventDate "2018.09.24"]
 
 1. d4 Nf6 2. g3 d5 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 dxc4 7. Qc2 a6 8.
  a4 Bd7 9. Qxc4 Bc6 10. Bf4 Nbd7 11. Qc2 Bd6 12. Bg5 h6 13. Bxf6 Nxf6 14. 
@@ -586,7 +542,6 @@ gxh5 33. Qg5+ Kh8 34. Qxh5+ Kg7 35. Qg5+ Kh8 36. Qh5+ Kg7 37. Qg5+ Kh8 38.
 
 [Event "2. Du Te Cup 2018"]
 [Site "Shenzhen CHN"]
-[Date "2018.11.05"]
 [Round "2.3"]
 [White "Ding, Liren"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -594,7 +549,6 @@ gxh5 33. Qg5+ Kh8 34. Qxh5+ Kg7 35. Qg5+ Kh8 36. Qh5+ Kg7 37. Qg5+ Kh8 38.
 [WhiteElo "2816"]
 [BlackElo "2778"]
 [ECO "A36"]
-[EventDate "2018.11.04"]
 
 1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Rb1 Nf6 6. a3 e6 7. b4 d5 8. 
 bxc5 O-O 9. Nf3 Ne4 10. Bb2 Nxc3 11. Bxc3 Bxc3 12. dxc3 Qa5 13. cxd5 exd5 
@@ -611,7 +565,6 @@ f4 Re1+ 50. Kd4 Rf1 51. f5+ Kf7 52. Ra3 Rd1+ 53. Ke3 Re1+ 54. Kf3 Rf1+ 55.
 
 [Event "2. Du Te Cup 2018"]
 [Site "Shenzhen CHN"]
-[Date "2018.11.10"]
 [Round "6.1"]
 [White "Ding, Liren"]
 [Black "Giri, Anish"]
@@ -619,7 +572,6 @@ f4 Re1+ 50. Kd4 Rf1 51. f5+ Kf7 52. Ra3 Rd1+ 53. Ke3 Re1+ 54. Kf3 Rf1+ 55.
 [WhiteElo "2816"]
 [BlackElo "2780"]
 [ECO "A29"]
-[EventDate "2018.11.04"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
 8. a3 O-O 9. d3 Be6 10. Be3 f5 11. Rc1 Kh8 12. b4 a6 13. Re1 Rb8 14. Bxb6 
@@ -631,7 +583,6 @@ Qxf4 32. Qb2+ Kg8 33. Qb3+ Kf8 34. Qa3+ Kg8 35. Qb3+ 1/2-1/2
 
 [Event "34. ECC Open 2018"]
 [Site "Porto Carras GRE"]
-[Date "2018.10.14"]
 [Round "3.2"]
 [White "Ding, Liren"]
 [Black "Werle, Jan"]
@@ -639,7 +590,6 @@ Qxf4 32. Qb2+ Kg8 33. Qb3+ Kf8 34. Qa3+ Kg8 35. Qb3+ 1/2-1/2
 [WhiteElo "2804"]
 [BlackElo "2527"]
 [ECO "D35"]
-[EventDate "2018.10.12"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 
 cxd4 8. cxd4 Be7 9. Nf3 O-O 10. Bc4 Nd7 11. O-O Nf6 12. Bd3 b6 13. Qe2 Bb7

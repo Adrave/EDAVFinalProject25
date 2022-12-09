@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "22"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -27,7 +26,6 @@ Kb5 60.Rxf7 e5 61.g6 Re3+ 62.Kc2 Re2+ 63.Kd1 Rg2 64.g7 Kc4 65.Nf6 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "15"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Janowski Dawid M (POL)"]
@@ -51,7 +49,6 @@ Nec6 43.Ng6+ Kh7 44.Bxe5 Nxe5 45.Rxe5 Bxe5 46.Rxa7 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "14"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -76,7 +73,6 @@ c5 48.bxc5 Bc6 49.Ke6 a5 50.f6+ 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "21"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Reti Richard (CZE)"]
@@ -98,7 +94,6 @@ g5 31.h4 Kg6 32.hxg5 hxg5 33.Ke4 Kh5 34.Rg1 Kh4 35.e6 g4 36.e7 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "6"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -123,7 +118,6 @@ Rc1 48.Kd6 Rc2 49.d5 Rc1 50.Rc7 Ra1 51.Kc6 Rxa4 52.d6 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "7"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Yates Frederick"]
@@ -153,7 +147,6 @@ Kg8 77.g6 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Cohen Steve"]
@@ -176,7 +169,6 @@ Rg8 26.Bxd7+ Kxd7 27.Rg1 Rgh8 28.e4 Qe8 29.Rxh4 gxh4 30.Qd3 fxe4
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tholfsen Erling"]
@@ -197,7 +189,6 @@ Rxe3 25.Rxe3 Qf8 26.fxg7 Qc5 27.Rd4 Re8 28.Rxe8+ Bxe8 29.Nd5 1-0
 
 [Event ""]
 [Site "Berlin (Germany)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Davidowsky D"]
@@ -219,7 +210,6 @@ c6 25.Bg5 Ra6 26.e6 Qa7 27.exf7+ Kxf7 28.Qh3 Kg8 29.Qe6+ Kh8
 
 [Event "Simultan"]
 [Site "Leningrad (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -241,7 +231,6 @@ Rc6 30.Re3 Rd2 31.Rexc3 Rxc2+ 32.Rxc2 Rxc2+ 0-1
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -263,7 +252,6 @@ Kg7 30.e5 Ne8 31.Re6 1-0
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -283,7 +271,6 @@ Kf8 19.Kf2 Ke8 20.Bf3 Bxf3 21.Kxf3 Nb7 22.e4 Nd7 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Iljin-Genevsky Alexander (RUS)"]
@@ -306,7 +293,6 @@ c4 36.a3 Bd6 37.Qa7 c3 0-1
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "13"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -328,7 +314,6 @@ Rab8 24.Rxa7 b3 25.Qb2 Ba4 26.Qxe5 Bc6 27.Qg5+ Kf8 28.Bxc6 b2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -348,7 +333,6 @@ Bb7 19.Bd3 g6 20.Kf1 Ng4 21.Be4 Bxe4 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -377,7 +361,6 @@ Bf3 71.Rd7+ Kf8 72.Kf6 Ke8 73.Rd4 1-0
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Torre Carlos (MEX)"]
@@ -403,7 +386,6 @@ Bc4 53.a6 Be2 54.Kxd5 Kb6 55.Kd6 Bg4 56.d5 Bf3 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Verlinsky Boris (UKR)"]
@@ -430,7 +412,6 @@ Bc5 59.Rxc5 Nxc5 60.Ke3 Kf6 0-1
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Zubarev Nikolay Mikhailovich (RUS)"]
@@ -455,7 +436,6 @@ Ke6 36.Qb3+ Kf5 37.Qd3+ Kg5 38.Qe3+ Kf5 39.Qe4+ Ke6 40.Qc4+ Kxd6
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -477,7 +457,6 @@ Bxe5 1/2-1/2
 
 [Event "It"]
 [Site "Lake-Hopatcong (USA)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -501,14 +480,12 @@ Ne7 36.Rac3 g4 37.hxg4 hxg4 38.Ne1 Rxd4 39.Nc2 Rxc4 40.Rxc4 f5
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1925.12.05"]
 [Round "19"]
 [White "Jose Raul Capablanca"]
 [Black "Efim Bogoljubov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D21"]
-[EventDate "1925.11.10"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -523,14 +500,12 @@ Ne7 36.Rac3 g4 37.hxg4 hxg4 38.Ne1 Rxd4 39.Nc2 Rxc4 40.Rxc4 f5
 
 [Event "Lake Hopatcong"]
 [Site "Lake Hopatcong, NJ USA"]
-[Date "1926.07.10"]
 [Round "4"]
 [White "Jose Raul Capablanca"]
 [Black "Frank James Marshall"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A48"]
-[EventDate "1926.07.07"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -546,14 +521,12 @@ Ne7 36.Rac3 g4 37.hxg4 hxg4 38.Ne1 Rxd4 39.Nc2 Rxc4 40.Rxc4 f5
 
 [Event "Lake Hopatcong"]
 [Site "Lake Hopatcong, NJ USA"]
-[Date "1926.07.20"]
 [Round "10"]
 [White "Jose Raul Capablanca"]
 [Black "Geza Maroczy"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "1926.07.07"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -566,14 +539,12 @@ Ne7 36.Rac3 g4 37.hxg4 hxg4 38.Ne1 Rxd4 39.Nc2 Rxc4 40.Rxc4 f5
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1925.12.02"]
 [Round "17"]
 [White "Jose Raul Capablanca"]
 [Black "Nikolay Zubarev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D21"]
-[EventDate "1925.11.10"]
 [PlyCount "85"]
 [WhiteElo "?"]
 

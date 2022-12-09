@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Habana (Cuba)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Corzo Jorge"]
@@ -25,7 +24,6 @@ Rxa4 47.Rg2 Ra6 48.Kxh6 Ke5+ 49.Kh5 c4 50.g5 Ra8 51.g6 Kf6 1/2-1/2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Eliskases Erich G (AUT)"]
@@ -50,7 +48,6 @@ Qc4 48.Kf2 Qa2+ 49.Kg3 Qc4 1/2-1/2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Fine Reuben (USA)"]
@@ -79,7 +76,6 @@ Bd1 70.Kg3 Kf7 71.Kf4 Be2 72.Ne4 Bd1 73.Nc3 Bb3 74.Ke5 Bc4 1/2-1/2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -101,7 +97,6 @@ exd5 20.Bc7 Bf6 21.Bxd8 Bxd8 22.Nb3 Nb6 23.Nd2 Be6 24.Rfc1 Nc8
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Keres Paul (EST)"]
@@ -121,7 +116,6 @@ Bxd2 19.Nxd2 Na4 20.Rfe1 h6 21.b3 Nb6 1/2-1/2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Petrov Vladimir M (LAT)"]
@@ -144,7 +138,6 @@ h6 1/2-1/2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -168,7 +161,6 @@ Rg7 37.Qxh5 Rg3+ 38.Kf2 Rg7 39.Ke1 Qd8 40.Rf6 Qxd4 41.Qe8+ Kh7
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "2"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -193,7 +185,6 @@ Rb1 48.Nc2 Bxf2 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "4"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -214,7 +205,6 @@ Rfd8 25.f4 Be8 26.Ne4 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "7"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Euwe Max (NED)"]
@@ -237,7 +227,6 @@ Qxh2+ 30.Ke3 Qf4+ 31.Ke2 Qc4+ 32.Ke1 Qd3 33.Qb3+ Kh8 34.Rc2 Rf6
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "10"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Fine Reuben (USA)"]
@@ -261,7 +250,6 @@ Rb8 41.Kh3 e5 42.Rg1 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "8"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -284,7 +272,6 @@ Bf8 35.Ra8 Ra2+ 36.Kf3 Kg7 37.Bd4 1-0
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "13"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Keres Paul (EST)"]
@@ -308,7 +295,6 @@ Rb2 36.Ra8+ Kh7 37.Nxf7 gxh5 38.Ne5 Bc1+ 39.Kd3 Rd2+ 40.Kc3 Rg2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "12"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -332,7 +318,6 @@ Kg6 41.Rd7 Rc4+ 42.Kg3 h5 1/2-1/2
 
 [Event "Simultan"]
 [Site "Habana (Cuba)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Gelabert J A"]
@@ -355,7 +340,6 @@ Kg7 30.Rxd3 Qxd3 31.Qe5+ Kg8 32.h4 Qd1+ 33.Kh2 Qg4 34.g3 Qf3
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Corzo Jorge"]
@@ -381,7 +365,6 @@ Kf6 1/2-1/2
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Sorzano"]
@@ -407,7 +390,6 @@ Kc3 53.e5 Kd4 54.Kc2 Kxe5 0-1
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rossolimo Nicholas (RUS)"]
@@ -428,7 +410,6 @@ Nb6 25.Kd2 e5 26.dxe5 Nc4+ 27.Kc3 Nxe5 28.Rc5 Rb6 29.Bd3 1-0
 
 [Event ""]
 [Site "Paris (France)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Romi Massimiliano"]
@@ -449,7 +430,6 @@ Qg5 14.e4 dxc4 15.Qxc4 Qe7 16.Rg4 f6 17.exf6 Qxf6 18.Be3 Bd7
 
 [Event ""]
 [Site "Paris (France)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Znosko-Borovsky Eugene"]
@@ -471,7 +451,6 @@ Qd8 31.Be4 Nf8 32.Qxf7 1-0
 
 [Event ""]
 [Site "Paris (France)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Zukerman I"]
@@ -491,7 +470,6 @@ Qd8 14.Bc3 Nd7 15.Nxd7 Bxc3+ 16.Rxc3 Qxd7 17.Bb5 Qd6 18.O-O Rd8
 
 [Event "Simultan"]
 [Site "Santiago (Cuba)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Circulo Militar"]
@@ -515,7 +493,6 @@ c3 42.Qc7 Qf1+ 43.Kg3 Qg1+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Santiago (Cuba)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Uguet Dominguez Reyes"]
@@ -540,7 +517,6 @@ Kxg4 48.Kxd3 Kxh5 49.Ke4 Kg5 50.Kd5 h5 51.Kc6 0-1
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "1"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -562,7 +538,6 @@ Kxh5 30.Rxe8 Bxe8 1/2-1/2
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Najdorf Miguel (POL)"]

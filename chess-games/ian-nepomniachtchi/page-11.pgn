@@ -1,6 +1,5 @@
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.12"]
 [Round "10.4"]
 [White "Nepomniachtchi,I"]
 [Black "Ding Liren"]
@@ -14,7 +13,6 @@
 [Variation "closed, Bogolyubov variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "8603677"]
-[EventDate "2019.05.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
 d6 9. c3 Bg4 10. Be3 Bh5 11. h3 exd4 12. cxd4 d5 13. e5 Ne4 14. Nbd2 a5 15. Qb1
@@ -29,7 +27,6 @@ Kd1 Qh1+ 55. Kc2 Qxc6+ 56. Kb1 f5 57. Qxf5 1-0
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.12"]
 [Round "17.4"]
 [White "Nepomniachtchi,I"]
 [Black "Amin,B"]
@@ -43,7 +40,6 @@ Kd1 Qh1+ 55. Kc2 Qxc6+ 56. Kb1 f5 57. Qxf5 1-0
 [Variation "closed defence"]
 [WhiteFideId "4168119"]
 [BlackFideId "10601457"]
-[EventDate "2019.05.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1
 Re8 9. h3 b5 10. Bc2 Bb7 11. Nbd2 Bf8 12. a4 Nb8 13. b4 Nbd7 14. Nb3 Rb8 15.
@@ -56,7 +52,6 @@ Qd8+ Kh7 41. Qd2 f5 42. Bc2 Rb4 43. Qd5 Qf6 44. Bxf5+ g6 45. Be4 c4 46. Qxh5+ 1-
 
 [Event "Moscow FIDE Grand Prix"]
 [Site "Moscow RUS"]
-[Date "2019.05.17"]
 [Round "1.1"]
 [White "Nepomniachtchi,I"]
 [Black "Aronian,L"]
@@ -70,7 +65,6 @@ Qd8+ Kh7 41. Qd2 f5 42. Bc2 Rb4 43. Qd5 Qf6 44. Bxf5+ g6 45. Be4 c4 46. Qxh5+ 1-
 [Variation "closed, 7...O-O"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300474"]
-[EventDate "2019.05.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
 Nxd4 9. Bxf7+ Rxf7 10. Nxe5 Rf8 11. Qxd4 Bb7 12. Nc3 c5 13. Qd1 b4 14. Nd5 Nxd5
@@ -88,7 +82,6 @@ Qg5+ 1-0
 
 [Event "Moscow FIDE Grand Prix"]
 [Site "Moscow RUS"]
-[Date "2019.05.25"]
 [Round "3.6"]
 [White "Nepomniachtchi,I"]
 [Black "Wojtaszek,R"]
@@ -102,7 +95,6 @@ Qg5+ 1-0
 [Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
 [WhiteFideId "4168119"]
 [BlackFideId "1118358"]
-[EventDate "2019.05.17"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Nc3 e5 8.
 Qd3 Rc8 9. O-O h6 10. Nd2 Qc7 11. h3 Nf6 12. a4 Be7 13. Rd1 O-O 14. Nf1 d5 15.
@@ -113,7 +105,6 @@ Rb6 1-0
 
 [Event "Moscow FIDE Grand Prix"]
 [Site "Moscow RUS"]
-[Date "2019.05.22"]
 [Round "2.4"]
 [White "Nepomniachtchi,I"]
 [Black "Wei Yi"]
@@ -127,7 +118,6 @@ Rb6 1-0
 [Variation "two knights variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "8603405"]
-[EventDate "2019.05.17"]
 
 1. e4 c6 2. Nf3 d5 3. Nc3 g6 4. d4 Bg7 5. h3 dxe4 6. Nxe4 Nf6 7. Nxf6+ exf6 8.
 Bc4 O-O 9. O-O a5 10. a4 Nd7 11. Bf4 Nb6 12. Bb3 Nd5 13. Bh2 Be6 14. Re1 h5 15.
@@ -140,7 +130,6 @@ Qd6 Kg7 42. g4 hxg4 43. Kg3 Kh7 44. Kxg4 Kg7 45. Qe6 1-0
 
 [Event "Moscow FIDE Grand Prix"]
 [Site "Moscow RUS"]
-[Date "2019.05.29"]
 [Round "4.4"]
 [White "Nepomniachtchi,I"]
 [Black "Grischuk,A"]
@@ -153,7 +142,6 @@ Qd6 Kg7 42. g4 hxg4 43. Kg3 Kh7 44. Kxg4 Kg7 45. Qe6 1-0
 [Opening "Giuoco Pianissimo"]
 [WhiteFideId "4168119"]
 [BlackFideId "4126025"]
-[EventDate "2019.05.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. a4 a6 7. h3 Ba7 8. O-O h6
 9. Re1 O-O 10. Nbd2 Re8 11. b4 Be6 12. Bxe6 Rxe6 13. Qc2 Qd7 14. Nc4 d5 15. exd5
@@ -165,7 +153,6 @@ Bd4 Re7 36. Qxe7+ 1-0
 
 [Event "Armageddon: Chess for TV"]
 [Site "Moscow RUS"]
-[Date "2019.06.10"]
 [Round "1.2"]
 [White "Nepomniachtchi,I"]
 [Black "Inarkiev,E"]
@@ -179,7 +166,6 @@ Bd4 Re7 36. Qxe7+ 1-0
 [Variation "closed defence"]
 [WhiteFideId "4168119"]
 [BlackFideId "4162722"]
-[EventDate "2019.06.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
 9. Nc3 Na5 10. Ba2 Be6 11. b4 Bxa2 12. Nxa2 Nc6 13. c4 Qd7 14. Nc3 Nd4 15. Be3
@@ -196,7 +182,6 @@ Kb4 67. Rc8 Rd4 68. Kg5 Re4 69. f5 1-0
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.06.27"]
 [Round "2.2"]
 [White "Nepomniachtchi,I"]
 [Black "Caruana,F"]
@@ -210,7 +195,6 @@ Kb4 67. Rc8 Rd4 68. Kg5 Re4 69. f5 1-0
 [Variation "Pelikan (Lasker/Sveshnikov) variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "2020009"]
-[EventDate "2019.06.26"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
 exd5 Nb8 9. a4 Be7 10. Bd2 O-O 11. a5 a6 12. Na3 Nd7 13. Nc4 f5 14. Bb4 Rf6 15.
@@ -224,7 +208,6 @@ Kh7 48. c4 Bf6+ 49. Ka3 Qc2 50. Qxf6 1-0
 
 [Event "47th GM 2019"]
 [Site "Dortmund GER"]
-[Date "2019.07.14"]
 [Round "2.2"]
 [White "Nepomniachtchi,I"]
 [Black "Kulaots,K"]
@@ -238,7 +221,6 @@ Kh7 48. c4 Bf6+ 49. Ka3 Qc2 50. Qxf6 1-0
 [Variation "Najdorf, Adams attack"]
 [WhiteFideId "4168119"]
 [BlackFideId "4500261"]
-[EventDate "2019.07.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
 Be7 9. Bg2 Be6 10. a4 Nbd7 11. O-O O-O 12. Be3 Qc7 13. b3 Rfc8 14. a5 b5 15.
@@ -252,7 +234,6 @@ Kh2 Qe6 41. Qa8 Qd7 42. Rb7 Qe6 43. Qd8 g6 44. Ra7 Kg7 45. Re7 Qa2 46. Kg2 Qc4
 
 [Event "47th GM 2019"]
 [Site "Dortmund GER"]
-[Date "2019.07.20"]
 [Round "6.2"]
 [White "Nepomniachtchi,I"]
 [Black "Nisipeanu,LD"]
@@ -266,7 +247,6 @@ Kh2 Qe6 41. Qa8 Qd7 42. Rb7 Qe6 43. Qd8 g6 44. Ra7 Kg7 45. Re7 Qa2 46. Kg2 Qc4
 [Variation "Nimzovich attack"]
 [WhiteFideId "4168119"]
 [BlackFideId "1202758"]
-[EventDate "2019.07.13"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
 Qd2 Qe8 9. h4 Qa4 10. h5 h6 11. Bd3 Re8 12. Kf1 Bf8 13. Nd4 Qd7 14. Rh3 Nc6 15.
@@ -275,7 +255,6 @@ Rg3 Kh8 16. Nxc6 bxc6 17. Bd4 Re6 18. Qf4 Qe8 19. Re3 1-0
 
 [Event "GCT Rapid Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.29"]
 [Round "9.4"]
 [White "Nepomniachtchi,I"]
 [Black "Duda,J"]
@@ -289,7 +268,6 @@ Rg3 Kh8 16. Nxc6 bxc6 17. Bd4 Re6 18. Qf4 Qe8 19. Re3 1-0
 [Variation "Nimzovich attack"]
 [WhiteFideId "4168119"]
 [BlackFideId "1170546"]
-[EventDate "2019.07.27"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
 Qd2 Nd7 9. O-O-O Nf6 10. Bd3 c5 11. Rhe1 Be6 12. Kb1 Qa5 13. c4 Qxd2 14. Bxd2 h6
@@ -305,7 +283,6 @@ Bb5 55. Nd6 Bc6 56. Nc4 Nf3 57. Bf6 Bd5 58. Ne5+ Nxe5 59. Kxe5 Bf3 60. Kd6 Kf7
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "6.1"]
 [White "Nepomniachtchi,I"]
 [Black "Dubov,Daniil"]
@@ -319,7 +296,6 @@ Bb5 55. Nd6 Bc6 56. Nc4 Nf3 57. Bf6 Bd5 58. Ne5+ Nxe5 59. Kxe5 Bf3 60. Kd6 Kf7
 [Variation "accelerated fianchetto, modern variation with Bc4"]
 [WhiteFideId "4168119"]
 [BlackFideId "24126055"]
-[EventDate "2019.07.31"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
 Bb3 Re8 9. f3 e6 10. O-O d5 11. exd5 Nxd5 12. Nxd5 exd5 13. Bf2 Qg5 14. Kh1 Be6
@@ -329,7 +305,6 @@ Qxb4 22. Qb1 Nd3 23. Qxd3 Bxa1 24. Rxa1 bxc4 25. Qxc4 Qb2 26. Rg1 Re7 27. Bh4 1-
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "10.4"]
 [White "Nepomniachtchi,I"]
 [Black "Caruana,F"]
@@ -343,7 +318,6 @@ Qxb4 22. Qb1 Nd3 23. Qxd3 Bxa1 24. Rxa1 bxc4 25. Qxc4 Qb2 26. Rg1 Re7 27. Bh4 1-
 [Variation "Winawer, Petrosian variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "2020009"]
-[EventDate "2019.07.31"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 f5 8. Qg3
 Nc6 9. h4 Bb7 10. Nh3 O-O-O 11. Nf4 Qf7 12. a4 Nge7 13. Ba3 Rdg8 14. Be2 Na5 15.
@@ -357,7 +331,6 @@ Rg5 48. Qe6+ Kb7 49. f6 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "14.3"]
 [White "Nepomniachtchi,I"]
 [Black "Vachier Lagrave,M"]
@@ -371,7 +344,6 @@ Rg5 48. Qe6+ Kb7 49. f6 1-0
 [Variation "closed"]
 [WhiteFideId "4168119"]
 [BlackFideId "623539"]
-[EventDate "2019.07.31"]
 
 1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. O-O e6 7. d4 cxd4 8. Nb5 a6
 9. Nbxd4 Nge7 10. Bb3 O-O 11. c3 Nxd4 12. Nxd4 e5 13. Nf3 Qc7 14. fxe5 dxe5 15.
@@ -381,7 +353,6 @@ Kh7 22. Qf7 1-0
 
 [Event "Levitov Chess Week Blitz"]
 [Site "Amsterdam NED"]
-[Date "2019.08.03"]
 [Round "5.3"]
 [White "Nepomniachtchi,I"]
 [Black "Gelfand,B"]
@@ -395,7 +366,6 @@ Kh7 22. Qf7 1-0
 [Variation "Pelikan (Lasker/Sveshnikov) variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "2805677"]
-[EventDate "2019.08.03"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
 exd5 Nb8 9. Bd2 Be7 10. a4 O-O 11. a5 Bf5 12. Bb4 a6 13. Na3 Nd7 14. Nc4 Qc7 15.
@@ -409,7 +379,6 @@ Kxg7 41. Qxe7+ Qf7 42. Qxd6 Rh5 43. Bc3 Rf5 44. f4 Kh7 45. Ne3 Ne8 46. Qd4 Rxf4
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.05"]
 [Round "5.4"]
 [White "Nepomniachtchi,I"]
 [Black "Anand,V"]
@@ -422,7 +391,6 @@ Kxg7 41. Qxe7+ Qf7 42. Qxd6 Rh5 43. Bc3 Rf5 44. f4 Kh7 45. Ne3 Ne8 46. Qd4 Rxf4
 [Opening "English, Kramnik-Shirov counterattack"]
 [WhiteFideId "4168119"]
 [BlackFideId "5000017"]
-[EventDate "2019.08.04"]
 
 1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4. d4 exd4 5. Qxd4 Nf6 6. Nxe7 Qxe7 7. Bg5 Nc6 8.
 Qc3 Ne5 9. Nf3 d6 10. Nxe5 Qxe5 11. Qxe5+ dxe5 12. g3 Be6 13. b3 Ne4 14. Be3
@@ -434,7 +402,6 @@ Bxf6 1-0
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.06"]
 [Round "7.3"]
 [White "Nepomniachtchi,I"]
 [Black "Bareev,E"]
@@ -448,7 +415,6 @@ Bxf6 1-0
 [Variation "Agincourt variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "4100140"]
-[EventDate "2019.08.04"]
 
 1. c4 e6 2. Nf3 d5 3. e3 Nf6 4. Nc3 a6 5. b3 c5 6. Bb2 Nc6 7. cxd5 exd5 8. d4
 Bd6 9. Be2 O-O 10. O-O cxd4 11. Nxd4 Re8 12. Bf3 Ne5 13. Bxd5 Neg4 14. Nf3 Nxh2
@@ -457,7 +423,6 @@ Bd6 9. Be2 O-O 10. O-O cxd4 11. Nxd4 Re8 12. Bf3 Ne5 13. Bxd5 Neg4 14. Nf3 Nxh2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.21"]
 [Round "5.5"]
 [White "Nepomniachtchi,I"]
 [Black "Nakamura,Hi"]
@@ -471,7 +436,6 @@ Bd6 9. Be2 O-O 10. O-O cxd4 11. Nxd4 Re8 12. Bf3 Ne5 13. Bxd5 Neg4 14. Nf3 Nxh2
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "4168119"]
 [BlackFideId "2016192"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5
 Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ 11. Nd2 Nc6 12. O-O Be7 13. Rc1 Qb6 14. Qc2 Nb4
@@ -488,7 +452,6 @@ Kf6 67. Kc5 Kf5 68. Kb5 Ke4 69. Bxb4 1-0
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.25"]
 [Round "8.4"]
 [White "Nepomniachtchi,I"]
 [Black "Aronian,L"]
@@ -501,7 +464,6 @@ Kf6 67. Kc5 Kf5 68. Kb5 Ke4 69. Bxb4 1-0
 [Opening "Giuoco Pianissimo"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300474"]
-[EventDate "2019.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 a6 7. Re1 Ba7 8. Bb3
 O-O 9. h3 Re8 10. Nbd2 Be6 11. Ba4 b5 12. Bc2 h6 13. Nf1 d5 14. exd5 Bxd5 15.
@@ -516,7 +478,6 @@ Qh5+ Kf8 54. Qf3+ 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.04"]
 [Round "1.5"]
 [White "Nepomniachtchi,I"]
 [Black "Danielian,E"]
@@ -530,7 +491,6 @@ Qh5+ Kf8 54. Qf3+ 1-0
 [Variation "four knights, kingside fianchetto"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300210"]
-[EventDate "2019.09.02"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. Nd5 Re8 7. O-O Bf8 8. d3
 h6 9. Nd2 d6 10. b3 a5 11. Bb2 Be6 12. a3 Bxd5 13. cxd5 Ne7 14. e4 c6 15. dxc6
@@ -541,7 +501,6 @@ Nxg6 29. Rxf7 Qxf7 30. Bd5 Ra7 31. Nxg6 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.04"]
 [Round "1.11"]
 [White "Nepomniachtchi,I"]
 [Black "Danielian,E"]
@@ -555,7 +514,6 @@ Nxg6 29. Rxf7 Qxf7 30. Bd5 Ra7 31. Nxg6 1-0
 [Variation "advance variation"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300210"]
-[EventDate "2019.09.02"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 Nd7 6. Be2 Ne7 7. Nh4 Be4 8. Nd2 c5
 9. O-O Nc6 10. g3 Be7 11. Nxe4 dxe4 12. Ng2 cxd4 13. cxd4 Nb6 14. Be3 O-O 15.
@@ -567,7 +525,6 @@ Rf5 22. Qc2 Rh5 23. h3 Rf8 24. Qxe4 Nf4 25. Bxf4 Rxf4 26. Qe3 Nxd4 27. Rac1 h6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.04"]
 [Round "1.9"]
 [White "Nepomniachtchi,I"]
 [Black "Danielian,E"]
@@ -581,7 +538,6 @@ Rf5 22. Qc2 Rh5 23. h3 Rf8 24. Qxe4 Nf4 25. Bxf4 Rxf4 26. Qe3 Nxd4 27. Rac1 h6
 [Variation "symmetrical, four knights system"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300210"]
-[EventDate "2019.09.02"]
 
 1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. e3 e6 5. d4 d5 6. a3 a6 7. dxc5 Bxc5 8. b4 Be7
 9. cxd5 exd5 10. Bb2 O-O 11. Be2 Re8 12. O-O Be6 13. Rc1 Rc8 14. h3 Bd6 15. Bd3
@@ -593,7 +549,6 @@ h4 Be6 36. f3 Bd7 37. Bg6 Be8 38. Bc5+ Kd7 39. Bc2 Bf7 40. g6 Be6 41. Bf8 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.04"]
 [Round "1.7"]
 [White "Nepomniachtchi,I"]
 [Black "Danielian,E"]
@@ -606,7 +561,6 @@ h4 Be6 36. f3 Bd7 37. Bg6 Be8 38. Bc5+ Kd7 39. Bc2 Bf7 40. g6 Be6 41. Bf8 1-0
 [Opening "English opening"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300210"]
-[EventDate "2019.09.02"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 g6 5. Nf3 Bg7 6. d4 exd4 7. Nxd4 O-O 8. O-O
 Re8 9. Nxc6 bxc6 10. b3 Qe7 11. Bb2 a5 12. Qc2 Bb7 13. Rfe1 d6 14. Na4 Nd7 15.
@@ -618,7 +572,6 @@ Rxc6 Bc4 35. Rxc7 Kg8 36. Rd1 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.04"]
 [Round "1.13"]
 [White "Nepomniachtchi,I"]
 [Black "Danielian,E"]
@@ -631,7 +584,6 @@ Rxc6 Bc4 35. Rxc7 Kg8 36. Rd1 1-0
 [Opening "Reti accepted"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300210"]
-[EventDate "2019.09.02"]
 
 1. Nf3 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. O-O c5 6. Nc3 a6 7. d4 b5 8. Be2
 Bb7 9. b3 Nbd7 10. Bb2 Be7 11. dxc5 Bxc5 12. Nd4 O-O 13. Rc1 Rc8 14. Rc2 Qe7 15.
@@ -642,7 +594,6 @@ a4 b4 16. Nb1 Rfd8 17. Nd2 Ne5 18. Qa1 Bd6 19. Rxc8 Rxc8 20. h3 h6 21. Rc1 Rc7
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.04"]
 [Round "1.21"]
 [White "Nepomniachtchi,I"]
 [Black "Danielian,E"]
@@ -655,7 +606,6 @@ a4 b4 16. Nb1 Rfd8 17. Nd2 Ne5 18. Qa1 Bd6 19. Rxc8 Rxc8 20. h3 h6 21. Rc1 Rc7
 [Opening "Bird's opening"]
 [WhiteFideId "4168119"]
 [BlackFideId "13300210"]
-[EventDate "2019.09.02"]
 
 1. f4 d5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d3 c5 7. Qe1 Nc6 8. e4
 dxe4 9. dxe4 e5 10. Nc3 exf4 11. Bxf4 Re8 12. h3 Nh5 13. Rd1 Qa5 14. Bd6 Nd4 15.

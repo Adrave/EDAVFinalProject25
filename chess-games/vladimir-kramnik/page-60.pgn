@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1993.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -23,7 +22,6 @@ Ke6 36.Kc3 Nd6 37.Kd3 a4 38.Kc3 a3 39.Rc6 Kd7 40.Ra6 Nc4 41.Kb4 1-0
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Abramovic Bosko (SCG)"]
@@ -44,7 +42,6 @@ cxd4 19.Qb3 Bxf8 20.Bxg6 b4 21.Bh7+ Kg7 22.Rxd4 Bc5 23.Rd7 Be7
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gurevich Ilya (USA)"]
@@ -65,7 +62,6 @@ Nd8 26.Qb4+ Kd7 27.d5 Qg4 28.dxc6+ Nxc6 29.Rfd1+ Kc8 30.Qb6 1-0
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -90,7 +86,6 @@ g5 43.d6 Qxd6 44.Qg8+ Kh6 45.Rd8 Qb4 46.hxg5+ fxg5 47.Rad2 Rg6
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -116,7 +111,6 @@ Kf8 53.Re7 h5 54.Rxe3 1-0
 
 [Event "Match"]
 [Site "Cannes (France)"]
-[Date "1993.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -139,7 +133,6 @@ Qd3 31.e4 Qxd4+ 32.Be3 Qd8 33.Bxh6 Qf8 34.Be3 Qe8 35.Qg4 Kh7
 
 [Event "Match"]
 [Site "Cannes (France)"]
-[Date "1993.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -168,7 +161,6 @@ Kb3 70.Nb6 Rh8 71.Kc6 Rg8 72.Kb5 1-0
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1993.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Serper Grigory (USA)"]
@@ -189,7 +181,6 @@ Qc7 20.g4 Nf8 21.g5 hxg5 22.fxg5 Be7 23.e4 dxe4 24.Qxe4 Rad8
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Daillet Emmanuel (FRA)"]
@@ -211,7 +202,6 @@ Qe2 25.Rfe1 Qb2 26.d5 Qb3 27.dxe6 Qxe6 28.Rad1 Kh7 29.Rd6 Qc4
 
 [Event "Bundesliga 1992/93"]
 [Site "Germany"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Haba Petr (CZE)"]
@@ -233,7 +223,6 @@ Kf7 30.Kb2 Ke7 31.Kc3 Kd7 32.Rb5 g5 33.Kb4 h5 34.Rb7+ Kc8 35.Rf7 1-0
 
 [Event "Bundesliga 1992/93"]
 [Site "Germany"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lutz Christopher (GER)"]
@@ -255,7 +244,6 @@ Rd8 32.Nh5 Bxd4 33.Rd2 Bxf2+ 34.Rxf2 Qxd1+ 35.Rxd1 Rxd1+ 36.Kg2 1-0
 
 [Event "Bundesliga 1993/94"]
 [Site "Germany"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -280,7 +268,6 @@ Qc1+ 42.Kh2 Kf6 43.Raxa7 Kxf5 44.Rxe7 g5 45.f3 h5 46.Rf7+ Kg6
 
 [Event "Ch World (qual) (PCA)"]
 [Site "Groningen (Netherlands)"]
-[Date "1993.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Hodgson Julian M (ENG)"]
@@ -302,7 +289,6 @@ Nd5 30.b4 Ra8 31.Bc6 Rc8 32.b5 e4 1-0
 
 [Event "Ch World (qual) (PCA)"]
 [Site "Groningen (Netherlands)"]
-[Date "1993.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kaidanov Gregory S (USA)"]
@@ -324,7 +310,6 @@ Ke8 30.Ba4+ Kf7 31.Qd8 1-0
 
 [Event "Ch World (qual) (PCA)"]
 [Site "Groningen (Netherlands)"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -346,7 +331,6 @@ Nd5 1-0
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -372,7 +356,6 @@ Ke6 53.Ng3 1-0
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -397,7 +380,6 @@ Ne4+ 47.Kg2 h4 48.Kf3 Nd2+ 49.Kg4 Ne4 50.b5 Nf2+ 51.Kf5 1-0
 
 [Event "Ch World (team)"]
 [Site "Lucerne (Switzerland)"]
-[Date "1993.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Nogueiras Jesus (CUB)"]
@@ -421,7 +403,6 @@ exf4 42.Nxb8 Qd6 43.Nc6 Rc8 44.Qxb5 1-0
 
 [Event "It"]
 [Site "Madrid (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -445,7 +426,6 @@ Bxd8 42.Bxd8 f5 43.gxf5 Bxf5 44.Bf6 Ke6 45.Bg7 h5 46.Bc4+ 1-0
 
 [Event "It"]
 [Site "Madrid (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Salov Valery (RUS)"]
@@ -468,7 +448,6 @@ fxe4 31.Rd2 Qa8 32.Qg5+ Kh8 33.Qf6+ Kg8 34.h4 c3 35.bxc3 Qb7
 
 [Event "It"]
 [Site "Pamplona (Spain)"]
-[Date "1993.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Damljanovic Branko (SCG)"]
@@ -497,7 +476,6 @@ Rxc4 66.Nxc4+ Kd4 67.exf5 Nxd5 68.Kg4 Nc5 69.Kxg5 Nd7 70.h4 Ne7
 
 [Event "Match"]
 [Site "Cannes match"]
-[Date "1993.??.??"]
 [Round "2"]
 [White "Kramnik, Vladimir"]
 [Black "Lautier, Joel"]
@@ -516,7 +494,6 @@ Rxc6 26. Rxa5 c3 27. Ra1 c2 28. Rc1 Rb8 29. Nd2 a5 30. Kf1 a4 31. Ke2 a3
 
 [Event "Cannes m"]
 [Site "Cannes FRA"]
-[Date "1993.??.??"]
 [Round "6"]
 [White "Kramnik, Vladimir"]
 [Black "Lautier, Joel"]
@@ -541,7 +518,6 @@ Kd2 67. Kd6 Re8 68. c7 Kc3 69. Nd7 Kb3 70. Nb6 Rh8 71. Kc6 Rg8 72. Kb5 1-0
 
 [Event "Alcobendas m"]
 [Site "Alcobendas"]
-[Date "1993.??.??"]
 [Round "4"]
 [White "Kramnik, Vladimir"]
 [Black "Illescas Cordoba, Miguel"]
@@ -561,7 +537,6 @@ Rb6 Bxd3 27. Qxd3 Rae8 28. Rxe8 Rxe8 29. h3 Re6 30. Kh2 Qg6 31. Qd2 Qe4
 
 [Event "AUT Team Ch"]
 [Site "?"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Kramnik, Vladimir"]
 [Black "Mokry, Karel"]

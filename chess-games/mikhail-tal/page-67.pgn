@@ -1,13 +1,11 @@
 [Event "43rd USSR Championship"]
 [Site "Yerevan ARM"]
-[Date "1975.12.??"]
 [Round "4"]
 [White "Mikhail Tal"]
 [Black "Lev Polugaevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A17"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Match"]
 [Site "Stockholm SWE"]
-[Date "1976.02.??"]
 [Round "3"]
 [White "Mikhail Tal"]
 [Black "Ulf Andersson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B83"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -41,14 +37,12 @@
 
 [Event "Chigorin Memorial 9th"]
 [Site "Sochi URS"]
-[Date "1973.09.??"]
 [Round "9"]
 [White "Mikhail Tal"]
 [Black "Artur Hennings"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -64,14 +58,12 @@
 
 [Event "LAT-RUS"]
 [Site "Riga"]
-[Date "1973.11.??"]
 [Round "6"]
 [White "Mikhail Tal"]
 [Black "Orest Averkin"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -84,14 +76,12 @@
 
 [Event "Dubna"]
 [Site "Dubna URS"]
-[Date "1973.12.??"]
 [Round "9"]
 [White "Mikhail Tal"]
 [Black "Evgeni Vasiukov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D42"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -103,14 +93,12 @@
 
 [Event "Dubna"]
 [Site "Dubna URS"]
-[Date "1973.12.??"]
 [Round "14"]
 [White "Mikhail Tal"]
 [Black "Orest Averkin"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D56"]
-[EventDate "????.??.??"]
 [PlyCount "36"]
 [WhiteElo "?"]
 
@@ -122,14 +110,12 @@
 
 [Event "Dubna"]
 [Site "Dubna URS"]
-[Date "1973.12.13"]
 [Round "7"]
 [White "Mikhail Tal"]
 [Black "Anatoly S Lutikov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C72"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -141,14 +127,12 @@
 
 [Event "Belgrade-Moscow"]
 [Site "Belgrade YUG"]
-[Date "1974.11.??"]
 [Round "5"]
 [White "Mikhail Tal"]
 [Black "Ljubomir Ljubojevic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -160,14 +144,12 @@
 
 [Event "Belgrade-Moscow"]
 [Site "Belgrade YUG"]
-[Date "1974.11.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Milan Matulovic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B47"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -181,14 +163,12 @@
 
 [Event "URS"]
 [Site "URS"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Leonid Stein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B14"]
-[EventDate "????.??.??"]
 [PlyCount "104"]
 [WhiteElo "?"]
 
@@ -206,14 +186,12 @@
 
 [Event "Chess Olympiad Final-A"]
 [Site "Skopje MKD"]
-[Date "1972.10.02"]
 [Round "6"]
 [White "Mikhail Tal"]
 [Black "Krzysztof Pytel"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -229,14 +207,12 @@
 
 [Event "Marseille"]
 [Site "04"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Eric Lobron"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -249,14 +225,12 @@
 
 [Event "Sevilla"]
 [Site "Sevilla"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Antonio Palacios"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -271,14 +245,12 @@
 
 [Event "Skelleftea World Cup"]
 [Site "Skelleftea SWE"]
-[Date "1989.08.??"]
 [Round "8"]
 [White "Mikhail Tal"]
 [Black "Predrag Nikolic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -290,14 +262,12 @@
 
 [Event "02, New York rapid"]
 [Site "02, New York rapid"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Roman Dzindzichashvili"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B27"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -314,14 +284,12 @@
 
 [Event "Moscow GMA-qual f"]
 [Site "Moscow URS"]
-[Date "1990.06.??"]
 [Round "11"]
 [White "Mikhail Tal"]
 [Black "Viktor Gavrikov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "27"]
 [WhiteElo "?"]
 
@@ -332,14 +300,12 @@
 
 [Event "Moscow4"]
 [Site "Moscow URS"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Eldar Kamilyevich Mukhametov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -355,14 +321,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1986.09.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Yuri Rafailovich Yakovich"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -375,14 +339,12 @@
 
 [Event "St del Esterol"]
 [Site "03"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Miguel A Quinteros"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E80"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -397,14 +359,12 @@
 
 [Event "URS"]
 [Site "URS"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Jose Luis Fernandez Garcia"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B03"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -418,14 +378,12 @@
 
 [Event "clock simul"]
 [Site "Riga LAT"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Ilja Gervics"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E98"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "?"]
 
@@ -443,14 +401,12 @@
 
 [Event "SWIFT Tournament 2nd"]
 [Site "Brussels BEL"]
-[Date "1987.04.10"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Ljubomir Ljubojevic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "25"]
 [WhiteElo "?"]
 
@@ -461,14 +417,12 @@
 
 [Event "Subotica Interzonal"]
 [Site "Subotica YUG"]
-[Date "1987.06.??"]
 [Round "5"]
 [White "Mikhail Tal"]
 [Black "Lev Alburt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -479,14 +433,12 @@
 
 [Event "Jurmala"]
 [Site "Jurmala"]
-[Date "1987.09.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Aivars Gipslis"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "????.??.??"]
 [PlyCount "30"]
 [WhiteElo "?"]
 
@@ -498,14 +450,12 @@
 
 [Event "Lvov"]
 [Site "Lvov URS"]
-[Date "1984.02.??"]
 [Round "11"]
 [White "Mikhail Tal"]
 [Black "Adrian Mikhalchishin"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D82"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 

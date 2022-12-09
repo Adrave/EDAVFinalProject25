@@ -1,6 +1,5 @@
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.26"]
 [Round "8.2"]
 [White "Grischuk, A."]
 [Black "Mamedyarov, S."]
@@ -9,7 +8,6 @@
 [WhiteElo "2742"]
 [BlackElo "2766"]
 [PlyCount "120"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -29,7 +27,6 @@ Kd5 59. Rd7+ Ke4 60. Rd1 Rc2 1-0
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.22"]
 [Round "5.4"]
 [White "Grischuk, A."]
 [Black "Eljanov, P."]
@@ -38,7 +35,6 @@ Kd5 59. Rd7+ Ke4 60. Rd1 Rc2 1-0
 [WhiteElo "2742"]
 [BlackElo "2759"]
 [PlyCount "97"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -56,7 +52,6 @@ Rb2 47. b7 Kg7 48. e5 g4 49. e6 1-0
 
 [Event "TCh-RUS Men 2017"]
 [Site "Sochi RUS"]
-[Date "2017.05.01"]
 [Round "1.1"]
 [White "Grischuk, A."]
 [Black "Timofeev, Arty"]
@@ -65,7 +60,6 @@ Rb2 47. b7 Kg7 48. e5 g4 49. e6 1-0
 [WhiteElo "2750"]
 [BlackElo "2555"]
 [PlyCount "59"]
-[EventDate "2017.05.01"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -81,7 +75,6 @@ Nxg6 22. Bxg5 Bc8 23. Rh7 Nxd3 24. Qxd3 Ne5 25. Qg3 Ng6 26. Bc1 b5 27. a3 Ka8
 
 [Event "TCh-RUS Men 2017"]
 [Site "Sochi RUS"]
-[Date "2017.05.08"]
 [Round "6.2"]
 [White "Grischuk, A."]
 [Black "Alekseenko, K."]
@@ -90,7 +83,6 @@ Nxg6 22. Bxg5 Bc8 23. Rh7 Nxd3 24. Qxd3 Ne5 25. Qg3 Ng6 26. Bc1 b5 27. a3 Ka8
 [WhiteElo "2750"]
 [BlackElo "2585"]
 [PlyCount "79"]
-[EventDate "2017.05.01"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -108,7 +100,6 @@ Ne6 35. Ne4 Rg8 36. Nf3 Qf8 37. Nfg5 Nxg5 38. Nxg5 Rg7 39. fxg7+ Qxg7 40. Nxf7+
 
 [Event "TCh-RUS Men 2017"]
 [Site "Sochi RUS"]
-[Date "2017.05.05"]
 [Round "4.3"]
 [White "Grischuk, A."]
 [Black "Grachev, B."]
@@ -117,7 +108,6 @@ Ne6 35. Ne4 Rg8 36. Nf3 Qf8 37. Nfg5 Nxg5 38. Nxg5 Rg7 39. fxg7+ Qxg7 40. Nxf7+
 [WhiteElo "2750"]
 [BlackElo "2658"]
 [PlyCount "83"]
-[EventDate "2017.05.01"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -135,7 +125,6 @@ Rb6+ Kg5 41. Qxe5+ Bf5 42. Bxf5 1-0
 
 [Event "TCh-RUS Men 2017"]
 [Site "Sochi RUS"]
-[Date "2017.05.04"]
 [Round "3.2"]
 [White "Grischuk, A."]
 [Black "Rodshtein, M."]
@@ -144,7 +133,6 @@ Rb6+ Kg5 41. Qxe5+ Bf5 42. Bxf5 1-0
 [WhiteElo "2750"]
 [BlackElo "2698"]
 [PlyCount "81"]
-[EventDate "2017.05.01"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -162,7 +150,6 @@ Rxa7 b5 41. h5 1-0
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.24"]
 [Round "8.1"]
 [White "Grischuk, A."]
 [Black "Bacrot, E."]
@@ -171,7 +158,6 @@ Rxa7 b5 41. h5 1-0
 [WhiteElo "2761"]
 [BlackElo "2708"]
 [PlyCount "61"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -186,7 +172,6 @@ Qd2 Bf5 16. Bb2 Re8 17. Rad1 Be4 18. b5 Na5 19. Qb4 d3 20. exd3 Bd5 21. Qg4 f6
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.25"]
 [Round "10.3"]
 [White "Grischuk, A."]
 [Black "Topalov, V."]
@@ -195,7 +180,6 @@ Qd2 Bf5 16. Bb2 Re8 17. Rad1 Be4 18. b5 Na5 19. Qb4 d3 20. exd3 Bd5 21. Qg4 f6
 [WhiteElo "2761"]
 [BlackElo "2749"]
 [PlyCount "83"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -212,7 +196,6 @@ Rxh6+ Kf5 40. Rc6 Rb1 41. Rc5+ Kf6 42. Rgxg5 1-0
 
 [Event "GCT Rapid Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.23"]
 [Round "7.2"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -221,7 +204,6 @@ Rxh6+ Kf5 40. Rc6 Rb1 41. Rc5+ Kf6 42. Rgxg5 1-0
 [WhiteElo "2761"]
 [BlackElo "2808"]
 [PlyCount "75"]
-[EventDate "2017.06.21"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -237,7 +219,6 @@ g6 22. Rf2 Qb6 23. Raf1 b4 24. axb4 Qxb4 25. Nhg5 Qb6 26. Kh1 h6 27. Bxg6 Kg7
 
 [Event "GCT Rapid Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.23"]
 [Round "9.1"]
 [White "Grischuk, A."]
 [Black "Mamedyarov, S."]
@@ -246,7 +227,6 @@ g6 22. Rf2 Qb6 23. Raf1 b4 24. axb4 Qxb4 25. Nhg5 Qb6 26. Kh1 h6 27. Bxg6 Kg7
 [WhiteElo "2761"]
 [BlackElo "2800"]
 [PlyCount "87"]
-[EventDate "2017.06.21"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -263,7 +243,6 @@ Qd2 Qb1 41. Kf2 Bd3 42. Kg3 Bg6 43. Qe2 Bd3 44. Qd1 1-0
 
 [Event "Geneva Grand Prix 2017"]
 [Site "Geneva SUI"]
-[Date "2017.07.07"]
 [Round "2.5"]
 [White "Grischuk, A."]
 [Black "Rapport, R."]
@@ -272,7 +251,6 @@ Qd2 Qb1 41. Kf2 Bd3 42. Kg3 Bg6 43. Qe2 Bd3 44. Qd1 1-0
 [WhiteElo "2761"]
 [BlackElo "2694"]
 [PlyCount "125"]
-[EventDate "2017.07.06"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "SUI"]
@@ -291,7 +269,6 @@ Ra7 54. Re6 Raf7 55. Kg1 Rf2 56. Qd1 Bf7 57. Bd5 g6 58. R6e3 Qg5 59. Bf3 Ra2
 
 [Event "CHN-RUS GM Summit 2017"]
 [Site "Jiayuguan CHN"]
-[Date "2017.07.23"]
 [Round "3"]
 [White "Grischuk, A."]
 [Black "Yu Yangyi"]
@@ -300,7 +277,6 @@ Ra7 54. Re6 Raf7 55. Kg1 Rf2 56. Qd1 Bf7 57. Bd5 g6 58. R6e3 Qg5 59. Bf3 Ra2
 [WhiteElo "2761"]
 [BlackElo "2753"]
 [PlyCount "111"]
-[EventDate "2017.07.20"]
 [EventType "match"]
 [EventRounds "4"]
 [EventCountry "CHN"]
@@ -318,7 +294,6 @@ Rb2 47. Rxc5 Rxb3 48. Rc7+ Kf8 49. Rxa7 Rc3 50. Rc7 Ke8 51. Kf4 Kd8 52. Rc6 Ke7
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.03"]
 [Round "1.1"]
 [White "Grischuk, A."]
 [Black "El Gindy, E."]
@@ -327,7 +302,6 @@ Rb2 47. Rxc5 Rxb3 48. Rc7+ Kf8 49. Rxa7 Rc3 50. Rc7 Ke8 51. Kf4 Kd8 52. Rc6 Ke7
 [WhiteElo "2788"]
 [BlackElo "2455"]
 [PlyCount "93"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -344,7 +318,6 @@ Ra7 1-0
 
 [Event "TCh-CHN 2017"]
 [Site "China CHN"]
-[Date "2017.07.28"]
 [Round "10.3"]
 [White "Grischuk, A."]
 [Black "Wang, Tongsen"]
@@ -353,7 +326,6 @@ Ra7 1-0
 [WhiteElo "2761"]
 [BlackElo "2401"]
 [PlyCount "65"]
-[EventDate "2017.04.18"]
 [EventType "team"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -369,7 +341,6 @@ Qxc4 22. Rb3 Be7 23. Kb2 Kd7 24. f5 Rc7 25. Be1 a5 26. Qf2 axb4 27. fxe6+ fxe6
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.11"]
 [Round "3.6"]
 [White "Grischuk, A."]
 [Black "Navara, D."]
@@ -378,7 +349,6 @@ Qxc4 22. Rb3 Be7 23. Kb2 Kd7 24. f5 Rc7 25. Be1 a5 26. Qf2 axb4 27. fxe6+ fxe6
 [WhiteElo "2788"]
 [BlackElo "2720"]
 [PlyCount "89"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -395,7 +365,6 @@ Qf5 1-0
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.08"]
 [Round "2.4"]
 [White "Grischuk, A."]
 [Black "Cori, J."]
@@ -404,7 +373,6 @@ Qf5 1-0
 [WhiteElo "2788"]
 [BlackElo "2648"]
 [PlyCount "63"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -418,7 +386,6 @@ Bc8 22. Rae1 Bd7 23. Nd3 Qd4 24. Bb3 Rag8 25. Rf4 Qa7 26. e5 d5 27. Bxd5 exd5
 
 [Event "33rd ECC Open 2017"]
 [Site "Antalya TUR"]
-[Date "2017.10.11"]
 [Round "4.1"]
 [White "Grischuk, A."]
 [Black "Arnaudov, G."]
@@ -427,7 +394,6 @@ Bc8 22. Rae1 Bd7 23. Nd3 Qd4 24. Bb3 Rag8 25. Rf4 Qa7 26. e5 d5 27. Bxd5 exd5
 [WhiteElo "2785"]
 [BlackElo "2441"]
 [PlyCount "57"]
-[EventDate "2017.10.08"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "TUR"]
@@ -443,7 +409,6 @@ Kg8 27. Bc3 Rf8 28. Rxb7 a6 29. Rc7 1-0
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.23"]
 [Round "2.25"]
 [White "Grischuk, A."]
 [Black "Vachier Lagrave, M."]
@@ -452,7 +417,6 @@ Kg8 27. Bc3 Rf8 28. Rxb7 a6 29. Rc7 1-0
 [WhiteElo "2750"]
 [BlackElo "2795"]
 [PlyCount "79"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -468,7 +432,6 @@ c4 bxc4 35. bxc4 Qe8 36. c5 Qd7 37. Rb6 Re8 38. Qb3+ Kh8 39. Rb7 Qd8 40. Qf7
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.23"]
 [Round "2.1"]
 [White "Grischuk, A."]
 [Black "Vachier Lagrave, M."]
@@ -477,7 +440,6 @@ c4 bxc4 35. bxc4 Qe8 36. c5 Qd7 37. Rb6 Re8 38. Qb3+ Kh8 39. Rb7 Qd8 40. Qf7
 [WhiteElo "2750"]
 [BlackElo "2795"]
 [PlyCount "135"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -497,7 +459,6 @@ Kb7 59. Kd6 Nd2 60. Nd8+ Ka6 61. Kxc6 Nxb3 62. Ne6 Nd2 63. Nc7+ Ka7 64. Kb5 Ne4
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.23"]
 [Round "2.7"]
 [White "Grischuk, A."]
 [Black "Vachier Lagrave, M."]
@@ -506,7 +467,6 @@ Kb7 59. Kd6 Nd2 60. Nd8+ Ka6 61. Kxc6 Nxb3 62. Ne6 Nd2 63. Nc7+ Ka7 64. Kb5 Ne4
 [WhiteElo "2750"]
 [BlackElo "2795"]
 [PlyCount "89"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -522,7 +482,6 @@ Kg7 34. d5 exd5 35. Rxd5 b4 36. Nd4 Kg6 37. Nb5 Rd8 38. Rc6 Kg7 39. Nxd6 Rxd6
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.23"]
 [Round "2.15"]
 [White "Grischuk, A."]
 [Black "Vachier Lagrave, M."]
@@ -531,7 +490,6 @@ Kg7 34. d5 exd5 35. Rxd5 b4 36. Nd4 Kg6 37. Nb5 Rd8 38. Rc6 Kg7 39. Nxd6 Rxd6
 [WhiteElo "2750"]
 [BlackElo "2795"]
 [PlyCount "47"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -544,7 +502,6 @@ Rxe7 15. Rd8+ Bf8 16. Ne4 Kg7 17. Nf6 Qxc2 18. Qh3 h5 19. Qg3 Qf5 20. Rfd1 b6
 
 [Event "21st European Teams"]
 [Site "Hersonissos GRE"]
-[Date "2017.11.01"]
 [Round "5.4"]
 [White "Grischuk, A."]
 [Black "Solak, D."]
@@ -553,7 +510,6 @@ Rxe7 15. Rd8+ Bf8 16. Ne4 Kg7 17. Nf6 Qxc2 18. Qh3 h5 19. Qg3 Qf5 20. Rfd1 b6
 [WhiteElo "2785"]
 [BlackElo "2626"]
 [PlyCount "131"]
-[EventDate "2017.10.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -577,7 +533,6 @@ Nd4+ 66. Kf6 1-0
 
 [Event "Champions Showdown G5"]
 [Site "Saint Louis USA"]
-[Date "2017.11.12"]
 [Round "4.2"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -586,7 +541,6 @@ Nd4+ 66. Kf6 1-0
 [WhiteElo "2782"]
 [BlackElo "2799"]
 [PlyCount "113"]
-[EventDate "2017.11.12"]
 [EventType "match (blitz)"]
 [EventRounds "12"]
 [EventCountry "USA"]
@@ -604,7 +558,6 @@ g5 48. fxg5+ hxg5 49. h5 Bd7 50. h6 Bc8 51. Bf5 Bb7+ 52. Ke3 Bg2 53. Be4 Bf1
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "15.16"]
 [White "Grischuk, Alexander"]
 [Black "Kamsky, Gata"]
@@ -612,7 +565,6 @@ g5 48. fxg5+ hxg5 49. h5 Bd7 50. h6 Bc8 51. Bf5 Bb7+ 52. Ke3 Bg2 53. Be4 Bf1
 [WhiteElo "2771"]
 [BlackElo "2666"]
 [ECO "A05"]
-[EventDate "2018.12.29"]
 
 1. Nf3 Nf6 2. g3 g6 3. c4 c6 4. b3 Bg7 5. Bb2 O-O 6. Bg2 d5 7. O-O Bg4 8. 
 d3 Bxf3 9. Bxf3 e6 10. Nd2 Nbd7 11. Qc2 a5 12. a3 Qe7 13. Bg2 Rfd8 14. e3 
@@ -623,7 +575,6 @@ Bxe5 27. Nxa5 Bxb2 28. Rxb2 Ne5 29. Qe2 Ra7 30. Nb3 Rxa4 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "9.10"]
 [White "Grischuk, Alexander"]
 [Black "Nozdrachev, Vladislav"]
@@ -631,7 +582,6 @@ Bxe5 27. Nxa5 Bxb2 28. Rxb2 Ne5 29. Qe2 Ra7 30. Nb3 Rxa4 1/2-1/2
 [WhiteElo "2771"]
 [BlackElo "2486"]
 [ECO "E05"]
-[EventDate "2018.12.29"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. d4 dxc4 7. Qc2 b6 8.
  Bg5 Nbd7 9. Bxf6 Nxf6 10. Ne5 Nd5 11. Nc6 Qd6 12. Qxc4 Bb7 13. Nxe7+ Qxe7

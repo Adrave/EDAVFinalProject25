@@ -1,13 +1,11 @@
 [Event "Simul, 7b"]
 [Site "Chicago, IL USA"]
-[Date "1893.06.05"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Herman Elson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Simul, 11b"]
 [Site "Chicago, IL USA"]
-[Date "1893.06.01"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Harry Pardee"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -41,14 +37,12 @@
 
 [Event "Simul, 19b"]
 [Site "New York, NY USA"]
-[Date "1893.09.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "John Finan Barry"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C38"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -63,14 +57,12 @@
 
 [Event "Simul, 19b"]
 [Site "New York, NY USA"]
-[Date "1893.09.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J B Wilkinson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C38"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -87,14 +79,12 @@
 
 [Event "Simul, 15b"]
 [Site "New York, NY USA"]
-[Date "1893.09.23"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Arthur Jacob Souweine"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "102"]
 [WhiteElo "?"]
 
@@ -112,14 +102,12 @@
 
 [Event "Berlin game"]
 [Site "Berlin GER"]
-[Date "1889.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Ignatz von Popiel"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -132,14 +120,12 @@
 
 [Event "Simul, 31b"]
 [Site "German-Jewish Club, New York, NY USA"]
-[Date "1938.10.12"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Robert H Zitzmann"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -152,14 +138,12 @@
 
 [Event "Simul, 23b"]
 [Site "New Rochelle, NY USA"]
-[Date "1938.11.18"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Milton J Lockwood"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -173,14 +157,12 @@
 
 [Event "Copenhagen sim"]
 [Site "Copenhagen"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "V Thoresen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C37"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -193,14 +175,12 @@
 
 [Event "Zuerich sim"]
 [Site "Zuerich"]
-[Date "1919.05.19"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Hans Johner"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -215,14 +195,12 @@
 
 [Event "Simul"]
 [Site "Elberfeld GER"]
-[Date "1919.10.11"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Erich Menge"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -237,14 +215,12 @@
 
 [Event "Simul, 26b"]
 [Site "The Hague NED"]
-[Date "1920.01.23"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Gerard Oskam"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B15"]
-[EventDate "????.??.??"]
 [PlyCount "32"]
 [WhiteElo "?"]
 
@@ -256,14 +232,12 @@
 
 [Event "Simul, 25b"]
 [Site "Amsterdam NED"]
-[Date "1920.01.31"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J Monas"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -278,14 +252,12 @@
 
 [Event "Simul, 20b"]
 [Site "Berlin GER"]
-[Date "1920.04.07"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Erwin Kipke"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -300,14 +272,12 @@
 
 [Event "Simul, 25b"]
 [Site "Amsterdam NED"]
-[Date "1920.02.09"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "C Keyzer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B56"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -322,14 +292,12 @@
 
 [Event "Madrid sim"]
 [Site "Madrid"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -344,14 +312,12 @@
 
 [Event "Simul, 30b"]
 [Site "Vienna AUT"]
-[Date "1922.02.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "A Eisenberg"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -365,14 +331,12 @@
 
 [Event "Simultaneous Exhibition"]
 [Site "Boston, MA USA"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "S M Goldstein"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -385,14 +349,12 @@
 
 [Event "Simul"]
 [Site "Leningrad URS"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Boris Koyalovich"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -406,14 +368,12 @@
 
 [Event "Simul, 31b"]
 [Site "Prague CSR"]
-[Date "1924.11.26"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Musilova"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -428,14 +388,12 @@
 
 [Event "Simul, 20b"]
 [Site "New York, NY USA"]
-[Date "1924.05.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Albert William Putnam"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -451,14 +409,12 @@
 
 [Event "Simul, 25b"]
 [Site "Lausitz GER"]
-[Date "1924.09.14"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Karstedt"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -473,14 +429,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Munich GER"]
-[Date "1925.03.14"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Ludwig Schmitt"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -497,14 +451,12 @@
 
 [Event "Simul display"]
 [Site "Leipzig GER"]
-[Date "1925.04.05"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "W Muller"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -518,14 +470,12 @@
 
 [Event "Simul, 30b"]
 [Site "Marshall CC, New York, NY USA"]
-[Date "1926.02.08"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Horace Ransom Bigelow"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 

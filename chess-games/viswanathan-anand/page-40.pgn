@@ -1,6 +1,5 @@
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2005.01.21"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -27,7 +26,6 @@ bxc4 59.Bxc4 Bc8 60.a4 Bb7 61.a5 Bc8 62.Bd3 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2005.01.29"]
 [Round "12"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -51,7 +49,6 @@ Kc6 42.Bb5+ Kd5 1-0
 
 [Event "Bundesliga 2004/05"]
 [Site "Germany"]
-[Date "2005.02.13"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Oral Tomas (CZE)"]
@@ -75,7 +72,6 @@ Be6 43.Bf6 Rc8 44.Rbe1 a4 45.Kb1 Rf5 46.Kc1 Rf4 47.Re4 Rf3 48.Rd4 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2005.02.24"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -102,7 +98,6 @@ Kd4 53.Rxc5 Kxc5 54.Kc3 Kb5 55.Kd2 f2 56.Be2+ Kb4 57.Kc2 Ka3
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2005.03.19"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -124,7 +119,6 @@ Rxe8 25.Bg3 Qe7 26.Kh1 Qc5 27.Rb5 Re1+ 28.Kh2 Qe7 29.Rb1 Rxb1
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2005.03.20"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -148,7 +142,6 @@ Bd8 43.Nd1 Ka3 44.Nb2 Be7 45.Bc3 Bf8 46.Nd3 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2005.03.21"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -170,7 +163,6 @@ Nc4 25.Qc3 Bf8 26.b3 Nb6 27.Qxe5 Rh4 28.Bxd6 Qxd6 29.Rxd6+ Bxd6
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.20"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -192,7 +184,6 @@ Qxd4 31.Qa5 Qd8 32.Bh4 Qc7 33.Bg3 Qd8 34.Bh4 Qc7 1/2-1/2
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.23"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -217,7 +208,6 @@ Rh5 47.Rf1+ Ke6 48.Bd4 bxc3 49.Rf6+ Ke7 1/2-1/2
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.25"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -237,7 +227,6 @@ Rd8 19.Rhd1 Qe5 20.Qe4 Qxe4 21.Bxe4 Rab8 22.g3 g6 23.a4 Kf8 24.Rxd8+ 1/2-1/2
 
 [Event "It \"Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.26"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Wely Loek (NED)"]
@@ -263,7 +252,6 @@ Kg5 52.Rc8 f5 53.Rg8+ Kf6 54.Kf4 Bh3 55.Rh8 1/2-1/2
 
 [Event "It \"Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2006.03.30"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -282,7 +270,6 @@ cxd4 14.Nac4 Qe6 15.Nxb6 axb6 16.cxd4 Nd5 17.f3 exf3 18.Nxf3 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Sofia (Bulgaria)"]
-[Date "2006.05.17"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -307,7 +294,6 @@ Ne4 42.Be2 Nxc3 43.Bxd1 Nxb5 44.Bxg4 Re1 45.Ne3 Nd4 46.Nc4 Rb1
 
 [Event "It (cat.20)"]
 [Site "Sofia (Bulgaria)"]
-[Date "2006.05.20"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -330,7 +316,6 @@ Rg8 31.fxe5 dxe5 32.Bg5 Qe6 33.Re1 Rxb2 34.Nh2 f4 35.Rg4 Qf5
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.25"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bu Xiangzhi (CHN)"]
@@ -353,7 +338,6 @@ Qe7 31.Rf2 Qe4+ 32.Kc1 f4 33.Bxd6 Bd4 34.Rfd2 Be3 35.Nxe3 fxe3
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.28"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -378,7 +362,6 @@ Rec7 37.Ra1 Bd7 38.Qf3 Rc2 39.Rad1 R7c4 40.Re2 Rxe2 41.Qxe2 Rc2
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.06.02"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -398,7 +381,6 @@ a3 20.Be4 axb2 21.Rb1 Rd7 22.Rxb2 Be7 23.O-O 1/2-1/2
 
 [Event "It (active)"]
 [Site "Leon (Spain)"]
-[Date "2006.06.09"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -422,7 +404,6 @@ Rxa4 42.Rf6 Kg7 1/2-1/2
 
 [Event "It (active)"]
 [Site "Leon (Spain)"]
-[Date "2006.06.09"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -442,7 +423,6 @@ c5 8.Ne2 Qxd1 9.Rxd1 Bd7 10.Nbc3 O-O-O 11.Bf4 Ne7 12.Bg3 Re8
 
 [Event "It (active)"]
 [Site "Leon (Spain)"]
-[Date "2006.06.11"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -469,7 +449,6 @@ Ra6 59.Ke4 Bc7 60.Be8 Ra8 61.Bg6 Kg5 1/2-1/2
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "2006.08.05"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Milov Vadim (SUI)"]
@@ -489,7 +468,6 @@ Be6 14.Bd5 Bxd5 15.Qxd5 Qc7 16.Bd2 Rac8 17.Rad1 Rfd8 18.Nc1 Qa5
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2006.08.17"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -511,7 +489,6 @@ Bxd5 25.Nxd5 Rxb3 26.Rab1 Rxb1 27.Rxb1 g6 28.g3 Kg7 29.Kg2 Bd8
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2006.08.18"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -536,7 +513,6 @@ Rf2+ 48.Ke1 Bxc5 49.Rxc5 Rxf3 50.Rc4 1/2-1/2
 
 [Event "Ch World (blitz)"]
 [Site "Rishon le Zion (Israel)"]
-[Date "2006.09.07"]
 [Round "15"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -561,7 +537,6 @@ Rc1 42.Ke3 Ne6 43.Bxb5 Nxc7 44.Bd3 Nd5+ 45.Kd4 Rd1 46.Rd7 Nf6
 
 [Event "Ch World (blitz)"]
 [Site "Rishon le Zion (Israel)"]
-[Date "2006.09.07"]
 [Round "12"]
 [White "Anand Viswanathan (IND)"]
 [Black "Sutovsky Emil (ISR)"]

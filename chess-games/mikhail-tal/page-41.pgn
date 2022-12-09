@@ -1,6 +1,5 @@
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Benko Pal C (USA)"]
@@ -20,7 +19,6 @@ Qc7 14.Ne5 a6 15.g4 Bd6 16.g5 hxg5 17.Nxg5 Bxe5 18.dxe5 Qxe5
 
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bilek Istvan (HUN)"]
@@ -40,7 +38,6 @@ Bg5+ 19.Kb1 b5 20.Qh5 Bf4 21.Bb3 a5 22.Nc7+ Qxc7 23.d6 1-0
 
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Foguelman Alberto (ARG)"]
@@ -65,7 +62,6 @@ fxg5 47.Qg8+ Nf8 48.Nxg5 Rf6 49.Qd5 bxc4 50.Qe5+ 1-0
 
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Porath Yosef (ISR)"]
@@ -88,7 +84,6 @@ Rxc5 24.Re1 Ng6 25.b3 Rd8 26.Rfe2 f6 27.Re8+ Rxe8 28.Rxe8+ Nf8
 
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Qvinonjes O"]
@@ -109,7 +104,6 @@ Rd8 25.R1e2 Nf5 26.Nf3 Rd6 27.Ng5 Re7 28.Rxe7 Nxe7 29.Ne6 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "4"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -139,7 +133,6 @@ Kg3 77.Qc3+ Kf2 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -162,7 +155,6 @@ Kd7 36.a3 Nc7 37.b4 h5 38.Ne2 Nd5 39.Nd4 a6 40.Nc2 Nc3+ 41.Kd3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Portisch Lajos (HUN)"]
@@ -185,7 +177,6 @@ Nxd4 36.cxb6 Nxc2+ 37.Ke2 Rd6 38.Bxb7 Rxb6 39.Bd5 Nxa3 40.Rh3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Portisch Lajos (HUN)"]
@@ -209,7 +200,6 @@ b4 42.Rc7 b3 43.g6 b2 44.g7 b1Q+ 45.Bxb1 Rxb1+ 46.Kf2 Rb8 47.Ke3 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -232,7 +222,6 @@ Rc5 30.f4 gxf4+ 31.Kxf4 Ra5 32.Rd2 Kf6 33.f3 Rf5+ 34.Ke4 Re5+
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kiriakov Petr (RUS)"]
@@ -251,7 +240,6 @@ Be7 14.Qd3 g6 15.Rfe1 Re8 16.Rxe6 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Peterson"]
@@ -272,7 +260,6 @@ Rxd8 25.Qe5 Rd4 26.b5 c3 27.Qg3+ 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Shmit Anatoly (LAT)"]
@@ -294,7 +281,6 @@ Bh3 31.Nd7+ 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Skvia H"]
@@ -316,7 +302,6 @@ Kg8 31.Nf6+ Kf8 32.Rxd5 Rxa3 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Tauve"]
@@ -339,7 +324,6 @@ Nd5 30.g5 Nd8 31.Bd6 Nc6 32.Bf8 Kxf8 33.Rh8+ Ke7 34.Rxa8 Kd6
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Zhuravlev Nikolay (LAT)"]
@@ -361,7 +345,6 @@ cxd5 31.Qg2 Qc5+ 32.Bd4 1-0
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1965.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -384,7 +367,6 @@ Bxd3 25.Ne5 Bb5 26.Bb3 Rd8 27.Ra7 f6 28.Nxc6 Bxc6 29.Ra6 Kf8
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1965.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -412,7 +394,6 @@ Kd3 64.Rh4 Kd2 65.Re4 Kc3 66.Rh4 Kd3 0-1
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1965.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -436,7 +417,6 @@ Bxc5 25.dxc5 Bd7 26.Rad1 Bc6 27.h4 Rfe8 28.f3 Kf7 29.Kf2 Rh8
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1965.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -462,7 +442,6 @@ Kd3 52.Kf4 Rd6 53.g4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1965.??.??"]
 [Round "9"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -491,7 +470,6 @@ Rxf1+ 70.Kh2 Ra1 0-1
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1965.??.??"]
 [Round "11"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -514,14 +492,12 @@ f6 37.Bf2 cxd3 38.Bxd3 Ne5 39.Bf1 Ng5 40.Kh1 Nxe4 41.Rc1 0-1
 
 [Event "Tal - Larsen Candidates Semifinal"]
 [Site "Bled YUG"]
-[Date "1965.08.03"]
 [Round "8"]
 [White "Mikhail Tal"]
 [Black "Bent Larsen"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "1965.07.23"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -537,14 +513,12 @@ f6 37.Bf2 cxd3 38.Bxd3 Ne5 39.Bf1 Ng5 40.Kh1 Nxe4 41.Rc1 0-1
 
 [Event "Spassky - Tal Candidates Final"]
 [Site "Tbilisi URS"]
-[Date "1965.11.10"]
 [Round "5"]
 [White "Mikhail Tal"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "1965.11.01"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -560,14 +534,12 @@ f6 37.Bf2 cxd3 38.Bxd3 Ne5 39.Bf1 Ng5 40.Kh1 Nxe4 41.Rc1 0-1
 
 [Event "Tal - Portisch Candidates Quarterfinal"]
 [Site "Bled YUG"]
-[Date "1965.07.05"]
 [Round "6"]
 [White "Mikhail Tal"]
 [Black "Lajos Portisch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "1965.06.26"]
 [PlyCount "80"]
 [WhiteElo "?"]
 

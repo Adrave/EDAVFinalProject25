@@ -5,7 +5,6 @@
 [BlackFideId "24116068"]
 [Result "1-0"]
 [Round "03"]
-[Date "Fri Nov 22 2019"]
 [WhiteClock "0:09:42"]
 [BlackClock "0:04:10"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "5007003"]
 [Result "1-0"]
 [Round "20"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:02:05"]
 [BlackClock "0:00:27"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "24"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:01:28"]
 [BlackClock "0:00:06"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "4189302"]
 [Result "1-0"]
 [Round "07"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:03:20"]
 [BlackClock "0:00:13"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "4114060"]
 [Result "1-0"]
 [Round "01"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:01:05"]
 [BlackClock "0:00:40"]
 
@@ -75,7 +70,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.20"]
 [Round "3"]
 [White "Nakamura,Hi"]
 [Black "Roberson,P"]
@@ -85,7 +79,6 @@
 [BlackTeam "U.K. Lions"]
 [BlackTitle "IM"]
 [ECO "A05"]
-[EventDate "2020.01.06"]
 [Opening "Reti opening"]
 [WhiteElo "2736"]
 [WhiteFideId "2016192"]
@@ -104,7 +97,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.20"]
 [Round "3"]
 [White "Nakamura,Hi"]
 [Black "Palliser,R"]
@@ -114,7 +106,6 @@
 [BlackTeam "U.K. Lions"]
 [BlackTitle "IM"]
 [ECO "A04"]
-[EventDate "2020.01.06"]
 [Opening "Reti opening"]
 [WhiteElo "2736"]
 [WhiteFideId "2016192"]
@@ -131,7 +122,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "Nakamura,Hi"]
 [Black "So,W"]
@@ -141,7 +131,6 @@
 [BlackTeam "Saint Louis Arch Bishops"]
 [BlackTitle "GM"]
 [ECO "C26"]
-[EventDate "2020.01.06"]
 [Opening "Vienna"]
 [Variation "Paulsen-Mieses variation"]
 [WhiteElo "2736"]
@@ -164,7 +153,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "Nakamura,Hi"]
 [Black "Caruana,F"]
@@ -174,7 +162,6 @@
 [BlackTeam "Saint Louis Arch Bishops"]
 [BlackTitle "GM"]
 [ECO "C28"]
-[EventDate "2020.01.06"]
 [Opening "Vienna game"]
 [WhiteElo "2736"]
 [WhiteFideId "2016192"]
@@ -198,7 +185,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "Nakamura,Hi"]
 [Black "Bruzon Batista,L"]
@@ -208,7 +194,6 @@
 [BlackTeam "Chicago Wind"]
 [BlackTitle "GM"]
 [ECO "A05"]
-[EventDate "2020.01.06"]
 [Opening "Reti opening"]
 [WhiteElo "2736"]
 [WhiteFideId "2016192"]
@@ -229,7 +214,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "Nakamura,Hi"]
 [Black "Robson,R"]
@@ -239,7 +223,6 @@
 [BlackTeam "Chicago Wind"]
 [BlackTitle "GM"]
 [ECO "A06"]
-[EventDate "2020.01.06"]
 [Opening "Reti opening"]
 [WhiteElo "2736"]
 [WhiteFideId "2016192"]
@@ -270,7 +253,6 @@
 [BlackElo "2767"]
 [Result "1/2-1/2"]
 [Round "01-03"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:01:59"]
 [BlackClock "0:05:18"]
 
@@ -288,7 +270,6 @@
 [BlackElo "2767"]
 [Result "0-1"]
 [Round "02-02"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:07:29"]
 [BlackClock "0:06:00"]
 
@@ -306,7 +287,6 @@
 [BlackElo "2767"]
 [Result "1/2-1/2"]
 [Round "01-01"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:09:45"]
 [BlackClock "0:07:40"]
 
@@ -324,7 +304,6 @@
 [BlackElo "2681"]
 [Result "1-0"]
 [Round "09"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:10:01"]
 [BlackClock "0:04:33"]
 
@@ -342,7 +321,6 @@
 [BlackElo "2764"]
 [Result "1-0"]
 [Round "11"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:05:14"]
 [BlackClock "0:00:18"]
 
@@ -360,7 +338,6 @@
 [BlackElo "2784"]
 [Result "1/2-1/2"]
 [Round "03"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:00:44"]
 [BlackClock "0:07:04"]
 
@@ -378,7 +355,6 @@
 [BlackElo "2732"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:05:38"]
 [BlackClock "0:05:45"]
 
@@ -397,7 +373,6 @@
 [Result "1/2-1/2"]
 [Round "32-01"]
 [TimeControl "300+1"]
-[Date "2021.12.06"]
 [WhiteClock "0:02:25"]
 [BlackClock "0:04:03"]
 
@@ -417,7 +392,6 @@
 [Result "1/2-1/2"]
 [Round "33-07"]
 [TimeControl "180+1"]
-[Date "2021.12.06"]
 [WhiteClock "0:02:31"]
 [BlackClock "0:02:13"]
 
@@ -437,7 +411,6 @@
 [Result "1/2-1/2"]
 [Round "34-07"]
 [TimeControl "60+1"]
-[Date "2021.12.06"]
 [WhiteClock "0:00:15"]
 [BlackClock "0:00:18"]
 
@@ -457,7 +430,6 @@
 [Result "1/2-1/2"]
 [Round "34-09"]
 [TimeControl "60+1"]
-[Date "2021.12.06"]
 [WhiteClock "0:00:11"]
 [BlackClock "0:00:08"]
 
@@ -477,7 +449,6 @@
 [Result "1/2-1/2"]
 [Round "34-03"]
 [TimeControl "60+1"]
-[Date "2021.12.06"]
 [WhiteClock "0:00:15"]
 [BlackClock "0:00:15"]
 
@@ -497,7 +468,6 @@
 [Result "1/2-1/2"]
 [Round "34-05"]
 [TimeControl "60+1"]
-[Date "2021.12.06"]
 [WhiteClock "0:00:05"]
 [BlackClock "0:00:09"]
 
@@ -517,7 +487,6 @@
 [Result "1/2-1/2"]
 [Round "08"]
 [TimeControl "180+1"]
-[Date "2021.12.07"]
 [WhiteClock "0:00:05"]
 [BlackClock "0:00:06"]
 

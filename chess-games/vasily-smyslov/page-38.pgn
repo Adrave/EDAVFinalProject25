@@ -1,6 +1,5 @@
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "20"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -24,7 +23,6 @@ Kf7 36.Re5 Rxa2 37.Rxf5+ Ke6 38.Bh3 Kd6 39.Nc3 Ra1+ 40.Kf2 Re7
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Nezhmetdinov Rashit (RUS)"]
@@ -46,7 +44,6 @@ gxh5 25.Rc1 Rd6 26.Qh8+ Rd8 27.Qxh5 Kb8 28.Qb5 a6 29.Qb3 Rd6
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -70,7 +67,6 @@ Qxg3+ 42.Kh1 1-0
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "17"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Savon Vladimir A (UKR)"]
@@ -92,7 +88,6 @@ Qxg4+ 31.hxg4 Rd8 32.gxh5 Bxc3 33.Rxc3 1-0
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -115,7 +110,6 @@ Bxe3 20.Qxe3 f6 21.e5 Kh8 22.Nc7 Qd7 23.exd6 exd6 24.Nb5 Rfe8
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -136,7 +130,6 @@ Bg5 20.Bg4 Rc7 21.Nd4 Ne5 22.Be2 Bxf4 23.Rxf4 Re8 24.Nf3 Rce7
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Guimard Carlos E (ARG)"]
@@ -155,7 +148,6 @@ Qxe5 14.Qc3 Qxc3 1/2-1/2
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "18"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Haag"]
@@ -177,7 +169,6 @@ Qxd7 1/2-1/2
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -196,7 +187,6 @@ Ne6 14.f5 gxf5 1/2-1/2
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ortega Ruiz Jose Miguel (ESP)"]
@@ -219,7 +209,6 @@ Rc8 37.Qa5 cxd4 38.exd4 Nb8 39.Qa7 Qxa7 40.bxa7 Na6 41.Rb6 1-0
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "20"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pietzsch Wolfgang W (GDR)"]
@@ -239,7 +228,6 @@ Ra3 20.Red1 Rd8 21.Qb2 Rda8 22.Qc2 Qb4 1/2-1/2
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -258,7 +246,6 @@ Rfd8 14.Nxd5 Bxd5 15.Qc2 Nf6 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -283,7 +270,6 @@ Rc2+ 42.Kh3 Ke5 43.Nf7+ Kd5 44.Ng5 h5 45.Nf3 Nxf3 46.Rxf3 Ke6
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -302,7 +288,6 @@ Rb8 14.Bxe7 Qxe7 15.Rad1 Nf6 16.Qxd6 Qxd6 17.Rxd6 Nxe4 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -322,7 +307,6 @@ cxb4 14.Qxb4 Rc8 15.a4 dxc4 16.Nxc4 Bd5 17.Ne3 Be4 18.Qa3 Rxc1+
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -345,7 +329,6 @@ h6 31.Nh3 Nd5 32.Nf4 Nxf4 33.Rxf4 Rd8 34.Rf3 Rfe8 35.Re2 Kf6
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1962.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Guimard Carlos E (ARG)"]
@@ -367,7 +350,6 @@ Qc6 31.Rb1 Kh7 32.Rb8 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Letelier Rene (CHI)"]
@@ -388,7 +370,6 @@ Rdd8 25.Qh5 Nd7 26.Bxg7 Bxg7 27.Nxg7 Re5 28.Nf5 Nf6 29.Qg5 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Parma Bruno (SLO)"]
@@ -417,7 +398,6 @@ Rh6 70.Ra7+ Ke8 71.Rxg7 Ra6 72.e6 Ra1 1/2-1/2
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -437,7 +417,6 @@ Rd8 15.b6 axb6 16.Nb5 bxa5 17.Nxc7 Qd7 18.Nxe6 Qxe6 19.Rb1 f4
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Rossetto Hector (ARG)"]
@@ -460,7 +439,6 @@ b6 31.Ng4 Kh8 32.Nf6 Re5 33.Rc1 bxc5 34.Rxc5 Rxc5 35.bxc5 Ne6
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sanguinetti Raul (ARG)"]
@@ -481,7 +459,6 @@ Nxd4 20.Bxd4 Bxd4 21.Qxd4 Rad8 22.Qh4 Qe7 23.Qxh6 b5 24.Rd4 Qf6
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1962.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -504,14 +481,12 @@ Rb1 25.e4 Nb6 26.Nc6 Nc4 27.e5 Rb6 28.exf6 Rxc6 29.fxg7 Kxg7
 
 [Event "Hastings 1962/63"]
 [Site "Hastings ENG"]
-[Date "1963.01.01"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "John Eric Littlewood"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A05"]
-[EventDate "1962.12.27"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -526,14 +501,12 @@ Rb1 25.e4 Nb6 26.Nc6 Nc4 27.e5 Rb6 28.exf6 Rxc6 29.fxg7 Kxg7
 
 [Event "Hastings 1962/63"]
 [Site "Hastings ENG"]
-[Date "1963.01.04"]
 [Round "8"]
 [White "Vasily Smyslov"]
 [Black "Peter Hugh Clarke"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "1962.12.27"]
 [PlyCount "81"]
 [WhiteElo "?"]
 

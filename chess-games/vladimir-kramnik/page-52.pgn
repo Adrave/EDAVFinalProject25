@@ -1,6 +1,5 @@
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -35,7 +34,6 @@ e4 105.Re8 f5 106.Rf8 Rb5 107.Bh7 Kg4 108.Bg6 Be3 0-1
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -55,7 +53,6 @@ Bxe5 14.f4 Bd6 15.b4 e5 16.Ne4 Nxe4 17.Bxe4 exf4 18.exf4 Bd7
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -75,7 +72,6 @@ Qa5 14.Qxa5 Rxa5 15.a3 Nb6 16.Ke2 N8d7 17.Bd2 Rb8 18.Rc2 Na4
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -95,7 +91,6 @@ Nxb4 20.axb4 Qb6 21.Nxd4 exd4 22.Qd2 Ra7 23.Rec1 Rfa8 24.Rxa7 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -115,7 +110,6 @@ Bg4 14.Bc4 Qa4 15.Bb5 Qa2 16.Bc4 Qa4 17.Rxb7 Bxf3 18.gxf3 Nc6
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -142,7 +136,6 @@ Bf4 60.Kc5 Bd6+ 61.Kd5 Be5 62.Ke6 Bc3 63.Kf7 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -164,7 +157,6 @@ c4 25.Qxc4 Qxc4 26.dxc4 Rc8 27.Bd2 Rxc4 28.Rd3 Kf8 29.Kf3 Ke8
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -183,7 +175,6 @@ Ne7 14.Ng5 Ng6 15.Qh5 Bxg5 16.Qxg5 e5 17.Bd3 Be6 18.Qe3 Qc6 19.Bxg6 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -206,7 +197,6 @@ Rxc1+ 31.Qxc1 Nxb4 32.Rxb4 Qe6 33.h4 Re7 34.Qc6 d5 35.Qxe6 Rxe6
 
 [Event "It (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -232,7 +222,6 @@ Qc7 48.Rcb2 Ra7 49.Kh1 Nd6 50.Bg2 Ne8 51.Rb8 Qe7 52.Qe3 Rfa6
 
 [Event "It (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -257,7 +246,6 @@ Kxg2 46.Kc7 b5 47.Kb7 b4 48.Kxa7 Kf3 49.Kb6 Ke4 50.Kc5 Ke5 1/2-1/2
 
 [Event "It \"CS Masters\" (active)"]
 [Site "Geneva (Switzerland)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -287,7 +275,6 @@ Ra1+ 70.Kg2 Ra2+ 71.Kg1 Rxa7 72.Rb4 Ra1+ 73.Kg2 h3+ 74.Kh2 Ra2+
 
 [Event "Bundesliga 1995/96"]
 [Site "Germany"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -305,7 +292,6 @@ Ne4 8.Qc2 Nd6 9.cxd5 exd5 10.O-O Bf5 11.Qb3 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -325,7 +311,6 @@ Bc6 20.Qd4 a6 21.Qxf6 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -351,7 +336,6 @@ Rd2+ 55.Ke7 Rf2 56.e5 Rf1 57.Ra6 Rxf4 58.e6 1/2-1/2
 
 [Event "It \"PCA Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -376,7 +360,6 @@ Kd4 48.Kxa5 Kc3 49.Ka4 Bd5 0-1
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -402,7 +385,6 @@ Kf3 53.g7 Rg1+ 54.Kf6 h3 55.Re8 1-0
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -423,7 +405,6 @@ b6 8.g3 Nc6 9.Bg2 Bb7 10.O-O d6 11.Bb2 e5 12.e3 Rc8 13.d3 Re8
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -447,7 +428,6 @@ Qe8 44.Qxh7+ 1-0
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -470,7 +450,6 @@ Rxe4 0-1
 
 [Event "Gran Canaria"]
 [Site "Gran Canaria"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kramnik, Vladimir"]
 [Black "Anand, Viswanathan"]
@@ -490,7 +469,6 @@ Qe1+ 32. Kg2 Qe4+ 33. Kf1 Qh1+ 34. Ke2 Qe4+ 35. Kd1 Qg4+ 36. f3 Qh3 37. d7
 
 [Event "It"]
 [Site "Las Palmas ESP"]
-[Date "1996.12.20"]
 [Round "9"]
 [White "Kramnik, Vladimir"]
 [Black "Ivanchuk, Vassily"]
@@ -498,7 +476,6 @@ Qe1+ 32. Kg2 Qe4+ 33. Kf1 Qh1+ 34. Ke2 Qe4+ 35. Kd1 Qg4+ 36. f3 Qh3 37. d7
 [WhiteElo "2765"]
 [BlackElo "2730"]
 [ECO "A16"]
-[EventDate "1996.??.??"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qh4 Nxc3 7. dxc3
 Nc6 8. e4 e5 9. Bg5 Be7 10. Bc4 h6 11. Bxe7 Qxe7 12. Qg3 O-O-O 13. O-O Qf6
@@ -513,7 +490,6 @@ Ng6 Bxg6 50. Kxg6 1-0
 
 [Event "Novgorod"]
 [Site "Novgorod RUS"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Kramnik, Vladimir"]
 [Black "Ivanchuk, Vassily"]
@@ -530,7 +506,6 @@ Qxe3 Ba6 21. a3 Kb8 22. h4 Rdg8 23. Nxc5 Nxc5 24. axb4 Nb7 1-0
 
 [Event "Dortmund"]
 [Site "Dortmund GER"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Kramnik, Vladimir"]
 [Black "Shirov, Alexei"]
@@ -552,7 +527,6 @@ Rd4+ 48. Ke5 Rb4 49. Rb8 1-0
 
 [Event "Las Palmas"]
 [Site "Las Palmas ESP"]
-[Date "1996.12.20"]
 [Round "9"]
 [White "Kramnik, Vladimir"]
 [Black "Ivanchuk, Vassily"]

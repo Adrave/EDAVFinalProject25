@@ -1,6 +1,5 @@
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.13"]
 [Round "2"]
 [White "Anand, V."]
 [Black "Mamedyarov, S."]
@@ -9,7 +8,6 @@
 [WhiteElo "2799"]
 [BlackElo "2760"]
 [PlyCount "72"]
-[EventDate "2008.01.12"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 g6 6. d4 Bd7 7. O-O Bg7 8. Re1 b5
 9. Bc2 exd4 10. cxd4 Bg4 11. Be3 Nge7 12. Nc3 O-O 13. Rc1 Kh8 14. Qd2 Bxf3 15.
@@ -21,7 +19,6 @@ Nxd4 28. Bxd5 Re8 29. e6 Nf3+ 30. Bxf3 Rxf3 31. Ra7 Rd3 32. Rxa6 Rd2 33. b4 Re7
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.20"]
 [Round "8"]
 [White "Anand, V."]
 [Black "Topalov, V."]
@@ -30,7 +27,6 @@ Nxd4 28. Bxd5 Re8 29. e6 Nf3+ 30. Bxf3 Rxf3 31. Ra7 Rd3 32. Rxa6 Rd2 33. b4 Re7
 [WhiteElo "2799"]
 [BlackElo "2780"]
 [PlyCount "79"]
-[EventDate "2008.01.12"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
 h5 9. Nd5 Bxd5 10. exd5 Nbd7 11. Qd2 g6 12. O-O-O Nb6 13. Qa5 Bh6 14. Bxh6 Rxh6
@@ -42,7 +38,6 @@ h3 Qd7 29. f5 Rf8 30. Qe3 e4 31. g4 hxg4 32. hxg4 Re5 33. Rf4 Qd8 34. g5 Nh5
 
 [Event "XXV SuperGM"]
 [Site "Morelia/Linares MEX/ESP"]
-[Date "2008.02.16"]
 [Round "2"]
 [White "Anand, V."]
 [Black "Aronian, L."]
@@ -51,7 +46,6 @@ h3 Qd7 29. f5 Rf8 30. Qe3 e4 31. g4 hxg4 32. hxg4 Re5 33. Rf4 Qd8 34. g5 Nh5
 [WhiteElo "2799"]
 [BlackElo "2739"]
 [PlyCount "68"]
-[EventDate "2008.02.15"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Re1 Bd6 13. g3 Re8 14. d4 Rxe1+
@@ -63,7 +57,6 @@ axb5 22. Bf3 Bh3 23. Bxd5 cxd5 24. Qd1 f5 25. Bg5 Re4 26. Bxh4 Qg6 27. Bd8 f4
 
 [Event "XXV SuperGM"]
 [Site "Morelia/Linares MEX/ESP"]
-[Date "2008.02.28"]
 [Round "8"]
 [White "Anand, V."]
 [Black "Shirov, A."]
@@ -72,7 +65,6 @@ axb5 22. Bf3 Bh3 23. Bxd5 cxd5 24. Qd1 f5 25. Bg5 Re4 26. Bxh4 Qg6 27. Bd8 f4
 [WhiteElo "2799"]
 [BlackElo "2755"]
 [PlyCount "113"]
-[EventDate "2008.02.15"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. a4 bxa4 14. Rxa4 a5
@@ -87,7 +79,6 @@ b6 Re1+ 54. Kxd3 Re8 55. b7 Rb8 56. Ke4 h5 57. Kf4 1-0
 
 [Event "Amber Blindfold"]
 [Site "Nice FRA"]
-[Date "2008.03.22"]
 [Round "7"]
 [White "Anand, V."]
 [Black "Carlsen, M."]
@@ -96,7 +87,6 @@ b6 Re1+ 54. Kxd3 Re8 55. b7 Rb8 56. Ke4 h5 57. Kf4 1-0
 [WhiteElo "2799"]
 [BlackElo "2733"]
 [PlyCount "93"]
-[EventDate "2008.03.15"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Nd7 7. Nf3 N7f6 8.
 O-O Bf5 9. Nh4 Bg6 10. c4 Nb6 11. Nc3 e6 12. g3 Be7 13. Be3 Qc7 14. Nxg6 hxg6
@@ -110,7 +100,6 @@ Nd3 1-0
 
 [Event "Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2008.03.20"]
 [Round "5"]
 [White "Anand, V."]
 [Black "Morozevich, A."]
@@ -119,7 +108,6 @@ Nd3 1-0
 [WhiteElo "2799"]
 [BlackElo "2765"]
 [PlyCount "69"]
-[EventDate "2008.03.15"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
 c5 9. Qd2 Nc6 10. dxc5 Qxc5 11. Bd3 b5 12. a3 Bb7 13. Qf2 b4 14. Ne2 bxa3 15.
@@ -131,7 +119,6 @@ gxf4 28. Rba4 Bb7 29. Ra7 Kf8 30. Bf1 Kg7 31. R1a3 Bc8 32. Kc1 Rb4 33. Rc7 Rb6
 
 [Event "Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2008.03.26"]
 [Round "10"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -140,7 +127,6 @@ gxf4 28. Rba4 Bb7 29. Ra7 Kf8 30. Bf1 Kg7 31. R1a3 Bc8 32. Kc1 Rb4 33. Rc7 Rb6
 [WhiteElo "2799"]
 [BlackElo "2737"]
 [PlyCount "58"]
-[EventDate "2008.03.15"]
 
 1. c4 Nf6 2. Nf3 c6 3. d4 d5 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8. Bd3
 Bb4 9. O-O O-O 10. Rd1 Nb6 11. c5 Nbd7 12. a3 Ba5 13. b4 Bc7 14. Bf1 e5 15. b5
@@ -151,7 +137,6 @@ Ne5 Qxb5 29. Ng4 Qg5 0-1
 
 [Event "XXI Magistral Rapid Semi-Final"]
 [Site "Leon ESP"]
-[Date "2008.05.30"]
 [Round "2"]
 [White "Anand, V."]
 [Black "Vallejo Pons, F."]
@@ -160,7 +145,6 @@ Ne5 Qxb5 29. Ng4 Qg5 0-1
 [WhiteElo "2803"]
 [BlackElo "2684"]
 [PlyCount "91"]
-[EventDate "2008.05.30"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Ne5 e6 6. Nd2 Nc6 7. c3 Bd6 8. f4
 g6 9. Qf3 Nh5 10. g4 Ng7 11. Qh3 h5 12. Bd3 Kf8 13. Ndf3 Kg8 14. Bd2 Bd7 15.
@@ -174,7 +158,6 @@ Be4 41. h7 Ba3 42. Rg8+ Ke7 43. Rf7+ Kxe6 44. Ng5+ Kd5 45. Rxb8 Rxb8 46. bxa3
 
 [Event "XXI Magistral Rapid Final"]
 [Site "Leon ESP"]
-[Date "2008.06.01"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Ivanchuk, V."]
@@ -183,7 +166,6 @@ Be4 41. h7 Ba3 42. Rg8+ Ke7 43. Rf7+ Kxe6 44. Ng5+ Kd5 45. Rxb8 Rxb8 46. bxa3
 [WhiteElo "2803"]
 [BlackElo "2740"]
 [PlyCount "80"]
-[EventDate "2008.06.01"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
 Be3 Be7 9. f4 d6 10. Qe1 O-O 11. Qg3 Nxd4 12. Bxd4 b5 13. a3 Bb7 14. Kh1 Rad8
@@ -196,7 +178,6 @@ d5 28. exd5 Qb6 29. Na4 Qd6 30. Rh4 Bxd5 31. Nc3 Rb8 32. Qc1 e4 33. Bxe4 Nxe4
 
 [Event "13th GrenkeLeasing Rapid WCh Final"]
 [Site "Mainz GER"]
-[Date "2008.08.03"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Carlsen, M."]
@@ -205,7 +186,6 @@ d5 28. exd5 Qb6 29. Na4 Qd6 30. Rh4 Bxd5 31. Nc3 Rb8 32. Qc1 e4 33. Bxe4 Nxe4
 [WhiteElo "2798"]
 [BlackElo "2775"]
 [PlyCount "99"]
-[EventDate "2008.08.03"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
 O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. O-O-O Ne5 12. Kb1 a6 13. h4 h5 14. g4 hxg4 15.
@@ -219,7 +199,6 @@ a3 Rc4 40. Kd2 Rd4+ 41. Ke1 Ra4 42. Kf1 Rc4 43. Kg1 Rc6 44. Qd5 Rg6 45. a4 bxa4
 
 [Event "13th GrenkeLeasing Rapid WCh"]
 [Site "Mainz GER"]
-[Date "2008.08.02"]
 [Round "6"]
 [White "Anand, V."]
 [Black "Morozevich, A."]
@@ -228,7 +207,6 @@ a3 Rc4 40. Kd2 Rd4+ 41. Ke1 Ra4 42. Kf1 Rc4 43. Kg1 Rc6 44. Qd5 Rg6 45. a4 bxa4
 [WhiteElo "2798"]
 [BlackElo "2788"]
 [PlyCount "93"]
-[EventDate "2008.08.01"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. N3h2 Nc5 15.
@@ -242,7 +220,6 @@ Nb6 34. Bb3+ Kh8 35. Kf1 g5 36. f3 Rc6 37. Rd3 Bg7 38. Red1 Be5 39. Rd8 Rxd8
 
 [Event "Grand Slam Final"]
 [Site "Bilbao ESP"]
-[Date "2008.09.10"]
 [Round "8"]
 [White "Anand, V."]
 [Black "Aronian, L."]
@@ -251,7 +228,6 @@ Nb6 34. Bb3+ Kh8 35. Kf1 g5 36. f3 Rc6 37. Rd3 Bg7 38. Red1 Be5 39. Rd8 Rxd8
 [WhiteElo "2798"]
 [BlackElo "2737"]
 [PlyCount "150"]
-[EventDate "2008.09.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nd2 d6 8.
 Nb3 Bb6 9. a4 a5 10. Bd2 Qxf3 11. gxf3 Ne7 12. Rg1 O-O 13. Be3 Bxe3 14. fxe3 c5
@@ -269,7 +245,6 @@ Rf4 59. Rg1 Rf3 60. Rc5 Qa8+ 61. Kb5 Rf6 62. Rd1+ Ke3 63. a5 Qe8+ 64. Kc4 Qa4
 
 [Event "WCh"]
 [Site "Bonn GER"]
-[Date "2008.10.21"]
 [Round "6"]
 [White "Anand, V."]
 [Black "Kramnik, V."]
@@ -278,7 +253,6 @@ Rf4 59. Rg1 Rf3 60. Rc5 Qa8+ 61. Kb5 Rf6 62. Rd1+ Ke3 63. a5 Qe8+ 64. Kc4 Qa4
 [WhiteElo "2783"]
 [BlackElo "2772"]
 [PlyCount "93"]
-[EventDate "2008.10.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Qf5 7. Qb3 Nc6 8.
 Bd2 O-O 9. h3 b6 10. g4 Qa5 11. Rc1 Bb7 12. a3 Bxc3 13. Bxc3 Qd5 14. Qxd5 Nxd5
@@ -292,7 +266,6 @@ Nf2 Nd6 35. Rg4 Nc4 36. e4 Nf6 37. Rg3 Nxb2 38. e5 Nd5 39. f6 Kf7 40. Ne4 Nc4
 
 [Event "14th WCh-Rapid 3rd-4th"]
 [Site "Mainz GER"]
-[Date "2009.08.02"]
 [Round "3"]
 [White "Anand, V."]
 [Black "Naiditsch, A."]
@@ -301,7 +274,6 @@ Nf2 Nd6 35. Rg4 Nc4 36. e4 Nf6 37. Rg3 Nxb2 38. e5 Nd5 39. f6 Kf7 40. Ne4 Nc4
 [WhiteElo "2788"]
 [BlackElo "2697"]
 [PlyCount "45"]
-[EventDate "2009.08.02"]
 [EventType "rapid"]
 [EventRounds "4"]
 [EventCountry "GER"]
@@ -316,7 +288,6 @@ Bxd4 Qxb3 22. Rxb3 Rxd4 23. Kf1 1/2-1/2
 
 [Event "Champions Rapid"]
 [Site "Zuerich SUI"]
-[Date "2009.08.23"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Topalov, V."]
@@ -325,7 +296,6 @@ Bxd4 Qxb3 22. Rxb3 Rxd4 23. Kf1 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2813"]
 [PlyCount "59"]
-[EventDate "2009.08.23"]
 [EventType "rapid"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -342,7 +312,6 @@ Rxd4 21. Bxc7 Rd7 22. Bd6 Rhd8 23. Ba3 Rd2 24. c3 Rc2 25. R6e3 Rdd2 26. Rf3 b6
 
 [Event "Champions Rapid"]
 [Site "Zuerich SUI"]
-[Date "2009.08.23"]
 [Round "4"]
 [White "Anand, V."]
 [Black "Khalifman, A."]
@@ -351,7 +320,6 @@ Rxd4 21. Bxc7 Rd7 22. Bd6 Rhd8 23. Ba3 Rd2 24. c3 Rc2 25. R6e3 Rdd2 26. Rf3 b6
 [WhiteElo "2788"]
 [BlackElo "2612"]
 [PlyCount "48"]
-[EventDate "2009.08.23"]
 [EventType "rapid"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -367,7 +335,6 @@ Ra8 21. b3 Rba5 22. a4 Rb8 23. Bc1 Rxa4 24. Bb2 Raa8 1/2-1/2
 
 [Event "Champions Rapid"]
 [Site "Zuerich SUI"]
-[Date "2009.08.23"]
 [Round "6"]
 [White "Anand, V."]
 [Black "Kramnik, V."]
@@ -376,7 +343,6 @@ Ra8 21. b3 Rba5 22. a4 Rb8 23. Bc1 Rxa4 24. Bb2 Raa8 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2759"]
 [PlyCount "36"]
-[EventDate "2009.08.23"]
 [EventType "rapid"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -391,7 +357,6 @@ Ba6 15. b3 c6 16. Rhe1 cxd5 17. cxd5 Bb7 18. Bg5 Bxd5 1/2-1/2
 
 [Event "Champions Simul"]
 [Site "Zuerich SUI"]
-[Date "2009.08.23"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Almada, E."]
@@ -400,7 +365,6 @@ Ba6 15. b3 c6 16. Rhe1 cxd5 17. cxd5 Bb7 18. Bg5 Bxd5 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2337"]
 [PlyCount "50"]
-[EventDate "2009.08.23"]
 [EventCountry "SUI"]
 [Source "Mark Crowther"]
 [SourceDate "2009.06.15"]
@@ -413,7 +377,6 @@ Rxd8 22. Ne4 Nxe4 23. Qxe4 Qd6 24. Qc2 f6 25. Rd1 Nb8 1/2-1/2
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2009.11.12"]
 [Round "7"]
 [White "Anand, V."]
 [Black "Morozevich, A."]
@@ -422,7 +385,6 @@ Rxd8 22. Ne4 Nxe4 23. Qxe4 Qd6 24. Qc2 f6 25. Rd1 Nb8 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2750"]
 [PlyCount "72"]
-[EventDate "2009.11.05"]
 [EventRounds "9"]
 [EventCountry "RUS"]
 [EventCategory "21"]
@@ -439,7 +401,6 @@ Nxc8 Rxc8 35. Ba4 Rb8 36. b3 Kf6 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "16"]
 [White "Anand, V."]
 [Black "Naiditsch, A."]
@@ -448,7 +409,6 @@ Nxc8 Rxc8 35. Ba4 Rb8 36. b3 Kf6 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2689"]
 [PlyCount "41"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -464,7 +424,6 @@ g6 15. Be4 Nxd4 16. Nxd4 e5 17. Bd5 exd4 18. Qb2 Be6 19. Qxb7 Bxd5 20. cxd5 Qb6
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "22"]
 [White "Anand, V."]
 [Black "Leko, P."]
@@ -473,7 +432,6 @@ g6 15. Be4 Nxd4 16. Nxd4 e5 17. Bd5 exd4 18. Qb2 Be6 19. Qxb7 Bxd5 20. cxd5 Qb6
 [WhiteElo "2788"]
 [BlackElo "2752"]
 [PlyCount "53"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -489,7 +447,6 @@ Rfd8 22. g5 Ne8 23. Bc1 Qa5 24. Bd2 Qa3 25. Bc1 Qa5 26. Bd2 Qa3 27. Bc1 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "39"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -498,7 +455,6 @@ Rfd8 22. g5 Ne8 23. Bc1 Qa5 24. Bd2 Qa3 25. Bc1 Qa5 26. Bd2 Qa3 27. Bc1 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2758"]
 [PlyCount "255"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -531,7 +487,6 @@ Qe1+ 126. Kf3 Qf1+ 127. Kg3 Qg1+ 128. Kf3 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "41"]
 [White "Anand, V."]
 [Black "Aronian, L."]
@@ -540,7 +495,6 @@ Qe1+ 126. Kf3 Qf1+ 127. Kg3 Qg1+ 128. Kf3 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2786"]
 [PlyCount "23"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -554,7 +508,6 @@ Bxe6 fxe6 9. Nc3 O-O 10. d4 Qe7 11. Qd2 a6 12. a3 1/2-1/2
 
 [Event "Leko & Anand: Chess Rapid Match"]
 [Site "Miskolc, Hungary"]
-[Date "2009.06.07"]
 [Round "7"]
 [White "Anand, Viswanathan"]
 [Black "Leko, Peter"]
@@ -562,7 +515,6 @@ Bxe6 fxe6 9. Nc3 O-O 10. d4 Qe7 11. Qd2 a6 12. a3 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2751"]
 [ECO "D43"]
-[EventDate "2009.06.02"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
  Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. e4 e5 12. d5 Nb6 13. Bb3 Bg4 14. Rc1 
@@ -573,14 +525,12 @@ Rxc6 21. Nd5+ Nxd5 22. Rxc6 bxc6 23. exd5 Rd8 24. dxc6 Rxd1+ 25. Bxd1 Kd6
 
 [Event "Morelia-Linares"]
 [Site "Linares ESP"]
-[Date "2008.02.28"]
 [Round "8"]
 [White "Viswanathan Anand"]
 [Black "Alexey Shirov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B33"]
-[EventDate "2008.02.15"]
 [PlyCount "111"]
 [WhiteElo "?"]
 

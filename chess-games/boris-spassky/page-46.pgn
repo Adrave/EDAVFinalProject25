@@ -1,6 +1,5 @@
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1958.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Borisenko Georgy K (UZB)"]
@@ -25,7 +24,6 @@ Rc7 36.Nb8 Bc1 37.Nc6 Bxg5 38.Nd4 Kf6 39.Nb5 Bf4 40.Nxc7 Bxc7
 
 [Event "Match \"Budapest-Leningrad\""]
 [Site "Budapest (Hungary)"]
-[Date "1959.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -48,7 +46,6 @@ Ke7 36.Bb6 Rh2 37.Bc5+ Kd7 38.Ng4 Rxh3 39.Bf2 Rxa3 40.Ne3 Bc3 0-1
 
 [Event "Match \"Budapest-Leningrad\""]
 [Site "Budapest (Hungary)"]
-[Date "1959.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -67,7 +64,6 @@ Ng6 14.Bxf6 Qxf6 15.f4 exf4 16.exf4 O-O 17.f5 Ne5 18.Qh3 Rfe8 1/2-1/2
 
 [Event "Match \"Leningrad-Moscow\""]
 [Site "Leningrad (Russia)"]
-[Date "1959.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -90,7 +86,6 @@ Bxe3 37.Rxe3 Qc5 38.Nc4 Nb6 39.Bf1 Nxc4 40.Bxc4 Nf6 41.c3 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -110,7 +105,6 @@ Rxe7 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Filip Miroslav (CZE)"]
@@ -136,7 +130,6 @@ Qxb3 48.Kg1 Qe3+ 49.Kh2 Qxd4 50.Rxd4 Re2 51.g4 hxg4 52.Rxg4 Ra2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Milev Zdravko (BUL)"]
@@ -158,7 +151,6 @@ Nxd8 31.Kf1 Ke7 32.Ke2 Kd6 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -185,7 +177,6 @@ Bd7 60.Bxd7 1/2-1/2
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nei Iivo (EST)"]
@@ -208,7 +199,6 @@ Rd8 36.b3 c5 37.dxc5 f4 38.Qxf4+ Qxf4 39.gxf4 1-0
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sliwa Bogdan (POL)"]
@@ -232,7 +222,6 @@ Kb8 1/2-1/2
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -258,7 +247,6 @@ Ke8 48.Rxg6 Kd7 49.Rg7+ Kc8 50.Be3 Rxc3 51.Bb6 Rc4 52.Rg8+ Kd7
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "Witkowski Stefan (POL)"]
@@ -280,7 +268,6 @@ Kf5 30.g4+ Kf4 31.Qd6+ Kg5 32.Be3+ 1-0
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Furman Semen (RUS)"]
@@ -302,7 +289,6 @@ Bxc6 24.Bc3 Qf2+ 25.Qd2 Ba4+ 26.Kb2 Qh4 27.Bxg7 Kb8 28.g3 Qg4
 
 [Event "It"]
 [Site "Tallinn (Estonia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Vistinietzki Itzhak (ISR)"]
@@ -324,7 +310,6 @@ Bh7 25.h3 Ke7 26.Red1 f6 27.e6 Rd8 28.exd7 Raxd7 29.Re6+ Kf8
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -344,7 +329,6 @@ Bg5 20.Nf5 Bxf5 21.exf5 f6 22.Nf3 Nb7 23.Nxg5 fxg5 24.Be3 Nc5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -364,7 +348,6 @@ fxe6 20.Ne2 b4 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -394,7 +377,6 @@ Qc4 75.Nc1 1-0
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gurgenidze Bukhuti (GEO)"]
@@ -420,7 +402,6 @@ Rxb4 53.Kxb4 Bg5 54.Kc3 1-0
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -439,7 +420,6 @@ Be7 14.f4 Ne4 15.Nxe4 Bxe4 16.Bc3 Bf6 17.Bb4 Be7 18.Bc3 Bf6 19.Bb4 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -462,7 +442,6 @@ Rd1+ 36.Kh2 1-0
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nikitin Aleksander S (RUS)"]
@@ -489,7 +468,6 @@ Bg8 60.Kf2 Bf7 61.h7 1-0
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -510,7 +488,6 @@ Ne4 14.hxg6 hxg6 15.Kf1 Bf8 16.Bxf8 Kxf8 17.g3 Kg7 18.Kg2 Qe7
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Yuhtman Jacov (RUS)"]
@@ -533,14 +510,12 @@ Kc5 31.c3 Rb8 32.Ne2 bxc3+ 33.Kxc3 Rgb7 34.Nc1 Kd6 35.Kb2 Rc7
 
 [Event "USSR-ch (semifinal)"]
 [Site "Tallinn EST"]
-[Date "1959.10.26"]
 [Round "15"]
 [White "Boris Spassky"]
 [Black "Shishkin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D87"]
-[EventDate "1959.10.05"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -555,14 +530,12 @@ Kc5 31.c3 Rb8 32.Ne2 bxc3+ 33.Kxc3 Rgb7 34.Nc1 Kd6 35.Kb2 Rc7
 
 [Event "USSR-ch (semifinal)"]
 [Site "Tallinn EST"]
-[Date "1959.10.09"]
 [Round "4"]
 [White "Boris Spassky"]
 [Black "Semyon Abramovich Furman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "1959.10.05"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

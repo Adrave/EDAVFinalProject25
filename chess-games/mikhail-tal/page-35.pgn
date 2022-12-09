@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Eersel (Denmark)"]
-[Date "1969.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -22,7 +21,6 @@ Kf8 31.Raa3 Rc7 32.Bd5 1/2-1/2
 
 [Event "Match"]
 [Site "Eersel (Denmark)"]
-[Date "1969.??.??"]
 [Round "4"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -46,7 +44,6 @@ Rxh2 36.Rb5 Qe4 37.Re1 Rh1 38.Rxh1 Bxh1 39.Ne2 Rc8 40.Nc3 Qd3
 
 [Event "Match"]
 [Site "Eersel (Denmark)"]
-[Date "1969.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -69,7 +66,6 @@ e2 37.Qe6 Qf4 38.Qe7 Qxc1+ 39.Ka2 Qg1 40.Qxd8+ Kh7 41.Bc4 0-1
 
 [Event "Match"]
 [Site "Eersel (Denmark)"]
-[Date "1969.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -94,7 +90,6 @@ e5 48.Kg3 h5 49.Qc1 h4+ 50.Kxh4 Qxf3 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -116,7 +111,6 @@ Nxd3 25.Rxd3 Rae8 26.Nxd5 Rxe5 27.Nf4 Bf5 28.Rc3 Rd8 29.Kc1 b4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "11"]
 [White "Tal Mikhail (LAT)"]
 [Black "Geller Efim P (RUS)"]
@@ -137,7 +131,6 @@ Nc6 20.Qd2 exd4 21.Nxd4 d5 22.exd5 Nxd5 23.Be4 Nxe3 24.Nxc6 Bxc6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "22"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -156,7 +149,6 @@ Be8 14.Rfd1 Rxd2 15.Rxd2 Rd8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gufeld Eduard (USA)"]
@@ -177,7 +169,6 @@ bxa4 20.Bxa6+ Kb8 21.Qb4+ Nb6 22.Bd3 Bc8 23.Bd4 Ne4 24.Bxe4 dxe4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -200,7 +191,6 @@ Rf8 36.Bg5 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "13"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kupreichik Viktor D (BLR)"]
@@ -223,7 +213,6 @@ Kxh7 31.Bxf7 Rg8 32.Bxg8+ Kxg8 33.Qxg6+ Bg7 34.h4 Qc3 35.h5 Qf6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "9"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -245,7 +234,6 @@ Bh6 25.Rh5 Qf8 26.Kc2 Bxe3 27.Rxh8 Qxh8 28.Qf7+ Kd8 29.Nb3 b6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "19"]
 [White "Tal Mikhail (LAT)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -271,7 +259,6 @@ Rff7 49.Qf2 Qc7 50.Bh2 Qd8 51.Be5 Rd2 52.Qf5 Rxb2+ 53.Kxb2 Qd2+
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "17"]
 [White "Tal Mikhail (LAT)"]
 [Black "Zaitsev Alexander (RUS)"]
@@ -291,7 +278,6 @@ Qd6 19.g3 Bxg3 20.fxg3 Bf5 21.Rfe1+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Zaitsev Igor A (RUS)"]
@@ -315,7 +301,6 @@ Nd5 1/2-1/2
 
 [Event "Memorial V.Goglidze"]
 [Site "Tbilisi (Georgia)"]
-[Date "1969.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gufeld Eduard (USA)"]
@@ -335,7 +320,6 @@ gxf6 20.Kb1 Be7 21.e5 Kf8 22.Be2 dxe5 23.Bxe5 Bd5 24.Bd4 f5 25.Qg7+ 1-0
 
 [Event "Memorial V.Goglidze"]
 [Site "Tbilisi (Georgia)"]
-[Date "1969.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Haag Ervin (HUN)"]
@@ -356,7 +340,6 @@ Qd7 26.Qf4 Kh8 27.dxc5 Nd3 28.Qe4 Rfd8 29.Bc2 1-0
 
 [Event "Memorial V.Goglidze"]
 [Site "Tbilisi (Georgia)"]
-[Date "1969.??.??"]
 [Round "9"]
 [White "Tal Mikhail (LAT)"]
 [Black "Masic Ljubomir (SCG)"]
@@ -378,7 +361,6 @@ e5 26.Ne2 Rb7 27.Ng3 Rbg7 28.Kh1 Rg6 29.Qxa6 Nd4 30.Bxd4 cxd4
 
 [Event "Memorial V.Goglidze"]
 [Site "Tbilisi (Georgia)"]
-[Date "1969.??.??"]
 [Round "11"]
 [White "Tal Mikhail (LAT)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -398,7 +380,6 @@ Qc7 14.Rd2 Nce7 15.Nd4 Bd7 16.f5 exf5 17.exf5 Ne5 18.Ne6 Bxe6
 
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Najdorf Miguel (POL)"]
@@ -421,7 +402,6 @@ Kh8 37.Nf6 Rfc8 38.c4 Bxc4 39.Ne4 Bxb5 40.Nxc5 Rxc5 41.axb5 1/2-1/2
 
 [Event "Cup URS"]
 [Site "Dnepropetrovsk (Ukraine)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gufeld Eduard (USA)"]
@@ -443,7 +423,6 @@ axb4 32.cxb4 Qe3 33.Qd7 Bxb2 34.Bf2 Qe6 1/2-1/2
 
 [Event "Ch Georgia"]
 [Site "Georgia"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ubilava Elizbar (ESP)"]
@@ -470,7 +449,6 @@ Rb1 59.Rc4 Rd8 60.Kc6 Kg6 1/2-1/2
 
 [Event ""]
 [Site "URS"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gurgenidze Bukhuti (GEO)"]
@@ -492,14 +470,12 @@ Nc4 25.a4 Bf6 26.Rd1 Ndb2 27.Rde1 Rhc8 28.a5 Nd3 29.R1e4 Nde5
 
 [Event "Larsen - Tal 3rd place Candidates Playoff"]
 [Site "Eersel NED"]
-[Date "1969.03.15"]
 [Round "4"]
 [White "Mikhail Tal"]
 [Black "Bent Larsen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B63"]
-[EventDate "1969.03.10"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -515,14 +491,12 @@ Nc4 25.a4 Bf6 26.Rd1 Ndb2 27.Rde1 Rhc8 28.a5 Nd3 29.R1e4 Nde5
 
 [Event "URS Cup qf"]
 [Site "Dnepropetrovsk"]
-[Date "1970.08.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Vladimir Savon"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "1970.08.01"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -534,14 +508,12 @@ Nc4 25.a4 Bf6 26.Rd1 Ndb2 27.Rde1 Rhc8 28.a5 Nd3 29.R1e4 Nde5
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1969.09.24"]
 [Round "13"]
 [White "Mikhail Tal"]
 [Black "Viktor Kupreichik"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E67"]
-[EventDate "1969.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Cologne (Germany)"]
-[Date "1898.??.??"]
 [Round "8"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Fritz Alexander (GER)"]
@@ -26,7 +25,6 @@ Bf1 46.a3 Bd3 47.Qxd6+ Kxd6 48.Nc6 Kd5 49.Na7 Ke4 50.Nxb5 Kf3
 
 [Event "It"]
 [Site "Cologne (Germany)"]
-[Date "1898.??.??"]
 [Round "2"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Popiel Ignacy (POL)"]
@@ -51,7 +49,6 @@ Ne3 47.Rg7 Rxg7+ 48.Qxg7 1-0
 
 [Event "It"]
 [Site "Cologne (Germany)"]
-[Date "1898.??.??"]
 [Round "10"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Schiffers Emanuel S (RUS)"]
@@ -76,7 +73,6 @@ Nc8 48.Rg6+ Kh7 49.Rc6 Rd8+ 50.Ke5 Re8+ 51.Re6 Rd8 52.f6+ 1-0
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Baird David"]
@@ -97,7 +93,6 @@ Bxb6 26.Kg2 Ra8 27.Nxd4 Re8 28.Nf3 Rxe1 29.Qxe1 1-0
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -121,7 +116,6 @@ Nxe7 36.Bf7 Kd6 37.Ke3 Kc5 38.Kf4 Kd6 39.b3 Kc5 40.Bxg6 Nxg6+
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Halprin Alexander (USA)"]
@@ -147,7 +141,6 @@ Bc6 49.Bxb4 Bxa4 50.bxa4 Nc6 51.Bc3 exf3 52.gxf3 Ke6 53.Kf4 Kf6
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lipke Paul (GER)"]
@@ -173,7 +166,6 @@ Bc6 54.Kf4 Na6 55.Ke5 Nxc5 56.Kxd6 Nxb3 57.Nxb3 Be8 58.Nd4 1-0
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Marco Georg (AUT)"]
@@ -198,7 +190,6 @@ Rd8 42.Qe7 Rg8 43.Qd6 Qe3 44.Qf6+ Rg7 45.Rf3 Qe2+ 46.Kh3 Qe4
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Schlechter Carl (AUT)"]
@@ -221,7 +212,6 @@ h6 25.g3 Bd6 26.Re8+ Rxe8 27.Rxe8+ Kh7 28.Bxd6 Qxd6 29.Qc2+ g6
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1898.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Showalter Jackson W (USA)"]
@@ -244,7 +234,6 @@ Qh8 26.Ng5 Rff8 27.Qh4 Ng8 28.c4 dxc4 29.Bxc4 Rfe8 30.Rd3 Ra7
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Janowski Dawid M (POL)"]
@@ -268,7 +257,6 @@ Rc5 36.Rg4 Rc1+ 37.Kg2 Qc5 38.Rd4 Rc8 39.Rh4 Qg5+ 40.Rg4 Qf6
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -290,7 +278,6 @@ Qc2+ 30.Kg3 Bxf3 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Pillsbury Harry N (USA)"]
@@ -315,7 +302,6 @@ Kb3 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Showalter Jackson W (USA)"]
@@ -340,7 +326,6 @@ g6 48.Bd2 Bh4 49.Bh6 Bf6 50.Be3 Bd8 51.Bd2 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Tinsley Samuel"]
@@ -360,7 +345,6 @@ Qf6 14.Bc2 Nb4 15.Bb1 Rac8 16.a3 Bxh2+ 17.Nxh2 Nxe3 18.fxe3 Qf2+
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -381,7 +365,6 @@ Rf8 20.cxd6 cxd6 21.Rf1 Rxf1+ 22.Kxf1 Nd8 23.Ke2 Nf7 24.Kd2 Qd7
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -403,7 +386,6 @@ Kf7 31.Rc7+ Ke6 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -427,7 +409,6 @@ hxg6 37.Rh1 Re8 38.Kc5 Rd7 39.Rh6 Rg8 40.Kc4 Rdg7 41.Kc5 Re8
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Cohn Wilhelm (GER)"]
@@ -447,7 +428,6 @@ gxf5 14.d3 Qa5 15.Bd2 Nxd2 16.Qxd2 Qxe5+ 17.Be2 Nc6 18.d4 Qd6
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lee Francis J (ENG)"]
@@ -470,7 +450,6 @@ Qd3+ 36.Kh4 Qxd4+ 37.g4 Qf6+ 38.Kg3 Qe5+ 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Maroczy Geza (HUN)"]
@@ -499,7 +478,6 @@ Kd6 69.Kb5 Re3 70.Ka6 Re7 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mason James (ENG)"]
@@ -524,7 +502,6 @@ Kb5 48.Kf5 a4 49.Bg5 Ne3+ 50.Ke4 axb3 51.Kxd4 Nc2+ 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1899.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Schlechter Carl (AUT)"]
@@ -547,14 +524,12 @@ Rd4 37.Rb7 Bh4 38.e6 Bxg3 39.hxg3 Be4 0-1
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1899.07.04"]
 [Round "26"]
 [White "Wilhelm Steinitz"]
 [Black "James Mason"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "1899.05.30"]
 [PlyCount "102"]
 [WhiteElo "?"]
 
@@ -576,7 +551,6 @@ Rd4 37.Rb7 Bh4 38.e6 Bxg3 39.hxg3 Be4 0-1
 [Result "1-0"]
 [Round "13"]
 [TimeControl "5400+30"]
-[Date "Fri May 28 2021"]
 [WhiteClock "0:57:00"]
 [BlackClock "0:01:30"]
 

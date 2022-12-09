@@ -1,13 +1,11 @@
 [Event "?"]
 [Site "?"]
-[Date "1906.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "V M Manko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Earl tourn"]
 [Site "Russia RUE"]
-[Date "1906.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Alexander Ivanovich Romashkevich"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C20"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -40,14 +36,12 @@
 
 [Event "Moscow"]
 [Site "Moscow RUE"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Vladimir Nenarokov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D07"]
-[EventDate "????.??.??"]
 [PlyCount "19"]
 [WhiteElo "?"]
 
@@ -58,14 +52,12 @@
 
 [Event "Kislovodsk"]
 [Site "Kislovodsk RUE"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -82,14 +74,12 @@
 
 [Event "Duesseldorf"]
 [Site "Duesseldorf GER"]
-[Date "1908.08.06"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Friedrich Koehnlein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -101,14 +91,12 @@
 
 [Event "Moscow Spring"]
 [Site "Moscow RUE"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "N Rubtzov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -122,14 +110,12 @@
 
 [Event "Moscow Match"]
 [Site "Moscow RUE"]
-[Date "1908.10.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Benjamin Markovich Blumenfeld"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -146,14 +132,12 @@
 
 [Event "Moscow Winter"]
 [Site "Moscow RUE"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Boris Vasilievich Lyubimov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -169,14 +153,12 @@
 
 [Event "Moscow"]
 [Site "Moscow RUE"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Vasily I Rozanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -191,14 +173,12 @@
 
 [Event "Moscow"]
 [Site "Moscow RUE"]
-[Date "1909.01.10"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A M Favorsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -211,14 +191,12 @@
 
 [Event "Tula"]
 [Site "Tula RUE"]
-[Date "1910.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Krotky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -232,14 +210,12 @@
 
 [Event "Moscow Autumn"]
 [Site "Moscow RUE"]
-[Date "1909.11.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Nikolay Pavlov-Pianov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C16"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -256,14 +232,12 @@
 
 [Event "Tula"]
 [Site "Tula RUE"]
-[Date "1910.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "V Vasilevsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -279,14 +253,12 @@
 
 [Event "Simul, 22b"]
 [Site "Moscow RUE"]
-[Date "1910.03.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Gutkevich"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -298,14 +270,12 @@
 
 [Event "Simul, 22b"]
 [Site "Moscow RUE"]
-[Date "1910.03.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Ceilikman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -319,14 +289,12 @@
 
 [Event "Simul, 22b"]
 [Site "Moscow RUE"]
-[Date "1910.03.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Vladimir Fedorovich Ostrogsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -339,14 +307,12 @@
 
 [Event "Simul, 22b"]
 [Site "Moscow RUE"]
-[Date "1910.03.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Diurnbaum"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -360,14 +326,12 @@
 
 [Event "Tula"]
 [Site "Tula RUE"]
-[Date "1910.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "V Vasilevsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C00"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -382,14 +346,12 @@
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1926.10.03"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Benito Higinio Villegas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B39"]
-[EventDate "????.??.??"]
 [PlyCount "17"]
 [WhiteElo "?"]
 
@@ -400,14 +362,12 @@
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1926.09.29"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Carlos Portela"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -421,14 +381,12 @@
 
 [Event "Simul, 40b"]
 [Site "La Plata ARG"]
-[Date "1926.10.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Carlos Hugo Maderna"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -441,14 +399,12 @@
 
 [Event "Simul, 24b"]
 [Site "Montevideo URU"]
-[Date "1926.11.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jose De Freitas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D12"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -463,14 +419,12 @@
 
 [Event "Blindfold simul, 28b"]
 [Site "Paris FRA"]
-[Date "1925.02.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Les Echecs du Palais Royal"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -484,14 +438,12 @@
 
 [Event "Blindfold simul, 26b"]
 [Site "New York, NY USA"]
-[Date "1924.04.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Milton Pinkus"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B74"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -507,14 +459,12 @@
 
 [Event "Blindfold simul, 26b"]
 [Site "New York, NY USA"]
-[Date "1924.04.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Monsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 

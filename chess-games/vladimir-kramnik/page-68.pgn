@@ -1,13 +1,11 @@
 [Event "Alekhine Memorial Open"]
 [Site "Moscow RUS"]
-[Date "1992.11.??"]
 [Round "8"]
 [White "Vladimir Kramnik"]
 [Black "Jaan Yukhanovich Ehlvest"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Tal Memorial"]
 [Site "Riga LAT"]
-[Date "1995.04.20"]
 [Round "8"]
 [White "Vladimir Kramnik"]
 [Black "Vassily Ivanchuk"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "URS-qual U18"]
 [Site "Sochi URS"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Boris Valeryevich Alterman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B76"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "URS-qual U18"]
 [Site "Sochi URS"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Artur Vladimirovich Frolov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E97"]
-[EventDate "????.??.??"]
 [PlyCount "25"]
 [WhiteElo "?"]
 
@@ -83,14 +75,12 @@
 
 [Event "Intel World Chess Express Challenge"]
 [Site "Munich GER"]
-[Date "1994.05.20"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Fritz (Computer)"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A31"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -106,14 +96,12 @@
 
 [Event "URS"]
 [Site "URS"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Sergei Vladimirovich Rublevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -127,14 +115,12 @@
 
 [Event "EU-ch U20"]
 [Site "Arnhem NED"]
-[Date "1990.12.23"]
 [Round "3"]
 [White "Vladimir Kramnik"]
 [Black "Daniel Moldovan"]
 [Result "1/2-1/2"]
 [BlackElo "2410"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "2480"]
 
@@ -150,14 +136,12 @@
 
 [Event "USSR"]
 [Site "USSR"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Marat Anatolyevich Makarov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B58"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -175,14 +159,12 @@
 
 [Event "EU-ch U20"]
 [Site "Arnhem NED"]
-[Date "1991.01.02"]
 [Round "11"]
 [White "Vladimir Kramnik"]
 [Black "Dimitri Reinderman"]
 [Result "1/2-1/2"]
 [BlackElo "2390"]
 [ECO "A52"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "2480"]
 
@@ -200,14 +182,12 @@
 
 [Event "Wch U18"]
 [Site "Guarapuava BRA"]
-[Date "1991.07.??"]
 [Round "7"]
 [White "Vladimir Kramnik"]
 [Black "A Zukubiec"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A54"]
-[EventDate "????.??.??"]
 [PlyCount "127"]
 [WhiteElo "?"]
 
@@ -227,14 +207,12 @@
 
 [Event "URS-ch58"]
 [Site "Moscow URS"]
-[Date "1991.11.??"]
 [Round "3"]
 [White "Vladimir Kramnik"]
 [Black "Vadim Ruban"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -252,14 +230,12 @@
 
 [Event "School Int. Inv. Chess Tourn."]
 [Site "Oakham"]
-[Date "1992.??.??"]
 [Round "7"]
 [White "Vladimir Kramnik"]
 [Black "Vladimir Eduardovich Akopian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E86"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -273,14 +249,12 @@
 
 [Event "Dortmund open-A"]
 [Site "Dortmund GER"]
-[Date "1992.04.??"]
 [Round "6"]
 [White "Vladimir Kramnik"]
 [Black "Rainer F A Knaak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E94"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -294,14 +268,12 @@
 
 [Event "Chalkidiki"]
 [Site "Chalkidiki GRE"]
-[Date "1992.09.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Igor Stohl"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D85"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -315,14 +287,12 @@
 
 [Event "Belorechensk"]
 [Site "Belorechensk"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Serdyukov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B78"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -336,14 +306,12 @@
 
 [Event "Baku Training"]
 [Site "Baku"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Otsarev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B21"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "2759"]
 
@@ -355,14 +323,12 @@
 
 [Event "Gelendzhik"]
 [Site "Gelendzhik"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Mayorov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -377,14 +343,12 @@
 
 [Event "Belorechensk"]
 [Site "Belorechensk"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Zhukov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B43"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -400,14 +364,12 @@
 
 [Event "Gelendzhik"]
 [Site "Gelendzhik RUS"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Andrey Chjumachenko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B21"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -421,14 +383,12 @@
 
 [Event "RSFSR-ch"]
 [Site "RSFSR-ch"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Vladimir Konstantinovich Doroshkievich"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -440,14 +400,12 @@
 
 [Event "Ch Juniors"]
 [Site "?"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Victor Markovich Mikhalevski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 

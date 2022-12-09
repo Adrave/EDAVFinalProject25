@@ -1,6 +1,5 @@
 [Event "Cup Russia (final)"]
 [Site "Elista (Russia)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -21,7 +20,6 @@ Rxd2 19.cxb7 Bxb7 20.Qe4 Bd5 21.Qxd5 Rd8 22.Qb7 Kg7 23.Rae1 Rf8
 
 [Event "Cup Russia (final)"]
 [Site "Elista (Russia)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Kotsur Pavel (KAZ)"]
@@ -47,7 +45,6 @@ Kg8 53.Rf3 Rd4 54.Rc7 1-0
 
 [Event "Cup Russia (final)"]
 [Site "Elista (Russia)"]
-[Date "2000.??.??"]
 [Round "10"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Popov Valerij (RUS)"]
@@ -75,7 +72,6 @@ Bg8 58.Bf8 Qxb4 59.Rf6 Qd2 60.Nf3 Qxa5 61.Bxd6 Bd5 62.Bxe5 Kg8
 
 [Event "Cup North Sea (cat.14)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "De Vreugt Dennis (NED)"]
@@ -102,7 +98,6 @@ Rc2+ 48.Kf1 Rxa2 49.Rxg5 Kf6 50.Rh5 Rb2 51.Rd6+ Ke7 52.Rd5 Rxb3
 
 [Event "Cup North Sea (cat.14)"]
 [Site "Esbjerg (Denmark)"]
-[Date "2000.??.??"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gulko Boris F (USA)"]
@@ -124,7 +119,6 @@ Qe4 31.Qxb7+ Kf8 32.Ne6+ Ke8 33.Qc8+ Ke7 34.Qxh8 Rxf2 35.Qg7+ 1-0
 
 [Event "Oz.com qualifier (blitz)"]
 [Site "Internet"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Schroer Jonathan (USA)"]
@@ -147,7 +141,6 @@ Na5 37.Rc1 Qe7 38.Be6 Nc4 39.bxc4 1-0
 
 [Event "Oz.com qualifier (blitz)"]
 [Site "Internet"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Shahade Jennifer (USA)"]
@@ -173,7 +166,6 @@ Kf7 46.Ke5 c4 47.Bxc4+ Kg6 48.Kf4 Bxc2 49.Bd5 Bd3 50.Be4+ Bxe4
 
 [Event "Oz.com qualifier (blitz)"]
 [Site "Internet"]
-[Date "2000.??.??"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Szmetan Jorge (ARG)"]
@@ -195,7 +187,6 @@ a6 25.Rh1 f5 26.exf6 Bxf6 27.Bf4 Qc8 28.Rxd7 Rxd7 29.Ne5 Rd8
 
 [Event "Olympiad"]
 [Site "Istanbul (Turkey)"]
-[Date "2000.??.??"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Kolev Atanas (BUL)"]
@@ -216,7 +207,6 @@ Bc6 25.Bxc6 bxc6 26.Rxb4 Qxb4 27.Qxc6+ Kd8 28.Rd1 Ke7 29.Qc7+ 1-0
 
 [Event "Olympiad"]
 [Site "Istanbul (Turkey)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Lima Darcy (BRA)"]
@@ -241,7 +231,6 @@ Rxe4 42.Rf6 Re2 43.Rd4 Rb8 44.Rg4 Kh7 45.Rf7+ Kh8 46.Rf6 Kh7
 
 [Event "Olympiad"]
 [Site "Istanbul (Turkey)"]
-[Date "2000.??.??"]
 [Round "12"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Sargissian Gabriel (ARM)"]
@@ -264,7 +253,6 @@ Nb5 36.Rxf7 Nc3 37.Rbb7 Ra1+ 38.Kf2 Nxe4+ 39.Ke3 Re1+ 40.Kd3 1-0
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Fressinet Laurent (FRA)"]
@@ -286,7 +274,6 @@ Rxc6 31.Rxd5 Rxc4 32.Rd8+ Kf7 33.Rc1 1-0
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Malakhov Vladimir (RUS)"]
@@ -308,7 +295,6 @@ Bd7 31.Rxd4 cxd4 32.Ne6+ Kg8 33.Nf6+ Kh8 34.Nc5 1-0
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Serper Grigory (USA)"]
@@ -332,7 +318,6 @@ Rxh7 41.Qxh7 a2 42.Qh8+ Kf7 43.d7 1-0
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -353,7 +338,6 @@ O-O 25.h5 Rcd8 26.g6 Rxd1+ 27.Rxd1 fxg6 28.hxg6 Rf4 29.Qh2 1-0
 
 [Event "Ch World FIDE (KO-system) (play-off)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -381,7 +365,6 @@ Ke3 52.axb5 Rxd3+ 53.Kc2 Kd4 54.Ra1 Rc3+ 55.Kb2 Rc8 56.Rd1+ Ke3
 
 [Event "Ch World FIDE (KO-system) (play-off)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Lima Darcy (BRA)"]
@@ -406,7 +389,6 @@ Nd5 47.Rb8 Kc4 48.Rc8 Kb5 49.Nd3 1-0
 
 [Event "Ch World FIDE (KO-system) (play-off)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Smirin Ilia (ISR)"]
@@ -429,7 +411,6 @@ Nxe3 26.Rxd8+ Kxd8 27.Qxe3 Bd7 28.Qe4 Bc5 29.Nd2 Ke7 30.Nc4 Bb5
 
 [Event "Ch World FIDE (KO-system) (play-off)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -454,7 +435,6 @@ Kh7 42.Qc7+ Rf7 43.Qc6 Qg7 44.Qe4+ Kh8 45.Rg6 Qf8 46.Rxa6 Qc5
 
 [Event "It (open)"]
 [Site "New York (USA)"]
-[Date "2000.??.??"]
 [Round "8"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Kaidanov Gregory S (USA)"]
@@ -477,7 +457,6 @@ Qe1 31.Bd2 Qa1 32.Nxe6 Re8 33.Nf4 Qxd4 34.e6 Qe4 35.exf7+ Kxf7
 
 [Event "It (open)"]
 [Site "New York (USA)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "La Rota Fabio (COL)"]
@@ -499,7 +478,6 @@ Rxc7 25.Rc1 Rxc1+ 26.Qxc1 Bb5 27.Qc8+ Kh7 28.Qc2 Ba4 29.Qc7 Bxb3
 
 [Event "It (open)"]
 [Site "New York (USA)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Stripunsky Alexander (USA)"]
@@ -519,7 +497,6 @@ e5 20.c5 dxc5 21.Nf3 Bd7 22.Nxe5 Rc8 23.Bf4 Nh5 24.Qg5 Nxf4 25.f6 1-0
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gretarsson Helgi Ass (ISL)"]
@@ -544,7 +521,6 @@ h5 46.b4 Kf6 47.b5 axb5 48.Rxb5 Ke6 49.Rb6 Kf6 50.Kd5 Kf5 51.Rb1 1-0
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Johannessen Leif Erlend (NOR)"]
@@ -566,14 +542,12 @@ Kg7 31.Qh6+ Kh8 32.Bf5+ Kg8 33.Qg6+ 1-0
 
 [Event "Linares"]
 [Site "Linares ESP"]
-[Date "2001.02.23"]
 [Round "1"]
 [White "Alexander Grischuk"]
 [Black "Judit Polgar"]
 [Result "1/2-1/2"]
 [BlackElo "2676"]
 [ECO "B47"]
-[EventDate "2001.02.23"]
 [PlyCount "87"]
 [WhiteElo "2663"]
 

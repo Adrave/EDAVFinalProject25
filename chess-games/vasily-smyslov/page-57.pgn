@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Goglidze Victor (GEO)"]
@@ -30,7 +29,6 @@ Re8 70.Qd7 Rg8 71.Qd4+ Kxg2 72.Qxe4+ Kh2 73.Qxh4 Rg3 74.Kd4 Rxh3
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -59,7 +57,6 @@ Rb8+ 70.Ke7 Rb6 71.Ke8 Kg6 72.Kd8 Rf6 73.Kc8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -84,7 +81,6 @@ Kd7 48.b5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gerstenfeld Edward (UKR)"]
@@ -110,7 +106,6 @@ Na6 53.c7 Rd3+ 54.Bd5 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "16"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -133,7 +128,6 @@ Bd6 36.Nd2 Be5 37.Ne4 Bxc3 38.Nxc3 Ke5 39.Kd2 Bh5 40.Ke3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "18"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Konstantinopolski Alexander (RUS)"]
@@ -155,7 +149,6 @@ Qd8 26.Re2 Nc4 27.Rfe1 Bc7 28.Bd3 Nd6 29.e4 dxe4 30.Nxe4 Nxe4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -178,7 +171,6 @@ Kf7 32.Be2 Qe7 33.Rd1 Rd4 34.Rxd4 Nxd4 35.Bd1 Nc6 36.Qe3 Rd8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lisitsyn Georgy (RUS)"]
@@ -200,7 +192,6 @@ Kh8 32.Qf2 Bd7 33.Rcg1 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Petrov Vladimir M (LAT)"]
@@ -226,7 +217,6 @@ Bf4 47.h4 Rc1 48.Nxg5 Bxg5 49.hxg5 Rxc3 50.g6 Ke6 51.Rf7 Rc5
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -248,7 +238,6 @@ Qf6 20.Rad1 Rfe8 21.d5 Nb4 22.Bb1 Nc5 23.a3 Qxb2 24.axb4 Qxb4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Veresov Gavriil (BLR)"]
@@ -272,7 +261,6 @@ Rc4 36.Bd1 Qh7 37.dxe5 Ne4 38.Rxe4 Rxe4 39.Bxe7 Re1+ 40.Kh2 Rxd1
 
 [Event ""]
 [Site "URS"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Dzagurov"]
@@ -302,7 +290,6 @@ Kf6 77.Kh2 Kg5 78.Kh3 Kh5 79.Kg2 Kg4 80.Kf2 Ra2+ 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Rabinovich Arkady (USA)"]
@@ -326,7 +313,6 @@ Rd7 37.Kf4 Kf8 38.Bc5+ Kf7 39.Re7+ Rxe7 40.Rxe7+ Kf6 41.h4 Bxf5
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -348,7 +334,6 @@ Qg5 32.Nd5 1-0
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -371,7 +356,6 @@ e5 37.Reg2 Nd7 38.Rg7+ Kh8 39.R7g6 Kh7 40.Ba3 exd4 41.Bc1 1-0
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -408,7 +392,6 @@ Ke3 113.Ra7 f3+ 114.Kf1 1/2-1/2
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -434,7 +417,6 @@ g4 54.Kg5 h4 55.Bb7 h3 56.Bc6 h2 57.Bh1 Kh3 58.Kf4 1/2-1/2
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -458,7 +440,6 @@ Ra4 36.Bd6+ Kc6 37.Qb1 Rga8 38.Qh1 Ra1 39.Qh3 Rg1 40.hxg6 Raa1
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -484,7 +465,6 @@ exd4 56.a6 Rxb6 57.Rxb6 d3 58.Rg1 d2 59.Rxf6 Rc7 60.Rfg6 d1Q 0-1
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -512,7 +492,6 @@ Rf1+ 65.Kc2 b4 66.Kd3 Rd1+ 67.Kc2 Rg1 0-1
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -541,7 +520,6 @@ Kf7 65.Qd5+ Kf8 66.Qd6+ Kg8 67.f6 Nf5 68.Qd3 Re1 69.Qxf5 Rf1+
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -564,7 +542,6 @@ Qc6 36.Kg2 Re8 37.Qxd6 1-0
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "16"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -603,7 +580,6 @@ Nc2 125.Kc1 1/2-1/2
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Yudovich Mikhail M Sr (RUS)"]
@@ -625,14 +601,12 @@ Bxe5 19.dxe5 Qc7 20.Bxe4 dxe4 21.h4 h6 22.h5 Bh7 23.Qd7 Qxe5
 
 [Event "USSR Absolute Championship"]
 [Site "Leningrad- Moscow URS"]
-[Date "1941.04.05"]
 [Round "9"]
 [White "Vasily Smyslov"]
 [Black "Isaac Boleslavsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "1941.03.23"]
 [PlyCount "65"]
 [WhiteElo "?"]
 

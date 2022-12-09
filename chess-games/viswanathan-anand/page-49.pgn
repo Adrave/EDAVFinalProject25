@@ -1,6 +1,5 @@
 [Event "It (open) (active)"]
 [Site "Bastia (France)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -24,7 +23,6 @@ Ke8 1-0
 
 [Event "It (open) (active)"]
 [Site "Bastia (France)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tiviakov Sergei (NED)"]
@@ -47,7 +45,6 @@ a4 20.e5 axb3 21.cxb3 fxe5 22.fxe5 Nbd3 23.exd6 exd6 24.b4 Nf4
 
 [Event "It \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -73,7 +70,6 @@ Rf1 55.c5 g2 56.R4d5+ 1-0
 
 [Event "Match (play-off) (blitz)"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -94,7 +90,6 @@ Ne5 20.Bh3 Re8 21.g6 hxg6 22.Bxe5 dxe5 23.fxg6 fxg6 24.h5 Bf5
 
 [Event "Simultan"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bogner Sebastian (GER)"]
@@ -115,7 +110,6 @@ Be7 20.Rh3 Qc3 21.Qxc3 Rxc3 22.b5 Bxh4 23.bxa6 Bxa6 24.Bxa6 Be7
 
 [Event "It (cat.18)"]
 [Site "Merida (Mexico)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hernandez Gilberto (MEX)"]
@@ -141,7 +135,6 @@ Kg6 53.f4 1-0
 
 [Event "It (cat.18)"]
 [Site "Merida (Mexico)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Short Nigel D (ENG)"]
@@ -166,7 +159,6 @@ Qxa3 48.f4 Nf7 49.Rd3 Qa2 50.Rb3 Rd6 51.Nc5+ Ne7 52.Qe1 Bd8 53.Re2 1-0
 
 [Event "It (active)"]
 [Site "Mirabal (Spain)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hernandez Gilberto (MEX)"]
@@ -192,7 +184,6 @@ Kd8 48.Kg2 h3+ 49.Kh2 Nf3+ 50.Kxh3 Nd4 51.Rh2 Kxd7 52.Kg2 Ke6
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -216,7 +207,6 @@ Kg6 37.Rdd7 f6 38.Rd8 h5 39.Rda8 h4 40.Rxa6 Nc7 41.Rxe6 Nxe6
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -243,7 +233,6 @@ Ke7 59.Bd3 Kf6 60.Bd8+ Ke5 61.Kh3 1-0
 
 [Event "Match (active) \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -263,7 +252,6 @@ dxc4 14.bxc4 Bxc4 15.Ne4 Nxe4 16.Qxc4 Bd6 17.Ne5 f5 18.h4 c5
 
 [Event "Match (active) \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -288,7 +276,6 @@ Kb3 41.f4 Kxb2 42.f5 a5 43.Kxf7 a4 44.f6 a3 45.Kg8 a2 46.f7 a1Q
 
 [Event "Match (active) \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -308,7 +295,6 @@ Be6 20.Rd2 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "13"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -329,7 +315,6 @@ Rcd8 26.Rae2 Qc6 27.cxb6 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -354,7 +339,6 @@ Rc3+ 48.Kxd4 Rxb3 49.Rg5 Rb4+ 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -377,7 +361,6 @@ Be7 37.Rh3 Bd8 38.Rg3 Kf5 39.Kd1 Bc7 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -397,7 +380,6 @@ Nxf3+ 14.Bxf3 Be6 15.Qd2 Qc7 16.Rfd1 Rfd8 17.h3 h6 18.Qe2 Rac8
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -418,7 +400,6 @@ h4 26.Be3 Ne6 27.Nf6 a5 28.N2e4 b4 29.Ng5 Rd3 1/2-1/2
 
 [Event "Match \"Dual of the WCh\""]
 [Site "Mainz (Germany)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -441,7 +422,6 @@ Qf4 31.Qxb7 Rh2 32.Qf3 Qxe5 33.Re3 Qd4 34.Re2 Rh8 35.Re4 Qf6
 
 [Event "Match \"Dual of the WCh\""]
 [Site "Mainz (Germany)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -464,7 +444,6 @@ dxe5 36.Bf1 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -485,7 +464,6 @@ Rfe8 25.Qf3 e5 26.dxe5 Bxe5 27.Nxe5 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -508,7 +486,6 @@ Rb5+ 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -532,7 +509,6 @@ Bc6 43.Ra1 f5 44.Be2 Ra5 45.h4 1/2-1/2
 
 [Event "It \"Eurotel World Chess Trophy\""]
 [Site "Prague (Czech Republic)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -557,7 +533,6 @@ Kg7 48.Rd7+ Kg8 49.Rd8+ Kg7 50.Rd7+ 1/2-1/2
 
 [Event "Corsica Masters Open 6th"]
 [Site "Bastia FRA"]
-[Date "2002.10.31"]
 [Round "9"]
 [White "Anand, Viswanathan"]
 [Black "Mikhalevski, Victor"]

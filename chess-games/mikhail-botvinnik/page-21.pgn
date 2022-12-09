@@ -1,6 +1,5 @@
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Batuev Andrey Mikhailovich"]
@@ -21,7 +20,6 @@ Rxf7 19.Qxe6 Qf8 20.Ne4 Rxc1 21.Rxc1 Nfd5 22.Nd6 Ba8 23.Re1 g6
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Gotthilf S"]
@@ -44,7 +42,6 @@ Kg7 36.Ra8 Qxd6 37.cxd6 Rd7 38.Bxc6 Rxd6 39.Bxd5 exd5 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Iljin-Genevsky Alexander (RUS)"]
@@ -67,7 +64,6 @@ Re7 37.g4 h5 38.f5+ Kh6 39.h4 g5 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kubbel Arvid"]
@@ -90,7 +86,6 @@ Bc5 32.f4 exf4 33.Nxf4 g5 34.Rg3 Nh7 35.Ne6+ Kg6 36.Rxf7 Kxf7
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lisitsyn Georgy (RUS)"]
@@ -112,7 +107,6 @@ Kxg7 31.Nc7 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -132,7 +126,6 @@ c5 19.Ne5 cxd4 20.Rxd4 Bc5 21.Rd7 Qf5 22.Qb7 Rab8 23.Qf3 f6 24.g4 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Stepanov G"]
@@ -154,7 +147,6 @@ Rc7 31.Bxf8 Rxc1 32.Rxc1 Bxf5 33.Bd6 Be4 34.Bc7 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Alatortsev Vladimir A (RUS)"]
@@ -175,7 +167,6 @@ Bg4 20.hxg5+ Nh5 21.Nce2 Ne7 22.Rh4 Qd7 23.Rdh1 Kg8 24.Rxg4 Qxg4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Bohatirchuk Fedor P (UKR)"]
@@ -199,7 +190,6 @@ Red7 36.Nd6 Kg8 37.Ke2 Nf7 38.Nxf7 Kxf7 39.Ke3 Rd5 40.Rd3 Ra5
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Goglidze Victor (GEO)"]
@@ -224,7 +214,6 @@ Qd3 43.Qf4 Rxc3 44.Nf6+ Kf8 45.Ne4+ Ke8 46.Nd6+ Kd8 47.Rh8+ Bxh8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kan Ilya A (RUS)"]
@@ -247,7 +236,6 @@ Qe6 31.Qxe6 Rxe6 32.Rb1 Re8 33.Rxf7 Kxf7 34.b7 Rb8 35.gxf4 exf4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lisitsyn Georgy (RUS)"]
@@ -269,7 +257,6 @@ Red8 30.b4 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Mazel Isaak (RUS)"]
@@ -292,7 +279,6 @@ f6 36.Ra6+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rjumin N (RUS)"]
@@ -314,7 +300,6 @@ Rxa2 31.Bc8 h5 32.Rd8+ Kh7 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Sorokin Nikolay"]
@@ -340,7 +325,6 @@ Rd6 47.Bf7 Rf6 48.Bg6 Nxb3 49.Kxh6 Rf8 50.Rh7+ Kg8 51.Rg7+ Kh8
 
 [Event "Ch URS (corr.)"]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Konstantinopolski Alexander (RUS)"]
@@ -370,7 +354,6 @@ Kb1 76.Rxg6 Rb8 77.Kc3 Kc1 78.Rf6 Rc8+ 79.Kd4 Rd8+ 0-1
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -393,7 +376,6 @@ b5 25.dxc5 bxc4 26.Bxc4 Nxc5 27.Bd6 Nfd7 28.Rdc2 Re8 29.Kf2 Nb7
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Alatortsev Vladimir A (RUS)"]
@@ -417,7 +399,6 @@ Ke7 42.Bxc6 bxc6 43.Kf5 a6 44.a3 Kf7 45.Kxg4 Ke6 46.Kg5 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Budo A (RUS)"]
@@ -441,7 +422,6 @@ Nf6 42.Be6+ 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Miasoedov"]
@@ -462,7 +442,6 @@ Rg5 26.Ne4 Rg8 27.Nd6+ 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Model Abram (RUS)"]
@@ -484,7 +463,6 @@ e6 25.Bh3 Qe8 26.dxe6 Bd4+ 27.Kh1 fxe6 28.Bc7 Nxe4 29.fxe4 Rf2
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -505,7 +483,6 @@ c6 20.Qb3 Qd6 21.bxc6 Nxc6 22.Nf3 Nb4 23.Rcc1 b5 24.axb5 Bxb5
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Savitsky Leonid"]
@@ -525,14 +502,12 @@ Qe5 19.cxb6 1-0
 
 [Event "Botvinnik - Flohr"]
 [Site "Moscow / Leningrad  RUS"]
-[Date "1933.12.01"]
 [Round "3"]
 [White "Mikhail Botvinnik"]
 [Black "Salomon Flohr"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D26"]
-[EventDate "1933.11.28"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -545,14 +520,12 @@ Qe5 19.cxb6 1-0
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1931.11.14"]
 [Round "17"]
 [White "Mikhail Botvinnik"]
 [Black "Georgy Lisitsin"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "1931.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

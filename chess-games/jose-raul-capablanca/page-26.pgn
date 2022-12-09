@@ -1,13 +1,11 @@
 [Event "Exhibition Game"]
 [Site "Vienna AUH"]
-[Date "1914.03.15"]
 [Round "2"]
 [White "Jose Raul Capablanca"]
 [Black "Richard Reti"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "Clock simul"]
 [Site "Paris FRA"]
-[Date "1914.03.22"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Andre Muffang"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D04"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -49,14 +45,12 @@
 
 [Event "Havana"]
 [Site "Havana CUB"]
-[Date "1901.10.17"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Manuel Marquez Sterling"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -70,14 +64,12 @@
 
 [Event "Casual Game"]
 [Site "New York, NY USA"]
-[Date "1906.09.25"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Robert Raubitschek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -92,14 +84,12 @@
 
 [Event "Simul, 23b"]
 [Site "Washington, DC USA"]
-[Date "1909.01.06"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edward Beckley Adams"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "????.??.??"]
 [PlyCount "17"]
 [WhiteElo "?"]
 
@@ -110,14 +100,12 @@
 
 [Event "Simul"]
 [Site "USA"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Herman Ludwig Christian Burde"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A84"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -133,14 +121,12 @@
 
 [Event "Simul, 22b"]
 [Site "Minneapolis, MN USA"]
-[Date "1909.01.25"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Francis Newton Stacy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -153,14 +139,12 @@
 
 [Event "Casual game"]
 [Site "St. Louis, MO USA"]
-[Date "1909.02.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edward Friederich Schrader"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -174,14 +158,12 @@
 
 [Event "Simul, 28b"]
 [Site "Humboldt, KS USA"]
-[Date "1909.02.05"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "O C Brett"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -198,14 +180,12 @@
 
 [Event "Exhibition game"]
 [Site "Philadephia, PA USA"]
-[Date "1910.10.21"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Hermann G Voigt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D53"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -221,14 +201,12 @@
 
 [Event "Simul, 28b"]
 [Site "Chicago, IL USA"]
-[Date "1910.11.28"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "H M Howe"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -241,14 +219,12 @@
 
 [Event "Simul, 28b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1910.11.05"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Einar Michelsen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -263,14 +239,12 @@
 
 [Event "Manhattan CC - Franklin CC m"]
 [Site "New York, NY USA"]
-[Date "1910.05.30"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Walter Penn Shipley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -287,14 +261,12 @@
 
 [Event "Simul, 28b"]
 [Site "Chicago, IL USA"]
-[Date "1910.11.28"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A B Davis Jr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -307,14 +279,12 @@
 
 [Event "Simul, 19b"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1910.10.22"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edward Mitchell Edwards"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -332,14 +302,12 @@
 
 [Event "Buenos Aires Olympiad fin-A"]
 [Site "Buenos Aires ARG"]
-[Date "1939.09.04"]
 [Round "3"]
 [White "Jose Raul Capablanca"]
 [Black "Moshe Czerniak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B22"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -354,14 +322,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Bellevue Hospital Chess Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C14"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -374,14 +340,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Bushwick High School"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -398,14 +362,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Chatham Chess Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D17"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -419,14 +381,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "West Side YMCA"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -444,14 +404,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Correspondence Chess League of America"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -468,14 +426,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Gracie Square Pharmacy Chess Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A35"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -491,14 +447,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "The Sun Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -512,14 +466,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Weekhauken Chess Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -536,14 +488,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1931.02.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "West Point Academy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 

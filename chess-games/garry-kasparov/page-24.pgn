@@ -1,6 +1,5 @@
 [Event "Memorial M.Euwe"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -22,7 +21,6 @@ c3 31.Bxe6+ Bxe6 32.Rxe6 1-0
 
 [Event "Memorial M.Euwe"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1994.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -44,7 +42,6 @@ Rc8 20.Ne4 f5 21.Ng3 Qxd5 22.a3 Bd6 23.Nxf5 Rcd8 24.Re5 Bxe5
 
 [Event "It (cat.16)"]
 [Site "Horgen (Switzerland)"]
-[Date "1994.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -68,7 +65,6 @@ Kc6 43.c4 Bd4 44.h6 Kb7 45.c5 a5 46.Rc1 Rc7 47.c6+ 1-0
 
 [Event "It (cat.16)"]
 [Site "Horgen (Switzerland)"]
-[Date "1994.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Jussupow Artur (GER)"]
@@ -91,7 +87,6 @@ f5 30.Qc6 Kh8 31.Qxc5 Rc8 32.Qxc8+ Bxc8 33.Rb8 Ng8 34.Rxc8 Qa7
 
 [Event "It (cat.16)"]
 [Site "Horgen (Switzerland)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -115,7 +110,6 @@ Nxd5 43.Qxg7+ Kxg7 44.cxd5 Rxd5 45.Rc1 1-0
 
 [Event "Simultan"]
 [Site "Internet"]
-[Date "1995.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Frolik Erhard (GER)"]
@@ -139,7 +133,6 @@ Nf6 39.Qb8 Nd7 40.Bxd7 Qxd7 41.Nc1 Qh3 42.Qc7+ Kf6 43.Qd8+ Kf7
 
 [Event "It \"Kremlin Stars\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1995.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -160,7 +153,6 @@ Rad8 24.d6 1/2-1/2
 
 [Event "It \"Kremlin Stars\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1995.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Epishin Vladimir (GER)"]
@@ -183,7 +175,6 @@ Kf6 36.Rg6+ Kf7 1/2-1/2
 
 [Event "Ch World (match) (PCA)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -204,7 +195,6 @@ Nc8 24.Kd3 Nd6 25.Kd4 b6 26.b4 Ke7 27.f4 h6 28.a4 f6 29.a5 Bd7 1/2-1/2
 
 [Event "Ch World (match) (PCA)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -224,7 +214,6 @@ e4 14.Nd2 Qe7 15.b5 Ne5 16.Nxe4 Nf3+ 17.Bxf3 Nxe4 18.Bxe4 Qxe4
 
 [Event "Ch World (match) (PCA)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -245,7 +234,6 @@ Qd3 14.Nf3 O-O-O 15.Qe1 Nxb3 16.axb3 Kb7 17.Be3 Be7 18.Bg5 h6
 
 [Event "Ch World (match) (PCA)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -265,7 +253,6 @@ Bxc3 19.Kxc3 Re5 20.Kc4 Re4+ 21.Kd3 Re5 22.Kc4 Re4+ 1/2-1/2
 
 [Event "Ch World (match) (PCA)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -289,7 +276,6 @@ Rxf3 35.e4 Rxh3 36.Rxc7 Rxc7 37.Rb8+ Kf7 38.Rb7 Re7 39.c7 Rxc7
 
 [Event "Ch World (match) (PCA)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "16"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -309,7 +295,6 @@ Bd7 14.Nf3 Rac8 15.Bb6 Qb8 16.Bd4 Bc6 17.Qd2 Nxd3 18.cxd3 Nd7
 
 [Event "Ch World (match) (PCA)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "18"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -327,7 +312,6 @@ Be7 8.a4 Nc6 9.Be3 O-O 10.f4 Qc7 11.Kh1 Re8 12.Bf3 1/2-1/2
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "New York (USA)"]
-[Date "1995.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -349,7 +333,6 @@ Qf3 31.Qe6 Qxf6 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Novgorod (Russia)"]
-[Date "1995.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -373,7 +356,6 @@ Ne5 42.Rd8 Nc4+ 43.Nxc4 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Novgorod (Russia)"]
-[Date "1995.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -394,7 +376,6 @@ Bxf6 14.Be3 Rd8 15.Qc2 Nf8 16.Rfd1 Bd7 17.d5 Qd6 18.Nxd7 Rxd7
 
 [Event "It (cat.17)"]
 [Site "Novgorod (Russia)"]
-[Date "1995.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -416,7 +397,6 @@ Nxg3 19.hxg3 d4 20.exd4 Nxd4 21.Nd5 Rd8 22.Bc4 O-O 23.Kc3 Ne2+
 
 [Event "It \"Intel Chess Grand Prix\" (blitz)"]
 [Site "Paris (France)"]
-[Date "1995.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -437,7 +417,6 @@ Rxe1+ 25.Qxe1 Qb2 26.Qb1 Qxb1+ 1/2-1/2
 
 [Event "It (active)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1995.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -463,7 +442,6 @@ Ke5 53.Nc6+ 1/2-1/2
 
 [Event "Memorial M.Tal (cat.17)"]
 [Site "Riga (Latvia)"]
-[Date "1995.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -482,7 +460,6 @@ Rd8 14.a3 b6 15.Ne2 Bb7 16.Nf4 Nf8 17.h3 1/2-1/2
 
 [Event "Memorial M.Tal (cat.17)"]
 [Site "Riga (Latvia)"]
-[Date "1995.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -508,7 +485,6 @@ Rf6 53.Kc4 Rf4+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Geneva (Switzerland)"]
-[Date "1995.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Regnier Bruno (FRA)"]
@@ -517,7 +493,6 @@ Rf6 53.Kc4 Rf4+ 1/2-1/2
 [WhiteElo "2795"]
 [BlackElo "2047"]
 [PlyCount "80"]
-[EventDate "1995.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. dxe5 Nxe4 5. Bc4 d6 6. Qd5 Be6 7. Qxe4 d5 8.
 Qe2 dxc4 9. O-O Be7 10. Rd1 Qc8 11. Nc3 O-O 12. h3 h6 13. Be3 Rd8 14. a3 a6 15.
@@ -530,7 +505,6 @@ Bxa3 1/2-1/2
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1995.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Computer \"]
@@ -538,7 +512,6 @@ Bxa3 1/2-1/2
 [ECO "D34"]
 [WhiteElo "2795"]
 [PlyCount "124"]
-[EventDate "1995.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Nc6 7. O-O Be7 8. Nc3
 O-O 9. Bg5 cxd4 10. Nxd4 Qb6 11. Nb3 Be6 12. Bxf6 Bxf6 13. Nxd5 Bxd5 14. Qxd5

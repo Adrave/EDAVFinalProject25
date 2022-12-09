@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Antwerpen (Belgium)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Consultants"]
@@ -23,7 +22,6 @@ gxf6 37.Rxf6+ Kxf6 38.Qc3+ 1-0
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -43,7 +41,6 @@ Kh8 20.Nd5 1-0
 
 [Event "Game (consultation)"]
 [Site "Bern (Switzerland)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Naegeli Oskar (SUI)"]
@@ -63,7 +60,6 @@ Qc8 21.Bh3 c6 22.Nf3 f5 23.Bg2 g5 24.Nh2 Bd8 1-0
 
 [Event "Game (consultation)"]
 [Site "Bern (Switzerland)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Naegeli Oskar (SUI)"]
@@ -86,7 +82,6 @@ Qc8 21.Rg2 c6 22.Qb2 f5 23.gxf5 gxf5 24.exf5 Bf6 25.Bxg7+ Nxg7
 
 [Event ""]
 [Site "Brussels (Belgium)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Devreese"]
@@ -111,7 +106,6 @@ Ke2 40.Qe7+ Kf2 41.Qh4+ Kf1 42.Qd4 Qg5 43.Qg4 Qd2+ 44.Kh1 Qf2
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Chajes Oscar (GER)"]
@@ -139,7 +133,6 @@ Ree8 59.axb4 Ka7 60.Kc3 Ka6 61.Nf7 Ra8 62.Nd6 Reb8 63.Rh1 Nd7
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Maroczy Geza (HUN)"]
@@ -159,7 +152,6 @@ Rf7 14.f3 e5 15.cxd5 cxd5 16.e4 fxe4 17.fxe4 Rxf1+ 18.Rxf1 exd4
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -181,7 +173,6 @@ Qxf7 30.Qxc8 Kh7 31.Qxa6 Qf3 32.Qd3+ 1-0
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "13"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Thomas George A (ENG)"]
@@ -204,7 +195,6 @@ Kh7 31.Nd6 Ba6 32.Rxf4 Rxf4 33.gxf4 Qe7 34.Rd1 Rxe3 35.Ne4 Ne6
 
 [Event "Simultan (blindfold)"]
 [Site "Cheltenham (England)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Milner Barry Philip S (ENG)"]
@@ -226,7 +216,6 @@ Rxh2 30.Bxd5+ 1-0
 
 [Event "Simultan (blindfold)"]
 [Site "Cheltenham (England)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Morton"]
@@ -248,7 +237,6 @@ Rg8 24.Rxg8+ Nxg8 25.Be3 c6 26.Rg1 Nf6 27.Rg5 Kb7 28.Rxe5 Rg7
 
 [Event "Simultan (blindfold)"]
 [Site "Cheltenham (England)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Webb R J"]
@@ -273,7 +261,6 @@ c5 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -300,7 +287,6 @@ Re6+ 59.Be5 Bc2 60.Rd7+ Kc5 61.Rc7+ 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "12"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -319,7 +305,6 @@ Qd8 14.Nc5 Bxc5 15.Rxc5 Ne4 16.Bxe4 dxe4 17.Ne5 Nxe5 18.dxe5 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "16"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lasker Edward (GER)"]
@@ -345,7 +330,6 @@ Rf1 42.Bb2 Nxc6 43.Rxa2 Rf4+ 44.Ke3 Bc5+ 45.Ke2 Rf2+ 46.Ke1 Rxh2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lasker Emanuel (GER)"]
@@ -368,7 +352,6 @@ Bxf4 0-1
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "14"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Maroczy Geza (HUN)"]
@@ -390,7 +373,6 @@ Qd1 30.Qc8+ Kg7 31.Qxb7 Qd2+ 32.Kg3 d4 33.exd4 Qg5+ 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Marshall Frank J (USA)"]
@@ -417,7 +399,6 @@ Nxg4+ 54.Kh3 Qe5 55.g3 Qe4 56.Qc2 Qxc2 57.Nxc2 h5 58.Nce3 Nxe3
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reti Richard (CZE)"]
@@ -441,7 +422,6 @@ Rxh5 42.Bg5 Bc3 43.Rd7+ Kg8 44.Bxg6 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "22"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -463,7 +443,6 @@ Ne6 30.Be5 Nd8 31.Ke3 Nc6 32.Bxc6+ Kxc6 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "15"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Yates Frederick"]
@@ -485,7 +464,6 @@ Bc5+ 31.Kh1 Rxf5 32.Rxf5 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Freeman"]
@@ -506,7 +484,6 @@ Qxh6 25.Rxf8+ Kxf8 26.Qd8# 1-0
 
 [Event "Simultan"]
 [Site "Omaha (USA)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Moore G H"]
@@ -532,14 +509,12 @@ Kg8 53.Bf6 Kh7 54.Kd3 Rb4 55.Be7 Rb3+ 0-1
 
 [Event "New York"]
 [Site "New York, NY USA"]
-[Date "1924.04.08"]
 [Round "16"]
 [White "Alexander Alekhine"]
 [Black "Edward Lasker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E76"]
-[EventDate "1924.03.16"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -557,14 +532,12 @@ Kg8 53.Bf6 Kh7 54.Kd3 Rb4 55.Be7 Rb3+ 0-1
 
 [Event "New York"]
 [Site "New York, NY USA"]
-[Date "1924.03.30"]
 [Round "11"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "1924.03.16"]
 [PlyCount "121"]
 [WhiteElo "?"]
 

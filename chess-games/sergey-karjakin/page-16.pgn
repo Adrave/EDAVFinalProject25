@@ -1,6 +1,5 @@
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.19"]
 [Round "5.4"]
 [White "Karjakin, Sergey"]
 [Black "Adhiban, Baskaran"]
@@ -9,7 +8,6 @@
 [WhiteElo "2785"]
 [BlackElo "2653"]
 [PlyCount "62"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -25,7 +23,6 @@ Rh5 28. h4 Re5 29. Ne3 Bb5 30. Rd4 Re4 31. Rxg6 Bxd3+ 0-1
 
 [Event "Vugar Gashimov Mem 2017"]
 [Site "Shamkir AZE"]
-[Date "2017.04.23"]
 [Round "3.5"]
 [White "Karjakin, Sergey"]
 [Black "Adams, Mi"]
@@ -34,7 +31,6 @@ Rh5 28. h4 Re5 29. Ne3 Bb5 30. Rd4 Re4 31. Rxg6 Bxd3+ 0-1
 [WhiteElo "2783"]
 [BlackElo "2761"]
 [PlyCount "78"]
-[EventDate "2017.04.21"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -51,7 +47,6 @@ a5 22. Qa3 Nf6 23. Ra2 Qg5 24. Ne1 c5 25. Nf3 Qh6 26. dxc5 Rxc5 27. Nb5 Rac8
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.05.24"]
 [Round "1.12"]
 [White "Karjakin, Sergey"]
 [Black "Meier, Geo"]
@@ -60,7 +55,6 @@ a5 22. Qa3 Nf6 23. Ra2 Qg5 24. Ne1 c5 25. Nf3 Qh6 26. dxc5 Rxc5 27. Nb5 Rac8
 [WhiteElo "2783"]
 [BlackElo "2630"]
 [PlyCount "100"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -77,7 +71,6 @@ g4 48. hxg4 hxg4 49. R1d3 Rh8 50. Ba2 Qh5 0-1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.05.24"]
 [Round "1.26"]
 [White "Karjakin, Sergey"]
 [Black "Meier, Geo"]
@@ -86,7 +79,6 @@ g4 48. hxg4 hxg4 49. R1d3 Rh8 50. Ba2 Qh5 0-1
 [WhiteElo "2783"]
 [BlackElo "2630"]
 [PlyCount "104"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -103,7 +95,6 @@ Kg7 41. Rb2 Kh6 42. Rg2 Rb7 43. Rg8 Ra7 44. Rh8+ Kg7 45. Rd8 Kh6 46. Kf2 Rb7
 
 [Event "5th Norway Blitz 2017"]
 [Site "Stavanger NOR"]
-[Date "2017.06.05"]
 [Round "5.1"]
 [White "Karjakin, Sergey"]
 [Black "Carlsen, M."]
@@ -112,7 +103,6 @@ Kg7 41. Rb2 Kh6 42. Rg2 Rb7 43. Rg8 Ra7 44. Rh8+ Kg7 45. Rd8 Kh6 46. Kf2 Rb7
 [WhiteElo "2781"]
 [BlackElo "2832"]
 [PlyCount "66"]
-[EventDate "2017.06.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -127,7 +117,6 @@ Rd3 Re6 29. Qf3 Qxf3 30. Rxf3 d3 31. Be3 d2 32. Rd1 Rd3 33. f5 Rxe5 0-1
 
 [Event "5th Norway Chess 2017"]
 [Site "Stavanger NOR"]
-[Date "2017.06.14"]
 [Round "7.5"]
 [White "Karjakin, Sergey"]
 [Black "Aronian, L."]
@@ -136,7 +125,6 @@ Rd3 Re6 29. Qf3 Qxf3 30. Rxf3 d3 31. Be3 d2 32. Rd1 Rd3 33. f5 Rxe5 0-1
 [WhiteElo "2781"]
 [BlackElo "2793"]
 [PlyCount "82"]
-[EventDate "2017.06.06"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -153,7 +141,6 @@ Kh7 41. Rxg7+ Kxg7 0-1
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.25"]
 [Round "18.1"]
 [White "Karjakin, Sergey"]
 [Black "Nakamura, Hi"]
@@ -162,7 +149,6 @@ Kh7 41. Rxg7+ Kxg7 0-1
 [WhiteElo "2781"]
 [BlackElo "2785"]
 [PlyCount "116"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -181,7 +167,6 @@ Rf5 Rh5 42. Rf1 Rg5 43. Bc4 Rh5 44. Rf2 Rg5 45. Rf1 Rh5 46. Rf2 Rh3 47. Rf5 Nh5
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.25"]
 [Round "11.2"]
 [White "Karjakin, Sergey"]
 [Black "Caruana, F."]
@@ -190,7 +175,6 @@ Rf5 Rh5 42. Rf1 Rg5 43. Bc4 Rh5 44. Rf2 Rg5 45. Rf1 Rh5 46. Rf2 Rh3 47. Rf5 Nh5
 [WhiteElo "2781"]
 [BlackElo "2808"]
 [PlyCount "95"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -208,7 +192,6 @@ Rxh4 Ra1+ 47. Kh2 Rd1 48. Be4 0-1
 
 [Event "GCT Rapid Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.22"]
 [Round "6.2"]
 [White "Karjakin, Sergey"]
 [Black "Grischuk, A."]
@@ -217,7 +200,6 @@ Rxh4 Ra1+ 47. Kh2 Rd1 48. Be4 0-1
 [WhiteElo "2781"]
 [BlackElo "2761"]
 [PlyCount "116"]
-[EventDate "2017.06.21"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -236,7 +218,6 @@ Kh8 48. Qa1 Kg8 49. Re3 Ra5 50. Qe1 Rc5 51. Kh2 Kh8 52. Qe2 Kg8 53. Bxh5 Nd7
 
 [Event "GCT Rapid Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.23"]
 [Round "8.1"]
 [White "Karjakin, Sergey"]
 [Black "Vachier Lagrave, M."]
@@ -245,7 +226,6 @@ Kh8 48. Qa1 Kg8 49. Re3 Ra5 50. Qe1 Rc5 51. Kh2 Kh8 52. Qe2 Kg8 53. Bxh5 Nd7
 [WhiteElo "2781"]
 [BlackElo "2796"]
 [PlyCount "106"]
-[EventDate "2017.06.21"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -264,7 +244,6 @@ c7 Rc1 0-1
 
 [Event "GCT Rapid Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.21"]
 [Round "3.2"]
 [White "Karjakin, Sergey"]
 [Black "Mamedyarov, S."]
@@ -273,7 +252,6 @@ c7 Rc1 0-1
 [WhiteElo "2781"]
 [BlackElo "2800"]
 [PlyCount "134"]
-[EventDate "2017.06.21"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -294,7 +272,6 @@ Kd6 66. d5 Ke5 67. Kc5 Bb8 0-1
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "9.2"]
 [White "Karjakin, Sergey"]
 [Black "Esipenko, Andrey"]
@@ -303,7 +280,6 @@ Kd6 66. d5 Ke5 67. Kc5 Bb8 0-1
 [WhiteElo "2760"]
 [BlackElo "2564"]
 [PlyCount "61"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 e4 6. Nc4 Be7 7. Bxc6 dxc6 8.
@@ -315,7 +291,6 @@ Kh8 28. Nd4 Qg4 29. Nf3 Rc8 30. Qd6 Rxc5 31. Qxf8+ 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "16.2"]
 [White "Karjakin, Sergey"]
 [Black "Korobov, A."]
@@ -324,7 +299,6 @@ Kh8 28. Nd4 Qg4 29. Nf3 Rc8 30. Qd6 Rxc5 31. Qxf8+ 1-0
 [WhiteElo "2760"]
 [BlackElo "2652"]
 [PlyCount "131"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. c4 Nc6 6. Qe3 g6 7. Be2 Bg7 8. h3
@@ -342,7 +316,6 @@ Ke6 Nf5 66. Kf6 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "17.2"]
 [White "Karjakin, Sergey"]
 [Black "Mamedyarov, S."]
@@ -351,7 +324,6 @@ Ke6 Nf5 66. Kf6 1-0
 [WhiteElo "2760"]
 [BlackElo "2799"]
 [PlyCount "93"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. a4 d6 7. O-O h6 8. Re1 O-O
@@ -366,7 +338,6 @@ b6 40. Qc6 Kg7 41. Qe8 Qc3 42. Qe4 Qa1 43. Nd5 Qxa4 44. Nxb6 Qa1 45. Nd7 Qa5
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.02"]
 [Round "1.5"]
 [White "Karjakin, Sergey"]
 [Black "Svidler, Peter"]
@@ -374,7 +345,6 @@ b6 40. Qc6 Kg7 41. Qe8 Qc3 42. Qe4 Qa1 43. Nd5 Qxa4 44. Nxb6 Qa1 45. Nd7 Qa5
 [WhiteElo "2773"]
 [BlackElo "2749"]
 [ECO "C54"]
-[EventDate "2017.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. 
 Re1 O-O 9. h3 Ne7 10. d4 Ng6 11. Nbd2 h6 12. Bb3 Re8 13. Bc2 b5 14. b4 Bb7
@@ -387,7 +357,6 @@ Ra1 39. a7 1-0
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.14"]
 [Round "2.3"]
 [White "Karjakin, Sergey"]
 [Black "Le, Quang Liem"]
@@ -395,7 +364,6 @@ Ra1 39. a7 1-0
 [WhiteElo "2773"]
 [BlackElo "2739"]
 [ECO "C50"]
-[EventDate "2017.08.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 h6 7. c3 d6 8. 
 Re1 a5 9. Nbd2 Be6 10. Bb5 Ba7 11. Nf1 Ne7 12. d4 Ng6 13. Ng3 c6 14. Bd3 
@@ -413,7 +381,6 @@ Kd7 68. Ra3 Rb2 69. Ka8 1-0
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.16"]
 [Round "9.4"]
 [White "Karjakin, Sergey"]
 [Black "Anand, Viswanathan"]
@@ -421,7 +388,6 @@ Kd7 68. Ra3 Rb2 69. Ka8 1-0
 [WhiteElo "2773"]
 [BlackElo "2783"]
 [ECO "C54"]
-[EventDate "2017.08.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 O-O 6. a4 a5 7. Bg5 h6 8. 
 Bh4 Be7 9. Nbd2 d6 10. Bg3 Nh7 11. O-O Kh8 12. Qb3 Qe8 13. Rfe1 Bf6 14. 
@@ -434,7 +400,6 @@ Qc6 1-0
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "7.3"]
 [White "Karjakin, Sergey"]
 [Black "Nakamura, Hikaru"]
@@ -442,7 +407,6 @@ Qc6 1-0
 [WhiteElo "2773"]
 [BlackElo "2792"]
 [ECO "C67"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nf5 8. Nf3 O-O 9. d4 d5 10. c3 Bd6 11. b3 Re8 12. Rxe8+ Qxe8 13. Na3 a6 
@@ -458,7 +422,6 @@ Kd8 56. Kb7 1-0
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "17.4"]
 [White "Karjakin, Sergey"]
 [Black "Le, Quang Liem"]
@@ -466,7 +429,6 @@ Kd8 56. Kb7 1-0
 [WhiteElo "2773"]
 [BlackElo "2739"]
 [ECO "C50"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 d6 7. c3 Ne7 8. 
 d4 Bb6 9. Bd3 Ng6 10. Re1 c6 11. Nbd2 exd4 12. cxd4 d5 13. e5 Nh5 14. Nf1 
@@ -481,7 +443,6 @@ b5 44. h4 a5 45. g5 a4 46. bxa4 bxa4 47. h5 Ke7 48. Nc4 Ke6 49. Na3 c5 50.
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "15.1"]
 [White "Karjakin, Sergey"]
 [Black "Caruana, Fabiano"]
@@ -489,7 +450,6 @@ b5 44. h4 a5 45. g5 a4 46. bxa4 bxa4 47. h5 Ke7 48. Nc4 Ke6 49. Na3 c5 50.
 [WhiteElo "2773"]
 [BlackElo "2807"]
 [ECO "A01"]
-[EventDate "2017.08.17"]
 
 1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 e4 5. Ne2 a6 6. Bxc6 dxc6 7. Ng3 h5 
 8. Nc3 Bg4 9. Nge2 Qd7 10. h3 Bf5 11. Ng3 Bg6 12. h4 O-O-O 13. Qe2 Bd6 14.
@@ -502,7 +462,6 @@ b5 44. h4 a5 45. g5 a4 46. bxa4 bxa4 47. h5 Ke7 48. Nc4 Ke6 49. Na3 c5 50.
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "5.2"]
 [White "Karjakin, Sergey"]
 [Black "Nepomniachtchi, Ian"]
@@ -510,7 +469,6 @@ b5 44. h4 a5 45. g5 a4 46. bxa4 bxa4 47. h5 Ke7 48. Nc4 Ke6 49. Na3 c5 50.
 [WhiteElo "2773"]
 [BlackElo "2751"]
 [ECO "A04"]
-[EventDate "2017.08.17"]
 
 1. Nf3 g6 2. e4 Nf6 3. e5 Nh5 4. d4 d6 5. Bc4 Bg7 6. Ng5 d5 7. Be2 h6 8. 
 Nf3 c5 9. O-O Nc6 10. c3 O-O 11. h3 f6 12. Nh4 Qe8 13. Nxg6 Qxg6 14. Bxh5 
@@ -527,7 +485,6 @@ g6 1-0
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "2.3"]
 [White "Karjakin, Sergey"]
 [Black "Dominguez Perez, Leinier"]
@@ -535,7 +492,6 @@ g6 1-0
 [WhiteElo "2773"]
 [BlackElo "2739"]
 [ECO "D00"]
-[EventDate "2017.08.17"]
 
 1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. c4 Bxb1 5. Rxb1 Bb4+ 6. Ke2 Bd6 7. g3 Bxf4
 8. gxf4 Nf6 9. Qb3 b6 10. Bg2 O-O 11. Nf3 Nc6 12. cxd5 Nxd5 13. Rhc1 Nce7 
@@ -548,7 +504,6 @@ fxe6 Nxf3 39. e7 Qxe4+ 40. Ka1 Nd4 41. Qxd4 1-0
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "10.5"]
 [White "Karjakin, Sergey"]
 [Black "Kasparov, Garry"]
@@ -556,7 +511,6 @@ fxe6 Nxf3 39. e7 Qxe4+ 40. Ka1 Nd4 41. Qxd4 1-0
 [WhiteElo "2773"]
 [BlackElo "2812"]
 [ECO "A01"]
-[EventDate "2017.08.17"]
 
 1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. c4 Bg7 5. Nf3 d6 6. Be2 Nf6 7. d4 O-O 8. 
 O-O exd4 9. Nxd4 Re8 10. Nxc6 bxc6 11. Bf3 Bd7 12. Nc3 Rb8 13. h3 c5 14. 
@@ -569,7 +523,6 @@ Qc1+ 38. Kh2 1-0
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.10"]
 [Round "8.5"]
 [White "Karjakin, Sergey"]
 [Black "So, Wesley"]
@@ -577,7 +530,6 @@ Qc1+ 38. Kh2 1-0
 [WhiteElo "2773"]
 [BlackElo "2810"]
 [ECO "C50"]
-[EventDate "2017.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 d6 7. c3 a6 8. 
 a4 Ba7 9. Re1 h6 10. Nbd2 Be6 11. Bxe6 fxe6 12. b4 Qe8 13. Nf1 Nh5 14. Be3
@@ -594,7 +546,6 @@ Rc4 62. Kd6 h4 63. Ne5 1-0
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "9.1"]
 [White "Karjakin, Sergey"]
 [Black "Anand, Viswanathan"]
@@ -602,7 +553,6 @@ Rc4 62. Kd6 h4 63. Ne5 1-0
 [WhiteElo "2773"]
 [BlackElo "2783"]
 [ECO "B12"]
-[EventDate "2017.08.17"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 Nd7 7. Nbd2 c5 8. 
 dxc5 Nxc5 9. O-O Nc6 10. Nd4 Bg6 11. Nxc6 bxc6 12. b4 Nd3 13. Nf3 Nxc1 14.

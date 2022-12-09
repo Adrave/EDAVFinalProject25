@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Budapest (Hungary)"]
-[Date "1993.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polgar Judit (HUN)"]
@@ -25,7 +24,6 @@ Kh5 46.Ne5 1-0
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Daillet Emmanuel (FRA)"]
@@ -47,7 +45,6 @@ f5 31.Bg6 fxe4+ 32.Nxe4 Rxc4 33.Kxc4 Be5 34.Nf6+ 1-0
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Dorfman Josif D (FRA)"]
@@ -74,7 +71,6 @@ Rc1+ 58.Kd5 Re1 59.Kc6 Rc1+ 60.Kd7 Rh1 61.Rb4 Ke5 62.Kc7 1-0
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Roos Daniel (FRA)"]
@@ -94,7 +90,6 @@ Ng4 14.Bf4 e5 15.Bg3 Qe7 16.Bd5 exd4 17.cxd4 cxd4 18.Rc7 Rd7
 
 [Event "Tournament (team)"]
 [Site "Dijon (France)"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ebalard Marc (FRA)"]
@@ -115,7 +110,6 @@ Kf7 21.Ng3 Ke8 22.Nf5 Bxf5 23.gxf5 g5 24.Nxg5 fxg5 25.Bh5+ Kd7
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bruch Ingo (GER)"]
@@ -137,7 +131,6 @@ Kd7 31.R8g7 Ng6 32.R1xg6 1-0
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kappler Jean-Marie (FRA)"]
@@ -161,7 +154,6 @@ Kb7 44.Kg3 Ra8 45.Rbb1 1/2-1/2
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Pinter Jozsef (HUN)"]
@@ -180,7 +172,6 @@ O-O 14.dxe5 1/2-1/2
 
 [Event "Cup France (final)"]
 [Site "France"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Marciano David (FRA)"]
@@ -203,7 +194,6 @@ Kb7 1/2-1/2
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1994.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "Arakhamia-Grant Ketevan (GEO)"]
@@ -224,7 +214,6 @@ b6 25.Rc1 1/2-1/2
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1994.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Chiburdanidze Maia (GEO)"]
@@ -244,7 +233,6 @@ Bb6 19.h3 1/2-1/2
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1994.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ioseliani Nana (GEO)"]
@@ -262,7 +250,6 @@ Be7 8.Be3 Be6 9.O-O O-O 10.Bf3 a5 11.Nd5 Bxd5 12.exd5 Nb4 13.c3 1/2-1/2
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1994.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polgar Judit (HUN)"]
@@ -286,7 +273,6 @@ b2 43.Bf3 Qc2 44.Rd8+ Kg7 45.R8d7+ Kf6 46.Rb7 h5 47.c4 Bb4 0-1
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polgar Zsuzsa (USA)"]
@@ -310,7 +296,6 @@ Nxd5 42.Bxd5 Rd6 43.Rf7+ Kb6 44.c4 Bg2 45.Rb7+ Ka5 1/2-1/2
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Xie Jun (CHN)"]
@@ -330,7 +315,6 @@ Bf6 20.Rae1 Rb8 21.Kc1 Ne7 22.Ne5 Nf5 23.Ne4 Be7 24.Rd1 c6 25.Rhg1 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Prague (Czech Republic)"]
-[Date "1995.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cramling Pia (SWE)"]
@@ -357,7 +341,6 @@ Kf6 58.Rg7 Re5 59.Rxg6+ Ke7 60.Rg5 Rxe4 61.Kxh5 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Prague (Czech Republic)"]
-[Date "1995.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ioseliani Nana (GEO)"]
@@ -382,7 +365,6 @@ Rhb8 43.Rb1 Bd4 44.h4 gxh4 45.Rxh4 fxe6 46.fxe6 Kg6 47.Rf1 Bf6
 
 [Event "Match \"Women-Veterans\""]
 [Site "Prague (Czech Republic)"]
-[Date "1995.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polgar Judit (HUN)"]
@@ -405,7 +387,6 @@ Re8 37.Qc6 a6 38.Rg2 Qe6 39.Qb7 Rg8 40.Rxg8+ Kxg8 0-1
 
 [Event "Match \"Women-Veterans\""]
 [Site "Prague (Czech Republic)"]
-[Date "1995.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polgar Zsuzsa (USA)"]
@@ -424,7 +405,6 @@ O-O 14.Ng5 Kh8 15.Qc4 Ng6 16.b4 Bb6 17.Rd1 Qc6 18.Qxc6 bxc6 19.Na4 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Prague (Czech Republic)"]
-[Date "1995.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Xie Jun (CHN)"]
@@ -444,7 +424,6 @@ exf4 14.Qxg4 Bxg4 15.Bxf4 Nd7 16.Nb3 c5 17.Na5 Be6 18.Nc6 Rfe8
 
 [Event "Match (team)"]
 [Site "London (England)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Arakhamia-Grant Ketevan (GEO)"]
@@ -465,7 +444,6 @@ Nfg6 20.Nc5 Rac8 21.b4 Nf5 22.Bxb5 Be7 23.Nxd4 Nxd4 24.Bxd4 Bf3
 
 [Event "Match (team)"]
 [Site "London (England)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ioseliani Nana (GEO)"]
@@ -485,7 +463,6 @@ Bd7 20.Ne3 1/2-1/2
 
 [Event "Match (team)"]
 [Site "London (England)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polgar Sofia (HUN)"]
@@ -509,7 +486,6 @@ e2 43.Rxf5+ Kg8 44.Rg5+ Kf7 45.Bb4 Rb1 46.Rf5+ Kg8 47.Rg5+ Kf7 1/2-1/2
 
 [Event "Match (team)"]
 [Site "London (England)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Xie Jun (CHN)"]
@@ -528,7 +504,6 @@ Rxc5 14.Qxd8 1/2-1/2
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sermier Alain (FRA)"]
@@ -537,7 +512,6 @@ Rxc5 14.Qxd8 1/2-1/2
 [WhiteElo "2565"]
 [BlackElo "2166"]
 [PlyCount "81"]
-[EventDate "1993.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. e3 Nbd7 6. cxd5 exd5 7. Bd3 Be7 8.
 Qc2 O-O 9. Nf3 Re8 10. O-O-O Nf8 11. Bxf6 Bxf6 12. h3 Be6 13. Kb1 Rc8 14. Rhf1

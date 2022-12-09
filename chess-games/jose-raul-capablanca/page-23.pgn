@@ -1,13 +1,11 @@
 [Event "Simul, 37b"]
 [Site "Glasgow SCO"]
-[Date "1919.09.24"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "George Page"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C87"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "C Crossland"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -43,14 +39,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "William Batley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -67,14 +61,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edward Dale"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -91,14 +83,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "W J Dingley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -112,14 +102,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "J Orange"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -137,14 +125,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A H Hobson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -158,14 +144,12 @@
 
 [Event "Simul, 40b"]
 [Site "Birmingham ENG"]
-[Date "1919.10.09"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "T Bray"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -177,14 +161,12 @@
 
 [Event "Simul, 40b"]
 [Site "Birmingham ENG"]
-[Date "1919.10.09"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "F W King"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -199,14 +181,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "C North"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -219,14 +199,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "W H Sparkes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -243,14 +221,12 @@
 
 [Event "Simul, 40b"]
 [Site "Bradford ENG"]
-[Date "1919.10.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "James Wickstead Perkins"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -265,14 +241,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "H H Clarke"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C23"]
-[EventDate "????.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -291,14 +265,12 @@
 
 [Event "Simul, 40b"]
 [Site "Hampstead, London ENG"]
-[Date "1919.10.16"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A L Kaufmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D25"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -311,14 +283,12 @@
 
 [Event "Simul, 40b"]
 [Site "Thornton Heath ENG"]
-[Date "1919.10.18"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Gilbert Henry Hadland"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -331,14 +301,12 @@
 
 [Event "Simul, 42b"]
 [Site "Dudley ENG"]
-[Date "1919.11.24"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "E Reeve"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -352,14 +320,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sheffield ENG"]
-[Date "1919.10.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "F W Whitehead"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C83"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -376,14 +342,12 @@
 
 [Event "Simul, 38b"]
 [Site "House of Commons, London ENG"]
-[Date "1919.12.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Richard Barnett"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -399,14 +363,12 @@
 
 [Event "Simul, 38b"]
 [Site "House of Commons, London ENG"]
-[Date "1919.12.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Sir Assheton Pownall"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -422,14 +384,12 @@
 
 [Event "Simul, 39b"]
 [Site "Cheltenham ENG"]
-[Date "1919.10.10"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "William Shelley Branch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -446,14 +406,12 @@
 
 [Event "Simul, 38b"]
 [Site "House of Commons, London ENG"]
-[Date "1919.12.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Frank Grant"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -471,14 +429,12 @@
 
 [Event "Simul, 38b"]
 [Site "House of Commons, London ENG"]
-[Date "1919.12.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "W R Merriman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C32"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -494,14 +450,12 @@
 
 [Event "Simul, 39b"]
 [Site "Belfast NIR"]
-[Date "1919.12.10"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "W J Allen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A53"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -519,14 +473,12 @@
 
 [Event "Simul, 38b"]
 [Site "House of Commons, London ENG"]
-[Date "1919.12.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Edgar Montague Amphlett"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C70"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -539,14 +491,12 @@
 
 [Event "Simul, 39b"]
 [Site "Belfast NIR"]
-[Date "1919.12.10"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Bruce Allen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 

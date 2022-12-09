@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "7"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Eliskases Erich G (AUT)"]
@@ -28,7 +27,6 @@ Kxd5 64.g5 fxg5+ 65.Kxg5 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "1"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kostjoerin Anatole"]
@@ -49,7 +47,6 @@ Re8 26.d4 Re6 27.Bg5 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Pachman Ludek (GER)"]
@@ -73,7 +70,6 @@ Bc3 42.Kc6 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "7"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Schmid Lothar (GER)"]
@@ -94,7 +90,6 @@ Bd4 20.c3 e5 21.cxd4 exf4 22.Bxd7+ Qxd7 23.Qe2+ Kf8 24.Qe5 Kg8
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -118,7 +113,6 @@ Rd3 41.Nf7+ 1-0
 
 [Event "Match (training)"]
 [Site "Moscow (Russia)"]
-[Date "1960.10.??"]
 [Round "?"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Furman Semyen A (RUS)"]
@@ -139,7 +133,6 @@ Bxf1 25.Nxf8 Bh3 26.Ng6 Nc7 27.Ne7+ Kf8 28.Qh4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "1"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -163,7 +156,6 @@ Rxd1+ 30.Kxd1 Bd5 31.Nd4 c5 32.bxc5 bxc5 33.Nb5 a6 34.Nc7 Bc4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "3"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -186,7 +178,6 @@ d3 38.Rxd3 Rxd3 39.Bxd3 Bd4 40.e5 g6 41.Rh1 Kg7 42.Qe4 b6 43.Bc4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -215,7 +206,6 @@ Nc4 64.Rb7+ Ke6 65.h4 Kd5 66.Rd7+ Kc5 67.Rd3 Kxb5 68.Nd4+ Kc5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "7"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -237,7 +227,6 @@ Kb6 30.Bxb8 b4 31.Bd6 bxc3 32.Bc5+ Kb5 33.R1a4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "9"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -266,7 +255,6 @@ Ra3 65.Bd5 Ra4 66.Ke1 Rd4 67.Bg2 Nb3 68.Rxd4 Nxd4 69.Kf2 Ne6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "11"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -290,7 +278,6 @@ Kg7 42.Rah1 Rb2+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "13"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -313,7 +300,6 @@ Bb4 26.Na2 Bc5 27.Bxc5 Rxc5 28.Nc3 Bc8 29.Rb2 Bd7 30.Rhb1 Bxa4+
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "15"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -340,7 +326,6 @@ Re3 53.Rxd6 Re5+ 54.Kg4 Kg6 55.Kf4 Rf5+ 56.Ke3 Rh5 57.Rxa6 Rxh4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "17"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -371,7 +356,6 @@ Bxb4 77.Kxa6 Bf1+ 78.Kb6 Kd6 79.Na5 Bc5+ 80.Kb7 Be2 81.Nb3 Be3
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "19"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -401,7 +385,6 @@ Kc1 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "21"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -423,7 +406,6 @@ Bxg4 25.Rg6+ Kf7 26.Rf1 Ke7 27.Rg7+ Ke8 28.Ne4 Nd7 29.Nxd6+ Kd8
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -449,7 +431,6 @@ Qh1+ 49.Ke2 Qc1 50.Rc7 Qxc4+ 51.Kd2 Qa2+ 52.Ke1 Qb1+ 53.Ke2 Qb5+
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Pachman Ludek (GER)"]
@@ -473,7 +454,6 @@ cxd5 42.Bf3 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Perez Perez Francisco J (ESP)"]
@@ -495,7 +475,6 @@ Qxd3 26.Rhc1 Ne5 27.Nf4 Qb5 28.Be2 Qc6 29.Kg1 Ra3 30.h5 gxh5
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -518,7 +497,6 @@ Kh6 37.Be4 Ng6 38.Nd5 Nf4 39.Rh2 Rc8 40.Nxf4 Rxf4 41.f3 Bf7 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -545,7 +523,6 @@ Ne5 59.Be6 1-0
 
 [Event "Match (training)"]
 [Site "Moscow (Russia)"]
-[Date "1961.02.??"]
 [Round "?"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Furman Semyen A (RUS)"]
@@ -569,7 +546,6 @@ Kf5 43.Bxd5 g5 44.Kg7 g4 45.hxg4+ Kxg4 46.Be6+ 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Padevsky Nikola (BUL)"]
@@ -597,7 +573,6 @@ Ngxe5 65.Bxe5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Uhlmann Wolfgang (GER)"]

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Barcza Gedeon (HUN)"]
@@ -20,7 +19,6 @@ Rfa8 20.Bxg7 Kxg7 21.Rxa4 Rxa4 22.g4 Ra2 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein David I (RUS)"]
@@ -39,7 +37,6 @@ Rd8 14.Rad1 Qb7 15.Rxd8+ Rxd8 16.Rd1 Rxd1+ 17.Qxd1 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "16"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Djurasevic Bozidar (YUG)"]
@@ -62,7 +59,6 @@ Ke8 36.Qe3 Qd5 37.Be5 Kd7 38.Kh2 Kc6 39.h4 Kd7 40.f3 Qc4 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -81,7 +77,6 @@ Ke8 36.Qe3 Qd5 37.Be5 Kd7 38.Kh2 Kc6 39.h4 Kd7 40.f3 Qc4 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "8"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Milic Borislav (YUG)"]
@@ -106,7 +101,6 @@ Ra8 48.Nc3 c6 49.Qb8 cxd5 50.Qxa8 d4 1-0
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Nievergelt Erwin"]
@@ -126,7 +120,6 @@ Nb4 14.h5 Nxd3+ 15.Qxd3 Qe8 16.hxg6 hxg6 17.Nf4 Ne5 18.dxe5 fxe5
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "14"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pirc Vasja (YUG)"]
@@ -148,7 +141,6 @@ Ba6 31.Rd2 Rxd2 32.Qxd2 Qd7 33.Qxd7 Nxd7 34.h4 Be7 35.Nf5 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Porreca Giorgio (ITA)"]
@@ -171,7 +163,6 @@ Kxd8 36.Bxb7 Kc7 37.Bf3 Be5 38.b5 Bb2 39.a5 Be5 40.b6+ axb6 41.cxb6+ 1-0
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1954.??.??"]
 [Round "18"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Trifunovic Petar (YUG)"]
@@ -191,7 +182,6 @@ Rae8 19.Rhg1 Kh8 20.Rdf1 Bd7 1/2-1/2
 
 [Event "Match \"Argentina-URS\""]
 [Site "Buenos Aires (Argentina)"]
-[Date "1954.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pilnik Hermann (GER)"]
@@ -212,7 +202,6 @@ Kf7 1/2-1/2
 
 [Event "Match \"Argentina-URS\""]
 [Site "Buenos Aires (Argentina)"]
-[Date "1954.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pilnik Hermann (GER)"]
@@ -236,7 +225,6 @@ Qd8 43.h4 Qd6 44.Kh2 Qd8 45.Qc6 Be8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -258,7 +246,6 @@ Ne6 31.Ne2 Ng7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bannik Anatoly (GER)"]
@@ -289,7 +276,6 @@ Ke6 75.Rce8+ Re7 76.f5+ Kd6 77.Kg5 Rbe1 78.Rd8+ Kc7 79.Rc8+ Kd6
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Byvshev Vasily Mikhailovich (RUS)"]
@@ -313,7 +299,6 @@ Bxc6 32.Rxc6 Qe8 33.Rc7 b5 34.Re7 Qc6 35.axb5 Qc1+ 36.Nf1 Raxd6
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -336,7 +321,6 @@ Bd8 37.Bd4 Qc7 38.h4 Bg6 39.Kh3 Bf5+ 40.Kh2 Bg6 41.Kg2 Bf5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Geller Efim P (RUS)"]
@@ -367,7 +351,6 @@ Kg8 76.Qb3 Kh7 77.Qd3+ Kg8 78.g5 hxg5 79.fxg5 Re5 80.Kf4 R5e6
 
 [Event "Ch URS"]
 [Site "Kiev (Ukraine)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sokolsky Alexey (BLR)"]
@@ -394,7 +377,6 @@ Kf5 59.c7 Ke4 60.Rd8 1-0
 
 [Event "Match \"England-URS\""]
 [Site "London (England)"]
-[Date "1954.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Milner Barry Philip S (ENG)"]
@@ -417,7 +399,6 @@ Qg8 36.Re7 Be6 37.Qe5 Bf7 38.Bf5 Rh5 39.Rb7 Be8 1-0
 
 [Event "Match \"URS-Uruguay\""]
 [Site "Montevideo (Uruguay)"]
-[Date "1954.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Corral Hector"]
@@ -438,7 +419,6 @@ Bd6 14.Bxd6 Qxd6 15.e4 Nh5 16.e5 Qh6 17.Qd2 Qxd2+ 18.Kxd2 g6
 
 [Event "Match \"URS-USA\""]
 [Site "New York (USA)"]
-[Date "1954.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -462,7 +442,6 @@ Rxd4 38.Rxe5 Re6 39.Rxd4 Rxe5+ 40.Kf2 Kh7 41.Qd2 Qe6 42.Bb2 Qh6
 
 [Event "Match \"France-URS\""]
 [Site "Paris (France)"]
-[Date "1954.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Belkadi Ridha (TUN)"]
@@ -483,7 +462,6 @@ Rf8 20.h5 Kh8 21.Nf2 Na6 22.exf5 e4 23.f6 Bxf6 24.Bxf6+ Rxf6
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1954.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Chistiakov Alexander N (RUS)"]
@@ -511,7 +489,6 @@ hxg4 59.fxg4 Kh7 60.Rc7 b5 61.Nf4 Kg8 62.Rxe7 Qxe7 63.Qe5 Kf7
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1954.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kan Ilya A (RUS)"]
@@ -538,7 +515,6 @@ Qxe1+ 54.Raxe1 Ne6 55.Rb7 Ng5 56.Kg2 g6 57.Rxb6 Rc2+ 58.Kg3 gxf5
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1954.??.??"]
 [Round "8"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lisitsyn Georgy (RUS)"]
@@ -560,7 +536,6 @@ Rb8 30.Be4 Nc3 31.Qh3 h6 32.Bd3 Qe8 33.Qf5 Kg8 34.Bc4+ 1-0
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1954.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Suetin Alexei S (RUS)"]

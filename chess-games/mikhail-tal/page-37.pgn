@@ -1,6 +1,5 @@
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Budva (Yugoslavia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bogdanovic Rajko (BIH)"]
@@ -22,7 +21,6 @@ Rxf1+ 19.Rxf1 Bb7 20.Qc2 e4 21.Bg4 Be7 22.Qf2 O-O-O 23.Bf4 Bd6
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Budva (Yugoslavia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Minic Dragoljub (CRO)"]
@@ -45,7 +43,6 @@ Qh4 32.Rf3 Rc7 33.Ref1 f6 34.f5 Qg5 35.fxg6 Qxc1 36.Rxc1 Ng5
 
 [Event ""]
 [Site "Budva (Yugoslavia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Geller Efim P (RUS)"]
@@ -65,7 +62,6 @@ Bxe3 14.Qxe3 Qb8 15.Bb3 Qb6 16.Qe2 Rad8 17.Nc3 Nxc3 18.bxc3 Ne7
 
 [Event "Ch URS (swiss)"]
 [Site "Kharkov (Ukraine)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Antoshin Vladimir S (RUS)"]
@@ -93,7 +89,6 @@ Nc8+ 66.Kb8 Kd7 67.Kb7 Ne7 68.Bc1 1-0
 
 [Event "Ch URS (swiss)"]
 [Site "Kharkov (Ukraine)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Chistiakov Alexander N (RUS)"]
@@ -120,7 +115,6 @@ Nc2 59.b5 Nb4 60.Bb7 Kd6 61.Bc6 Kc5 62.Kxf4 1-0
 
 [Event "Ch URS"]
 [Site "Alma-Ata (Kazakhstan)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -142,7 +136,6 @@ Bxf6 20.Bc5 Bf5 21.Rge1 Kf7 22.Nd2 Nxc5 23.Bxf5 Qxg2 24.b4 Nb7
 
 [Event "Ch URS"]
 [Site "Alma-Ata (Kazakhstan)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Liberzon Vladimir M (ISR)"]
@@ -173,7 +166,6 @@ Rd1 75.Ke4 Re1+ 76.Kd5 Rd1+ 77.Kc4 Rg1 78.Rc7 Ke8 79.Kd5 Rxg4
 
 [Event "Ch URS"]
 [Site "Alma-Ata (Kazakhstan)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sakharov Yuri N (RUS)"]
@@ -196,7 +188,6 @@ Bc4 37.Re5 Qa3 38.Rd7 Be6 39.Rd3 Qxa2 40.Qe3 Qc4 41.Bb7 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1968.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -214,7 +205,6 @@ dxe5 8.Qxd8 Rxd8 9.Nd5 Rd7 10.O-O-O Nc6 11.Bd3 Ng4 12.Bc5 Nd4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1968.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -235,7 +225,6 @@ Qd5 20.Rg4 Na5 21.Bxh6 Nxb3 22.Rb1 bxa4 23.Nxe5 Qe6 24.Qf3 c5
 
 [Event "Memorial V.Karseladze"]
 [Site "Gori (Georgia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Grigorian Levon (ARM)"]
@@ -264,7 +253,6 @@ Kc3 71.Bd1 Kc4 72.Ke4 Kc3 73.Kd5 f3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -287,7 +275,6 @@ Kxf5 36.h4 Kf6 37.Ke4 Ke6 38.a3 b5 39.cxb5 axb5 40.Kd3 Kd6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -310,7 +297,6 @@ Rc8 25.Bxc5 Rxc5 26.Rxd4 bxc4 27.Rd8+ Kh7 28.Rxa8 c3 29.e3 f5
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -333,7 +319,6 @@ Kc7 36.Kxe5 Rxb2 37.Rd4 h6 38.g5 Rb6 39.Rd3 Ra6 40.Rd4 Rb6 41.Rf4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "9"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -357,7 +342,6 @@ Kf8 42.Rd1 d5 43.Rde1 Kf7 44.h4 dxe4 45.Rxe4 h5 46.Qf4 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -376,7 +360,6 @@ Qa5 14.Bxb4 Qxb4 15.Rac1 Rac8 16.Rc4 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -395,7 +378,6 @@ c5 14.O-O b6 15.Bf3 Rb8 16.Rfd1 Bb7 17.Bxb7 Rxb7 18.dxc5 Nxc5 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -417,7 +399,6 @@ Ra7 31.Kd3 Ra4 32.Nd2 Ra3+ 33.Nb3 Ra4 34.Nd2 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Riga (Latvia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -435,7 +416,6 @@ g6 8.Nxc6 Bxc6 9.Bg5 Bg7 10.Nd5 O-O 11.Re1 e6 1/2-1/2
 
 [Event "It \"Hoogovens\""]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1968.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -453,7 +433,6 @@ Ne8 8.d4 cxd4 9.cxd4 Nc7 10.Ba4 d6 11.Rd1 Bg4 12.Nc3 Ne6 1/2-1/2
 
 [Event "It \"Hoogovens\""]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1968.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -474,7 +453,6 @@ Qc5 26.Rfc1 Qb6 27.Rf1 1/2-1/2
 
 [Event "It \"Hoogovens\""]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1968.??.??"]
 [Round "9"]
 [White "Tal Mikhail (LAT)"]
 [Black "Karaklajic Nikola (SCG)"]
@@ -501,7 +479,6 @@ Re1 54.Rc3 Rg1+ 55.Kf3 Rf1+ 56.Kg3 Rfe1 57.Rc2 R1e2 58.Kf3 R7e3+
 
 [Event "It \"Hoogovens\""]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1968.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -524,7 +501,6 @@ Qa6 37.Nc3 Bd3 38.Qa4 Nxc3 39.Qe8 Kg7 40.Qd7+ Kg8 41.bxc3 Be4 1/2-1/2
 
 [Event "It \"Hoogovens\""]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1968.??.??"]
 [Round "11"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ree Hans (NED)"]
@@ -547,14 +523,12 @@ Kb6 36.Rxa6+ Kb7 37.Qc1 Qf2+ 38.Kh2 Qg3+ 39.Kg1 Qf2+ 40.Kh2 Qg3+ 1/2-1/2
 
 [Event "USSR Championship 1968/69"]
 [Site "Alma-Ata (Almaty) URS"]
-[Date "1969.01.29"]
 [Round "18"]
 [White "Mikhail Tal"]
 [Black "Yuri Nikolaevich Sakharov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B97"]
-[EventDate "1968.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 

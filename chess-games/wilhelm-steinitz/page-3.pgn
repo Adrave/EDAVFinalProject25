@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "3"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Meiners W"]
@@ -20,7 +19,6 @@ Kh8 14.Nbd2 Ng8 15.Rad1 f6 16.Nc4 Qe7 17.Be3 Red8 18.Qf2 Bxe3
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "26"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Oudshoven WA"]
@@ -40,7 +38,6 @@ cxb6 20.Nc7+ Kf7 21.Rf1+ Kg7 22.Ne6+ Kh7 23.Rf7# 1-0
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "27"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Papot A"]
@@ -59,7 +56,6 @@ Nd7 14.Bf4 Ne5 15.Qe1 f6 16.cxd4 Qxd4 17.Qc3 Qxc3 18.bxc3 1-0
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "10"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Reyne"]
@@ -80,7 +76,6 @@ Ng6 25.Nxf6+ Kf7 26.Nxh7+ 1-0
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "30"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Steffelaar M"]
@@ -101,7 +96,6 @@ Nc6 25.Nf4 Ne7 26.Re1 Kh8 27.Qe4 1-0
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "31"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Timmer"]
@@ -122,7 +116,6 @@ Qf5 25.Nh5 Qxd5 26.Nxf6 Qxd4+ 27.Qxd4 Rxd4 28.Nxe8 1-0
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "14"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Van Dam R"]
@@ -143,7 +136,6 @@ Rh8 25.Qh5+ Kg8 26.Rxg7+ Kxg7 27.Rg1+ Kf8 28.Qxh8+ 1-0
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "1"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Van Der Elst J"]
@@ -166,7 +158,6 @@ Kc6 24.Ra5 a6 25.Bb6 Ra8 26.Bxc7 Kxc7 27.Kd2 Rab8 28.Rxb8 Kxb8
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "16"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Van Der Elst J"]
@@ -188,7 +179,6 @@ Qxh8 25.e7 Re8 26.Qd5 h5 27.g5 fxg5 28.Bxg5 Qg7 29.Qd8+ Rxd8
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "22"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Van Der Linden Arthur (BEL)"]
@@ -209,7 +199,6 @@ Be6 20.Qxb7 Nc5 21.Qc6 Bxg3 22.hxg3 Kh8 23.Qxc5 Rec8 24.Qd4 Rd8
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "24"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Van Der Meulen W"]
@@ -229,7 +218,6 @@ Nxd4 14.Qd3 Bd7 15.O-O-O Nc6 16.e5 Qe6 17.Bh3 Qe7 18.Nd5 Nxe5
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "9"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Van Meurs Rob (NED)"]
@@ -250,7 +238,6 @@ bxa4 25.Rxa6+ Ke5 26.Bb2+ 1-0
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "13"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Walter H F"]
@@ -271,7 +258,6 @@ Be8 20.Nexc7 Bxb5 21.Nxb5 Qd7 22.Rac1 Nd8 23.Rc7 Qe8 24.Qc2 Nxd5
 
 [Event "Simultan"]
 [Site "Harlem (Netherlands)"]
-[Date "1896.??.??"]
 [Round "32"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Willemse EJ"]
@@ -292,7 +278,6 @@ Qd6 19.g3 h5 20.Rad1 Nh7 21.Be3 Rf6 22.Qxh5 Bxg3 23.hxg3 Rh6
 
 [Event "Simultan"]
 [Site "Leiden (Netherlands)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Marx1"]
@@ -311,7 +296,6 @@ Nxe4 8.O-O Bxc3 9.bxc3 d5 10.Ba3 Be6 11.Bb5 Nxc3 12.Bxc6+ bxc6
 
 [Event ""]
 [Site "Magdeburg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lobbecke"]
@@ -331,7 +315,6 @@ Bxf2+ 8.Kxf2 Qh4+ 9.g3 Qxc4 10.Nxh8 Bg4 11.Qf1 Qe4 12.d3 Qf3+
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "13"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -354,7 +337,6 @@ Rg6+ 25.Kf1 Rh6 26.Nd6 Rxh2 27.Rxc5 Qh4 28.Ne4 f5 29.Ng3 Rxf2+
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -377,7 +359,6 @@ Nh6 37.e7 Re8 38.Re6 Rexe7 39.Qe4+ 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -399,7 +380,6 @@ Ra6 32.Qb5 Nc7 33.Qb8 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Marco Georg (AUT)"]
@@ -421,7 +401,6 @@ fxg5 25.Qxg5 h6 26.Qh5 bxc5 27.Nf7+ Kh7 28.Ng5+ Kh8 29.f6 gxf6
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Porges Moritz (AUT)"]
@@ -456,7 +435,6 @@ Kd6 94.Nxb5+ Kc5 95.Nc3 Kc4 96.Nxd5 Ra6 97.Nf6 Rxf6 98.Rxg4 Kd3
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Schallopp Emil (GER)"]
@@ -481,7 +459,6 @@ Kf4 47.b4 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Showalter Jackson W (USA)"]
@@ -503,7 +480,6 @@ Kc7 30.a5 Qh3 31.Re1 Qg2 32.Qf7+ 1-0
 
 [Event "Match"]
 [Site "Rostov on Don (Russia)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Schiffers Emanuel S (RUS)"]
@@ -526,14 +502,12 @@ Qa1 36.Qe4+ Kd6 37.g3 c5 38.Kg2 Qb2 39.Bd2 Qf6 40.Ng5 Qg6 41.Qe8 1-0
 
 [Event "Simul"]
 [Site "Hamburg GER"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Wagner"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "1896.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 

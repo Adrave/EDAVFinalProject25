@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Cleveland (USA)"]
-[Date "1957.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Stephans E"]
@@ -21,7 +20,6 @@ Kh8 14.Nxf6 e6 15.Bh6 Bb7 16.Bxg7+ Kxg7 17.Ng4 f5 18.exf5 Rxf5
 
 [Event "It (open)"]
 [Site "Log Cabin (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Goldsmith M"]
@@ -45,7 +43,6 @@ Ke7 42.Nb7 Kf6 43.Nd6 Re7 44.c7 1-0
 
 [Event ""]
 [Site "Milwaukee (USA)"]
-[Date "1957.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Sandrin Albert"]
@@ -69,7 +66,6 @@ Be3 42.Bf3 Kc7 43.Kd5 1-0
 
 [Event ""]
 [Site "Milwaukee (USA)"]
-[Date "1957.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Weinberger Tibor (USA)"]
@@ -91,7 +87,6 @@ Kf6 31.Qd4+ Kxe6 32.Rhe1+ Kd7 33.Qg7+ Kc6 34.Qc7+ Kb5 35.Qb7+ 1-0
 
 [Event "It"]
 [Site "New Jersey (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Sherwin James T (USA)"]
@@ -113,7 +108,6 @@ Qxf6 31.Rh7+ Ke8 32.Qxf6 Rxh7 33.Bc6+ 1-0
 
 [Event "It (open)"]
 [Site "New Jersey (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Di Camillo Antillo"]
@@ -138,7 +132,6 @@ Re4 48.Qg3 Rg4 49.d6 1-0
 
 [Event "It (open)"]
 [Site "New Jersey (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Green Maurice"]
@@ -164,7 +157,6 @@ Bxh8 49.bxa5 bxa5 50.Be6 Ne8 51.c4 Kf6 52.Bd7 Ke7 53.Bxe8 Kxe8
 
 [Event "It (open)"]
 [Site "New Jersey (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Saidy Anthony F (USA)"]
@@ -185,7 +177,6 @@ h5 25.Qxe5 Ba7 26.Qg3 1-0
 
 [Event "Blitz"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "2"]
 [White "Fischer"]
 [Black "Cardoso Radolfo Tan (PHI)"]
@@ -207,7 +198,6 @@ Rxf8 30.Rxf8+ Kg7 31.gxh7 1-0
 
 [Event "Blitz"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "8"]
 [White "Fischer"]
 [Black "Cardoso Radolfo Tan (PHI)"]
@@ -229,7 +219,6 @@ Bxg7 31.gxf5 Kf8 32.e7+ 1-0
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -253,7 +242,6 @@ Qg4 31.Nc5+ Kb8 32.g3 Qxd4 33.Be3 Qa1 34.Rb1 Ra3 35.Nd7+ Kb7
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Di Camillo Antillo"]
@@ -282,7 +270,6 @@ Rd5 64.Nf6 Ra5 65.Ne4 Rd5 66.Nd6+ Kf8 67.Ke6 Rd1 68.Be7+ Kg7
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Feuerstein Arthur (USA)"]
@@ -306,7 +293,6 @@ Nb3 42.Ke2 Nd4+ 43.Kd3 Kf8 44.Nc6 1-0
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Mednis Edmar J (USA)"]
@@ -329,7 +315,6 @@ Re8 36.Qg5+ Kd7 37.Rf7+ Kc8 38.Qf5+ Kb8 1-0
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Sherwin James T (USA)"]
@@ -352,7 +337,6 @@ h4 36.Be6 1-0
 
 [Event "Ch USA (open)"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Mednis Edmar J (USA)"]
@@ -377,7 +361,6 @@ Kf5 48.Kb7 Kg4 49.g6 Kxh4 50.g7 1-0
 
 [Event "Ch USA (open)"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Rinaldo John"]
@@ -398,7 +381,6 @@ Ne7 20.dxc5 Nxd5 21.Bb3 Nf6 22.cxd6 Qxd6 23.Ng5 Rf8 24.Be3 Qxd1
 
 [Event "Ch USA (open)"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Witte V"]
@@ -422,7 +404,6 @@ Bb5 36.Re5+ Kd6 37.Re6+ Kc5 38.Rf4 Nd6 39.Re5+ Kc6 40.c4 Nxf7
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Neikirkh Oleg N (BUL)"]
@@ -441,7 +422,6 @@ Nf5 8.Qe2 Nd4 9.Nxd4 Qxd4 10.Nc3 Bg4 11.Qe3 Qxe3 12.Bxe3 Bb4
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Panno Oscar (ARG)"]
@@ -461,7 +441,6 @@ Rxd8 19.Rd1 Re8 20.Bf2 a5 21.Bxc5 1/2-1/2
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Rossetto Hector (ARG)"]
@@ -490,7 +469,6 @@ Ng5+ 70.Ke3 Nxh7 71.Kd4 Nf6 72.g4 Nxg4 73.Kxd5 1/2-1/2
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -512,7 +490,6 @@ hxg3 31.Rxg3 Qb1+ 32.Kh2 Qf5 33.Kg1 1/2-1/2
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -535,7 +512,6 @@ Nf8 31.Rd6+ Kf7 32.Rb6 Rxb2 33.Rdd6 a5 34.Rb7+ Kg8 35.Rxf6 Re8
 
 [Event "Match (training)"]
 [Site ""]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Janosevic Dragoljub (YUG)"]
@@ -558,14 +534,12 @@ Rxe1 36.Kxe1 Nd3+ 37.Bxd3 Bxd3 1/2-1/2
 
 [Event "Simul, 13b"]
 [Site "New York, NY USA"]
-[Date "1958.05.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Walter Harris"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 

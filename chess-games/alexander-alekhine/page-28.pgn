@@ -1,6 +1,5 @@
 [Event "Game (exhibition)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -22,7 +21,6 @@ Qa4+ 30.Kb1 Rd1+ 31.Bc1 1-0
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -45,7 +43,6 @@ h5 31.Red1 Kf8 32.Rf1 Re7 33.f5 gxf5 34.Rxf5+ Ke8 35.Rxe7+ Kxe7
 
 [Event "Match"]
 [Site "Berlin (Germany)"]
-[Date "1921.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Teichmann Richard (GER)"]
@@ -68,7 +65,6 @@ Nd6 37.Bxh6 Nxe4 38.Rxe4 Nxd5 39.Qc1 1-0
 
 [Event "Match"]
 [Site "Berlin (Germany)"]
-[Date "1921.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Teichmann Richard (GER)"]
@@ -91,7 +87,6 @@ Rf5+ 36.Kc4 1-0
 
 [Event "Match"]
 [Site "Berlin (Germany)"]
-[Date "1921.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Teichmann Richard (GER)"]
@@ -114,7 +109,6 @@ Ne3 36.Ra3 f2 37.Na4 bxa4 38.Rxe3 Rd8 0-1
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -135,7 +129,6 @@ Nc5 14.Bc2 Rd8 15.Rad1 Bg4 16.f3 Ne6 17.Qf2 Nxd4 18.Rxd4 Be6
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Schweiger J"]
@@ -158,7 +151,6 @@ Rb8 31.f5 gxf5 32.gxf5 Rg7+ 33.Kh3 Rg5 34.Rf3 Rh5+ 35.Kg4 Rg5+
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Sterk Karoly (HUN)"]
@@ -179,7 +171,6 @@ Rc5 25.Qg3 g6 26.Rxa4 Qd3 27.Rf1 Rac8 28.Rd4 Qf5 29.Qf4 Qc2 30.Qh6 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -205,7 +196,6 @@ Nc3 48.Ra8 Kc7 49.Na7 Re7 50.Kf1 Ne4 51.Rc8+ Kd6 52.Rd8+ Kc7
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vajda Arpad (HUN)"]
@@ -232,7 +222,6 @@ Qb2 57.e5 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Von Balla Zoltan (HUN)"]
@@ -252,7 +241,6 @@ Nxe5 14.dxe5 Bxc3+ 15.bxc3 b6 16.O-O Bd7 17.Rfd1 Ba4 18.Qb1 Nxc3
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Davidson Jacques"]
@@ -277,7 +265,6 @@ Kg6 47.Bg3 h5 48.Ke2 Re8 49.Nd5 Qb5 50.Nf4+ 1-0
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -297,7 +284,6 @@ fxg5 20.Bc4+ 1-0
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -317,7 +303,6 @@ fxe5 20.Bc4+ 1-0
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -342,7 +327,6 @@ fxe4+ 43.fxe4 exd5 44.exd5 Ra4 45.Rd1 Kxh6 46.d6 Kh5 47.d7 Ra8
 
 [Event "It"]
 [Site "Triberg (Germany)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -363,7 +347,6 @@ Re7 25.Kf2 h6 26.Re1 Bc8 27.Qf3 Ref7 28.Qd5 g5 29.Re7 gxf4 30.gxf4 1-0
 
 [Event "It"]
 [Site "Triberg (Germany)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Brinckmann Alfred (GER)"]
@@ -383,7 +366,6 @@ b4 19.O-O Qd6 20.d4 Nc4 21.Bf4 Qe7 22.Qd3 Qe6 23.Rae1 1-0
 
 [Event "It"]
 [Site "Triberg (Germany)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Selezniev Alexey Ser"]
@@ -409,7 +391,6 @@ Kc3 47.Kf6 Kd3 48.Kxg6 Ke2 49.Ng4 Kf3 50.Ne5+ Kxf2 51.Kxh6 Kg2
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reti Richard (CZE)"]
@@ -436,7 +417,6 @@ Kf7 59.g4 Rxg4 60.Rxg4 fxg4+ 61.Kxg4 Kg7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Muller E / Wiesendange"]
@@ -458,14 +438,12 @@ Rfd8 25.Rd4 Kf8 26.g4 Nxd5 27.Rcd1 Ke7 28.Re1+ Kf8 29.Nxd5 Bxd5
 
 [Event "Budapest"]
 [Site "Budapest HUN"]
-[Date "1921.09.09"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Karoly Sterk"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "1921.09.05"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -479,14 +457,12 @@ Rfd8 25.Rd4 Kf8 26.g4 Nxd5 27.Rcd1 Ke7 28.Re1+ Kf8 29.Nxd5 Bxd5
 
 [Event "Budapest"]
 [Site "Budapest HUN"]
-[Date "1921.09.05"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "1921.09.05"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -500,14 +476,12 @@ Rfd8 25.Rd4 Kf8 26.g4 Nxd5 27.Rcd1 Ke7 28.Re1+ Kf8 29.Nxd5 Bxd5
 
 [Event "Bad Pistyan"]
 [Site "Piestany CSR"]
-[Date "1922.04.28"]
 [Round "19"]
 [White "Alexander Alekhine"]
 [Black "Richard Reti"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E67"]
-[EventDate "1922.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -521,14 +495,12 @@ Rfd8 25.Rd4 Kf8 26.g4 Nxd5 27.Rcd1 Ke7 28.Re1+ Kf8 29.Nxd5 Bxd5
 
 [Event "Blindfold simul, 12b"]
 [Site "Prague CSR"]
-[Date "1922.05.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Arnold"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "1922.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -544,14 +516,12 @@ Rfd8 25.Rd4 Kf8 26.g4 Nxd5 27.Rcd1 Ke7 28.Re1+ Kf8 29.Nxd5 Bxd5
 
 [Event "Vienna"]
 [Site "Vienna AUT"]
-[Date "1922.11.13"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Richard Reti"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "1922.11.13"]
 [PlyCount "118"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Tbilisi FIDE GP 2015"]
 [Site "Tbilisi GEO"]
-[Date "2015.02.22"]
 [Round "7.2"]
 [White "Grischuk, A."]
 [Black "Mamedyarov, S."]
@@ -9,7 +8,6 @@
 [WhiteElo "2810"]
 [BlackElo "2759"]
 [PlyCount "126"]
-[EventDate "2015.02.15"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "GEO"]
@@ -31,7 +29,6 @@ g3 Bg4 61. h6 Bf5 62. g4 Bg6 63. Bf6 Ka3 0-1
 
 [Event "10th World Teams 2015"]
 [Site "Tsaghkadzor ARM"]
-[Date "2015.04.20"]
 [Round "2.5"]
 [White "Grischuk, A."]
 [Black "Dominguez Perez, L."]
@@ -40,7 +37,6 @@ g3 Bg4 61. h6 Bf5 62. g4 Bg6 63. Bf6 Ka3 0-1
 [WhiteElo "2794"]
 [BlackElo "2729"]
 [PlyCount "188"]
-[EventDate "2015.04.19"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "ARM"]
@@ -70,7 +66,6 @@ Qg4+ Qe2 91. Be7 Ne5 92. Qxe2+ Kxe2 93. h4 f3 94. Bc5 Nd3 0-1
 
 [Event "TCh-RUS Men 2015"]
 [Site "Sochi RUS"]
-[Date "2015.05.04"]
 [Round "4.3"]
 [White "Grischuk, A."]
 [Black "Potapov, P."]
@@ -79,7 +74,6 @@ Qg4+ Qe2 91. Be7 Ne5 92. Qxe2+ Kxe2 93. h4 f3 94. Bc5 Nd3 0-1
 [WhiteElo "2794"]
 [BlackElo "2471"]
 [PlyCount "67"]
-[EventDate "2015.05.01"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -98,7 +92,6 @@ Nh5 28. g4 Ng3+ 29. Kg2 Bxd4 30. a5 Qc5 31. Kxg3 Be5+ 32. Kg2 Qa3 33. Rxe5 dxe5
 
 [Event "TCh-RUS Men 2015"]
 [Site "Sochi RUS"]
-[Date "2015.05.06"]
 [Round "6.2"]
 [White "Grischuk, A."]
 [Black "Nepomniachtchi, I."]
@@ -107,7 +100,6 @@ Nh5 28. g4 Ng3+ 29. Kg2 Bxd4 30. a5 Qc5 31. Kxg3 Be5+ 32. Kg2 Qa3 33. Rxe5 dxe5
 [WhiteElo "2794"]
 [BlackElo "2714"]
 [PlyCount "160"]
-[EventDate "2015.05.01"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -133,7 +125,6 @@ Kf4 Kc6 79. g4 Kc5 80. Rd1 Rf8+ 1-0
 
 [Event "KM FIDE GP 2015"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2015.05.22"]
 [Round "8.5"]
 [White "Grischuk, A."]
 [Black "Karjakin, Sergey"]
@@ -142,7 +133,6 @@ Kf4 Kc6 79. g4 Kc5 80. Rd1 Rf8+ 1-0
 [WhiteElo "2780"]
 [BlackElo "2753"]
 [PlyCount "79"]
-[EventDate "2015.05.14"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "RUS"]
@@ -161,7 +151,6 @@ Rf5 35. Re3 Rg5 36. Rg3 Nxe5 37. Rxg5 hxg5 38. Nxc4 Kg6 39. Qe8+ Nf7 40. Qg8
 
 [Event "KM FIDE GP 2015"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2015.05.20"]
 [Round "6.6"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -170,7 +159,6 @@ Rf5 35. Re3 Rg5 36. Rg3 Nxe5 37. Rxg5 hxg5 38. Nxc4 Kg6 39. Qe8+ Nf7 40. Qg8
 [WhiteElo "2780"]
 [BlackElo "2803"]
 [PlyCount "150"]
-[EventDate "2015.05.14"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "RUS"]
@@ -194,7 +182,6 @@ Rg2+ 73. Kf1 Rc2 74. Rb6 Bc4+ 75. Ke1 Rg2 0-1
 
 [Event "3rd Norway Blitz 2015"]
 [Site "Stavanger NOR"]
-[Date "2015.06.15"]
 [Round "8.5"]
 [White "Grischuk, A."]
 [Black "Carlsen, M."]
@@ -203,7 +190,6 @@ Rg2+ 73. Kf1 Rc2 74. Rb6 Bc4+ 75. Ke1 Rg2 0-1
 [WhiteElo "2781"]
 [BlackElo "2876"]
 [PlyCount "107"]
-[EventDate "2015.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -224,7 +210,6 @@ hxg5 53. b6 g4+ 54. Ke2 1-0
 
 [Event "3rd Norway Blitz 2015"]
 [Site "Stavanger NOR"]
-[Date "2015.06.15"]
 [Round "3.3"]
 [White "Grischuk, A."]
 [Black "Topalov, V."]
@@ -233,7 +218,6 @@ hxg5 53. b6 g4+ 54. Ke2 1-0
 [WhiteElo "2781"]
 [BlackElo "2798"]
 [PlyCount "74"]
-[EventDate "2015.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -251,7 +235,6 @@ Ng1 Ng6 35. Ne2 b5 36. Qc3 Nf4+ 37. Kf3 Nxe2 0-1
 
 [Event "3rd Norway Chess 2015"]
 [Site "Stavanger NOR"]
-[Date "2015.06.19"]
 [Round "4.4"]
 [White "Grischuk, A."]
 [Black "Hammer, J."]
@@ -260,7 +243,6 @@ Ng1 Ng6 35. Ne2 b5 36. Qc3 Nf4+ 37. Kf3 Nxe2 0-1
 [WhiteElo "2781"]
 [BlackElo "2677"]
 [PlyCount "97"]
-[EventDate "2015.06.16"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -282,7 +264,6 @@ Kc4 Rh4+ 47. Kc3 Rh3+ 48. Kb2 Kxh6 49. Rxa5 1-0
 
 [Event "3rd Sinquefield Cup 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.08.29"]
 [Round "6.5"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -291,7 +272,6 @@ Kc4 Rh4+ 47. Kc3 Rh3+ 48. Kb2 Kxh6 49. Rxa5 1-0
 [WhiteElo "2771"]
 [BlackElo "2808"]
 [PlyCount "80"]
-[EventDate "2015.08.23"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -309,7 +289,6 @@ Qe5 35. Qe1 Bc4 36. Bd4 Qf4 37. Be3 Qe5 38. Bd4 Qf4 39. Rg7+ Kf8 40. Qa1 b4 1-0
 
 [Event "3rd Sinquefield Cup 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.08.24"]
 [Round "2.5"]
 [White "Grischuk, A."]
 [Black "Anand, V."]
@@ -318,7 +297,6 @@ Qe5 35. Qe1 Bc4 36. Bd4 Qf4 37. Be3 Qe5 38. Bd4 Qf4 39. Rg7+ Kf8 40. Qa1 b4 1-0
 [WhiteElo "2771"]
 [BlackElo "2816"]
 [PlyCount "69"]
-[EventDate "2015.08.23"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -336,7 +314,6 @@ Nc6 28. Bc3 e5 29. dxe5 d4 30. Bb4 Nxe5 31. Nxe5+ fxe5 32. Ke2 e4 33. f3 d3+
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.11"]
 [Round "9.21"]
 [White "Grischuk, A."]
 [Black "Petrosian, TL."]
@@ -345,7 +322,6 @@ Nc6 28. Bc3 e5 29. dxe5 d4 30. Bb4 Nxe5 31. Nxe5+ fxe5 32. Ke2 e4 33. f3 d3+
 [WhiteElo "2774"]
 [BlackElo "2625"]
 [PlyCount "123"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -366,7 +342,6 @@ hxg5 h4 60. Kb6 Rb2 61. Rd3 Kg6 62. c7 1-0
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.10"]
 [Round "5.31"]
 [White "Grischuk, A."]
 [Black "Anton Guijarro, D."]
@@ -375,7 +350,6 @@ hxg5 h4 60. Kb6 Rb2 61. Rd3 Kg6 62. c7 1-0
 [WhiteElo "2774"]
 [BlackElo "2634"]
 [PlyCount "103"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -394,7 +368,6 @@ Kxe5 48. Bxd7 Kxd6 49. Be8 Ke7 50. Rh8 Nd3+ 51. Kg3 Ne5 52. f4 1-0
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.10"]
 [Round "1.2"]
 [White "Grischuk, A."]
 [Black "Adhiban, Baskaran"]
@@ -403,7 +376,6 @@ Kxe5 48. Bxd7 Kxd6 49. Be8 Ke7 50. Rh8 Nd3+ 51. Kg3 Ne5 52. f4 1-0
 [WhiteElo "2774"]
 [BlackElo "2674"]
 [PlyCount "63"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -419,7 +391,6 @@ Qe3 Rbd6 28. Qh6 exf5 29. Qxh7+ Kf8 30. Qxg6 Be6 31. Nxe6+ Rxe6 32. Bh5 1-0
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.22"]
 [Round "5.1"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -428,7 +399,6 @@ Qe3 Rbd6 28. Qh6 exf5 29. Qxh7+ Kf8 30. Qxg6 Be6 31. Nxe6+ Rxe6 32. Bh5 1-0
 [WhiteElo "2774"]
 [BlackElo "2796"]
 [PlyCount "97"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -449,7 +419,6 @@ Kd3 a4 47. bxa4 Kb6 48. Kc3 Ka5 49. Kb3 1-0
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "18.3"]
 [White "Grischuk, A."]
 [Black "Karjakin, Sergey"]
@@ -458,7 +427,6 @@ Kd3 a4 47. bxa4 Kb6 48. Kc3 Ka5 49. Kb3 1-0
 [WhiteElo "2774"]
 [BlackElo "2762"]
 [PlyCount "121"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -479,7 +447,6 @@ Kd4 Ra4+ 61. Kxd5 1-0
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "14.8"]
 [White "Grischuk, A."]
 [Black "Bocharov, D."]
@@ -488,7 +455,6 @@ Kd4 Ra4+ 61. Kxd5 1-0
 [WhiteElo "2774"]
 [BlackElo "2560"]
 [PlyCount "71"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -505,7 +471,6 @@ Bd7 28. Rb6 Qg5 29. Rxe5 dxe5 30. Qxe5+ Qg7 31. Nf3 Rf8 32. Rb7 Nf6 33. Ne6 Qh6
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "10.10"]
 [White "Grischuk, A."]
 [Black "Cheparinov, I."]
@@ -514,7 +479,6 @@ Bd7 28. Rb6 Qg5 29. Rxe5 dxe5 30. Qxe5+ Qg7 31. Nf3 Rf8 32. Rb7 Nf6 33. Ne6 Qh6
 [WhiteElo "2774"]
 [BlackElo "2681"]
 [PlyCount "103"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -533,7 +497,6 @@ Na6 41. Qb1 Kf7 42. Qb6 Qxb6 43. axb6 Ke8 44. Nc4 g5 45. Ne5 Kd8 46. Nf7+ Kd7
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "8.25"]
 [White "Grischuk, A."]
 [Black "Sethuraman, S."]
@@ -542,7 +505,6 @@ Na6 41. Qb1 Kf7 42. Qb6 Qxb6 43. axb6 Ke8 44. Nc4 g5 45. Ne5 Kd8 46. Nf7+ Kd7
 [WhiteElo "2774"]
 [BlackElo "2640"]
 [PlyCount "107"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -562,7 +524,6 @@ Ke7 53. Ra8 Nb5 54. Ra5 1-0
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "2.5"]
 [White "Grischuk, A."]
 [Black "Bartel, Mat"]
@@ -571,7 +532,6 @@ Ke7 53. Ra8 Nb5 54. Ra5 1-0
 [WhiteElo "2774"]
 [BlackElo "2622"]
 [PlyCount "57"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -587,7 +547,6 @@ Rxc7 29. Nd8+ 1-0
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.12"]
 [Round "14.25"]
 [White "Grischuk, A."]
 [Black "Kovalev, Vl"]
@@ -596,7 +555,6 @@ Rxc7 29. Nd8+ 1-0
 [WhiteElo "2774"]
 [BlackElo "2546"]
 [PlyCount "155"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -620,7 +578,6 @@ Rb1+ 1-0
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.12"]
 [Round "11.25"]
 [White "Grischuk, A."]
 [Black "Navara, D."]
@@ -629,7 +586,6 @@ Rb1+ 1-0
 [WhiteElo "2774"]
 [BlackElo "2734"]
 [PlyCount "79"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -646,7 +602,6 @@ Kxg3 Kg6 35. Re7 Ra2 36. b5 h4+ 37. Kf4 Rxg2 38. b6 Rg3 39. b7 Be4 40. b8=Q 1-0
 
 [Event "7th London Classic 2015"]
 [Site "London ENG"]
-[Date "2015.12.10"]
 [Round "6.1"]
 [White "Grischuk, A."]
 [Black "Anand, V."]
@@ -655,7 +610,6 @@ Kxg3 Kg6 35. Re7 Ra2 36. b5 h4+ 37. Kf4 Rxg2 38. b6 Rg3 39. b7 Be4 40. b8=Q 1-0
 [WhiteElo "2747"]
 [BlackElo "2796"]
 [PlyCount "107"]
-[EventDate "2015.12.04"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -676,7 +630,6 @@ b6 Rxa4 54. Rb8 1-0
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.16"]
 [Round "2.6"]
 [White "Grischuk, Alexander"]
 [Black "Fedoseev, Vl3"]
@@ -684,7 +637,6 @@ b6 Rxa4 54. Rb8 1-0
 [WhiteElo "2771"]
 [BlackElo "2659"]
 [ECO "E15"]
-[EventDate "2015.09.11"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. 
 Bc3 d5 9. Nbd2 Nbd7 10. Qc2 Rc8 11. e4 dxe4 12. Nxe4 Nxe4 13. Qxe4 Nf6 14.
@@ -696,7 +648,6 @@ Bc3 d5 9. Nbd2 Nbd7 10. Qc2 Rc8 11. e4 dxe4 12. Nxe4 Nxe4 13. Qxe4 Nf6 14.
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.13"]
 [Round "1.7"]
 [White "Grischuk, Alexander"]
 [Black "Atabayev, Yusup"]
@@ -704,7 +655,6 @@ Bc3 d5 9. Nbd2 Nbd7 10. Qc2 Rc8 11. e4 dxe4 12. Nxe4 Nxe4 13. Qxe4 Nf6 14.
 [WhiteElo "2771"]
 [BlackElo "2428"]
 [ECO "B30"]
-[EventDate "2015.09.11"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 Ng6 7. c3 Be7 
 8. d4 cxd4 9. cxd4 d5 10. e5 O-O 11. Nc3 f6 12. exf6 Bxf6 13. g3 b5 14. a4

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Calcutta (India)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Barua Dibyendu (IND)"]
@@ -24,7 +23,6 @@ Qxf5 37.gxf5 Kf8 38.Bd5 Ke8 39.Kg2 Kd7 40.Kf3 Be5 41.Bc5 Bxd6
 
 [Event "It"]
 [Site "Calcutta (India)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Donchev Dimitar I (BUL)"]
@@ -49,7 +47,6 @@ Kg7 49.Qd7+ Kg6 50.Qd6+ Nf6 51.Kg2 Rd5 0-1
 
 [Event "It (cat.8)"]
 [Site "Calcutta (India)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Murshed Niaz (BAN)"]
@@ -76,7 +73,6 @@ Nc2 48.Re2 Ne3+ 49.Kg1 Rxb7 50.Rxb7 Bxa5 51.Ra2 Bc3 52.Raa7 Nxf5
 
 [Event "It (cat.8)"]
 [Site "Calcutta (India)"]
-[Date "1986.??.??"]
 [Round "22"]
 [White "Anand Viswanathan (IND)"]
 [Black "Thipsay Praveen M (IND)"]
@@ -101,7 +97,6 @@ Nxb3 36.axb3 Rb8 37.b4 Kg7 38.h4 Rb5 39.hxg5 Qxg5 40.Qc3+ Kh7
 
 [Event "It (cat.8)"]
 [Site "Calcutta (India)"]
-[Date "1986.??.??"]
 [Round "36"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tseshkovsky Vitaly (RUS)"]
@@ -123,7 +118,6 @@ f6 31.Re1 fxe5 32.Rxe3 Rxb2 33.c4 exd4 0-1
 
 [Event "Olympiad"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Guevara Martin (NCA)"]
@@ -148,7 +142,6 @@ Bc5+ 42.Kf1 Rxd2 43.Bxd2 Ke6 44.Ke2 Kf5 45.b4 Be7 46.Kf3 Ke5
 
 [Event "Olympiad"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Jadoul Michel (BEL)"]
@@ -168,7 +161,6 @@ Rc8 14.h3 Bxf3 15.Qxf3 Nc4 16.Bxc4 Rxc4 17.Qd3 Rb4 18.Be3 Nd7
 
 [Event "Olympiad"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Mateo Ramon (DOM)"]
@@ -190,7 +182,6 @@ e4 31.Rhe1 e3 32.Rc4 Bg5 33.h4 Bh6 34.g4 Rd6 35.g5 1-0
 
 [Event "Olympiad"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Seirawan Yasser (USA)"]
@@ -214,7 +205,6 @@ Bxa1 42.g5 Be5 43.f8Q Rxf8 44.Bxf8 Rb2 45.Rf5 1/2-1/2
 
 [Event ""]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "12"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ardiansyah H (INA)"]
@@ -237,7 +227,6 @@ Qxb5 37.Rfg1 axb3 38.Rxg7 Qa6 0-1
 
 [Event ""]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Lodhi Mahmood (PAK)"]
@@ -266,7 +255,6 @@ Kd3 70.g5 Ne1+ 71.Kg3 Ke2 72.Re8+ 1-0
 
 [Event "Ch World (juniors)"]
 [Site "Gausdal (Norway)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -287,7 +275,6 @@ Kg8 25.Rxc8 Rxc8 26.Rxc8+ Nxc8 27.Ng5 1-0
 
 [Event ""]
 [Site "Gausdal (Norway)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Granda Zuniga Julio E (PER)"]
@@ -309,7 +296,6 @@ Nb5 31.bxc5 Nxa3+ 1/2-1/2
 
 [Event ""]
 [Site "Gausdal (Norway)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hellers Ferdinand (SWE)"]
@@ -330,7 +316,6 @@ Rd5 25.Ke2 Ke6 26.Rg1 Rd8 27.Rg3 Bb4 28.Rh3 h5 29.Rg3 Kf7 1/2-1/2
 
 [Event ""]
 [Site "Gausdal (Norway)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Horvath Csaba (HUN)"]
@@ -353,7 +338,6 @@ hxg6 36.g4 1/2-1/2
 
 [Event ""]
 [Site "Gausdal (Norway)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nikolic Nebojsa (BIH)"]
@@ -377,7 +361,6 @@ Rxd8 37.Kh2 Nxg2 38.Rg1 Rd2 39.Qg3 Nf4+ 40.Kh1 Qh6 41.Be3 Bxh3
 
 [Event ""]
 [Site "Gausdal (Norway)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Thorhallsson Throstur (ISL)"]
@@ -400,7 +383,6 @@ Qd7 26.Qf3 Kh8 27.Ng1 b3 28.axb3 Rxb3 29.Qe2 Qb7 30.Nh3 Nxe4
 
 [Event "Ch India"]
 [Site "India"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Thipsay Praveen M (IND)"]
@@ -425,7 +407,6 @@ Qxc1 42.Bxc1 e4 43.f3 exf3+ 44.Kxf3 Be5 45.g4 f5 46.gxf5 gxf5
 
 [Event "It (open) \"Lloyds Bank\""]
 [Site "London (England)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "De Firmian Nick E (USA)"]
@@ -447,7 +428,6 @@ Kf5 25.Rg7 d3 26.Rd1 e4 27.Nxe7+ Nxe7 28.Rf7+ Rxf7 29.Qxf7+ Ke5
 
 [Event "It (open) \"Lloyds Bank\""]
 [Site "London (England)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "McDonald Neil R (ENG)"]
@@ -471,7 +451,6 @@ Bg2+ 41.Kh4 Bf1 42.g4 Be2 43.Bg3 Rg2 44.Rxe2 Rxe2 45.h6 1-0
 
 [Event "It (young masters)"]
 [Site "Oakham (England)"]
-[Date "1986.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -496,7 +475,6 @@ Kb8 48.d7 Rd8 49.Qd6+ 1-0
 
 [Event "It (young masters)"]
 [Site "Oakham (England)"]
-[Date "1986.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Burgess Mark R (SCO)"]
@@ -521,7 +499,6 @@ Kxf6 47.Bg4 Ne6+ 48.Kd5 1-0
 
 [Event "It (young masters)"]
 [Site "Oakham (England)"]
-[Date "1986.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Horvath Csaba (HUN)"]
@@ -547,7 +524,6 @@ Rg3 42.Qb4 Bg5 43.Qb8 Kh5 44.Rad6 Bf4 45.Qh8+ Kg4 46.Rf6 Qe4
 
 [Event "It (young masters)"]
 [Site "Oakham (England)"]
-[Date "1986.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Pulkkinen Kari (FIN)"]
@@ -568,7 +544,6 @@ Rd3 24.Qxf7 Qh5+ 25.Kg2 1-0
 
 [Event "It (open) \"Lloyds Bank\""]
 [Site "London (England)"]
-[Date "1986.08.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Mannion Stephen R (SCO)"]

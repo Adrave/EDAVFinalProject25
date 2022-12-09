@@ -5,7 +5,6 @@
 [BlackFideId "13300474"]
 [Result "1/2-1/2"]
 [Round "10"]
-[Date "Sat Nov 09 2019"]
 [WhiteClock "0:02:57"]
 [BlackClock "0:02:10"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "14105730"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Thu Nov 07 2019"]
 [WhiteClock "0:01:11"]
 [BlackClock "0:01:11"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "24101605"]
 [Result "1/2-1/2"]
 [Round "12"]
-[Date "Sat Nov 09 2019"]
 [WhiteClock "0:00:20"]
 [BlackClock "0:00:12"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "24116068"]
 [Result "1/2-1/2"]
 [Round "14"]
-[Date "Sat Nov 09 2019"]
 [WhiteClock "0:00:05"]
 [BlackClock "0:00:29"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "5202213"]
 [Result "1/2-1/2"]
 [Round "22"]
-[Date "Sun Nov 10 2019"]
 [WhiteClock "0:03:15"]
 [BlackClock "0:03:22"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "4692055"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Thu Oct 31 2019"]
 [WhiteClock "0:29:47"]
 [BlackClock "0:11:25"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "13300474"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Fri Nov 01 2019"]
 [WhiteClock "0:18:57"]
 [BlackClock "0:54:16"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "662399"]
 [Result "1/2-1/2"]
 [Round "02"]
-[Date "Fri Oct 25 2019"]
 [WhiteClock "0:32:51"]
 [BlackClock "0:21:17"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "309095"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Sun Oct 27 2019"]
 [WhiteClock "1:04:37"]
 [BlackClock "1:28:11"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "4122356"]
 [Result "1/2-1/2"]
 [Round "1-01"]
-[Date "Wed Dec 11 2019"]
 [WhiteClock "0:11:04"]
 [BlackClock "0:04:46"]
 
@@ -155,7 +145,6 @@
 [BlackFideId "8602883"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:16:03"]
 [BlackClock "0:16:49"]
 
@@ -170,7 +159,6 @@
 [BlackFideId "4138147"]
 [Result "1/2-1/2"]
 [Round "02"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:01:04"]
 [BlackClock "0:00:29"]
 
@@ -185,7 +173,6 @@
 [BlackFideId "12573981"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:50"]
 [BlackClock "0:01:04"]
 
@@ -200,7 +187,6 @@
 [BlackFideId "1170546"]
 [Result "1/2-1/2"]
 [Round "12"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:03"]
 [BlackClock "0:03:07"]
 
@@ -215,7 +201,6 @@
 [BlackFideId "13401378"]
 [Result "1/2-1/2"]
 [Round "10"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:14:13"]
 [BlackClock "0:13:02"]
 
@@ -230,7 +215,6 @@
 [BlackFideId "4102142"]
 [Result "1/2-1/2"]
 [Round "20"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:41"]
 [BlackClock "0:00:46"]
 
@@ -245,7 +229,6 @@
 [BlackFideId "4113403"]
 [Result "1/2-1/2"]
 [Round "16"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:13"]
 [BlackClock "0:00:02"]
 
@@ -255,7 +238,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.13"]
 [Round "2.3"]
 [White "Mamedyarov,S"]
 [Black "Radjabov,T"]
@@ -264,7 +246,6 @@
 [BlackFideId "13400924"]
 [BlackTitle "GM"]
 [ECO "D76"]
-[EventDate "2019.01.12"]
 [Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
 [WhiteElo "2817"]
 [WhiteFideId "13401319"]
@@ -280,7 +261,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.08"]
 [Round "1"]
 [White "Mamedyarov,S"]
 [Black "Gozzoli,Y"]
@@ -290,7 +270,6 @@
 [BlackTeam "San Francisco Mechanics"]
 [BlackTitle "GM"]
 [ECO "D11"]
-[EventDate "2019.01.08"]
 [Opening "QGD Slav"]
 [Variation "3.Nf3"]
 [WhiteElo "2817"]
@@ -313,7 +292,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.15"]
 [Round "4.5"]
 [White "Mamedyarov,S"]
 [Black "Nepomniachtchi,I"]
@@ -322,7 +300,6 @@
 [BlackFideId "4168119"]
 [BlackTitle "GM"]
 [ECO "E60"]
-[EventDate "2019.01.12"]
 [Opening "King's Indian, 3.Nf3"]
 [WhiteElo "2817"]
 [WhiteFideId "13401319"]
@@ -339,7 +316,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.19"]
 [Round "7.2"]
 [White "Mamedyarov,S"]
 [Black "Rapport,R"]
@@ -348,7 +324,6 @@
 [BlackFideId "738590"]
 [BlackTitle "GM"]
 [ECO "E11"]
-[EventDate "2019.01.12"]
 [Opening "Bogo-Indian defence, Nimzovich variation"]
 [WhiteElo "2817"]
 [WhiteFideId "13401319"]
@@ -366,7 +341,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.22"]
 [Round "9.2"]
 [White "Mamedyarov,S"]
 [Black "Duda,J"]
@@ -375,7 +349,6 @@
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "D37"]
-[EventDate "2019.01.12"]
 [Opening "QGD"]
 [Variation "4.Nf3"]
 [WhiteElo "2817"]
@@ -392,7 +365,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.27"]
 [Round "13.6"]
 [White "Mamedyarov,S"]
 [Black "Fedoseev,Vl3"]
@@ -401,7 +373,6 @@
 [BlackFideId "24130737"]
 [BlackTitle "GM"]
 [ECO "B84"]
-[EventDate "2019.01.12"]
 [Opening "Sicilian"]
 [Variation "Scheveningen (Paulsen), classical variation"]
 [WhiteElo "2817"]
@@ -416,7 +387,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.03.13"]
 [Round "10"]
 [White "Mamedyarov,S"]
 [Black "Sarana,A"]
@@ -426,7 +396,6 @@
 [BlackTeam "Australia Kangaroos"]
 [BlackTitle "GM"]
 [ECO "D61"]
-[EventDate "2019.01.08"]
 [Opening "QGD"]
 [Variation "Orthodox defence, Rubinstein variation"]
 [WhiteElo "2817"]
@@ -449,7 +418,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.03.13"]
 [Round "10"]
 [White "Mamedyarov,S"]
 [Black "Naroditsky,D"]
@@ -459,7 +427,6 @@
 [BlackTeam "San Francisco Mechanics"]
 [BlackTitle "GM"]
 [ECO "E61"]
-[EventDate "2019.01.08"]
 [Opening "King's Indian defence, 3.Nc3"]
 [WhiteElo "2817"]
 [WhiteFideId "13401319"]

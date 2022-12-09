@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Gijon (France)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "De Las Clotas M"]
@@ -20,7 +19,6 @@ g6 20.Bxb5 Bd7 21.Ne3 Bg7 22.Qc1 Qb6 23.a4 Ned8 24.Nd5 1-0
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Beinhauer"]
@@ -44,7 +42,6 @@ Qg7 42.Qxc5 1-0
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Mikulka"]
@@ -65,7 +62,6 @@ c4 20.Qe2 exd4 21.Bxd4 Bxd4 22.Nxd4 Qd8 23.Nf5 Bc8 24.Qh5 Bxf5
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Pelisek"]
@@ -86,7 +82,6 @@ Rxf3 26.Qg5 Rxf1+ 27.Rxf1 Qd3 28.Ng3 h6 1-0
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rasovsky"]
@@ -110,7 +105,6 @@ Rxc5 31.Bd3 Rd5 32.Rxd5 exd5 33.Kf2 Kf8 34.Ke3 Ke7 35.Kd4 Kd6
 
 [Event "Simultan"]
 [Site "Olomouc (Czech Republic)"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Slosar"]
@@ -135,7 +129,6 @@ Nd8 46.e6 1-0
 
 [Event "It"]
 [Site "Gijon (France)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gallego L/Garcia Leicher"]
@@ -155,7 +148,6 @@ f5 14.exf5 Nf6 15.g4 Bd7 16.Rae1 Rb8 17.Nd5 Nxd5 18.cxd5 Na5
 
 [Event "It"]
 [Site "Gijon (France)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Mampel M"]
@@ -178,7 +170,6 @@ Bh7 20.Ne2 Ng6 21.Bg3 Nf6 22.Bd6 Rf7 23.Nf4 Nxf4 24.exf4 Qd7
 
 [Event "It"]
 [Site "Gijon (France)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -207,7 +198,6 @@ Kh6 70.Rd6+ Kh7 71.Rd7+ Kh6 1/2-1/2
 
 [Event "It"]
 [Site "Gijon (France)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rico Antonio"]
@@ -230,7 +220,6 @@ Ba8 26.Bd4 Ndb7 27.Rg3 Na5 28.Nxf5 Qf7 29.Qh6 Nab3 30.Bb2 Rg8
 
 [Event "Simultan"]
 [Site "Gijon (France)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gallego L/Garcia Leicher"]
@@ -253,7 +242,6 @@ f6 36.Kf1 Kf7 37.Ke2 c4 38.Kd2 Ke6 39.Ra2 1-0
 
 [Event "Simultan"]
 [Site "Gijon (France)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gonzalez Vincente"]
@@ -277,7 +265,6 @@ Bd3 41.g3 fxg3+ 42.Kxg3 Kc7 43.Kg4 b5 44.Ra7+ Kb6 45.Rd7 1-0
 
 [Event "Simultan"]
 [Site "Gijon (France)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Salomon Eugene J (USA)"]
@@ -304,7 +291,6 @@ bxa4 59.g4 Ke5 60.Kxa4 1-0
 
 [Event "Match"]
 [Site "Zaragoza (Spain)"]
-[Date "1944.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rey Ardid Ramon"]
@@ -324,7 +310,6 @@ Bd8 20.Ng4 f5 21.Nh6+ Kg7 22.exf5 Qc4 23.Qc2 1-0
 
 [Event "Match"]
 [Site "Zaragoza (Spain)"]
-[Date "1944.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rey Ardid Ramon"]
@@ -347,7 +332,6 @@ Rg8 41.Ne1 g5 42.Nd3+ Kd4 43.Ne5 Kc5 44.Nd3+ Kd4 1/2-1/2
 
 
 [Site "Gijon (France)"]
-[Date "1945.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bonet Ariel (CUB)"]
@@ -373,7 +357,6 @@ Qxc1+ 48.Kg2 Qb2 49.Kf3 Qxb4 50.Be3+ Kg7 51.Bxa6 c3 52.Bd3 Qd6
 
 [Event "It"]
 [Site "Gijon (France)"]
-[Date "1945.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "De Las Clotas M"]
@@ -393,7 +376,6 @@ Nxd4 14.Qf2 Ne5 15.Nxe5 Qxe5 16.Nd5 b5 17.Nxf4 gxf4 18.Bxf4 Qf6
 
 [Event "It"]
 [Site "Gijon (France)"]
-[Date "1945.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gallego L/Garcia Leicher"]
@@ -416,7 +398,6 @@ f5 37.exf5 gxf5 38.Bf2 1-0
 
 [Event "It"]
 [Site "Gijon (France)"]
-[Date "1945.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rico Antonio"]
@@ -443,7 +424,6 @@ Ka8 1/2-1/2
 
 [Event ""]
 [Site "Hihon (Spain)"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Pomar"]
@@ -466,7 +446,6 @@ Qxf6 31.e5 Qf7 32.f6 Bb7 33.fxg7 Qxg7 34.b5 cxb5 35.Bxh6 Qh7
 
 [Event ""]
 [Site "Melilla (Spain)"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fuentes Juan Manuel"]
@@ -487,7 +466,6 @@ Rf8 25.a6 Rac8 26.Bd5 Be2 27.Rfxf7 Rxf7 28.Rxf7 1-0
 
 [Event "Match"]
 [Site "Estorial (Portugal)"]
-[Date "1946.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lupi Francesco"]
@@ -509,14 +487,12 @@ Qxf5 30.R8xc3 Qxe6 1/2-1/2
 
 [Event "Gijon"]
 [Site "Gijon ESP"]
-[Date "1944.07.??"]
 [Round "8"]
 [White "Alexander Alekhine"]
 [Black "Antonio Rico Gonzalez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "1944.07.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -531,14 +507,12 @@ Qxf5 30.R8xc3 Qxe6 1/2-1/2
 
 [Event "Bilbao, both blindfold"]
 [Site "Bilbao ESP"]
-[Date "1945.05.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Francisco Jose Perez Perez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "1945.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -551,14 +525,12 @@ Qxf5 30.R8xc3 Qxe6 1/2-1/2
 
 [Event "Blindfold simul, 4b"]
 [Site "Almeria ESP"]
-[Date "1945.08.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F Gambino"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "1945.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 

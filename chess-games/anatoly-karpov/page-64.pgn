@@ -1,6 +1,5 @@
 [Event "Bundesliga 1982/83"]
 [Site "Hamburg (Germany)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bouaziz Slim (TUN)"]
@@ -18,7 +17,6 @@ Bg4 8.d5 Ne5 9.h3 Nxf3+ 10.Nxf3 1/2-1/2
 
 [Event "Bundesliga 1982/83"]
 [Site "Hamburg (Germany)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nunn John D M (ENG)"]
@@ -41,7 +39,6 @@ a5 36.Kg3 Qa3+ 37.Kg4 Qe7 38.Kf3 Qa3+ 39.Kg4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "London (England)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nunn John D M (ENG)"]
@@ -66,7 +63,6 @@ Qf8 48.Qg5 Qxf5+ 49.Qxf5 Rxf5 50.Rxg7+ Kxg7 51.Rxf5 1-0
 
 [Event "It (cat.14)"]
 [Site "London (England)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -89,7 +85,6 @@ f3 31.Qd5 fxg2 32.Rxe5 Qf6 33.Rf5 Qa1+ 34.Kxg2 Bf6 35.d7 Qxa5
 
 [Event "It (cat.14)"]
 [Site "London (England)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -115,7 +110,6 @@ Rc8 47.Rxc8+ Qxc8 48.h4 gxh4 49.g5 Qc1 50.g6 h3+ 51.Kxh3 fxg6
 
 [Event "It (cat.14)"]
 [Site "London (England)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -141,7 +135,6 @@ Qc8 37.f4 Qa6+ 38.Kf3 Qxa4 39.Qd8+ Ka7 40.Kg2 Qc6 41.Nf3 Ka6
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -165,7 +158,6 @@ Kf7 42.Qg6+ 1-0
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -186,7 +178,6 @@ Rec8 20.Ne5 Qf5 21.Bd2 Nxc4 22.g4 Nxe5 23.gxf5 Nf3+ 24.Kg2 Bh5
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Quinteros Miguel A (ARG)"]
@@ -210,7 +201,6 @@ Bxb6 31.Kh1 Bxe3 32.Qxe3 Qc7 33.Rad1 Rf6 34.h3 Qb6 35.Qd3 Qb4
 
 [Event "It (cat.13)"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Franco Ocampos Zenon (PAR)"]
@@ -234,7 +224,6 @@ e4 36.fxe4 Bxe4 37.Qd2 Ne6 38.Qb4+ Nc5 39.Qd2 Ne6 40.a4 Qg1+
 
 [Event "It (cat.13)"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -256,7 +245,6 @@ c3 26.bxc3 Nxe5 27.Qxe5 O-O 28.h6 f6 29.Qxe6+ Kh8 30.hxg7+ Kxg7
 
 [Event "It (cat.13)"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Najdorf Miguel (POL)"]
@@ -281,7 +269,6 @@ Qg5 49.f4 Qh5 50.Rd8+ Kh7 51.Bg8+ Kh8 52.Bf7+ Kh7 53.Rh8+ 1-0
 
 [Event "It (cat.13)"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -306,7 +293,6 @@ Nxe4 43.Re3 Nc5 44.Kd2 Na4 45.Rc1 Nxb2 46.c5 Rd4+ 47.Ke2 Rxc5
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -329,7 +315,6 @@ Rxh5 36.d7 Rh2 37.Ne3 1-0
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -353,7 +338,6 @@ Qf7 42.Nf5 exf5 43.Re3+ Kf8 44.Qd6+ Kg7 45.Rg3+ 1-0
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nunn John D M (ENG)"]
@@ -375,7 +359,6 @@ Rd8 31.Rxa7 1-0
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -399,7 +382,6 @@ Qa8 42.Bc6 1-0
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -421,7 +403,6 @@ Qxd5 25.Be4 Qd6 26.Qh8+ Ke7 27.Bc2 Nc6 28.Ba4 Nd4 29.Nxd4 Bxd4
 
 [Event "It (cat.16)"]
 [Site "Torino (Italy)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -442,7 +423,6 @@ Rc4 25.Qg3 Rbc8 26.Nf5 Qa7 27.Nd6 R4c5 28.Qh3 1-0
 
 [Event "It (cat.16)"]
 [Site "Torino (Italy)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -465,7 +445,6 @@ cxd6 37.Qd3 d5 38.f3 1-0
 
 [Event "Simultan"]
 [Site "Torino (Italy)"]
-[Date "1982.05.22"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Grinza Andrea (ITA)"]
@@ -490,7 +469,6 @@ Qa6 48.Qc7 Kg7 49.Re8 Ra2 50.Qe5+ Kg8 51.f4 Qa3 52.Bd5 Ra1 53.Qf6 1-0
 
 [Event "Simultan"]
 [Site "Torino (Italy)"]
-[Date "1982.05.22"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Capurro Giuliano (ITA)"]
@@ -499,7 +477,6 @@ Qa6 48.Qc7 Kg7 49.Re8 Ra2 50.Qe5+ Kg8 51.f4 Qa3 52.Bd5 Ra1 53.Qf6 1-0
 [WhiteElo "2700"]
 [BlackElo "2142"]
 [PlyCount "61"]
-[EventDate "1982.??.??"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+ 8.
 Bxe2 Be7 9. Nc3 Bd7 10. O-O-O Nc6 11. d4 Nb4 12. Rhe1 O-O-O 13. Bc4 d5 14. Rxe7
@@ -510,7 +487,6 @@ f4 Bg4 28. Re4 Rd7 29. f5 h5 30. Re6 Rd5 31. Rxc6 1-0
 
 [Event "Simultan"]
 [Site "Torino (Italy)"]
-[Date "1982.05.22"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Fabbri Mario (ITA)"]
@@ -519,7 +495,6 @@ f4 Bg4 28. Re4 Rd7 29. f5 h5 30. Re6 Rd5 31. Rxc6 1-0
 [WhiteElo "2700"]
 [BlackElo "2190"]
 [PlyCount "75"]
-[EventDate "1982.??.??"]
 
 1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. Bg5 Ne4 8.
 cxd5 Nxc3 9. bxc3 Qxd5 10. Be2 Bg7 11. O-O O-O 12. c4 Qd6 13. d5 Ne5 14. Rc1 e6
@@ -531,7 +506,6 @@ Rd1 c4 35. d7 Qc6 36. Qb7 Qa4 37. Rd4 Bc5 38. Qc7 1-0
 
 [Event "Simultan"]
 [Site "Torino (Italy)"]
-[Date "1982.05.22"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Prata Jose (POR)"]
@@ -540,7 +514,6 @@ Rd1 c4 35. d7 Qc6 36. Qb7 Qa4 37. Rd4 Bc5 38. Qc7 1-0
 [WhiteElo "2700"]
 [BlackElo "2068"]
 [PlyCount "61"]
-[EventDate "1982.??.??"]
 
 1. Nf3 Nc6 2. d4 d5 3. c4 e6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 O-O 7. Rc1 b6 8. cxd5
 Nxd5 9. Nxd5 Bxg5 10. Nxc7 Bb7 11. Nxa8 Bxa8 12. Bd3 Nb4 13. a3 Bxf3 14. gxf3
@@ -551,14 +524,12 @@ h6 Rd6 28. Rg7 Rd5 29. Rxh7 Kg8 30. Rg7+ Kf8 31. Rg5 1-0
 
 [Event "Phillips & Drew Kings"]
 [Site "London ENG"]
-[Date "1982.04.26"]
 [Round "10"]
 [White "Anatoly Karpov"]
 [Black "John Nunn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "1982.04.15"]
 [PlyCount "101"]
 [WhiteElo "?"]
 

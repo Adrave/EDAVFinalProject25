@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1971.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fischer Robert J (USA)"]
@@ -22,7 +21,6 @@ e2 25.fxe5 exd1Q 26.Rxd1 Qxe5 27.Rf1 f6 28.Qb3 Kg7 29.Qf7+ Kh6
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1971.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fischer Robert J (USA)"]
@@ -50,7 +48,6 @@ Rh1 64.h4 Kc4 65.h5 Rh2+ 66.Ke1 Kd3 0-1
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1971.??.??"]
 [Round "8"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fischer Robert J (USA)"]
@@ -73,7 +70,6 @@ Rb1 37.g4 Re2 38.Rxe2 dxe2 39.Qxe2 Qxf4+ 40.Kg2 Rb3 0-1
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -97,7 +93,6 @@ Nxd7 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -124,7 +119,6 @@ h6 52.h5 Rb5 53.Rc8+ Kg7 54.Rc7+ Kh8 55.Rd7 Rxa5 56.Rd8+ Kg7
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -147,7 +141,6 @@ Nxd1 36.Rxd1 g6 37.g4 Ng7 38.Rxd4 Ne6 39.Rd7 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -171,7 +164,6 @@ Bd6 42.g3 Kf7 43.Ke3 Ke7 44.Bc2 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -194,7 +186,6 @@ Rfc8 26.Rc5 Bf8 27.Rfc1 Bb7 28.h3 Nc6 29.Rxd5 Nxb4 30.Rd7 Nd3
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Hort Vlastimil (GER)"]
@@ -216,7 +207,6 @@ Qd7 26.Kg2 c4 27.Bxb6 Rxb6 28.Nxc4 Rxb5 29.Nb6 Rxb6 30.Rxb6 Bf6
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Mecking Henrique (BRA)"]
@@ -242,7 +232,6 @@ dxc4 55.Be4 Rc8 56.Kd6 Rc5 57.Rhc1 h4 1-0
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1971.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ree Hans (NED)"]
@@ -260,7 +249,6 @@ exf3 8.Qb3 1-0
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1971.??.??"]
 [Round "15"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Van Den Berg Carel B (NED)"]
@@ -282,7 +270,6 @@ Be7 31.Nc4 f6 32.Rb6 Qa4 33.Qa2 Kg7 34.Rf3 Rd7 35.Nxe5 1-0
 
 [Event "It"]
 [Site "San Antonio (USA)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Suttles Duncan (CAN)"]
@@ -300,7 +287,6 @@ e5 8.dxe5 Nxe5 9.Nxe5 dxe5 10.Qc2 Bh6 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1972.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Jansa Vlastimil (CZE)"]
@@ -321,7 +307,6 @@ a6 14.Na4 Qxd2+ 15.Kxd2 Nd7 16.Rhd1 Rab8 17.Nc3 f5 18.exf5 gxf5
 
 [Event "It (cat.8)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Keres Paul (EST)"]
@@ -340,7 +325,6 @@ dxc4 14.Bxc4 Nxe5 15.Nxe5 Qxe5 16.Qd4 Qe7 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1972.??.??"]
 [Round "14"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Rajkovic Dusan (SCG)"]
@@ -360,7 +344,6 @@ Qc6 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1972.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Vukic Milan (SCG)"]
@@ -380,7 +363,6 @@ Qc6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Skopje (Macedonia)"]
-[Date "1972.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bobotsov Milko G (BUL)"]
@@ -399,7 +381,6 @@ Nf6 14.Rfe1 Be6 15.a4 c5 16.Qb5 Rfc8 17.Nd2 Rc7 18.a5 Rac8 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Skopje (Macedonia)"]
-[Date "1972.??.??"]
 [Round "14"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Garcia Raimundo (ARG)"]
@@ -422,7 +403,6 @@ Qc8 37.h4 Kg8 38.Rf3 Qe8 39.Ra1 Rbc8 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Skopje (Macedonia)"]
-[Date "1972.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -441,7 +421,6 @@ Nd7 14.Nd4 Nb6 15.Nd2 Nc5 16.O-O Be6 17.Rac1 Ke7 18.Bf3 f5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Skopje (Macedonia)"]
-[Date "1972.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -465,7 +444,6 @@ Ke7 41.Rd5 Kf6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Skopje (Macedonia)"]
-[Date "1972.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Rodriguez Cordoba Jesus R (CUB)"]
@@ -488,14 +466,12 @@ f4 31.Qd4 Re3 32.Rc8+ Rd8 33.Rxd8+ Qxd8 34.Rxf4 Re5 35.Rg4+ Rg5
 
 [Event "San Antonio"]
 [Site "San Antonio, TX USA"]
-[Date "1972.11.27"]
 [Round "7"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E14"]
-[EventDate "1972.11.19"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -509,14 +485,12 @@ f4 31.Qd4 Re3 32.Rc8+ Rd8 33.Rxd8+ Qxd8 34.Rxf4 Re5 35.Rg4+ Rg5
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1971.11.30"]
 [Round "6"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "1-0"]
 [BlackElo "2690"]
 [ECO "D27"]
-[EventDate "1971.11.24"]
 [PlyCount "77"]
 [WhiteElo "2640"]
 
@@ -532,14 +506,12 @@ f4 31.Qd4 Re3 32.Rc8+ Rd8 33.Rxd8+ Qxd8 34.Rxf4 Re5 35.Rg4+ Rg5
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1971.11.25"]
 [Round "2"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Yuri Balashov"]
 [Result "1-0"]
 [BlackElo "2570"]
 [ECO "E42"]
-[EventDate "1971.11.24"]
 [PlyCount "119"]
 [WhiteElo "2640"]
 

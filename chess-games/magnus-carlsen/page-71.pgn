@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Bad Wiessee (Germany)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Cordts Ingo (GER)"]
@@ -22,7 +21,6 @@ Kh8 30.Qe7 Bc7 0-1
 
 [Event "It (open)"]
 [Site "Bad Wiessee (Germany)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Olzem Lothar (GER)"]
@@ -31,7 +29,6 @@ Kh8 30.Qe7 Bc7 0-1
 [WhiteElo "2625"]
 [BlackElo "2179"]
 [PlyCount "72"]
-[EventDate "2000.??.??"]
 
 1. d4 d5 2. Bg5 h6 3. Bh4 Bf5 4. Nf3 Nd7 5. e3 Ngf6 6. Bd3 Bxd3 7. Qxd3 e6 8.
 O-O Be7 9. c4 O-O 10. Nc3 c6 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe7 Qxe7 14. Qxe4
@@ -43,14 +40,12 @@ Nd3 Qb6 22. Nc5 Nd7 23. b4 Nxc5 24. dxc5 Qc7 25. a3 Qf4 26. Qc2 g6 27. g3 Qg4
 
 [Event "Corus Group A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.28"]
 [Round "13"]
 [White "Magnus Carlsen"]
 [Black "Alexey Shirov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C90"]
-[EventDate "????.??.??"]
 [PlyCount "119"]
 [WhiteElo "?"]
 
@@ -69,14 +64,12 @@ Nd3 Qb6 22. Nc5 Nd7 23. b4 Nxc5 24. dxc5 Qc7 25. a3 Qf4 26. Qc2 g6 27. g3 Qg4
 
 [Event "Carlsen-Svidler blitz match"]
 [Site "chess24"]
-[Date "2019.02.25"]
 [Round "5"]
 [White "Magnus Carlsen"]
 [Black "Peter Svidler"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 

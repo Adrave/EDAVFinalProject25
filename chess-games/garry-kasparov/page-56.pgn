@@ -1,13 +1,11 @@
 [Event "16th Soviet Team-ch qual group 1"]
 [Site "Moscow URS"]
-[Date "1983.07.16"]
 [Round "2"]
 [White "Garry Kasparov"]
 [Black "Mikhail Tal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "Candidates Final"]
 [Site "Vilnius"]
-[Date "1984.03.26"]
 [Round "7"]
 [White "Garry Kasparov"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "????.??.??"]
 [PlyCount "27"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Candidates Final"]
 [Site "Vilnius"]
-[Date "1984.03.10"]
 [Round "1"]
 [White "Garry Kasparov"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -64,14 +58,12 @@
 
 [Event "Candidates Final"]
 [Site "Vilnus"]
-[Date "1984.03.20"]
 [Round "5"]
 [White "Garry Kasparov"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -86,14 +78,12 @@
 
 [Event "Candidates Final"]
 [Site "Vilnius"]
-[Date "1984.04.03"]
 [Round "11"]
 [White "Garry Kasparov"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D07"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -107,14 +97,12 @@
 
 [Event "Candidates Semi-final"]
 [Site "London ENG"]
-[Date "1983.12.01"]
 [Round "5"]
 [White "Garry Kasparov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E04"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -127,14 +115,12 @@
 
 [Event "Candidates Semi-final"]
 [Site "London ENG"]
-[Date "1983.11.25"]
 [Round "3"]
 [White "Garry Kasparov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -146,14 +132,12 @@
 
 [Event "PCA-GP Credit Suisse Rapid"]
 [Site "SUI Geneva"]
-[Date "1996.09.01"]
 [Round "4.3"]
 [White "Garry Kasparov"]
 [Black "Viswanathan Anand"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A29"]
-[EventDate "????.??.??"]
 [PlyCount "131"]
 [WhiteElo "?"]
 
@@ -174,14 +158,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.10.08"]
 [Round "10"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -194,14 +176,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.10.26"]
 [Round "18"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -215,14 +195,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1985.01.09"]
 [Round "40"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "????.??.??"]
 [PlyCount "141"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Andersson Ulf (SWE)"]
@@ -19,7 +18,6 @@ c5 14.Rc1 Nxe5 15.Nxe5 Qc7 16.a4 a5 17.b5 Rac8 1/2-1/2
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ree Hans (NED)"]
@@ -37,7 +35,6 @@ d6 8.Kf1 cxd5 9.cxd5 Na6 10.a3 1/2-1/2
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -58,7 +55,6 @@ Qxe3 25.Qc2 Re8 26.Rf2 Qg3 27.Qd2+ Kg7 28.Qf4 Rxe2+ 29.Kf1 1/2-1/2
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -78,7 +74,6 @@ Bxd3 14.Nxd3 Nd7 15.Bxe7 Qxe7 16.O-O Nb6 17.Rfe1 Nc4 18.Qd1 f5
 
 [Event "Ch Europe (team)"]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Keene Raymond D (ENG)"]
@@ -111,7 +106,6 @@ Nf6 93.Ke5 Nh5 94.f5 Rxb1 95.Nxb1 Kc6 96.Nc3 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -129,7 +123,6 @@ Nf6 93.Ke5 Nh5 94.f5 Rxb1 95.Nxb1 Kc6 96.Nc3 1-0
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lombard Andre (SUI)"]
@@ -149,7 +142,6 @@ d4 20.f4 Ne6 21.f5 Qg5 22.fxe6 Qxe3+ 23.Qf2 1-0
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pytel Krzysztof (FRA)"]
@@ -171,7 +163,6 @@ Nc4 32.Qxb3 Nxa5 33.Qc3 Nc4 34.Re2 Rbd8 35.Ne3 Nxe3 36.Rxe3 c4 1/2-1/2
 
 [Event "It"]
 [Site "Las Palmas (Spain)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Darga Klaus (GER)"]
@@ -190,7 +181,6 @@ Bf6 1/2-1/2
 
 [Event "It"]
 [Site "Las Palmas (Spain)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Diez Del Corral Jesus (ESP)"]
@@ -213,7 +203,6 @@ Qa6 25.a4 Bf5 26.f4 Qc8 27.fxe5 Qe6 28.exf6+ Qxf6 29.Bf3 Bh3
 
 [Event "It"]
 [Site "Las Palmas (Spain)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -234,7 +223,6 @@ Rxc8 25.Bd3 Qc7 26.Qd2 Qd6 27.h3 Bc6 1/2-1/2
 
 [Event "It"]
 [Site "Las Palmas (Spain)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Hug Werner (SUI)"]
@@ -269,7 +257,6 @@ Qe8+ 104.Kd6 Qb8+ 1/2-1/2
 
 [Event "It"]
 [Site "Las Palmas (Spain)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Huguet Bernard (FRA)"]
@@ -290,7 +277,6 @@ Nc7 25.exd5 Nxd5 26.Nxd5 cxd5 27.Rxc8 Rxc8 28.Re1 1-0
 
 [Event "It"]
 [Site "Las Palmas (Spain)"]
-[Date "1973.??.??"]
 [Round "15"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -308,7 +294,6 @@ d5 8.Bg5 1/2-1/2
 
 [Event "It"]
 [Site "Las Palmas (Spain)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ree Hans (NED)"]
@@ -331,7 +316,6 @@ axb5 37.Rxb5 Bf7 38.Qb1 Qe7 39.Rdb4 d4 40.exd4 f4 41.Rxh5+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -355,7 +339,6 @@ Ra7 42.Rxc6 Rxa3 43.Kf3 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Geller Efim P (RUS)"]
@@ -377,7 +360,6 @@ Bd3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Grigorian Karen (RUS)"]
@@ -402,7 +384,6 @@ Ke7 42.Rh8 Nb6 43.f5 gxf5 44.gxf5 Bc4 45.Rb8 Nd5+ 46.Nxd5+ Bxd5
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -429,7 +410,6 @@ Bd4 60.Nd2 Ke6 61.Kg3 Nf5+ 62.Kf3 h4 63.Nc4 Bc3 64.Kg4 Bb4 65.Rd3 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -451,7 +431,6 @@ Qe7 25.Qh4 f6 26.Nxh7 Qxh7 27.Qxf6 Qg7 28.Qe6+ Qf7 29.Qg4 Rd6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kuzmin Gennadi P (UKR)"]
@@ -473,7 +452,6 @@ Qc6 26.Qc2 Nd5 27.a5 Red8 28.Kh2 Rab8 29.Rea4 Nge7 30.Bd3 Nf5
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -494,7 +472,6 @@ Bc6 26.Qe1 Ra8 27.Qf1 Bd7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -516,7 +493,6 @@ Rc4 25.Re4 Nh4 26.Bg3 Rxe4 27.Nxe4 Nxg2 28.Kxg2 h4 29.Rd1 hxg3
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -537,7 +513,6 @@ Rxd1 25.Bxd1 1/2-1/2
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Tbilisi (Georgia)"]
-[Date "1973.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]

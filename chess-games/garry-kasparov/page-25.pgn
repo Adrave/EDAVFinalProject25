@@ -1,6 +1,5 @@
 [Event "It (cat.16)"]
 [Site "Horgen (Switzerland)"]
-[Date "1994.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -23,7 +22,6 @@ Qxg6 30.Bxe8 Qxe8 31.Qd6 Qf7 32.Bd4 Re8 33.Rc1 Re4 34.Be5 Rg4
 
 [Event "It (cat.16)"]
 [Site "Horgen (Switzerland)"]
-[Date "1994.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -46,7 +44,6 @@ Ke8 31.Bc4 Rc2 32.Qxh7 Rxc4 33.Qg8+ Kd7 34.Nb6+ Ke7 35.Nxc4 Qc5
 
 [Event "It (cat.18)"]
 [Site "Linares (Spain)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -68,7 +65,6 @@ e5 26.f5 Nxe4 27.Qh7+ Kf8 28.Nxe4 Bxf5 29.Qxf5 exd4 30.Nf6 Qxc2
 
 [Event "It (cat.18)"]
 [Site "Linares (Spain)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -92,7 +88,6 @@ Kd6 42.Rh7 Ra4 43.Rxh6 1-0
 
 [Event "It (cat.18)"]
 [Site "Linares (Spain)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -115,7 +110,6 @@ Ka8 25.Qa5+ Kb8 26.Qc7+ Ka8 27.Rfe1 Bd6 28.Qb6 Bb8 29.a5 Rd7
 
 [Event "It (cat.18)"]
 [Site "Linares (Spain)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -138,7 +132,6 @@ Rxa8 37.Qxc5 Rb8 38.g3 Qb7 39.Qd4 Kf8 40.Qf6 1-0
 
 [Event "It \"Kremlin Stars\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -162,7 +155,6 @@ Kb7 41.Bb6 Bd7 42.g5 Bf5 43.b4 Bc2 44.a4 1-0
 
 [Event "Olympiad"]
 [Site "Moscow (Russia)"]
-[Date "1994.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -187,7 +179,6 @@ Kf5 41.Kf3 Nd3 42.Bc3 Ba3 43.Nd7 Ke6 44.Ne5 Nxe5+ 45.Bxe5 Kf5
 
 [Event "Olympiad"]
 [Site "Moscow (Russia)"]
-[Date "1994.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -208,7 +199,6 @@ Rb8 14.h4 Ne7 15.Nxf6+ gxf6 16.Bd3 d5 17.exd5 Qxd5 18.Ne3 Qe6
 
 [Event "Olympiad"]
 [Site "Moscow (Russia)"]
-[Date "1994.??.??"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -232,7 +222,6 @@ Ng3+ 42.Kh2 1-0
 
 [Event "It \"Expressz\""]
 [Site "Munich (Germany)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -256,7 +245,6 @@ gxh5 43.Bxf7 c4 44.Qe6+ Kh7 45.Qf5+ Kh8 46.bxc4 1-0
 
 [Event "It \"Expressz\""]
 [Site "Munich (Germany)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -283,7 +271,6 @@ Kg6 59.Nxg5 Qxg5 60.Qxd6+ Kh5 1-0
 
 [Event "It \"Expressz\""]
 [Site "Munich (Germany)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -306,7 +293,6 @@ Kf6 1-0
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "New York (USA)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -327,7 +313,6 @@ Qf7 20.f3 Rac8 21.Rcd1 Qe6 22.Bd3 f4 23.Rfe1 Ne7 24.exf4 Ng6
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "New York (USA)"]
-[Date "1994.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -356,7 +341,6 @@ Kf5 70.Kc7 Ke5 71.Kxb7 1-0
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1994.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -378,7 +362,6 @@ Kh8 31.h5 g5 32.Qf3 Kg7 33.Qf5 b6 34.Bxd7 Nxd7 35.Bxg5 1-0
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -401,7 +384,6 @@ Ke8 35.Bxe6 Qf8 1-0
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -424,7 +406,6 @@ Bc4 37.Rg7+ 1-0
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Arbakov Valentin (RUS)"]
@@ -449,7 +430,6 @@ axb5 47.a4 bxa4 48.bxa4 Kc5 49.Kg4 1-0
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -469,7 +449,6 @@ Qc6 14.Nf4 Nc7 15.Nd2 bxc3 16.bxc3 Bd6 17.Nh5 Be7 18.Qg4 Nd5
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -491,7 +470,6 @@ Bb7 25.Rd3 Re8 26.Rg1 b5 27.dxe6 Rxe6 28.Rd8+ Kf7 29.Rd7+ Re7
 
 [Event "It \"Intel Chess Grand Prix\" (blitz)"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -523,7 +501,6 @@ Ke2 81.Qxh4 Kd3 82.Qg3+ Ke2 83.Ke4 Kd2 84.Kd4 Ke2 85.Qg2+ Kd1
 
 [Event "Simultan"]
 [Site "Tel Aviv (Israel)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dembo Yelena (GRE)"]
@@ -544,7 +521,6 @@ f6 25.g5 fxg5 26.Bxg5 Rh7 27.f4 b6 28.Bh5+ Kf8 29.Bg6 Nc4+ 30.Kc3 1-0
 
 [Event "Simultan"]
 [Site "Tel Aviv (Israel)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gershon Alik (ISR)"]
@@ -568,7 +544,6 @@ Kg8 42.Re3 Rf1+ 43.Kg4 Rg1+ 44.Kf5 Rf1+ 45.Ke6 Rg1 46.Ke7 1-0
 
 [Event "Simultan"]
 [Site "Tel Aviv (Israel)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kundin Alexander (ISR)"]

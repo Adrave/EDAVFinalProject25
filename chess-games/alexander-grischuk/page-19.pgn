@@ -1,6 +1,5 @@
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "11.6"]
 [White "Grischuk, A."]
 [Black "Morozevich, A."]
@@ -9,7 +8,6 @@
 [WhiteElo "2767"]
 [BlackElo "2665"]
 [PlyCount "66"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -25,7 +23,6 @@ b6 0-1
 
 [Event "FIDE Candidates 2018"]
 [Site "Berlin GER"]
-[Date "2018.03.27"]
 [Round "14.4"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -34,7 +31,6 @@ b6 0-1
 [WhiteElo "2767"]
 [BlackElo "2784"]
 [PlyCount "138"]
-[EventDate "2018.03.10"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GER"]
@@ -55,7 +51,6 @@ Bd4+ 67. Ke2 Kf4 68. Rb4 e5 69. Rb7 Kg3 0-1
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.16"]
 [Round "10.5"]
 [White "Grischuk, A."]
 [Black "Vachier Lagrave, M."]
@@ -64,7 +59,6 @@ Bd4+ 67. Ke2 Kf4 68. Rb4 e5 69. Rb7 Kg3 0-1
 [WhiteElo "2766"]
 [BlackElo "2789"]
 [PlyCount "122"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -84,7 +78,6 @@ b6 Bb8 61. b7 Ba7 0-1
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.13"]
 [Round "5.1"]
 [White "Grischuk, A."]
 [Black "So, W."]
@@ -93,7 +86,6 @@ b6 Bb8 61. b7 Ba7 0-1
 [WhiteElo "2766"]
 [BlackElo "2778"]
 [PlyCount "126"]
-[EventDate "2018.06.12"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -113,7 +105,6 @@ Kxg4 Kd3 41. Kxg5 Kxc3 42. f4 d4 43. f5 d3 44. f6 d2 45. f7 d1=Q 46. f8=Q Qg1+
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.13"]
 [Round "6.5"]
 [White "Grischuk, A."]
 [Black "Nakamura, Hi"]
@@ -122,7 +113,6 @@ Kxg4 Kd3 41. Kxg5 Kxc3 42. f4 d4 43. f5 d3 44. f6 d2 45. f7 d1=Q 46. f8=Q Qg1+
 [WhiteElo "2766"]
 [BlackElo "2769"]
 [PlyCount "82"]
-[EventDate "2018.06.12"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -139,7 +129,6 @@ Rd3+ 34. Ke4 Rxh3 35. f5+ Ke7 36. Rd4 h5 37. Rd6 Rh4 38. f6+ Ke8 39. e6 Rxg4+
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.23"]
 [Round "3.1"]
 [White "Grischuk, A."]
 [Black "Nakamura, Hi"]
@@ -148,7 +137,6 @@ Rd3+ 34. Ke4 Rxh3 35. f5+ Ke7 36. Rd4 h5 37. Rd6 Rh4 38. f6+ Ke8 39. e6 Rxg4+
 [WhiteElo "2766"]
 [BlackElo "2769"]
 [PlyCount "50"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -162,7 +150,6 @@ Nd6 16. Bg2 Bg7 17. Be3 Qd7 18. h4 f6 19. hxg5 hxg5 20. Bxg5 fxg5 21. Nxg5 Bg4
 
 [Event "GCT Rapid Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.22"]
 [Round "9.4"]
 [White "Grischuk, A."]
 [Black "Kramnik, V."]
@@ -171,7 +158,6 @@ Nd6 16. Bg2 Bg7 17. Be3 Qd7 18. h4 f6 19. hxg5 hxg5 20. Bxg5 fxg5 21. Nxg5 Bg4
 [WhiteElo "2766"]
 [BlackElo "2792"]
 [PlyCount "118"]
-[EventDate "2018.06.20"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -191,7 +177,6 @@ f4 Kxe4 54. f5 Kf3 55. f6 Kg2 56. Rc1 h1=Q 57. Rxh1 Rxh1 58. Kf5 Kf3 59. f7 Rh8
 
 [Event "Saint Louis Rapid 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.11"]
 [Round "1.5"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -200,7 +185,6 @@ f4 Kxe4 54. f5 Kf3 55. f6 Kg2 56. Rc1 h1=Q 57. Rxh1 Rxh1 58. Kf5 Kf3 59. f7 Rh8
 [WhiteElo "2766"]
 [BlackElo "2822"]
 [PlyCount "62"]
-[EventDate "2018.08.11"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -215,7 +199,6 @@ Rxh3 29. Qe2 Rxg4 30. Qxe6+ Kd8 31. Qxg4 Be3+ 0-1
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.15"]
 [Round "11.3"]
 [White "Grischuk, A."]
 [Black "Vachier Lagrave, M."]
@@ -224,7 +207,6 @@ Rxh3 29. Qe2 Rxg4 30. Qxe6+ Kd8 31. Qxg4 Be3+ 0-1
 [WhiteElo "2766"]
 [BlackElo "2779"]
 [PlyCount "144"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -246,7 +228,6 @@ Ng4 0-1
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.15"]
 [Round "13.4"]
 [White "Grischuk, A."]
 [Black "So, W."]
@@ -255,7 +236,6 @@ Ng4 0-1
 [WhiteElo "2766"]
 [BlackElo "2780"]
 [PlyCount "108"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -274,7 +254,6 @@ Qb3 Nxc3 9. Bc4 e6 10. bxc3 Bd7 11. Bd3 Na5 12. Qb1 Bg7 13. h4 Rc8 14. h5 Bc6
 
 [Event "chess.com Speed 3m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.07"]
 [Round "18"]
 [White "Grischuk, A."]
 [Black "Nepomniachtchi, I."]
@@ -283,7 +262,6 @@ Qb3 Nxc3 9. Bc4 e6 10. bxc3 Bd7 11. Bd3 Na5 12. Qb1 Bg7 13. h4 Rc8 14. h5 Bc6
 [WhiteElo "2766"]
 [BlackElo "2757"]
 [PlyCount "84"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -299,7 +277,6 @@ d7 Rh8 41. d8=Q Rxd8 42. Rxd8 Qb1+ 0-1
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "2.13"]
 [White "Grischuk, Alexander"]
 [Black "Tsydypov, Zhamsaran"]
@@ -307,7 +284,6 @@ d7 Rh8 41. d8=Q Rxd8 42. Rxd8 Qb1+ 0-1
 [WhiteElo "2771"]
 [BlackElo "2529"]
 [ECO "B51"]
-[EventDate "2018.12.26"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Nf6 5. Re1 a6 6. Bf1 g6 7. c3 Bg7 8.
  d4 O-O 9. e5 Ne8 10. Bg5 dxe5 11. dxe5 Nc7 12. Qc1 b5 13. Bh6 Bb7 14. 
@@ -322,7 +298,6 @@ Bh3 Bd7 21. Bg2 Rac8 22. axb5 axb5 23. Ne4 h6 24. Rad1 Bc6 25. Bh3 Rxd1
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "13.8"]
 [White "Grischuk, Alexander"]
 [Black "Maghsoodloo, Parham"]
@@ -330,7 +305,6 @@ Bh3 Bd7 21. Bg2 Rac8 22. axb5 axb5 23. Ne4 h6 24. Rad1 Bc6 25. Bh3 Rxd1
 [WhiteElo "2771"]
 [BlackElo "2688"]
 [ECO "A05"]
-[EventDate "2018.12.29"]
 
 1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d3 Be7 6. e4 d6 7. Nfd2 e5 8. 
 a4 a6 9. Nc3 c6 10. f4 Nbd7 11. Nf3 O-O 12. h3 Qc7 13. g4 Ne8 14. Ne2 exf4
@@ -344,7 +318,6 @@ Ne4 45. Kh1 Rxg2 0-1
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "19.5"]
 [White "Grischuk, Alexander"]
 [Black "Nepomniachtchi, Ian"]
@@ -352,7 +325,6 @@ Ne4 45. Kh1 Rxg2 0-1
 [WhiteElo "2771"]
 [BlackElo "2763"]
 [ECO "A07"]
-[EventDate "2018.12.29"]
 
 1. Nf3 d5 2. g3 g6 3. c4 dxc4 4. Na3 Bg7 5. Nxc4 Nc6 6. d3 e5 7. Bd2 Nge7 
 8. h4 h6 9. Bc3 f6 10. Ne3 Be6 11. h5 g5 12. g4 Qd7 13. Nd2 Nd5 14. Nxd5 
@@ -370,7 +342,6 @@ Qc2 Rd3 69. f6 Rd2 70. Qf5 Qh4 71. Qe5 Qh3 72. Rg1 Qf3+ 0-1
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.7"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -378,7 +349,6 @@ Qc2 Rd3 69. f6 Rd2 70. Qf5 Qh4 71. Qe5 Qh3 72. Rg1 Qf3+ 0-1
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 
 8. Ne5 Nd7 9. Nxf7 Kxf7 10. Qf3 g6 11. g4 Bd6 12. gxf5 Qh4 13. fxg6+ Ke7 
@@ -391,7 +361,6 @@ Qc2 Rd3 69. f6 Rd2 70. Qf5 Qh4 71. Qe5 Qh3 72. Rg1 Qf3+ 0-1
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.25"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -399,7 +368,6 @@ Qc2 Rd3 69. f6 Rd2 70. Qf5 Qh4 71. Qe5 Qh3 72. Rg1 Qf3+ 0-1
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "B43"]
-[EventDate "2018.07.24"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Be3 Ne7 7. Qd2 Nec6 
 8. O-O-O Be7 9. Kb1 O-O 10. g4 b5 11. h4 Bb7 12. g5 b4 13. Na4 Nxd4 14. 
@@ -409,7 +377,6 @@ Bf6 21. Qxd6 Qa5 22. Na4 Bxa4 23. bxa4 Qxa4 24. Bc4 Rfc8 25. Bb3 Qxb3+ 0-1
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.5"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -417,7 +384,6 @@ Bf6 21. Qxd6 Qa5 22. Na4 Bxa4 23. bxa4 Qxa4 24. Bc4 Rfc8 25. Bb3 Qxb3+ 0-1
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 Nf6 6. O-O Be7 7. Re1 
 O-O 8. Bf1 Re8 9. d4 d5 10. c4 Bg4 11. Nc3 Nc6 12. cxd5 Nxd5 13. h3 Bh5 
@@ -427,7 +393,6 @@ c5 Bf8 21. Ne5 Qd5 22. Bxe4 Qxe4 23. Nxc6 Qxc6 24. d5 Qa4 25. Qxa4 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.11"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -435,7 +400,6 @@ c5 Bf8 21. Ne5 Qd5 22. Bxe4 Qxe4 23. Nxc6 Qxc6 24. d5 Qa4 25. Qxa4 1-0
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Be3 
 Be7 8. Bc4 Be6 9. Bxe6 fxe6 10. Qd3 Qd7 11. O-O-O O-O-O 12. c4 Kb8 13. 
@@ -447,7 +411,6 @@ Rd5 31. Rb4 Nc6 32. Ra4 b5 33. Ra6 Kb7 0-1
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.13"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -455,7 +418,6 @@ Rd5 31. Rb4 Nc6 32. Ra4 b5 33. Ra6 Kb7 0-1
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 
 8. c4 dxc4 9. Bxc4 O-O 10. Re1 Nd6 11. Bd5 Na6 12. Nc3 Nb4 13. Bb3 Nd3 14.
@@ -476,7 +438,6 @@ Bb5+ Kc7 87. Ke6 Kb6 88. Kd5 Kb7 89. Kc5 Kc7 90. Bc4 Kb7 91. Kb5 Ka7 1-0
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.19"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -484,7 +445,6 @@ Bb5+ Kc7 87. Ke6 Kb6 88. Kd5 Kb7 89. Kc5 Kc7 90. Bc4 Kb7 91. Kb5 Ka7 1-0
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 
 8. c4 O-O 9. cxd5 Qxd5 10. Bxe4 1-0
@@ -492,7 +452,6 @@ Bb5+ Kc7 87. Ke6 Kb6 88. Kd5 Kb7 89. Kc5 Kc7 90. Bc4 Kb7 91. Kb5 Ka7 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.17"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -500,7 +459,6 @@ Bb5+ Kc7 87. Ke6 Kb6 88. Kd5 Kb7 89. Kc5 Kc7 90. Bc4 Kb7 91. Kb5 Ka7 1-0
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "D02"]
-[EventDate "2018.07.24"]
 
 1. Nf3 d5 2. g3 Nc6 3. d4 Bf5 4. Bg2 e6 5. O-O Nb4 6. Na3 c6 7. c3 Na6 8. 
 Qb3 Qc8 9. Nh4 Be4 10. f3 Bg6 11. Nxg6 hxg6 12. e4 Nf6 13. e5 Nd7 14. f4 
@@ -515,7 +473,6 @@ b5 15. Nc2 Nb6 16. Ne1 Qd7 17. Nf3 Nc7 18. Be3 a5 19. Qc2 a4 20. h4 Be7
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.18"]
 [Round "2.9"]
 [White "Grischuk, Alexander"]
 [Black "Duda, Jan-Krzysztof"]
@@ -523,7 +480,6 @@ b5 15. Nc2 Nb6 16. Ne1 Qd7 17. Nf3 Nc7 18. Be3 a5 19. Qc2 a4 20. h4 Be7
 [WhiteElo "2766"]
 [BlackElo "2737"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 
 Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. c4 Bf6 11. Bg5 Qe7 12. Qf4 Ne5 13. Be2 Ng6
@@ -535,7 +491,6 @@ Qf4 Nxg1 33. Qf6 1-0
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "21.14"]
 [White "Grischuk, Alexander"]
 [Black "Ghaem Maghami, Ehsan"]
@@ -543,7 +498,6 @@ Qf4 Nxg1 33. Qf6 1-0
 [WhiteElo "2771"]
 [BlackElo "2537"]
 [ECO "A07"]
-[EventDate "2018.12.29"]
 
 1. Nf3 Nf6 2. g3 d5 3. Bg2 g6 4. c4 c6 5. b3 Bg7 6. Bb2 O-O 7. O-O Bg4 8. 
 d3 Bxf3 9. Bxf3 e6 10. Nd2 a5 11. a3 Nbd7 12. Qc2 Qe7 13. Bg2 Ne8 14. d4 
@@ -560,7 +514,6 @@ Qh3+ Kg7 63. Bd3 Bc5 64. Rf1 Qd4 65. e5 f5 66. Qxf5 1-0
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.28"]
 [Round "12.24"]
 [White "Grischuk, Alexander"]
 [Black "Postny, Evgeny"]
@@ -568,7 +521,6 @@ Qh3+ Kg7 63. Bd3 Bc5 64. Rf1 Qd4 65. e5 f5 66. Qxf5 1-0
 [WhiteElo "2771"]
 [BlackElo "2615"]
 [ECO "D11"]
-[EventDate "2018.12.26"]
 
 1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nd7 5. d4 e6 6. c4 Ngf6 7. cxd5 exd5 
 8. Nc3 Bd6 9. Nh4 Nb6 10. f3 Be6 11. e4 Be7 12. e5 Nfd7 13. f4 Bxh4 14. f5
@@ -579,7 +531,6 @@ Bxf5 15. Rxf5 Be7 16. Qg4 g6 17. Rf2 O-O 18. Bh6 f5 19. Qh3 Re8 20. g4 f4
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "7.15"]
 [White "Grischuk, Alexander"]
 [Black "Tari, Aryan"]
@@ -587,7 +538,6 @@ Bxf5 15. Rxf5 Be7 16. Qg4 g6 17. Rf2 O-O 18. Bh6 f5 19. Qh3 Re8 20. g4 f4
 [WhiteElo "2771"]
 [BlackElo "2620"]
 [ECO "A05"]
-[EventDate "2018.12.29"]
 
 1. Nf3 Nf6 2. g3 g6 3. c4 c6 4. b3 d5 5. Bb2 Bg7 6. Bg2 O-O 7. O-O a5 8. 
 Nc3 Na6 9. d4 Bf5 10. Ne5 Ne4 11. cxd5 cxd5 12. Rc1 Nxc3 13. Rxc3 Be4 14. 

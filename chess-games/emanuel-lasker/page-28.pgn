@@ -1,13 +1,11 @@
 [Event "Simul, 26b"]
 [Site "Prague AUH"]
-[Date "1908.05.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Ernst Krob"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C58"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Simul, 25b"]
 [Site "Plzen AUH"]
-[Date "1908.06.15"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "E Feifer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Simul, 25b"]
 [Site "Plzen AUH"]
-[Date "1908.06.15"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Jos Bares"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -63,14 +57,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rotterdam NED"]
-[Date "1908.06.09"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Henry Baudet"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -87,14 +79,12 @@
 
 [Event "Simul, 31b"]
 [Site "Birmingham ENG"]
-[Date "1897.03.01"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Frederick Richard Gittins"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -111,14 +101,12 @@
 
 [Event "Simul, 31b"]
 [Site "Leiden NED"]
-[Date "1898.04.07"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J J Colpa"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -131,14 +119,12 @@
 
 [Event "Simul, 31b"]
 [Site "Plymouth ENG"]
-[Date "1898.11.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "D W Earle"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -151,14 +137,12 @@
 
 [Event "Simul, 20b"]
 [Site "Oxford University, Oxford ENG"]
-[Date "1898.11.12"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Arthur George"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -173,14 +157,12 @@
 
 [Event "Simul, 30b"]
 [Site "Cheltenham ENG"]
-[Date "1898.11.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Edwin Law"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -195,14 +177,12 @@
 
 [Event "Simul, 24b"]
 [Site "City of London CC, London ENG"]
-[Date "1898.11.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Franz Leye"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C82"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -220,14 +200,12 @@
 
 [Event "Simul, 30b"]
 [Site "Cheltenham ENG"]
-[Date "1898.11.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Edward James"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C00"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -242,14 +220,12 @@
 
 [Event "Simul, 25b"]
 [Site "Birmingham ENG"]
-[Date "1898.12.01"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Joseph Moore"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -264,14 +240,12 @@
 
 [Event "Simul, 24b"]
 [Site "Bristol ENG"]
-[Date "1898.11.25"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "W W Gibberd"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -287,14 +261,12 @@
 
 [Event "Simul, 31b"]
 [Site "Plymouth ENG"]
-[Date "1898.11.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "H A Adamson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -308,14 +280,12 @@
 
 [Event "Simul, 25b"]
 [Site "Manchester ENG"]
-[Date "1898.12.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Francis Charles Carroll"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -330,14 +300,12 @@
 
 [Event "Simul, 36b"]
 [Site "Moscow RUE"]
-[Date "1899.02.15"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Aleksandrov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -351,14 +319,12 @@
 
 [Event "Simul, 40b"]
 [Site "Moscow RUE"]
-[Date "1899.02.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Rutenberg"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C44"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -373,14 +339,12 @@
 
 [Event "Simul, 25b"]
 [Site "City of London CC, London ENG"]
-[Date "1900.11.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Edward Owen Jones"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D61"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -393,14 +357,12 @@
 
 [Event "Simul, 25b"]
 [Site "City of London CC, London ENG"]
-[Date "1900.11.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Thomas Charles Gibbons"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A83"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -414,14 +376,12 @@
 
 [Event "Simul, 20b"]
 [Site "Norwich ENG"]
-[Date "1900.11.28"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "A T Nicholls"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C44"]
-[EventDate "????.??.??"]
 [PlyCount "24"]
 [WhiteElo "?"]
 
@@ -432,14 +392,12 @@
 
 [Event "Simul, 25b"]
 [Site "London ENG"]
-[Date "1900.11.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Thomas Physick"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D61"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -452,14 +410,12 @@
 
 [Event "Simul, 18b"]
 [Site "Hereford ENG"]
-[Date "1900.12.07"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Sidney Myer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C15"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -474,14 +430,12 @@
 
 [Event "Simul, 20b"]
 [Site "Norwich ENG"]
-[Date "1900.11.28"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "John Keeble"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -497,14 +451,12 @@
 
 [Event "Simul"]
 [Site "London ENG"]
-[Date "1901.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "F W Boff"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -517,14 +469,12 @@
 
 [Event "Simul, 23b"]
 [Site "New York, NY USA"]
-[Date "1901.05.03"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "James Moore Hanham"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "34"]
 [WhiteElo "?"]
 

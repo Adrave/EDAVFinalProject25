@@ -5,7 +5,6 @@
 [BlackFideId "5000017"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Sat Nov 23 2019"]
 [WhiteClock "0:00:23"]
 [BlackClock "0:01:43"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "8603677"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Sun Nov 24 2019"]
 [WhiteClock "0:03:52"]
 [BlackClock "0:03:48"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "4168119"]
 [Result "1/2-1/2"]
 [Round "09"]
-[Date "Sun Nov 24 2019"]
 [WhiteClock "0:18:56"]
 [BlackClock "0:21:06"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "1503014"]
 [Result "1/2-1/2"]
 [Round "12"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:21"]
 [BlackClock "0:00:01"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "5000017"]
 [Result "1/2-1/2"]
 [Round "16"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:03:18"]
 [BlackClock "0:03:38"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "4168119"]
 [Result "1/2-1/2"]
 [Round "14"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:19"]
 [BlackClock "0:00:21"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "5029465"]
 [Result "1/2-1/2"]
 [Round "18"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:01:41"]
 [BlackClock "0:01:54"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "24116068"]
 [Result "1/2-1/2"]
 [Round "19"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:39"]
 [BlackClock "0:01:14"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "8603677"]
 [Result "1/2-1/2"]
 [Round "22"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:18"]
 [BlackClock "0:00:08"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "5202213"]
 [Result "1/2-1/2"]
 [Round "26"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:08"]
 [BlackClock "0:00:04"]
 
@@ -155,7 +145,6 @@
 [BlackFideId "14200937"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:14"]
 [BlackClock "0:00:02"]
 
@@ -170,7 +159,6 @@
 [BlackFideId "1503014"]
 [Result "1/2-1/2"]
 [Round "11"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:53"]
 [BlackClock "0:00:41"]
 
@@ -185,7 +173,6 @@
 [BlackFideId "1503014"]
 [Result "1/2-1/2"]
 [Round "15"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:14:06"]
 [BlackClock "0:15:34"]
 
@@ -200,7 +187,6 @@
 [BlackFideId "24116068"]
 [Result "1/2-1/2"]
 [Round "09"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:07:38"]
 [BlackClock "0:08:13"]
 
@@ -215,7 +201,6 @@
 [BlackFideId "623539"]
 [Result "1/2-1/2"]
 [Round "12"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:05:23"]
 [BlackClock "0:08:44"]
 
@@ -230,7 +215,6 @@
 [BlackFideId "1503014"]
 [Result "1/2-1/2"]
 [Round "22-tb1"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:22"]
 [BlackClock "0:00:14"]
 
@@ -245,7 +229,6 @@
 [BlackFideId "24116068"]
 [Result "1/2-1/2"]
 [Round "17"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:01:14"]
 [BlackClock "0:01:31"]
 
@@ -255,7 +238,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.08"]
 [Round "1"]
 [White "Nakamura,Hi"]
 [Black "Dreev,A"]
@@ -265,7 +247,6 @@
 [BlackTeam "San Diego Surfers"]
 [BlackTitle "GM"]
 [ECO "D12"]
-[EventDate "2019.01.08"]
 [Opening "QGD Slav"]
 [Variation "4.e3 Bf5"]
 [WhiteElo "2749"]
@@ -285,7 +266,6 @@
 
 [Event "Gibraltar Masters 2019"]
 [Site "Caleta ENG"]
-[Date "2019.01.23"]
 [Round "2.52"]
 [White "Nakamura,Hi"]
 [Black "Merario Alarcon,Andres"]
@@ -294,7 +274,6 @@
 [BlackFideId "24522767"]
 [BlackTitle "IM"]
 [ECO "A06"]
-[EventDate "2019.01.22"]
 [Opening "Reti"]
 [Variation "Nimzovich-Larsen attack"]
 [WhiteElo "2749"]
@@ -313,7 +292,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.16"]
 [Round "2"]
 [White "Nakamura,Hi"]
 [Black "Xiong,Jeffery"]
@@ -323,7 +301,6 @@
 [BlackTeam "Dallas Destiny"]
 [BlackTitle "GM"]
 [ECO "C67"]
-[EventDate "2019.01.08"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence, open variation"]
 [WhiteElo "2749"]
@@ -344,7 +321,6 @@
 
 [Event "Gibraltar Masters 2019"]
 [Site "Caleta ENG"]
-[Date "2019.01.31"]
 [Round "10.4"]
 [White "Nakamura,Hi"]
 [Black "Grandelius,N"]
@@ -353,7 +329,6 @@
 [BlackFideId "1710400"]
 [BlackTitle "GM"]
 [ECO "B90"]
-[EventDate "2019.01.22"]
 [Opening "Sicilian"]
 [Variation "Najdorf"]
 [WhiteElo "2749"]
@@ -373,7 +348,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.29"]
 [Round "4"]
 [White "Nakamura,Hi"]
 [Black "Iturrizaga,E"]
@@ -383,7 +357,6 @@
 [BlackTeam "Miami Champions"]
 [BlackTitle "GM"]
 [ECO "E17"]
-[EventDate "2019.01.08"]
 [Opening "Queen's Indian"]
 [Variation "old main line, 6.O-O"]
 [WhiteElo "2749"]
@@ -404,7 +377,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.30"]
 [Round "4"]
 [White "Nakamura,Hi"]
 [Black "Movsesian,S"]
@@ -414,7 +386,6 @@
 [BlackTeam "London Lions"]
 [BlackTitle "GM"]
 [ECO "A06"]
-[EventDate "2019.01.08"]
 [Opening "Reti"]
 [Variation "Nimzovich-Larsen attack"]
 [WhiteElo "2749"]
@@ -436,7 +407,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.29"]
 [Round "4"]
 [White "Nakamura,Hi"]
 [Black "Salem,AR"]
@@ -446,7 +416,6 @@
 [BlackTeam "Montreal Chessbrahs"]
 [BlackTitle "GM"]
 [ECO "A04"]
-[EventDate "2019.01.08"]
 [Opening "Reti opening"]
 [WhiteElo "2749"]
 [WhiteFideId "2016192"]
@@ -464,7 +433,6 @@
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2020.01.05"]
 [Round "3.31"]
 [White "Nakamura,Hi"]
 [Black "Nepomniachtchi,I"]
@@ -473,7 +441,6 @@
 [BlackFideId "4168119"]
 [BlackTitle "GM"]
 [ECO "B23"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Grand Prix attack, Schofman variation"]
 [WhiteElo "2745"]

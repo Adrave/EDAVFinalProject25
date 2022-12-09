@@ -1,6 +1,5 @@
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1976.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Browne Walter S (USA)"]
@@ -20,7 +19,6 @@ Nxe4 14.Nxe4 Qb4+ 15.Qd2 Qxe4 16.O-O Qc6 17.Bf3 Qb6+ 18.Be3 Qc7
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1976.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -46,7 +44,6 @@ Nd7 54.Bh5 Nxb2 55.Be8 Nc5 56.Nxf6+ Kf8 57.Bb5 Nbd3 58.Bc6 1-0
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1976.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -68,7 +65,6 @@ Rxd1 31.Rxd1 Rb2 32.Rd7 Bxe5 1/2-1/2
 
 [Event "It"]
 [Site "Manila (Philippines)"]
-[Date "1976.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Browne Walter S (USA)"]
@@ -89,7 +85,6 @@ Nc4 25.Rd3 Ne5 26.Rd2 Nc4 27.Rd3 Ne5 28.Rd2 1/2-1/2
 
 [Event "It"]
 [Site "Manila (Philippines)"]
-[Date "1976.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -109,7 +104,6 @@ Nc5 20.Qe3 Re8 21.Qd2 1/2-1/2
 
 [Event ""]
 [Site "Manila (Philippines)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Torre Eugenio (PHI)"]
@@ -134,7 +128,6 @@ e5 37.Qh1 Qd3+ 38.Ka1 Bd4 39.Qh8+ Kd7 40.Qa8 Qf1+ 41.Nb1 Qc4
 
 [Event "It"]
 [Site "Montilla (Spain)"]
-[Date "1976.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bellon Lopez Juan Manuel (ESP)"]
@@ -160,7 +153,6 @@ Rh1 49.Bxb5 Rh3+ 50.Kf4 Rh4+ 51.Kf3 Ng5+ 52.Kg3 Rh3+ 53.Kg4 Nxh7
 
 [Event "It"]
 [Site "Montilla (Spain)"]
-[Date "1976.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Byrne Robert E (USA)"]
@@ -179,7 +171,6 @@ Ne4 14.Ncxe4 1/2-1/2
 
 [Event "It"]
 [Site "Montilla (Spain)"]
-[Date "1976.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Diez Del Corral Jesus (ESP)"]
@@ -213,7 +204,6 @@ Bc5 99.Nf7 Nb7 100.Ke4 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1976.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -237,7 +227,6 @@ Qc7 42.Bd3 Rb4 43.Rb3 Qa5 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1976.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dorfman Josif D (FRA)"]
@@ -262,7 +251,6 @@ Ke6 47.Kb2 f6 48.Rf8 Qg7 49.Qc8+ Kd5 50.Qc4+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1976.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kupreichik Viktor D (BLR)"]
@@ -285,7 +273,6 @@ Kf7 37.Bc7 Bxc7 38.Re7+ Kf8 39.dxc7 Rc6 40.Rxh7 Ke8 41.h4 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tseshkovsky Vitaly (RUS)"]
@@ -306,7 +293,6 @@ Nxe4 19.Ba4 c6 20.Bc2 d5 21.Bxe4 Rxe4 22.Rxe4 dxe4 23.Qb3 Bc7
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1976.??.??"]
 [Round "12"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Georgievski Stevce (MKD)"]
@@ -329,7 +315,6 @@ Rc7 31.Nc5 Nd7 32.Na4 Kb8 33.b5 Nf7 34.bxc6 Rxc6 35.cxd5 exd5
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1976.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ivanovic Bozidar (SCG)"]
@@ -353,7 +338,6 @@ Nd4 42.Rxh5 1-0
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nicevski Risto (MKD)"]
@@ -377,7 +361,6 @@ Rf7 36.f3 Rfe7 37.Rc2 e2+ 38.Ke1 Kf7 39.Rdd2 Re3 40.Rxe2 Rd3
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sofrevski Jovan (MKD)"]
@@ -401,7 +384,6 @@ Qh5+ 42.Kxg3 f4+ 43.Qxf4 1-0
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -424,7 +406,6 @@ Ra8 36.Qf5+ Kg7 37.Rxh6 Kxh6 38.Qf6+ Kh7 39.Qxf7+ Kh8 40.Qxb7 1-0
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Velimirovic Dragoljub (SCG)"]
@@ -452,7 +433,6 @@ Kd6 64.Qf8+ Kc7 65.Qc5 Nd6 66.Qxa7+ Kc8 67.Qa6+ 1-0
 
 [Event "Simultan"]
 [Site "Spain"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Falco Gerardo"]
@@ -472,7 +452,6 @@ Ra6 20.Ncb5 Rc8 21.Rc3 Bf8 22.Rfc1 c5 23.dxc6 Raxc6 24.Rxc6 1-0
 
 [Event "Simultan"]
 [Site "Spain"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Garriga Nualart Josep (ESP)"]
@@ -493,7 +472,6 @@ Rxf7 0-1
 
 [Event "Cup URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1976.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anikaev Yuri N (RUS)"]
@@ -516,7 +494,6 @@ Ke7 36.Nc6+ Bxc6 37.Qh7+ 1-0
 
 [Event "Cup URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1976.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -540,14 +517,12 @@ Rf6 36.Rg5+ Kf7 37.d5 Rd6 38.Rf5+ Ke8 39.Bf4 g6 40.Bxd6 gxf5
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1976.05.21"]
 [Round "6"]
 [White "Anatoly Karpov"]
 [Black "Fridrik Olafsson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "1976.05.14"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -566,14 +541,12 @@ Rf6 36.Rg5+ Kf7 37.d5 Rd6 38.Rf5+ Ke8 39.Bf4 g6 40.Bxd6 gxf5
 
 [Event "Tilburg Interpolis"]
 [Site "Tilburg NED"]
-[Date "1977.09.27"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C82"]
-[EventDate "1977.09.23"]
 [PlyCount "124"]
 [WhiteElo "?"]
 

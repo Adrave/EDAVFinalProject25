@@ -1,6 +1,5 @@
 [Event "II Rapid"]
 [Site "Canada de Calatrava ESP"]
-[Date "2007.04.06"]
 [Round "3"]
 [White "Grischuk, A."]
 [Black "Teske, H."]
@@ -9,7 +8,6 @@
 [WhiteElo "2717"]
 [BlackElo "2538"]
 [PlyCount "143"]
-[EventDate "2007.04.06"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
 Nb6 9. Be3 Bb4 10. Nd2 axb5 11. Rxa8 Nxa8 12. Bxc4 c6 13. Bd3 Nd7 14. Nde4 Nc7
@@ -27,7 +25,6 @@ Nf4 66. Qf6+ Ke8 67. Kf3 Nd5 68. Qxe6+ Ne7 69. g6 Kd8 70. g7 Kc7 71. Qxe7+ Kc6
 
 [Event "II Rapid"]
 [Site "Canada de Calatrava ESP"]
-[Date "2007.04.07"]
 [Round "4"]
 [White "Grischuk, A."]
 [Black "Burmakin, V."]
@@ -36,7 +33,6 @@ Nf4 66. Qf6+ Ke8 67. Kf3 Nd5 68. Qxe6+ Ne7 69. g6 Kd8 70. g7 Kc7 71. Qxe7+ Kc6
 [WhiteElo "2717"]
 [BlackElo "2593"]
 [PlyCount "71"]
-[EventDate "2007.04.06"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 h6 5. Bc4 Bf5 6. Ng3 Bh7 7. N1e2 e6 8.
 O-O Ne7 9. Bb3 Nd7 10. Nf4 Nd5 11. Nfh5 N7f6 12. c4 Nb6 13. Re1 Nxh5 14. Nxh5
@@ -48,7 +44,6 @@ Nxf4 Rh7 34. e4 Rbxb7 35. R7a6 Kd7 36. Nd3 1-0
 
 [Event "II Rapid"]
 [Site "Canada de Calatrava ESP"]
-[Date "2007.04.08"]
 [Round "8"]
 [White "Grischuk, A."]
 [Black "Zubov, A UKR."]
@@ -57,7 +52,6 @@ Nxf4 Rh7 34. e4 Rbxb7 35. R7a6 Kd7 36. Nd3 1-0
 [WhiteElo "2717"]
 [BlackElo "2542"]
 [PlyCount "119"]
-[EventDate "2007.04.06"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Nbd7 12. Ba5 Ra7 13. Qe3 Qa8 14. Nbd2 Bd5 15.
@@ -73,7 +67,6 @@ Qg6 54. a4 Rh7 55. Be4 Qf7 56. Bxh7 Kxh7 57. Qe4+ Kg8 58. a5 Qe8 59. Qg4+ Kh7
 
 [Event "TCh-RUS"]
 [Site "Sochi RUS"]
-[Date "2007.05.05"]
 [Round "4"]
 [White "Grischuk, A."]
 [Black "Volokitin, And"]
@@ -82,7 +75,6 @@ Qg6 54. a4 Rh7 55. Be4 Qf7 56. Bxh7 Kxh7 57. Qe4+ Kg8 58. a5 Qe8 59. Qg4+ Kh7
 [WhiteElo "2717"]
 [BlackElo "2654"]
 [PlyCount "89"]
-[EventDate "2007.05.02"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. f3 d5 7. exd5 exd5 8.
 Be3 Bb4 9. Qd2 Nge7 10. O-O-O O-O 11. a3 Bd6 12. Nxc6 bxc6 13. Na4 Nf5 14. Bf4
@@ -95,7 +87,6 @@ Rd1 40. a7 Rd8 41. Rb4 Ra8 42. Ka6 Ke6 43. Rb5 Rf8 44. f5+ Kd7 45. Rb7+ 1-0
 
 [Event "TCh-RUS"]
 [Site "Sochi RUS"]
-[Date "2007.05.07"]
 [Round "6"]
 [White "Grischuk, A."]
 [Black "Timofeev, Arty"]
@@ -104,7 +95,6 @@ Rd1 40. a7 Rd8 41. Rb4 Ra8 42. Ka6 Ke6 43. Rb5 Rf8 44. f5+ Kd7 45. Rb7+ 1-0
 [WhiteElo "2717"]
 [BlackElo "2658"]
 [PlyCount "65"]
-[EventDate "2007.05.02"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
 O-O-O Bd7 9. f3 Rc8 10. Kb1 Be7 11. h4 h6 12. Be3 h5 13. Nxc6 Bxc6 14. Ne2 d5
@@ -115,7 +105,6 @@ fxe6+ fxe6 29. Rhf1 Rhf8 30. Nxe6 Rxf1 31. Qxf1 Bxe3 32. Qf7+ Qe7 33. Nf8+ 1-0
 
 [Event "WCh Candidates s/f"]
 [Site "Elista RUS"]
-[Date "2007.05.27"]
 [Round "1"]
 [White "Grischuk, A."]
 [Black "Malakhov, V."]
@@ -124,7 +113,6 @@ fxe6+ fxe6 29. Rhf1 Rhf8 30. Nxe6 Rxf1 31. Qxf1 Bxe3 32. Qf7+ Qe7 33. Nf8+ 1-0
 [WhiteElo "2717"]
 [BlackElo "2679"]
 [PlyCount "83"]
-[EventDate "2007.05.27"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Nxd4 8.
 Qxd4 h6 9. Bxf6 gxf6 10. Bb5 Bc6 11. O-O Bg7 12. Rad1 Kf8 13. Qd3 Qa5 14. Bxc6
@@ -137,7 +125,6 @@ Rxe7 41. Rxe7 Rg6 42. Qxc5 1-0
 
 [Event "WCh Candidates Finals"]
 [Site "Elista RUS"]
-[Date "2007.06.06"]
 [Round "1"]
 [White "Grischuk, A."]
 [Black "Rublevsky, S."]
@@ -146,7 +133,6 @@ Rxe7 41. Rxe7 Rg6 42. Qxc5 1-0
 [WhiteElo "2717"]
 [BlackElo "2680"]
 [PlyCount "69"]
-[EventDate "2007.06.06"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8. Be3
 Bd7 9. a4 Be7 10. f4 Nxd4 11. Qxd4 Bc6 12. b4 O-O 13. b5 Be8 14. e5 Qc7 15. b6
@@ -158,7 +144,6 @@ Re4 35. Re7+ 1-0
 
 [Event "Pivdenny Bank Cup"]
 [Site "Odessa UKR"]
-[Date "2007.07.04"]
 [Round "1"]
 [White "Grischuk, A."]
 [Black "Gelfand, B."]
@@ -167,7 +152,6 @@ Re4 35. Re7+ 1-0
 [WhiteElo "2717"]
 [BlackElo "2733"]
 [PlyCount "81"]
-[EventDate "2007.07.04"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
 9. Be2 Bb7 10. h4 g4 11. Ne5 Nbd7 12. Nxd7 Qxd7 13. Be5 Qe7 14. O-O Rg8 15. b3
@@ -180,7 +164,6 @@ Rb8 41. Nd3 1-0
 
 [Event "2nd FIDE GP"]
 [Site "Sochi RUS"]
-[Date "2008.08.07"]
 [Round "7"]
 [White "Grischuk, A."]
 [Black "Gelfand, B."]
@@ -189,7 +172,6 @@ Rb8 41. Nd3 1-0
 [WhiteElo "2728"]
 [BlackElo "2720"]
 [PlyCount "92"]
-[EventDate "2008.07.31"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5 8.
 Bxb4 Ndxb4 9. O-O Rb8 10. Na3 O-O 11. Qb5 b6 12. Qxc4 Ba6 13. Nb5 Qd5 14. Qxd5
@@ -203,7 +185,6 @@ Re4+ Kd5 1/2-1/2
 
 [Event "2nd FIDE GP"]
 [Site "Sochi RUS"]
-[Date "2008.08.09"]
 [Round "9"]
 [White "Grischuk, A."]
 [Black "Kamsky, G."]
@@ -212,7 +193,6 @@ Re4+ Kd5 1/2-1/2
 [WhiteElo "2728"]
 [BlackElo "2723"]
 [PlyCount "108"]
-[EventDate "2008.07.31"]
 
 1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. d4 a6 5. c5 g6 6. Bf4 Bg7 7. e3 Nh5 8. Bg5 Bg4
 9. Be2 Nd7 10. Qb3 Rb8 11. e4 dxe4 12. Nxe4 O-O 13. O-O Ndf6 14. Nxf6+ Bxf6 15.
@@ -227,7 +207,6 @@ Ke3 Kd5 54. Kd3 Ke5 1/2-1/2
 
 [Event "2nd FIDE GP"]
 [Site "Sochi RUS"]
-[Date "2008.08.11"]
 [Round "10"]
 [White "Grischuk, A."]
 [Black "Wang Yue"]
@@ -236,7 +215,6 @@ Ke3 Kd5 54. Kd3 Ke5 1/2-1/2
 [WhiteElo "2728"]
 [BlackElo "2704"]
 [PlyCount "68"]
-[EventDate "2008.07.31"]
 
 1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Nf3 h6 8.
 Bxf6 exf6 9. Bxc4 Bd6 10. O-O O-O 11. h3 Bf5 12. Re1 a6 13. Bd3 Qd7 14. Bxf5
@@ -248,7 +226,6 @@ h4 Kg7 34. g3 Qc7 1/2-1/2
 
 [Event "2nd FIDE GP"]
 [Site "Sochi RUS"]
-[Date "2008.08.13"]
 [Round "12"]
 [White "Grischuk, A."]
 [Black "Ivanchuk, V."]
@@ -257,7 +234,6 @@ h4 Kg7 34. g3 Qc7 1/2-1/2
 [WhiteElo "2728"]
 [BlackElo "2781"]
 [PlyCount "49"]
-[EventDate "2008.07.31"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. d4 c5 5. g3 Nc6 6. Bg2 Ne4 7. Bd2 Nxd2 8.
 Qxd2 cxd4 9. Nxd4 O-O 10. O-O Ne5 11. b3 a6 12. Nf3 Qa5 13. Rfc1 Nc6 14. Nd4
@@ -267,7 +243,6 @@ Qd7 22. Nb6 Qc7 23. Nd5 Qd7 24. Nb6 Qc7 25. Nd5 1/2-1/2
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "2"]
 [White "Grischuk, A."]
 [Black "Karpov, Ana"]
@@ -276,7 +251,6 @@ Qd7 22. Nb6 Qc7 23. Nd5 Qd7 24. Nb6 Qc7 25. Nd5 1/2-1/2
 [WhiteElo "2728"]
 [BlackElo "2651"]
 [PlyCount "67"]
-[EventDate "2008.08.29"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Bf4 Nd5 13. Nc3 Nxf4 14. Qxf4 c5 15.
@@ -288,7 +262,6 @@ Qe4 1/2-1/2
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "7"]
 [White "Grischuk, A."]
 [Black "Morozevich, A."]
@@ -297,7 +270,6 @@ Qe4 1/2-1/2
 [WhiteElo "2728"]
 [BlackElo "2788"]
 [PlyCount "135"]
-[EventDate "2008.08.29"]
 
 1. Nf3 g6 2. e4 d6 3. d4 Nf6 4. Nc3 Bg7 5. h3 c6 6. Be3 Qb6 7. a3 Nbd7 8. Bd3
 Qc7 9. Qd2 e5 10. Bh6 O-O 11. O-O Re8 12. Rfe1 Nf8 13. Ne2 Nh5 14. Rad1 Ne6 15.
@@ -314,7 +286,6 @@ Rc2 Rb3 54. Kf2 b4 55. Ke3 Ba4 56. Rc1 Rb2 57. Nd3 Rb3 58. Kd4 Kb6 59. Kc4 c2
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "9"]
 [White "Grischuk, A."]
 [Black "Kamsky, G."]
@@ -323,7 +294,6 @@ Rc2 Rb3 54. Kf2 b4 55. Ke3 Ba4 56. Rc1 Rb2 57. Nd3 Rb3 58. Kd4 Kb6 59. Kc4 c2
 [WhiteElo "2728"]
 [BlackElo "2723"]
 [PlyCount "103"]
-[EventDate "2008.08.29"]
 
 1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. e3 g6 5. b3 Bg7 6. Bb2 O-O 7. Be2 Bg4 8. O-O
 e6 9. Qc2 a5 10. h3 Bxf3 11. Bxf3 Nbd7 12. Rfd1 Qb8 13. Rac1 Rd8 14. g3 h5 15.
@@ -337,7 +307,6 @@ Rxd4 Ne5 48. Be2 Rc2 49. Kf1 g5 50. Re4 Nd7 51. Rc4 Rxc4 52. Bxc4 1/2-1/2
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "20"]
 [White "Grischuk, A."]
 [Black "Tkachiev, V."]
@@ -346,7 +315,6 @@ Rxd4 Ne5 48. Be2 Rc2 49. Kf1 g5 50. Re4 Nd7 51. Rc4 Rxc4 52. Bxc4 1/2-1/2
 [WhiteElo "2728"]
 [BlackElo "2664"]
 [PlyCount "42"]
-[EventDate "2008.08.29"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
 Nb6 9. Be3 Bb7 10. bxa6 Rxa6 11. Rxa6 Nxa6 12. Bxc4 Nxc4 13. Qa4+ c6 14. Qxc4
@@ -356,7 +324,6 @@ Nc3 Nb4 1/2-1/2
 
 [Event "24th ECC"]
 [Site "Kallithea GRE"]
-[Date "2008.10.17"]
 [Round "1"]
 [White "Grischuk, A."]
 [Black "Fiebig, T."]
@@ -365,7 +332,6 @@ Nc3 Nb4 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2401"]
 [PlyCount "139"]
-[EventDate "2008.10.17"]
 
 1. c4 e6 2. d4 d5 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 Bb7 9. a3 a5 10. e4 b4 11. Na4 c5 12. e5 Nd5 13. O-O cxd4 14. Nxd4 Nxe5 15.
@@ -382,7 +348,6 @@ Kf7 66. Kd4 Rg1 67. Rg6 Re1 68. Kd3 Ra1 69. Ke4 Ra4+ 70. Kf3 1/2-1/2
 
 [Event "IV World Blitz"]
 [Site "Almaty KAZ"]
-[Date "2008.11.08"]
 [Round "11"]
 [White "Grischuk, A."]
 [Black "Rublevsky, S."]
@@ -391,7 +356,6 @@ Kf7 66. Kd4 Rg1 67. Rg6 Re1 68. Kd3 Ra1 69. Ke4 Ra4+ 70. Kf3 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2702"]
 [PlyCount "117"]
-[EventDate "2008.11.08"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. a3 Nbd7 8. g3
 Ne4 9. Nxg6 hxg6 10. Nxe4 dxe4 11. Bg2 f5 12. Qb3 Qc7 13. c5 Kf7 14. Bd2 Nf6
@@ -407,7 +371,6 @@ Kc2 Rg2+ 59. Kc1 1/2-1/2
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.14"]
 [Round "2"]
 [White "Grischuk, A."]
 [Black "Wojtaszek, R."]
@@ -416,7 +379,6 @@ Kc2 Rg2+ 59. Kc1 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2599"]
 [PlyCount "226"]
-[EventDate "2008.11.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
 cxd4 9. Nxd4 Rc8 10. Nc3 Nxd4 11. Qxd4 Bc5 12. Qh4 O-O 13. Rd1 Qb6 14. Bg5
@@ -441,7 +403,6 @@ Kg2 113. Qg5+ Kf3 1/2-1/2
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.17"]
 [Round "5"]
 [White "Grischuk, A."]
 [Black "Khenkin, I."]
@@ -450,7 +411,6 @@ Kg2 113. Qg5+ Kf3 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2647"]
 [PlyCount "60"]
-[EventDate "2008.11.13"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. bxc4 bxc4 8. Bxc4
 Nf6 9. Nc3 Nc6 10. a5 Bb4 11. Qb3 Nd5 12. O-O Nxc3 13. Bd2 Nxa5 14. Qxb4 Nxc4
@@ -461,7 +421,6 @@ Rxd5 cxd5 28. Rxa6 Kf7 29. Ra7+ Kf8 30. Ra2 Ke7 1/2-1/2
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.22"]
 [Round "9"]
 [White "Grischuk, A."]
 [Black "Eljanov, P."]
@@ -470,7 +429,6 @@ Rxd5 cxd5 28. Rxa6 Kf7 29. Ra7+ Kf8 30. Ra2 Ke7 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2720"]
 [PlyCount "183"]
-[EventDate "2008.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Ne4 h6 12. b3 a5 13. Bb2 Nf4 14. Rad1+
@@ -491,7 +449,6 @@ Kg7 90. Ke5 Kf7 91. f6 Kf8 92. Ke4 1/2-1/2
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.25"]
 [Round "11"]
 [White "Grischuk, A."]
 [Black "Illescas Cordoba, M."]
@@ -500,7 +457,6 @@ Kg7 90. Ke5 Kf7 91. f6 Kf8 92. Ke4 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2604"]
 [PlyCount "77"]
-[EventDate "2008.11.13"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. h4 Bh6 14. a4 bxa4
@@ -512,7 +468,6 @@ Rxf5 28. g3 Rbf8 29. Kg2 Bxf2 30. Qg4 g6 31. Ra8 Rxa8 32. Bxa8 Qe3 33. Bf3 d5
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.17"]
 [Round "4"]
 [White "Grischuk, A."]
 [Black "Inarkiev, E."]
@@ -521,7 +476,6 @@ Rxf5 28. g3 Rbf8 29. Kg2 Bxf2 30. Qg4 g6 31. Ra8 Rxa8 32. Bxa8 Qe3 33. Bf3 d5
 [WhiteElo "2719"]
 [BlackElo "2669"]
 [PlyCount "43"]
-[EventDate "2008.12.14"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
 g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O 14. Qc2
@@ -531,7 +485,6 @@ Nc5 15. O-O fxg3 16. hxg3 a5 17. Rfc1 Kb8 18. Rab1 Ne6 19. Qe4 Nc5 20. Qc2 Ne6
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.26"]
 [Round "11"]
 [White "Grischuk, A."]
 [Black "Cheparinov, I."]
@@ -540,7 +493,6 @@ Nc5 15. O-O fxg3 16. hxg3 a5 17. Rfc1 Kb8 18. Rab1 Ne6 19. Qe4 Nc5 20. Qc2 Ne6
 [WhiteElo "2719"]
 [BlackElo "2696"]
 [PlyCount "132"]
-[EventDate "2008.12.14"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
 9. Ne5 Bb7 10. h4 g4 11. Nxg4 Nbd7 12. Nxf6+ Qxf6 13. Qd2 h5 14. Bf4 Qg6 15.
@@ -557,7 +509,6 @@ Kxh7 60. Kxb5 c2 61. Kb4 Nf4 62. Nc1 Kg6 63. Kb3 Kf6 64. Kxc2 Ke5 65. Nd3+ Kxe4
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.28"]
 [Round "13"]
 [White "Grischuk, A."]
 [Black "Radjabov, T."]
@@ -566,7 +517,6 @@ Kxh7 60. Kxb5 c2 61. Kb4 Nf4 62. Nc1 Kg6 63. Kb3 Kf6 64. Kxc2 Ke5 65. Nd3+ Kxe4
 [WhiteElo "2719"]
 [BlackElo "2751"]
 [PlyCount "193"]
-[EventDate "2008.12.14"]
 
 1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 Kh8 13. Ne6 Bxe6 14. dxe6 Re8 15.

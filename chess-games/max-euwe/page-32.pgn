@@ -1,13 +1,11 @@
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1925.11.28"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Klaas Marinus Bergsma"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C56"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "NRSV-ASC"]
 [Site "Rotterdam NED"]
-[Date "1926.01.10"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Jan Willem te Kolste"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A21"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -40,14 +36,12 @@
 
 [Event "ASC-VAS"]
 [Site "Amsterdam NED"]
-[Date "1925.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Jacques Davidson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B12"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Antwerp-Rotterdam"]
 [Site "Antwerp BEL"]
-[Date "1926.01.23"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Edgar Colle"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "129"]
 [WhiteElo "?"]
 
@@ -93,14 +85,12 @@
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1926.04.??"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "John Drewitt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A28"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -117,14 +107,12 @@
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1926.04.??"]
 [Round "7"]
 [White "Max Euwe"]
 [Black "Maurice Edward Goldstein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -139,14 +127,12 @@
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1926.04.??"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Theodore Tylor"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -162,14 +148,12 @@
 
 [Event "NED-ch"]
 [Site "Utrecht NED"]
-[Date "1926.07.27"]
 [Round "8"]
 [White "Max Euwe"]
 [Black "Adolf Georg Olland"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A43"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -183,14 +167,12 @@
 
 [Event "NED-ch"]
 [Site "Amsterdam NED"]
-[Date "1926.07.??"]
 [Round "3"]
 [White "Max Euwe"]
 [Black "Joseph Louis Kersten"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -205,14 +187,12 @@
 
 [Event "NED-ch"]
 [Site "Utrecht NED"]
-[Date "1926.07.26"]
 [Round "7"]
 [White "Max Euwe"]
 [Black "Gerrit Willem Kloosterboer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A20"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -228,14 +208,12 @@
 
 [Event "NED-ch"]
 [Site "Utrecht NED"]
-[Date "1926.07.30"]
 [Round "11"]
 [White "Max Euwe"]
 [Black "Arnold van Foreest"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -249,14 +227,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "J H Lohr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A02"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -270,14 +246,12 @@
 
 [Event "?"]
 [Site "?"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Jacob van der Kar"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -289,14 +263,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1927.04.12"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "J Willems"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B03"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -310,14 +282,12 @@
 
 [Event "Utrecht"]
 [Site "Utrecht NED"]
-[Date "1927.05.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Adolf Georg Olland"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -334,14 +304,12 @@
 
 [Event "VAS-ASC"]
 [Site "Amsterdam NED"]
-[Date "1927.11.13"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Petrus Franciscus van Hoorn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -357,14 +325,12 @@
 
 [Event "Match 1"]
 [Site "Amsterdam NED"]
-[Date "1928.03.??"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Edgar Colle"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E32"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -376,14 +342,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1929.07.25"]
 [Round "9"]
 [White "Max Euwe"]
 [Black "Johannes Hendrik Otto van den Bosch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -396,14 +360,12 @@
 
 [Event "NED-ch"]
 [Site "Amsterdam NED"]
-[Date "1929.07.23"]
 [Round "7"]
 [White "Max Euwe"]
 [Black "Adolf Georg Olland"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E16"]
-[EventDate "????.??.??"]
 [PlyCount "135"]
 [WhiteElo "?"]
 
@@ -423,14 +385,12 @@
 
 [Event "DD-ASC"]
 [Site "The Hague NED"]
-[Date "1930.02.02"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Johannes Hendrik Otto van den Bosch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -444,14 +404,12 @@
 
 [Event "Simul"]
 [Site "INA"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "A A Abdul Satar"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C02"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -466,14 +424,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Borislav Petric"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -485,14 +441,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Angelo Olivieri"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -505,14 +459,12 @@
 
 [Event "Holland"]
 [Site "Holland"]
-[Date "1981.01.??"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Charles Kuijpers"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C04"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -524,14 +476,12 @@
 
 [Event "NED-ch Team"]
 [Site "Rotterdam NED"]
-[Date "1978.03.04"]
 [Round "7"]
 [White "Max Euwe"]
 [Black "Gert Ligterink"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It (cat.10)"]
 [Site "Bermuda"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Handke Florian (GER)"]
@@ -31,7 +30,6 @@ Kxh5 0-1
 
 [Event "It (cat.9)"]
 [Site "Budapest (Hungary)"]
-[Date "2002.??.??"]
 [Round "11"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Antal Gergely (HUN)"]
@@ -54,7 +52,6 @@ Nxg2 37.Nxg2 h6 38.Qd1 Rf2 39.h4 Rxg2 0-1
 
 [Event "It (cat.9)"]
 [Site "Budapest (Hungary)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Kallio Heikki (FIN)"]
@@ -80,7 +77,6 @@ Qe3+ 54.Kh2 Rh8+ 55.Kg3 Qe1+ 0-1
 
 [Event "Ch ICC (blitz) (final)"]
 [Site "Internet"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Shipov Sergei (RUS)"]
@@ -106,7 +102,6 @@ a3 54.Ra8 Bb2+ 55.Kc2 f4 56.Re8+ Bxe8 0-1
 
 [Event "It \"Dos Hermanas Internet Final\""]
 [Site "Internet"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -134,7 +129,6 @@ f5 66.Kd3 Kd5 67.Rb1 f4 68.Ke2 Nc3+ 0-1
 
 [Event "Ch Pan-American (juniors) (under 20)"]
 [Site "La Paz (Bolivia)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Andrade Ulises (VEN)"]
@@ -160,7 +154,6 @@ h2 55.b8Q h1Q 56.Qf8+ Kg6 57.Qe8+ Kf5 58.Qf7+ 1-0
 
 [Event "Ch Pan-American (juniors) (under 20)"]
 [Site "La Paz (Bolivia)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Castellanos Renier (CHI)"]
@@ -181,7 +174,6 @@ Nxd7 19.Ne6 Rf6 20.Nxg7 Nxg7 21.Bxh6 Nf5 22.Bg5 Re6 23.g4 Nd6
 
 [Event "It (open)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Arizmendi Martinez Julen L (ESP)"]
@@ -209,7 +201,6 @@ Rg2 65.Be7 Kb3 66.Bc5 Rh2 67.Be3 Rh1+ 68.Bc1 Rf1 0-1
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Najer Evgeniy (RUS)"]
@@ -234,7 +225,6 @@ bxa3 36.bxa3 Nf3+ 37.Kh1 e5 38.Bxe5 Nxe5 39.Be4 f5 40.Bb7 f4
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Sarkar Justin (USA)"]
@@ -255,7 +245,6 @@ Kf7 20.e4 Rhe8 21.exf5 Bd3 22.Re3 Rxe3 23.fxe3 Nd5 24.e4 Nxc3
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Krush Irina (USA)"]
@@ -277,7 +266,6 @@ Qxb3 30.Nd4 Qc3 31.Rc1 Qb2 32.Rc2 Qb3 1-0
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ibragimov Ildar (USA)"]
@@ -303,7 +291,6 @@ Kg8 48.Rd6 Qg5+ 49.Qg4 Qa5 50.Qh4 Rf8 51.Qc4+ Kh7 52.Qd3+ Kg8
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Novikov Igor A (USA)"]
@@ -327,7 +314,6 @@ Kc7 37.Rxg7+ Nd7 38.Nxc4 Rb8+ 39.Nb6 Re8 40.Bf3 Re1+ 41.Ka2 Ra1+
 
 [Event "It \"World Open\""]
 [Site "Philadelphia (USA)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Gonzales Jayson (PHI)"]
@@ -351,7 +337,6 @@ Kf6 0-1
 
 [Event "Memorial Imre Konig (cat.12)"]
 [Site "San Francisco (USA)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Akobian Varuzhan (USA)"]
@@ -374,7 +359,6 @@ Qb6 36.c5 Rxc5 37.Rxa3 Rcc8 38.Rd3 Kh7 39.Rb3 Rf2 40.Qd3 Rxg2 0-1
 
 [Event "Memorial Imre Konig (cat.12)"]
 [Site "San Francisco (USA)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Browne Walter S (USA)"]
@@ -395,7 +379,6 @@ Kg7 25.Rhe1 f6 26.Bb5 Rc7 27.f4 Bg4 28.Rf2 1-0
 
 [Event "Memorial Imre Konig (cat.12)"]
 [Site "San Francisco (USA)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "De Firmian Nick E (USA)"]
@@ -418,7 +401,6 @@ Kg8 36.Nd7+ Kh7 37.Qe7+ 1-0
 
 [Event "Memorial Imre Konig (cat.12)"]
 [Site "San Francisco (USA)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Fedorowicz John P (USA)"]
@@ -447,7 +429,6 @@ Kh7 72.Qh8+ Kg6 73.Qg8+ Kf5 74.Bd6 1-0
 
 [Event "Memorial Imre Konig (cat.12)"]
 [Site "San Francisco (USA)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Wojtkiewicz Aleksander (USA)"]
@@ -473,7 +454,6 @@ Kf5 0-1
 
 [Event "It (open)"]
 [Site "Santo-Domingo (Dominicana)"]
-[Date "2002.??.??"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -497,7 +477,6 @@ Nxf2 37.Qxh5+ Rh6 38.Qf5+ g6 39.Qe6 Qg7 40.Rf1 Qb2 41.Qe7+ Kg8
 
 [Event "It (open)"]
 [Site "Santo-Domingo (Dominicana)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Volkov Sergey Viktorovich (RUS)"]
@@ -534,7 +513,6 @@ Qf8 111.Qd5+ Qf7 112.Qd8+ Kg7 113.Qg5+ 0-1
 
 [Event "Match \"USA-China\" (team)"]
 [Site "Shanghai (China)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Zhao Jun (CHN)"]
@@ -559,7 +537,6 @@ Rf1+ 40.Ke3 Re1+ 41.Kd2 Ra1 42.a4 Ke4 43.Rg6 d5 44.cxd5 Kxd5
 
 [Event "It (open)"]
 [Site "Bermuda"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Fernandez John C (USA)"]
@@ -568,7 +545,6 @@ Rf1+ 40.Ke3 Re1+ 41.Kd2 Ra1 42.a4 Ke4 43.Rg6 d5 44.cxd5 Kxd5
 [WhiteElo "2520"]
 [BlackElo "2138"]
 [PlyCount "33"]
-[EventDate "2002.??.??"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Ng4 7. Bg5 Qb6 8.
 Bb5 Bd7 9. O-O h6 10. Be3 Nxe3 11. fxe3 Ne5 12. Bxd7+ Kxd7 13. Nd5 Qd8 14. Nf3
@@ -577,7 +553,6 @@ Nc6 15. Nd4 Ne5 16. Rxf7 g5 17. Qf1 1-0
 
 [Event "Ch Pan-American (juniors) (under 20)"]
 [Site "La Paz (Bolivia)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Cabrejos Tovar Jose (PER)"]
@@ -586,7 +561,6 @@ Nc6 15. Nd4 Ne5 16. Rxf7 g5 17. Qf1 1-0
 [WhiteElo "2520"]
 [BlackElo "2160"]
 [PlyCount "53"]
-[EventDate "2002.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
 c4 Ba6 9. b3 O-O-O 10. Bb2 c5 11. g3 Nb4 12. Bg2 d5 13. O-O dxc4 14. bxc4 Qe6
@@ -597,7 +571,6 @@ c4 Ba6 9. b3 O-O-O 10. Bb2 c5 11. g3 Nb4 12. Bg2 d5 13. O-O dxc4 14. bxc4 Qe6
 
 [Event "Panam U20"]
 [Site "La Paz BOL"]
-[Date "2002.06.14"]
 [Round "9"]
 [White "Nakamura, Hikaru"]
 [Black "Mafra, Kaiser Luiz"]
@@ -605,7 +578,6 @@ c4 Ba6 9. b3 O-O-O 10. Bb2 c5 11. g3 Nb4 12. Bg2 d5 13. O-O dxc4 14. bxc4 Qe6
 [WhiteElo "2466"]
 [BlackElo "2071"]
 [ECO "B30"]
-[EventDate "2002.06.05"]
 
 1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bb5 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. Ng5 f6
 8. Ne4 a6 9. Nbc3 e6 10. Qh5+ g6 11. Qf3 fxe5 12. Nxd5 exd5 13. Nf6+ Kf7 

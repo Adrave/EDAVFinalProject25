@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Davidson Jacques"]
@@ -23,7 +22,6 @@ f6 37.Qb5 Qh8 38.Qb7+ Kh6 39.Qf7 Qg7 40.Qe8 Nc6 41.Bf3 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Davidson Jacques"]
@@ -48,7 +46,6 @@ Kc4 48.b5 d3+ 49.Kd2 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -71,7 +68,6 @@ Kg8 36.Ne7+ Kh8 37.Kxh1 Bd3 38.Kg2 h6 39.Kf3 Kh7 40.h4 h5 0-1
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -95,7 +91,6 @@ Rxa2 40.Qxb7 Rgc2 41.Qa8 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -118,7 +113,6 @@ hxg6 36.f4 Bb3 37.f5 b6 38.Bf8 Nc4+ 39.Kd3 Nd6 40.fxg6 fxg6 41.Bg4 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -139,7 +133,6 @@ Rxf7 25.Nxf7+ Kg8 26.Ne5+ Qxd5 27.cxd5 Ne2+ 0-1
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Graves John D (USA)"]
@@ -161,7 +154,6 @@ Qg4 25.Rac1 Qxg3 26.hxg3 Rhc8 27.Nd6 Rc7 28.d5 exd5 29.Bb6 Rcc8
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Jutte"]
@@ -181,7 +173,6 @@ Ng6 14.Bg5 Qe8 15.Be7 Kh8 16.Nc3 Nxb4 17.Rae1 Nc6 18.Bxf8 Qxe2
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -208,7 +199,6 @@ Kg5 58.Ka3 Kf5 59.Kb4 Ke5 60.Bf1 Kd4 61.Be2 Ne4 62.Bf3 Nc5 1/2-1/2
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Moldauer"]
@@ -230,7 +220,6 @@ Ng6 14.Bb5+ c6 15.dxc6 Ke7 16.Rd1 Bd4 17.Be3 bxc6 18.Bxc6 Rb8
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Schelfhout Willem"]
@@ -253,7 +242,6 @@ e4 36.Qf5 e3 37.Kf1 Nb8 38.h4 gxh4 39.Qh5+ Rh6 40.Nxh6 gxh6 41.Qf7+ 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Sonnenburg K"]
@@ -274,7 +262,6 @@ Nf7 19.Nxd6+ Nxd6 20.Bf4 h6 21.Bxd6 Qxd6 22.Qa4 Qd7 23.Qxa7 Qd2
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Der Kar"]
@@ -296,7 +283,6 @@ Bxg2 24.Kxg2 Ke7 25.f4 Rc8 26.Nd5+ Ke6 27.Kf3 Nb1 28.Rd3 Rc2
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Hoorn Petrus"]
@@ -317,7 +303,6 @@ gxf5 19.Rxf5 Rae8 20.Rcf1 Re6 21.Rh5 Rg6 22.Rf4 Re8 23.Rfh4 Kf8
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Weenink Henri G (NED)"]
@@ -337,7 +322,6 @@ Nf6 20.Rd4 Qa6 21.Rxe4+ Nxe4 22.Qxe4+ Be6 23.Rxf7 O-O-O 24.Qxe6+ 1-0
 
 [Event "Olympiad"]
 [Site "London (England)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Grau Roberto (ARG)"]
@@ -362,7 +346,6 @@ exd5 47.bxa4 d4 48.Ke4 Kc4 49.a5 d3 50.a6 d2 51.a7 d1Q 52.a8Q 1/2-1/2
 
 [Event "Olympiad"]
 [Site "London (England)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Krause Orla"]
@@ -386,7 +369,6 @@ axb6 31.Qxb6 Rfd7 32.Qd4 Kg7 33.Re1 Re8 34.c4 Ree7 35.Re3 Kf7
 
 [Event "Olympiad"]
 [Site "London (England)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Yates Frederick"]
@@ -406,7 +388,6 @@ dxe5 14.Nd5 Qd6 15.Rfd1 Rd8 16.Nc3 Qf6 17.Rxd8+ Kxd8 18.Nd5 Qd6
 
 [Event "It \"AVRO\""]
 [Site "Netherlands"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Mindeno A"]
@@ -425,7 +406,6 @@ Nf5 14.Qd5 d6 15.Bg5 Bxg5 16.Nxg5 Qxg5 17.Qxf7+ 1-0
 
 [Event "It"]
 [Site "Utrecht (Netherlands)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Olland Adolf G (NED)"]
@@ -450,14 +430,12 @@ Qb6 31.Bc4+ Be6 32.Rab1 c5 33.Bc3 Qd6 34.Rd2 Qc7 35.Rxd8 Qxd8
 
 [Event "1st olm final"]
 [Site "London ENG"]
-[Date "1927.07.28"]
 [Round "14"]
 [White "Max Euwe"]
 [Black "Geza Maroczy"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A14"]
-[EventDate "1927.07.18"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -471,14 +449,12 @@ Qb6 31.Bc4+ Be6 32.Rab1 c5 33.Bc3 Qd6 34.Rd2 Qc7 35.Rxd8 Qxd8
 
 [Event "1st olm final"]
 [Site "London ENG"]
-[Date "1927.07.18"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Andre Cheron"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1927.07.18"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -493,14 +469,12 @@ Qb6 31.Bc4+ Be6 32.Rab1 c5 33.Bc3 Qd6 34.Rd2 Qc7 35.Rxd8 Qxd8
 
 [Event "1st olm final"]
 [Site "London ENG"]
-[Date "1927.07.25"]
 [Round "9"]
 [White "Max Euwe"]
 [Black "Allan Nilsson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D12"]
-[EventDate "1927.07.18"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -514,14 +488,12 @@ Qb6 31.Bc4+ Be6 32.Rab1 c5 33.Bc3 Qd6 34.Rd2 Qc7 35.Rxd8 Qxd8
 
 [Event "1st olm final"]
 [Site "London ENG"]
-[Date "1927.07.26"]
 [Round "11"]
 [White "Max Euwe"]
 [Black "Oskar Naegeli"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1927.07.18"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -538,14 +510,12 @@ Qb6 31.Bc4+ Be6 32.Rab1 c5 33.Bc3 Qd6 34.Rd2 Qc7 35.Rxd8 Qxd8
 
 [Event "1st olm final"]
 [Site "London ENG"]
-[Date "1927.07.28"]
 [Round "13"]
 [White "Max Euwe"]
 [Black "Valentin Marin y Llovet"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A12"]
-[EventDate "1927.07.18"]
 [PlyCount "69"]
 [WhiteElo "?"]
 

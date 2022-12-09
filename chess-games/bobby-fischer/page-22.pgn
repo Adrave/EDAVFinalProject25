@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Benko Pal C (USA)"]
@@ -21,7 +20,6 @@ b4 14.e5 dxe5 15.Bxf6 gxf6 16.Nce4 Qd4 17.Qh5 Nxb3 18.Qh6 exf4
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "24"]
 [White "Fischer Robert J (USA)"]
 [Black "Benko Pal C (USA)"]
@@ -44,7 +42,6 @@ Kd6 36.Rxg7 exf4 37.Rxg8 f3+ 38.Kf1 Kc5 39.Rb8 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -66,7 +63,6 @@ Nh5 20.f4 Rfc8 21.Kb1 Qb6 22.Qf3 Rc5 23.Qd3 Bxc3 24.Nxc3 Nxf4
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "12"]
 [White "Fischer Robert J (USA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -96,7 +92,6 @@ Ra2 77.Rd1+ Ke7 78.Nb4 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "26"]
 [White "Fischer Robert J (USA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -120,7 +115,6 @@ exd4 41.Ke4 Rf7 42.f3 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1959.??.??"]
 [Round "9"]
 [White "Fischer Robert J (USA)"]
 [Black "Sanguinetti Raul (ARG)"]
@@ -148,7 +142,6 @@ Ra2 65.Kb5 Kc7 66.d6+ Kb7 67.d7 Rd2 68.a8Q+ 1-0
 
 [Event ""]
 [Site "Mar del Plata (Argentina)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Bolbochan Jacobo (ARG)"]
@@ -173,7 +166,6 @@ Kc8 42.Be6+ Kc7 43.Kf6 Rh7 44.Bd5 Kc8 45.Re6 Kd8 46.Rd6+ Kc7
 
 [Event ""]
 [Site "Mar del Plata (Argentina)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Rossetto Hector (ARG)"]
@@ -196,7 +188,6 @@ fxg4 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.??.??"]
 [Round "16"]
 [White "Fischer Robert J (USA)"]
 [Black "Bazan Osvaldo (ARG)"]
@@ -219,7 +210,6 @@ Bd6 1/2-1/2
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Foguelman Alberto (ARG)"]
@@ -246,7 +236,6 @@ Rc3 46.g4 Rf3+ 47.Kg6 Rxa3 48.Kxg7 Rg3 49.Re4 f5 50.Re6+ Kb5
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.??.??"]
 [Round "14"]
 [White "Fischer Robert J (USA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -267,7 +256,6 @@ Qxg5 20.Nf3 Bg4 21.Rc7 Qd8 22.Rxb7 Rb8 23.Rxb8 Qxb8 24.h3 Bxf3
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -291,7 +279,6 @@ Qe6 38.Qc7 Kh7 39.Qc8 Rb6 40.Nd8 Qxh3 41.Nxf7 Rb8 42.Qc6 Qf5
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "Pachman Ludek (GER)"]
@@ -311,7 +298,6 @@ Qxb6 20.Bc3 Bb7 21.Bc4 Rac8 22.b3 Ne3 23.Bd4 Nxd1 24.Bxb6 Nc3 1/2-1/2
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -334,7 +320,6 @@ Qa4 37.Qb6 Qa6 1/2-1/2
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -358,7 +343,6 @@ Be8 25.Qe3 Ne4 26.Bxe4 dxe4 27.Kf2 Reh7 28.Rfb1 Qd5 29.Qe1 Rh1
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Munoz Cezar (CHI)"]
@@ -381,7 +365,6 @@ Ba4 30.Bg5 Rf2 31.Be3 Rxf3 32.Bd4 Bxb3 33.axb3 Bxd4 34.Rxd4 Rxb3
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Najdorf Miguel (POL)"]
@@ -408,7 +391,6 @@ Kb7 58.Ne2 Rg4+ 59.Nd4 Rg3 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -428,7 +410,6 @@ Rxg2+ 19.Kh1 Qe5 20.Rxf1 Qxe6 21.Kxg2 Qg4+ 1/2-1/2
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1960.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Benko Pal C (USA)"]
@@ -446,7 +427,6 @@ d6 8.Be2 Bg7 9.Be3 O-O 10.Qd2 Be6 11.O-O Qa5 12.f4 Rfc8 1/2-1/2
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1960.??.??"]
 [Round "3"]
 [White "Fischer Robert J (USA)"]
 [Black "Kalme G"]
@@ -467,7 +447,6 @@ Nd3 25.Bxa8 Nxe1 26.Be4 b3 27.Nd2 1/2-1/2
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1960.06.26"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -494,14 +473,12 @@ Rc5 59.Rf4+ Ke3 60.Kg1 1/2-1/2
 
 [Event "Mar del Plata"]
 [Site "Mar del Plata ARG"]
-[Date "1960.04.03"]
 [Round "5"]
 [White "Robert James Fischer"]
 [Black "Erich Eliskases"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C98"]
-[EventDate "1960.03.29"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -517,14 +494,12 @@ Rc5 59.Rf4+ Ke3 60.Kg1 1/2-1/2
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1960.07.02"]
 [Round "8"]
 [White "Robert James Fischer"]
 [Black "Wolfgang Uhlmann"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C19"]
-[EventDate "1960.06.23"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -540,14 +515,12 @@ Rc5 59.Rf4+ Ke3 60.Kg1 1/2-1/2
 
 [Event "Simul, 47b"]
 [Site "Caracas VEN"]
-[Date "1960.08.02"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Pedro Galarraga"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B77"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -562,14 +535,12 @@ Rc5 59.Rf4+ Ke3 60.Kg1 1/2-1/2
 
 [Event "Reykjavik"]
 [Site "Reykjavik ISL"]
-[Date "1960.10.09"]
 [Round "4"]
 [White "Robert James Fischer"]
 [Black "Fridrik Olafsson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B92"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 

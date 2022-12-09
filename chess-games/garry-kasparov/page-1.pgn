@@ -1,6 +1,5 @@
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "7.2"]
 [White "Kasparov, Garry"]
 [Black "Aronian, Levon"]
@@ -8,7 +7,6 @@
 [WhiteElo "2812"]
 [BlackElo "2799"]
 [ECO "E36"]
-[EventDate "2017.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 
 dxc4 8. Qxc4 b6 9. h4 Bb7 10. Bg5 Qd5 11. Rc1 Nbd7 12. Qxd5 Bxd5 13. Ne5 
@@ -20,7 +18,6 @@ Rxb2 26. Kxf4 Rxb5 27. Rd1 h6 28. h5 Rb3 29. e5 Bd3 30. a4 c4 31. Nxa7 Ra3
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "18.2"]
 [White "Kasparov, Garry"]
 [Black "Navara, David"]
@@ -28,7 +25,6 @@ Rxb2 26. Kxf4 Rxb5 27. Rd1 h6 28. h5 Rb3 29. e5 Bd3 30. a4 c4 31. Nxa7 Ra3
 [WhiteElo "2812"]
 [BlackElo "2737"]
 [ECO "E32"]
-[EventDate "2017.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Bg5 
 Nbd7 8. Nf3 b6 9. e3 Bb7 10. Nd2 Rc8 11. Bd3 c5 12. O-O h6 13. Bh4 cxd4 
@@ -41,7 +37,6 @@ Ra6 Rxa4 38. Rxb6 Be6 39. Ne4 Ra7 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "15.5"]
 [White "Kasparov, Garry"]
 [Black "Anand, Viswanathan"]
@@ -49,7 +44,6 @@ Ra6 Rxa4 38. Rxb6 Be6 39. Ne4 Ra7 1/2-1/2
 [WhiteElo "2812"]
 [BlackElo "2783"]
 [ECO "E36"]
-[EventDate "2017.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 
 dxc4 8. Qxc4 b6 9. h4 Bb7 10. Bg5 Nbd7 11. Ne5 h6 12. Nxd7 Qxd7 13. Bxf6 
@@ -60,7 +54,6 @@ gxf6 14. Rh3 f5 15. Rd1 Kh7 16. Qc1 Bd5 17. Rc3 c6 18. g3 a5 19. e3 Rac8
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "13.4"]
 [White "Kasparov, Garry"]
 [Black "Nakamura, Hikaru"]
@@ -68,7 +61,6 @@ gxf6 14. Rh3 f5 15. Rd1 Kh7 16. Qc1 Bd5 17. Rc3 c6 18. g3 a5 19. e3 Rac8
 [WhiteElo "2812"]
 [BlackElo "2792"]
 [ECO "E36"]
-[EventDate "2017.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 
 dxc4 8. Qxc4 b6 9. h4 c5 10. dxc5 bxc5 11. h5 h6 12. g4 Qd5 13. Qxd5 Nxd5 
@@ -82,7 +74,6 @@ Ba3 Kd2 44. Be7 1-0
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "11.2"]
 [White "Kasparov, Garry"]
 [Black "Nepomniachtchi, Ian"]
@@ -90,7 +81,6 @@ Ba3 Kd2 44. Be7 1-0
 [WhiteElo "2812"]
 [BlackElo "2751"]
 [ECO "B51"]
-[EventDate "2017.08.17"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 Nf6 6. Nc3 e5 7. Qd3 h6 
 8. Be3 a6 9. Bc4 Be7 10. a4 Qc7 11. O-O O-O 12. Nd2 Nb6 13. Bxb6 Qxb6 14. 
@@ -101,7 +91,6 @@ Bc8 27. Nb6 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "5.3"]
 [White "Kasparov, Garry"]
 [Black "Le, Quang Liem"]
@@ -109,7 +98,6 @@ Bc8 27. Nb6 1/2-1/2
 [WhiteElo "2812"]
 [BlackElo "2739"]
 [ECO "C45"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. g3 d5 
 8. Bg2 dxe4 9. O-O O-O 10. Nd2 Bb6 11. Nxe4 Qg6 12. Re1 Rd8 13. Nxc6 Nxc6 
@@ -121,14 +109,12 @@ Rfc2 0-1
 
 [Event "Champions Chess960 G30"]
 [Site "Saint Louis USA"]
-[Date "2018.09.13"]
 [Round "5.1"]
 [White "Kasparov, Garry"]
 [Black "Topalov, Veselin"]
 [Result "1-0"]
 [BlackElo "2740"]
 [ECO "A02"]
-[EventDate "2018.09.11"]
 [WhiteElo "2812"]
 
 1. f4 e6 2. Nf3 d5 3. e3 c5 4. b3 f6 5. Bd3 g6 6. Qe2
@@ -139,7 +125,6 @@ Rfc2 0-1
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.15"]
 [Round "5.1"]
 [White "Kasparov, Garry"]
 [Black "Nepomniachtchi, Ian"]
@@ -147,7 +132,6 @@ Rfc2 0-1
 [WhiteElo "2812"]
 [BlackElo "2751"]
 [ECO "D90"]
-[EventDate "2017.08.14"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 c6 6. Bg5 dxc4 7. e4 Be6 8. 
 e5 Nd5 9. h5 Nd7 10. h6 Bf8 11. Ne4 f6 12. Bd2 b5 13. a4 Bf5 14. Ng3 e6 
@@ -159,7 +143,6 @@ f4 33. Rh1 Qg5 34. Rxe8 Rxe8 35. Bf7 Re3 36. fxe3 Qxg3+ 37. Kf1 f3 0-1
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.16"]
 [Round "8.1"]
 [White "Kasparov, Garry"]
 [Black "Le, Quang Liem"]
@@ -167,7 +150,6 @@ f4 33. Rh1 Qg5 34. Rxe8 Rxe8 35. Bf7 Re3 36. fxe3 Qxg3+ 37. Kf1 f3 0-1
 [WhiteElo "2812"]
 [BlackElo "2739"]
 [ECO "E35"]
-[EventDate "2017.08.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c5 
 8. dxc5 O-O 9. e3 Be6 10. Nf3 Nbd7 11. a3 Bxc3+ 12. Qxc3 g5 13. Bg3 Ne4 
@@ -180,7 +162,6 @@ Re6 32. Bd7 Rd6 33. Bb5 h4 34. g4 Re6 35. Bd7 Rd6 36. Bb5 h3 37. Kh2 hxg2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "3.3"]
 [White "Kasparov, Garry"]
 [Black "Caruana, Fabiano"]
@@ -188,7 +169,6 @@ Re6 32. Bd7 Rd6 33. Bb5 h4 34. g4 Re6 35. Bd7 Rd6 36. Bb5 h3 37. Kh2 hxg2
 [WhiteElo "2812"]
 [BlackElo "2807"]
 [ECO "C11"]
-[EventDate "2017.08.17"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. 
 Qd2 a6 9. a3 b5 10. Bd3 Bb7 11. O-O O-O 12. Kh1 f5 13. Qf2 Rc8 14. Rg1 b4 
@@ -201,7 +181,6 @@ Kf4 Nxf6 39. exf6 d2 40. f7 Rc1 0-1
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.16"]
 [Round "7.1"]
 [White "Kasparov, Garry"]
 [Black "Navara, David"]
@@ -209,7 +188,6 @@ Kf4 Nxf6 39. exf6 d2 40. f7 Rc1 0-1
 [WhiteElo "2812"]
 [BlackElo "2737"]
 [ECO "B12"]
-[EventDate "2017.08.14"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 Ne7 8. 
 f4 h5 9. f5 exf5 10. g5 Nbc6 11. Nf4 a6 12. Bg2 cxd4 13. Bxd4 Nxd4 14. 
@@ -224,7 +202,6 @@ Rcxc6 Rdc8 26. Kc2 h4 27. Rxc8+ Rxc8 28. Kc3 a5 29. Ra6 Rb8 30. Rxa5 Rb1
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "8.1"]
 [White "Kasparov, Garry"]
 [Black "Dominguez Perez, Leinier"]
@@ -232,7 +209,6 @@ Rcxc6 Rdc8 26. Kc2 h4 27. Rxc8+ Rxc8 28. Kc3 a5 29. Ra6 Rb8 30. Rxa5 Rb1
 [WhiteElo "2812"]
 [BlackElo "2739"]
 [ECO "C48"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. Ba4 Bc5 6. Nxe5 O-O 7. Nd3 
 Bb6 8. e5 Ne8 9. Nd5 c6 10. Ne3 d5 11. O-O f6 12. c3 Nf5 13. Bc2 Qe7 14. 
@@ -257,7 +233,6 @@ Nxd3 62. a6 1-0
 [Result "1/2-1/2"]
 [Round "11"]
 [TimeControl "300+1"]
-[Date "2021.07.10"]
 [WhiteClock "0:00:02"]
 [BlackClock "0:00:09"]
 
@@ -277,7 +252,6 @@ Nxd3 62. a6 1-0
 [Result "0-1"]
 [Round "14"]
 [TimeControl "300+1"]
-[Date "2021.07.10"]
 [WhiteClock "0:00:04"]
 [BlackClock "0:00:40"]
 
@@ -297,7 +271,6 @@ Nxd3 62. a6 1-0
 [Result "0-1"]
 [Round "16"]
 [TimeControl "300+1"]
-[Date "2021.07.10"]
 [WhiteClock "0:00:07"]
 [BlackClock "0:00:20"]
 
@@ -317,7 +290,6 @@ Nxd3 62. a6 1-0
 [Result "0-1"]
 [Round "18"]
 [TimeControl "300+1"]
-[Date "2021.07.10"]
 [WhiteClock "0:01:52"]
 [BlackClock "0:03:51"]
 
@@ -337,7 +309,6 @@ Nxd3 62. a6 1-0
 [Result "1-0"]
 [Round "19"]
 [TimeControl "300+1"]
-[Date "2021.07.11"]
 [WhiteClock "0:00:01"]
 [BlackClock "0:00:20"]
 
@@ -357,7 +328,6 @@ Nxd3 62. a6 1-0
 [Result "0-1"]
 [Round "21"]
 [TimeControl "300+1"]
-[Date "2021.07.11"]
 [WhiteClock "0:00:01"]
 [BlackClock "0:00:30"]
 
@@ -377,7 +347,6 @@ Nxd3 62. a6 1-0
 [Result "0-1"]
 [Round "22"]
 [TimeControl "300+1"]
-[Date "2021.07.11"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:48"]
 
@@ -397,7 +366,6 @@ Nxd3 62. a6 1-0
 [Result "0-1"]
 [Round "24"]
 [TimeControl "300+1"]
-[Date "2021.07.11"]
 [WhiteClock "0:00:07"]
 [BlackClock "0:01:13"]
 
@@ -417,7 +385,6 @@ Nxd3 62. a6 1-0
 [Result "0-1"]
 [Round "26"]
 [TimeControl "300+1"]
-[Date "2021.07.11"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:39"]
 
@@ -433,7 +400,6 @@ Nxd3 62. a6 1-0
 [Result "1/2-1/2"]
 [Round "22"]
 [TimeControl "5400+30"]
-[Date "2021.08.21"]
 [WhiteClock "0:37:30"]
 [BlackClock "0:37:30"]
 
@@ -451,7 +417,6 @@ Nxd3 62. a6 1-0
 [Result "1/2-1/2"]
 [Round "46"]
 [TimeControl "5400+30"]
-[Date "2021.08.22"]
 [WhiteClock "1:06:00"]
 [BlackClock "0:01:30"]
 
@@ -469,7 +434,6 @@ Nxd3 62. a6 1-0
 [Result "1/2-1/2"]
 [Round "42"]
 [TimeControl "5400+30"]
-[Date "2021.08.22"]
 [WhiteClock "0:39:00"]
 [BlackClock "0:39:00"]
 
@@ -485,7 +449,6 @@ Nxd3 62. a6 1-0
 [Result "1/2-1/2"]
 [Round "15"]
 [TimeControl "5400+30"]
-[Date "2021.08.24"]
 [WhiteClock "0:42:00"]
 [BlackClock "0:42:00"]
 

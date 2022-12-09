@@ -1,6 +1,5 @@
 [Event "It (a)"]
 [Site "Baarn (Netherlands)"]
-[Date "1941.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Bergsma KM"]
@@ -24,7 +23,6 @@ Nf6 41.Nxf6 Kxf6 42.Ra4 1-0
 
 [Event "It (a)"]
 [Site "Baarn (Netherlands)"]
-[Date "1941.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Koomen W"]
@@ -47,7 +45,6 @@ Nxd4 31.f4 Ne2+ 32.Kf2 Nxf4 33.Rd7+ Ke6 34.Rb1 Ng6 35.Rb7 Rc8
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -70,7 +67,6 @@ g5 38.Rh5 Kg6 39.Ng4 1-0
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -96,7 +92,6 @@ Ke7 54.Rh7+ Ng7 55.Qe5+ Kf7 56.Bf1 1-0
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1941.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -120,7 +115,6 @@ Bb4 42.Bc3 Bc5 43.Kd2 Bb6 44.Ke2 Bc5 45.Kf3 Ba3 46.f5+ 1-0
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1941.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -143,7 +137,6 @@ Qe6 30.Rd1 Qxd6 31.Rxd6 Re2 32.Rxa6 Rxb2 33.Ra7 f4 34.Kg2 b4
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1941.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -165,7 +158,6 @@ Bd4 31.c8Q Bxf2+ 32.Kh1 1-0
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1941.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -190,7 +182,6 @@ Re1 47.Re4 Rb1 48.Re3 1-0
 
 [Event ""]
 [Site "Dieren (Netherlands)"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Der Camp"]
@@ -213,7 +204,6 @@ c3 0-1
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1942.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Hoek"]
@@ -237,7 +227,6 @@ Rg2+ 42.Kf5 Rf2 43.Re7 Bb1+ 44.Kg5 Kb5 45.Rc7 c2 46.h6 Ka4 1/2-1/2
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1942.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Hoek"]
@@ -260,7 +249,6 @@ Kxg7 37.Ng3 Rf7 38.Nh5+ Kg8 39.Qh6 Ng6 40.Bf5 Nf8 41.Be6 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1942.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Hoek"]
@@ -280,7 +268,6 @@ Rfd8 19.d6 Rxd6 20.Ne4 Qxc1 21.Qxf7+ Kh8 22.Rxc1 Rxc1+ 23.Kg2 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1942.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Hoek"]
@@ -302,7 +289,6 @@ Rxd4 31.bxa6 Rd6 32.a7 Nb2 33.b5 Kf8 34.Bc6 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1942.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Hoek"]
@@ -320,7 +306,6 @@ Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1945.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Devos Paul (BEL)"]
@@ -343,7 +328,6 @@ exf5 20.Nb6 Ra7 21.Rxf5 Be4 22.Bxe4 Nxe4 23.Rc1 Bd6 24.Qf3 Qe8
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1945.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Mieses Jacques (GER)"]
@@ -365,7 +349,6 @@ Qf8 30.Bd7 Nc7 31.Bc6 h5 32.f4 Ne8 33.Qd8 Ng7 34.Qd7 Qb8 35.Bb5 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1945.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Prins Lodewijk (NED)"]
@@ -389,7 +372,6 @@ gxf5+ 42.Kf4 h6 43.h5 a4 44.g6 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1945.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Sergeant Edward"]
@@ -414,7 +396,6 @@ Qd5 42.Re8+ Kg7 43.Re7+ Kf8 44.Rf7+ Kg8 45.Rc8+ Bd8 46.h4 Qd1+
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1945.??.??"]
 [Round "11"]
 [White "Euwe Max (NED)"]
 [Black "Steiner Heinz (AUT)"]
@@ -436,7 +417,6 @@ Qxb2 26.Rc2 Qb3 27.e4 fxg6 28.exd5 Qxd5 29.Rcf2 Re4 30.Qg3 Rf8
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1945.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Thomas George A (ENG)"]
@@ -459,7 +439,6 @@ g5 25.e4 fxe4 26.fxe4 dxe4 27.Rh3 h4 28.Qe3 Nf5 29.Qxe4 Qxd4
 
 [Event "It"]
 [Site "Maastricht (Netherlands)"]
-[Date "1946.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Vinken A"]
@@ -484,7 +463,6 @@ Rc1 42.Nxd3 Bxd3 43.Rxd3 Rc4 44.Kf3 Rxb4 45.Rd7+ Kh6 46.h3 Rb3+
 
 [Event "It"]
 [Site "Zaandam (Netherlands)"]
-[Date "1946.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Ekstrom Folke (SWE)"]
@@ -505,14 +483,12 @@ Kf8 24.Nd3 Ke7 1/2-1/2
 
 [Event "Euwe - Bogoljubov"]
 [Site "Karlsbad CZE"]
-[Date "1941.08.02"]
 [Round "10"]
 [White "Max Euwe"]
 [Black "Efim Bogoljubov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C87"]
-[EventDate "1941.07.20"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -529,14 +505,12 @@ Kf8 24.Nd3 Ke7 1/2-1/2
 
 [Event "Baarn I"]
 [Site "Baarn NED"]
-[Date "1941.05.16"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Haije Kramer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "1941.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -553,14 +527,12 @@ Kf8 24.Nd3 Ke7 1/2-1/2
 
 [Event "NED-ch prelim I"]
 [Site "Leiden NED"]
-[Date "1946.10.30"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "Carel Benjamin van den Berg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "1946.10.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 

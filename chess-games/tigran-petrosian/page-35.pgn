@@ -1,6 +1,5 @@
 [Event "Match \"URS-Hungary\""]
 [Site "Budapest (Hungary)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Barcza Gedeon (HUN)"]
@@ -27,7 +26,6 @@ Kb5 58.Nd6+ Ka4 59.Nxf7 Ba3 60.Ne5 1-0
 
 [Event "Match \"URS-Hungary\""]
 [Site "Budapest (Hungary)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Benko Pal C (USA)"]
@@ -48,7 +46,6 @@ Qd8 26.e6 Rxd6 27.Bxd6 1-0
 
 [Event "Izt"]
 [Site "Goteborg (Sweden)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Guimard Carlos E (ARG)"]
@@ -75,7 +72,6 @@ Qe7 43.h4 Nf6 44.Bxe6 Ne4 45.Nd4 Rbd8 46.h5 Rxd4 47.hxg6+ Kxg6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kan Ilya A (RUS)"]
@@ -97,7 +93,6 @@ Bb7 25.Bh5 Bd5 26.Qg5 Nd7 27.Bxg6 hxg6 28.Qe7 Rc7 29.Qh4 Rc8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -117,7 +112,6 @@ h6 14.Rad1 exd4 15.Bh7+ Kh8 16.Rxd4 Bc5 17.Rf4 Qe7 18.Re4 Qf8
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "16"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Filip Miroslav (CZE)"]
@@ -137,7 +131,6 @@ Ne7 20.b4 g6 21.Rd3 Bh6 22.Rb1 1/2-1/2
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "18"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Keres Paul (EST)"]
@@ -157,7 +150,6 @@ Qe7 19.Nd4 Rd8 20.Rad1 g6 21.b3 Rcd7 22.e4 Rc8 23.Kh1 1/2-1/2
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "14"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Panno Oscar (ARG)"]
@@ -177,7 +169,6 @@ Bxd3 19.cxd3 a6 20.Rc1 Kg7 1/2-1/2
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -195,7 +186,6 @@ e6 8.Qb3 Bb4 9.Bb5 Qa5 10.O-O O-O 1/2-1/2
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -224,7 +214,6 @@ Rb4 65.Rh6 Ra4 66.Rb6 Ke7 67.Rb7+ Ke8 68.Kf6 Rxe4 69.Ke6 Kf8
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "8"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -244,7 +233,6 @@ Bf8 14.Re1 Bd7 15.Nd3 cxd4 16.exd4 Rxe1+ 17.Qxe1 Na4 18.Ne5 Rc8
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Djurasevic Bozidar (YUG)"]
@@ -264,7 +252,6 @@ Bb7 14.Bd2 Rc8 15.Qe2 Bd6 16.Bb4 Bxb4 17.axb4 Qe7 18.b5 Bxf3
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -283,7 +270,6 @@ c6 8.a4 a5 9.c3 Re8 10.Re1 Na6 11.Qc2 Qc7 12.Nc4 d5 13.exd5 Nxd5
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -304,7 +290,6 @@ Rec7 1/2-1/2
 
 [Event "Match \"Yugoslavia-URS\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -325,7 +310,6 @@ Rb8 20.Ra4 Nb7 21.Qb1 a5 22.Qa1 c4 23.Bxc4 Nc5 24.Rxa5 Nfxe4
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gusev Yuri S (RUS)"]
@@ -347,7 +331,6 @@ Qxd4 31.Rxb5 1/2-1/2
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Osnos Viatcheslav (RUS)"]
@@ -368,7 +351,6 @@ Qc7 26.Ne4 Nc5 27.Nc3 Rh8 28.Rb1 Rh4 1/2-1/2
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Uusi Gunnar"]
@@ -391,7 +373,6 @@ Kh7 36.Qf4 f5 37.h3 Qe4+ 38.Qxe4 fxe4 39.f4 exf3+ 40.Kxf3 Kg6 1/2-1/2
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Vasiukov Evgeni (RUS)"]
@@ -414,7 +395,6 @@ Nf4 37.gxf4 Bxf4 0-1
 
 [Event "Ch Moscow (match)"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -434,7 +414,6 @@ Rxe3 19.fxe3 Bxc2 20.Rxc2 Re8 21.Qd3 Qd6 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "19"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Buslaev Aleksander (GEO)"]
@@ -454,7 +433,6 @@ Nd7 14.Rfd1 Rfd8 15.Be1 Rac8 16.b4 Ndf6 17.dxc5 dxc5 18.b5 Kf8
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Khalilbeili Sultan (AZE)"]
@@ -477,7 +455,6 @@ Ne6+ 36.Ke3 Nxc5 37.Bd5 Ne6 38.Kf3 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -496,7 +473,6 @@ Nd5 14.Rfc1 b6 15.a3 Rfe8 16.Kf1 Nce7 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kotkov Yuri M (RUS)"]
@@ -516,7 +492,6 @@ Na7 20.b4 axb3 21.Rxb3 Nc6 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "URS"]
-[Date "1956.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Koblencs Aleksandrs"]

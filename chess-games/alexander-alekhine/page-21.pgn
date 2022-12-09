@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Birmingham (England)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Znosko-Borovsky Eugene"]
@@ -23,7 +22,6 @@ hxg5 37.a4 e2 38.h3 Nc5 39.a5 Nb3 40.Ne1 Nd4+ 41.Ka4 1-0
 
 [Event "Ch Club Argentino"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Molina1"]
@@ -45,7 +43,6 @@ Qb1+ 30.Kh2 Rb7 31.Nh4 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Ibanez D Sr"]
@@ -64,7 +61,6 @@ d6 8.Nc3 Nbd7 9.Bf4 Nh5 10.Bg5 h6 11.Be3 e6 12.Qd2 g5 13.h4 gxh4
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Ilija"]
@@ -85,7 +81,6 @@ Nf6 24.Qh4 e5 25.Re1 exd4 26.Bf4 Qa5 27.Bb3 1-0
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Villegas Benito H (ARG)"]
@@ -108,7 +103,6 @@ Nd5 31.Bf6+ Kf8 32.Rg4 Nxf6 33.exf6 Be8 34.Rh4 Kg8 35.Rd3 Rc8
 
 [Event "It"]
 [Site "Dresden (Germany)"]
-[Date "1926.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bluemich Max (GER)"]
@@ -128,7 +122,6 @@ Nf6 19.Qxd5+ Qe6 20.Qf3 Qf5 21.Bxf6 1-0
 
 [Event "It"]
 [Site "Dresden (Germany)"]
-[Date "1926.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Steiner Lajos (HUN)"]
@@ -154,7 +147,6 @@ Bb5 52.Rd5 Ra4 53.Kf3 Bc4 54.Rd7 Bg8 55.Nf6 Bc4 56.Rxh7+ 1-0
 
 [Event "It"]
 [Site "Dresden (Germany)"]
-[Date "1926.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -180,7 +172,6 @@ Kh5 52.Rxg5+ Kxh4 53.Kf4 Bd1 54.g3+ Kh3 55.g4 1-0
 
 [Event "Simultan (blindfold)"]
 [Site "London (England)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Schwartz N"]
@@ -205,7 +196,6 @@ Kf6 49.Kf3 Ke5 50.Ke3 h5 51.Bc2 Kf6 52.Kf4 Kg7 53.Kxf5 Kh6 54.Kf4 1-0
 
 [Event "It"]
 [Site "Scarborough (England)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Colle Edgard (BEL)"]
@@ -228,7 +218,6 @@ Ra4 36.Rdd1 1-0
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -249,7 +238,6 @@ Ke7 25.Bxg5 b4 26.Bf5 Re2 27.Rhe1 1-0
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reti Richard (CZE)"]
@@ -276,7 +264,6 @@ Kd8 53.Kc3 Na4+ 54.Kc4 Nb6+ 55.Kb5 Rd2 56.Rg8+ Ke7 57.Rb8 Rc2
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Treybal Karel (CZE)"]
@@ -298,7 +285,6 @@ Rd5 32.Rxd5 Bxa3 33.Rd3 Bc5 34.Nd4 1-0
 
 [Event "It"]
 [Site "Semmering (Austria)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Yates Frederick"]
@@ -326,7 +312,6 @@ Kf8 66.Qh8+ Ke7 67.Re6+ Kd7 68.Qxe8# 1-0
 
 [Event "It"]
 [Site "Kecskemet (Hungary)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gilg Karl (GER)"]
@@ -349,7 +334,6 @@ Ke7 37.Bd5 Qe5 38.g4 Qxd4 39.exd4 Nd3 40.Ke3 Nb4 1/2-1/2
 
 [Event "It"]
 [Site "Kecskemet (Hungary)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nimzowitsch Aaron"]
@@ -372,7 +356,6 @@ Qf5 37.Qd1 g5 38.Rg4 Qg6 39.Rg3 f5 40.Rc3 e4 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -393,7 +376,6 @@ Ke7 24.Kd4 Ne6+ 25.Ke4 f6 26.f4 Nc5+ 27.Kd4 Ne6+ 28.Ke4 Nc5+ 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nimzowitsch Aaron"]
@@ -413,7 +395,6 @@ Nf6 19.Bb2 Bxd5 20.Bxd4 Bxg2 21.Kxg2 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -436,7 +417,6 @@ Kg7 36.Rfe3 Kf6 37.Rf3+ 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -456,7 +436,6 @@ f6 14.Ng4 h5 15.Ne5 fxe5 16.fxe5 Bxe5 17.dxe5 Nxe5 18.Rxf8+ Kxf8
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -480,14 +459,12 @@ Kg7 42.Re6 Rd7 43.Re2 Rdc7 44.Re6 Rd7 45.Re2 1/2-1/2
 
 [Event "Semmering"]
 [Site "Semmering AUT"]
-[Date "1926.03.15"]
 [Round "7"]
 [White "Alexander Alekhine"]
 [Black "Fred Dewhirst Yates"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A28"]
-[EventDate "1926.03.07"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -507,14 +484,12 @@ Kg7 42.Re6 Rd7 43.Re2 Rdc7 44.Re6 Rd7 45.Re2 1/2-1/2
 
 [Event "Scarborough Premier (A)"]
 [Site "Scarborough ENG"]
-[Date "1926.05.22"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Salo Landau"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A34"]
-[EventDate "1926.05.22"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -531,14 +506,12 @@ Kg7 42.Re6 Rd7 43.Re2 Rdc7 44.Re6 Rd7 45.Re2 1/2-1/2
 
 [Event "Birmingham"]
 [Site "Birmingham ENG"]
-[Date "1926.06.08"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Francis George Butcher"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "1926.06.03"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -552,14 +525,12 @@ Kg7 42.Re6 Rd7 43.Re2 Rdc7 44.Re6 Rd7 45.Re2 1/2-1/2
 
 [Event "Scarborough Premier (A)"]
 [Site "Scarborough ENG"]
-[Date "1926.05.27"]
 [Round "7"]
 [White "Alexander Alekhine"]
 [Black "Victor Kahn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "1926.05.22"]
 [PlyCount "71"]
 [WhiteElo "?"]
 

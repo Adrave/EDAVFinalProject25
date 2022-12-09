@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Knezevic Milorad_ (SCG)"]
@@ -23,7 +22,6 @@ Qxd6 37.Nc4 Qe7 38.e4 f4 39.g4 Bf7 1/2-1/2
 
 [Event "It"]
 [Site "Barcelona (Spain)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Jansa Vlastimil (CZE)"]
@@ -46,7 +44,6 @@ Nf6 31.Nfe3 Nxg4 32.Nxg4 hxg3 33.Rxg3 Rad8 34.Re1 Qf5 35.h4 Re6
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -65,7 +62,6 @@ Rd8 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -85,7 +81,6 @@ Rxb7 19.Rad1 Rc8 20.Kb4 Rc5 21.R1d2 Rbc7 22.h4 h5 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lombardy William J (USA)"]
@@ -108,7 +103,6 @@ Qd7 38.Bd2 Kf8 39.Be1 g6 40.fxg6 Kg7 41.f3 f5 42.Qe2 Nxg6 43.Bd2 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Miles Anthony J (ENG)"]
@@ -128,7 +122,6 @@ fxg6 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Najdorf Miguel (POL)"]
@@ -147,7 +140,6 @@ Na5 14.h3 c4 15.Bc2 Nd7 16.Nf3 Nc5 17.O-O Ba6 18.Ne1 Rad8 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Rubinetti Jorge (ARG)"]
@@ -170,7 +162,6 @@ Kf7 32.d7 Kxf6 33.dxc8Q Bxc8 34.Rfd1 Re8 35.Rd3 a5 36.Rb3 Kf7
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -190,7 +181,6 @@ Rac8 14.Bg3 b5 15.cxb5 axb5 16.Bxb5 Nb4 17.Qb3 Bxb5 18.axb4 Qb6
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -209,7 +199,6 @@ Nd7 14.Rd2 Rfd8 15.Rad1 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -229,7 +218,6 @@ Nxf6 14.Qxd4 Qxd4 15.Nxd4 Re8 16.Rfd1 Bd7 17.Kf1 Kf8 18.Ke2 Re5
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "14"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein Luis (ARG)"]
@@ -250,7 +238,6 @@ Nh4 25.f3 Nf5 26.Nc3 Qd8 27.Nxc6 Qc7 28.Nxe7+ 1-0
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Garcia Gonzales Guillermo (CUB)"]
@@ -278,7 +265,6 @@ Kg4 64.Rh8 Bxg2 65.Rg8+ Kf3 66.Bxd6 Bf1 67.Rf8+ Kg2 68.Rf5 Nb6 1-0
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Harandi Khosro (IRI)"]
@@ -299,7 +285,6 @@ c4 25.Qb4 1-0
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein David I (RUS)"]
@@ -322,7 +307,6 @@ Qe8 31.d5 Nc4 32.f3 Bxd5 33.Bxd5 Nxd5 34.Rxd5 Re2 35.Qd3 Rxb2
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Nei Iivo (EST)"]
@@ -345,7 +329,6 @@ Ref7 38.cxb6 Bxb6 39.Bxf8 Rxf8 40.Bxf5 Bxf5 41.Rxf5 1-0
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Rantanen Yrjo A (FIN)"]
@@ -365,7 +348,6 @@ c6 14.Bf4 Bxf4 15.Ne7+ Kh8 16.Nxf4 Qe8 17.Nxf5 Bxf5 18.Qxf5 Nd5
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Rytov Boris (RUS)"]
@@ -388,7 +370,6 @@ Nxd5 31.Bxe4 Nf6 32.Bd3 h5 33.Qh4 Qd7 34.fxg6 Qg4 35.Bf5 Qxh4
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "17"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sax Gyula (HUN)"]
@@ -412,7 +393,6 @@ Qd7 42.a4 Nf5 43.Qe2 1-0
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Veingold Aleksandr (EST)"]
@@ -436,7 +416,6 @@ Rd5 25.Qe3 Na5 26.Ng5 Nc6 27.Qxe6+ Qxe6 28.Nxe6 Nd4 29.Nxd4 Rxd4
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "15"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Vilela Jose Luis (CUB)"]
@@ -457,7 +436,6 @@ Kg7 25.Bxe8 Rxe8 26.Nf3 c5 27.Nxe5 Rxe5 28.Qc3 Kf6 29.Rd7 1-0
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Yugoslavia"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -479,7 +457,6 @@ Rb8 31.Nc4 Rb4 32.Rd2 Rb7 33.Ne3 Rdd7 34.Ng4+ Kf5 35.Rxd4 1-0
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.04.21"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Hernandez Roman (CUB)"]
@@ -502,14 +479,12 @@ Rg8 37.g3 Rg6 38.f4 gxf4 39.gxf4 Ng4 40.Rg2 Nf6 41.Qe1 Rxg2 42.Qh4+ 1-0
 
 [Event "Banja Luka"]
 [Site "Banja Luka BIH"]
-[Date "1979.04.??"]
 [Round "11"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Roman Hernandez"]
 [Result "1-0"]
 [BlackElo "2500"]
 [ECO "A78"]
-[EventDate "1979.04.13"]
 [PlyCount "83"]
 [WhiteElo "2610"]
 
@@ -525,14 +500,12 @@ Rg8 37.g3 Rg6 38.f4 gxf4 39.gxf4 Ng4 40.Rg2 Nf6 41.Qe1 Rxg2 42.Qh4+ 1-0
 
 [Event "Rio de Janeiro Interzonal"]
 [Site "Rio de Janeiro BRA"]
-[Date "1979.09.28"]
 [Round "5"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Guillermo Garcia Gonzales"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A57"]
-[EventDate "1979.09.23"]
 [PlyCount "135"]
 [WhiteElo "?"]
 

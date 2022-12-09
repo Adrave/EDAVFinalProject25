@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Reshko Aron G (RUS)"]
@@ -21,7 +20,6 @@ gxf6 20.Nxf6+ Kd8 21.Nd5 Qd6 22.Bg5+ Kc8 23.Bg4 Nxg4 24.e7 Bxe7
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -44,7 +42,6 @@ Qxg7 36.Rxg7+ Kxg7 37.f6+ Nxf6 38.Qg5+ Kh7 39.Qxf6 Re5 40.Bxe4+ 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -73,7 +70,6 @@ Kg2 71.a6 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Vasiukov Evgeni (RUS)"]
@@ -94,7 +90,6 @@ g5 25.Ng1 Qf5 26.Qxb7 Rf8 27.Qxc7 Qd3+ 28.Kh2 Qd2 29.Ne4 1-0
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Mnatsakanian Eduard A (ARM)"]
@@ -114,7 +109,6 @@ Be7 15.Be2 Nd3+ 16.Bxd3 cxd3 17.Rc1 O-O 18.O-O f5 19.Nd6 Qd7
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nezhmetdinov Rashit (RUS)"]
@@ -136,7 +130,6 @@ Qf5 30.Re7+ Kf8 31.Qd6 1-0
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -159,7 +152,6 @@ Rc8 32.Rxc8+ Qxc8 33.f3 Qc3 34.fxe4 Qxb2 35.exf5 Rc6 36.Bg3 d3
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Franz Irma"]
@@ -183,7 +175,6 @@ Qg5+ 35.Kh3 Qe5 36.Bg4 Qxc3+ 37.Kg2 Nc2 38.Qxe6+ b6 39.f7 Ne1+
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kliavinsh Y (LAT)"]
@@ -205,7 +196,6 @@ Bb7 20.Bc2 Nh5 21.Qg4 Bxg5 22.Qxh5 Rd2 23.Qxg5 Rxc2 24.Rg1 Rd8
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -225,7 +215,6 @@ f6 14.c5 Be7 15.Nxe5 fxe5 16.Rxe5 Nf6 17.Bg5 O-O 18.Qb3+ Kh8
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -249,7 +238,6 @@ Nxf3 0-1
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -274,7 +262,6 @@ Rf4 47.Rh6 Kd7 48.Rh8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Liberzon Vladimir M (ISR)"]
@@ -296,7 +283,6 @@ g6 24.h4 Qxc4 25.Qxa7 Ree8 26.Rxe8 Rxe8 27.a4 h6 28.Qd7 Re2+
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -320,7 +306,6 @@ Bd7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -341,7 +326,6 @@ Rc8 14.Bxf6 Nxf6 15.g4 Qa5 16.a3 Rxc3 17.bxc3 d5 18.exd5 O-O
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -372,7 +356,6 @@ Kb6 82.Ra8 Kb5 83.f5 Rc3+ 84.Kf2 1/2-1/2
 
 [Event "Olympiad (students) (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lombardy William J (USA)"]
@@ -393,7 +376,6 @@ d5 20.Qxe5 Bd6 21.Qe2 Bxa3 22.Nd1 Rae8 23.Qf3 Bc5+ 24.Kh1 Rxe1
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Marini Luis"]
@@ -416,7 +398,6 @@ Ke7 37.Rd5 Qb5 38.Bd3 Qb3 39.Be2 1/2-1/2
 
 [Event "Match \"Moscow-Leningrad\""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -437,7 +418,6 @@ Ne4 20.d3 Bb4 21.Qh4 Nd6 22.Qf2 Qc2 23.Bg4 Qxf2+ 24.Kxf2 dxc4
 
 [Event "Ch URS (1/2 final)"]
 [Site "Rostov on Don (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -460,7 +440,6 @@ Na4 35.Rxc6+ Kb8 36.Rd6 Nxb2+ 37.Kc1 Kc8 38.Rd4 a5 39.Kb1 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "Rostov on Don (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Liberzon Vladimir M (ISR)"]
@@ -484,7 +463,6 @@ Re8 41.Nb5 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "Rostov on Don (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nurmamedov Mammed (TKM)"]
@@ -507,7 +485,6 @@ a5 36.c5 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.04.09"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Foguelman Alberto (ARG)"]
@@ -529,14 +506,12 @@ Qf8 30.Rxf8+ Kxf8 31.Qxc2 Kg8 32.Qc5 1-0
 
 [Event "Leningrad-Moscow Match"]
 [Site "Leningrad"]
-[Date "1960.01.17"]
 [Round "2"]
 [White "Boris Spassky"]
 [Black "Vasily Smyslov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D24"]
-[EventDate "1960.01.16"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -552,14 +527,12 @@ Qf8 30.Rxf8+ Kxf8 31.Qxc2 Kg8 32.Qc5 1-0
 
 [Event "USSR Championship"]
 [Site "Leningrad URS"]
-[Date "1960.02.16"]
 [Round "14"]
 [White "Boris Spassky"]
 [Black "Vladimir Mikhailovich Liberzon"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C35"]
-[EventDate "1960.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 

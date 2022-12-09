@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "1"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -24,7 +23,6 @@ Qe3 42.Qh1 Qf4 43.h5 Rf2 0-1
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "3"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -48,7 +46,6 @@ Kf7 42.Qc7+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "7"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -71,7 +68,6 @@ Rxc5 36.Ra7 1-0
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "11"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -99,7 +95,6 @@ Qg1+ 66.Kh3 Qdf1+ 67.Qg2 Qh1# 0-1
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "21"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -121,7 +116,6 @@ e4 31.Nd4 Bxd4 32.Rd1 Nxe3 0-1
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "29"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -150,7 +144,6 @@ Ke8 70.d7+ 1-0
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Anonymous 1"]
@@ -170,7 +163,6 @@ Nb4 14.Ba3 Nxa2 15.Rc2 Nb4 16.Bxb4 cxb4 17.Ne1 Qb6 18.Nd3 Rac8
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "3"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -193,7 +185,6 @@ Qg4 30.e5 fxe5 31.Qxc5 h5 32.Qf8+ Kh7 33.Bg8+ Kh6 34.Qd6+ g6
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "13"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -214,7 +205,6 @@ f5 25.Bf3 f4 26.exf4 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "12"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -237,7 +227,6 @@ h6 25.Red1 Bc6 26.Rac1 Be8 27.Kf2 Rxd1 28.Rxd1 Rc8 29.g4 Bd7
 
 [Event ""]
 [Site "Sao Paulo (Brazil)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Fiocati"]
@@ -258,7 +247,6 @@ b6 20.Ne3 Bd7 21.Bc3 Nh8 22.Bxg7 Kxg7 23.Qc3+ Kg8 24.Bh3 Nb7
 
 [Event ""]
 [Site "Sao Paulo (Brazil)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Prestes"]
@@ -279,7 +267,6 @@ Be6 19.Rh6 Rd8 20.Rdh1 Qg7 21.Bxf5 Bxf5 22.Nxf5 Qf7 23.Qb4+ Kg8
 
 [Event ""]
 [Site "Sao Paulo (Brazil)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Souza Mendes Joao"]
@@ -300,7 +287,6 @@ Kh8 14.Rd6 Qe7 15.Rfd1 Rad8 16.Bg5 f6 17.Qxg6 hxg6 18.R6d3 Rf7
 
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "10"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Nimzowitsch Aaron"]
@@ -323,7 +309,6 @@ Rxf5 37.Rxg6+ hxg6 38.Qe8+ Rf8 39.Qxg6+ 1/2-1/2
 
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "3"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -345,7 +330,6 @@ Bc5+ 25.Bxc5+ Nxc5 26.b4 Na4 27.Ke3 Be6 28.Kd2 Ke7 29.Ne3 Kd6
 
 [Event "It \"Tageblatt\""]
 [Site "Berlin (Germany)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Nimzowitsch Aaron"]
@@ -364,7 +348,6 @@ dxc4 14.Bxc4 b6 15.Bb5 Qxd2+ 16.Nxd2 1/2-1/2
 
 [Event "It \"Tageblatt\""]
 [Site "Berlin (Germany)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -392,7 +375,6 @@ Ra7+ 65.Kc8 Re7 66.Re2 Kf5 67.g6 Rxe6 68.g7 Rg6 1/2-1/2
 
 [Event "It \"Tageblatt\""]
 [Site "Berlin (Germany)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -411,7 +393,6 @@ Nd7 13.Re2 Rfe8 14.Rae1 Kf8 15.Rxe8+ Rxe8 16.Rxe8+ Kxe8 1/2-1/2
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -434,7 +415,6 @@ axb4 31.Bxf6 gxf6 32.axb4 Rc4 33.Rd4 Rc2+ 34.Kg3 Rb2 35.f4 Kg7
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -456,14 +436,12 @@ Bf6 30.Kc2 1/2-1/2
 
 [Event "Berlin"]
 [Site "Berlin GER"]
-[Date "1928.10.23"]
 [Round "10"]
 [White "Jose Raul Capablanca"]
 [Black "Aron Nimzowitsch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E34"]
-[EventDate "1928.10.11"]
 [PlyCount "30"]
 [WhiteElo "?"]
 
@@ -475,14 +453,12 @@ Bf6 30.Kc2 1/2-1/2
 
 [Event "Simul"]
 [Site "Rio de Janeiro BRA"]
-[Date "1928.01.??"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Luiz Vianna"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "1928.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -496,14 +472,12 @@ Bf6 30.Kc2 1/2-1/2
 
 [Event "Berlin"]
 [Site "Berlin GER"]
-[Date "1928.10.12"]
 [Round "2"]
 [White "Jose Raul Capablanca"]
 [Black "Rudolf Spielmann"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D47"]
-[EventDate "1928.10.11"]
 [PlyCount "136"]
 [WhiteElo "?"]
 
@@ -523,14 +497,12 @@ Bf6 30.Kc2 1/2-1/2
 
 [Event "Simul"]
 [Site "Sao Paulo BRA"]
-[Date "1927.08.??"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Eurico Penteado"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "1927.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -542,14 +514,12 @@ Bf6 30.Kc2 1/2-1/2
 
 [Event "Simul, 23b"]
 [Site "Sao Paulo BRA"]
-[Date "1927.08.16"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Souza Campos"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "1927.08.16"]
 [PlyCount "45"]
 [WhiteElo "?"]
 

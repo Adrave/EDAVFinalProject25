@@ -1,6 +1,5 @@
 [Event "Genset Cup"]
 [Site "Szombathely HUN"]
-[Date "2009.03.30"]
 [Round "5"]
 [White "Rapport, R."]
 [Black "Stavrianakis, I."]
@@ -9,7 +8,6 @@
 [WhiteElo "2371"]
 [BlackElo "2214"]
 [PlyCount "69"]
-[EventDate "2009.03.26"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 Bd6 9. Bd2 O-O 10. O-O Bb7 11. Rc1 a6 12. Ne4 Nxe4 13. Bxe4 Rc8 14. b4 Qe7 15.
@@ -21,7 +19,6 @@ Kg8 22. a3 Re8 23. Re2 Qb6 24. Rce1 Qc7 25. Qf5 Nd5 26. Bd2 Rcd8 27. Be4 Nf6
 
 [Event "Genset Cup"]
 [Site "Szombathely HUN"]
-[Date "2009.04.01"]
 [Round "7"]
 [White "Rapport, R."]
 [Black "Kiss, At"]
@@ -30,7 +27,6 @@ Kg8 22. a3 Re8 23. Re2 Qb6 24. Rce1 Qc7 25. Qf5 Nd5 26. Bd2 Rcd8 27. Be4 Nf6
 [WhiteElo "2371"]
 [BlackElo "2369"]
 [PlyCount "73"]
-[EventDate "2009.03.26"]
 
 1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 e5 5. e4 c6 6. Be2 Be7 7. O-O a6 8. Be3
 b5 9. a3 Ng4 10. Bd2 exd4 11. Nxd4 Nde5 12. Nxc6 Nxf2 13. Nxd8 Nxd1 14. Raxd1
@@ -42,7 +38,6 @@ Rd8 34. d7 Ba5 35. Kh1 Bb6 36. Re1 Bc4 37. Nc5 1-0
 
 [Event "TCh-HUN 2008-9"]
 [Site "Mako HUN"]
-[Date "2009.04.05"]
 [Round "10"]
 [White "Rapport, R."]
 [Black "Nagy, Danie"]
@@ -51,7 +46,6 @@ Rd8 34. d7 Ba5 35. Kh1 Bb6 36. Re1 Bc4 37. Nc5 1-0
 [WhiteElo "2323"]
 [BlackElo "2247"]
 [PlyCount "51"]
-[EventDate "2008.10.26"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 a6 9. a4 b4 10. Ne4 c5 11. O-O Bb7 12. Ned2 a5 13. Re1 Be7 14. e4 O-O 15. e5
@@ -61,7 +55,6 @@ fxe6 22. Qxe6+ Kf8 23. Bxh7 Bh4 24. Qg8+ Ke7 25. Qxg7+ Ke6 26. Qg4+ 1-0
 
 [Event "GMA"]
 [Site "Marianske Lazne CZE"]
-[Date "2010.01.19"]
 [Round "4"]
 [White "Rapport, R."]
 [Black "Vokac, M."]
@@ -70,7 +63,6 @@ fxe6 22. Qxe6+ Kf8 23. Bxh7 Bh4 24. Qg8+ Ke7 25. Qxg7+ Ke6 26. Qg4+ 1-0
 [WhiteElo "2444"]
 [BlackElo "2479"]
 [PlyCount "54"]
-[EventDate "2010.01.16"]
 [EventRounds "9"]
 [EventCountry "CZE"]
 [EventCategory "8"]
@@ -86,7 +78,6 @@ Nxa7 Rxb4 1/2-1/2
 
 [Event "GMA"]
 [Site "Marianske Lazne CZE"]
-[Date "2010.01.22"]
 [Round "8"]
 [White "Rapport, R."]
 [Black "Orzech, D."]
@@ -95,7 +86,6 @@ Nxa7 Rxb4 1/2-1/2
 [WhiteElo "2444"]
 [BlackElo "2411"]
 [PlyCount "160"]
-[EventDate "2010.01.16"]
 [EventRounds "9"]
 [EventCountry "CZE"]
 [EventCategory "8"]
@@ -119,7 +109,6 @@ hxg4+ 73. Kxg4 a5 74. Rg7 a4 75. Rxg6 f5+ 76. Kxf5 Rxg6 77. Kxg6 a3 78. h5 a2
 
 [Event "FSGM February"]
 [Site "Budapest HUN"]
-[Date "2010.02.06"]
 [Round "1"]
 [White "Rapport, R."]
 [Black "Pap, G."]
@@ -128,7 +117,6 @@ hxg4+ 73. Kxg4 a5 74. Rg7 a4 75. Rxg6 f5+ 76. Kxf5 Rxg6 77. Kxg6 a3 78. h5 a2
 [WhiteElo "2444"]
 [BlackElo "2478"]
 [PlyCount "91"]
-[EventDate "2010.02.06"]
 [EventRounds "13"]
 [EventCountry "HUN"]
 [EventCategory "7"]
@@ -146,7 +134,6 @@ Bb1 Nd5 28. Ba2 Bb7 29. Rd1 Rd8 30. Bh4 Rd7 31. Rd4 Kf8 32. Bb1 g5 33. Bg3 Bc6
 
 [Event "Gotth' Art Cup GM"]
 [Site "Szentgotthard HUN"]
-[Date "2010.02.22"]
 [Round "1"]
 [White "Rapport, R."]
 [Black "Beliavsky, A."]
@@ -155,7 +142,6 @@ Bb1 Nd5 28. Ba2 Bb7 29. Rd1 Rd8 30. Bh4 Rd7 31. Rd4 Kf8 32. Bb1 g5 33. Bg3 Bc6
 [WhiteElo "2444"]
 [BlackElo "2657"]
 [PlyCount "74"]
-[EventDate "2010.02.22"]
 [EventRounds "9"]
 [EventCountry "HUN"]
 [EventCategory "11"]
@@ -172,7 +158,6 @@ Kxf4 Rd7 35. Ke4 Bc7 36. Bd4 Bd8 37. Rc6 Bh4 1/2-1/2
 
 [Event "Gotth' Art Cup GM"]
 [Site "Szentgotthard HUN"]
-[Date "2010.02.24"]
 [Round "3"]
 [White "Rapport, R."]
 [Black "Vajda, Le"]
@@ -181,7 +166,6 @@ Kxf4 Rd7 35. Ke4 Bc7 36. Bd4 Bd8 37. Rc6 Bh4 1/2-1/2
 [WhiteElo "2444"]
 [BlackElo "2519"]
 [PlyCount "89"]
-[EventDate "2010.02.22"]
 [EventRounds "9"]
 [EventCountry "HUN"]
 [EventCategory "11"]
@@ -199,7 +183,6 @@ a6 Rxb7 42. axb7 Kh7 43. Ra8 Qg5 44. Ra1 Qd8 45. Ra8 1/2-1/2
 
 [Event "Gotth' Art Cup GM"]
 [Site "Szentgotthard HUN"]
-[Date "2010.02.26"]
 [Round "5"]
 [White "Rapport, R."]
 [Black "Prohaszka, P2."]
@@ -208,7 +191,6 @@ a6 Rxb7 42. axb7 Kh7 43. Ra8 Qg5 44. Ra1 Qd8 45. Ra8 1/2-1/2
 [WhiteElo "2444"]
 [BlackElo "2501"]
 [PlyCount "124"]
-[EventDate "2010.02.22"]
 [EventRounds "9"]
 [EventCountry "HUN"]
 [EventCategory "11"]
@@ -229,7 +211,6 @@ Kc6 53. Rg5 f6 54. Rh5 Kd6 55. Rh7 Rxf5 56. Rxb7 Rh5 57. Rb6+ Kd7 58. Kd3 Rxh4
 
 [Event "Gotth' Art Cup GM"]
 [Site "Szentgotthard HUN"]
-[Date "2010.03.03"]
 [Round "9"]
 [White "Rapport, R."]
 [Black "Portisch, L."]
@@ -238,7 +219,6 @@ Kc6 53. Rg5 f6 54. Rh5 Kd6 55. Rh7 Rxf5 56. Rxb7 Rh5 57. Rb6+ Kd7 58. Kd3 Rxh4
 [WhiteElo "2444"]
 [BlackElo "2519"]
 [PlyCount "78"]
-[EventDate "2010.02.22"]
 [EventRounds "9"]
 [EventCountry "HUN"]
 [EventCategory "11"]
@@ -256,7 +236,6 @@ f6 28. Bf5 b5 29. Be6+ Kg7 30. Rdf1 Qb6 31. Qg4 Qe3 32. Qb4 Rxe6 33. dxe6 Qxe6
 
 [Event "40th Bosna Open"]
 [Site "Sarajevo BIH"]
-[Date "2010.05.07"]
 [Round "3"]
 [White "Rapport, R."]
 [Black "Nevednichy, V."]
@@ -265,7 +244,6 @@ f6 28. Bf5 b5 29. Be6+ Kg7 30. Rdf1 Qb6 31. Qg4 Qe3 32. Qb4 Rxe6 33. dxe6 Qxe6
 [WhiteElo "2509"]
 [BlackElo "2560"]
 [PlyCount "131"]
-[EventDate "2010.05.05"]
 [EventRounds "10"]
 [EventCountry "BIH"]
 [Source "Mark Crowther"]
@@ -286,7 +264,6 @@ Rxg2+ 61. Kh5 c4 62. Ne3 d2 63. Bxd2 Rxd2 64. Nxc4 Rd4 65. Ne3 Kf7 66. Kg4
 
 [Event "40th Bosna Open"]
 [Site "Sarajevo BIH"]
-[Date "2010.05.09"]
 [Round "5"]
 [White "Rapport, R."]
 [Black "Nikcevic, N."]
@@ -295,7 +272,6 @@ Rxg2+ 61. Kh5 c4 62. Ne3 d2 63. Bxd2 Rxd2 64. Nxc4 Rd4 65. Ne3 Kf7 66. Kg4
 [WhiteElo "2509"]
 [BlackElo "2387"]
 [PlyCount "82"]
-[EventDate "2010.05.05"]
 [EventRounds "10"]
 [EventCountry "BIH"]
 [Source "Mark Crowther"]
@@ -312,7 +288,6 @@ g4 Nd2 41. Qe5+ f5 0-1
 
 [Event "40th Bosna Open"]
 [Site "Sarajevo BIH"]
-[Date "2010.05.11"]
 [Round "7"]
 [White "Rapport, R."]
 [Black "Inants, A."]
@@ -321,7 +296,6 @@ g4 Nd2 41. Qe5+ f5 0-1
 [WhiteElo "2509"]
 [BlackElo "2259"]
 [PlyCount "94"]
-[EventDate "2010.05.05"]
 [EventRounds "10"]
 [EventCountry "BIH"]
 [Source "Mark Crowther"]
@@ -339,7 +313,6 @@ Kg3 Ra4 0-1
 
 [Event "Mitropa Cup"]
 [Site "Chur SUI"]
-[Date "2010.05.31"]
 [Round "3"]
 [White "Rapport, R."]
 [Black "Jenni, F."]
@@ -348,7 +321,6 @@ Kg3 Ra4 0-1
 [WhiteElo "2509"]
 [BlackElo "2520"]
 [PlyCount "122"]
-[EventDate "2010.05.29"]
 [EventRounds "9"]
 [EventCountry "SUI"]
 [Source "Mark Crowther"]
@@ -368,7 +340,6 @@ Kg3 g5 60. Kg2 Kxd4 61. Ne4 Rxg4+ 0-1
 
 [Event "Mitropa Cup"]
 [Site "Chur SUI"]
-[Date "2010.06.02"]
 [Round "5"]
 [White "Rapport, R."]
 [Black "Jovanovic, Zo CRO"]
@@ -377,7 +348,6 @@ Kg3 g5 60. Kg2 Kxd4 61. Ne4 Rxg4+ 0-1
 [WhiteElo "2509"]
 [BlackElo "2520"]
 [PlyCount "129"]
-[EventDate "2010.05.29"]
 [EventRounds "9"]
 [EventCountry "SUI"]
 [Source "Mark Crowther"]
@@ -397,7 +367,6 @@ Qxc8 61. Bxc8 gxh5 62. Kg2 Ke7 63. Kg3 Ne6 64. Bxe6 Kxe6 65. f3 1/2-1/2
 
 [Event "Mitropa Cup"]
 [Site "Chur SUI"]
-[Date "2010.06.06"]
 [Round "9"]
 [White "Rapport, R."]
 [Black "Jurcik, Mari"]
@@ -406,7 +375,6 @@ Qxc8 61. Bxc8 gxh5 62. Kg2 Ke7 63. Kg3 Ne6 64. Bxe6 Kxe6 65. f3 1/2-1/2
 [WhiteElo "2509"]
 [BlackElo "2487"]
 [PlyCount "64"]
-[EventDate "2010.05.29"]
 [EventRounds "9"]
 [EventCountry "SUI"]
 [Source "Mark Crowther"]
@@ -421,7 +389,6 @@ gxf3 28. Qd8 f2+ 29. Kxf2 Qd2+ 30. Kg3 Qxe3+ 31. Rf3 Qe1+ 32. Rf2 Rb3+ 0-1
 
 [Event "XXVIII Balaton GM1"]
 [Site "Heviz HUN"]
-[Date "2010.06.20"]
 [Round "2"]
 [White "Rapport, R."]
 [Black "Romanishin, O."]
@@ -430,7 +397,6 @@ gxf3 28. Qd8 f2+ 29. Kxf2 Qd2+ 30. Kg3 Qxe3+ 31. Rf3 Qe1+ 32. Rf2 Rb3+ 0-1
 [WhiteElo "2509"]
 [BlackElo "2519"]
 [PlyCount "69"]
-[EventDate "2010.06.19"]
 [EventRounds "6"]
 [EventCountry "HUN"]
 [EventCategory "13"]
@@ -447,7 +413,6 @@ Kh3 Be5 35. a4 1/2-1/2
 
 [Event "XXVIII Balaton GM1"]
 [Site "Heviz HUN"]
-[Date "2010.06.21"]
 [Round "3"]
 [White "Rapport, R."]
 [Black "Miton, K."]
@@ -456,7 +421,6 @@ Kh3 Be5 35. a4 1/2-1/2
 [WhiteElo "2509"]
 [BlackElo "2608"]
 [PlyCount "77"]
-[EventDate "2010.06.19"]
 [EventRounds "6"]
 [EventCountry "HUN"]
 [EventCategory "13"]
@@ -473,7 +437,6 @@ Bxf8 Kxf8 35. Rc8 Rd7 36. Nc4 b6 37. Ne3 Kf7 38. Nd5 Ne6 39. f3 1/2-1/2
 
 [Event "TCh-SRB 1st League"]
 [Site "Vrnjacka Banja SRB"]
-[Date "2010.08.21"]
 [Round "1"]
 [White "Rapport, R."]
 [Black "Vuckovic, Bo"]
@@ -482,7 +445,6 @@ Bxf8 Kxf8 35. Rc8 Rd7 36. Nc4 b6 37. Ne3 Kf7 38. Nd5 Ne6 39. f3 1/2-1/2
 [WhiteElo "2534"]
 [BlackElo "2623"]
 [PlyCount "74"]
-[EventDate "2010.08.21"]
 [EventRounds "11"]
 [Source "Mark Crowther"]
 [SourceDate "2010.02.01"]
@@ -497,7 +459,6 @@ f6 Qb6+ 35. Kf3 Qxc6 36. Qh8 Ndxf6 37. gxf6 Qc3+ 0-1
 
 [Event "TCh-SRB 1st League"]
 [Site "Vrnjacka Banja SRB"]
-[Date "2010.08.23"]
 [Round "3"]
 [White "Rapport, R."]
 [Black "Ivanisevic, I."]
@@ -506,7 +467,6 @@ f6 Qb6+ 35. Kf3 Qxc6 36. Qh8 Ndxf6 37. gxf6 Qc3+ 0-1
 [WhiteElo "2534"]
 [BlackElo "2611"]
 [PlyCount "78"]
-[EventDate "2010.08.21"]
 [EventRounds "11"]
 [Source "Mark Crowther"]
 [SourceDate "2010.02.01"]
@@ -521,7 +481,6 @@ Rf1 b5 35. cxb5 Bxb5 36. Rxc5 Bxd3 37. Rd1 Ra2+ 38. Kh3 dxc5 39. Rxd3 c4 0-1
 
 [Event "TCh-ROU Superliga"]
 [Site "Baile Herculane ROU"]
-[Date "2010.09.08"]
 [Round "5"]
 [White "Rapport, R."]
 [Black "Ponomariov, R."]
@@ -530,7 +489,6 @@ Rf1 b5 35. cxb5 Bxb5 36. Rxc5 Bxd3 37. Rd1 Ra2+ 38. Kh3 dxc5 39. Rxd3 c4 0-1
 [WhiteElo "2523"]
 [BlackElo "2749"]
 [PlyCount "173"]
-[EventDate "2010.09.04"]
 [EventRounds "9"]
 [EventCountry "ROU"]
 [Source "Mark Crowther"]
@@ -554,7 +512,6 @@ Rc6 Ke3 86. Rxg6 Kf3 87. Rg5 0-1
 
 [Event "WY Boys-U14"]
 [Site "Porto Carras GRE"]
-[Date "2010.10.26"]
 [Round "7.3"]
 [White "Rapport, R."]
 [Black "Ynojosa, F."]
@@ -563,7 +520,6 @@ Rc6 Ke3 86. Rxg6 Kf3 87. Rg5 0-1
 [WhiteElo "2523"]
 [BlackElo "2229"]
 [PlyCount "286"]
-[EventDate "2010.10.20"]
 [EventRounds "11"]
 [EventCountry "GRE"]
 [Source "Mark Crowther"]
@@ -596,7 +552,6 @@ Rf1 140. Re5 Kf6 141. Re8 Rxf5 142. Rf8+ Kg5 143. Rxf5+ Kxf5 1/2-1/2
 
 [Event "WY Boys-U14"]
 [Site "Porto Carras GRE"]
-[Date "2010.10.30"]
 [Round "11.5"]
 [White "Rapport, R."]
 [Black "Tran Tuan Minh"]
@@ -605,7 +560,6 @@ Rf1 140. Re5 Kf6 141. Re8 Rxf5 142. Rf8+ Kg5 143. Rxf5+ Kxf5 1/2-1/2
 [WhiteElo "2523"]
 [BlackElo "2227"]
 [PlyCount "87"]
-[EventDate "2010.10.20"]
 [EventRounds "11"]
 [EventCountry "GRE"]
 [Source "Mark Crowther"]
@@ -622,7 +576,6 @@ Re8 35. Bxf5 Rxe2 36. Bg6 Rf8 37. f4 Be6 38. f5 Bd5 39. e6 Rg2+ 40. Kh1 Re2+
 
 [Event "TCh-HUN 2010-11"]
 [Site "Nagykanizsa HUN"]
-[Date "2010.11.21"]
 [Round "3"]
 [White "Rapport, R."]
 [Black "Efimenko, Z."]
@@ -631,7 +584,6 @@ Re8 35. Bxf5 Rxe2 36. Bg6 Rf8 37. f4 Be6 38. f5 Bd5 39. e6 Rg2+ 40. Kh1 Re2+
 [WhiteElo "2523"]
 [BlackElo "2683"]
 [PlyCount "81"]
-[EventDate "2010.10.10"]
 [EventRounds "11"]
 [EventCountry "HUN"]
 [Source "Mark Crowther"]
@@ -649,14 +601,12 @@ Kf7 41. Qc7+ 1/2-1/2
 
 
 [Event "40th It Bosna 2010"]
-[Date "2010.05.13"]
 [Round "9.30"]
 [White "Rapport, Richard"]
 [Black "Lejlic, Samir"]
 [Result "1-0"]
 [BlackElo "2362"]
 [ECO "D06"]
-[EventDate "2010.05.05"]
 [PlyCount "57"]
 [WhiteElo "2509"]
 

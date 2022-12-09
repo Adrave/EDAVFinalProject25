@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -20,7 +19,6 @@ Qd8 20.fxe6 fxe6 21.e5 dxe5 22.Ne4 Nh5 23.Qg6 exd4 24.Ng5 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "17"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -47,7 +45,6 @@ Kh7 58.Kf4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "19"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -73,7 +70,6 @@ Be2 48.Nc6 Qa2 49.Rb8+ Rxb8 50.Qxb8+ Kh7 51.Qg3 Bh5 52.Kh2 Be1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "21"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -94,7 +90,6 @@ Qa6 25.Rc7 b5 26.Nd4 Qb6 27.Rc8 Nb7 28.Nc6 Nd6 29.Nxd8 Nxf5 30.Nc6 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -122,7 +117,6 @@ h5 63.Kf1 Qg6 64.Kg1 Re6 65.Qc3 h4 66.Qc8+ Kh7 67.Qxe6 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Medina-Garcia Antonio (ESP)"]
@@ -143,7 +137,6 @@ Rd8 25.Qa4 a5 26.a3 Be7 27.Rxc4 Qe5 28.Rd4 Bd6 29.g3 Qh5 30.Red2 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Penrose Jonathan (ENG)"]
@@ -168,7 +161,6 @@ Kxh6 43.Qf8+ Qg7 44.Qxc5 Nd7 45.Qd6+ Kh7 46.e5 Kh8 47.h6 Qh7
 
 [Event "It"]
 [Site "San Juan (Puerto Rico)"]
-[Date "1969.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Berrios Angel (PUR)"]
@@ -191,7 +183,6 @@ cxb4 36.Bd4 Nfd7 1-0
 
 [Event "It"]
 [Site "San Juan (Puerto Rico)"]
-[Date "1969.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Byrne Robert E (USA)"]
@@ -218,7 +209,6 @@ Rxh5+ 60.Kg2 Rf5 61.Rxf5 1-0
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -238,7 +228,6 @@ exd4 14.cxd4 Na5 15.Bc2 c5 16.Ng4 Bxg4 17.hxg4 Bxd4 18.Nxd4 cxd4
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -262,7 +251,6 @@ Rb5 37.cxb5 Bxe3+ 38.Kh2 Qb6 39.Nxc8 Bxc8 40.Ra2 Nh5 41.g4 Qf6
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -281,7 +269,6 @@ Nbd7 8.Qf3 Qc7 9.O-O-O b5 10.e5 Bb7 11.Qh3 dxe5 12.Nxe6 fxe6
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Scholl Eddie C (NED)"]
@@ -305,7 +292,6 @@ Be8 43.Rxh7 Rf8 44.Kg2 g4 1/2-1/2
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tringov Georgi P (BUL)"]
@@ -325,7 +311,6 @@ Ra7 20.g4 Kh8 21.Be1 1/2-1/2
 
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -348,7 +333,6 @@ Rh1 36.Bf5 Bc6+ 37.Ke2 Rh3 38.d7 Rh8 39.Bg3 Rd8 40.Bc7 Rxd7 1/2-1/2
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -368,7 +352,6 @@ Nb6 19.Na5 Nc8 20.Qe2 Nd6 1/2-1/2
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -396,7 +379,6 @@ Rd2 63.Kb7 Rb2+ 64.Kc6 Rc2+ 65.Kd7 Rd2+ 1/2-1/2
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -425,7 +407,6 @@ Kf4 63.Kg2 Ra3 64.Rb8 Ra1 65.Rb4+ Kg5 66.Kh2 Kh5 67.Kh3 Rh1+
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -448,7 +429,6 @@ h5 31.R3c2 Rc6 32.Rc3 Bb4 33.Rxc6 Rxc6 34.Rxc6 Kxc6 35.Ke2 b5
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -471,7 +451,6 @@ Bd8 37.Qe5 Qb6 38.Qd5 Bf6 39.Qd7 Qb8 40.Bc4 Be5 41.f6 Bxf6 42.Re5 1/2-1/2
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "NN Chess Club"]
@@ -495,7 +474,6 @@ Bf3+ 42.Kxa6 Kc6 43.b4 Be2+ 44.Ka5 h5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bouaziz Slim (TUN)"]
@@ -516,7 +494,6 @@ Qxd6 25.Bxb4 Nxb4 26.a3 Na6 27.b4 Nc7 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -536,14 +513,12 @@ Qxe8 20.Nxd4 Bxd5 21.Qd2 Qf8 22.a4 c5 23.Nde2 Bc6 24.axb5 1/2-1/2
 
 [Event "Oegstgeest"]
 [Site "Oegstgeest NED"]
-[Date "1970.04.23"]
 [Round "4"]
 [White "Boris Spassky"]
 [Black "Bent Larsen"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B80"]
-[EventDate "1970.04.17"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -559,14 +534,12 @@ Qxe8 20.Nxd4 Bxd5 21.Qd2 Qf8 22.a4 c5 23.Nde2 Bc6 24.axb5 1/2-1/2
 
 [Event "Oegstgeest"]
 [Site "Oegstgeest NED"]
-[Date "1970.04.26"]
 [Round "6"]
 [White "Boris Spassky"]
 [Black "Mikhail Botvinnik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "1970.04.17"]
 [PlyCount "130"]
 [WhiteElo "?"]
 

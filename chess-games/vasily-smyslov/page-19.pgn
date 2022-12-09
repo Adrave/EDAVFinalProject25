@@ -1,6 +1,5 @@
 [Event "It (corr.)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "13"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Browne Walter S (USA)"]
@@ -26,7 +25,6 @@ Kd4 1/2-1/2
 
 [Event "It (corr.)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Szmetan Jorge (ARG)"]
@@ -49,7 +47,6 @@ Nf8 25.Nxc5 Nxe6 26.Nxb7 Qe7 27.Re1 Rh6 28.Qf5 Bc3 29.Re3 Rg6
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Qi Jingxuan (CHN)"]
@@ -78,7 +75,6 @@ Ke7 63.Qc5+ Kd7 64.Qxf8 Qd5+ 65.e4 Qxe4+ 66.Kh2 Qc2 67.Qf7+ Kc6
 
 [Event "Ch Hungary"]
 [Site "Hungary"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -101,7 +97,6 @@ Qd8 37.Ng4 Ba4 38.Rf2 b3 39.Bxg6 hxg6 40.Re7 Qxd5 0-1
 
 [Event "Zt (cat.13)"]
 [Site "Lvov (Ukraine)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -132,7 +127,6 @@ Rc3 77.Rf8 Rxa3 78.Rxf6+ Ke2 79.c7 Rd3+ 80.Kc6 Rc3+ 81.Kb7 Kd2
 
 [Event "Zt (cat.13)"]
 [Site "Lvov (Ukraine)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Savon Vladimir A (UKR)"]
@@ -155,7 +149,6 @@ Kxf6 30.bxa5 h5 31.Kf2 Bb4 32.Rb1 Bxa5 33.Rd6+ Kg7 34.Rxa6 Rc2+
 
 [Event "Zt (cat.13)"]
 [Site "Lvov (Ukraine)"]
-[Date "1978.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -182,7 +175,6 @@ Bg4+ 55.Kd3 Ba1 56.Be7 Bxh5 57.Bc5 Bg6+ 58.Kc4 Bd4 59.Bxd4 exd4
 
 [Event ""]
 [Site "Sao Paulo (Brazil)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Camara Helder (BRA)"]
@@ -206,7 +198,6 @@ Ra2 37.Bb1 Raa8 38.Rb5 Rab8 39.Bd3 Ra8 40.Qb6 Qxb6 41.Rxb6 Ra2
 
 [Event ""]
 [Site "Sao Paulo (Brazil)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Castro Oscar H (COL)"]
@@ -227,7 +218,6 @@ Qxf5 25.Be3 Re8 26.Bd2 Qh3 27.Rhf1 Rd8 28.Ne4 1-0
 
 [Event ""]
 [Site "Sao Paulo (Brazil)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Filguth Rubens A (BRA)"]
@@ -251,7 +241,6 @@ e5 1-0
 
 [Event ""]
 [Site "Sao Paulo (Brazil)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Segal Alexandru Sorin (BRA)"]
@@ -277,7 +266,6 @@ Kf4 53.Be2 Ke5 54.Bb5 Rc3 55.a4 Ra3 56.Kg3 Ra1 57.Re2+ 1-0
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1979.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -296,7 +284,6 @@ Nd7 14.Rac1 Rfd8 15.Ne1 Nf6 16.Qf3 1/2-1/2
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1979.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Espig Lutz (GER)"]
@@ -315,7 +302,6 @@ Nxd3 14.Rxd3 O-O 15.Nc3 Nd5 16.Nxd5 Qxd5 17.Qxd5 exd5 18.Rc3 1/2-1/2
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1979.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Plachetka Jan (SVK)"]
@@ -334,7 +320,6 @@ Bb6 14.Bf4 Rc8 15.Ne1 Nc5 16.Nxc5 1/2-1/2
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1979.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Rodriguez Amador (ESP)"]
@@ -357,7 +342,6 @@ Kf8 36.Nd6 Ke7 1/2-1/2
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1979.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Vogt Lothar (GER)"]
@@ -376,7 +360,6 @@ Rad8 14.Be1 a6 15.Rxd8 Rxd8 16.Rd1 c5 17.Rxd8+ Qxd8 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Averkin Orest N (RUS)"]
@@ -403,7 +386,6 @@ hxg4 54.h4 gxh3+ 55.Kxh3 Kd5 56.g4 fxg4+ 57.Kxg4 Kc6 58.Kf3 Kd5
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -428,7 +410,6 @@ Nd1+ 42.Kg1 Rd2 43.Nc5 Bc4 44.Nxa6 Nxe3 45.Nc5 g6 46.Re1 Ng2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gufeld Eduard (USA)"]
@@ -448,7 +429,6 @@ Rxf8 20.Rfd1 Re8 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Vladimirov Evgeny (KAZ)"]
@@ -470,7 +450,6 @@ Qb2 30.Qc3 Qxc3 31.Rxc3 Rd6 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -492,7 +471,6 @@ Bxg2 32.Qxg2 Rf6 33.e5 Rh6 0-1
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sax Gyula (HUN)"]
@@ -518,7 +496,6 @@ Kxb3 53.Nd7 Ne6 54.Ne5 g5 0-1
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sosonko Gennadi (NED)"]
@@ -542,7 +519,6 @@ Rxg5 31.Bxg5 Kxb7 32.Bxf6 Bf5 33.Kf2 Bd3 34.Ke3 Bxc4 35.Ke4 Bb3
 
 [Event ""]
 [Site "URS"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -566,14 +542,12 @@ bxa5 42.Rxa5 Ra6 43.Rb5 e5 44.Kf2 e4 45.Rb1 Ra2 0-1
 
 [Event "Buenos Aires (Clarin)"]
 [Site "Buenos Aires ARG"]
-[Date "1978.11.21"]
 [Round "6"]
 [White "Vasily Smyslov"]
 [Black "Jorge Szmetan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "1978.11.14"]
 [PlyCount "71"]
 [WhiteElo "?"]
 

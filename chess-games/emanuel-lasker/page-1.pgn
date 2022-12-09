@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -28,7 +27,6 @@ Kc7 58.Qf4+ Kc8 59.Qd6 Rf5 60.Qg3 Rh5 61.Qg8+ Kc7 62.Qg3+ Kc8
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Pirc Vasja (YUG)"]
@@ -48,7 +46,6 @@ Qxe6 19.Qxa8 Bxe3+ 20.Kh1 1-0
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -71,7 +68,6 @@ Nc4+ 36.Kc3 Na5 37.Kb4 Nb7 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "15"]
 [White "Lasker Emanuel (GER)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -97,7 +93,6 @@ Qxf5+ 53.Kc1 Qf2 54.Qa3 Kh7 0-1
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "3"]
 [White "Lasker Emanuel (GER)"]
 [Black "Eliskases Erich G (AUT)"]
@@ -121,7 +116,6 @@ Rxd3 36.Rxg7 Rd8 37.Rh7+ Kg8 38.Rxh6 Re3 39.Rhh7 d4 40.Rhd7 Ree8
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "5"]
 [White "Lasker Emanuel (GER)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -141,7 +135,6 @@ Bxc5 14.Ng3 N6d7 15.Qe2 Nxe5 16.Bxe5 Qe7 17.Ne4 Nc6 18.Nxc5 Qxc5
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "13"]
 [White "Lasker Emanuel (GER)"]
 [Black "Kan Ilya A (RUS)"]
@@ -162,7 +155,6 @@ g5 19.Bf2 Nf4 20.Rd7 Rf7 21.Rxf7 Kxf7 22.fxe4 fxe4 23.Rxe4 Rd8
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "17"]
 [White "Lasker Emanuel (GER)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -185,7 +177,6 @@ b5 25.h5 b4 26.hxg6 hxg6 27.Re3 bxc3 28.Bxc3 Nxe5 29.fxe5 Bxe5
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "11"]
 [White "Lasker Emanuel (GER)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -211,7 +202,6 @@ Kb6 53.h4 Qe3+ 54.Kf6 Qxc3 55.h5 Qxd4+ 56.Ke6 Qe3+ 57.Kf6 c3 0-1
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "7"]
 [White "Lasker Emanuel (GER)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -237,7 +227,6 @@ b4 54.Bd1 f4 55.h7 Rxh7 56.Kxh7 Ke4 57.Kg6 f3 58.Kg5 Ke3 0-1
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "9"]
 [White "Lasker Emanuel (GER)"]
 [Black "Rjumin N (RUS)"]
@@ -266,7 +255,6 @@ Ke4 64.b5 Bc8 65.Nb4 Kd4 66.Nc6+ Kc3 67.Nxe5 Kb4 68.Nc6+ Kc5
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "4"]
 [White "Lasker Emanuel (GER)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -285,7 +273,6 @@ Bg4 14.h3 Bh5 15.Rfd1 Rfe8 16.Rd5 Bg6 17.Rad1 Bf5 18.R5d2 1/2-1/2
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "15"]
 [White "Lasker Emanuel (GER)"]
 [Black "Alexander Conel H O'D (ENG)"]
@@ -307,7 +294,6 @@ f5 32.Bxb7 Qxb7 33.Qg2 Qe7 34.Qd5 1-0
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -330,7 +316,6 @@ Bb7 31.Bxb7 Qxb7+ 32.Kg1 Qf3 33.Qd4 Kh6 34.f6 Rf8 35.Ng2 Rc8
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "9"]
 [White "Lasker Emanuel (GER)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -354,7 +339,6 @@ Bxd2 42.Bxf5 gxf5 43.Ne6 Bc3 44.Kf1 1/2-1/2
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "6"]
 [White "Lasker Emanuel (GER)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -374,7 +358,6 @@ a5 1/2-1/2
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "13"]
 [White "Lasker Emanuel (GER)"]
 [Black "Euwe Max (NED)"]
@@ -396,7 +379,6 @@ Ba5 24.b4 Bxb4 25.Nc2 Bd2 26.Bxd2 Nb2+ 27.Ke2 Kd5 28.Bc1 Nc4
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "11"]
 [White "Lasker Emanuel (GER)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -416,7 +398,6 @@ Nd5 14.Bc1 Nxc3 15.bxc3 Nf6 16.a4 Qd5 17.Nf3 Rfc8 18.Bb2 Ne4
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1940.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -439,7 +420,6 @@ Rxg4 36.Nxg4+ Kf5 37.Ne3+ Kf6 38.c4 Rc8 39.cxd5 Bxd5 1/2-1/2
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Platz Joseph"]
@@ -459,7 +439,6 @@ b6 14.Bd6 Kg8 15.Bd3 Nf5 16.Bxf5 exf5 17.Qf4 Rc8 18.Qd2 Qxd2+
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Platz Joseph"]
@@ -482,14 +461,12 @@ g6 37.Rh2 Rh4 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1936.05.24"]
 [Round "9"]
 [White "Emanuel Lasker"]
 [Black "Nikolai Nikolaevich Riumin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B74"]
-[EventDate "1936.05.14"]
 [PlyCount "145"]
 [WhiteElo "?"]
 
@@ -510,14 +487,12 @@ g6 37.Rh2 Rh4 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1936.05.16"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Erich Eliskases"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C14"]
-[EventDate "1936.05.14"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -534,14 +509,12 @@ g6 37.Rh2 Rh4 1/2-1/2
 
 [Event "Nottingham"]
 [Site "Nottingham ENG"]
-[Date "1936.08.25"]
 [Round "13"]
 [White "Emanuel Lasker"]
 [Black "Max Euwe"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D12"]
-[EventDate "1936.08.10"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -560,7 +533,6 @@ g6 37.Rh2 Rh4 1/2-1/2
 [Result "1-0"]
 [Round "07"]
 [TimeControl "5400+30"]
-[Date "2021.06.11"]
 [WhiteClock "1:09:00"]
 [BlackClock "0:01:30"]
 

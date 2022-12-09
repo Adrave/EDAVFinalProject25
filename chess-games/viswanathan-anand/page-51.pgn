@@ -1,6 +1,5 @@
 [Event "It (open) (active)"]
 [Site "Bastia (France)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Chernin Alexander (HUN)"]
@@ -24,7 +23,6 @@ Ke6 37.Kd4 Kd6 38.h4 Kc6 39.Kc4 f5 40.Rb2 Rxb6 41.Rxb6+ Kxb6
 
 [Event "It (open) (active)"]
 [Site "Bastia (France)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -47,7 +45,6 @@ Rb1 37.Rc7 Rxa6 38.Rxe5 Re6 39.Rxe6 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -67,7 +64,6 @@ Nxc3 14.bxc3 Nxd5 15.Bd3 c5 16.c4 Nb4 17.d5 Nxd3 18.Qxd3 Bd6
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -86,7 +82,6 @@ Bf6 14.h3 Bh5 15.Qa4 Re8 16.Rad1 a6 17.a3 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -104,7 +99,6 @@ e5 8.Nd2 Bg4 9.Qe1 Be6 10.Qe2 Qc7 11.Bc4 Bxc4 12.Nxc4 Nd7 13.a4 1/2-1/2
 
 [Event "It \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -128,7 +122,6 @@ Kxb8 43.Kd2 Kc7 44.Kc3 Kb6 45.Bd1 Ka5 46.Bb3 Nc8 47.Kd2 Nd6 48.Kc3 1/2-1/2
 
 [Event "It \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -154,7 +147,6 @@ Qxd7 49.Bxd7 gxh4 50.gxh4 Bd6 51.Bb5 Nf7 52.Kf3 Nh6 53.Bd7 Kf7
 
 [Event "It \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -182,7 +174,6 @@ Bxe8 65.Rxe8 Kxb4 66.Ke3 a2 67.Ra8 Kb3 68.Kd2 d4 1/2-1/2
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -201,7 +192,6 @@ Rc8 13.Qe3 b6 14.Qg3 1/2-1/2
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -221,7 +211,6 @@ d6 14.c3 bxc3 15.bxc3 Ne7 16.Bxa8 Qxa8 17.d4 exd4 18.cxd4 Bb6
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -245,7 +234,6 @@ Kf8 36.Rb3 Bd6 37.Rb6 e5 38.Rxd6 exd4 39.Nxd5 Bxd5 40.Rxd5 Rf4
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -265,7 +253,6 @@ Qd6 19.Qxd6 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Merida (Mexico)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -284,7 +271,6 @@ Nc6 14.Ba6 Qc8 15.Bxb7 Qxb7 16.Nxc6 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Almasi Zoltan (HUN)"]
@@ -311,7 +297,6 @@ Kg6 54.Rc8 Ree5 55.Rc6+ Kf7 56.Kf3 Ra3 57.Rb6 Raa5 58.Rc6 Rab5
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -331,7 +316,6 @@ Qd6 19.Rxd5 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -351,7 +335,6 @@ Re8 20.h3 e5 21.dxe5 Nxe5 22.Nxe5 Qxe5 23.Rcd3 Rbe7 24.Rd5 1/2-1/2
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -370,7 +353,6 @@ e6 8.Nxd4 cxd4 9.Ne2 Nxe4 10.dxe4 Qxc4 11.Nxd4 e5 12.Nf5 Qxe4
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -391,7 +373,6 @@ Rg8 25.g3 h5 26.Rcd1 Kd7 27.R1d2 Ke6 28.Rd1 Kd7 29.R1d2 Ke6 30.Rd1 1/2-1/2
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -416,7 +397,6 @@ Rb2 42.Bf4 Rb1 43.Bg5 Rg1+ 44.Kf2 Rg2+ 45.Kf1 Rxh2 46.Bf4 Rh1+
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Touzane Olivier (FRA)"]
@@ -439,7 +419,6 @@ Bb6 36.Bxb6 axb6 37.Qg3 Qc1 38.h5 Qc6+ 39.Kf1 Qh1+ 0-1
 
 [Event "Ch World FIDE (KO-system) (play-off)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -468,7 +447,6 @@ Rb4 66.Rc2 Bb6 67.Be2 Kd4 68.Rd2+ Ke4 69.Rc2 Bd4 70.Bf3+ Kf4
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -489,7 +467,6 @@ Bxe5 25.g3 Bf6 26.Kb1 Qa5 27.c3 Qc5 28.Qxc5 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -509,7 +486,6 @@ Bxc5 14.c3 Bb7 15.Ngf3 Qb6 16.O-O O-O 17.Rfe1 a6 18.Rad1 Bd6
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -531,7 +507,6 @@ Qxe7 31.Nxe7 Be6 32.Rd1 Bxa2 33.Nc6 Bf8 34.Nc2 Re8 1/2-1/2
 
 [Event "Simultan"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Freise Eckhard (GER)"]
@@ -540,7 +515,6 @@ Qxe7 31.Nxe7 Be6 32.Rd1 Bxa2 33.Nc6 Bf8 34.Nc2 Re8 1/2-1/2
 [WhiteElo "2770"]
 [BlackElo "2018"]
 [PlyCount "94"]
-[EventDate "2001.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Qe2 Be7
 8. O-O O-O 9. Bxc6 dxc6 10. Nxe5 Bf5 11. d3 Bd6 12. Nc4 Rae8 13. Be3 Qg6 14.

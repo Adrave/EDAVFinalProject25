@@ -1,6 +1,5 @@
 [Event "ICC Open Final 2016"]
 [Site "ICC INT"]
-[Date "2016.06.05"]
 [Round "3.3"]
 [White "Grischuk, A."]
 [Black "Andreikin, D."]
@@ -9,7 +8,6 @@
 [WhiteElo "2747"]
 [BlackElo "2743"]
 [PlyCount "69"]
-[EventDate "2016.06.05"]
 [EventType "k.o. (blitz)"]
 [EventRounds "3"]
 [EventCountry "USA"]
@@ -26,7 +24,6 @@ Kc8 35. b6 1-0
 
 [Event "ICC Open Final 2016"]
 [Site "ICC INT"]
-[Date "2016.06.05"]
 [Round "3.5"]
 [White "Grischuk, A."]
 [Black "Andreikin, D."]
@@ -35,7 +32,6 @@ Kc8 35. b6 1-0
 [WhiteElo "2747"]
 [BlackElo "2743"]
 [PlyCount "129"]
-[EventDate "2016.06.05"]
 [EventType "k.o. (blitz)"]
 [EventRounds "3"]
 [EventCountry "USA"]
@@ -57,7 +53,6 @@ Qhc6 g3 65. Q6b7# 1-0
 
 [Event "ICC Open Final 2016"]
 [Site "ICC INT"]
-[Date "2016.06.05"]
 [Round "1.4"]
 [White "Grischuk, A."]
 [Black "Bortnyk, Olexandr"]
@@ -66,7 +61,6 @@ Qhc6 g3 65. Q6b7# 1-0
 [WhiteElo "2747"]
 [BlackElo "2579"]
 [PlyCount "79"]
-[EventDate "2016.06.05"]
 [EventType "k.o. (blitz)"]
 [EventRounds "3"]
 [EventCountry "USA"]
@@ -84,7 +78,6 @@ Ke3 1-0
 
 [Event "ICC Open Final 2016"]
 [Site "ICC INT"]
-[Date "2016.06.05"]
 [Round "1.6"]
 [White "Grischuk, A."]
 [Black "Bortnyk, Olexandr"]
@@ -93,7 +86,6 @@ Ke3 1-0
 [WhiteElo "2747"]
 [BlackElo "2579"]
 [PlyCount "99"]
-[EventDate "2016.06.05"]
 [EventType "k.o. (blitz)"]
 [EventRounds "3"]
 [EventCountry "USA"]
@@ -112,7 +104,6 @@ Ng3 Rg5 47. Bxc6 Raxg3 48. Bf3 Rxf3 49. Rxf3 Rxh5+ 50. Rh3 1-0
 
 [Event "ICC Open Final 2016"]
 [Site "ICC INT"]
-[Date "2016.06.05"]
 [Round "1.8"]
 [White "Grischuk, A."]
 [Black "Bortnyk, Olexandr"]
@@ -121,7 +112,6 @@ Ng3 Rg5 47. Bxc6 Raxg3 48. Bf3 Rxf3 49. Rxf3 Rxh5+ 50. Rh3 1-0
 [WhiteElo "2747"]
 [BlackElo "2579"]
 [PlyCount "99"]
-[EventDate "2016.06.05"]
 [EventType "k.o. (blitz)"]
 [EventRounds "3"]
 [EventCountry "USA"]
@@ -140,7 +130,6 @@ Kf7 47. Ra7+ Ke6 48. Rxg7 Kxd5 49. Kg2 Ne6 50. Rxh7 1-0
 
 [Event "Champions Showdown G30"]
 [Site "Saint Louis USA"]
-[Date "2017.11.09"]
 [Round "2.2"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -149,7 +138,6 @@ Kf7 47. Ra7+ Ke6 48. Rxg7 Kxd5 49. Kg2 Ne6 50. Rxh7 1-0
 [WhiteElo "2782"]
 [BlackElo "2799"]
 [PlyCount "161"]
-[EventDate "2017.11.09"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -171,7 +159,6 @@ Kc1 79. Qxg7 Kd2 80. Qxe5 Bc5 81. Qxc5 1/2-1/2
 
 [Event "Champions Showdown G30"]
 [Site "Saint Louis USA"]
-[Date "2017.11.09"]
 [Round "4.2"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -180,7 +167,6 @@ Kc1 79. Qxg7 Kd2 80. Qxe5 Bc5 81. Qxc5 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2799"]
 [PlyCount "104"]
-[EventDate "2017.11.09"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -198,7 +184,6 @@ Bf7 47. Nc3 Kc7 48. Kg3 Kd6 49. Ne4+ Ke5 50. d6 Nxd6 51. Nxd6 Kxd6 52. Bxb6 Ke6
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.21"]
 [Round "3.2"]
 [White "Grischuk, A."]
 [Black "Carlsen, M."]
@@ -207,7 +192,6 @@ Bf7 47. Nc3 Kc7 48. Kg3 Kd6 49. Ne4+ Ke5 50. d6 Nxd6 51. Nxd6 Kxd6 52. Bxb6 Ke6
 [WhiteElo "2750"]
 [BlackElo "2832"]
 [PlyCount "114"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -225,7 +209,6 @@ Kg7 53. Re4 Kf6 54. Rf4 h5+ 55. Kxh5 Rxf4 56. gxf4 Kxf5 57. Kh6 Kxf4 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.21"]
 [Round "3.9"]
 [White "Grischuk, A."]
 [Black "Carlsen, M."]
@@ -234,7 +217,6 @@ Kg7 53. Re4 Kf6 54. Rf4 h5+ 55. Kxh5 Rxf4 56. gxf4 Kxf5 57. Kh6 Kxf4 1/2-1/2
 [WhiteElo "2750"]
 [BlackElo "2832"]
 [PlyCount "97"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -251,7 +233,6 @@ Rg3 47. Bf4 Rb3 48. Rxb3 Bxb3 49. Kf2 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.21"]
 [Round "3.11"]
 [White "Grischuk, A."]
 [Black "Carlsen, M."]
@@ -260,7 +241,6 @@ Rg3 47. Bf4 Rb3 48. Rxb3 Bxb3 49. Kf2 1/2-1/2
 [WhiteElo "2750"]
 [BlackElo "2832"]
 [PlyCount "65"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -275,7 +255,6 @@ cxd5 Rad8 22. Rfc1 Rxd5 23. axb5 axb5 24. Bc5 Bxc5 25. Rxc5 Rxc5 26. bxc5 Rc8
 
 [Event "2nd IMSA Rapid 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.10"]
 [Round "2.4"]
 [White "Grischuk, A."]
 [Black "Yu Yangyi"]
@@ -284,7 +263,6 @@ cxd5 Rad8 22. Rfc1 Rxd5 23. axb5 axb5 24. Bc5 Bxc5 25. Rxc5 Rxc5 26. bxc5 Rc8
 [WhiteElo "2772"]
 [BlackElo "2751"]
 [PlyCount "104"]
-[EventDate "2017.12.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -302,7 +280,6 @@ Ra6+ Ke5 1/2-1/2
 
 [Event "TCh-CHN 2017"]
 [Site "China CHN"]
-[Date "2017.12.05"]
 [Round "22.5"]
 [White "Grischuk, A."]
 [Black "Wang Hao"]
@@ -311,7 +288,6 @@ Ra6+ Ke5 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2709"]
 [PlyCount "33"]
-[EventDate "2017.04.18"]
 [EventType "team"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -325,7 +301,6 @@ Ng4 15. Nf3 Ngf6 16. Ne5 Ng4 17. Nf3 1/2-1/2
 
 [Event "2nd IMSA Basque 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.15"]
 [Round "4.1"]
 [White "Grischuk, A."]
 [Black "Andreikin, D."]
@@ -334,7 +309,6 @@ Ng4 15. Nf3 Ngf6 16. Ne5 Ng4 17. Nf3 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2712"]
 [PlyCount "176"]
-[EventDate "2017.12.14"]
 [EventType "swiss"]
 [EventRounds "5"]
 [EventCountry "CHN"]
@@ -357,7 +331,6 @@ Ka4 86. Rf3 b3 87. Rf4+ Ka3 88. Ra4+ Kxa4 1/2-1/2
 
 [Event "2nd IMSA Basque 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.14"]
 [Round "3.2"]
 [White "Grischuk, A."]
 [Black "Harikrishna, P."]
@@ -366,7 +339,6 @@ Ka4 86. Rf3 b3 87. Rf4+ Ka3 88. Ra4+ Kxa4 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2744"]
 [PlyCount "161"]
-[EventDate "2017.12.14"]
 [EventType "swiss"]
 [EventRounds "5"]
 [EventCountry "CHN"]
@@ -388,7 +360,6 @@ Kf4 Ra4+ 79. Kf3 Ra3+ 80. Ne3 Kh5 81. Ke4 1/2-1/2
 
 [Event "2nd IMSA Blitz 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.13"]
 [Round "19.5"]
 [White "Grischuk, A."]
 [Black "Andreikin, D."]
@@ -397,7 +368,6 @@ Kf4 Ra4+ 79. Kf3 Ra3+ 80. Ne3 Kh5 81. Ke4 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2712"]
 [PlyCount "99"]
-[EventDate "2017.12.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -415,7 +385,6 @@ Kg3 h5 47. Rd7 Ra5 48. Rc7 Rb5 49. Rd7 Ra5 50. Rc7 1/2-1/2
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.27"]
 [Round "9.12"]
 [White "Grischuk, A."]
 [Black "Bu Xiangzhi"]
@@ -424,7 +393,6 @@ Kg3 h5 47. Rd7 Ra5 48. Rc7 Rb5 49. Rd7 Ra5 50. Rc7 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2730"]
 [PlyCount "82"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -440,7 +408,6 @@ a6 28. h3 Rxd1 29. Rxd1 f3 30. Qd2 fxg2 31. Qxg5+ Kh8 32. Rd3 b5 33. axb5 axb5
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.27"]
 [Round "7.9"]
 [White "Grischuk, A."]
 [Black "Khismatullin, D."]
@@ -449,7 +416,6 @@ a6 28. h3 Rxd1 29. Rxd1 f3 30. Qd2 fxg2 31. Qxg5+ Kh8 32. Rd3 b5 33. axb5 axb5
 [WhiteElo "2772"]
 [BlackElo "2632"]
 [PlyCount "57"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -463,7 +429,6 @@ Qxd6 Rh6 28. h4 Rf6 29. Rxh5 1/2-1/2
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.26"]
 [Round "5.2"]
 [White "Grischuk, A."]
 [Black "Fedoseev, Vl3"]
@@ -472,7 +437,6 @@ Qxd6 Rh6 28. h4 Rf6 29. Rxh5 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2718"]
 [PlyCount "56"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -486,7 +450,6 @@ Bxb2 27. Rd6 g6 28. Bd3 Bc1 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "5.9"]
 [White "Grischuk, A."]
 [Black "Fedoseev, Vl3"]
@@ -495,7 +458,6 @@ Bxb2 27. Rd6 g6 28. Bd3 Bc1 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2718"]
 [PlyCount "53"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g3 b6 5. Bg2 Bb7 6. O-O O-O 7. c4 c5 8. Nc3
@@ -507,7 +469,6 @@ Qb6 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "1.21"]
 [White "Grischuk, A."]
 [Black "Grigoriants, S RUS."]
@@ -516,7 +477,6 @@ Qb6 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2561"]
 [PlyCount "63"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bb5 Bg4 6. h3 Bxf3 7. Qxf3 a6 8.
@@ -528,7 +488,6 @@ Qe3 h6 22. a3 Rb5 23. Qc3 Qb7 24. Rd3 Rb8 25. Rg3 Qe7 26. Qe3 Qf6 27. Qc3 Qf5
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "10.12"]
 [White "Grischuk, A."]
 [Black "Bacrot, E."]
@@ -537,7 +496,6 @@ Qe3 h6 22. a3 Rb5 23. Qc3 Qb7 24. Rd3 Rb8 25. Rg3 Qe7 26. Qe3 Qf6 27. Qc3 Qf5
 [WhiteElo "2772"]
 [BlackElo "2725"]
 [PlyCount "73"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. c4 Be7 5. e3 O-O 6. Nc3 b6 7. cxd5 exd5 8. d4
@@ -550,7 +508,6 @@ Kf1 Rc6 35. Bc1 Bxc1 36. Rxc1 Rxc1+ 37. Nxc1 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "19.7"]
 [White "Grischuk, A."]
 [Black "Mamedyarov, S."]
@@ -559,7 +516,6 @@ Kf1 Rc6 35. Bc1 Bxc1 36. Rxc1 Rxc1+ 37. Nxc1 1/2-1/2
 [WhiteElo "2772"]
 [BlackElo "2799"]
 [PlyCount "174"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 g6 4. cxd5 Nxd5 5. d4 Bg7 6. e4 Nb6 7. Be2 O-O 8. O-O
@@ -580,7 +536,6 @@ Rxg4+ 78. hxg4 Rf4 79. Kh3 Kf3 80. g5 Rf7 81. Bg3 Rh7+ 82. Bh4 Rh8 83. g6 Rg8
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.16"]
 [White "Grischuk, Alexander"]
 [Black "Rapport, Richard"]
@@ -588,7 +543,6 @@ Rxg4+ 78. hxg4 Rf4 79. Kh3 Kf3 80. g5 Rf7 81. Bg3 Rh7+ 82. Bh4 Rh8 83. g6 Rg8
 [WhiteElo "2750"]
 [BlackElo "2698"]
 [ECO "B07"]
-[EventDate "2017.05.03"]
 
 1. e4 g6 2. d4 Nf6 3. f3 d6 4. c4 c5 5. d5 e5 6. Nc3 Nbd7 7. Nh3 a6 8. Nf2
 h5 9. h4 Bh6 10. Bxh6 Rxh6 11. Qd2 Rh8 12. a3 Kf8 13. Rc1 Kg7 14. g3 Rb8 
@@ -601,7 +555,6 @@ Ke3 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.03"]
 [Round "1.12"]
 [White "Grischuk, Alexander"]
 [Black "Rapport, Richard"]
@@ -609,7 +562,6 @@ Ke3 1/2-1/2
 [WhiteElo "2750"]
 [BlackElo "2698"]
 [ECO "B01"]
-[EventDate "2017.05.03"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. Nc4 
 Qc7 8. Qf3 Nb6 9. Bf4 Qd7 10. Nxb6 axb6 11. O-O-O Qd8 12. h3 e6 13. Bc4 
@@ -621,7 +573,6 @@ Qh6+ Ke7 32. Qf6+ 1/2-1/2
 
 [Event "21. European Teams"]
 [Site "Hersonissos GRE"]
-[Date "2017.10.31"]
 [Round "4.1"]
 [White "Grischuk, Alexander"]
 [Black "Leko, Peter"]
@@ -629,7 +580,6 @@ Qh6+ Ke7 32. Qf6+ 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2679"]
 [ECO "A46"]
-[EventDate "2017.10.28"]
 
 1. d4 Nf6 2. Bf4 e6 3. e3 c5 4. Nf3 cxd4 5. exd4 b6 6. Bb5 Be7 7. h3 O-O 
 8. O-O Bb7 9. Re1 d6 10. a4 Na6 11. Na3 Nc7 12. Bf1 a6 13. Rc1 Rc8 14. c4 

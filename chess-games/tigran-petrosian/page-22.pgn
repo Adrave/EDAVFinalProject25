@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bhend Edwin (SUI)"]
@@ -22,7 +21,6 @@ Nc6 32.fxe6 Bxe6 33.Ng5 Bf7 34.Nxd5 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Hoen Ragnar (NOR)"]
@@ -44,7 +42,6 @@ Rxc8 25.Bxe4 Nxe4 26.Qe5 Bd5 27.Rf1 Qxa5 28.Nxd5 Kf7 29.f3 Qxa3
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Jimenez Eleazar (CUB)"]
@@ -68,7 +65,6 @@ Ke6 42.Kxe3 Kxe5 43.b4 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Johansson Mattias"]
@@ -89,7 +85,6 @@ Nc6 20.Qxg7 Rh7 21.Qg8 Ne5 22.Be2 Bc6 23.Rxa6 Rd8 24.Rxc6 Nxc6
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Najdorf Miguel (POL)"]
@@ -112,7 +107,6 @@ Rd8 31.Qb3 Rxd2 32.Rcd1 Bh6 33.c4 Rxd1 34.Qxd1 Qxc4 35.Qd8+ Bf8
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -141,7 +135,6 @@ Kf8 72.Ne4 Kf7 73.e6+ 1-0
 
 [Event "Ch Moscow (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Zaitsev Igor A (RUS)"]
@@ -161,7 +154,6 @@ Nxd5 20.Qxf7+ Qxf7 21.Rxf7 Bxe6 22.Nxd5 Bxd5 23.Rxc7 Na6 24.Rd7 1-0
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Birbrager Isaak (UZB)"]
@@ -187,7 +179,6 @@ Rxg2 48.g4 Rf2 49.Rd7+ Kf8 50.Kg6 Rxf3 51.Kxh6 b5 52.Kxg5 b4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -209,7 +200,6 @@ f4 20.gxf4 Bh3 21.Ne3 Bxf1 22.Rxf1 Ng6 23.Bg4 Nxf4 24.Rxf4 Rxf4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "20"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -232,7 +222,6 @@ Ra2 32.Qb4 Rc2 33.Bf2 Qc7 34.Qe7 Bxh3 35.gxh3 Rxf2 36.Kxf2 Qh2+
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "22"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -254,7 +243,6 @@ Nxc5 32.bxc5 Bxe4 33.Bb3 Bf5 34.Ra7 Nd7 35.Nf3 Qb8 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -277,7 +265,6 @@ Nxf3+ 37.Kg2 Qg4 38.b5 Nh4+ 39.Kf1 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -301,7 +288,6 @@ Rd8 36.Bxc6 Rc8 37.Rd7 Rxc6 38.b4 a5 39.Rxe7 axb4 40.axb4 Kf8
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -324,7 +310,6 @@ h5 36.Nc7+ Ke5 37.Kb4 1-0
 
 [Event "Olympiad Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Yudovich Mikhail M Jr (RUS)"]
@@ -347,7 +332,6 @@ Rf6 36.Qd4 1-0
 
 [Event "Ch Chess Club Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Genin A (RUS)"]
@@ -371,7 +355,6 @@ Kg7 43.Ra7+ Kh6 44.Kg2 e3 45.fxe3 Rxe3 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "17"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -391,7 +374,6 @@ c5 14.dxc5 Bxc5 15.Ndf3 dxc4 16.bxc4 Be8 17.Rfd1 Qc7 18.Bc3 Be7
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "8"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -414,7 +396,6 @@ Kh8 38.Qa5 Nxe1 0-1
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -433,7 +414,6 @@ Nxc5 14.Rad1 Rc8 15.Qb1 Nf6 16.Be3 Qc7 17.a3 Qb8 18.Bd4 Rfd8 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -453,7 +433,6 @@ Qc7 14.exd5 b4 15.dxc6 Bxc6 16.Qe5 Ra7 17.Kb1 bxc3 18.Rc1 Qxe5
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "15"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -475,7 +454,6 @@ Qh7 33.Qd1 Na6 34.Na2 Kf7 35.Ke1 Be7 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -495,7 +473,6 @@ Rxa1 20.Qxa1 Nd3 21.Rb1 Ng7 22.Nb5 Bg4 23.Qa2 Nf5 1/2-1/2
 
 [Event "Olympiad Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -516,7 +493,6 @@ Bc7 25.Rfe1 Bc8 26.Qf3 Be6 1/2-1/2
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -541,7 +517,6 @@ Bc2 47.b4 Bd3 48.c5 Bb5 1/2-1/2
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1967.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lengyel Levente (HUN)"]

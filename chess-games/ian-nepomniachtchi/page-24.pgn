@@ -1,6 +1,5 @@
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.24"]
 [Round "2.12"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -9,7 +8,6 @@
 [WhiteElo "2751"]
 [BlackElo "2783"]
 [PlyCount "86"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -27,7 +25,6 @@ Bxa5 Rxa3 35. Bc7 dxc4 36. d5 Rd3 37. d6 Bf8 38. Re8 c3 39. Rc8 c2 40. Bd8 Rxd6
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.24"]
 [Round "2.14"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -36,7 +33,6 @@ Bxa5 Rxa3 35. Bc7 dxc4 36. d5 Rd3 37. d6 Bf8 38. Re8 c3 39. Rc8 c2 40. Bd8 Rxd6
 [WhiteElo "2751"]
 [BlackElo "2783"]
 [PlyCount "70"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -53,7 +49,6 @@ Nd4 Bd7 34. Nf5 Bxf5 35. Bxf5 a4 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.24"]
 [Round "2.16"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -62,7 +57,6 @@ Nd4 Bd7 34. Nf5 Bxf5 35. Bxf5 a4 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2783"]
 [PlyCount "52"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -77,7 +71,6 @@ dxe5 22. Be7 Nxc4 23. Re1 h6 24. h4 Qh3 25. Qxc4 Qxg3+ 26. Kf1 Qxf3+ 1/2-1/2
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.24"]
 [Round "2.2"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -86,7 +79,6 @@ dxe5 22. Be7 Nxc4 23. Re1 h6 24. h4 Qh3 25. Qxc4 Qxg3+ 26. Kf1 Qxf3+ 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2783"]
 [PlyCount "54"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -102,7 +94,6 @@ Bd5 1/2-1/2
 
 [Event "9th London Classic 2017"]
 [Site "London ENG"]
-[Date "2017.12.01"]
 [Round "1.2"]
 [White "Nepomniachtchi, I."]
 [Black "Aronian, L."]
@@ -111,7 +102,6 @@ Bd5 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2805"]
 [PlyCount "55"]
-[EventDate "2017.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -126,7 +116,6 @@ Qc6 28. R7a6 1/2-1/2
 
 [Event "9th London Classic 2017"]
 [Site "London ENG"]
-[Date "2017.12.04"]
 [Round "3.4"]
 [White "Nepomniachtchi, I."]
 [Black "Caruana, F."]
@@ -135,7 +124,6 @@ Qc6 28. R7a6 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2799"]
 [PlyCount "61"]
-[EventDate "2017.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -150,7 +138,6 @@ Nd2 Ra7 16. Nde4 h6 17. Nd5 Ra5 18. c4 c6 19. bxc6 bxc6 20. Nb6 Qc7 21. Bd2 Ra2
 
 [Event "9th London Classic 2017"]
 [Site "London ENG"]
-[Date "2017.12.11"]
 [Round "9.1"]
 [White "Nepomniachtchi, I."]
 [Black "Vachier Lagrave, M."]
@@ -159,7 +146,6 @@ Nd2 Ra7 16. Nde4 h6 17. Nd5 Ra5 18. c4 c6 19. bxc6 bxc6 20. Nb6 Qc7 21. Bd2 Ra2
 [WhiteElo "2729"]
 [BlackElo "2789"]
 [PlyCount "38"]
-[EventDate "2017.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -172,7 +158,6 @@ Bd7 9. Ndb5 e5 10. Bg5 a6 11. a3 axb5 12. axb4 Rxa1 13. Qxa1 dxc4 14. O-O O-O
 
 [Event "9th London Classic TB"]
 [Site "London ENG"]
-[Date "2017.12.11"]
 [Round "3"]
 [White "Nepomniachtchi, I."]
 [Black "Caruana, F."]
@@ -181,7 +166,6 @@ Bd7 9. Ndb5 e5 10. Bg5 a6 11. a3 axb5 12. axb4 Rxa1 13. Qxa1 dxc4 14. O-O O-O
 [WhiteElo "2729"]
 [BlackElo "2799"]
 [PlyCount "134"]
-[EventDate "2017.12.11"]
 [EventType "match (blitz)"]
 [EventRounds "4"]
 [EventCountry "ENG"]
@@ -201,7 +185,6 @@ f5+ Ke5 66. g5 fxg5+ 67. Kxg5 Nf4 1/2-1/2
 
 [Event "9th London Classic TB"]
 [Site "London ENG"]
-[Date "2017.12.11"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Caruana, F."]
@@ -210,7 +193,6 @@ f5+ Ke5 66. g5 fxg5+ 67. Kxg5 Nf4 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2799"]
 [PlyCount "125"]
-[EventDate "2017.12.11"]
 [EventType "match (blitz)"]
 [EventRounds "4"]
 [EventCountry "ENG"]
@@ -229,7 +211,6 @@ Ne3 Bb6 61. Nc1 Nd4+ 62. Kg3 Be6 63. Rd3 1/2-1/2
 
 [Event "9th London Classic 2017"]
 [Site "London ENG"]
-[Date "2017.12.06"]
 [Round "5.4"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -238,7 +219,6 @@ Ne3 Bb6 61. Nc1 Nd4+ 62. Kg3 Be6 63. Rd3 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2760"]
 [PlyCount "60"]
-[EventDate "2017.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -253,7 +233,6 @@ Qe5 Rxd4 28. Qxf6 gxf6 29. Rb2 Rxa4 30. Rxb6 Rxa2 1/2-1/2
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.26"]
 [Round "1.7"]
 [White "Nepomniachtchi, I."]
 [Black "Laznicka, V."]
@@ -262,7 +241,6 @@ Qe5 Rxd4 28. Qxf6 gxf6 29. Rb2 Rxa4 30. Rxb6 Rxa2 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2647"]
 [PlyCount "103"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -280,7 +258,6 @@ Ra2 52. Rf2+ 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "1.7"]
 [White "Nepomniachtchi, I."]
 [Black "Kryvoruchko, Y."]
@@ -289,7 +266,6 @@ Ra2 52. Rf2+ 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2689"]
 [PlyCount "89"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 cxd4 8.
@@ -304,7 +280,6 @@ Rf1+ 40. Kg3 Ke8 41. Ra7 Rd1 42. Ra5 Ke7 43. Ra7+ Kd6 44. Ra6+ Ke5 45. Re6+
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "15.2"]
 [White "Nepomniachtchi, I."]
 [Black "Ding Liren"]
@@ -313,7 +288,6 @@ Rf1+ 40. Kg3 Ke8 41. Ra7 Rd1 42. Ra5 Ke7 43. Ra7+ Kd6 44. Ra6+ Ke5 45. Re6+
 [WhiteElo "2729"]
 [BlackElo "2777"]
 [PlyCount "107"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. O-O Nxb5 6. Nxb5 c6 7. Nc3 d6 8.
@@ -329,7 +303,6 @@ Kd3 Kd5 54. Kxc2 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "17.5"]
 [White "Nepomniachtchi, I."]
 [Black "Savchenko, B."]
@@ -338,7 +311,6 @@ Kd3 Kd5 54. Kxc2 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2566"]
 [PlyCount "84"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 d5 6. e5 a6 7. Nc3 Bg4 8. Be2
@@ -352,7 +324,6 @@ a3 Nc6 35. b4 Bd8 36. Rd3 Bg5 37. R3d2 Rfg8 38. Kf1 Rf8 39. Re2 Re8 40. Ng7 Re7
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.08"]
 [Round "6.5"]
 [White "Nepomniachtchi, Ian"]
 [Black "Svidler, Peter"]
@@ -360,7 +331,6 @@ a3 Nc6 35. b4 Bd8 36. Rd3 Bg5 37. R3d2 Rfg8 38. Kf1 Rf8 39. Re2 Re8 40. Ng7 Re7
 [WhiteElo "2742"]
 [BlackElo "2749"]
 [ECO "C91"]
-[EventDate "2017.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. d4 d6 9. c3 Bg4 10. Be3 Bh5 11. Nbd2 Na5 12. Bc2 Ng4 13. Qe2 Nxe3 14. 
@@ -374,7 +344,6 @@ Bb4 38. Rxc3 Bxc3 39. b6 Ba5 40. b7 Bc7 41. Bc2 Kf8 42. Kd3 Ke7 43. Kc4 f6
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.10"]
 [Round "8.3"]
 [White "Nepomniachtchi, Ian"]
 [Black "Carlsen, Magnus"]
@@ -382,7 +351,6 @@ Bb4 38. Rxc3 Bxc3 39. b6 Ba5 40. b7 Bc7 41. Bc2 Kf8 42. Kd3 Ke7 43. Kc4 f6
 [WhiteElo "2742"]
 [BlackElo "2822"]
 [ECO "A29"]
-[EventDate "2017.08.02"]
 
 1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 g6 5. d4 exd4 6. Nxd4 Bg7 7. Bg2 O-O 
 8. Bf4 Nh5 9. Nxc6 dxc6 10. Qxd8 Rxd8 11. Bxc7 Rd4 12. c5 Rc4 13. O-O Rxc5
@@ -394,7 +362,6 @@ Bb4 38. Rxc3 Bxc3 39. b6 Ba5 40. b7 Bc7 41. Bc2 Kf8 42. Kd3 Ke7 43. Kc4 f6
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.14"]
 [Round "3.4"]
 [White "Nepomniachtchi, Ian"]
 [Black "Navara, David"]
@@ -402,7 +369,6 @@ Bb4 38. Rxc3 Bxc3 39. b6 Ba5 40. b7 Bc7 41. Bc2 Kf8 42. Kd3 Ke7 43. Kc4 f6
 [WhiteElo "2751"]
 [BlackElo "2737"]
 [ECO "B12"]
-[EventDate "2017.08.14"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 Nd7 6. Be2 f6 7. Bf4 g5 8. Bg3
 Bxb1 9. Qxb1 g4 10. Nh4 fxe5 11. Bxg4 Qf6 12. Bh5+ Kd8 13. O-O e4 14. f3 
@@ -412,7 +378,6 @@ Bg5 21. Qe1 1/2-1/2
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.15"]
 [Round "4.3"]
 [White "Nepomniachtchi, Ian"]
 [Black "Anand, Viswanathan"]
@@ -420,7 +385,6 @@ Bg5 21. Qe1 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2783"]
 [ECO "C45"]
-[EventDate "2017.08.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. Qe2 
 dxe4 8. Bxe4 Nxe4 9. Qxe4+ Qe7 10. Qxe7+ Bxe7 11. Bf4 Bf5 12. Bxc7 Bxc2 
@@ -434,7 +398,6 @@ Kh2 1/2-1/2
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.14"]
 [Round "1.5"]
 [White "Nepomniachtchi, Ian"]
 [Black "Dominguez Perez, Leinier"]
@@ -442,7 +405,6 @@ Kh2 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2739"]
 [ECO "C65"]
-[EventDate "2017.08.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Nd7 7. Nc4 
 f6 8. Bd2 Nf8 9. Nh4 g6 10. Be3 Bxe3 11. Nxe3 Ne6 12. Qd2 Qe7 13. g3 b6 
@@ -457,7 +419,6 @@ bxc4 Rxc4+ 50. Kxb6 Rxa4 51. Kb5 1/2-1/2
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.16"]
 [Round "8.3"]
 [White "Nepomniachtchi, Ian"]
 [Black "Karjakin, Sergey"]
@@ -465,7 +426,6 @@ bxc4 Rxc4+ 50. Kxb6 Rxa4 51. Kb5 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2773"]
 [ECO "B92"]
-[EventDate "2017.08.14"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 
 8. O-O O-O 9. Qd3 Be6 10. Bd2 Nbd7 11. Nd5 Bxd5 12. exd5 Nc5 13. Nxc5 dxc5
@@ -476,7 +436,6 @@ bxc4 Rxc4+ 50. Kxb6 Rxa4 51. Kb5 1/2-1/2
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.15"]
 [Round "6.3"]
 [White "Nepomniachtchi, Ian"]
 [Black "Le, Quang Liem"]
@@ -484,7 +443,6 @@ bxc4 Rxc4+ 50. Kxb6 Rxa4 51. Kb5 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2739"]
 [ECO "C45"]
-[EventDate "2017.08.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nc3 
 d6 8. Qg3 h5 9. h4 Bd4 10. Bg5 Qe5 11. Qxe5+ Bxe5 12. O-O-O Bxc3 13. bxc3 
@@ -502,7 +460,6 @@ Bf3 Nh6 27. Bc3 Ng4 28. Bxg4 hxg4 29. Rxg4 Ke8 30. e5 dxe5 31. fxe5 f5 32.
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "9.3"]
 [White "Nepomniachtchi, Ian"]
 [Black "Le, Quang Liem"]
@@ -510,7 +467,6 @@ Bf3 Nh6 27. Bc3 Ng4 28. Bxg4 hxg4 29. Rxg4 Ke8 30. e5 dxe5 31. fxe5 f5 32.
 [WhiteElo "2751"]
 [BlackElo "2739"]
 [ECO "A35"]
-[EventDate "2017.08.17"]
 
 1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. cxd5 Nxd5
 8. Qb3 e6 9. Bb5 Bg7 10. Bxc6+ bxc6 11. O-O O-O 12. Na4 Qd6 13. Re1 Rb8 
@@ -526,7 +482,6 @@ Bxe5 Rxe5 33. Rxe5 Qf6 34. Rxh5+ gxh5 35. Qc2+ Kg8 36. Qc8+ Bf8 37. Qc1 h4
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "2.2"]
 [White "Nepomniachtchi, Ian"]
 [Black "Kasparov, Garry"]
@@ -534,7 +489,6 @@ Bxe5 Rxe5 33. Rxe5 Qf6 34. Rxh5+ gxh5 35. Qc2+ Kg8 36. Qc8+ Bf8 37. Qc1 h4
 [WhiteElo "2751"]
 [BlackElo "2812"]
 [ECO "B84"]
-[EventDate "2017.08.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 
 8. a4 Nc6 9. Be3 O-O 10. Qd2 Qc7 11. Rfd1 Bd7 12. f3 Na5 13. Qe1 Rac8 14. 
@@ -548,7 +502,6 @@ Rxd5 44. Bf4 Be7 45. Rbe4 Bf6 46. Rb4 Be7 47. Rbe4 Bf6 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "17.2"]
 [White "Nepomniachtchi, Ian"]
 [Black "Nakamura, Hikaru"]
@@ -556,7 +509,6 @@ Rxd5 44. Bf4 Be7 45. Rbe4 Bf6 46. Rb4 Be7 47. Rbe4 Bf6 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2792"]
 [ECO "B76"]
-[EventDate "2017.08.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 
 8. Qd2 Nc6 9. O-O-O d5 10. Nxc6 bxc6 11. Bh6 Qb6 12. h4 dxe4 13. Bxg7 e3 
@@ -569,7 +521,6 @@ Rd5 38. Qc4 Kg7 39. Qe4 Kf7 40. Qc4 Kg7 41. Qe4 Kf7 1/2-1/2
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "14.2"]
 [White "Nepomniachtchi, Ian"]
 [Black "Karjakin, Sergey"]
@@ -577,7 +528,6 @@ Rd5 38. Qc4 Kg7 39. Qe4 Kf7 40. Qc4 Kg7 41. Qe4 Kf7 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2773"]
 [ECO "C50"]
-[EventDate "2017.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. c3 d5 7. exd5 Nxd5 
 8. Nbd2 Nb6 9. Bb5 Bd6 10. Re1 Bg4 11. h3 Bh5 12. Ne4 f5 13. Ng3 Bxf3 14. 

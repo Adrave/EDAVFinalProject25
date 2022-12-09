@@ -1,13 +1,11 @@
 [Event "13th Soviet Team Cup"]
 [Site "Kiev URS"]
-[Date "1984.05.??"]
 [Round "3"]
 [White "Mikhail Tal"]
 [Black "Lev Polugaevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Sochi"]
 [Site "Sochi URS"]
-[Date "1984.10.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Dragan Barlov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -39,14 +35,12 @@
 
 [Event "Titograd"]
 [Site "Titograd MNE"]
-[Date "1984.12.??"]
 [Round "6"]
 [White "Mikhail Tal"]
 [Black "Dragoljub Velimirovic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -59,14 +53,12 @@
 
 [Event "Tallinn"]
 [Site "Talinn URS"]
-[Date "1985.02.28"]
 [Round "6"]
 [White "Mikhail Tal"]
 [Black "Viktor Gavrikov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -79,14 +71,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1984.10.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Anatoli Vaisser"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "132"]
 [WhiteElo "?"]
 
@@ -106,14 +96,12 @@
 
 [Event "Nimzowitsch Memorial"]
 [Site "Naestved DEN"]
-[Date "1985.09.14"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Predrag Nikolic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A20"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -129,14 +117,12 @@
 
 [Event "5th ECC quarterfinal"]
 [Site "Tallinn URS"]
-[Date "1986.??.??"]
 [Round "3.2"]
 [White "Mikhail Tal"]
 [Black "Svend Hamann"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -152,14 +138,12 @@
 
 [Event "21st Costa del Sol"]
 [Site "Torremolinos ESP"]
-[Date "1981.05.01"]
 [Round "10"]
 [White "Mikhail Tal"]
 [Black "Jesus Diez del Corral"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -175,14 +159,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi RUS"]
-[Date "1982.12.19"]
 [Round "14"]
 [White "Mikhail Tal"]
 [Black "Jonathan Speelman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "????.??.??"]
 [PlyCount "24"]
 [WhiteElo "?"]
 
@@ -193,14 +175,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1982.12.17"]
 [Round "12"]
 [White "Mikhail Tal"]
 [Black "Laszlo Hazai"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "102"]
 [WhiteElo "?"]
 

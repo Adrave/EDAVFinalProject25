@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Cap d'Agde (France)"]
-[Date "2002.??.??"]
 [Round "9"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Beshukov Sergei (RUS)"]
@@ -22,7 +21,6 @@ Ne5 26.Rh4 Rxh4 27.Qxh4 Bf8 28.Qh8 Bc8 29.Bd4 Qe7 30.Qh4 Bg7
 
 [Event "It (cat.4)"]
 [Site "Clichy (France)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Foisor Ovidiu Doru (ROM)"]
@@ -43,7 +41,6 @@ Nd6 25.Qb4 1/2-1/2
 
 [Event "It (cat.4)"]
 [Site "Clichy (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Le Roux Jean-Pierre (FRA)"]
@@ -66,7 +63,6 @@ Qe3+ 36.Kf1 Qc1+ 37.Kf2 Qe3+ 1/2-1/2
 
 [Event "It (cat.4)"]
 [Site "Clichy (France)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Mrdja Milan (CRO)"]
@@ -93,7 +89,6 @@ Kb4 60.Kc2 Kc5 1/2-1/2
 
 [Event "It (cat.4)"]
 [Site "Clichy (France)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Royer Sylvain (FRA)"]
@@ -119,7 +114,6 @@ Kd5 54.Kxf5 Bxf2 55.Nd3 Be3 56.Nb4+ Kxd4 1/2-1/2
 
 [Event "It (cat.4)"]
 [Site "Clichy (France)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Spielmann Alain (FRA)"]
@@ -141,7 +135,6 @@ f3 31.Ne5 h6 32.Ng6+ Kh7 33.Nf8+ Kh8 34.Bc3 Bxc3 35.Rh7# 1-0
 
 [Event "It"]
 [Site "Creteil (France)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Lepan Marvin (FRA)"]
@@ -167,7 +160,6 @@ Rc2 1/2-1/2
 
 [Event "It"]
 [Site "Creteil (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Lukov Valentin (BUL)"]
@@ -191,7 +183,6 @@ Qb8 43.Qf2 Ke7 44.Kg1 g6 1/2-1/2
 
 [Event "It"]
 [Site "Creteil (France)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Mohandesi Shahin (IRI)"]
@@ -215,7 +206,6 @@ Rxg2 43.cxb6 Rg1+ 44.Ke2 Rxc1 45.b7 Rc2+ 0-1
 
 [Event "It"]
 [Site "Creteil (France)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Rouzaud Philippe (FRA)"]
@@ -239,7 +229,6 @@ Ke7 42.Qb7+ Kf6 43.Rf8+ 1-0
 
 [Event "Ch France (team) (juniors) 2001/02"]
 [Site "France"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Shoker Samy (FRA)"]
@@ -265,7 +254,6 @@ Qe5+ 52.Kb1 Qe4+ 53.Ka1 Rd7 54.Qg3 Rd1+ 55.Kb2 Qd4+ 0-1
 
 [Event "Ch France (team) (juniors) 2002/03"]
 [Site "France"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Shoker Samy (FRA)"]
@@ -287,7 +275,6 @@ Rb7 32.Bxe4 e6 33.Nd4 Rb8 34.c6 a6 35.Bd3 1-0
 
 [Event "Ch France (team) 2002"]
 [Site "France"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Giffard Nicolas (FRA)"]
@@ -317,7 +304,6 @@ Kf4 77.Re2 e3+ 78.Kf1 Rh1+ 0-1
 
 [Event "Ch France (juniors) (under 16)"]
 [Site "Hyeres (France)"]
-[Date "2002.??.??"]
 [Round "10"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Beudaert Xavier (FRA)"]
@@ -340,7 +326,6 @@ Nf5 36.Re6+ Kd3 37.Nxg6 Ne3+ 1-0
 
 [Event "Ch France (juniors) (under 16)"]
 [Site "Hyeres (France)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Cotonnec Melkior (FRA)"]
@@ -363,7 +348,6 @@ Qxd7 35.Nxd7 Kxd7 36.Kg2 Ke6 37.Kf3 Ke5 1-0
 
 [Event "Ch Paris (open)"]
 [Site "Paris (France)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bernard Vincent (FRA)"]
@@ -388,7 +372,6 @@ Bxc4 42.a6 Rd8 43.Qg1 Bxa6 44.Rxa6 Rd1 45.Nf1 Qd3 46.Rf6 Qxe4
 
 [Event "Ch Paris (open)"]
 [Site "Paris (France)"]
-[Date "2002.??.??"]
 [Round "9"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "David Alberto (LUX)"]
@@ -415,7 +398,6 @@ f4 59.Bd5 Kb2 60.h5 a3 61.h6 Bc2 0-1
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Maze Sebastien (FRA)"]
@@ -437,7 +419,6 @@ axb2 25.Rxb2 Ra7 26.Rdb4 Ra3 27.Bc4 Rxb4 28.Rxb4 g5 29.Bb3 Kg7
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Shirazi Kamran (USA)"]
@@ -463,7 +444,6 @@ Rc2+ 53.Kg1 h5 54.Kh1 Rc3 55.Kg2 Rd3 56.Kh2 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Brochet Philippe (FRA)"]
@@ -489,7 +469,6 @@ Qf4+ 53.Kg1 Qd4+ 54.Kh1 Qa1+ 55.Kh2 Qe5+ 56.Kg1 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Shchekachev Andrei (RUS)"]
@@ -514,7 +493,6 @@ Nb4 43.Nxb4 Rxb4 44.Qa3 Qe5+ 45.Kg2 Qb2 46.Qe3 Qe5 47.Qa3 Qe4+
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bagheri Amir (FRA)"]
@@ -533,7 +511,6 @@ Nc7 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Paris (France)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Gozzoli Yannick (FRA)"]
@@ -551,7 +528,6 @@ c4 8.d4 cxd3 9.Qxd3 Ne5 10.Nxe5 dxe5 11.Bxd7+ Nxd7 12.Nd2 Qc7 1/2-1/2
 
 [Event "WYb12"]
 [Site "Heraklio GRE"]
-[Date "2002.11.19"]
 [Round "6"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Saric, Ivan"]
@@ -559,7 +535,6 @@ c4 8.d4 cxd3 9.Qxd3 Ne5 10.Nxe5 dxe5 11.Bxd7+ Nxd7 12.Nd2 Qc7 1/2-1/2
 [WhiteElo "2358"]
 [BlackElo "2010"]
 [ECO "C84"]
-[EventDate "2002.11.15"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O 
 8. e5 Nd5 9. Nxd4 Nb6 10. Bb3 Na5 11. Nf5 Nxb3 12. axb3 Re8 13. Be3 d6 14.
@@ -569,7 +544,6 @@ Rb8 20. Ba7 Kf8 21. Rad1 b5 22. Bxb8 1-0
 
 [Event "WYb12"]
 [Site "Heraklio GRE"]
-[Date "2002.11.21"]
 [Round "7"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Cordova, Emilio"]
@@ -577,7 +551,6 @@ Rb8 20. Ba7 Kf8 21. Rad1 b5 22. Bxb8 1-0
 [WhiteElo "2358"]
 [BlackElo "2170"]
 [ECO "B40"]
-[EventDate "2002.11.15"]
 
 1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. Nbd2 d6 5. g3 g6 6. Bg2 Bg7 7. O-O Nge7 8.
  Re1 O-O 9. h4 e5 10. a4 Bg4 11. c3 Kh8 12. Qc2 f5 13. Nh2 Bh5 14. f3 Ng8 

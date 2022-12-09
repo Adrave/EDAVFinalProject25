@@ -1,6 +1,5 @@
 [Event "It \"OHRA\" (swiss)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Piket Jeroen (NED)"]
@@ -23,7 +22,6 @@ f5 31.hxg7 Bxg7 32.Nd6 Re5 33.Rf4 Rd8 34.Nc4 Re7 35.Rxe3 Rd1
 
 [Event "It \"OHRA\" (swiss)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Serper Grigory (USA)"]
@@ -49,7 +47,6 @@ Rc4+ 47.Ke3 Kxg5 48.c3 Kg4 49.Rf3 Rc5 50.Kf2 Rd5 51.Rf4+ Kg5
 
 [Event "Zt"]
 [Site "India"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Rahman Tahmidur (BAN)"]
@@ -74,7 +71,6 @@ Ke6 48.b5 Kd7 49.b6 Kc8 50.Qc2+ 1-0
 
 [Event "Zt"]
 [Site "India"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shadarevian Michael (SYR)"]
@@ -98,7 +94,6 @@ Qg6 38.Nhf3 Kh8 39.Nxe5 fxe5 40.Nf5 Rf7 41.Nh4 gxh4 42.Rxf7 Bxh3
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -121,7 +116,6 @@ Rxd4+ 37.Ke3 Re4+ 38.Kf2 1-0
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Lautier Joel (FRA)"]
@@ -147,7 +141,6 @@ Rd7 54.Rxh6 Rd4+ 55.Kxf5 Rd5+ 56.Ke4 Rb5 57.Rh7+ 1-0
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Rogers Ian (AUS)"]
@@ -170,7 +163,6 @@ Qc7 26.Bxa4 Bc6 27.Qc2 Bb7 28.c5 Rd5 29.Bb3 Rhd8 30.Rac1 Qc6
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ye Rongguang (CHN)"]
@@ -197,7 +189,6 @@ Ke1 53.Rc1+ Ke2 54.b6 Qb5 55.Rc7 Qe5 56.Rc2+ Kd1 57.Rc1+ Ke2
 
 [Event "It"]
 [Site "New Delhi (India)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Polgar Sofia (HUN)"]
@@ -222,7 +213,6 @@ axb5 36.Qa8 Rg6 37.Bb6 Rg8 38.Rc8 Qxc8 39.Qxc8 Bxb6 40.Qc6 Bc5
 
 [Event "It"]
 [Site "New Delhi (India)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Torre Eugenio (PHI)"]
@@ -247,7 +237,6 @@ Rad8 42.Nd7 Re3 43.Nf6+ Kf8 44.Nxh7+ Kg8 45.Ra7 g5 46.Nf6+ Kf8
 
 [Event "Olympiad"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Boshku Harallamb (ALB)"]
@@ -275,7 +264,6 @@ Rc7 66.Nf2 Rc2 67.Rd1 g5 68.hxg5 hxg5 69.Kf3 1-0
 
 [Event "Olympiad"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Milos Gilberto (BRA)"]
@@ -297,7 +285,6 @@ Nxe4 26.Bxe4 f5 27.Bh6 Bd8 28.Bd3 Rc3 29.Qd1 Qxd5 30.Ne3 Qc6
 
 [Event "Olympiad"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Morovic Fernandez Ivan (CRO)"]
@@ -320,7 +307,6 @@ Bxg4 31.Qb4 Be2 32.Qxd6 Bxc4 33.c7 Re8 34.Qe6 Rff8 35.c8Q Rxc8
 
 [Event "Olympiad"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -342,7 +328,6 @@ Qd7 26.b3 Rxc5 27.Rxc5 Qxd6 28.Rc4 Qe5 29.Qf3 Rf8 30.Rc6 Qxg5
 
 [Event "Ch World (match) (cand.) (1/8)"]
 [Site "Madras (India)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Dreev Alexey (RUS)"]
@@ -368,7 +353,6 @@ Bxa7 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Munich (Germany)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Christiansen Larry M (USA)"]
@@ -387,7 +371,6 @@ Bg7 8.O-O e6 9.Nc3 f5 10.Rc1 O-O 11.e3 d6 12.d4 Qe7 13.Qd2 Rad8
 
 [Event "It (cat.14)"]
 [Site "Munich (Germany)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hort Vlastimil (GER)"]
@@ -406,7 +389,6 @@ c5 14.Ne4 Rc8 15.Nxf6+ 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -424,7 +406,6 @@ O-O 8.Qd2 Be7 9.O-O-O b6 10.Bc4 Bb7 11.Rhe1 Bd5 12.Bxd5 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -452,7 +433,6 @@ Rb6 57.Rxe4+ Kh3 58.Rxb6 Rxb6+ 59.Kc2 Rh6 60.Re7 g6 61.Re6 Kxh4
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Short Nigel D (ENG)"]
@@ -476,7 +456,6 @@ Rd3 43.Bc5 Bd5 44.Bxd6 cxd6 45.Ke1 a4 46.Nc1 axb3 47.axb3 1/2-1/2
 
 [Event "Interpolis"]
 [Site "Tilburg NED"]
-[Date "1991.10.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Korchnoi, Viktor"]
@@ -484,7 +463,6 @@ Rd3 43.Bc5 Bd5 44.Bxd6 cxd6 45.Ke1 a4 46.Nc1 axb3 47.axb3 1/2-1/2
 [WhiteElo "2650"]
 [BlackElo "2610"]
 [ECO "C11"]
-[EventDate "1991.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 Be7 7. Nxf6+ 
 Bxf6 8. h4 O-O 9. Qd2 e5 10. O-O-O e4 11. Bxf6 Nxf6 12. Ne5 Be6 13. Kb1 c5
@@ -501,7 +479,6 @@ Rcc6 54. Rb5+ Kf4 55. Rf1+ Kg4 56. Re1 Rb6 57. Rxe4+ Kh3 58. Rxb6 Rxb6+
 
 [Event "It"]
 [Site "Munich GER"]
-[Date "1991.??.??"]
 [Round "11"]
 [White "Anand, Viswanathan"]
 [Black "Hort, Vlastimil"]
@@ -517,7 +494,6 @@ Rcc6 54. Rb5+ Kf4 55. Rf1+ Kg4 56. Re1 Rb6 57. Rxe4+ Kh3 58. Rxb6 Rxb6+
 
 [Event "It"]
 [Site "Munich GER"]
-[Date "1991.??.??"]
 [Round "13"]
 [White "Anand, Viswanathan"]
 [Black "Christiansen, Larry M"]
@@ -533,7 +509,6 @@ Kh8 15. d5 Ne5 16. Qe2 1/2-1/2
 
 [Event "Wch candidates qf"]
 [Site "Brussels BEL"]
-[Date "1991.08.??"]
 [Round "3"]
 [White "Anand, Viswanathan"]
 [Black "Karpov, Anatoly"]
@@ -554,14 +529,12 @@ Qd6 Qf7 45. Rf8 Qb7 46. Qd8 Qe4 47. Qh4+ Kg7 1/2-1/2
 
 [Event "Linares"]
 [Site "Linares ESP"]
-[Date "1991.03.12"]
 [Round "12"]
 [White "Viswanathan Anand"]
 [Black "Jonathan Speelman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "1991.02.23"]
 [PlyCount "43"]
 [WhiteElo "?"]
 

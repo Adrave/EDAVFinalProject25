@@ -1,13 +1,11 @@
 [Event "Steinitz - Lasker World Championship Match"]
 [Site "Montreal CAN"]
-[Date "1894.03.29"]
 [Round "6"]
 [White "Wilhelm Steinitz"]
 [Black "Emanuel Lasker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "142"]
 [WhiteElo "?"]
 
@@ -28,14 +26,12 @@
 
 [Event "Lasker - Steinitz World Championship Rematch"]
 [Site "Moscow RUE"]
-[Date "1896.11.21"]
 [Round "5"]
 [White "Wilhelm Steinitz"]
 [Black "Emanuel Lasker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -51,14 +47,12 @@
 
 [Event "Lasker - Steinitz World Championship Rematch"]
 [Site "Moscow RUE"]
-[Date "1896.12.09"]
 [Round "9"]
 [White "Wilhelm Steinitz"]
 [Black "Emanuel Lasker"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -73,14 +67,12 @@
 
 [Event "Steinitz - Gunsberg World Championship Match"]
 [Site "New York, NY USA"]
-[Date "1890.12.09"]
 [Round "1"]
 [White "Wilhelm Steinitz"]
 [Black "Isidor Gunsberg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -93,14 +85,12 @@
 
 [Event "Steinitz - Gunsberg World Championship Match"]
 [Site "New York, NY USA"]
-[Date "1891.01.22"]
 [Round "19"]
 [White "Wilhelm Steinitz"]
 [Black "Isidor Gunsberg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -116,14 +106,12 @@
 
 [Event "Steinitz - Zukertort World Championship Match"]
 [Site "New Orleans, LA USA"]
-[Date "1886.03.12"]
 [Round "14"]
 [White "Wilhelm Steinitz"]
 [Black "Johannes Zukertort"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -140,14 +128,12 @@
 
 [Event "Steinitz - Zukertort World Championship Match"]
 [Site "New Orleans, LA USA"]
-[Date "1886.02.26"]
 [Round "10"]
 [White "Wilhelm Steinitz"]
 [Black "Johannes Zukertort"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -160,14 +146,12 @@
 
 [Event "Blindfold simul, 7b"]
 [Site "Oxford ENG"]
-[Date "1875.02.02"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Walter Parratt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -181,14 +165,12 @@
 
 [Event "GBR tour sim"]
 [Site "Great Britain"]
-[Date "1870.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Edwyn Anthony"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -203,14 +185,12 @@
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1862.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Francis Burden"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C58"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -225,14 +205,12 @@
 
 [Event "Vienna"]
 [Site "Vienna AUH"]
-[Date "1897.04.11"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Siegfried Reginald Wolf"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -245,14 +223,12 @@
 
 [Event "Simul, 21b"]
 [Site "Philadelphia, PA USA"]
-[Date "1898.04.23"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "David Stuart Robinson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -266,14 +242,12 @@
 
 [Event "Cable game"]
 [Site "?"]
-[Date "1898.12.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Liverpool Chess Club"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -288,14 +262,12 @@
 
 [Event "Simultaneous exhibition"]
 [Site "Newark"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Allies"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -309,14 +281,12 @@
 
 [Event "Simultaneous exhibition"]
 [Site "Newark"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Allies"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B27"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -331,14 +301,12 @@
 
 [Event "Montreal sim"]
 [Site "Montreal CAN"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Robert Short"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -354,14 +322,12 @@
 
 [Event "Simul, 23b"]
 [Site "Hilversum NED"]
-[Date "1896.05.06"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "J H de Ruwe"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C24"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -374,14 +340,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rotterdam NED"]
-[Date "1896.05.07"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "H Heyermans"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -397,14 +361,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rotterdam NED"]
-[Date "1896.05.07"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "A D de Klerck"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "106"]
 [WhiteElo "?"]
 
@@ -422,14 +384,12 @@
 
 [Event "Simul, 17b"]
 [Site "Haarlem NED"]
-[Date "1896.05.08"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Joan Diderik Tresling"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C22"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -441,14 +401,12 @@
 
 [Event "Philadelphia, PA USA"]
 [Site "Philadelphia, PA USA"]
-[Date "1882.12.12"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Jacob Elson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C00"]
-[EventDate "????.??.??"]
 [PlyCount "36"]
 [WhiteElo "?"]
 
@@ -460,14 +418,12 @@
 
 [Event "Philaldelphia"]
 [Site "Philaldelphia"]
-[Date "1883.??.??"]
 [Round "-"]
 [White "Wilhelm Steinitz"]
 [Black "Samuel R Barrett"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -485,14 +441,12 @@
 
 [Event "Simul, 20b"]
 [Site "New Orleans, LA USA"]
-[Date "1883.01.20"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "J G Blanchard"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -505,14 +459,12 @@
 
 [Event "Simul, 20b"]
 [Site "New Orleans, LA USA"]
-[Date "1883.01.20"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "James DeBenneville Seguin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -528,14 +480,12 @@
 
 [Event "Match"]
 [Site "Havana CUB"]
-[Date "1883.03.??"]
 [Round "6"]
 [White "Wilhelm Steinitz"]
 [Black "Celso Golmayo Zupide"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C00"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 

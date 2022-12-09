@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Straat E Sr"]
@@ -22,7 +21,6 @@ Bh4 31.bxa5 Rxf2+ 32.Kg1 Rb2 33.Bd1 Bf2+ 34.Kf1 Bd4 0-1
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Olland Adolf G (NED)"]
@@ -45,7 +43,6 @@ Qxd4 30.Qe6+ Kh8 31.Rh3 Ba6 32.a3 Bc4 33.Qe7 Bd3+ 34.Ka2 Bc4+
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Olland Adolf G (NED)"]
@@ -66,7 +63,6 @@ Bxc5 14.O-O Bb7 15.Ne4 Nxe4 16.Bxe4 Bxe4 17.Qxe4 Be7 18.Ne5 Bf6
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Weenink Henri G (NED)"]
@@ -89,7 +85,6 @@ Qxh2 35.R8e2 Qf4 36.Rh1 1/2-1/2
 
 [Event "Match"]
 [Site "Aussee (Austria)"]
-[Date "1921.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Maroczy Geza (HUN)"]
@@ -113,7 +108,6 @@ b5 30.g3 a4 31.Be2 f6 32.Bd3 h5 33.h4 Be6 34.Bf1 g5 35.Be2 Bf7
 
 [Event "Match"]
 [Site "Aussee (Austria)"]
-[Date "1921.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Maroczy Geza (HUN)"]
@@ -134,7 +128,6 @@ Rf8 19.Rf5+ Kd7 20.Rxf8 Qxa1 21.Rf7+ Kd8 22.Qb4 Nd7 23.Qd6 Qh8
 
 [Event "Match"]
 [Site "Aussee (Austria)"]
-[Date "1921.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Maroczy Geza (HUN)"]
@@ -155,7 +148,6 @@ Ne6 25.Bc2 Qe7 26.Bf5 Qd6 27.Bxe6 Qxe6 28.Kf2 Qxg4 29.Qe8+ 1/2-1/2
 
 [Event "Match"]
 [Site "Aussee (Austria)"]
-[Date "1921.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Maroczy Geza (HUN)"]
@@ -177,7 +169,6 @@ f5 19.Bc2 Qf7 20.Qxf7+ Kxf7 21.Bd2 Be6 22.Rfe1 Rfe8 23.Bb3 Bxb3
 
 [Event "Match"]
 [Site "Aussee (Austria)"]
-[Date "1921.??.??"]
 [Round "12"]
 [White "Euwe Max (NED)"]
 [Black "Maroczy Geza (HUN)"]
@@ -200,7 +191,6 @@ f6 30.Rxb6 Rxb6 31.Rxb6 axb6 32.Kg1 Nc5 33.Nxc5 Bxc5 34.Kf2 Kf7
 
 [Event ""]
 [Site "Broadstairs"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Silvanus"]
@@ -221,7 +211,6 @@ Qxd4 26.Bxd4 Rd8 27.Rfd1 a4 28.Kf2 Rd5 29.Ke3 Rad8 30.c6 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -243,7 +232,6 @@ e4 31.f7 Nd4+ 32.Ke3 Nf5+ 33.Kf4 Ne7 34.g7 Rxh7 35.f8Q Rh4+ 36.Ke5 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -268,7 +256,6 @@ Qf5+ 47.Ke2 Qg4+ 48.Kf1 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Schweiger J"]
@@ -291,7 +278,6 @@ b4 36.Kd2 bxc3+ 37.bxc3 Rc5 38.Rd8 Nh7 39.Rd7+ Kh8 40.Rff7 1-0
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Davidson Jacques"]
@@ -314,7 +300,6 @@ Rxh2 31.f3 Rah8 32.Qd7 Rxa2 33.Qxc7 Rd8 34.Re1 Qxf3 35.Qe5+ Kg8
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -336,7 +321,6 @@ Nxe5 20.b4 Bxf2+ 21.Kxf2 Ng4+ 22.Ke2 Qxg3 23.Bd4 Bb7 24.Rh3 Qd6
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -357,7 +341,6 @@ Rd8 25.Qd5 e6 26.Qxe6 Qe3+ 0-1
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1921.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Yates Frederick"]
@@ -378,7 +361,6 @@ Ng8 25.Bf1 h6 26.Bh3 hxg5 27.Rxe6 Rxe6 28.Bxe6+ 1-0
 
 [Event "Ch Netherlands"]
 [Site "Nijmegen (Netherlands)"]
-[Date "1921.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Davidson Jacques"]
@@ -404,7 +386,6 @@ Kg8 47.Kd5 Kf8 48.Rc7 g5 49.e6 fxe6+ 50.Kxe6 Re8+ 51.Re7 Rxe7+
 
 [Event "Ch Netherlands"]
 [Site "Nijmegen (Netherlands)"]
-[Date "1921.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Meijer Reurt"]
@@ -427,7 +408,6 @@ Bd8 31.d5 Qxd5 32.Rc5 Qe6 33.Qd3+ Ke8 34.Qxa6 f6 35.exf6 Bxf6
 
 [Event "Ch Netherlands"]
 [Site "Nijmegen (Netherlands)"]
-[Date "1921.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Te Kolste Jan Willem (NED)"]
@@ -447,7 +427,6 @@ dxc3+ 14.Kd1 Qc7 15.Rf3 Rg8 16.Qa4+ Bd7 17.Bxf7+ Kd8 18.Qa3 Qc4
 
 [Event "Ch Netherlands"]
 [Site "Nijmegen (Netherlands)"]
-[Date "1921.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Van Hartingsvelt H"]
@@ -470,7 +449,6 @@ Rf7 36.Bxf7+ 1-0
 
 [Event "Match"]
 [Site "Utrecht (Netherlands)"]
-[Date "1921.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Olland Adolf G (NED)"]
@@ -494,7 +472,6 @@ Qf3 37.Qc2 Qxc3 38.Qxc3 dxc3 39.Rd7 Rb4 40.Nfd6 Rg8 41.Rxe6 Bd4
 
 [Event "Match"]
 [Site "Utrecht (Netherlands)"]
-[Date "1921.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Olland Adolf G (NED)"]
@@ -518,7 +495,6 @@ cxd5 36.Nxd5 Rhh1 37.Ne3 h5 38.Be4 Rh2 39.Bd5 Rb1 40.Nc4 Rf1
 
 [Event "Match"]
 [Site "Utrecht (Netherlands)"]
-[Date "1921.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Olland Adolf G (NED)"]
@@ -545,7 +521,6 @@ Qg7 48.a5 Qb2+ 49.Kf3 Qb1 50.Kf4 Qb2 51.Qf7+ Kh8 52.Qf8+ Kh7
 
 [Event ""]
 [Site "Vienna (Austria)"]
-[Date "1921.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Breyer Gyula (HUN)"]

@@ -1,6 +1,5 @@
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Andersson Ulf (SWE)"]
@@ -23,7 +22,6 @@ Kf6 36.Rb5 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -46,7 +44,6 @@ Kb8 36.Rxf7 dxc4+ 37.Kc2 Rf3 38.Ng3 Rf2+ 39.Be2 Rg8 0-1
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Najdorf Miguel (POL)"]
@@ -66,7 +63,6 @@ Nd7 20.Ne1 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Panno Oscar (ARG)"]
@@ -85,7 +81,6 @@ Rc8 14.Qd3 g6 15.Bf4 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Quinteros Miguel A (ARG)"]
@@ -105,7 +100,6 @@ Bd7 20.Rae1 Rae8 21.Kh1 a6 22.a5 Nb5 23.Nc4 Nd4 24.Qd1 1/2-1/2
 
 [Event ""]
 [Site "London (England)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hodgson Julian M (ENG)"]
@@ -125,7 +119,6 @@ Bd7 20.Rae1 Rae8 21.Kh1 a6 22.a5 Nb5 23.Nc4 Nd4 24.Qd1 1/2-1/2
 
 [Event ""]
 [Site "London (England)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lane Gary W (AUS)"]
@@ -147,7 +140,6 @@ Qxf6 30.Qxf6 gxf6 31.Kg4 Rd8 0-1
 
 [Event "It (cat.15)"]
 [Site "Montreal (Canada)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -165,7 +157,6 @@ Qxf6 30.Qxf6 gxf6 31.Kg4 Rd8 0-1
 
 [Event "It (cat.15)"]
 [Site "Montreal (Canada)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -185,7 +176,6 @@ Nab8 14.b4 Nxe5 15.fxe5 Qd7 16.Qb3 cxb4 17.cxb4 Nc6 18.Rac1 Rac8
 
 [Event "It (cat.15)"]
 [Site "Montreal (Canada)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -209,7 +199,6 @@ g5 42.g4 f4 0-1
 
 [Event "It (cat.15)"]
 [Site "Montreal (Canada)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -230,7 +219,6 @@ Rac8 25.Rec1 Nb8 26.h3 Nc6 27.Ba1 Qd7 28.Rd1 Qc7 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Montreal (Canada)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -250,7 +238,6 @@ bxc5 14.Qc3 Rfe8 15.Rfd1 d4 16.exd4 cxd4 17.Qa5 Ne5 18.Nxe5 Bxe5
 
 [Event "It (cat.15)"]
 [Site "Montreal (Canada)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -275,7 +262,6 @@ b4 42.Kf3 Ne5+ 43.Ke3 Rc2 44.Rb5 Nc4+ 45.Kd3 Rd2+ 46.Kxc4 Rxe2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -295,7 +281,6 @@ b4 42.Kf3 Ne5+ 43.Ke3 Rc2 44.Rb5 Nc4+ 45.Kd3 Rd2+ 46.Kxc4 Rxe2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -316,7 +301,6 @@ Rac8 20.Ba3 Qe5 21.Bc1 Qc5 22.Ba3 Qe5 23.Bc1 Qc5 24.Qa2 Bxe4
 
 [Event "Spartakiada URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -335,7 +319,6 @@ Qxe2+ 8.Bxe2 Be7 9.Nc3 c6 10.O-O-O Na6 11.Rhe1 Nc7 12.Nd4 Ne6
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -356,7 +339,6 @@ Qe3+ 25.Qxe3 Rxf1+ 26.Rxf1 Nxe3 27.Rf3 Nc8 28.Bg6 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1979.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -378,7 +360,6 @@ Bxf5 31.exf5 e4 32.Rb2 Qd8 33.Rd2 Qe7 1/2-1/2
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1979.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Pfleger Helmut Dr (GER)"]
@@ -398,7 +379,6 @@ g6 19.Qxh7+ Kf8 20.h4 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1979.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Robatsch Karl (AUT)"]
@@ -416,7 +396,6 @@ g6 19.Qxh7+ Kf8 20.h4 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sigurjonsson Gudmundur (ISL)"]
@@ -438,7 +417,6 @@ Qxf4 31.Qf7+ Kh8 32.Nf3 1-0
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -458,7 +436,6 @@ d6 8.e4 e5 9.d5 Ne7 10.Nh4 h6 11.f4 Ng6 12.Nxg6 fxg6 13.O-O O-O
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -479,7 +456,6 @@ Qd6 26.g3 fxg5 27.gxh4 g4 28.Qxg4 Bxd4+ 29.cxd4 Rg8 30.Bg5 1-0
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -500,7 +476,6 @@ Rd6 26.c3 Nh4 27.Re7 Nxf3+ 28.Qxf3 Qa8 29.R1e2 c5 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]

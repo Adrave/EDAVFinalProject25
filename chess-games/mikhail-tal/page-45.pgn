@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Filip Miroslav (CZE)"]
@@ -23,7 +22,6 @@ dxe4 31.Qxe4 Qg5+ 32.Kh1 Be6 33.Be5 Rd8 34.h4 Qh5 35.Qf4 Rd3
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fischer Robert J (USA)"]
@@ -49,7 +47,6 @@ Kh7 48.Re7 Kg6 49.Rbb7 Kxf6 50.Rxf7+ Ke5 51.Rfc7 Ra8 52.Rb1 Kxd5
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fischer Robert J (USA)"]
@@ -70,7 +67,6 @@ f4 25.d6+ Kh8 26.dxc7 Rae8 27.Bd5 Bxh3+ 28.Rxh3 Qxh3+ 29.Kf2 1/2-1/2
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Geller Efim P (RUS)"]
@@ -94,7 +90,6 @@ fxe4 37.Qg3 Bf5 38.Ke3 Kg7 39.Rh5 Rh8 40.Rxh8 Kxh8 41.Qh4+ Kg7
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -118,7 +113,6 @@ Kh6 41.Rf7 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -141,7 +135,6 @@ Rd2 36.Re8 Qd3 37.Re4 Rc2 38.a4 Rc1+ 39.Kh2 Qd6+ 40.Ree5 Rxc3 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -162,7 +155,6 @@ Qb6+ 19.Kh1 Bxa1 20.Bxf8 Kxf8 21.Rxa1 Bb7 22.c4 Qc5 23.Qh4 bxc4
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -185,7 +177,6 @@ Re6 25.Ng4 h5 26.Ne5 Qg3 27.Qf2 Qxf2+ 28.Rxf2 Rfe8 29.Nd7 Bc6
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -205,7 +196,6 @@ Rxb2 13.Bd3 cxd4 14.O-O Bc6 15.Qa3 Qb6 16.Bc4 Rb4 17.Qd3 O-O
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -225,7 +215,6 @@ Nxd2 14.Bxd2 Qd7 15.Rc1 Bxc2 16.Qxc2 Rac8 17.Qb3 Nd8 18.Bb4 Bxb4
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kots Yu (UKR)"]
@@ -248,7 +237,6 @@ Qa1+ 25.Kd2 Qa5+ 26.c3 Qxc5 27.Be3 Qd6 28.Qxd6 exd6 29.Bf4 a5
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -274,7 +262,6 @@ Rd4+ 47.Ke6 Ba5 48.Kxe5 Rd8 49.h3 Bc7+ 50.Ke4 Bb6 51.Bc2 Rxd1
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hecht Hans-Joachim (GER)"]
@@ -299,7 +286,6 @@ Kxc2 48.Kf4 Rg1 49.Rg5 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Morlok (GER)"]
@@ -321,7 +307,6 @@ Bf8 20.Be2 Nc4 21.Bxc4 bxc4 22.Nd4 Rb8 23.Rh1 Rb7 24.Rh6 Kf7
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Vizantiadis Lazaros (GRE)"]
@@ -345,7 +330,6 @@ g6 42.f4 0-1
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Aronin Lev S (RUS)"]
@@ -368,7 +352,6 @@ Qf3+ 30.Kg1 Qf2+ 31.Kh1 Qxb2 32.Rd1 Qe2 33.Bb5 Qf3+ 34.Kg1 Bh6
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bannik Anatoly (GER)"]
@@ -389,7 +372,6 @@ Nf6 25.Qc6 Rb1+ 26.Kg2 Rb2 27.Qxc7 Rxa2 28.Qb8+ 1-0
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -412,7 +394,6 @@ Bf6 36.Nxf6+ Qxf6 37.d7 1-0
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Mnatsakanian Eduard A (ARM)"]
@@ -434,7 +415,6 @@ Qd7 31.Bxh8 Rxh8 32.Ra1 Nb6 33.Qxa7+ Kc8 34.d6 1-0
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Savon Vladimir A (UKR)"]
@@ -458,7 +438,6 @@ Bd4 42.Kb3 1-0
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -482,7 +461,6 @@ Rg8 31.Bh6 gxf5 32.Qh3 Qd7 33.Qxf5 Rg4 34.Nf3 Rg6 35.Bf4 Rcg8
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -505,14 +483,12 @@ Qc5 37.a4 Ra7 38.g6 Ra6 39.Rxg7 Rxg6 40.Rxg6 hxg6 41.Qf6+ Kh7 1-0
 
 [Event "USSR Championship"]
 [Site "Yerevan URS"]
-[Date "1962.12.01"]
 [Round "7"]
 [White "Mikhail Tal"]
 [Black "Mark Taimanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B49"]
-[EventDate "1962.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -528,14 +504,12 @@ Qc5 37.a4 Ra7 38.g6 Ra6 39.Rxg7 Rxg6 40.Rxg6 hxg6 41.Qf6+ Kh7 1-0
 
 [Event "USSR Championship"]
 [Site "Yerevan URS"]
-[Date "1962.11.27"]
 [Round "5"]
 [White "Mikhail Tal"]
 [Black "Eduard A Mnatsakanian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "1962.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -550,14 +524,12 @@ Qc5 37.a4 Ra7 38.g6 Ra6 39.Rxg7 Rxg6 40.Rxg6 hxg6 41.Qf6+ Kh7 1-0
 
 [Event "USSR Championship"]
 [Site "Yerevan URS"]
-[Date "1962.12.19"]
 [Round "19"]
 [White "Mikhail Tal"]
 [Black "Alexey Suetin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B48"]
-[EventDate "1962.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 

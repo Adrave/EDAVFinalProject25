@@ -1,6 +1,5 @@
 [Event "Ch France"]
 [Site "Angers (France)"]
-[Date "1990.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Apicella Manuel (FRA)"]
@@ -21,7 +20,6 @@ Be8 25.Qh2 1/2-1/2
 
 [Event "Ch France"]
 [Site "Angers (France)"]
-[Date "1990.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Birmingham Eric (FRA)"]
@@ -42,7 +40,6 @@ Bc8 20.Rah1 Rh8 21.f4 gxf4 22.exf4 Be6 23.Nxf5 Nxf5 24.Bxf5 Bf7
 
 [Event "Ch France"]
 [Site "Angers (France)"]
-[Date "1990.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Daillet Emmanuel (FRA)"]
@@ -65,7 +62,6 @@ Rxe8 36.Rxe8 1-0
 
 [Event "Ch France"]
 [Site "Angers (France)"]
-[Date "1990.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Guyot Philippe (FRA)"]
@@ -86,7 +82,6 @@ Bg6 25.Bxg6 hxg6 26.Qg5 bxc3 27.Qxg6 cxb2+ 28.Kb1 Rf8 1-0
 
 [Event "Ch France"]
 [Site "Angers (France)"]
-[Date "1990.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Koch Jean-Rene (FRA)"]
@@ -105,7 +100,6 @@ a6 14.f4 Rfe8 15.N4f3 e5 16.f5 Nc5 17.Kh1 Nxd3 18.Qxd3 b5 19.h3 1/2-1/2
 
 [Event "Ch France"]
 [Site "Angers (France)"]
-[Date "1990.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Roos Louis (FRA)"]
@@ -129,7 +123,6 @@ Qd6 42.Rdf1 Nc6 43.Kh1 1-0
 
 [Event "Ch France"]
 [Site "Angers (France)"]
-[Date "1990.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Santo-Roman Marc (FRA)"]
@@ -149,7 +142,6 @@ Bxe5 14.Nc3 Re8 15.O-O Qf6 16.Rae1 Nd5 17.Re4 Nxc3 18.bxc3 Bd7
 
 [Event "Match \"France-Netherlands\""]
 [Site "Cannes (France)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -173,7 +165,6 @@ Qa1+ 42.Kh2 Qe5+ 43.Kh1 Qa1+ 44.Kh2 Qe5+ 45.Kh1 Qa1+ 1/2-1/2
 
 [Event "It (open)"]
 [Site "Castrop-Rauxel (Germany)"]
-[Date "1990.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Krallmann Matthias (GER)"]
@@ -198,7 +189,6 @@ Rxa3 47.Bxf6 1-0
 
 [Event "It (open)"]
 [Site "Castrop-Rauxel (Germany)"]
-[Date "1990.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Olsson Ake (SWE)"]
@@ -217,7 +207,6 @@ Bxd2+ 8.Qxd2 Qe7 9.Qe3 O-O-O 10.Be2 Ng4 11.Qa3 Qf6 12.O-O Nxd4
 
 [Event "Bundesliga 1989/90"]
 [Site "Germany"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Graf Juergen (GER)"]
@@ -240,7 +229,6 @@ Na6 26.Nxa6 Qxa6 27.d5 g5 28.fxg5 Bxe5 29.Qe3 Qb5 30.gxh6 Qxd5+
 
 [Event "Bundesliga 1989/90"]
 [Site "Germany"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ostl Andreas (GER)"]
@@ -261,7 +249,6 @@ Qd7 14.f4 exf4 15.gxf4 f5 16.Qd2 Rab8 17.O-O-O b5 18.Rhg1 b4
 
 [Event "Bundesliga 1989/90"]
 [Site "Germany"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Schmittdiel Eckhard (GER)"]
@@ -284,7 +271,6 @@ Bb5 31.Ref3 Rce8 32.Qc1 Rh6 33.Re1 Rg6 34.Nf2 Rg8 35.Bd3 Nxf2
 
 [Event "Bundesliga 1989/90"]
 [Site "Germany"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Wahls Matthias (GER)"]
@@ -309,7 +295,6 @@ Kc7 48.Kc2 Kd6 49.Ra1 Ke7 1/2-1/2
 
 [Event "Bundesliga 1990/91 (2nd)"]
 [Site "Germany"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zlatilov Ivailo (BUL)"]
@@ -330,7 +315,6 @@ Nd7 14.h4 Re8 15.Rfe1 Be7 16.e4 dxe4 17.Nxe4 Bb4 18.Nc3 Rxe1+
 
 [Event "It (cat.16)"]
 [Site "Linares (Spain)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gulko Boris F (USA)"]
@@ -353,7 +337,6 @@ Bf5 36.Qf4 Bxe4 37.Qxe4 Qd7 38.h3 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Linares (Spain)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -374,7 +357,6 @@ Ba7 20.Ne2 Nc5 21.Bc3 Qxc3 22.Nxc3 Nxd3 23.Rf1 Bxe3 24.Qe2 Nxf4
 
 [Event "It (cat.16)"]
 [Site "Linares (Spain)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -395,7 +377,6 @@ Nxe4 25.Rf4 Nd6 26.Rd4 Rb3 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Linares (Spain)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Jussupow Artur (GER)"]
@@ -418,7 +399,6 @@ c5+ 36.Ke3 Kc2 37.f4 Kd1 0-1
 
 [Event "It \"Immopar\""]
 [Site "Paris (France)"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lautier Joel (FRA)"]
@@ -441,7 +421,6 @@ Qc3 37.Ne5 Kf6 38.Nd7+ Kg7 39.Qe8 1-0
 
 [Event "Match"]
 [Site "USA"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Seirawan Yasser (USA)"]
@@ -469,7 +448,6 @@ Kd4 65.fxg6 a2+ 66.Ka1 Re1+ 0-1
 
 [Event "It (cat.10)"]
 [Site "Salamanca (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hoffman Alejandro (ARG)"]
@@ -489,7 +467,6 @@ Nxg2 20.Qb4 O-O-O 21.Nxf7 exf5 22.Nxd8 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Salamanca (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -507,7 +484,6 @@ Bxf6 8.Bxf6 Qxf6 9.Bc4 O-O 10.Qe2 a6 11.Qe4 1/2-1/2
 
 [Event "Linares"]
 [Site "Linares"]
-[Date "1990.02.??"]
 [Round "1"]
 [White "Spassky, Boris V"]
 [Black "Jussupow, Artur"]
@@ -515,7 +491,6 @@ Bxf6 8.Bxf6 Qxf6 9.Bc4 O-O 10.Qe2 a6 11.Qe4 1/2-1/2
 [WhiteElo "2560"]
 [BlackElo "2615"]
 [ECO "C77"]
-[EventDate "1990.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. d3 d6 8. 
 Nd5 Na5 9. Nxe7 Qxe7 10. O-O O-O 11. Bd2 Nxb3 12. axb3 Nd7 13. Re1 Bb7 14.
@@ -528,14 +503,12 @@ Kd1 0-1
 
 [Event "Linares"]
 [Site "Linares ESP"]
-[Date "1990.02.18"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "Artur Yusupov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "1990.02.18"]
 [PlyCount "73"]
 [WhiteElo "?"]
 

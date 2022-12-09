@@ -1,6 +1,5 @@
 [Event "18th Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2009.03.16"]
 [Round "3"]
 [White "Kramnik, V."]
 [Black "Karjakin, Sergey"]
@@ -9,7 +8,6 @@
 [WhiteElo "2759"]
 [BlackElo "2706"]
 [PlyCount "59"]
-[EventDate "2009.03.14"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Bd2 Nbd7 8. h3
 Bxf3 9. Qxf3 b4 10. Na4 e5 11. Qd1 Ne4 12. Bd3 Nxd2 13. Qxd2 exd4 14. cxd5 cxd5
@@ -20,7 +18,6 @@ Bxc1 28. Rc6 Rxd4 29. Rxc1 Rxd3 30. Nc4 1/2-1/2
 
 [Event "18th Amber Blindfold"]
 [Site "Nice FRA"]
-[Date "2009.03.21"]
 [Round "7"]
 [White "Kramnik, V."]
 [Black "Aronian, L."]
@@ -29,7 +26,6 @@ Bxc1 28. Rc6 Rxd4 29. Rxc1 Rxd3 30. Nc4 1/2-1/2
 [WhiteElo "2759"]
 [BlackElo "2750"]
 [PlyCount "69"]
-[EventDate "2009.03.14"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
 Rc1 Qa5 9. Qd2 O-O 10. Nf3 Rd8 11. d5 e6 12. Be2 exd5 13. exd5 Nd7 14. O-O Nf6
@@ -41,7 +37,6 @@ h6 35. hxg5 1/2-1/2
 
 [Event "18th Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2009.03.19"]
 [Round "5"]
 [White "Kramnik, V."]
 [Black "Topalov, V."]
@@ -50,7 +45,6 @@ h6 35. hxg5 1/2-1/2
 [WhiteElo "2759"]
 [BlackElo "2796"]
 [PlyCount "107"]
-[EventDate "2009.03.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. a4 c5 7. Bxc4 Nc6 8. O-O
 Be7 9. dxc5 Qxd1 10. Rxd1 Bxc5 11. Bd2 b6 12. Bd3 Nb4 13. Be2 O-O 14. a5 b5 15.
@@ -65,7 +59,6 @@ Ke3 Kg6 48. Kf3 Bf8 49. Ke3 Be7 50. Kd4 Bf8 51. Ke4 Be7 52. Kd4 Bf8 53. Ke4 Be7
 
 [Event "18th Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2009.03.20"]
 [Round "6"]
 [White "Kramnik, V."]
 [Black "Kamsky, G."]
@@ -74,7 +67,6 @@ Ke3 Kg6 48. Kf3 Bf8 49. Ke3 Be7 50. Kd4 Bf8 51. Ke4 Be7 52. Kd4 Bf8 53. Ke4 Be7
 [WhiteElo "2759"]
 [BlackElo "2725"]
 [PlyCount "91"]
-[EventDate "2009.03.14"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. Qa4+ Nc6 5. Nd4 Qd7 6. cxd5 Nxd5 7. Nxd5 Qxd5
 8. Nxc6 Qxc6 9. Qxc6+ bxc6 10. g3 Be6 11. Bg2 Bd5 12. e4 Bc4 13. d4 Bg7 14. Be3
@@ -88,7 +80,6 @@ Rc7 1/2-1/2
 
 [Event "18th Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2009.03.22"]
 [Round "8"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -97,7 +88,6 @@ Rc7 1/2-1/2
 [WhiteElo "2759"]
 [BlackElo "2791"]
 [PlyCount "29"]
-[EventDate "2009.03.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. cxd5 Ne4 8.
 Qc2 exd5 9. e3 Bf5 10. Bd3 c5 11. dxc5 Nd7 12. Ne2 Ndxc5 13. Bxe4 Nxe4 14. Nd4
@@ -106,7 +96,6 @@ Bg6 15. Qd1 1/2-1/2
 
 [Event "18th Amber Blindfold"]
 [Site "Nice FRA"]
-[Date "2009.03.24"]
 [Round "9"]
 [White "Kramnik, V."]
 [Black "Ivanchuk, V."]
@@ -115,7 +104,6 @@ Bg6 15. Qd1 1/2-1/2
 [WhiteElo "2759"]
 [BlackElo "2779"]
 [PlyCount "146"]
-[EventDate "2009.03.14"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 Ne4 8. cxd5
 Nxc3 9. Qd2 Qxa2 10. bxc3 Qa5 11. Bc4 Nd7 12. Nf3 Nxc5 13. Be5 Bxe5 14. Nxe5 f6
@@ -133,7 +121,6 @@ Rg4 0-1
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2009.11.11"]
 [Round "6"]
 [White "Kramnik, V."]
 [Black "Ponomariov, R."]
@@ -142,7 +129,6 @@ Rg4 0-1
 [WhiteElo "2772"]
 [BlackElo "2739"]
 [PlyCount "161"]
-[EventDate "2009.11.05"]
 [EventRounds "9"]
 [EventCountry "RUS"]
 [EventCategory "21"]
@@ -166,7 +152,6 @@ Re4 Bd6 79. Rd4 Bc7 80. Kg6 Bg3 81. Re4 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Naiditsch, A."]
@@ -175,7 +160,6 @@ Re4 Bd6 79. Rd4 Bc7 80. Kg6 Bg3 81. Re4 1-0
 [WhiteElo "2772"]
 [BlackElo "2689"]
 [PlyCount "85"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -194,7 +178,6 @@ gxf6 28. Nf4 Qg5 29. Nd5 Bc5 30. Bg2 Nc6 31. h4 Qg7 32. Rc4 Ne5 33. Rf4 Qxg3
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "5"]
 [White "Kramnik, V."]
 [Black "Aronian, L."]
@@ -203,7 +186,6 @@ gxf6 28. Nf4 Qg5 29. Nd5 Bc5 30. Bg2 Nc6 31. h4 Qg7 32. Rc4 Ne5 33. Rf4 Qxg3
 [WhiteElo "2772"]
 [BlackElo "2786"]
 [PlyCount "65"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -221,7 +203,6 @@ Rc7+ 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "7"]
 [White "Kramnik, V."]
 [Black "Leko, P."]
@@ -230,7 +211,6 @@ Rc7+ 1-0
 [WhiteElo "2772"]
 [BlackElo "2752"]
 [PlyCount "61"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -247,7 +227,6 @@ Rd1 Rf8 28. Rdd7 Qb1+ 29. Kg2 Qf5 30. Rc4 Ba5 31. Rf4 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "10"]
 [White "Kramnik, V."]
 [Black "Gashimov, V."]
@@ -256,7 +235,6 @@ Rd1 Rf8 28. Rdd7 Qb1+ 29. Kg2 Qf5 30. Rc4 Ba5 31. Rf4 1-0
 [WhiteElo "2772"]
 [BlackElo "2758"]
 [PlyCount "85"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -275,7 +253,6 @@ Ne6 36. a5 Rb8 37. axb6 axb6 38. Ra1 Rb7 39. Ra6 Nd4 40. Rxb6 Rd7 41. Rb8 g5
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "12"]
 [White "Kramnik, V."]
 [Black "Bareev, E."]
@@ -284,7 +261,6 @@ Ne6 36. a5 Rb8 37. axb6 axb6 38. Ra1 Rb7 39. Ra6 Nd4 40. Rxb6 Rd7 41. Rb8 g5
 [WhiteElo "2772"]
 [BlackElo "2634"]
 [PlyCount "88"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -303,7 +279,6 @@ Rd2+ 35. Kh3 Rd4 36. Rxd4 Qxd4 37. Qf3 Qc5 38. Ng4 Bd4 39. Bd3 a4 40. Kg2 a3
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "14"]
 [White "Kramnik, V."]
 [Black "Svidler, P."]
@@ -312,7 +287,6 @@ Rd2+ 35. Kh3 Rd4 36. Rxd4 Qxd4 37. Qf3 Qc5 38. Ng4 Bd4 39. Bd3 a4 40. Kg2 a3
 [WhiteElo "2772"]
 [BlackElo "2754"]
 [PlyCount "85"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -331,7 +305,6 @@ Nd5 22. Bd2 Nb3 23. Bxb3 Rxb3 24. Nxd5 cxd5 25. Bb4 Bf6 26. a5 Bd7 27. Rc7 Kf7
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "16"]
 [White "Kramnik, V."]
 [Black "Grischuk, A."]
@@ -340,7 +313,6 @@ Nd5 22. Bd2 Nb3 23. Bxb3 Rxb3 24. Nxd5 cxd5 25. Bb4 Bf6 26. a5 Bd7 27. Rc7 Kf7
 [WhiteElo "2772"]
 [BlackElo "2736"]
 [PlyCount "90"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -359,7 +331,6 @@ Qb1 Qc2 41. Qxc2 Rxc2 42. Rb1 b4 43. h4 b3 44. e4 b2 45. Kh2 Ba2 0-1
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "18"]
 [White "Kramnik, V."]
 [Black "Tkachiev, V."]
@@ -368,7 +339,6 @@ Qb1 Qc2 41. Qxc2 Rxc2 42. Rb1 b4 43. h4 b3 44. e4 b2 45. Kh2 Ba2 0-1
 [WhiteElo "2772"]
 [BlackElo "2642"]
 [PlyCount "109"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -389,7 +359,6 @@ Qxa4 Rd8 54. Qa2 Qe7 55. Ra7 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "20"]
 [White "Kramnik, V."]
 [Black "Karjakin, Sergey"]
@@ -398,7 +367,6 @@ Qxa4 Rd8 54. Qa2 Qe7 55. Ra7 1-0
 [WhiteElo "2772"]
 [BlackElo "2723"]
 [PlyCount "49"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -414,7 +382,6 @@ Rc8 22. Bxb7 fxg4 23. Bxc8 Kxc8 24. Ncb6+ Kb7 25. Rfc1 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "23"]
 [White "Kramnik, V."]
 [Black "Carlsen, M."]
@@ -423,7 +390,6 @@ Rc8 22. Bxb7 fxg4 23. Bxc8 Kxc8 24. Ncb6+ Kb7 25. Rfc1 1-0
 [WhiteElo "2772"]
 [BlackElo "2801"]
 [PlyCount "60"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -440,7 +406,6 @@ Kg7 22. Qxb6 d5 23. Bxd5 Qd6 24. Qa5 Qc5 25. Qxa6 Ra7 26. Qe6 Rxa2 27. Rfe1 Bd8
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "27"]
 [White "Kramnik, V."]
 [Black "Jakovenko, D."]
@@ -449,7 +414,6 @@ Kg7 22. Qxb6 d5 23. Bxd5 Qd6 24. Qa5 Qc5 25. Qxa6 Ra7 26. Qe6 Rxa2 27. Rfe1 Bd8
 [WhiteElo "2772"]
 [BlackElo "2736"]
 [PlyCount "57"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -466,7 +430,6 @@ Bxg7 Bxg7 22. Nf5 f6 23. Nxg7 Qxg7 24. Qxg7+ Kxg7 25. Rxb7+ Kg6 26. Rb5 Rac8
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "29"]
 [White "Kramnik, V."]
 [Black "Ivanchuk, V."]
@@ -475,7 +438,6 @@ Bxg7 Bxg7 22. Nf5 f6 23. Nxg7 Qxg7 24. Qxg7+ Kxg7 25. Rxb7+ Kg6 26. Rb5 Rac8
 [WhiteElo "2772"]
 [BlackElo "2739"]
 [PlyCount "49"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -491,7 +453,6 @@ f6 22. Nd6 Qxg3 23. Nxc8 Qxd3 24. Ne7+ Kh8 25. Qf2 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "32"]
 [White "Kramnik, V."]
 [Black "Kosteniuk, A."]
@@ -500,7 +461,6 @@ f6 22. Nd6 Qxg3 23. Nxc8 Qxd3 24. Ne7+ Kh8 25. Qf2 1-0
 [WhiteElo "2772"]
 [BlackElo "2517"]
 [PlyCount "71"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -518,7 +478,6 @@ Rxd8 34. c6 Kg7 35. b5 Rb8 36. c7 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "38"]
 [White "Kramnik, V."]
 [Black "Mamedyarov, S."]
@@ -527,7 +486,6 @@ Rxd8 34. c6 Kg7 35. b5 Rb8 36. c7 1-0
 [WhiteElo "2772"]
 [BlackElo "2719"]
 [PlyCount "92"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -547,7 +505,6 @@ Nc3 28. Ra1 e4 29. Bh1 f5 30. gxf5 gxf5 31. a4 Nxe2 32. Kxe2 Rxc4 33. Rg1 Rc2+
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "40"]
 [White "Kramnik, V."]
 [Black "Dominguez Perez, L."]
@@ -556,7 +513,6 @@ Nc3 28. Ra1 e4 29. Bh1 f5 30. gxf5 gxf5 31. a4 Nxe2 32. Kxe2 Rxc4 33. Rg1 Rc2+
 [WhiteElo "2772"]
 [BlackElo "2719"]
 [PlyCount "76"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -574,7 +530,6 @@ Qb6 29. h4 Rxc4 30. dxc4 Rc8 31. Qd3 Qc5 32. Bf1 f5 33. Re1 Rf8 34. exf5 Bxf5
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "42"]
 [White "Kramnik, V."]
 [Black "Karpov, Ana"]
@@ -583,7 +538,6 @@ Qb6 29. h4 Rxc4 30. dxc4 Rc8 31. Qd3 Qc5 32. Bf1 f5 33. Re1 Rf8 34. exf5 Bxf5
 [WhiteElo "2772"]
 [BlackElo "2619"]
 [PlyCount "55"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -600,7 +554,6 @@ Qxh8+ Bf8 28. Qh7 1-0
 
 [Event "Chess Classic"]
 [Site "London ENG"]
-[Date "2009.12.09"]
 [Round "2"]
 [White "Kramnik, V."]
 [Black "Ni Hua"]
@@ -609,7 +562,6 @@ Qxh8+ Bf8 28. Qh7 1-0
 [WhiteElo "2772"]
 [BlackElo "2665"]
 [PlyCount "95"]
-[EventDate "2009.12.08"]
 [EventRounds "7"]
 [EventCountry "ENG"]
 [EventCategory "18"]
@@ -628,7 +580,6 @@ Nc8 47. Kc5 Nxd6 48. Bd3 1-0
 
 [Event "Chess Classic"]
 [Site "London ENG"]
-[Date "2009.12.14"]
 [Round "6"]
 [White "Kramnik, V."]
 [Black "Short, N."]
@@ -637,7 +588,6 @@ Nc8 47. Kc5 Nxd6 48. Bd3 1-0
 [WhiteElo "2772"]
 [BlackElo "2707"]
 [PlyCount "79"]
-[EventDate "2009.12.08"]
 [EventRounds "7"]
 [EventCountry "ENG"]
 [EventCategory "18"]

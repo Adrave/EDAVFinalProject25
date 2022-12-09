@@ -1,6 +1,5 @@
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.04"]
 [Round "8.2"]
 [White "Mamedyarov, S."]
 [Black "Dubov, Daniil"]
@@ -9,7 +8,6 @@
 [WhiteElo "2809"]
 [BlackElo "2701"]
 [PlyCount "102"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -27,7 +25,6 @@ Re4 47. Rg1+ Kh4 48. Nxf4 Rxf4 49. Rxg7 Rf2 50. Kg1 Rxa2 51. Rf1 Rxb3 0-1
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "1.7"]
 [White "Mamedyarov, S."]
 [Black "Dubov, Daniil"]
@@ -36,7 +33,6 @@ Re4 47. Rg1+ Kh4 48. Nxf4 Rxf4 49. Rxg7 Rf2 50. Kg1 Rxa2 51. Rf1 Rxb3 0-1
 [WhiteElo "2809"]
 [BlackElo "2701"]
 [PlyCount "58"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -51,7 +47,6 @@ Bxe4 28. Bxe4 Qf2+ 29. Kxd3 Rd8+ 0-1
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.03.07"]
 [Round "9"]
 [White "Mamedyarov, S."]
 [Black "Dreev, A."]
@@ -60,7 +55,6 @@ Bxe4 28. Bxe4 Qf2+ 29. Kxd3 Rd8+ 0-1
 [WhiteElo "2804"]
 [BlackElo "2653"]
 [PlyCount "178"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -85,7 +79,6 @@ Ke6 85. Bc3 Rc2 86. Be5 Rc1+ 87. Kf2 Rc2+ 88. Kg3 Rg2+ 89. Kh4 f2 0-1
 
 [Event "FIDE Candidates 2018"]
 [Site "Berlin GER"]
-[Date "2018.03.24"]
 [Round "12.1"]
 [White "Mamedyarov, S."]
 [Black "Ding Liren"]
@@ -94,7 +87,6 @@ Ke6 85. Bc3 Rc2 86. Be5 Rc1+ 87. Kf2 Rc2+ 88. Kg3 Rg2+ 89. Kh4 f2 0-1
 [WhiteElo "2809"]
 [BlackElo "2769"]
 [PlyCount "86"]
-[EventDate "2018.03.10"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GER"]
@@ -111,7 +103,6 @@ exf7+ Bxf7 41. Bxf7+ Kh7 42. Qh4+ Qh6 43. Rh5 Qa7+ 0-1
 
 [Event "6th Norway Blitz 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.05.27"]
 [Round "7.5"]
 [White "Mamedyarov, S."]
 [Black "So, W."]
@@ -120,7 +111,6 @@ exf7+ Bxf7 41. Bxf7+ Kh7 42. Qh4+ Qh6 43. Rh5 Qa7+ 0-1
 [WhiteElo "2808"]
 [BlackElo "2778"]
 [PlyCount "78"]
-[EventDate "2018.05.27"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -137,7 +127,6 @@ Rxh4 0-1
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.15"]
 [Round "7.2"]
 [White "Mamedyarov, S."]
 [Black "Nakamura, Hi"]
@@ -146,7 +135,6 @@ Rxh4 0-1
 [WhiteElo "2808"]
 [BlackElo "2769"]
 [PlyCount "88"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -163,7 +151,6 @@ e4 Rb3+ 35. Kg4 d3 36. e5 Be7 37. Bd2 Bb4 38. Bxb4 axb4 39. e6 Rxb2 40. a5 Re2
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.14"]
 [Round "9.4"]
 [White "Mamedyarov, S."]
 [Black "Nakamura, Hi"]
@@ -172,7 +159,6 @@ e4 Rb3+ 35. Kg4 d3 36. e5 Be7 37. Bd2 Bb4 38. Bxb4 axb4 39. e6 Rxb2 40. a5 Re2
 [WhiteElo "2808"]
 [BlackElo "2769"]
 [PlyCount "74"]
-[EventDate "2018.06.12"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -188,7 +174,6 @@ Rxb8 35. Bxb8 Rd4 36. Rxd4 a1=Q+ 37. Ke2 Qa6+ 0-1
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.15"]
 [Round "1.4"]
 [White "Mamedyarov, S."]
 [Black "Aronian, L."]
@@ -197,7 +182,6 @@ Rxb8 35. Bxb8 Rd4 36. Rxd4 a1=Q+ 37. Ke2 Qa6+ 0-1
 [WhiteElo "2808"]
 [BlackElo "2764"]
 [PlyCount "92"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -215,7 +199,6 @@ Bd4 40. f3 Re1 41. Rd3 Bg1+ 42. Kg3 h5 43. Nh2 h4+ 44. Kxh4 Bxh2 45. Rd5 Re5
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.23"]
 [Round "2.4"]
 [White "Mamedyarov, S."]
 [Black "Kramnik, V."]
@@ -224,7 +207,6 @@ Bd4 40. f3 Re1 41. Rd3 Bg1+ 42. Kg3 h5 43. Nh2 h4+ 44. Kxh4 Bxh2 45. Rd5 Re5
 [WhiteElo "2808"]
 [BlackElo "2792"]
 [PlyCount "82"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -241,7 +223,6 @@ Nc5 34. Bc2 e5 35. f4 exf4 36. exf4 gxf4 37. gxf4 Ne6 38. Kg3 Kf6 39. Kg4 Nd4
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.23"]
 [Round "4.2"]
 [White "Mamedyarov, S."]
 [Black "Caruana, F."]
@@ -250,7 +231,6 @@ Nc5 34. Bc2 e5 35. f4 exf4 36. exf4 gxf4 37. gxf4 Ne6 38. Kg3 Kf6 39. Kg4 Nd4
 [WhiteElo "2808"]
 [BlackElo "2816"]
 [PlyCount "80"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -267,7 +247,6 @@ Nxf6 Rxg3 0-1
 
 [Event "GCT Rapid Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.21"]
 [Round "4.1"]
 [White "Mamedyarov, S."]
 [Black "Aronian, L."]
@@ -276,7 +255,6 @@ Nxf6 Rxg3 0-1
 [WhiteElo "2808"]
 [BlackElo "2764"]
 [PlyCount "102"]
-[EventDate "2018.06.20"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -294,7 +272,6 @@ Kxc4 h2 47. Rh3+ Kg8 48. Kc3 Ra2 49. Kb3 Rf2 50. a4 g5 51. a5 g4 0-1
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.24"]
 [Round "16.5"]
 [White "Mamedyarov, S."]
 [Black "Aronian, L."]
@@ -303,7 +280,6 @@ Kxc4 h2 47. Rh3+ Kg8 48. Kc3 Ra2 49. Kb3 Rf2 50. a4 g5 51. a5 g4 0-1
 [WhiteElo "2808"]
 [BlackElo "2764"]
 [PlyCount "64"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -318,7 +294,6 @@ Rxc4 29. Bxc4 Bc6 30. Nxf4 Bxf4 31. gxf4 Qe3 32. Rh3 Rg8 0-1
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.24"]
 [Round "17.1"]
 [White "Mamedyarov, S."]
 [Black "Nakamura, Hi"]
@@ -327,7 +302,6 @@ Rxc4 29. Bxc4 Bc6 30. Nxf4 Bxf4 31. gxf4 Qe3 32. Rh3 Rg8 0-1
 [WhiteElo "2808"]
 [BlackElo "2769"]
 [PlyCount "66"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -343,7 +317,6 @@ Nxf2+ 0-1
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.15"]
 [Round "17.3"]
 [White "Mamedyarov, S."]
 [Black "Nakamura, Hi"]
@@ -352,7 +325,6 @@ Nxf2+ 0-1
 [WhiteElo "2801"]
 [BlackElo "2777"]
 [PlyCount "98"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -370,7 +342,6 @@ Rb3+ 47. Ke4 Rc2 48. dxc5 Rb1 49. Kd5 Rbxc1 0-1
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.14"]
 [Round "5.5"]
 [White "Mamedyarov, S."]
 [Black "Vachier Lagrave, M."]
@@ -379,7 +350,6 @@ Rb3+ 47. Ke4 Rc2 48. dxc5 Rb1 49. Kd5 Rbxc1 0-1
 [WhiteElo "2801"]
 [BlackElo "2779"]
 [PlyCount "120"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -399,7 +369,6 @@ Kb3 60. Ne3 Nc2 0-1
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.2"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -408,7 +377,6 @@ Kb3 60. Ne3 Nc2 0-1
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "124"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -427,7 +395,6 @@ Bd1+ 54. Kh4 Kf7 55. Bc6 Ke7 56. Bb5 Kf7 57. Bc6 Kf8 58. Bb5 Ke7 59. Kg3 Bh5
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.6"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -436,7 +403,6 @@ Bd1+ 54. Kh4 Kf7 55. Bc6 Ke7 56. Bb5 Kf7 57. Bc6 Kf8 58. Bb5 Ke7 59. Kg3 Bh5
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "58"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -450,7 +416,6 @@ fxe3 Bf8 28. Rec1 Rb8 29. d4 Bh6 0-1
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.10"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -459,7 +424,6 @@ fxe3 Bf8 28. Rec1 Rb8 29. d4 Bh6 0-1
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "60"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -473,7 +437,6 @@ Rc2 Rg6 28. Kh3 Re3+ 29. Kh2 Rxg4 30. d5 Bc7+ 0-1
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.18"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -482,7 +445,6 @@ Rc2 Rg6 28. Kh3 Re3+ 29. Kh2 Rxg4 30. d5 Bc7+ 0-1
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "38"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -494,7 +456,6 @@ b4 16. Na4 c4 17. dxc4 Bxe4 18. Qe2 Bc6 19. Nc5 Bxf3 0-1
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.22"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -503,7 +464,6 @@ b4 16. Na4 c4 17. dxc4 Bxe4 18. Qe2 Bc6 19. Nc5 Bxf3 0-1
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "86"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -519,7 +479,6 @@ Nxd6 41. Re3 Rb8 42. Re7 c3 43. Rc7 Rc8 0-1
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.30"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -528,7 +487,6 @@ Nxd6 41. Re3 Rb8 42. Re7 c3 43. Rc7 Rc8 0-1
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "85"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -544,7 +502,6 @@ Rb8 28. Nb3 Nd5 29. Qa5 Rb6 30. Qd2 Qb7 31. Qc2 Nb4 32. Qc3 Nxa2 33. Qa1 Rxb3
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "5.1"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Nakamura, Hikaru"]
@@ -552,7 +509,6 @@ Rb8 28. Nb3 Nd5 29. Qa5 Rb6 30. Qd2 Qb7 31. Qc2 Nb4 32. Qc3 Nxa2 33. Qa1 Rxb3
 [WhiteElo "2817"]
 [BlackElo "2746"]
 [ECO "D24"]
-[EventDate "2018.11.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. Nc3 a6 6. a4 c6 7. e3 b5 8. 
 axb5 cxb5 9. Bxf6 gxf6 10. Nxb5 axb5 11. Rxa8 Bb7 12. Ra1 Bb4+ 13. Ke2 O-O
@@ -563,7 +519,6 @@ axb5 cxb5 9. Bxf6 gxf6 10. Nxb5 axb5 11. Rxa8 Bb7 12. Ra1 Bb4+ 13. Ke2 O-O
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "9.4"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Ganguly, Surya Shekhar"]
@@ -571,7 +526,6 @@ axb5 cxb5 9. Bxf6 gxf6 10. Nxb5 axb5 11. Rxa8 Bb7 12. Ra1 Bb4+ 13. Ke2 O-O
 [WhiteElo "2817"]
 [BlackElo "2615"]
 [ECO "E67"]
-[EventDate "2018.11.13"]
 
 1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8.
  Qc2 Re8 9. Rd1 Qe7 10. b3 c6 11. e4 exd4 12. Nxd4 h5 13. Bg5 Nf8 14. Qd2 
@@ -585,7 +539,6 @@ fxe3 Qf2 0-1
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "17.3"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "So, Wesley"]
@@ -593,7 +546,6 @@ fxe3 Qf2 0-1
 [WhiteElo "2817"]
 [BlackElo "2765"]
 [ECO "A03"]
-[EventDate "2018.11.13"]
 
 1. f4 d5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nf6 5. O-O b6 6. c4 c5 7. Ne5 O-O 8. 
 Nc3 Bb7 9. g4 e6 10. e3 Ne4 11. d4 f6 12. Nd3 cxd4 13. exd4 f5 14. Ne5 
@@ -604,7 +556,6 @@ Rxf4 26. Qc4 Ne3 27. Qxe6+ Kh8 28. h3 Raf8 29. Rxg7 Kxg7 30. Qe5+ Kh6 0-1
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "11.5"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Anand, Viswanathan"]
@@ -612,7 +563,6 @@ Rxf4 26. Qc4 Ne3 27. Qxe6+ Kh8 28. h3 Raf8 29. Rxg7 Kxg7 30. Qe5+ Kh6 0-1
 [WhiteElo "2817"]
 [BlackElo "2773"]
 [ECO "A36"]
-[EventDate "2018.11.13"]
 
 1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. a3 Nf6 6. Rb1 Rb8 7. b4 b6 8. 
 Nf3 Bb7 9. O-O O-O 10. d3 d6 11. Qa4 Nd7 12. Bb2 a6 13. Ne4 Bxb2 14. Rxb2 

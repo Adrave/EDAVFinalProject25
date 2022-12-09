@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1930.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -26,7 +25,6 @@ a6 53.a3 a5 54.a4 Kf8 55.Kg6 h5 56.Kxh5 Kf7 57.Kg5 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -47,7 +45,6 @@ Qg7 25.Qxg7+ Kxg7 26.gxf5 Rxf5 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -69,7 +66,6 @@ Re4 25.Rb1 Rae8 26.Rb7 R4e7 27.Rxe7 Rxe7 28.e4 Nb6 29.Rd1 f6
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -90,7 +86,6 @@ Rxe2 25.Qxe2 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -116,7 +111,6 @@ Ke4 52.Rb4+ Kf5 53.Kf1 Kg5 54.Rb5+ Kg6 55.Rb4 Kh5 56.Rb5+ Ng5 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -137,7 +131,6 @@ Nd4 25.Rxa7 exf4 26.gxf4 Qxf4 27.Re1 Nf3 28.Re2 Nd4 29.Re1 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Stoltz Gosta (SWE)"]
@@ -161,7 +154,6 @@ Bc5 41.Kb3 Kg7 42.a5 1-0
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Sultan Khan Mir (IND)"]
@@ -186,7 +178,6 @@ h5 47.Be8 Kxd5 48.Bxh5 Ke5 49.Bxg4 1/2-1/2
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1931.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -212,7 +203,6 @@ Bf8 53.g4 Kc3 54.h4 1-0
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1931.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -236,7 +226,6 @@ Re8 36.Qxb6 h6 37.Be3 Be5 38.Rd8 Bc7 39.Rxe8+ Qxe8 40.Qd4 Rc2
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1931.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -261,7 +250,6 @@ Kc4 47.Kd2 1-0
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1931.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Noteboom Daniel (NED)"]
@@ -282,7 +270,6 @@ Qc4 25.Nxc6 1-0
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1931.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Noteboom Daniel (NED)"]
@@ -305,7 +292,6 @@ Nd4 36.f4 Nc6 37.Ne8+ Kb6 38.fxe5 Nxe5 39.Nf6 Kc6 40.Nxh7 1-0
 
 [Event "Match"]
 [Site "Netherlands"]
-[Date "1931.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Noteboom Daniel (NED)"]
@@ -326,7 +312,6 @@ Bxc8 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam/Carlsbad"]
-[Date "1932.??.??"]
 [Round "14"]
 [White "Euwe Max (NED)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -348,7 +333,6 @@ Bd6 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam/Carlsbad"]
-[Date "1932.??.??"]
 [Round "16"]
 [White "Euwe Max (NED)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -368,7 +352,6 @@ Qxd8 19.Bxb4 Bxb4 20.Ng5 Qxg5 21.Bxb7 Qc5 22.Qxc5 1/2-1/2
 
 [Event "It"]
 [Site "Bern (Switzerland)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bernstein Osip (FRA)"]
@@ -394,7 +377,6 @@ Ra4 46.Qd3 h5 47.Kg2 Raa5 48.Kf1 Rad5 49.Qc3 Rfe5 50.Qc2+ Kf6
 
 [Event "It"]
 [Site "Bern (Switzerland)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Johner Paul F (SUI)"]
@@ -418,7 +400,6 @@ Ra1 36.Rbb1 Rxb1 37.Rxb1 Ra5 38.Bg2 Nc3 39.Rb8+ Kg7 40.h4 Rxe5
 
 [Event "It"]
 [Site "Bern (Switzerland)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Sultan Khan Mir (IND)"]
@@ -445,14 +426,12 @@ h6 59.Kd6 Bxe6 60.Kxe6 Kh8 1/2-1/2
 
 [Event "Hastings 1930/31"]
 [Site "Hastings ENG"]
-[Date "1931.01.02"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Theodore Tylor"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "1930.12.29"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -466,14 +445,12 @@ h6 59.Kd6 Bxe6 60.Kxe6 Kh8 1/2-1/2
 
 [Event "Hastings 1930/31"]
 [Site "Hastings ENG"]
-[Date "1931.01.05"]
 [Round "7"]
 [White "Max Euwe"]
 [Black "Edgar Colle"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "1930.12.29"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -487,14 +464,12 @@ h6 59.Kd6 Bxe6 60.Kxe6 Kh8 1/2-1/2
 
 [Event "Hastings 1930/31"]
 [Site "Hastings ENG"]
-[Date "1930.12.30"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Vera Menchik"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1930.12.29"]
 [PlyCount "122"]
 [WhiteElo "?"]
 
@@ -513,14 +488,12 @@ h6 59.Kd6 Bxe6 60.Kxe6 Kh8 1/2-1/2
 
 [Event "Hastings 1931/32"]
 [Site "Hastings ENG"]
-[Date "1931.12.30"]
 [Round "3"]
 [White "Max Euwe"]
 [Black "Fred Dewhirst Yates"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E83"]
-[EventDate "1931.12.28"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -538,14 +511,12 @@ h6 59.Kd6 Bxe6 60.Kxe6 Kh8 1/2-1/2
 
 [Event "Hastings 1931/32"]
 [Site "Hastings ENG"]
-[Date "1932.01.01"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "George Alan Thomas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "1931.12.28"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -561,14 +532,12 @@ h6 59.Kd6 Bxe6 60.Kxe6 Kh8 1/2-1/2
 
 [Event "Hastings 1931/32"]
 [Site "Hastings ENG"]
-[Date "1932.01.05"]
 [Round "8"]
 [White "Max Euwe"]
 [Black "Reginald Pryce Michell"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1931.12.28"]
 [PlyCount "113"]
 [WhiteElo "?"]
 

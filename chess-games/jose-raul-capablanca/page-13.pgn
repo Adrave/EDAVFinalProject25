@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Habana (Cuba)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kostic Boris (YUG)"]
@@ -31,7 +30,6 @@ Rxf5 76.f4 Ra5 77.Rg7+ Kf8 78.Rb7 f5 79.Kg6 Ra6+ 80.Kxf5 Ra5+
 
 [Event "Match"]
 [Site "Habana (Cuba)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kostic Boris (YUG)"]
@@ -56,7 +54,6 @@ Nb4 47.Nc4 Nd3 48.b4 1-0
 
 [Event "Match"]
 [Site "Habana (Cuba)"]
-[Date "1919.??.??"]
 [Round "5"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kostic Boris (YUG)"]
@@ -75,7 +72,6 @@ Qd8 14.Ne5 Nd7 15.Bb1 1-0
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Conde JM"]
@@ -99,7 +95,6 @@ hxg5 43.hxg5 b3 44.Kd3 Kd7 45.g6 fxg6 46.fxg6 1-0
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Olland Adolf G (NED)"]
@@ -121,7 +116,6 @@ Nf5 25.g4 Rf6 26.Qe4 Rxc6 27.Qxc6 Rd8 28.gxf5 Bd6 29.Qe4 Bb8
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Scott Ronald W"]
@@ -142,7 +136,6 @@ Ke8 25.Rxe6+ fxe6 26.Qxe6+ Kf8 27.Qf6+ 1-0
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Thomas George A (ENG)"]
@@ -163,7 +156,6 @@ Rf7 19.f5 Qf8 20.Qb3 Kh8 21.Nf4 Ne5 22.Qxb7 Rb8 23.Qxa6 Rxb2
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Yates Frederick"]
@@ -190,7 +182,6 @@ Bb8 42.Ne3 Rh7 43.Nxf5+ Kf7 44.e6+ Kf6 45.e7 Rxe7 46.Nxe7 Kxe7
 
 [Event "Simultan"]
 [Site "Bristol (England)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Gaye A"]
@@ -211,7 +202,6 @@ Rxd1+ 25.Rxd1 Nc6 26.Ng4 Qb8 27.Nexf6 Bxf6 28.Nxf6 Kg7 29.Qg5+ 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Germann L"]
@@ -235,7 +225,6 @@ Ra6 42.Rb6+ 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Ward Warren"]
@@ -255,7 +244,6 @@ Nf4 20.gxf4 Bg4 21.f3 Bxf3 22.Qf2 Bh4 23.Ng3 1-0
 
 [Event ""]
 [Site "Rotterdam (Netherlands)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Oskam Gerard"]
@@ -277,7 +265,6 @@ Kg7 31.Rf7+ Kh8 32.d7 1-0
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1921.??.??"]
 [Round "1"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -302,7 +289,6 @@ Re6+ 41.Kd4 Rd6+ 42.Ke3 Re6+ 43.Kf2 Rd6 44.g4 Rd1 45.Ke2 Ra1
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1921.??.??"]
 [Round "3"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -329,7 +315,6 @@ Bf7 60.Nf5 Rfh8 61.Ne3 Ke6 62.Nd5 Rc8 63.Ne3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1921.??.??"]
 [Round "5"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -354,7 +339,6 @@ Qd6 40.Qf4 Qd1+ 41.Qf1 Qd7 42.Rxh5 Nxe3 43.Qf3 Qd4 44.Qa8+ Ke7
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1921.??.??"]
 [Round "7"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -374,7 +358,6 @@ Qb6 19.Rc1 Rfc8 20.Qxb6 axb6 21.Rxc8+ Rxc8 22.Rc1 Rxc1+ 23.Nxc1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1921.??.??"]
 [Round "9"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -395,7 +378,6 @@ Bg4 19.Rc1 Re5 20.Qd3 Rbe8 21.Bf3 Bxf3 22.Nxf3 Re4 23.Rc4 Qe6
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1921.??.??"]
 [Round "11"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -420,7 +402,6 @@ Qd6 48.Qxf8+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1921.??.??"]
 [Round "13"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -440,7 +421,6 @@ Nc6 19.Qb5 a6 20.Qxb6 Nxb6 21.Rxd8+ Nxd8 22.Ne2 Kf8 23.Rxc8 Nxc8 1/2-1/2
 
 [Event ""]
 [Site "Cleveland (USA)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Andersson Erik"]
@@ -465,7 +445,6 @@ Kf6 48.Ka3 Ke5 49.Ka4 Kd4 50.Bg8 Nf4 51.Bh7 Nxg6 52.Bxg6 Kxc4 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -489,7 +468,6 @@ Ke7 37.Be2 Qe4 38.Kd2 c5 39.Bd3 Qg2 40.Qh4+ Qg5 41.Qxg5+ Rxg5
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Malowan W"]
@@ -513,14 +491,12 @@ Bc2 41.Rh5 Bxg6 42.Rh8+ Kd7 43.Ra8 a5 44.Bg5 Kd6 45.Rc8 Kc5 1/2-1/2
 
 [Event "Simul, 32b"]
 [Site "Barcelona ESP"]
-[Date "1920.02.20"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "M Coll"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "1920.02.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -533,14 +509,12 @@ Bc2 41.Rh5 Bxg6 42.Rh8+ Kd7 43.Ra8 a5 44.Bg5 Kd6 45.Rc8 Kc5 1/2-1/2
 
 [Event "Simul, 40b"]
 [Site "New York, NY USA"]
-[Date "1922.02.23"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A Chase"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "1922.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -553,14 +527,12 @@ Bc2 41.Rh5 Bxg6 42.Rh8+ Kd7 43.Ra8 a5 44.Bg5 Kd6 45.Rc8 Kc5 1/2-1/2
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1922.08.16"]
 [Round "13"]
 [White "Jose Raul Capablanca"]
 [Black "Milan Vidmar"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1922.07.31"]
 [PlyCount "83"]
 [WhiteElo "?"]
 

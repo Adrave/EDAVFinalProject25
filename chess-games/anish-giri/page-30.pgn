@@ -1,6 +1,5 @@
 [Event "3rd Sinquefield Cup 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.08.31"]
 [Round "8.4"]
 [White "Giri, A."]
 [Black "Caruana, F."]
@@ -9,7 +8,6 @@
 [WhiteElo "2793"]
 [BlackElo "2808"]
 [PlyCount "137"]
-[EventDate "2015.08.23"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -32,7 +30,6 @@ Ke7 65. Ra3 Ke6 66. Re3+ Kf5 67. Rf3+ Ke5 68. Re3+ Re4 69. Ra3 1/2-1/2
 
 [Event "7th London Classic 2015"]
 [Site "London ENG"]
-[Date "2015.12.07"]
 [Round "4.2"]
 [White "Giri, A."]
 [Black "Aronian, L."]
@@ -41,7 +38,6 @@ Ke7 65. Ra3 Ke6 66. Re3+ Kf5 67. Rf3+ Ke5 68. Re3+ Re4 69. Ra3 1/2-1/2
 [WhiteElo "2784"]
 [BlackElo "2788"]
 [PlyCount "65"]
-[EventDate "2015.12.04"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -59,7 +55,6 @@ Rxb5 1/2-1/2
 
 [Event "7th London Classic 2015"]
 [Site "London ENG"]
-[Date "2015.12.05"]
 [Round "2.2"]
 [White "Giri, A."]
 [Black "Adams, Mi"]
@@ -68,7 +63,6 @@ Rxb5 1/2-1/2
 [WhiteElo "2784"]
 [BlackElo "2737"]
 [PlyCount "52"]
-[EventDate "2015.12.04"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -84,7 +78,6 @@ Qe7 15. Bd3 h6 16. Qc3 a6 17. O-O Bd7 18. Nc4 Rab8 19. Nb6 Rfd8 20. Rac1 Be8
 
 [Event "20th European Teams"]
 [Site "Reykjavik ISL"]
-[Date "2015.11.14"]
 [Round "2.3"]
 [White "Giri, A."]
 [Black "Saric, Iv"]
@@ -93,7 +86,6 @@ Qe7 15. Bd3 h6 16. Qc3 a6 17. O-O Bd7 18. Nc4 Rab8 19. Nb6 Rfd8 20. Rac1 Be8
 [WhiteElo "2778"]
 [BlackElo "2652"]
 [PlyCount "87"]
-[EventDate "2015.11.13"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "ISL"]
@@ -115,7 +107,6 @@ Bf4 Bb4 41. Be5 Rc5 42. Rd6+ Kh7 43. Re6 Rc2 44. Re8 1/2-1/2
 
 [Event "20th European Teams"]
 [Site "Reykjavik ISL"]
-[Date "2015.11.22"]
 [Round "9.2"]
 [White "Giri, A."]
 [Black "Vachier Lagrave, M."]
@@ -124,7 +115,6 @@ Bf4 Bb4 41. Be5 Rc5 42. Rd6+ Kh7 43. Re6 Rc2 44. Re8 1/2-1/2
 [WhiteElo "2778"]
 [BlackElo "2765"]
 [PlyCount "60"]
-[EventDate "2015.11.13"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "ISL"]
@@ -144,7 +134,6 @@ Nd5 22. Bxb7 Rxb7 23. Nc4 Rba7 24. Bd2 a4 25. b4 Rb7 26. Reb1 Rb5 27. Nd6 Rb6
 
 [Event "20th European Teams"]
 [Site "Reykjavik ISL"]
-[Date "2015.11.20"]
 [Round "7.10"]
 [White "Giri, A."]
 [Black "Adams, Mi"]
@@ -153,7 +142,6 @@ Nd5 22. Bxb7 Rxb7 23. Nc4 Rba7 24. Bd2 a4 25. b4 Rb7 26. Reb1 Rb5 27. Nd6 Rb6
 [WhiteElo "2778"]
 [BlackElo "2744"]
 [PlyCount "80"]
-[EventDate "2015.11.13"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "ISL"]
@@ -175,7 +163,6 @@ Na4 c4 16. Ne5 Ra7 17. f4 Nd7 18. e4 Nxe5 19. dxe5 Be7 20. exd5 Bxd5 21. Qd4 c3
 
 [Event "8th Grand Slam Masters"]
 [Site "Bilbao ESP"]
-[Date "2015.10.27"]
 [Round "2.2"]
 [White "Giri, A."]
 [Black "So, W."]
@@ -184,7 +171,6 @@ Na4 c4 16. Ne5 Ra7 17. f4 Nd7 18. e4 Nxe5 19. dxe5 Be7 20. exd5 Bxd5 21. Qd4 c3
 [WhiteElo "2798"]
 [BlackElo "2760"]
 [PlyCount "96"]
-[EventDate "2015.10.26"]
 [EventType "tourn"]
 [EventRounds "6"]
 [EventCountry "ESP"]
@@ -204,7 +190,6 @@ g4 48. Bxe6 Bxe6 1/2-1/2
 
 [Event "8th Grand Slam Masters"]
 [Site "Bilbao ESP"]
-[Date "2015.10.31"]
 [Round "5.1"]
 [White "Giri, A."]
 [Black "Ding Liren"]
@@ -213,7 +198,6 @@ g4 48. Bxe6 Bxe6 1/2-1/2
 [WhiteElo "2798"]
 [BlackElo "2782"]
 [PlyCount "84"]
-[EventDate "2015.10.26"]
 [EventType "tourn"]
 [EventRounds "6"]
 [EventCountry "ESP"]
@@ -232,7 +216,6 @@ Rxd2 Nxd2 35. Rd1 Rxe2 36. Rxd2 Re1+ 37. Kf2 Rxc1 38. Rxd6 Rc2+ 39. Kg1 Rxb2
 
 [Event "8th Grand Slam Masters TB"]
 [Site "Bilbao ESP"]
-[Date "2015.11.01"]
 [Round "2"]
 [White "Giri, A."]
 [Black "So, W."]
@@ -241,7 +224,6 @@ Rxd2 Nxd2 35. Rd1 Rxe2 36. Rxd2 Re1+ 37. Kf2 Rxc1 38. Rxd6 Rc2+ 39. Kg1 Rxb2
 [WhiteElo "2778"]
 [BlackElo "2767"]
 [PlyCount "196"]
-[EventDate "2015.11.01"]
 [EventType "match (blitz)"]
 [EventRounds "2"]
 [EventCountry "ESP"]
@@ -268,7 +250,6 @@ Bd8 93. Ra7 Kc5 94. Rxa3 Kxb5 95. Kg7 Re8 96. Rd3 Bc7 97. Rc3 Be5+ 98. Kf7 Bxc3
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.12"]
 [Round "3.3"]
 [White "Giri, A."]
 [Black "Caruana, F."]
@@ -277,7 +258,6 @@ Bd8 93. Ra7 Kc5 94. Rxa3 Kxb5 95. Kg7 Re8 96. Rd3 Bc7 97. Rc3 Be5+ 98. Kf7 Bxc3
 [WhiteElo "2784"]
 [BlackElo "2820"]
 [PlyCount "194"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -305,7 +285,6 @@ Re6 Kc7 86. Kf4 Kd7 87. Rh6 Kc7 88. Kf3 Kd7 89. Ke2 Bc5 90. Kf3 Bd4 91. Rh4 Bc5
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.10"]
 [Round "1.4"]
 [White "Giri, A."]
 [Black "Carlsen, M."]
@@ -314,7 +293,6 @@ Re6 Kc7 86. Kf4 Kd7 87. Rh6 Kc7 88. Kf3 Kd7 89. Ke2 Bc5 90. Kf3 Bd4 91. Rh4 Bc5
 [WhiteElo "2784"]
 [BlackElo "2862"]
 [PlyCount "60"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -331,7 +309,6 @@ g3 b5 28. b3 Ke6 29. Ke3 h6 30. f4 h5 1/2-1/2
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.17"]
 [Round "7.5"]
 [White "Giri, A."]
 [Black "Ivanchuk, V."]
@@ -340,7 +317,6 @@ g3 b5 28. b3 Ke6 29. Ke3 h6 30. f4 h5 1/2-1/2
 [WhiteElo "2784"]
 [BlackElo "2715"]
 [PlyCount "204"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -369,7 +345,6 @@ Kh6 1/2-1/2
 
 [Event "Tbilisi FIDE GP 2015"]
 [Site "Tbilisi GEO"]
-[Date "2015.02.16"]
 [Round "2.3"]
 [White "Giri, A."]
 [Black "Vachier Lagrave, M."]
@@ -378,7 +353,6 @@ Kh6 1/2-1/2
 [WhiteElo "2797"]
 [BlackElo "2775"]
 [PlyCount "82"]
-[EventDate "2015.02.15"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "GEO"]
@@ -397,7 +371,6 @@ Kg6 Kb5 41. Ra8 Kb4 1/2-1/2
 
 [Event "Tbilisi FIDE GP 2015"]
 [Site "Tbilisi GEO"]
-[Date "2015.02.21"]
 [Round "6.2"]
 [White "Giri, A."]
 [Black "Jobava, Ba"]
@@ -406,7 +379,6 @@ Kg6 Kb5 41. Ra8 Kb4 1/2-1/2
 [WhiteElo "2797"]
 [BlackElo "2696"]
 [PlyCount "118"]
-[EventDate "2015.02.15"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "GEO"]
@@ -428,7 +400,6 @@ Rd4 1/2-1/2
 
 [Event "Tbilisi FIDE GP 2015"]
 [Site "Tbilisi GEO"]
-[Date "2015.02.23"]
 [Round "8.1"]
 [White "Giri, A."]
 [Black "Grischuk, A."]
@@ -437,7 +408,6 @@ Rd4 1/2-1/2
 [WhiteElo "2797"]
 [BlackElo "2810"]
 [PlyCount "77"]
-[EventDate "2015.02.15"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "GEO"]
@@ -456,7 +426,6 @@ Kf6 34. Nf2 Kxf5 35. Ng4 Kg6 36. Bc2+ Kg7 37. Ne3 e6 38. Bb3 Nf5 39. Ke4
 
 [Event "Tbilisi FIDE GP 2015"]
 [Site "Tbilisi GEO"]
-[Date "2015.02.18"]
 [Round "4.6"]
 [White "Giri, A."]
 [Black "Andreikin, D."]
@@ -465,7 +434,6 @@ Kf6 34. Nf2 Kxf5 35. Ng4 Kg6 36. Bc2+ Kg7 37. Ne3 e6 38. Bb3 Nf5 39. Ke4
 [WhiteElo "2797"]
 [BlackElo "2737"]
 [PlyCount "61"]
-[EventDate "2015.02.15"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "GEO"]
@@ -482,7 +450,6 @@ Nh4 Kf7 28. Kf1 f5 29. Nxg6 Kxg6 30. f4 Kf6 31. fxe5+ 1/2-1/2
 
 [Event "Tbilisi FIDE GP 2015"]
 [Site "Tbilisi GEO"]
-[Date "2015.02.27"]
 [Round "11.6"]
 [White "Giri, A."]
 [Black "Dominguez Perez, L."]
@@ -491,7 +458,6 @@ Nh4 Kf7 28. Kf1 f5 29. Nxg6 Kxg6 30. f4 Kf6 31. fxe5+ 1/2-1/2
 [WhiteElo "2797"]
 [BlackElo "2726"]
 [PlyCount "126"]
-[EventDate "2015.02.15"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "GEO"]
@@ -513,7 +479,6 @@ Bf1 Kf6 61. Ng5 Ke7 62. Ne4 Nh7 63. Be2 Nhf6 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2015"]
 [Site "Shamkir AZE"]
-[Date "2015.04.20"]
 [Round "4.1"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -522,7 +487,6 @@ Bf1 Kf6 61. Ng5 Ke7 62. Ne4 Nh7 63. Be2 Nhf6 1/2-1/2
 [WhiteElo "2790"]
 [BlackElo "2756"]
 [PlyCount "81"]
-[EventDate "2015.04.17"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -541,7 +505,6 @@ Bd6 Nf6 41. Ra1 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2015"]
 [Site "Shamkir AZE"]
-[Date "2015.04.18"]
 [Round "2.1"]
 [White "Giri, A."]
 [Black "Mamedov, Rau"]
@@ -550,7 +513,6 @@ Bd6 Nf6 41. Ra1 1/2-1/2
 [WhiteElo "2790"]
 [BlackElo "2658"]
 [PlyCount "111"]
-[EventDate "2015.04.17"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -571,7 +533,6 @@ a5 Kb7 54. Be2 Nd5 55. a6+ Ka7 56. Rb1 1/2-1/2
 
 [Event "Vugar Gashimov Mem 2015"]
 [Site "Shamkir AZE"]
-[Date "2015.04.26"]
 [Round "9.4"]
 [White "Giri, A."]
 [Black "Kramnik, V."]
@@ -580,7 +541,6 @@ a5 Kb7 54. Be2 Nd5 55. a6+ Ka7 56. Rb1 1/2-1/2
 [WhiteElo "2790"]
 [BlackElo "2783"]
 [PlyCount "160"]
-[EventDate "2015.04.17"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -605,7 +565,6 @@ Rg4+ Kf5 79. Nxh6+ Kxe6 80. Re4+ Kf6 1/2-1/2
 
 [Event "7th London Classic TB"]
 [Site "London ENG"]
-[Date "2015.12.13"]
 [Round "1.3"]
 [White "Giri, A."]
 [Black "Vachier Lagrave, M."]
@@ -614,7 +573,6 @@ Rg4+ Kf5 79. Nxh6+ Kxe6 80. Re4+ Kf6 1/2-1/2
 [WhiteElo "2784"]
 [BlackElo "2773"]
 [PlyCount "82"]
-[EventDate "2015.12.13"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -632,7 +590,6 @@ Re6+ 40. Kf3 Rf6+ 41. Kg4 Rd4+ 0-1
 
 [Event "7th London Classic TB"]
 [Site "London ENG"]
-[Date "2015.12.13"]
 [Round "1.2"]
 [White "Giri, A."]
 [Black "Vachier Lagrave, M."]
@@ -641,7 +598,6 @@ Re6+ 40. Kf3 Rf6+ 41. Kg4 Rd4+ 0-1
 [WhiteElo "2784"]
 [BlackElo "2773"]
 [PlyCount "118"]
-[EventDate "2015.12.13"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -661,7 +617,6 @@ Nd5+ 55. Kd6 h4 56. gxh4+ Kxh4 57. Ne5 Nf4 58. Rh6+ Kg5 59. Rh8 Rxe5 0-1
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.16"]
 [Round "2.3"]
 [White "Giri, Anish"]
 [Black "Motylev, Alexander"]
@@ -669,7 +624,6 @@ Nd5+ 55. Kd6 h4 56. gxh4+ Kxh4 57. Ne5 Nf4 58. Rh6+ Kg5 59. Rh8 Rxe5 0-1
 [WhiteElo "2793"]
 [BlackElo "2649"]
 [ECO "A07"]
-[EventDate "2015.09.11"]
 
 1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nf6 5. d3 Nbd7 6. h3 Bh5 7. Qe1 e5 8.
  e4 dxe4 9. dxe4 Be7 10. Nbd2 O-O 11. Nc4 Qc7 12. Nh4 Rfe8 13. a4 a5 14. 
@@ -681,7 +635,6 @@ Ne7+ Kh8 32. Nxg6+ hxg6 33. Rfd2 Rb7 34. Bf1 1-0
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.29"]
 [Round "6.1"]
 [White "Giri, Anish"]
 [Black "Svidler, Peter"]
@@ -689,7 +642,6 @@ Ne7+ Kh8 32. Nxg6+ hxg6 33. Rfd2 Rb7 34. Bf1 1-0
 [WhiteElo "2793"]
 [BlackElo "2727"]
 [ECO "C92"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. c3 d6 9. h3 Bb7 10. d4 Re8 11. Nbd2 exd4 12. cxd4 Nd7 13. Nf1 Na5 14. 
@@ -702,7 +654,6 @@ Kg8 39. Nh6+ Kg7 40. Nf5+ gxf5 41. Qh5 Ng6 0-1
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.22"]
 [Round "4.3"]
 [White "Giri, Anish"]
 [Black "Wojtaszek, Radoslaw"]
@@ -710,7 +661,6 @@ Kg8 39. Nh6+ Kg7 40. Nf5+ gxf5 41. Qh5 Ng6 0-1
 [WhiteElo "2793"]
 [BlackElo "2741"]
 [ECO "A18"]
-[EventDate "2015.09.11"]
 
 1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. Nf3 Bf5 7. d4 Bb4 
 8. Bd2 Bxc3 9. Bxc3 O-O 10. Be2 c5 11. dxc5 Nxc3 12. bxc3 Be4 13. O-O Nd7 

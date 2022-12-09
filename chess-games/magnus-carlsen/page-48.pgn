@@ -1,6 +1,5 @@
 [Event "Sparkassen GM"]
 [Site "Dortmund GER"]
-[Date "2009.07.02"]
 [Round "1"]
 [White "Carlsen, M."]
 [Black "Jakovenko, D."]
@@ -9,7 +8,6 @@
 [WhiteElo "2772"]
 [BlackElo "2760"]
 [PlyCount "97"]
-[EventDate "2009.07.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Ne2 Be7 12. Bg5 Be6 13. Nf4 Bd5 14. Bxe7
@@ -23,7 +21,6 @@ h7 Kg7 47. Nxf7 Kxh7 48. Ng5+ Kg6 49. Ne6 1-0
 
 [Event "Sparkassen GM"]
 [Site "Dortmund GER"]
-[Date "2009.07.06"]
 [Round "5"]
 [White "Carlsen, M."]
 [Black "Naiditsch, A."]
@@ -32,7 +29,6 @@ h7 Kg7 47. Nxf7 Kxh7 48. Ng5+ Kg6 49. Ne6 1-0
 [WhiteElo "2772"]
 [BlackElo "2697"]
 [PlyCount "119"]
-[EventDate "2009.07.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
 8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Ne7 11. Bf4 Ng6 12. Bg3 Ke8 13. Rad1 Bb4 14. Ne2
@@ -48,7 +44,6 @@ Ng7 54. h5 Ne6 55. h6 c6 56. Ke4 b5 57. Ke5 Ng5 58. Kf5 Nf7 59. h7 Kxe3 60. g5
 
 [Event "Sparkassen GM"]
 [Site "Dortmund GER"]
-[Date "2009.07.02"]
 [Round "1"]
 [White "Carlsen, M."]
 [Black "Jakovenko, D."]
@@ -57,7 +52,6 @@ Ng7 54. h5 Ne6 55. h6 c6 56. Ke4 b5 57. Ke5 Ng5 58. Kf5 Nf7 59. h7 Kxe3 60. g5
 [WhiteElo "2772"]
 [BlackElo "2760"]
 [PlyCount "97"]
-[EventDate "2009.07.02"]
 [EventRounds "10"]
 [EventCountry "GER"]
 [EventCategory "20"]
@@ -76,7 +70,6 @@ h7 Kg7 47. Nxf7 Kxh7 48. Ng5+ Kg6 49. Ne6 1-0
 
 [Event "Sparkassen GM"]
 [Site "Dortmund GER"]
-[Date "2009.07.06"]
 [Round "5"]
 [White "Carlsen, M."]
 [Black "Naiditsch, A."]
@@ -85,7 +78,6 @@ h7 Kg7 47. Nxf7 Kxh7 48. Ng5+ Kg6 49. Ne6 1-0
 [WhiteElo "2772"]
 [BlackElo "2697"]
 [PlyCount "119"]
-[EventDate "2009.07.02"]
 [EventRounds "10"]
 [EventCountry "GER"]
 [EventCategory "20"]
@@ -106,7 +98,6 @@ Ng7 54. h5 Ne6 55. h6 c6 56. Ke4 b5 57. Ke5 Ng5 58. Kf5 Nf7 59. h7 Kxe3 60. g5
 
 [Event "2nd Pearl Spring"]
 [Site "Nanjing CHN"]
-[Date "2009.09.28"]
 [Round "1"]
 [White "Carlsen, M."]
 [Black "Leko, P."]
@@ -115,7 +106,6 @@ Ng7 54. h5 Ne6 55. h6 c6 56. Ke4 b5 57. Ke5 Ng5 58. Kf5 Nf7 59. h7 Kxe3 60. g5
 [WhiteElo "2772"]
 [BlackElo "2762"]
 [PlyCount "87"]
-[EventDate "2009.09.28"]
 [EventRounds "10"]
 [EventCountry "CHN"]
 [EventCategory "21"]
@@ -133,7 +123,6 @@ Nxc7 Bb7 35. Rb6 f6 36. Bd4 Qf7 37. Ne6 Rg8 38. Kf2 Rbc8 39. Bc3 Bd5 40. a5 Rc4
 
 [Event "2nd Pearl Spring"]
 [Site "Nanjing CHN"]
-[Date "2009.09.29"]
 [Round "2"]
 [White "Carlsen, M."]
 [Black "Topalov, V."]
@@ -142,7 +131,6 @@ Nxc7 Bb7 35. Rb6 f6 36. Bd4 Qf7 37. Ne6 Rg8 38. Kf2 Rbc8 39. Bc3 Bd5 40. a5 Rc4
 [WhiteElo "2772"]
 [BlackElo "2813"]
 [PlyCount "81"]
-[EventDate "2009.09.28"]
 [EventRounds "10"]
 [EventCountry "CHN"]
 [EventCategory "21"]
@@ -160,7 +148,6 @@ Re8 41. Rc1 1-0
 
 [Event "2nd Pearl Spring"]
 [Site "Nanjing CHN"]
-[Date "2009.10.02"]
 [Round "5"]
 [White "Carlsen, M."]
 [Black "Radjabov, T."]
@@ -169,7 +156,6 @@ Re8 41. Rc1 1-0
 [WhiteElo "2772"]
 [BlackElo "2757"]
 [PlyCount "49"]
-[EventDate "2009.09.28"]
 [EventRounds "10"]
 [EventCountry "CHN"]
 [EventCategory "21"]
@@ -184,7 +170,6 @@ Qe2 Nc4 22. Rfc1 Bc5 23. Nxb5 O-O 24. Nxc5 Nxe5 25. Be7 1-0
 
 [Event "2nd Pearl Spring"]
 [Site "Nanjing CHN"]
-[Date "2009.10.06"]
 [Round "8"]
 [White "Carlsen, M."]
 [Black "Wang Yue"]
@@ -193,7 +178,6 @@ Qe2 Nc4 22. Rfc1 Bc5 23. Nxb5 O-O 24. Nxc5 Nxe5 25. Be7 1-0
 [WhiteElo "2772"]
 [BlackElo "2736"]
 [PlyCount "137"]
-[EventDate "2009.09.28"]
 [EventRounds "10"]
 [EventCountry "CHN"]
 [EventCategory "21"]
@@ -215,7 +199,6 @@ Rb1+ Ka7 65. Rb7+ Ka6 66. Rb6+ Ka5 67. Rb5+ Ka4 68. Nb6+ Ka3 69. Rxe5 1-0
 
 [Event "2nd Pearl Spring"]
 [Site "Nanjing CHN"]
-[Date "2009.10.09"]
 [Round "10"]
 [White "Carlsen, M."]
 [Black "Jakovenko, D."]
@@ -224,7 +207,6 @@ Rb1+ Ka7 65. Rb7+ Ka6 66. Rb6+ Ka5 67. Rb5+ Ka4 68. Nb6+ Ka3 69. Rxe5 1-0
 [WhiteElo "2772"]
 [BlackElo "2742"]
 [PlyCount "75"]
-[EventDate "2009.09.28"]
 [EventRounds "10"]
 [EventCountry "CHN"]
 [EventCategory "21"]
@@ -241,7 +223,6 @@ h4 c5 35. f6 gxf6 36. gxf6 Rd3+ 37. Kh2 Rd2+ 38. Kh1 1-0
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2009.11.13"]
 [Round "8"]
 [White "Carlsen, M."]
 [Black "Ponomariov, R."]
@@ -250,7 +231,6 @@ h4 c5 35. f6 gxf6 36. gxf6 Rd3+ 37. Kh2 Rd2+ 38. Kh1 1-0
 [WhiteElo "2801"]
 [BlackElo "2739"]
 [PlyCount "61"]
-[EventDate "2009.11.05"]
 [EventRounds "9"]
 [EventCountry "RUS"]
 [EventCategory "21"]
@@ -266,7 +246,6 @@ Rxd1+ 28. Rxd1 Qf6 29. Rd7 Bxd7 30. exd7+ Kf8 31. Qd5 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "2"]
 [White "Carlsen, M."]
 [Black "Kramnik, V."]
@@ -275,7 +254,6 @@ Rxd1+ 28. Rxd1 Qf6 29. Rd7 Bxd7 30. exd7+ Kf8 31. Qd5 1-0
 [WhiteElo "2801"]
 [BlackElo "2772"]
 [PlyCount "44"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -291,7 +269,6 @@ Bf4 Rxa7 22. Bxd6 exd6 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "6"]
 [White "Carlsen, M."]
 [Black "Morozevich, A."]
@@ -300,7 +277,6 @@ Bf4 Rxa7 22. Bxd6 exd6 1-0
 [WhiteElo "2801"]
 [BlackElo "2750"]
 [PlyCount "51"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -316,7 +292,6 @@ Kg8 22. Ng5 Nc5 23. Ne6 Bxe6 24. dxe6 c6 25. e7 Ne6 26. Rf8+ 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "8"]
 [White "Carlsen, M."]
 [Black "Ponomariov, R."]
@@ -325,7 +300,6 @@ Kg8 22. Ng5 Nc5 23. Ne6 Bxe6 24. dxe6 c6 25. e7 Ne6 26. Rf8+ 1-0
 [WhiteElo "2801"]
 [BlackElo "2739"]
 [PlyCount "65"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -343,7 +317,6 @@ Rb1 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.16"]
 [Round "10"]
 [White "Carlsen, M."]
 [Black "Mamedyarov, S."]
@@ -352,7 +325,6 @@ Rb1 1-0
 [WhiteElo "2801"]
 [BlackElo "2719"]
 [PlyCount "37"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -367,7 +339,6 @@ Qd2 Qa5 9. Rc1 O-O 10. Nf3 e6 11. Be2 Rd8 12. Bg5 Re8 13. O-O Nc6 14. Rfd1 cxd4
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "17"]
 [White "Carlsen, M."]
 [Black "Anand, V."]
@@ -376,7 +347,6 @@ Qd2 Qa5 9. Rc1 O-O 10. Nf3 e6 11. Be2 Rd8 12. Bg5 Re8 13. O-O Nc6 14. Rfd1 cxd4
 [WhiteElo "2801"]
 [BlackElo "2788"]
 [PlyCount "137"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -399,7 +369,6 @@ Kc4 Nd2+ 67. Kb4 h5 68. a5 Ke6 69. a6 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "21"]
 [White "Carlsen, M."]
 [Black "Leko, P."]
@@ -408,7 +377,6 @@ Kc4 Nd2+ 67. Kb4 h5 68. a5 Ke6 69. a6 1-0
 [WhiteElo "2801"]
 [BlackElo "2752"]
 [PlyCount "175"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -434,7 +402,6 @@ Ke6 Kc8 86. Rc7+ Kd8 87. Rc2 Rd3 88. Bh4+ 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "24"]
 [White "Carlsen, M."]
 [Black "Gashimov, V."]
@@ -443,7 +410,6 @@ Ke6 Kc8 86. Rc7+ Kd8 87. Rc2 Rd3 88. Bh4+ 1-0
 [WhiteElo "2801"]
 [BlackElo "2758"]
 [PlyCount "55"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -460,7 +426,6 @@ Rd5 h6 28. Qh7+ 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "26"]
 [White "Carlsen, M."]
 [Black "Bareev, E."]
@@ -469,7 +434,6 @@ Rd5 h6 28. Qh7+ 1-0
 [WhiteElo "2801"]
 [BlackElo "2634"]
 [PlyCount "51"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -486,7 +450,6 @@ Bxe7 21. Rxc6+ Kd7 22. Rxd6+ Bxd6 23. Bxd5 Rc8 24. g3 h5 25. Qb5+ Kd8 26. Bc6
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "28"]
 [White "Carlsen, M."]
 [Black "Svidler, P."]
@@ -495,7 +458,6 @@ Bxe7 21. Rxc6+ Kd7 22. Rxd6+ Bxd6 23. Bxd5 Rc8 24. g3 h5 25. Qb5+ Kd8 26. Bc6
 [WhiteElo "2801"]
 [BlackElo "2754"]
 [PlyCount "93"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -515,7 +477,6 @@ Kd4 Ka6 47. Ke3 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "30"]
 [White "Carlsen, M."]
 [Black "Grischuk, A."]
@@ -524,7 +485,6 @@ Kd4 Ka6 47. Ke3 1-0
 [WhiteElo "2801"]
 [BlackElo "2736"]
 [PlyCount "177"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -550,7 +510,6 @@ e2 85. Qxh2+ Kf1 86. Qh3+ Kf2 87. Qh4+ Kf1 88. Qf4+ Kg2 89. Qe3 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "32"]
 [White "Carlsen, M."]
 [Black "Tkachiev, V."]
@@ -559,7 +518,6 @@ e2 85. Qxh2+ Kf1 86. Qh3+ Kf2 87. Qh4+ Kf1 88. Qf4+ Kg2 89. Qe3 1-0
 [WhiteElo "2801"]
 [BlackElo "2642"]
 [PlyCount "101"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -579,7 +537,6 @@ b4 Re8 34. b5 Rc8 35. Nd3 c5 36. Rc4 d5 37. exd5 Rxd5 38. Rf4 Rd6 39. Re2 Rf8
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "34"]
 [White "Carlsen, M."]
 [Black "Karjakin, Sergey"]
@@ -588,7 +545,6 @@ b4 Re8 34. b5 Rc8 35. Nd3 c5 36. Rc4 d5 37. exd5 Rxd5 38. Rf4 Rd6 39. Re2 Rf8
 [WhiteElo "2801"]
 [BlackElo "2723"]
 [PlyCount "139"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -611,7 +567,6 @@ Kd1 Kd3 67. Rd6+ Ke4 68. Rd7 Rh5 69. h7 Kf4 70. g6 1-0
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "36"]
 [White "Carlsen, M."]
 [Black "Naiditsch, A."]
@@ -620,7 +575,6 @@ Kd1 Kd3 67. Rd6+ Ke4 68. Rd7 Rh5 69. h7 Kf4 70. g6 1-0
 [WhiteElo "2801"]
 [BlackElo "2689"]
 [PlyCount "99"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -640,7 +594,6 @@ a4 h5 47. a5 bxa5 48. bxa5 Re1 49. a6 Re7 50. Kxa1 1-0
 
 [Event "BNbank Blitz GpA"]
 [Site "Oslo NOR"]
-[Date "2009.11.28"]
 [Round "2"]
 [White "Carlsen, M."]
 [Black "Hansen, Pa"]
@@ -649,7 +602,6 @@ a4 h5 47. a5 bxa5 48. bxa5 Re1 49. a6 Re7 50. Kxa1 1-0
 [WhiteElo "2801"]
 [BlackElo "2072"]
 [PlyCount "57"]
-[EventDate "2009.11.28"]
 [EventType "blitz"]
 [EventRounds "6"]
 [EventCountry "NOR"]
@@ -666,7 +618,6 @@ Rb2 22. e5 Qf5 23. exd6 Rc2 24. Qd1 Rxc3 25. dxe7 Re8 26. d6 Bc8 27. Bc6 Bd7
 
 [Event "BNbank Blitz GpA"]
 [Site "Oslo NOR"]
-[Date "2009.11.28"]
 [Round "6"]
 [White "Carlsen, M."]
 [Black "Cmilyte, V."]
@@ -675,7 +626,6 @@ Rb2 22. e5 Qf5 23. exd6 Rc2 24. Qd1 Rxc3 25. dxe7 Re8 26. d6 Bc8 27. Bc6 Bd7
 [WhiteElo "2801"]
 [BlackElo "2480"]
 [PlyCount "61"]
-[EventDate "2009.11.28"]
 [EventType "blitz"]
 [EventRounds "6"]
 [EventCountry "NOR"]

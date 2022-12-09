@@ -1,6 +1,5 @@
 [Event "Corus B"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.14"]
 [Round "3"]
 [White "Nepomniachtchi, I."]
 [Black "Sargissian, G."]
@@ -9,7 +8,6 @@
 [WhiteElo "2600"]
 [BlackElo "2676"]
 [PlyCount "101"]
-[EventDate "2008.01.12"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. Nd2 c6 8.
 Ba4 d6 9. c3 Bb6 10. Bb3 h6 11. Nc4 Bc7 12. Ne3 O-O 13. Qf3 g6 14. g4 h5 15. h3
@@ -23,7 +21,6 @@ Rc4 Kh6 41. Rg4 Kh5 42. Rg7 a5 43. Ke3 b5 44. Ke4 Rd8 45. Rg6 Rd6 46. d4 exd4
 
 [Event "Corus B"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.22"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Stellwagen, D."]
@@ -32,7 +29,6 @@ Rc4 Kh6 41. Rg4 Kh5 42. Rg7 a5 43. Ke3 b5 44. Ke4 Rd8 45. Rg6 Rd6 46. d4 exd4
 [WhiteElo "2600"]
 [BlackElo "2625"]
 [PlyCount "87"]
-[EventDate "2008.01.12"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Qf3 Nc6 7. Nxc6 Qxc6 8.
 Qg3 b5 9. Bd3 Bb7 10. a3 Ne7 11. Bd2 f6 12. h4 Nc8 13. h5 Nd6 14. Rh4 Nc4 15.
@@ -45,7 +41,6 @@ Bxd3 41. Kb4 Ka6 42. Rh1 Be3 43. Rd1 Bc2 44. Rd7 1-0
 
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2008.02.14"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Andriasian, Z."]
@@ -54,7 +49,6 @@ Bxd3 41. Kb4 Ka6 42. Rh1 Be3 43. Rd1 Bc2 44. Rd7 1-0
 [WhiteElo "2600"]
 [BlackElo "2532"]
 [PlyCount "89"]
-[EventDate "2008.02.14"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
 Nf6 9. Bg5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. Qf3 Be6 14. Rd1 Be7 15.
@@ -67,7 +61,6 @@ Rb6 35. Qc4 Rb8 36. Rd3 Rf8 37. Rb3 Qb6 38. a3 Qc5 39. axb4 axb4 40. Qxb4 Qxb4
 
 [Event "Open A"]
 [Site "Moscow RUS"]
-[Date "2009.02.08"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Korotylev, A."]
@@ -76,7 +69,6 @@ Rb6 35. Qc4 Rb8 36. Rd3 Rf8 37. Rb3 Qb6 38. a3 Qc5 39. axb4 axb4 40. Qxb4 Qxb4
 [WhiteElo "2628"]
 [BlackElo "2587"]
 [PlyCount "75"]
-[EventDate "2009.01.31"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
 Bd7 9. Bd2 b4 10. a5 O-O 11. Be3 Qc8 12. h3 Be6 13. Nbd2 Bxb3 14. Nxb3 d5 15.
@@ -88,7 +80,6 @@ Nxd4 Rxd4 35. Nd2 Rxe4 36. Rxe4 Rd5 37. Nb3 f5 38. Re1 1/2-1/2
 
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2009.02.18"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Minasian, Art"]
@@ -97,7 +88,6 @@ Nxd4 Rxd4 35. Nd2 Rxe4 36. Rxe4 Rd5 37. Nb3 f5 38. Re1 1/2-1/2
 [WhiteElo "2628"]
 [BlackElo "2557"]
 [PlyCount "81"]
-[EventDate "2009.02.17"]
 
 1. e4 g6 2. d4 Bg7 3. c3 d6 4. Bd3 e5 5. Ne2 Nc6 6. Be3 Nf6 7. d5 Ne7 8. f3 O-O
 9. c4 c6 10. Nbc3 a6 11. Qd2 Bd7 12. O-O Ne8 13. b4 cxd5 14. exd5 Nf5 15. Bxf5
@@ -110,7 +100,6 @@ Qe3 35. d6+ Kg7 36. Rg1 Qf3+ 37. Rg2 Qd1+ 38. Kh2 Rxd6 39. Qc7+ Kh6 40. b5 Ne4
 
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2009.02.20"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Andriasian, Z."]
@@ -119,7 +108,6 @@ Qe3 35. d6+ Kg7 36. Rg1 Qf3+ 37. Rg2 Qd1+ 38. Kh2 Rxd6 39. Qc7+ Kh6 40. b5 Ne4
 [WhiteElo "2628"]
 [BlackElo "2564"]
 [PlyCount "87"]
-[EventDate "2009.02.17"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be7 8.
 Nd5 Nf6 9. Nxf6+ Bxf6 10. Nc4 Be7 11. Be3 Be6 12. Qd2 b5 13. Nb6 Rb8 14. Nd5
@@ -132,7 +120,6 @@ gxf5 gxf5 41. Rc8 Raa8 42. Rc7+ Kf6 43. Ka5 Ke6 44. b6 1/2-1/2
 
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2009.02.22"]
 [Round "6"]
 [White "Nepomniachtchi, I."]
 [Black "Maslak, K."]
@@ -141,7 +128,6 @@ gxf5 gxf5 41. Rc8 Raa8 42. Rc7+ Kf6 43. Ka5 Ke6 44. b6 1/2-1/2
 [WhiteElo "2628"]
 [BlackElo "2541"]
 [PlyCount "81"]
-[EventDate "2009.02.17"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6
 8. Qd2 Be6 9. O-O-O Qd7 10. h3 a6 11. Ng5 Bxg5 12. Bxg5 f6 13. Be3 O-O-O 14. b3
@@ -154,7 +140,6 @@ Be6 28. Bf1 Qe7 29. Qf2 a5 30. Re1 Qf7 31. Bb5 Bd7 32. Bxc6 Bxc6 33. Qa7+ Kc8
 
 [Event "10th EICC"]
 [Site "Budva MNE"]
-[Date "2009.03.07"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Sanikidze, T."]
@@ -163,7 +148,6 @@ Be6 28. Bf1 Qe7 29. Qf2 a5 30. Re1 Qf7 31. Bb5 Bd7 32. Bxc6 Bxc6 33. Qa7+ Kc8
 [WhiteElo "2628"]
 [BlackElo "2522"]
 [PlyCount "57"]
-[EventDate "2009.03.06"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qe2
 Qc7 9. O-O-O Na5 10. Bb3 b5 11. f3 Nxb3+ 12. axb3 Be7 13. g4 Bb7 14. g5 Nd7 15.
@@ -174,7 +158,6 @@ Nb7 28. Qe8 Rc8 29. c4 1/2-1/2
 
 [Event "10th EICC"]
 [Site "Budva MNE"]
-[Date "2009.03.09"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Haznedaroglu, K."]
@@ -183,7 +166,6 @@ Nb7 28. Qe8 Rc8 29. c4 1/2-1/2
 [WhiteElo "2628"]
 [BlackElo "2451"]
 [PlyCount "76"]
-[EventDate "2009.03.06"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Qe2 Bb4 8.
 Bd2 O-O 9. e5 Nd5 10. Nxd5 exd5 11. O-O-O d6 12. Be3 d4 13. Bxd4 Nxd4 14. Rxd4
@@ -195,7 +177,6 @@ b6 28. f5 Ra7 29. R1d2 Rc7 30. Kd1 Kf6 31. fxg6 fxg6 32. Ke2 Ke7 33. Bb5 Rxd3
 
 [Event "16th TCh-RUS Premier"]
 [Site "Dagomys RUS"]
-[Date "2009.04.05"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Dreev, A."]
@@ -204,7 +185,6 @@ b6 28. f5 Ra7 29. R1d2 Rc7 30. Kd1 Kf6 31. fxg6 fxg6 32. Ke2 Ke7 33. Bb5 Rxd3
 [WhiteElo "2624"]
 [BlackElo "2668"]
 [PlyCount "66"]
-[EventDate "2009.04.04"]
 
 1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 Bb4 5. Nge2 dxe4 6. fxe4 e5 7. Qd3 Qh4+ 8. g3
 Qe7 9. Be3 Nf6 10. O-O-O Ng4 11. a3 Nxe3 12. Qxe3 exd4 13. Qxd4 Qg5+ 14. Nf4
@@ -216,7 +196,6 @@ Bc7 27. Kc1 Rd6 28. Kd2 Rh6 29. Nf2 Ke7 30. Ke2 Be5 31. Ng4 Re6 32. Nxe5 Rxe5
 
 [Event "16th TCh-RUS Premier"]
 [Site "Dagomys RUS"]
-[Date "2009.04.08"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Amonatov, F."]
@@ -225,7 +204,6 @@ Bc7 27. Kc1 Rd6 28. Kd2 Rh6 29. Nf2 Ke7 30. Ke2 Be5 31. Ng4 Re6 32. Nxe5 Rxe5
 [WhiteElo "2624"]
 [BlackElo "2648"]
 [PlyCount "134"]
-[EventDate "2009.04.04"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qe2
 Be7 9. O-O-O Qc7 10. Rhg1 Na5 11. Bd3 b5 12. f4 Bb7 13. f5 e5 14. Nb3 Nxb3+ 15.
@@ -242,7 +220,6 @@ Qf2+ 66. Kc3 Qg3+ 67. Kc4 Qf4+ 1/2-1/2
 
 [Event "16th TCh-RUS Premier"]
 [Site "Dagomys RUS"]
-[Date "2009.04.10"]
 [Round "7"]
 [White "Nepomniachtchi, I."]
 [Black "Sakaev, K."]
@@ -251,7 +228,6 @@ Qf2+ 66. Kc3 Qg3+ 67. Kc4 Qf4+ 1/2-1/2
 [WhiteElo "2624"]
 [BlackElo "2627"]
 [PlyCount "38"]
-[EventDate "2009.04.04"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nxd2 6. Bxd2 Be7 7. c4 O-O 8.
 Qc2 c6 9. Bd3 h6 10. O-O Bg4 11. cxd5 Bxf3 12. gxf3 Qxd5 13. Rae1 Rd8 14. Bh7+
@@ -260,7 +236,6 @@ Kh8 15. Bc3 g6 16. Bxg6 Rg8 17. e6+ f6 18. f4 Qh5 19. f5 Qg4+ 1/2-1/2
 
 [Event "ch-RUS U20"]
 [Site "Dagomys RUS"]
-[Date "2009.04.29"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Sjugirov, S."]
@@ -269,7 +244,6 @@ Kh8 15. Bc3 g6 16. Bxg6 Rg8 17. e6+ f6 18. f4 Qh5 19. f5 Qg4+ 1/2-1/2
 [WhiteElo "2624"]
 [BlackElo "2588"]
 [PlyCount "69"]
-[EventDate "2009.04.29"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
 Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. Rg1 Nb6 13. Na5 Qc7 14. g5 Nh5 15.
@@ -281,7 +255,6 @@ Qc7 28. Rd5 Rac8 29. Qf2 Bg7 30. Qd2 Rcd8 31. Rd1 Rxd5 32. Qxd5 Rc8 33. Qd3 a5
 
 [Event "Richard Riordan GM Rapid"]
 [Site "Natanya ISR"]
-[Date "2009.07.13"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Gelfand, B."]
@@ -290,7 +263,6 @@ Qc7 28. Rd5 Rac8 29. Qf2 Bg7 30. Qd2 Rcd8 31. Rd1 Rxd5 32. Qxd5 Rc8 33. Qd3 a5
 [WhiteElo "2632"]
 [BlackElo "2755"]
 [PlyCount "153"]
-[EventDate "2009.07.12"]
 [EventType "rapid"]
 [EventRounds "13"]
 [EventCountry "ISR"]
@@ -314,7 +286,6 @@ b4 Qf1 67. b5 Qc4+ 68. Bc5 d4 69. cxd4 Qe6+ 70. Kc7 Qf7+ 71. Kd6 f5 72. b6 f4
 
 [Event "Richard Riordan GM Blitz"]
 [Site "Natanya ISR"]
-[Date "2009.07.16"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Smirin, I."]
@@ -323,7 +294,6 @@ b4 Qf1 67. b5 Qc4+ 68. Bc5 d4 69. cxd4 Qe6+ 70. Kc7 Qf7+ 71. Kd6 f5 72. b6 f4
 [WhiteElo "2632"]
 [BlackElo "2650"]
 [PlyCount "104"]
-[EventDate "2009.07.16"]
 [EventType "blitz"]
 [EventRounds "13"]
 [EventCountry "ISR"]
@@ -344,7 +314,6 @@ Ke3 1/2-1/2
 
 [Event "14th WCh-Rapid Prelim"]
 [Site "Mainz GER"]
-[Date "2009.07.31"]
 [Round "3"]
 [White "Nepomniachtchi, I."]
 [Black "Aronian, L."]
@@ -353,7 +322,6 @@ Ke3 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2768"]
 [PlyCount "63"]
-[EventDate "2009.07.31"]
 [EventType "rapid"]
 [EventRounds "6"]
 [EventCountry "GER"]
@@ -370,7 +338,6 @@ Qc6 28. Raa1 Rd2 29. Rad1 Rxd1 30. Nxd1 Rd2 31. Qg3 Qe6 32. Qf3 1/2-1/2
 
 [Event "14th WCh-Rapid Prelim"]
 [Site "Mainz GER"]
-[Date "2009.08.01"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Anand, V."]
@@ -379,7 +346,6 @@ Qc6 28. Raa1 Rd2 29. Rad1 Rxd1 30. Nxd1 Rd2 31. Qg3 Qe6 32. Qf3 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2788"]
 [PlyCount "211"]
-[EventDate "2009.07.31"]
 [EventType "rapid"]
 [EventRounds "6"]
 [EventCountry "GER"]
@@ -408,7 +374,6 @@ Qc5 102. Qb3+ Kc7 103. Qf7+ Kd8 104. Qg8+ Kd7 105. Qf7+ Kc6 106. Qe6+ 1/2-1/2
 
 [Event "14th WCh-Rapid Final"]
 [Site "Mainz GER"]
-[Date "2009.08.02"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Aronian, L."]
@@ -417,7 +382,6 @@ Qc5 102. Qb3+ Kc7 103. Qf7+ Kd8 104. Qg8+ Kd7 105. Qf7+ Kc6 106. Qe6+ 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2768"]
 [PlyCount "49"]
-[EventDate "2009.08.02"]
 [EventType "rapid"]
 [EventRounds "4"]
 [EventCountry "GER"]
@@ -432,7 +396,6 @@ Qd7 21. Nxa8 Bxc2+ 22. Kxc2 Qf5+ 23. Kb3 Qd5+ 24. Kc2 Qf5+ 25. Kb3 1/2-1/2
 
 [Event "RUS-CHN Match Standard"]
 [Site "Sochi RUS"]
-[Date "2009.08.15"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Ni Hua"]
@@ -441,7 +404,6 @@ Qd7 21. Nxa8 Bxc2+ 22. Kxc2 Qf5+ 23. Kb3 Qd5+ 24. Kc2 Qf5+ 25. Kb3 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2701"]
 [PlyCount "60"]
-[EventDate "2009.08.15"]
 [EventRounds "5"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -456,7 +418,6 @@ Qxe8 28. Bf1 g6 29. Bc4 Ra7 30. Qd3 Re7 1/2-1/2
 
 [Event "RUS-CHN Match Standard"]
 [Site "Sochi RUS"]
-[Date "2009.08.16"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Ding Liren"]
@@ -465,7 +426,6 @@ Qxe8 28. Bf1 g6 29. Bc4 Ra7 30. Qd3 Re7 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2530"]
 [PlyCount "63"]
-[EventDate "2009.08.15"]
 [EventRounds "5"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -480,7 +440,6 @@ Rfe1 a6 22. Qd1 Rf5 23. Qe2 Rd8 24. a3 Kg8 25. Ne5 Bf6 26. Nf3 Qc6 27. Rcd1 Qa4
 
 [Event "RUS-CHN Match Standard"]
 [Site "Sochi RUS"]
-[Date "2009.08.19"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Wang Yue"]
@@ -489,7 +448,6 @@ Rfe1 a6 22. Qd1 Rf5 23. Qe2 Rd8 24. a3 Kg8 25. Ne5 Bf6 26. Nf3 Qc6 27. Rcd1 Qa4
 [WhiteElo "2632"]
 [BlackElo "2736"]
 [PlyCount "43"]
-[EventDate "2009.08.15"]
 [EventRounds "5"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -503,7 +461,6 @@ Rd5 Be7 22. Bg4 1/2-1/2
 
 [Event "RUS-CHN Match Rapid"]
 [Site "Sochi RUS"]
-[Date "2009.08.21"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Bu Xiangzhi"]
@@ -512,7 +469,6 @@ Rd5 Be7 22. Bg4 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2702"]
 [PlyCount "102"]
-[EventDate "2009.08.21"]
 [EventType "rapid"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -531,7 +487,6 @@ Kf2 Re4 47. g3 Rc4 48. Be3 b4 49. Bd2 Rd4 50. Bxb4 Rd3 51. gxh4 Rf3+ 1/2-1/2
 
 [Event "RUS-CHN Match Blitz"]
 [Site "Sochi RUS"]
-[Date "2009.08.23"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Ni Hua"]
@@ -540,7 +495,6 @@ Kf2 Re4 47. g3 Rc4 48. Be3 b4 49. Bd2 Rd4 50. Bxb4 Rd3 51. gxh4 Rf3+ 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2701"]
 [PlyCount "104"]
-[EventDate "2009.08.23"]
 [EventType "blitz"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -559,7 +513,6 @@ Ke4 Rf4+ 48. Kd3 Rb4 49. Rxb4 Bxb4 50. f6 h4 51. d6 b2 52. Kc2 Bxd6 1/2-1/2
 
 [Event "RUS-CHN Match Blitz"]
 [Site "Sochi RUS"]
-[Date "2009.08.23"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Wang Yue"]
@@ -568,7 +521,6 @@ Ke4 Rf4+ 48. Kd3 Rb4 49. Rxb4 Bxb4 50. f6 h4 51. d6 b2 52. Kc2 Bxd6 1/2-1/2
 [WhiteElo "2632"]
 [BlackElo "2736"]
 [PlyCount "96"]
-[EventDate "2009.08.23"]
 [EventType "blitz"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -587,7 +539,6 @@ Kg1 e3 41. Rd8+ Kh7 42. Kf1 e2+ 43. Ke1 Re3 44. Rd5 Ne6 45. Rd3 Re5 46. Rd7 Kh8
 
 [Event "ch-RUS HL"]
 [Site "Ulan Ude RUS"]
-[Date "2009.09.03"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Papin, V."]
@@ -596,7 +547,6 @@ Kg1 e3 41. Rd8+ Kh7 42. Kf1 e2+ 43. Ke1 Re3 44. Rd5 Ne6 45. Rd3 Re5 46. Rd7 Kh8
 [WhiteElo "2632"]
 [BlackElo "2529"]
 [PlyCount "99"]
-[EventDate "2009.09.02"]
 [EventRounds "11"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]

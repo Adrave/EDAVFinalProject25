@@ -1,13 +1,11 @@
 [Event "Simul, 25b"]
 [Site "Liverpool ENG"]
-[Date "1895.01.25"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Swift"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Simul, 12b"]
 [Site "London ENG"]
-[Date "1895.05.28"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Simul, 19b"]
 [Site "Liverpool ENG"]
-[Date "1895.01.26"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Daniel Powell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Simul, 25b"]
 [Site "Liverpool ENG"]
-[Date "1895.11.14"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Jones"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -85,14 +77,12 @@
 
 [Event "Simul, 16b"]
 [Site "Newcastle ENG"]
-[Date "1895.11.15"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "A T Nicholls"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -106,14 +96,12 @@
 
 [Event "Simul, 19b"]
 [Site "Cardiff WLS"]
-[Date "1895.11.13"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "L McEachran"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -129,14 +117,12 @@
 
 [Event "Simul, 16b"]
 [Site "Newcastle ENG"]
-[Date "1895.11.15"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "H E Faulkner"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -152,14 +138,12 @@
 
 [Event "Simul, 25b"]
 [Site "Liverpool ENG"]
-[Date "1895.11.14"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Greig"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -174,14 +158,12 @@
 
 [Event "Simul, 17b"]
 [Site "Newcastle ENG"]
-[Date "1895.11.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Arthur Bainbridge"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -200,14 +182,12 @@
 
 [Event "Moscow"]
 [Site "Moscow RUE"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C65"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -220,14 +200,12 @@
 
 [Event "Simul"]
 [Site "Moscow RUE"]
-[Date "1896.02.04"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Stefan Levitsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -244,14 +222,12 @@
 
 [Event "Lasker - Steinitz World Championship Rematch"]
 [Site "Moscow RUE"]
-[Date "1896.11.11"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "Wilhelm Steinitz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -267,14 +243,12 @@
 
 [Event "Berlin"]
 [Site "Berlin GER"]
-[Date "1890.07.24"]
 [Round "6"]
 [White "Emanuel Lasker"]
 [Black "Theodor von Scheve"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -288,14 +262,12 @@
 
 [Event "Exhibition game"]
 [Site "London ENG"]
-[Date "1891.08.03"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Oscar Conrad Mueller"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -308,14 +280,12 @@
 
 [Event "Exhibition game"]
 [Site "London ENG"]
-[Date "1891.08.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Abraham Mocatta"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -329,14 +299,12 @@
 
 [Event "B.C.A. National"]
 [Site "London ENG"]
-[Date "1892.03.10"]
 [Round "4"]
 [White "Emanuel Lasker"]
 [Black "Francis Joseph Lee"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -352,14 +320,12 @@
 
 [Event "B.C.A. National"]
 [Site "London ENG"]
-[Date "1892.03.09"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "James Mason"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -377,14 +343,12 @@
 
 [Event "B.C.A. National"]
 [Site "London ENG"]
-[Date "1892.03.15"]
 [Round "8"]
 [White "Emanuel Lasker"]
 [Black "Alfred Rumboll"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -400,14 +364,12 @@
 
 [Event "British CC Invitational"]
 [Site "London ENG"]
-[Date "1892.03.30"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Joseph Henry Blackburne"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C48"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -422,14 +384,12 @@
 
 [Event "Simul, 17b"]
 [Site "Leeds ENG"]
-[Date "1892.04.25"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J White"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -442,14 +402,12 @@
 
 [Event "Match series"]
 [Site "New York, NY USA"]
-[Date "1892.10.11"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Gustave Simonson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -464,14 +422,12 @@
 
 [Event "Match series"]
 [Site "New York, NY USA"]
-[Date "1892.10.19"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "David Graham Baird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -486,14 +442,12 @@
 
 [Event "Blindfold simul, 5b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1892.10.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Richards"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -506,14 +460,12 @@
 
 [Event "Match series"]
 [Site "New York, NY USA"]
-[Date "1892.10.20"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "John S Ryan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -528,14 +480,12 @@
 
 [Event "Blindfold simul, 5b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1892.10.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Yeaton"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 

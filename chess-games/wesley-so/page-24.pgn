@@ -1,6 +1,5 @@
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.25"]
 [Round "2.1"]
 [White "So, Wesley"]
 [Black "Oboladze, Luka"]
@@ -8,7 +7,6 @@
 [WhiteElo "2776"]
 [BlackElo "2340"]
 [ECO "B80"]
-[EventDate "2018.09.24"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 Nc6 6. Bg2 Qc7 7. Nc3 Nf6 
 8. O-O d6 9. Re1 Bd7 10. Nxc6 bxc6 11. Na4 Be7 12. c4 O-O 13. c5 dxc5 14. 
@@ -23,7 +21,6 @@ Rxc6+ Kf7 45. Rxb6 Rxa2 46. Rb7+ Kf8 47. Nc4 Ra1+ 48. Kg2 Ra2+ 49. Kh3 Rf2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.24"]
 [Round "1.1"]
 [White "So, Wesley"]
 [Black "Sanchez Alvarez, Roberto Carlos"]
@@ -31,7 +28,6 @@ Rxc6+ Kf7 45. Rxb6 Rxa2 46. Rb7+ Kf8 47. Nc4 Ra1+ 48. Kg2 Ra2+ 49. Kh3 Rf2
 [WhiteElo "2776"]
 [BlackElo "2391"]
 [ECO "B90"]
-[EventDate "2018.09.24"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8.
  Be3 Be7 9. Qd2 h5 10. Nd5 Bxd5 11. exd5 Nbd7 12. Na5 Qb8 13. c4 Bd8 14. 
@@ -43,7 +39,6 @@ Kh7 32. Qxe4+ Nxe4 33. Qh4 Qe2 34. Rde1 1-0
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.22"]
 [Round "3.11"]
 [White "So, Wesley"]
 [Black "Huschenbeth, Niclas"]
@@ -51,7 +46,6 @@ Kh7 32. Qxe4+ Nxe4 33. Qh4 Qe2 34. Rde1 1-0
 [WhiteElo "2776"]
 [BlackElo "2589"]
 [ECO "D27"]
-[EventDate "2018.10.20"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. e3 dxc4 6. Bxc4 a6 7. O-O b5 8. 
 Be2 Nbd7 9. d5 exd5 10. Nxd5 Bb7 11. Nxf6+ Qxf6 12. a4 b4 13. Qc2 Be7 14. 
@@ -65,7 +59,6 @@ h5 45. Qe7 Qd1 46. Kg2 1-0
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.27"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -73,7 +66,6 @@ h5 45. Qe7 Qd1 46. Kg2 1-0
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "E32"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7
 8. f3 h6 9. Bh4 d5 10. e3 Re8 11. cxd5 exd5 12. Bb5 c6 13. Ba4 Qe7 14. Bf2
@@ -86,7 +78,6 @@ Nxa3 32. Rxd5 a5 33. Ke2 a4 34. Kd3 b4 35. Ra5 b3 36. Kc3 Nc4 37. Kxc4 b2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.3"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -94,7 +85,6 @@ Nxa3 32. Rxd5 a5 33. Ke2 a4 34. Kd3 b4 35. Ra5 b3 36. Kc3 Nc4 37. Kxc4 b2
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "C77"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 O-O 8. 
 Bg5 h6 9. Bh4 Be7 10. Nbd2 d6 11. O-O Nh5 12. Bxe7 Qxe7 13. Bd5 Bd7 14. 
@@ -106,7 +96,6 @@ Rb8 32. Ra1 Nf4 33. Qe4 Qxe4 34. Rxe4 Nd5 35. c4 1-0
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.9"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -114,7 +103,6 @@ Rb8 32. Ra1 Nf4 33. Qe4 Qxe4 34. Rxe4 Nd5 35. c4 1-0
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "C83"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
  dxe5 Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nb3 Qd7 13. Nfd4 Nxd4 14. 
@@ -130,7 +118,6 @@ hxg4+ hxg4 51. fxg4+ Kxg4 52. Kf2 Kg5 53. Kf3 Kf5 54. Bd4 Ra3 55. Bf2 Rb3
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.25"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -138,7 +125,6 @@ hxg4+ hxg4 51. fxg4+ Kxg4 52. Kf2 Kg5 53. Kf3 Kf5 54. Bd4 Ra3 55. Bf2 Rb3
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "A58"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bg7 7. e4 O-O 8. 
 e5 Ne8 9. h4 d6 10. e6 fxe6 11. h5 g5 12. h6 Bf6 13. Nf3 Bxa6 14. Nxg5 
@@ -148,7 +134,6 @@ Bxe7+ Kf7 21. Bxd6 Nd7 22. Ne4 Ra4 23. Qxa4 1-0
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.7"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -156,7 +141,6 @@ Bxe7+ Kf7 21. Bxd6 Nd7 22. Ne4 Ra4 23. Qxa4 1-0
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "C83"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
  dxe5 Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nb3 Qd7 13. Nbd4 Nxd4 14. 
@@ -168,7 +152,6 @@ Rxe5 Rxh4+ 33. Kg1 Qb6+ 34. Rc5 Qd6 35. Rxb5 Qd2 36. Qe5 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.11"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -176,7 +159,6 @@ Rxe5 Rxh4+ 33. Kg1 Qb6+ 34. Rc5 Qd6 35. Rxb5 Qd2 36. Qe5 1-0
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "C45"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 
 Nd5 8. Nd2 Rb8 9. c4 Nb4 10. Nf3 c5 11. g3 Qe6 12. Bg2 Be7 13. O-O O-O 14.
@@ -193,7 +175,6 @@ Kd5 62. g6 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.17"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -201,7 +182,6 @@ Kd5 62. g6 1-0
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "B13"]
-[EventDate "2018.07.24"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bb5 e6 6. Ne5 Bd7 7. Nxd7 
 Qxd7 8. c3 Bd6 9. O-O Nf6 10. Nd2 O-O 11. Nf3 a6 12. Bd3 b5 13. Re1 h6 14.
@@ -214,7 +194,6 @@ Nc4 21. Nxc4 dxc4 22. Qf3 Rae8 23. Bxh6 Bxh2+ 24. Kf1 gxh6 25. Qxf6 Qf4
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.23"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -222,7 +201,6 @@ Nc4 21. Nxc4 dxc4 22. Qf3 Rae8 23. Bxh6 Bxh2+ 24. Kf1 gxh6 25. Qxf6 Qf4
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "E11"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
  Qc2 Nbd7 9. b4 Ne4 10. Be1 f5 11. a4 Bf6 12. e3 g5 13. Nc3 Qe7 14. b5 Nd6
@@ -235,7 +213,6 @@ Kxh2 Re7 38. Rh8+ Kf7 39. Rh7+ Ke6 40. Rxe7+ Kxe7 41. Bc5+ 1-0
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.21"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -243,7 +220,6 @@ Kxh2 Re7 38. Rh8+ Kf7 39. Rh7+ Ke6 40. Rxe7+ Kxe7 41. Bc5+ 1-0
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "E16"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nd2 O-O 6. Nf3 b6 7. O-O Bb7 8.
  a3 Be7 9. cxd5 exd5 10. b4 a5 11. b5 c6 12. bxc6 Nxc6 13. Bb2 b5 14. e3 
@@ -257,7 +233,6 @@ Bxa2 Kf6 45. Re6+ Kg5 46. h4+ Kh5 47. Re7 Kg6 48. Be6 1-0
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.21"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -265,7 +240,6 @@ Bxa2 Kf6 45. Re6+ Kg5 46. h4+ Kh5 47. Re7 Kg6 48. Be6 1-0
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "A58"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bg7 7. e4 O-O 8. 
 e5 Ne8 9. h4 Bxe5 10. Bh6 Bxa6 11. h5 Ng7 12. Nf3 Bxc3+ 13. bxc3 Bxf1 14. 
@@ -275,7 +249,6 @@ Kxf1 Ra6 15. Qd2 Qa5 16. hxg6 Rxg6 17. Ne5 d6 18. Nxg6 fxg6 19. Bxg7 Kxg7
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.27"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -283,7 +256,6 @@ Kxf1 Ra6 15. Qd2 Qa5 16. hxg6 Rxg6 17. Ne5 d6 18. Nxg6 fxg6 19. Bxg7 Kxg7
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "E99"]
-[EventDate "2018.07.24"]
 
 1. e4 d6 2. d4 g6 3. c4 Bg7 4. Nc3 Nf6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. 
 d5 Ne7 9. Ne1 Nd7 10. f3 f5 11. Be3 f4 12. Bf2 g5 13. Rc1 h5 14. c5 Nxc5 
@@ -298,7 +270,6 @@ Bd2 f2 39. Rf7 Qh4 40. Qxh4 Rxh4+ 41. Kg2 f1=Q+ 42. Kxf1 Rxe4 43. a5 Rd4
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.3"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -306,7 +277,6 @@ Bd2 f2 39. Rf7 Qh4 40. Qxh4 Rxh4+ 41. Kg2 f1=Q+ 42. Kxf1 Rxe4 43. a5 Rd4
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "B80"]
-[EventDate "2018.07.24"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. Be2 O-O 
 8. f4 Nc6 9. Qd2 e5 10. Nb3 a5 11. a4 exf4 12. Bxf4 Be6 13. O-O-O Rc8 14. 
@@ -318,7 +288,6 @@ Rc2 32. Qd6 Re8 33. Qxd3 1-0
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.25"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -326,7 +295,6 @@ Rc2 32. Qd6 Re8 33. Qxd3 1-0
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 
 Nc6 8. Bc4 Be6 9. Bxe6 fxe6 10. Qe2 Qd7 11. O-O-O O-O-O 12. h4 Bf6 13. h5 
@@ -340,7 +308,6 @@ Qa6+ Kd8 32. Qd3+ Ke7 33. Qe4+ Kf7 34. Qd5+ Kf8 35. Ka2 Rd2 36. Qf5+ Kg8
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.23"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -348,7 +315,6 @@ Qa6+ Kd8 32. Qd3+ Ke7 33. Qe4+ Kf7 34. Qd5+ Kf8 35. Ka2 Rd2 36. Qf5+ Kg8
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "C19"]
-[EventDate "2018.07.24"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qc7 8.
  Nf3 b6 9. Bb5+ Bd7 10. Bd3 Nbc6 11. O-O h6 12. Re1 Na5 13. Nh4 Rc8 14. 
@@ -362,7 +328,6 @@ Rab1 e4 39. Rb8+ Ke7 40. R8b7+ Rc7 41. Rxc7+ Qxc7 42. g3 Kf6 43. Qd2 Qe5
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.15"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -370,7 +335,6 @@ Rab1 e4 39. Rb8+ Ke7 40. R8b7+ Rc7 41. Rxc7+ Qxc7 42. g3 Kf6 43. Qd2 Qe5
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "B08"]
-[EventDate "2018.07.24"]
 
 1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 Qc7 8. 
 e5 dxe5 9. Nxe5 Nbd7 10. Bf4 Nxe5 11. Bxe5 Qd8 12. a5 Bf5 13. Re1 Nd5 14. 
@@ -388,7 +352,6 @@ Nxb7 68. Kxg6 Nd6 69. Kxh5 Ne4 70. Kg6 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.17"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -396,7 +359,6 @@ Nxb7 68. Kxg6 Nd6 69. Kxh5 Ne4 70. Kg6 1-0
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "D35"]
-[EventDate "2018.07.24"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 7. Bh4 Bf5 8.
  Qf3 Bh7 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. Kd2 Nd7 12. Nf3 Nb6 13. Bd3 Nc4+ 
@@ -413,7 +375,6 @@ Bd1 62. d6 Rc3+ 63. Kb2 Rc1 64. Kxc1 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.12"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -421,7 +382,6 @@ Bd1 62. d6 Rc3+ 63. Kb2 Rc1 64. Kxc1 1-0
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "E03"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Be3 Bd6
 8. Qc2 O-O 9. Nh3 e5 10. O-O Ng4 11. Bg5 Qe8 12. dxe5 Ndxe5 13. Nc3 h6 14.
@@ -437,7 +397,6 @@ Ke4 1-0
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.10"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -445,7 +404,6 @@ Ke4 1-0
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 h6 8. 
 Nbd2 Be6 9. b4 Bb6 10. a4 a6 11. Bxe6 fxe6 12. Nc4 Ba7 13. Be3 Bxe3 14. 
@@ -457,7 +415,6 @@ Qf4 33. Ne4 Re8 34. b6 Nd7 35. bxc7 Nb6 36. c8=Q 1-0
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.8"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -465,7 +422,6 @@ Qf4 33. Ne4 Re8 34. b6 Nd7 35. bxc7 Nb6 36. c8=Q 1-0
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 Re8 8.
  h3 h6 9. Nbd2 a5 10. Nf1 Be6 11. Bxe6 fxe6 12. Ng3 d5 13. Qc2 a4 14. Be3 
@@ -477,7 +433,6 @@ Qxe7 Qxc6 33. e6 Kh7 34. Qf8 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.12"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -485,7 +440,6 @@ Qxe7 Qxc6 33. e6 Kh7 34. Qf8 1-0
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 h6 8. 
 Nbd2 a5 9. Nf1 Be6 10. Bb5 Ne7 11. d4 exd4 12. cxd4 Bb4 13. Re2 c6 14. Bd3
@@ -497,7 +451,6 @@ Nxf3 33. Rxf3 Qh4 34. Bc4 Ba7 35. a4 Nf6 36. e5 Ne4 37. Bg1 f5 38. d6+ 1-0
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.14"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -505,7 +458,6 @@ Nxf3 33. Rxf3 Qh4 34. Bc4 Ba7 35. a4 Nf6 36. e5 Ne4 37. Bg1 f5 38. d6+ 1-0
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C50"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 d6 7. c3 Be6 8. 
 Bxe6 fxe6 9. b4 Bb6 10. Re1 Ne7 11. Nbd2 Ng6 12. Nf1 a5 13. b5 a4 14. Ng3 
@@ -520,7 +472,6 @@ Ng2 50. Kg5 Ne3 51. Kg6 1-0
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.26"]
 [Round "3.3"]
 [White "So, Wesley"]
 [Black "L'Ami, Erwin"]
@@ -528,7 +479,6 @@ Ng2 50. Kg5 Ne3 51. Kg6 1-0
 [WhiteElo "2776"]
 [BlackElo "2639"]
 [ECO "C65"]
-[EventDate "2018.09.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O g6 6. d4 Bd7 7. d5 Ne7 8. 
 Bxd7+ Nxd7 9. c4 Bg7 10. Be3 h6 11. Nfd2 f5 12. f3 f4 13. Bf2 g5 14. Nc3 

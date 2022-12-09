@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer"]
 [Black "Celle"]
@@ -21,7 +20,6 @@ Bxa3 14.Nxa3 Qe7 15.Bb5+ c6 16.Nc4 Qe6 17.Rad1 cxb5 18.Qc7 Bd7
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Blackstone John (USA)"]
@@ -44,7 +42,6 @@ Ne7 25.Qc7 Nf6 26.e5 Qc6 27.Qd8+ Kxf7 28.Qxh8 Bb7 29.Rxb2 Qxc4
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Janushkowsky Dr A"]
@@ -65,7 +62,6 @@ Nb5 25.Red1 Kc8 26.Qa6+ Kd8 27.dxc6+ Nd6 28.Bxd6 cxd6 29.Qb7 1-0
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "McCaskey E"]
@@ -90,7 +86,6 @@ Ne6 42.Nd6 a5 43.Bf5 Ng5 44.Nxg5 Bxf5 45.Nxf5 fxg5 46.Rh7+ Kd8
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Osbun Eric"]
@@ -114,7 +109,6 @@ Bxc5 25.Nce4 Bxd6 26.exd6 Qc8 27.Nc5 Bd5 28.d7 Qc7 29.g3 Ne6
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Rubin Stefan"]
@@ -136,7 +130,6 @@ Nc6 30.Bc5 Bb7 31.Rc7 Ba8 32.b4 axb4 33.axb4 d4 34.b5 1-0
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Shifrine M"]
@@ -159,7 +152,6 @@ Rhg8 25.Rhg1 Rxd1+ 26.Rxd1 Bc5 27.Qd3 Bd4 28.c3 Bc5 29.Qa6+ Kb8
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Von Oettingen S"]
@@ -181,7 +173,6 @@ Qd8 31.fxe6+ 1-0
 
 [Event "Simultan"]
 [Site ""]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Wilkerson Max"]
@@ -200,14 +191,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 34b"]
 [Site "New York, NY USA"]
-[Date "1964.05.24"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "F J Rummel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B29"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -219,14 +208,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 50b"]
 [Site "Indianapolis, IN USA"]
-[Date "1964.05.21"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Gary Bookout"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -241,14 +228,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 50b"]
 [Site "State College, PA USA"]
-[Date "1964.05.31"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Allyn Kahn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C19"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -262,14 +247,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 50b"]
 [Site "Cicero, IL USA"]
-[Date "1964.05.20"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "G Kral"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "1964.05.20"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -284,14 +267,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 40b"]
 [Site "Waltham, MA USA"]
-[Date "1964.02.20"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jeff Rubens"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C15"]
-[EventDate "1964.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -304,14 +285,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Clock simul, 10b"]
 [Site "Montreal CAN"]
-[Date "1964.02.24"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C57"]
-[EventDate "????.??.??"]
 [PlyCount "15"]
 [WhiteElo "?"]
 
@@ -321,14 +300,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 55b"]
 [Site "Montreal CAN"]
-[Date "1964.02.23"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Gilles Jobin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "2780"]
 
@@ -343,14 +320,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 48b"]
 [Site "Quebec City CAN"]
-[Date "1964.02.25"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jules Guay"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -365,14 +340,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 47b"]
 [Site "Westerly, RI USA"]
-[Date "1964.03.01"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Tom Schuch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -385,14 +358,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 50b"]
 [Site "Richmond, VA USA"]
-[Date "1964.03.05"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jim Hughes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C19"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -407,14 +378,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 51b"]
 [Site "Cleveland, OH USA"]
-[Date "1964.03.18"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Thomas Ellison"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -428,14 +397,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 71b"]
 [Site "Chicago, IL USA"]
-[Date "1964.03.22"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Anthony LoCoco"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C52"]
-[EventDate "1964.03.22"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -449,14 +416,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 75b"]
 [Site "New Orleans, LA USA"]
-[Date "1964.03.26"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Andrew M Lockett Jr."]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "1964.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -474,14 +439,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 71b"]
 [Site "Chicago, IL USA"]
-[Date "1964.03.22"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Katherine Gasser"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B90"]
-[EventDate "1964.03.22"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -496,14 +459,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 57b"]
 [Site "Houston, TX USA"]
-[Date "1964.03.28"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "E Travis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -516,14 +477,12 @@ Bd7 14.Bxd7+ Qxd7 15.Qxh8 f5 16.Re1+ Ne6 17.Qf6 1-0
 
 [Event "Simul, 57b"]
 [Site "Houston, TX USA"]
-[Date "1964.03.28"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Limoh"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 

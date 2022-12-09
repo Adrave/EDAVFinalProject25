@@ -5,7 +5,6 @@
 [BlackFideId "1503014"]
 [Result "0-1"]
 [Round "1-07"]
-[Date "Wed Dec 04 2019"]
 [WhiteClock "0:00:34"]
 [BlackClock "0:01:47"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "4100107"]
 [Result "0-1"]
 [Round "08"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:02"]
 
@@ -30,7 +28,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.07"]
 [Round "5"]
 [White "Vachier Lagrave,M"]
 [Black "Duda,J"]
@@ -40,7 +37,6 @@
 [BlackTeam "Cannes Blitzstreams"]
 [BlackTitle "GM"]
 [ECO "C42"]
-[EventDate "2019.01.08"]
 [Opening "Petrov"]
 [Variation "Nimzovich attack"]
 [WhiteElo "2780"]
@@ -59,7 +55,6 @@
 
 [Event "Napoleon Trophy Blitz"]
 [Site "La Roche-sur-Yon FRA"]
-[Date "2019.02.16"]
 [Round "1"]
 [White "Vachier Lagrave,M"]
 [Black "Van Foreest,Jorden"]
@@ -68,7 +63,6 @@
 [BlackFideId "1039784"]
 [BlackTitle "GM"]
 [ECO "B52"]
-[EventDate "2019.02.16"]
 [Opening "Sicilian"]
 [Variation "Canal-Sokolsky attack, 3...Bd7"]
 [WhiteElo "2780"]
@@ -84,7 +78,6 @@
 
 [Event "Napoleon Trophy Blitz"]
 [Site "La Roche-sur-Yon FRA"]
-[Date "2019.02.16"]
 [Round "5"]
 [White "Vachier Lagrave,M"]
 [Black "Van Foreest,Jorden"]
@@ -93,7 +86,6 @@
 [BlackFideId "1039784"]
 [BlackTitle "GM"]
 [ECO "C20"]
-[EventDate "2019.02.16"]
 [Opening "KP"]
 [Variation "Napoleon's opening"]
 [WhiteElo "2780"]
@@ -109,7 +101,6 @@
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.17"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -123,7 +114,6 @@
 [Variation "Najdorf, Opovcensky variation"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8. Bg5
 Nbd7 9. a4 h6 10. Be3 Ng4 11. Bc1 Ngf6 12. O-O Nc5 13. Nd2 O-O 14. Re1 Qc7 15.
@@ -134,7 +124,6 @@ Nd4 g3 29. fxg3 Rf7 30. Ne6 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.27"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -147,7 +136,6 @@ Nd4 g3 29. fxg3 Rf7 30. Ne6 1-0
 [Opening "Grob's attack"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. g4 h5 2. g5 h4 3. g6 fxg6 4. d4 e6 5. Nc3 Nc6 6. e3 Bb4 7. Bd3 Qf6 8. Bd2 Nh6
 9. Ne4 Bxd2+ 10. Kxd2 Qe7 11. Nh3 d5 12. Neg5 Nf5 13. f4 Qb4+ 14. c3 Qxb2+ 15.
@@ -157,7 +145,6 @@ Rh6 22. Nxe6 Rxg6 23. Nxg6 Qf6 24. Bxf5 Rd6 25. Nc5+ Kd8 26. Bd3 b6 27. Nxa4 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.23"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -170,7 +157,6 @@ Rh6 22. Nxe6 Rxg6 23. Nxg6 Qf6 24. Bxf5 Rd6 25. Nc5+ Kd8 26. Bd3 b6 27. Nxa4 1-0
 [Opening "English opening"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. c4 g6 2. Nc3 c5 3. h4 Nf6 4. g3 Bg7 5. Bg2 Nc6 6. Nh3 d6 7. d3 Bg4 8. Nf4 O-O
 9. h5 Nxh5 10. Nxh5 Bxh5 11. f3 f5 12. Nd5 e5 13. e4 Qd7 14. Be3 Rae8 15. Bh3
@@ -184,7 +170,6 @@ Rxc2+ 41. Kf1 Rxb2 42. Nc7+ Kd6 43. Ne8+ Ke6 44. Rh6 d3 45. Rxf6+ Ke7 46. Rd6 d2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.31"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -198,7 +183,6 @@ Rxc2+ 41. Kf1 Rxb2 42. Nc7+ Kd6 43. Ne8+ Ke6 44. Rh6 d3 45. Rxf6+ Ke7 46. Rd6 d2
 [Variation "Bronstein gambit"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. g4 g5 3. Nf3 h5 4. gxh5 g4 5. Ne5 Rxh5 6. Nc3 b5 7. b4 c5 8. bxc5
 b4 9. Nb1 Bb7 10. Rg1 Qc7 11. Bf4 d6 12. Nxg4 Nd5 13. Bg3 f5 14. e4 fxe4 15. Nd2
@@ -210,7 +194,6 @@ Qf7 34. Qc5 Rc8 35. Qxb4 Bd5 36. c4 Be4 37. Rf1 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.25"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -223,7 +206,6 @@ Qf7 34. Qc5 Rc8 35. Qxb4 Bd5 36. c4 Be4 37. Rf1 1-0
 [Opening "Reti opening"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. Nf3 e6 2. g3 g5 3. Bg2 g4 4. Ne5 h5 5. d4 Bg7 6. c3 c5 7. Na3 d5 8. O-O Ne7
 9. Bf4 c4 10. Nc2 f6 11. Nxc4 dxc4 12. e4 Nbc6 13. d5 Ne5 14. Ne3 N7g6 15. Qa4+
@@ -236,7 +218,6 @@ Rh4 35. Re3 Kf7 36. Qb7+ Rd7 37. Qf3 Rxd6 38. Rxd6 Qxd6 39. Kg2 Kg6 40. Qa8 Qe6
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.13"]
 [Round "2.1"]
 [White "Vachier Lagrave,M"]
 [Black "Kovalenko,I"]
@@ -250,7 +231,6 @@ Rh4 35. Re3 Kf7 36. Qb7+ Rd7 37. Qf3 Rxd6 38. Rxd6 Qxd6 39. Kg2 Kg6 40. Qa8 Qe6
 [Variation "Anderssen variation"]
 [WhiteFideId "623539"]
 [BlackFideId "14117908"]
-[EventDate "2019.09.10"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
 Ne4 Bb7 9. Be2 c5 10. O-O Qc7 11. Nd6+ Bxd6 12. exd6 Qc6 13. f3 c4 14. Qd4 O-O
@@ -270,7 +250,6 @@ Bc3 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.11"]
 [Round "1.2"]
 [White "Vachier Lagrave,M"]
 [Black "Anwuli,Daniel"]
@@ -284,7 +263,6 @@ Bc3 1-0
 [Variation "closed defence"]
 [WhiteFideId "623539"]
 [BlackFideId "8504580"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
 9. Nc3 Na5 10. Ba2 c5 11. b4 cxb4 12. axb4 Nc6 13. Nd5 Be6 14. Bd2 Bxd5 15. exd5
@@ -297,7 +275,6 @@ b7 Qb8 42. Qc6 Bd8 43. Qc8 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.20"]
 [Round "4.1"]
 [White "Vachier Lagrave,M"]
 [Black "Svidler,P"]
@@ -311,7 +288,6 @@ b7 Qb8 42. Qc6 Bd8 43. Qc8 1-0
 [Variation "closed, Chigorin, 12...c5d4"]
 [WhiteFideId "623539"]
 [BlackFideId "4102142"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15. Be3
@@ -324,7 +300,6 @@ Qxe4 35. gxf4 Rc6 36. f5 Qxf5 37. Bd6 Qxh3 38. Rb4 Rc3 39. Rd4 Kh7 40. Qxa4 Qf3
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.18"]
 [Round "3.4"]
 [White "Vachier Lagrave,M"]
 [Black "Jakovenko,D"]
@@ -337,7 +312,6 @@ Qxe4 35. gxf4 Rc6 36. f5 Qxf5 37. Bd6 Qxh3 38. Rb4 Rc3 39. Rd4 Kh7 40. Qxa4 Qf3
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "4122356"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d5 7. exd5 Nxd5 8. Re1
 Bg4 9. Nbd2 Nb6 10. h3 Bh5 11. Bb3 Qxd3 12. Nxe5 Qf5 13. Nef3 Rad8 14. Qe2 Nd5
@@ -350,7 +324,6 @@ Ra7 Rb2 42. a5 Kf6 43. Bxb7 Bxa5 44. Bd5 Rxf2+ 45. Kg1 e4 46. Ra6+ 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.18"]
 [Round "3.7"]
 [White "Vachier Lagrave,M"]
 [Black "Jakovenko,D"]
@@ -363,7 +336,6 @@ Ra7 Rb2 42. a5 Kf6 43. Bxb7 Bxa5 44. Bd5 Rxf2+ 45. Kg1 e4 46. Ra6+ 1-0
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "4122356"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 O-O
 9. h3 Be6 10. Bxe6 fxe6 11. Be3 Bxe3 12. Rxe3 a5 13. Nbd2 Qd7 14. Nf1 h6 15. Ng3
@@ -376,7 +348,6 @@ Nc2 Rb6 42. Ne3 Qe6 43. Nxd5 Qxd5 44. Qe2 Qf5 45. Rd8 Kg6 46. Qe8+ Kg5 47. f4+ 1
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.25"]
 [Round "5.4"]
 [White "Vachier Lagrave,M"]
 [Black "Aronian,L"]
@@ -389,7 +360,6 @@ Nc2 Rb6 42. Ne3 Qe6 43. Nxd5 Qxd5 44. Qe2 Qf5 45. Rd8 Kg6 46. Qe8+ Kg5 47. f4+ 1
 [Opening "Giuoco Pianissimo"]
 [WhiteFideId "623539"]
 [BlackFideId "13300474"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. O-O d6 7. a4 O-O 8. Re1 Ba7
 9. h3 h6 10. Nbd2 Re8 11. b4 Be6 12. Bxe6 Rxe6 13. Nf1 Qd7 14. Be3 Bxe3 15. Nxe3
@@ -404,7 +374,6 @@ f6+ 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.10.04"]
 [Round "7.5"]
 [White "Vachier Lagrave,M"]
 [Black "Yu Yangyi"]
@@ -417,7 +386,6 @@ f6+ 1-0
 [Opening "Sicilian defence"]
 [WhiteFideId "623539"]
 [BlackFideId "8603820"]
-[EventDate "2019.09.10"]
 
 1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 Nf6 5. Qe2 Be7 6. e5 Nd5 7. O-O d6 8. exd6
 Qxd6 9. Rd1 Nc7 10. d4 cxd4 11. Bf4 Qd8 12. Ne5 Nd5 13. Nxc6 bxc6 14. Be5 O-O
@@ -433,7 +401,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.05"]
 [Round "1.1"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -442,7 +409,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "8603405"]
 [BlackTitle "GM"]
 [ECO "B91"]
-[EventDate "2019.11.05"]
 [Opening "Sicilian"]
 [Variation "Najdorf, Zagreb (fianchetto) variation"]
 [WhiteElo "2777"]
@@ -462,7 +428,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.1"]
 [White "Vachier Lagrave,M"]
 [Black "So,W"]
@@ -471,7 +436,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "5202213"]
 [BlackTitle "GM"]
 [ECO "C88"]
-[EventDate "2019.09.02"]
 [Opening "Ruy Lopez"]
 [Variation "closed, 7...O-O"]
 [WhiteElo "2774"]
@@ -488,7 +452,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.19"]
 [White "Vachier Lagrave,M"]
 [Black "So,W"]
@@ -497,7 +460,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "5202213"]
 [BlackTitle "GM"]
 [ECO "C53"]
-[EventDate "2019.09.02"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2774"]
 [WhiteFideId "623539"]
@@ -515,7 +477,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.21"]
 [White "Vachier Lagrave,M"]
 [Black "So,W"]
@@ -524,7 +485,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "5202213"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.09.02"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2774"]
 [WhiteFideId "623539"]
@@ -543,7 +503,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.23"]
 [White "Vachier Lagrave,M"]
 [Black "So,W"]
@@ -552,7 +511,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "5202213"]
 [BlackTitle "GM"]
 [ECO "C52"]
-[EventDate "2019.09.02"]
 [Opening "Evans gambit"]
 [WhiteElo "2774"]
 [WhiteFideId "623539"]
@@ -574,7 +532,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.27"]
 [White "Vachier Lagrave,M"]
 [Black "So,W"]
@@ -583,7 +540,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "5202213"]
 [BlackTitle "GM"]
 [ECO "C67"]
-[EventDate "2019.09.02"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence, open variation"]
 [WhiteElo "2774"]
@@ -604,7 +560,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.29"]
 [White "Vachier Lagrave,M"]
 [Black "So,W"]
@@ -613,7 +568,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "5202213"]
 [BlackTitle "GM"]
 [ECO "A30"]
-[EventDate "2019.09.02"]
 [Opening "English"]
 [Variation "symmetrical variation"]
 [WhiteElo "2774"]
@@ -629,7 +583,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 
 [Event "World Rapid 2019"]
 [Site "Moscow RUS"]
-[Date "2019.12.26"]
 [Round "2.38"]
 [White "Vachier Lagrave,M"]
 [Black "Tengis,Tsog-Ochir"]
@@ -638,7 +591,6 @@ Kf3 Kf8 54. Ke4 Ke7 55. f3 Ke6 56. g4 f5+ 57. gxf5+ Kd6 58. f6 Ke6 59. Ra4 Kxf6
 [BlackFideId "4902718"]
 [BlackTitle "FM"]
 [ECO "C67"]
-[EventDate "2019.12.26"]
 [EventType "rapid"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence, open variation"]

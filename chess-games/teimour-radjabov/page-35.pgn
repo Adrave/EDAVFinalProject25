@@ -1,6 +1,5 @@
 [Event "It (active) (knockout system) \"Corsica Masters\""]
 [Site "Bastia (France)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -28,7 +27,6 @@ Ke6 65.Kxa7 1-0
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Karjakin Sergey (UKR)"]
@@ -58,7 +56,6 @@ Kh6 76.Kf6 Bd3 77.Rb8 Kh7 78.Kg5 Be4 79.Re8 Bc2 80.Re7+ Kg8 81.Kf6 1-0
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Polgar Judit (HUN)"]
@@ -81,7 +78,6 @@ Rd2 37.d7 b2 38.Rf1+ Ke7 39.Re1+ Kf7 40.Kc7 1-0
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Romero Holmes Alfonso (ESP)"]
@@ -102,7 +98,6 @@ Rb8 26.Rg3 Nd8 27.Rh3 Nf7 28.Rg1 1-0
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Naiditsch Arkadij (GER)"]
@@ -123,7 +118,6 @@ cxd4 20.cxd4 h6 21.Ne4 Rg8 22.Nd6 Nf6 23.Rg6 Rxg6 24.hxg6 Nd5
 
 [Event "Ch Europe (blitz)"]
 [Site "Internet"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Wirig Anthony (FRA)"]
@@ -156,7 +150,6 @@ Bb5 90.Rc8 Bd7 91.Rd8 Bxf5 92.gxf5 Kg7 93.f6+ Kg8 94.Rxf8+ Kxf8
 
 [Event "Ch Europe"]
 [Site "Antalya (Turkey)"]
-[Date "2004.05.24"]
 [Round "9"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Naiditsch Arkadij (GER)"]
@@ -184,7 +177,6 @@ Kg7 64.Nf5+ Kh7 65.h6 Rb1 66.Kh5 Rh1+ 1/2-1/2
 
 [Event "Ch Europe"]
 [Site "Antalya (Turkey)"]
-[Date "2004.05.27"]
 [Round "11"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Sargissian Gabriel (ARM)"]
@@ -205,7 +197,6 @@ Kf7 19.Nf5 Rhe8 20.b3 Ng6 21.Rxd8 Rxd8 22.Re1 Nf4 23.Kf1 Rh8
 
 [Event "Ch Europe"]
 [Site "Antalya (Turkey)"]
-[Date "2004.05.28"]
 [Round "12"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Krasenkow Michal (POL)"]
@@ -230,7 +221,6 @@ Rf7+ 47.Ke3 Rg7 48.Kf3 Rf7+ 49.Ke3 e4 50.Kxe4 1/2-1/2
 
 [Event "It (active) (KO-system)"]
 [Site "Leon (Spain)"]
-[Date "2004.06.05"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Shirov Alexei (ESP)"]
@@ -249,7 +239,6 @@ g6 14.h4 Ne5 15.Bc3 Bg4 16.Be2 Rc8 17.Bxg4 Nxg4 18.Qe2 Qd7 19.h5 1/2-1/2
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.21"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -268,7 +257,6 @@ Ba8 14.Re1 Ne4 15.Nxe4 Bxe4 16.Nd2 1/2-1/2
 
 [Event "Ch World FIDE (KO-system) (active)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.22"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -286,7 +274,6 @@ c5 8.cxd5 Nxd5 9.Nxd5 exd5 10.dxc5 Nxc5 11.Be5 1/2-1/2
 
 [Event "Ch World FIDE (KO-system) (blitz)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.22"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -310,7 +297,6 @@ Ke8 41.Rd8+ 1/2-1/2
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.24"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -329,7 +315,6 @@ bxc4 14.bxc4 Qe7 15.Rc2 1/2-1/2
 
 [Event "Ch World FIDE (KO-system) (active)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.24"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -350,7 +335,6 @@ Qb8 14.Rc2 Rd8 15.cxd5 cxd5 16.Rfc1 Qb7 17.Ne2 Rac8 18.Ne5 Nxe5
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.27"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Smirnov Pavel (RUS)"]
@@ -369,7 +353,6 @@ Qb8 14.Rc2 Rd8 15.cxd5 cxd5 16.Rfc1 Qb7 17.Ne2 Rac8 18.Ne5 Nxe5
 
 [Event "Ch World FIDE (KO-system) (active)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.27"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Smirnov Pavel (RUS)"]
@@ -398,7 +381,6 @@ Nf6 71.Bc4 Ne4+ 72.Kd4 Nxc3 73.Kxc3 1/2-1/2
 
 [Event "Ch World FIDE (KO-system) (blitz)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.27"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Smirnov Pavel (RUS)"]
@@ -426,7 +408,6 @@ b6 1/2-1/2
 
 [Event "Ch World FIDE (KO-system) (active)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.29"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Dominguez Lenier (CUB)"]
@@ -444,7 +425,6 @@ hxg6 8.g3 Nbd7 9.Qe2 dxc4 10.Bg2 Be7 11.Qxc4 e5 12.O-O Nb6 13.Qd3 1/2-1/2
 
 [Event "Ch World FIDE (KO-system) (blitz)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.29"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Dominguez Lenier (CUB)"]
@@ -477,7 +457,6 @@ Kd3 87.Nb3 Kxc4 88.Nc1 a1Q 89.Bxa1 Nxa1 90.b6 Nc2 91.b7 Bxb7
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.07.03"]
 [Round "6"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Adams Michael (ENG)"]
@@ -498,7 +477,6 @@ Qa5 20.Bxb6 cxb6 21.exd7+ Kb7 22.Nb5 Rxd7 23.a3 Bf8 24.Rhf1 Re7
 
 [Event "Cup European Club"]
 [Site "Izmir (Turkey)"]
-[Date "2004.10.07"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Motylev Alexander (RUS)"]
@@ -518,7 +496,6 @@ f5 13.Bg5 Qd7 14.Rde1 Rae8 15.Rhg1 Bd5 16.f4 Kh8 17.Be2 Bxg5
 
 [Event "Cup European Club"]
 [Site "Izmir (Turkey)"]
-[Date "2004.10.09"]
 [Round "7"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Iljin Artem (RUS)"]
@@ -536,7 +513,6 @@ d6 8.c3 O-O 9.Re1 e5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.22"]
 [Round "7"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Shirov Alexei (ESP)"]
@@ -554,7 +530,6 @@ d6 8.c3 O-O 9.Re1 e5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.26"]
 [Round "11"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Gelfand Boris (ISR)"]

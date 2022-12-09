@@ -1,6 +1,5 @@
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -22,7 +21,6 @@ Bb4 30.Be5 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -42,7 +40,6 @@ O-O-O 14.Qc2 Nc5 15.O-O Ne6 16.Rad1 Bc5 17.Ne4 Bb4 18.Qc1 fxg3
 
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -68,7 +65,6 @@ Rg8 36.Bc4 Rf8 37.Rxf8 Bxf8 38.g5 Bg7+ 39.Ke4 Bxb2 40.Kf5 b5
 
 [Event "Match (active)"]
 [Site "Budapest (Hungary)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -89,7 +85,6 @@ Bc4 19.Rxa7 Bd5 20.Nxc5 bxc5 21.e4 Bc6 22.Rd6 Ra8 23.Qa3 Rxa7
 
 [Event "Match (active)"]
 [Site "Budapest (Hungary)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -113,7 +108,6 @@ d5 42.Ng5 Bxg5 43.hxg5 Re7 44.Rc2 Qf5 0-1
 
 [Event "Match (active)"]
 [Site "Budapest (Hungary)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -152,7 +146,6 @@ Bc6 120.Nh5 Bb7 121.Ng3 Nd6 122.Bd8 Nc4 123.Bc7 Nd2 124.g5 Nb3
 
 [Event "Match (active)"]
 [Site "Budapest (Hungary)"]
-[Date "2001.??.??"]
 [Round "11"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -174,7 +167,6 @@ Rxd5 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -193,7 +185,6 @@ a5 14.a3 h6 15.Bb2 Qc7 16.Rad1 Rfd8 17.Qb1 Qb8 18.e5 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -216,7 +207,6 @@ Re5 30.Nc4 Rxd1+ 31.Rxd1 Rb5 32.Ne3 Bxb4 33.Rb1 Rb8 34.Nd5 Bd6
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -240,7 +230,6 @@ Rf5 37.e6 fxe6 38.Ra7+ Kg8 39.Qg3 Qf6 40.Ra8 Rxa8 41.Rxa8+ Kg7
 
 [Event "Match (blitz)"]
 [Site "Internet"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -266,7 +255,6 @@ Qe7 36.Rc8 Qd6 37.Nd3 Rxc8 38.Rxc8+ Rd8 39.Rc2 Ne4 40.Qe5 Qxe5
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -288,7 +276,6 @@ Rxf8 25.Nxb7 Bc3 26.Re3 Bg4 27.Qg3 Bf5 28.Rf1 Bd2 29.Nd6 Bg6
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -313,7 +300,6 @@ Nf6+ 47.Ke5 Nxh5 0-1
 
 [Event "Memorial M.Botvinnik (match) (active)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -339,7 +325,6 @@ Nc5 54.Qf3 Qxf3 0-1
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -365,7 +350,6 @@ Qf2 49.Raa1 Bg3+ 50.Kh1 Bxf3 51.d5+ Kh7 52.Rg1 Re4 53.Qb7 Bxg2+
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -387,7 +371,6 @@ Rd1+ 31.Kh2 Bd6 32.g3 Bc6 33.g4 Rd3 34.Kg1 Bxf3 0-1
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -414,14 +397,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Kramnik online sim"]
 [Site "Internet"]
-[Date "2001.09.05"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "1354"]
 [ECO "A46"]
-[EventDate "2001.09.??"]
 [PlyCount "45"]
 [WhiteElo "2800"]
 
@@ -434,14 +415,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Kramnik online sim"]
 [Site "Internet"]
-[Date "2001.09.05"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "1569"]
 [ECO "D85"]
-[EventDate "2001.09.??"]
 [PlyCount "51"]
 [WhiteElo "2800"]
 
@@ -455,14 +434,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Kramnik online sim"]
 [Site "Internet"]
-[Date "2001.09.05"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "1939"]
 [ECO "A57"]
-[EventDate "2001.09.??"]
 [PlyCount "49"]
 [WhiteElo "2800"]
 
@@ -475,14 +452,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Kramnik online sim"]
 [Site "Internet"]
-[Date "2001.09.05"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Andrew D Green"]
 [Result "1-0"]
 [BlackElo "2012"]
 [ECO "E11"]
-[EventDate "2001.09.??"]
 [PlyCount "67"]
 [WhiteElo "2800"]
 
@@ -497,14 +472,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Kramnik online sim"]
 [Site "Internet"]
-[Date "2001.09.05"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "1613"]
 [ECO "B30"]
-[EventDate "2001.09.??"]
 [PlyCount "95"]
 [WhiteElo "2800"]
 
@@ -521,14 +494,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Kramnik online sim"]
 [Site "Internet"]
-[Date "2001.09.05"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "1735"]
 [ECO "B23"]
-[EventDate "2001.09.??"]
 [PlyCount "93"]
 [WhiteElo "2800"]
 
@@ -545,14 +516,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Kramnik online sim"]
 [Site "Internet"]
-[Date "2001.09.05"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Verbal Kint"]
 [Result "1-0"]
 [BlackElo "1604"]
 [ECO "D14"]
-[EventDate "2001.09.??"]
 [PlyCount "59"]
 [WhiteElo "2800"]
 
@@ -566,14 +535,12 @@ Ke3 60.Kxa3 f5 61.Kb3 f4 0-1
 
 [Event "Corus Group A"]
 [Site "Wijk aan Zee NED"]
-[Date "2001.01.14"]
 [Round "2"]
 [White "Vladimir Kramnik"]
 [Black "Loek van Wely"]
 [Result "1-0"]
 [BlackElo "2700"]
 [ECO "D85"]
-[EventDate "2001.01.13"]
 [PlyCount "65"]
 [WhiteElo "2772"]
 

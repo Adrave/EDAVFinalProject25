@@ -1,6 +1,5 @@
 [Event "It \"IBM\" (cat.11)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Adorjan Andras (HUN)"]
@@ -21,7 +20,6 @@ Nc7 24.Re1 1-0
 
 [Event "It \"IBM\" (cat.11)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bobotsov Milko G (BUL)"]
@@ -40,7 +38,6 @@ Nd4 14.Nxd4 cxd4 15.Nb5 e5 16.Rfc1 Qd7 17.a4 Rfc8 18.e4 1/2-1/2
 
 [Event "It \"IBM\" (cat.11)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Browne Walter S (USA)"]
@@ -64,7 +61,6 @@ e5 42.g5+ 1/2-1/2
 
 [Event "It \"IBM\" (cat.11)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -83,7 +79,6 @@ b6 14.Rfc1 Nc6 15.Nc3 Rfc8 16.Be2 Qb7 17.Qd1 Ne8 18.Bf4 Bf8 1/2-1/2
 
 [Event "It \"IBM\" (cat.11)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Scholl Eddie C (NED)"]
@@ -108,7 +103,6 @@ Rh8 44.Kd2 Rxh6 45.Qa1 Qe8 46.Rh1 Qh8 47.Rxh6 Qxh6 48.Rb1 Ra8
 
 [Event "It \"IBM\" (cat.11)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -134,7 +128,6 @@ Kh7 54.Bc4 Rc5 55.Bd3 Re5 56.g3 h5 57.Kf1 h4 58.g4 Qf7 59.Rf8 1-0
 
 [Event "It \"IBM\" (cat.11)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -153,7 +146,6 @@ Qxd6 13.c3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -174,7 +166,6 @@ bxc5 20.Nd3 Bc6 21.Nf4 Qd6 22.Bb5 Bxb5 23.Rxb5 d4 24.Ne2 Rac8
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -199,7 +190,6 @@ Kf6 48.Bf5 a4 49.d7 Bxd7 50.Bxd7 a3 51.Rc2 Rb3 52.Ra2 b5 53.Bxb5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Grigorian Karen (RUS)"]
@@ -223,7 +213,6 @@ Nxe4 43.Ra3 Kf8 44.Ra8+ Ke7 45.Ba3+ Ke6 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Karasev Vladimir I (RUS)"]
@@ -247,7 +236,6 @@ e4 37.Bh5 Bg7 38.Rad1 Bc3 39.Qxe6+ Qxe6 40.fxe6 Kxe6 41.Kg2 Rd4
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -268,7 +256,6 @@ Qxh6 26.Qxd8+ Bf8 27.Re3 Bc6 28.Qxf8+ Qxf8 29.d8Q 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lein Anatoly (USA)"]
@@ -289,7 +276,6 @@ d5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Nikolaevsky Yuri V (RUS)"]
@@ -311,7 +297,6 @@ gxf5 26.Qd3 Kh8 27.Bxf5 Ne7 28.g4 Nxf5 29.gxf5 Rd7 30.Bxh6 Kg8
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tseitlin Mark D (ISR)"]
@@ -339,7 +324,6 @@ Qg1+ 64.Ke2 h3 65.Ra1 h2 66.Rf1 f5 67.Qa1+ 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -360,7 +344,6 @@ Bc4 25.b3 Rc8 26.Bxe5 Bxe5 27.Nd7 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -383,7 +366,6 @@ Qxe2 31.Nf1 Qe6 32.Qd1 Nb6 33.Rd8+ Kh7 34.Qb1+ g6 35.Rxb6 Rc6
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -406,7 +388,6 @@ Bxg6 32.hxg6 Kh8 33.Qe2 Bg5 34.Qf3 Qc8 35.Qh5 Qd8 36.Nh2 Qf6
 
 [Event "Izt (play-off)"]
 [Site "Portoroz (Slovenia)"]
-[Date "1971.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -430,7 +411,6 @@ h2 36.Rh7 Rg1 37.Rh8+ Ke7 38.Rh7+ Kf8 39.a5 h1Q 40.Rxh1 Rxh1
 
 [Event ""]
 [Site "URS"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -453,7 +433,6 @@ h4 37.Bxf7+ Kh8 38.Rg6 Rxf2+ 0-1
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Benko Pal C (USA)"]
@@ -472,7 +451,6 @@ O-O 8.Nc2 Nxc2+ 9.Qxc2 d5 10.Bg2 dxc4 11.Qxc4 Be6 12.Qc2 Re8
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1972.??.??"]
 [Round "15"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Browne Walter S (USA)"]
@@ -490,7 +468,6 @@ d6 8.e3 Bf5 9.d4 cxd4 10.Nxd4 Be4 11.Nxc6 Bxc6 12.Nc3 Ne4 1/2-1/2
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1972.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -517,7 +494,6 @@ Nf6+ 60.Kh4 Nd7 61.Nc7 Kd4 1/2-1/2
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1972.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ree Hans (NED)"]
@@ -538,14 +514,12 @@ Rxd8 19.O-O Nxa2 20.f4 Nab4 21.f5 gxf5 22.e4 fxe4 23.Bxe4 Rd4
 
 [Event "USSR Championship"]
 [Site "Leningrad URS"]
-[Date "1971.10.05"]
 [Round "14"]
 [White "Vasily Smyslov"]
 [Black "Vladimir I Karasev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A22"]
-[EventDate "1971.09.15"]
 [PlyCount "93"]
 [WhiteElo "?"]
 

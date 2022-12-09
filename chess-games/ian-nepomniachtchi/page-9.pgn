@@ -1,6 +1,5 @@
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.23"]
 [Round "3"]
 [White "Nepomniachtchi,I"]
 [Black "Petrosian,TL"]
@@ -10,7 +9,6 @@
 [BlackTeam "Armenia Eagles"]
 [BlackTitle "GM"]
 [ECO "B10"]
-[EventDate "2020.01.06"]
 [Opening "Caro-Kann defence"]
 [WhiteElo "2774"]
 [WhiteFideId "4168119"]
@@ -28,7 +26,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.23"]
 [Round "3"]
 [White "Nepomniachtchi,I"]
 [Black "Andriasian,Z"]
@@ -38,7 +35,6 @@
 [BlackTeam "Armenia Eagles"]
 [BlackTitle "GM"]
 [ECO "B10"]
-[EventDate "2020.01.06"]
 [Opening "Caro-Kann defence"]
 [WhiteElo "2774"]
 [WhiteFideId "4168119"]
@@ -67,7 +63,6 @@
 [BlackElo "2747"]
 [Result "1/2-1/2"]
 [Round "02"]
-[Date "Wed Mar 18 2020"]
 [WhiteClock "0:59:38"]
 [BlackClock "0:03:24"]
 
@@ -84,7 +79,6 @@
 [BlackElo "2707"]
 [Result "1-0"]
 [Round "05"]
-[Date "Sun Mar 22 2020"]
 [WhiteClock "0:10:58"]
 [BlackClock "0:05:30"]
 
@@ -101,7 +95,6 @@
 [BlackElo "2716"]
 [Result "1/2-1/2"]
 [Round "03"]
-[Date "Mon Dec 07 2020"]
 [WhiteClock "0:31:39"]
 [BlackClock "0:29:01"]
 
@@ -119,7 +112,6 @@
 [BlackElo "2685"]
 [Result "1-0"]
 [Round "01"]
-[Date "Sat Dec 05 2020"]
 [WhiteClock "0:09:30"]
 [BlackClock "0:00:32"]
 
@@ -137,7 +129,6 @@
 [BlackElo "2722"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Wed Dec 09 2020"]
 [WhiteClock "1:20:38"]
 [BlackClock "0:46:41"]
 
@@ -155,7 +146,6 @@
 [BlackElo "2765"]
 [Result "1-0"]
 [Round "02-04"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:02:23"]
 [BlackClock "0:00:10"]
 
@@ -173,7 +163,6 @@
 [BlackElo "2765"]
 [Result "0-1"]
 [Round "03-02"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:00:04"]
 [BlackClock "0:00:02"]
 
@@ -191,7 +180,6 @@
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "03-03"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:27"]
 
@@ -209,7 +197,6 @@
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "01-03"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:02:55"]
 [BlackClock "0:01:39"]
 
@@ -227,7 +214,6 @@
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "02-02"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:03:50"]
 [BlackClock "0:00:21"]
 
@@ -245,7 +231,6 @@
 [BlackElo "2674"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Sun Dec 13 2020"]
 [WhiteClock "0:35:08"]
 [BlackClock "0:38:21"]
 
@@ -263,7 +248,6 @@
 [BlackElo "2752"]
 [Result "1-0"]
 [Round "07"]
-[Date "Sat Dec 12 2020"]
 [WhiteClock "1:11:40"]
 [BlackClock "0:12:39"]
 
@@ -281,7 +265,6 @@
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "01-01"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:00:31"]
 [BlackClock "0:00:27"]
 
@@ -299,7 +282,6 @@
 [BlackElo "2682"]
 [Result "1-0"]
 [Round "10"]
-[Date "Tue Dec 15 2020"]
 [WhiteClock "1:12:47"]
 [BlackClock "0:10:52"]
 
@@ -317,7 +299,6 @@
 [BlackElo "2699"]
 [Result "1-0"]
 [Round "09"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:04:26"]
 [BlackClock "0:00:26"]
 
@@ -335,7 +316,6 @@
 [BlackElo "2863"]
 [Result "1/2-1/2"]
 [Round "11"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:15:11"]
 [BlackClock "0:17:22"]
 
@@ -353,7 +333,6 @@
 [BlackElo "2777"]
 [Result "0-1"]
 [Round "02"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:00:07"]
 [BlackClock "0:00:34"]
 
@@ -371,7 +350,6 @@
 [BlackElo "2767"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:04:10"]
 [BlackClock "0:06:28"]
 
@@ -389,7 +367,6 @@
 [BlackElo "2791"]
 [Result "1-0"]
 [Round "06"]
-[Date "Mon Mar 23 2020"]
 [WhiteClock "0:40:27"]
 [BlackClock "0:23:10"]
 
@@ -408,7 +385,6 @@
 [Result "1/2-1/2"]
 [Round "01"]
 [TimeControl "120/40+60/20+30(61)"]
-[Date "2021.11.26"]
 [WhiteClock "1:02:33"]
 [BlackClock "1:02:06"]
 
@@ -428,7 +404,6 @@
 [Result "1/2-1/2"]
 [Round "03"]
 [TimeControl "5400+30"]
-[Date "2021.11.28"]
 [WhiteClock "1:35:36"]
 [BlackClock "0:43:31"]
 
@@ -448,7 +423,6 @@
 [Result "1/2-1/2"]
 [Round "07"]
 [TimeControl "5400+30"]
-[Date "2021.12.04"]
 [WhiteClock "1:44:51"]
 [BlackClock "1:44:12"]
 
@@ -468,7 +442,6 @@
 [Result "1/2-1/2"]
 [Round "05"]
 [TimeControl "5400+30"]
-[Date "2021.12.01"]
 [WhiteClock "1:17:53"]
 [BlackClock "1:23:47"]
 

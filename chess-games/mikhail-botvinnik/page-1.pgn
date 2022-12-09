@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1969.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -21,7 +20,6 @@ Ndxf4+ 0-1
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Hecht Hans-Joachim (GER)"]
@@ -45,7 +43,6 @@ Bxb4+ 36.Bd2 Ba3 37.Bd3 Bb5 38.Bxb5 axb5 39.Nc6 Bc5 40.Bc3 Ke8
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -66,7 +63,6 @@ Kg7 25.Qd5 Qc6 26.Qxc6 Rxc6 27.Rd5 Rb8 28.Ra1 Kf7 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kurajica Bojan (BIH)"]
@@ -93,7 +89,6 @@ Rg7 59.c6 Rc7 60.Rg1 Rg7 61.Rxg7 Qh1+ 62.Qc1 Qxe4+ 63.Ka1 1-0
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ostojic Predrag (YUG)"]
@@ -117,7 +112,6 @@ Nd7 43.Bb2 Qf8 44.h5 Qxf4 45.Nxf4 Kg8 46.hxg6 1-0
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -137,7 +131,6 @@ Qc7 14.Rac1 Qb7 15.d3 Bc6 16.d4 Rad8 17.Ne1 Bxg2 18.Nxg2 Nf6
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Suttles Duncan (CAN)"]
@@ -163,7 +156,6 @@ Rxg8 53.Rxg8 1-0
 
 [Event "Olympiad Moscow (Trade Unions)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -188,7 +180,6 @@ Nxh4 42.Ne6+ Kc6 43.Nxf4 Kb5 44.g3 Nf5 45.Nxg6 Nh6 46.Ne5 Ka4
 
 [Event "Olympiad Moscow (Trade Unions)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Molchadsky"]
@@ -211,7 +202,6 @@ Rde6 31.b5 axb5 32.axb5 Ra8 33.Rc3 Ra5 34.Rb2 Rxb5 35.Rxb5 cxb5
 
 [Event "It"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1969.??.??"]
 [Round "13"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Benko Pal C (USA)"]
@@ -230,7 +220,6 @@ a6 14.Nc7 Rac8 15.Nxe6 fxe6 16.Rc1 Nd7 17.Rc2 h5 1/2-1/2
 
 [Event "It"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -254,7 +243,6 @@ Kh6 41.Qh8+ Kg5 42.Qd8+ Kh5 43.Qh8+ 1/2-1/2
 
 [Event "It"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1969.??.??"]
 [Round "8"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -272,7 +260,6 @@ cxd4 8.cxd4 Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 1/2-1/2
 
 [Event "It"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lombardy William J (USA)"]
@@ -296,7 +283,6 @@ Kf7 1-0
 
 [Event "It"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1969.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ree Hans (NED)"]
@@ -319,7 +305,6 @@ Bc5 26.Rxc5 dxc5 27.Qxc5 c6 28.Rb1 Be8 29.Bb4 Rf7 30.Rd1 Rc8
 
 [Event "It"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -341,7 +326,6 @@ h5 30.Re2 Bg4 31.Bxg4 Qxg4 32.Qe3 1-0
 
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Matulovic Milan (SCG)"]
@@ -362,7 +346,6 @@ Bf5 20.Bxf5 gxf5 21.Ke2 Kf7 22.Rd1 a6 23.Nd4 Nxd4+ 24.Bxd4 b5
 
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "4"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Matulovic Milan (SCG)"]
@@ -390,7 +373,6 @@ Qf1+ 1/2-1/2
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -413,7 +395,6 @@ fxg6 37.Bc2 Ba3 38.Ke2 Kf6 39.Kf3 Bd6 40.Ke4 Bc7 41.Bd1 Ba5 1/2-1/2
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -435,7 +416,6 @@ Ne5 20.Nxe5 Bxe5 21.Rad1 Bc6 22.Nc5 a5 23.Bb5 axb4 24.axb4 Bd6
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -461,7 +441,6 @@ Rd4 0-1
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -490,7 +469,6 @@ cxb5 66.Rxe6 Bc1 67.Bb4 d4 68.Rg6+ Kh7 69.Rd6 Bb2 70.Rd7+ Kg8
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -511,7 +489,6 @@ Qxf4 25.gxf4 Rc7 26.Bd5+ Kf8 27.Bc4 a5 28.Bxb5 Rxb5 29.Rc4 Rb4 1/2-1/2
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -532,7 +509,6 @@ Rfe8+ 25.Kf1 Nb8 1/2-1/2
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Psakhis Lev (ISR)"]
@@ -552,14 +528,12 @@ Rxa7 14.Bxb6 Ra8 15.Rfd1 Bc5 16.Qb5 Bxb6 17.Qxb6 Qc5 18.Na4 Qc4
 
 [Event "USSR vs. Rest of the World"]
 [Site "Belgrade SRB"]
-[Date "1970.04.04"]
 [Round "4.8"]
 [White "Mikhail Botvinnik"]
 [Black "Milan Matulovic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A89"]
-[EventDate "1970.03.29"]
 [PlyCount "126"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Amsterdam/Jakarta"]
-[Date "1993.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -22,7 +21,6 @@ Rd7 25.Be3 Bc4 26.Rf4 f6 27.exf6 e5 28.Qxe5 Qd1+ 29.Kh2 Qxd6
 
 [Event "Ch World (match)"]
 [Site "Amsterdam/Jakarta"]
-[Date "1993.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -48,7 +46,6 @@ Kg7 53.g5 1-0
 
 [Event "Ch World (match)"]
 [Site "Amsterdam/Jakarta"]
-[Date "1993.??.??"]
 [Round "14"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -74,7 +71,6 @@ Kd8 53.Ra7 1-0
 
 [Event "Ch World (match)"]
 [Site "Amsterdam/Jakarta"]
-[Date "1993.??.??"]
 [Round "16"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -100,7 +96,6 @@ Kh6 54.Re1 Rh2 55.Rd1 Bc5 56.Kg3 Rh5 57.Kg2 Ba3 58.Rd3 Bc5 59.Rdg3 1-0
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1993.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dolmatov Sergey (RUS)"]
@@ -123,7 +118,6 @@ Rxf3 31.Ne7+ Kf7 32.Nc8 Bd7 33.Nxd6+ Kg8 34.Nc6 Rf6 35.Qc7 Bxc6
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1993.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Serper Grigory (USA)"]
@@ -147,7 +141,6 @@ Ne3+ 42.Kg1 Kf6 43.Rf4+ 1-0
 
 [Event "It"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -170,7 +163,6 @@ Kf7 36.Rb6 Rc4 37.Rd2 b4 38.b3 Rf4 39.Kc2 g5 40.h3 Rd7 41.Kd1 1-0
 
 [Event "It"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Fernandez Garcia Jose Luis (ESP)"]
@@ -191,7 +183,6 @@ cxd3 26.Qxd3 Qc6 27.Qh3 1-0
 
 [Event "It"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -216,7 +207,6 @@ Ra4 31.Nb5 N5xc6 32.Rxc6 Nxc6 33.Bxc6 Be6 34.Re3 Bc4 35.Na3 Ra6
 
 [Event "It"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Yudasin Leonid (ISR)"]
@@ -242,7 +232,6 @@ Rf8 47.Qc5 Qd8 48.Rd5 Qb8 49.Qd4 Qc8 50.b5 Rxg4 51.Bxg4 Qxg4
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Belotti Bruno (ITA)"]
@@ -267,7 +256,6 @@ Nh7 43.Nxh7 Kxh7 44.f5 f6 45.fxg6+ Kxg6 46.Rf5 Rh8 47.Rdf1 Rh6
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Chevallier Didier (FRA)"]
@@ -291,7 +279,6 @@ exd3 43.Rxh5 1-0
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kallai Gabor (HUN)"]
@@ -314,7 +301,6 @@ Rh6 38.Bxd4 Ng5 39.f4 Ne6 40.Be3 h3 41.g4 c5 42.bxc5 Qd8 43.Qd2 1-0
 
 [Event "Cup European Club"]
 [Site "Hilversum (Netherlands)"]
-[Date "1993.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ekstroem Roland (SUI)"]
@@ -337,7 +323,6 @@ Rg7 25.Rbc1 Qf7 26.a4 Rdg8 27.b5 axb5 28.axb5 Nh4 29.bxc6 Nxg2
 
 [Event "It"]
 [Site "Leon (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -359,7 +344,6 @@ Re7 31.e4 Be6 32.b5 cxb5 33.exd5 Bd7 34.d6 Re6 35.Bxb5 Rf6+ 36.Kg2 1-0
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -383,7 +367,6 @@ f5 41.Re6+ Kg5 1-0
 
 [Event "It (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nunn John D M (ENG)"]
@@ -406,7 +389,6 @@ Qb4 25.Qh6+ Kg8 26.h3 Bf3 27.Rxd5 Bxg4 28.Qd2 Qf8 29.Rd3 Bxh3
 
 [Event "It \"Interpolis\""]
 [Site "Tilburg (Netherlands)"]
-[Date "1994.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -435,7 +417,6 @@ Kxe5 1/2-1/2
 
 [Event "It \"Interpolis\""]
 [Site "Tilburg (Netherlands)"]
-[Date "1994.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kurajica Bojan (BIH)"]
@@ -460,7 +441,6 @@ Ra7 43.Qf5 Qxf5 44.Rxf5 Ra1+ 45.Kf2 Rd1 46.Ne4 b4 47.Rc5 Nd4
 
 [Event "Match"]
 [Site "Ubeda (Spain)"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -484,7 +464,6 @@ Nxe1 37.Nxe1 Re5 38.Ra6 Rb5 39.Ra7 Bc3 40.Rc1 Rcc5 41.a6 Bxe1
 
 [Event "Match"]
 [Site "Ubeda (Spain)"]
-[Date "1994.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -509,7 +488,6 @@ Ke8 49.Be6 Re5 50.Ba2 Ra5 51.Bc4 Rc5 52.Rxf4 Rxg5+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Paris (France)"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sheldon Ruth (ENG)"]
@@ -518,7 +496,6 @@ Ke8 49.Be6 Re5 50.Ba2 Ra5 51.Bc4 Rc5 52.Rxf4 Rxg5+ 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2120"]
 [PlyCount "49"]
-[EventDate "1994.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. e4 c6 7. Nge2 e5 8. O-O a6
 9. dxe5 dxe5 10. c5 a5 11. Na4 Nbd7 12. Qc2 Qe7 13. Rd1 Ne8 14. Be3 Nc7 15. Qc4
@@ -528,7 +505,6 @@ Nf6 16. f3 Be6 17. Qc2 Rad8 18. Rxd8 Rxd8 19. Rd1 Nfe8 20. b3 Nb5 21. Rxd8 Qxd8
 
 [Event "Ubeda m"]
 [Site "Ubeda ESP"]
-[Date "1994.??.??"]
 [Round "4"]
 [White "Karpov, Anatoly"]
 [Black "Lautier, Joel"]
@@ -549,7 +525,6 @@ Rc6 44. Rd1 1/2-1/2
 
 [Event "Etoiles"]
 [Site "Etoiles"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Karpov, Anatoly"]
 [Black "Gelfand, Boris"]
@@ -567,7 +542,6 @@ Rc6 27. b3 Rxc3 28. Nd8 Rc2 29. Nb7 Rc1 30. Nc5 Rb1 31. Nd3 Rd1 1/2-1/2
 
 [Event "It GM"]
 [Site "Linares ESP"]
-[Date "1994.??.??"]
 [Round "9"]
 [White "Karpov, Anatoly"]
 [Black "Shirov, Alexei"]

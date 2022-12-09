@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "1"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Euwe Max (NED)"]
@@ -20,7 +19,6 @@ c5 14.b3 Rac8 15.Rfc1 Qb6 16.Nd2 cxd4 17.Qxd4 Qxd4 18.exd4 Nf6
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "3"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Euwe Max (NED)"]
@@ -42,7 +40,6 @@ Na6 19.Qb1 Qxb1 20.Raxb1 Nc4 21.a4 Rab8 22.Rb5 Rb6 23.Rhb1 Re8
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "5"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Euwe Max (NED)"]
@@ -69,7 +66,6 @@ h5 58.Kg2 Qd7 59.Kg3 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "7"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Euwe Max (NED)"]
@@ -90,7 +86,6 @@ Bf6 24.Kf2 Kf8 25.Ke2 Ke7 26.Bb2 Kd6 27.Ba1 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "9"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Euwe Max (NED)"]
@@ -112,7 +107,6 @@ fxe5 20.Ng5 Bc3 21.Qc2 Bf5 22.Be4 g6 23.Qa2+ Kg7 24.Rxb7+ Rd7
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Muller JC"]
@@ -136,7 +130,6 @@ Bxb6 36.b5 Na7 37.c4 Rac8 38.Kb2 Bd4+ 39.Nxd4 Rxd4 40.Rxa5 Rdxc4
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Selman J"]
@@ -161,7 +154,6 @@ h5 46.Rxa6 Bc4+ 47.Ke3 h4 48.Ra3 Kg2 49.b3 Bf2+ 50.Kf4 Be6 0-1
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Spanjaard Eduard"]
@@ -185,7 +177,6 @@ Rg8 37.Rxg8+ Bxg8 38.Bg4 Qe8 39.Qe3 Qf8 40.Qh3 Qg7 41.Qh4 Bf7
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lopez Agustench Eduard (ESP)"]
@@ -211,7 +202,6 @@ Kd7 53.Kd5 Kc7 54.Kc4 Kc6 55.Kb4 Kd5 56.Kb5 Kd4 1/2-1/2
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Montero H"]
@@ -236,7 +226,6 @@ Kxc5 42.Nd7+ Kd6 43.Nb6 Be8 44.Kd4 Bc6 45.Nc8+ Kd7 46.Na7 Kd6
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tylor Theodore (ENG)"]
@@ -258,7 +247,6 @@ Nd7 25.Nd3 Rbd8 26.Kg2 Nf8 27.Rh1 Qd6 28.Rcd1 f5 29.Nde5 fxe4
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Thomas George A (ENG)"]
@@ -279,7 +267,6 @@ Rxd3 19.e5 Qd8 20.Bxd3 Qxd3 21.Rd1 Qe3+ 22.Kf1 Re8 23.g3 Qe4
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Burezza S"]
@@ -301,7 +288,6 @@ Nxb4 30.Rd8+ Kh7 31.Nd7 Kg6 32.g4 f5 33.Ne5+ Kh7 34.g5 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Dake A"]
@@ -328,7 +314,6 @@ Kb3 47.h4 Kc2 48.hxg5 hxg5 49.Bf5 Kd2 50.g4 Kxe2 51.Bxe4 Be8
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Denker Arnold S (USA)"]
@@ -355,7 +340,6 @@ Kc4 54.Rc6+ Kxd4 55.b5 Rf2+ 56.Kc1 Rf3 57.Rh6 Rxg3 58.Rxh5 f4
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Fine Reuben (USA)"]
@@ -380,7 +364,6 @@ b6 47.Kg3 Ke3 48.e5 Bxf3 0-1
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Horowitz Israel A (USA)"]
@@ -406,7 +389,6 @@ h5 54.Bc6 Rc7 55.Bd5 Nf8 56.Kd4 Kd6 57.Ra3 Ne6+ 58.Kd3 Nf8 59.Ra8 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kashdan Isaac (USA)"]
@@ -426,7 +408,6 @@ Nxc3 20.Rxc3 e5 21.Rd1 exd4 22.exd4 Qxe2 23.Bxe2 Re8 1/2-1/2
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "McCormick James (USA)"]
@@ -446,7 +427,6 @@ Qd7 1/2-1/2
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Princeton"]
@@ -469,7 +449,6 @@ e5 30.fxe5+ Kxe5 31.Kf1 Kf4 32.Rxf7 Ke3 33.g4 Rxe2 34.gxf5 Rf2+
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Santasiere Anthony Edward"]
@@ -492,7 +471,6 @@ f6 30.Bxe5 fxe5 31.Re1 Kg6 32.Rxe4 Kf5 33.f3 Ng7 34.Ne3+ Kf6
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Steiner Heinz (AUT)"]
@@ -512,7 +490,6 @@ Qd8 20.Re3 Qc8 21.Re6 Qd8 1/2-1/2
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Totten"]
@@ -540,7 +517,6 @@ c2 58.Kxc2 Kxe4 59.h4 Kf4 60.h5 gxh5 61.gxh5 Kg5 62.Kc3 Kxh5
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Turover Isador"]
@@ -568,7 +544,6 @@ Rc1 60.Ra7+ Kf8 61.Kg6 Ke8 62.Ra8+ Ke7 63.f6+ Kd7 64.f7 Rg1+
 
 [Event "Simultan"]
 [Site "Panama"]
-[Date "1933.??.??"]
 [Round "1"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Gomez Luis Fernando"]

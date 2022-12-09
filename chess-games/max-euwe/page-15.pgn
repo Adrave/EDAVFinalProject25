@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -22,7 +21,6 @@ Qb6+ 24.c5 Qxc5+ 25.Kh1 Qc1+ 26.Bf1 Bg4 27.Nb3 Qb1 28.Qg6+ Kf8
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1934.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Bosch Johannes (NED)"]
@@ -46,7 +44,6 @@ Kh7 36.Qd4 f3 37.Re3 Bb5+ 38.Nc4 Qb1+ 39.Re1 Qxa2 40.Qd3+ Kh8
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1934.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Bosch Johannes (NED)"]
@@ -67,7 +64,6 @@ f5 25.Rxf5 Nxc1 26.Rxf8+ Kxf8 27.Bb4+ Ke8 28.Qxb5+ Kd8 29.Qxb7 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1934.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Bosch Johannes (NED)"]
@@ -87,7 +83,6 @@ Kxb7 19.Qb3+ Ka8 20.Rc7 Rb8 21.Qe3 Bd8 22.Nc6 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -110,7 +105,6 @@ Qa3 37.Qa2 Qxa2 38.Bxa2 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Michell Reginald P (ENG)"]
@@ -131,7 +125,6 @@ Kg8 26.Qxh6 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Milner Barry Philip S (ENG)"]
@@ -153,7 +146,6 @@ d5 31.e6+ Bxe6 32.Nf6+ Kd6 33.c5+ Kxc5 34.Qxe7+ 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Thomas George A (ENG)"]
@@ -174,7 +166,6 @@ Rac8 24.R6f2 Rcd8 25.Qg5 Rd6 26.Bd5 1-0
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Kan Ilya A (RUS)"]
@@ -196,7 +187,6 @@ Qd6 31.Qd4 Rf4 32.Qe3 Bxe6 33.dxe6 Rf8 34.e7 Re8 35.Re6 1-0
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Rabinovich Ilya L (RUS)"]
@@ -219,7 +209,6 @@ h6 30.Rxa7 Re4 31.Ne5 Kg8 32.Nc6 Re2 33.Ne7+ Kh7 34.Nxd5 Rg2+
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -244,7 +233,6 @@ Qc4 43.Qe4+ Qxe4+ 44.Rxe4 Kg8 45.Nb8 Kf7 46.Nxa6 Rd7 47.Rd4 Ne7
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "12"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -272,7 +260,6 @@ e2+ 65.Ke1 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Gygli Fritz (SUI)"]
@@ -298,7 +285,6 @@ Nc4 53.Nf8 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Henneberger Walter"]
@@ -325,7 +311,6 @@ Ra6+ 53.Kd7 Ra7+ 54.Kd8 Ra5 55.Rd6 Kf8 56.Kc7 Ra7+ 57.Kb6 Re7
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Lasker Emanuel (GER)"]
@@ -350,7 +335,6 @@ Qxe5 36.Nf6+ Qxf6 37.Rxf6 Nxf6 38.Rc1 Ne4 39.Be2 Nd4 40.Bf3 Nxf2
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Naegeli Oskar (SUI)"]
@@ -374,7 +358,6 @@ Qb8 26.Qf3 Qc7 27.h4 Bc6 28.axb5 axb5 29.Rxa8 Bxa8 30.g4 Rh8
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -398,7 +381,6 @@ b3 36.axb3 Qxb3+ 37.Kc1 Bh6+ 38.Rdd2 Qxa4 39.Be5 Kh7 40.Bc3 Qb5
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -427,7 +409,6 @@ Kf5 71.Re7 Ra2 72.Re8 Rb2 73.Re7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "16"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -455,7 +436,6 @@ Kb2 59.Rb8+ Kc1 60.Rc8+ Kb1 61.Rb8+ Rb2 62.Ra8 Rb3+ 63.Kd4 a3
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "18"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -474,7 +454,6 @@ Qxd5 14.d3 Rad8 15.dxe4 Bxe4 16.Qxd5 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "22"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -493,7 +472,6 @@ Nxe4 14.Bxe4 Nc5 15.O-O Nxe4 16.Qxe4 Bf5 17.Qf3 Qh4 18.Qe2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "24"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -515,7 +493,6 @@ Qxf3 30.exf3 e5 31.Kf1 b5 32.Ke2 c5 33.Ke3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "26"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -539,7 +516,6 @@ Qf6 32.Ng5 Rg7 33.exd7 Rxd7 34.Qe3 Re7 35.Ne6 Rf8 36.Qe5 Qxe5
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "28"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -566,7 +542,6 @@ Bg2 58.h4 Kd5 59.Nc4 Ke4 60.Nd6+ Kd5 61.Ne8 Kc5 62.Nf6 Bf3 63.b3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "30"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]

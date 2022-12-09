@@ -1,6 +1,5 @@
 [Event "Cup European Club"]
 [Site "Europe"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -21,7 +20,6 @@ Bxe5 14.Ne4 f5 15.Nxc5 Qd6 16.b4 Nc6 17.Rb1 Bd4 18.Qd2 Bxf2+
 
 [Event "Cup European Club"]
 [Site "Europe"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -43,7 +41,6 @@ Bf7 31.Rh1 a5 1/2-1/2
 
 [Event "Cup European Club"]
 [Site "Europe"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Vladimirov Evgeny (KAZ)"]
@@ -65,7 +62,6 @@ Rxc7 1/2-1/2
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Brochet Philippe (FRA)"]
@@ -87,7 +83,6 @@ Rb2 30.a6 1-0
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Marin Mihail (ROM)"]
@@ -106,7 +101,6 @@ Rb2 30.a6 1-0
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Relange Eloi (FRA)"]
@@ -128,7 +122,6 @@ Rxh5 25.Rxh5 gxh5 26.Rxg5+ Kh6 27.Rg3 Rf8 28.Ke3 Rb8 29.a3 Rb1
 
 [Event "Match (team)"]
 [Site "Lyons (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Comas Fabrego Lluis (ESP)"]
@@ -150,7 +143,6 @@ Rf4 25.Qe3 Bc8 26.f3 Nf5 27.Qxf4 Qb6+ 28.Kh1 Qxa7 29.Re1 Qf2
 
 [Event "Ch France"]
 [Site "Montpellier (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bricard Emmanuel (FRA)"]
@@ -174,7 +166,6 @@ Qe7 42.h3 1/2-1/2
 
 [Event "Ch France"]
 [Site "Montpellier (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Chabanon Jean-Luc (FRA)"]
@@ -195,7 +186,6 @@ Kf8 19.f4 exf4 20.Bxf4 Be6 21.Bxe6 fxe6 22.e5 Nd5 23.Bh6+ Ke8
 
 [Event "Ch France"]
 [Site "Montpellier (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Koch Jean-Rene (FRA)"]
@@ -218,7 +208,6 @@ Qxa4 37.gxh5 gxh5 38.Qxh5+ Kg7 39.Qg4+ Kf8 40.Qe6 1-0
 
 [Event "Ch France"]
 [Site "Montpellier (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Prie Eric (FRA)"]
@@ -240,7 +229,6 @@ a5 25.Rg3 Kh8 26.Qe2 Rab8 27.b3 a4 28.Bxh6 Rxc3 29.Bxg7+ Bxg7
 
 [Event "Ch France"]
 [Site "Montpellier (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Renet Olivier (FRA)"]
@@ -262,7 +250,6 @@ Rh8 26.Qg1 Ne5 27.Rb1 Bg6 28.Rf1 Neg4 29.Rc1 Ne5 30.Rf1 Neg4
 
 [Event "Ch France"]
 [Site "Montpellier (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Santo-Roman Marc (FRA)"]
@@ -283,7 +270,6 @@ Rxe4 25.Bxe4 Qf4+ 0-1
 
 [Event "Ch France"]
 [Site "Montpellier (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Seret Jean-Luc (FRA)"]
@@ -302,7 +288,6 @@ Ng4 14.d6 exd6 15.Nd5 Qd8 16.Bg5 Qa5 17.c3 h6 18.Be7 1-0
 
 [Event "It (active)"]
 [Site "Oviedo (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -323,7 +308,6 @@ Rb6 25.Nd7 Ra6 26.Rf1 Qe7 27.Nf6+ Kh8 28.a4 Rb6 29.a5 Rb8 30.b4 1-0
 
 [Event "It (active)"]
 [Site "Oviedo (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Epishin Vladimir (GER)"]
@@ -343,7 +327,6 @@ Bg6 14.g3 Bxd3 15.Qxd3 g6 16.Ng2 Rxe1+ 17.Rxe1 Re8 18.Rxe8+ Nxe8
 
 [Event "It (active)"]
 [Site "Oviedo (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Izeta Txabarri Felix (ESP)"]
@@ -368,7 +351,6 @@ h3 42.Kxh3 Kxf5 43.b5 axb5 44.axb5 Ke6 45.Kg4 Kd5 46.c6 bxc6
 
 [Event "It (active)"]
 [Site "Oviedo (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Krasenkow Michal (POL)"]
@@ -389,7 +371,6 @@ f4 26.gxf4 h6 27.fxe5 Rxf3 28.Rxf3 hxg5 29.Qxg5 1-0
 
 [Event "It (cat.10)"]
 [Site "Salamanca (Spain)"]
-[Date "1991.??.??"]
 [Round "11"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gomez Esteban Juan Mario (ESP)"]
@@ -407,7 +388,6 @@ Qxe7 8.Nxe4 dxe4 9.Nd2 O-O 10.Bc4 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Salamanca (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Martin Gonzalez Angel (ESP)"]
@@ -429,7 +409,6 @@ Raxa8 25.Rc4 Bb2 26.Rd2 Bxd4 27.Rcxd4 Rec8 28.f3 Be6 29.Kf2 a4
 
 [Event "It (cat.10)"]
 [Site "Salamanca (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Rivas Pastor Manuel (ESP)"]
@@ -450,7 +429,6 @@ Kg5 19.gxh5 Rxh5 20.Ng4 Rh3 21.Rf7 Rb8 22.Rf8 c3 23.bxc3 Kg6
 
 [Event "It (active)"]
 [Site "Oviedo (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Martinez Garcia Jose (ESP)"]
@@ -459,7 +437,6 @@ Kg5 19.gxh5 Rxh5 20.Ng4 Rh3 21.Rf7 Rb8 22.Rf8 c3 23.bxc3 Kg6
 [WhiteElo "2560"]
 [BlackElo "2174"]
 [PlyCount "49"]
-[EventDate "1991.??.??"]
 
 1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. h3 Bxf3 6. Qxf3 Nc6 7. b4 Bb6 8. Na3
 Nf6 9. b5 Ne7 10. fxe5 dxe5 11. Nc4 Ng6 12. Nxb6 axb6 13. Bc4 Ra4 14. d3 h6 15.
@@ -469,7 +446,6 @@ Qa5 22. Qf5 Qa8 23. Bxe5 Nxe5 24. Qxe5+ Kf8 25. Qd6+ 1-0
 
 [Event "Teheran Open"]
 [Site "Teheran"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Spassky, Boris V"]
 [Black "Khachiyan, Melikset"]
@@ -493,7 +469,6 @@ Rxb2+ 56. Kg3 Ng7 57. Ra7 Nh5+ 58. Kf3 Rh2 59. Rxa5 Rh3+ 60. Kf2 Nf4
 
 [Event "St Stefan/Belgrade m"]
 [Site "Belgrade SRB"]
-[Date "1992.??.??"]
 [Round "18"]
 [White "Spassky, Boris V"]
 [Black "Fischer, Robert J"]
@@ -512,14 +487,12 @@ Kf8 20. Na5 Bd6 21. Ndb3 e5 22. Nc5 Ke7 23. h3 Nfd7 24. Nd3 f6 25. Be4 g6
 
 [Event "Fischer - Spassky"]
 [Site "Sveti Stefan & Belgrade YUG"]
-[Date "1992.11.01"]
 [Round "28"]
 [White "Boris Spassky"]
 [Black "Robert James Fischer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E83"]
-[EventDate "1992.09.02"]
 [PlyCount "70"]
 [WhiteElo "?"]
 

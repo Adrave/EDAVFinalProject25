@@ -1,6 +1,5 @@
 [Event "Cup World"]
 [Site "Barcelona (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -19,7 +18,6 @@ Nfd5 14.Bxe7 Nxe7 15.Nf3 Ncd5 16.Re5 Ng6 17.Re4 1/2-1/2
 
 [Event "Cup World"]
 [Site "Barcelona (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -42,7 +40,6 @@ Ra5 25.Rb1 Ra2+ 26.Kf3 Re8 27.Ra1 Rb2 28.Rfb1 Rxb1 29.Rxb1 Re5
 
 [Event "Cup World"]
 [Site "Barcelona (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -65,7 +62,6 @@ Ke6 36.f3 a5 37.g4 Ke5 38.f4+ Kf6 39.Bf1 fxg4 40.Bxc4 Nc5 1/2-1/2
 
 [Event "Cup World"]
 [Site "Barcelona (Spain)"]
-[Date "1989.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -86,7 +82,6 @@ Nc8 20.Rc3 Ne7 21.Rhc1 Rac8 22.Rb3 Rb8 23.Nd3 Rf7 24.Qe1 Nc8
 
 [Event "It (cat.15)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -113,7 +108,6 @@ Kc7 60.Ra8 Rg3+ 61.Kh2 Rf3 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -138,7 +132,6 @@ Nd6 41.Nf6+ gxf6 42.exd6 h5+ 43.Kh4 Qe2 44.h3 Kg7 45.Re7 Qb5
 
 [Event "Simultan"]
 [Site "Evry (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Koch Jean-Rene (FRA)"]
@@ -158,7 +151,6 @@ Rfd8 20.Qc3 e5 21.h3 Qc5 22.b3 axb3 23.axb3 Ra3 24.Qd2 Qa5 25.Nxc6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Evry (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Renet Olivier (FRA)"]
@@ -182,7 +174,6 @@ a4 43.Nd5 1-0
 
 [Event "Simultan"]
 [Site "Evry (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sharif Mehrshad (FRA)"]
@@ -205,7 +196,6 @@ h3+ 36.Kh1 Qf5 37.Rc4 f6 38.Qxb7+ 1-0
 
 [Event "Active"]
 [Site "London (England)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -230,7 +220,6 @@ Nh3+ 46.Kg4 Nxf4 47.Rxa7 Ne6 0-1
 
 [Event "It (active)"]
 [Site "Madrid (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -255,7 +244,6 @@ Kh5 46.Re5+ Kg4 47.h3+ Kh4 48.Be1+ 1-0
 
 [Event "It (active)"]
 [Site "Madrid (Spain)"]
-[Date "1989.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -280,7 +268,6 @@ Be8 48.Rc1 Bf7 49.Rc3 Be6 50.Bc2 Bf7 51.Ra3 Rxa3 52.Kxa3 b5 1/2-1/2
 
 [Event "It (active)"]
 [Site "Madrid (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nogueiras Jesus (CUB)"]
@@ -303,7 +290,6 @@ Rxd8 25.Rxa2 Bxe5 26.Bxe5 Rxd7 27.Rxa6 f6 28.Bd6 Rb7 29.Ba3 Kf7
 
 [Event "It (matches)"]
 [Site "New York (USA)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -328,7 +314,6 @@ Qa1+ 48.Kg2 Qxa6 49.Qe8+ Kh7 50.Bg8+ Kh8 51.Bf7+ 1-0
 
 [Event "Cup World"]
 [Site "Skelleftea (Sweden)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -350,7 +335,6 @@ Nxc4 31.Bf6+ Ke8 32.Bxc4 Rxc4 33.Rxd6 Bd5 34.Re1 Kf8 35.Re2 1/2-1/2
 
 [Event "Cup World"]
 [Site "Skelleftea (Sweden)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -377,7 +361,6 @@ Kh7 59.Re7+ R5f7 60.Re5 1/2-1/2
 
 [Event "Cup World"]
 [Site "Skelleftea (Sweden)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -397,7 +380,6 @@ cxd4 8.a3 dxc3 9.Qxd8+ Kxd8 10.axb4 cxb2 11.Bxb2 f6 12.e5 Bg4
 
 [Event "Cup World"]
 [Site "Skelleftea (Sweden)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -421,7 +403,6 @@ Re8 42.Ne5+ Kf6 43.Nf3 1-0
 
 [Event "It"]
 [Site "Tilburg (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Agdestein Simen (NOR)"]
@@ -443,7 +424,6 @@ Rxa8 30.Rxa8 1-0
 
 [Event "It"]
 [Site "Tilburg (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -464,7 +444,6 @@ f5 24.Rb6 Bc6 25.Rxa5 Qh7 26.Qxf4 1-0
 
 [Event "It"]
 [Site "Tilburg (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -488,7 +467,6 @@ g6 36.Qxe5 Rxe5 37.Nc7 Rd8 38.Rc2 a5 39.Rcd2 axb4 40.axb4 Re7
 
 [Event "It"]
 [Site "Tilburg (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -509,7 +487,6 @@ hxg5 19.O-O-O Ncd7 20.Kb1 Kg7 21.Bb3 Rc5 22.e4 dxe4 23.Bxe6 fxe6
 
 [Event "It"]
 [Site "Tilburg (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -532,7 +509,6 @@ Rg1+ 36.Kh3 Nef4+ 37.Kg4 h5+ 38.Kf3 1-0
 
 [Event "It"]
 [Site "Tilburg (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -555,7 +531,6 @@ Kg8 31.Re3 Bd5 32.Rxh5 gxh5 33.Qh4 Qc4 34.Qxh5 Qf1+ 35.Kb2 e5
 
 [Event "It"]
 [Site "Tilburg (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sax Gyula (HUN)"]

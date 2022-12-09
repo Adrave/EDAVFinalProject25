@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -26,7 +25,6 @@ Rb7 53.g4 Rb8 54.g5+ 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -45,7 +43,6 @@ Qb6+ 14.Qd4 Nxc3 0-1
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -69,7 +66,6 @@ a5 35.Ra7 a4 36.g3 a3 37.Kg2 Ra1 38.Kf3 a2 39.h4 Kh5 40.Kf4 Kg6
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -93,7 +89,6 @@ bxc4 30.Qc2 Ng5 31.Rc1 Qh3 32.Qxc4+ Kh8 33.Qc6 Rf8 34.f4 Nf7
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -114,7 +109,6 @@ Bxd6 26.Rfe1 1/2-1/2
 
 [Event "Match (2)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -135,7 +129,6 @@ Nd3 25.Rd1 Re8 26.Bh3 Rc7 27.Rf3 Qe2 28.Rdxd3 Bxd3 0-1
 
 [Event "Match (2)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -154,7 +147,6 @@ Qxd5 8.Nc3 Qa5 9.Nxd4 Nxd4 10.Qxd4 f5 11.Bg5 Bc5 12.Qxg7 Bxf2+
 
 [Event "Match (2)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1919.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Kroone Gerard"]
@@ -174,7 +166,6 @@ Nd7 19.Rf1+ Nf6 20.Rxh6 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "O'Hanlon John"]
@@ -195,7 +186,6 @@ Bd7 25.dxc6+ Be6 26.Bxe6+ Rxe6 27.Rxa8 Rxe8 28.Rxe8 Kxe8 29.cxb7 1-0
 
 [Event "It"]
 [Site "Netherlands"]
-[Date "1919.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Gelder"]
@@ -219,7 +209,6 @@ Re2 41.Rh8 Ree8 42.Rxe8 Rxe8 43.h5 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Oskam Gerard"]
@@ -241,7 +230,6 @@ Qc7 32.Nc5 Bc8 33.Qf2 Be7 34.Qe2 Qc6 35.Bf2 Bxc5 1/2-1/2
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Speyer Abraham"]
@@ -263,7 +251,6 @@ Nc5 25.Rc4 Rb1+ 26.Kh2 Rf1 27.e5 fxe5 28.Bxe5 Ne6 29.Bb2 Rf2
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1920.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -286,7 +273,6 @@ Re1+ 35.Kf3 Rd1 36.Rc5 1/2-1/2
 
 [Event "It (b)"]
 [Site "Goteborg (Sweden)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -308,7 +294,6 @@ Bd6 25.Rh5 Bd7 26.d5 g6 27.dxc6 bxc6 28.Bd5+ cxd5 29.Rxd5 Kf7
 
 [Event "It (b)"]
 [Site "Goteborg (Sweden)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Jacobson Ernst"]
@@ -330,7 +315,6 @@ Rb8 31.Qc1 Qc6 32.Qc2 Rb5 33.Qf5 Rb8 34.Rb2 Re8 35.Rg4 1/2-1/2
 
 [Event "It (b)"]
 [Site "Goteborg (Sweden)"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Nilsson Allan"]
@@ -352,14 +336,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "Alekhine - Euwe World Championship Match"]
 [Site "Various Locations NED"]
-[Date "1935.10.20"]
 [Round "8"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "137"]
 [WhiteElo "?"]
 
@@ -380,14 +362,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "Simul, 25b"]
 [Site "Amsterdam NED"]
-[Date "1920.02.09"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Emanuel Lasker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -401,14 +381,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "Training game"]
 [Site "Amsterdam NED"]
-[Date "1933.07.04"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Geza Maroczy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D66"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -422,14 +400,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "VAS Winter"]
 [Site "Amsterdam NED"]
-[Date "1922.??.??"]
 [Round "9"]
 [White "Max Euwe"]
 [Black "Geza Maroczy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -443,14 +419,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "FRA-NED"]
 [Site "Paris FRA"]
-[Date "1924.06.09"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Andre Muffang"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -464,14 +438,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "NED-ch"]
 [Site "Amsterdam NED"]
-[Date "1924.07.29"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Gerard Kroone"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -486,14 +458,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "Rotterdam"]
 [Site "Rotterdam NED"]
-[Date "1924.10.27"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Efraim de Haas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -507,14 +477,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "S.S.S. cup"]
 [Site "?"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "J Graafland"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "23"]
 [WhiteElo "?"]
 
@@ -525,14 +493,12 @@ Bxb7 25.Bxb7 Rbd8 26.Rc4 h5 27.Rxd4 Rxd4 28.Rc2 Nf6 29.Kf1 Kf8
 
 [Event "Gothenburg B"]
 [Site "Gothenburg SWE"]
-[Date "1920.08.06"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "Allan Nilsson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "1920.08.02"]
 [PlyCount "63"]
 [WhiteElo "?"]
 

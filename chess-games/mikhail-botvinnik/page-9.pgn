@@ -1,6 +1,5 @@
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "3"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ciocaltea Viktor (ROM)"]
@@ -23,7 +22,6 @@ Nxf8 31.Nxe5 Qxe5 32.Rxf8+ Kb7 33.Rf7+ Kb8 34.Qe3 c5 35.Bd5 f5
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "1"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Golombek Harry (ENG)"]
@@ -47,7 +45,6 @@ Kg7 36.Ke3 g5 37.hxg5 Bxg5+ 38.Kf3 a4 39.Rd7+ Rxd7 40.Nxd7 Kf7
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Najdorf Miguel (POL)"]
@@ -76,7 +73,6 @@ Kg8 70.Kg6 g4 71.h6 gxh6 72.e7 Ra8 73.Rf6 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -100,7 +96,6 @@ Re5 36.Rxe5 fxe5 37.Qd2 Qc6 38.Qg5+ Kf8 39.Rd2 Ra8 40.Qxe5 Re8
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -121,7 +116,6 @@ Bxc3 20.Rxd7 Bb4 21.c5 Rfe8 22.Rfd1 f5 23.Rxb7 fxe4 24.Rd6 Kf7
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "14"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -145,7 +139,6 @@ Nf8 36.Rh4 Kg7 37.Rxe4 Ra6 38.Rxc4 Rb7 39.d5 Rxa2 40.Rxb4 Rxb2
 
 [Event "Olympiad"]
 [Site "Moscow (Russia)"]
-[Date "1956.??.??"]
 [Round "6"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Padevsky Nikola (BUL)"]
@@ -167,7 +160,6 @@ Qxd8 25.Nxh7 Ne6 26.Qe5 b5 27.Ng5+ Nxg5 28.hxg5 Qa8+ 29.e4 Qc6
 
 [Event "Match (training)"]
 [Site "Leningrad (Russia)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -189,7 +181,6 @@ b4 25.Qb2 dxc5 26.Rc1 e5 27.Rxc5 Nd4 28.Be3 Ba6 29.Bxd4 exd4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "1"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -212,7 +203,6 @@ e6 37.Qf2+ Ke8 38.Qf6 Bxa3 39.Qxg6+ Kd7 40.Qh7+ Be7 41.Bf6 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "3"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -235,7 +225,6 @@ Kh7 37.Bd2 Bf6 38.Kh2 Qb6 39.Bc3 Bg7 40.Bc8 Bh6 41.Kg2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -260,7 +249,6 @@ Rbf8 51.Qd2 Rf4 52.Nc3 Nxg3 53.Rxg3 Qh2 54.Qe1 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "7"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -280,7 +268,6 @@ bxa5 14.Nc3 c5 15.Na4 cxd4 16.exd4 Qd6 17.O-O Rad8 18.Qd2 Qxd4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "9"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -303,7 +290,6 @@ Kh8 36.Qd8+ Kh7 37.Qe7+ Kh8 38.Qe8+ Kh7 39.Qe7+ Kh8 40.Qe8+ Kh7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "11"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -323,7 +309,6 @@ Bxe5 14.Bh6 Re8 15.Rc1 Rc8 16.Qd2 Qe7 17.Rfe1 Bd6 18.Qd4 Qf6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "13"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -346,7 +331,6 @@ Qxd2 37.Rxd2 Nd3 38.Bd4 Reb8 39.Nc3 Rb3 40.h4 R8b7 41.Ra8+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "15"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -372,7 +356,6 @@ Kf5 48.Rf4+ Ke5 49.Re4+ Kf5 50.Rf4+ Ke5 51.Kg4 Rxa4 52.Kg5 Ra6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "17"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -400,7 +383,6 @@ Bd8 65.Nc2 Bg5 66.b5 Bd8 67.Nb4 Bb6 68.Nc2 Ba5 69.Nb4 Ke1 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "19"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -419,7 +401,6 @@ cxd4 8.Nxd4 d5 9.cxd5 Nxd4 10.exd4 Nxd5 11.O-O O-O 12.Qb3 Qb6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "21"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -438,7 +419,6 @@ Qxd7 1/2-1/2
 
 [Event "Match (training)"]
 [Site "Moscow (Russia)"]
-[Date "1957.01.09"]
 [Round "2"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -459,7 +439,6 @@ Qa6 25.Rd1 Qe2 26.Nf4 Qa6 27.Nd5 Qe2 28.Nf4 Qa6 1/2-1/2
 
 [Event "Match (training)"]
 [Site "Moscow (Russia)"]
-[Date "1957.01.21"]
 [Round "6"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -485,7 +464,6 @@ Rh6 53.Rg5 Rh8 54.Kf4 Ra8 55.Ke3 Ra4 56.Rf5 Rxb4 0-1
 
 [Event "Match (training)"]
 [Site "Moscow (Russia)"]
-[Date "1957.01.25"]
 [Round "8"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -510,7 +488,6 @@ Ke6 47.Rg5 Re1+ 48.Kf2 1-0
 
 [Event "Match (training)"]
 [Site "Moscow (Russia)"]
-[Date "1957.01.30"]
 [Round "10"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -530,7 +507,6 @@ h4 20.Ne3 Nh5 21.g4 1/2-1/2
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Westra Roelof D (ENG)"]
@@ -551,7 +527,6 @@ Bf5 25.Kf2 h5 26.Ne1 Re4 27.b3 a6 1/2-1/2
 
 [Event "It"]
 [Site "Wageningen (Netherlands)"]
-[Date "1958.11.05"]
 [Round "3"]
 [White "Botvinnik Mikhail (ISR)"]
 [Black "Flohr Salomon M (CZE)"]

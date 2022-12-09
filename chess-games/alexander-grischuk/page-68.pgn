@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Bled (Slovenia)"]
-[Date "2002.??.??"]
 [Round "11"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Graf Alexander (GER)"]
@@ -22,7 +21,6 @@ Qd8 25.Rb3 Rh7 26.Qf3 Re8 27.Rxf6 Kc8 28.Rxc6+ bxc6 29.Qg4+ Qd7
 
 [Event "Olympiad"]
 [Site "Bled (Slovenia)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Sokolov Ivan (NED)"]
@@ -46,7 +44,6 @@ Re8 38.exd5 Rxe1 39.f5 Qd7 40.fxg6 Rh1 41.gxf7+ Kf8 42.Rh2 Rd1
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -67,7 +64,6 @@ Rxc1 25.Rxc1 Nd4 26.Rc8 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -95,7 +91,6 @@ Qc2+ 66.Qe2 Qf5 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -118,7 +113,6 @@ Rxf5 31.Qe7 Bd5 32.Re1 Rcf8 33.Bxc4 Bxc4 34.g4 R5f7 35.Qe3 Rxf4
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -140,7 +134,6 @@ Bxc6 31.Bxe6+ Kh8 32.Nxc6 Rd1 33.h3 Qh5 34.Bf7 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -167,7 +160,6 @@ g1Q 53.e8Q Qe3+ 54.Kd5 Qxe8 55.Nxe8 d3 56.Nd6 d2 57.Nf5+ Kg4
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -188,7 +180,6 @@ Qe6 25.Rd1 1-0
 
 [Event "Ch France (team) 2002"]
 [Site "France"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Wirig Anthony (FRA)"]
@@ -211,7 +202,6 @@ Nxd2 31.Qxd2 Rd7 32.Rf5 Qg6 33.Qf2 Re6 34.h4 gxh4 35.Bxh4 Kf8
 
 [Event "Bundesliga 2002/03"]
 [Site "Germany"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Brynell Stellan (SWE)"]
@@ -231,7 +221,6 @@ Ndxe5 20.Nxh7 Rxh7 21.Rxh7 Qf8 22.Nf6+ 1-0
 
 [Event "Cup European Club (final)"]
 [Site "Halkidiki (Greece)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -255,7 +244,6 @@ Kxf8 36.Bd5 Ke7 37.Ke3 Kf6 38.Kf4 Nc6 39.Bxc6 bxc6 40.c4 Ke6
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -276,7 +264,6 @@ Qd5+ 25.f3 e5 26.Bg6+ Kf8 27.Ng7 1-0
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -303,7 +290,6 @@ Rb7 59.e7 Rb6+ 60.Kg7 Rb7 61.Kf7 1-0
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -327,7 +313,6 @@ Rb2 37.Rc1 Bd4 38.c7 Bxf2+ 39.Kh1 Be3 40.c8Q+ Kh7 41.Be5 Bxc1
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -351,7 +336,6 @@ Bxe2 36.Qh8+ Ke7 37.Qxg7 Rd5 38.Bb3 Rcd8 39.Qh7 Kf6 40.Qh6+ Ke7
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -375,7 +359,6 @@ Rd5 37.e4 Rdh5 38.Qd7 Rf7 39.Bb3 d2 40.Qxd2 Qc8 41.Bxf7 Kxf7
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Dvoirys Semen I (RUS)"]
@@ -395,7 +378,6 @@ Nc3+ 19.bxc3 Rb8 20.Rd3 O-O 21.c4 Nb6 22.Qc5 Qf6 23.g5 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Miton Kamil (POL)"]
@@ -417,7 +399,6 @@ Rh1+ 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Sargissian Gabriel (ARM)"]
@@ -441,7 +422,6 @@ Kc7 43.a4 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Sulskis Sarunas (LTU)"]
@@ -467,7 +447,6 @@ Qxf7 54.Rxf7 Kxf7 55.Nd5 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -490,7 +469,6 @@ Qe6 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -515,7 +493,6 @@ Kg8 47.Rc8+ Kh7 48.Rc7 Kg8 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -538,7 +515,6 @@ Kh7 31.Ne2 Qd1+ 32.Kf2 Bd5 33.Qf4 Qc2 34.Kg3 Qxe2 35.Qxf5+ Kg8
 
 [Event "Dos Hermanas Qualifier (17-A)"]
 [Site "Internet"]
-[Date "2003.03.17"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Aronian Levon (GER)"]
@@ -571,7 +547,6 @@ Re6 86.Qg5+ Rg6 87.Qe7 Re6 88.Qd7 Rg6 89.Qe8+ Kg7 90.Kb5 Re6
 
 [Event "FRA Cup 8eme"]
 [Site "Gonfreville"]
-[Date "2003.05.04"]
 [Round "1"]
 [White "Grischuk, Alexander"]
 [Black "Gurevich, Mikhail"]

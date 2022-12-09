@@ -1,6 +1,5 @@
 [Event "26th Fajr Open 2018"]
 [Site "Amol IRI"]
-[Date "2018.02.04"]
 [Round "3.4"]
 [White "Firouzja, Alireza"]
 [Black "Gholami, A."]
@@ -9,7 +8,6 @@
 [WhiteElo "2549"]
 [BlackElo "2489"]
 [PlyCount "47"]
-[EventDate "2018.02.03"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -22,7 +20,6 @@ Qxf8+ Kc7 22. Bf4+ Kc6 23. Qxg7 b5 24. Qe5 1-0
 
 [Event "26th Fajr Open 2018"]
 [Site "Amol IRI"]
-[Date "2018.02.03"]
 [Round "1.6"]
 [White "Firouzja, Alireza"]
 [Black "Khamisi, S."]
@@ -31,7 +28,6 @@ Qxf8+ Kc7 22. Bf4+ Kc6 23. Qxg7 b5 24. Qe5 1-0
 [WhiteElo "2549"]
 [BlackElo "2236"]
 [PlyCount "53"]
-[EventDate "2018.02.03"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -44,7 +40,6 @@ dxe4 16. Nxe4 b6 17. Kh1 Ne7 18. Bh4 f6 19. Nxd7 Qxd7 20. Qb3 Kh8 21. Qa3 Rc4
 
 [Event "26th Fajr Open 2018"]
 [Site "Amol IRI"]
-[Date "2018.02.08"]
 [Round "7.6"]
 [White "Firouzja, Alireza"]
 [Black "Gusain, H."]
@@ -53,7 +48,6 @@ dxe4 16. Nxe4 b6 17. Kh1 Ne7 18. Bh4 f6 19. Nxd7 Qxd7 20. Qb3 Kh8 21. Qa3 Rc4
 [WhiteElo "2549"]
 [BlackElo "2447"]
 [PlyCount "105"]
-[EventDate "2018.02.03"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -71,7 +65,6 @@ Qe7+ 1-0
 
 [Event "26th Fajr Open 2018"]
 [Site "Amol IRI"]
-[Date "2018.02.10"]
 [Round "9.4"]
 [White "Firouzja, Alireza"]
 [Black "Khademalsharieh, S."]
@@ -80,7 +73,6 @@ Qe7+ 1-0
 [WhiteElo "2549"]
 [BlackElo "2413"]
 [PlyCount "41"]
-[EventDate "2018.02.03"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -93,7 +85,6 @@ Bd5 Kg7 16. cxd4 Qd7 17. Ra3 Nh7 18. Qh5 f6 19. Bh6+ Kh8 20. Rg3 Rg8 21. Ree3
 
 [Event "26th Fajr Open 2018"]
 [Site "Amol IRI"]
-[Date "2018.02.06"]
 [Round "5.5"]
 [White "Firouzja, Alireza"]
 [Black "Toufighi, H."]
@@ -102,7 +93,6 @@ Bd5 Kg7 16. cxd4 Qd7 17. Ra3 Nh7 18. Qh5 f6 19. Bh6+ Kh8 20. Rg3 Rg8 21. Ree3
 [WhiteElo "2549"]
 [BlackElo "2436"]
 [PlyCount "117"]
-[EventDate "2018.02.03"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -120,7 +110,6 @@ Nd7+ 55. Kxf4 Rf1+ 56. Ke4 Nf6+ 57. Kd4 Rd1+ 58. Kc4 Rd2 59. Kb3 1-0
 
 [Event "Aeroflot Open A 2018"]
 [Site "Moscow RUS"]
-[Date "2018.02.24"]
 [Round "5.37"]
 [White "Firouzja, Alireza"]
 [Black "Debashis, D."]
@@ -129,7 +118,6 @@ Nd7+ 55. Kxf4 Rf1+ 56. Ke4 Nf6+ 57. Kd4 Rd1+ 58. Kc4 Rd2 59. Kb3 1-0
 [WhiteElo "2549"]
 [BlackElo "2501"]
 [PlyCount "63"]
-[EventDate "2018.02.20"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -143,7 +131,6 @@ Qxg7 28. Rg1 Bxc3 29. Rxg7+ Kxg7 30. bxc3 Nf8 31. Qg4+ Kf7 32. Bh6 1-0
 
 [Event "ch-IRI 2018"]
 [Site "Bushehr IRI"]
-[Date "2018.03.11"]
 [Round "3.3"]
 [White "Firouzja, Alireza"]
 [Black "Tahbaz, Arash"]
@@ -152,7 +139,6 @@ Qxg7 28. Rg1 Bxc3 29. Rxg7+ Kxg7 30. bxc3 Nf8 31. Qg4+ Kf7 32. Bh6 1-0
 [WhiteElo "2558"]
 [BlackElo "2455"]
 [PlyCount "70"]
-[EventDate "2018.03.09"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -168,7 +154,6 @@ f5 34. Qg7+ Kg5 35. Rf7 Qe5 1-0
 
 [Event "ch-IRI 2018"]
 [Site "Bushehr IRI"]
-[Date "2018.03.15"]
 [Round "8.6"]
 [White "Firouzja, Alireza"]
 [Black "Darini, P."]
@@ -177,7 +162,6 @@ f5 34. Qg7+ Kg5 35. Rf7 Qe5 1-0
 [WhiteElo "2558"]
 [BlackElo "2497"]
 [PlyCount "101"]
-[EventDate "2018.03.09"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -195,7 +179,6 @@ Kg5 47. Ke3 Nc5 48. Be1 g3 49. Bb4 Nd3 50. Be7+ Kf5 51. a6 1-0
 
 [Event "ch-IRI 2018"]
 [Site "Bushehr IRI"]
-[Date "2018.03.17"]
 [Round "10.5"]
 [White "Firouzja, Alireza"]
 [Black "Gholami Orimi, Mahdi"]
@@ -204,7 +187,6 @@ Kg5 47. Ke3 Nc5 48. Be1 g3 49. Bb4 Nd3 50. Be7+ Kf5 51. a6 1-0
 [WhiteElo "2558"]
 [BlackElo "2299"]
 [PlyCount "45"]
-[EventDate "2018.03.09"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -218,7 +200,6 @@ Bf4+ Ka8 22. dxc6 Nxc6 23. Rd1 1-0
 
 [Event "ch-IRI 2018"]
 [Site "Bushehr IRI"]
-[Date "2018.03.13"]
 [Round "5.2"]
 [White "Firouzja, Alireza"]
 [Black "Lorparizangeneh, S."]
@@ -227,7 +208,6 @@ Bf4+ Ka8 22. dxc6 Nxc6 23. Rd1 1-0
 [WhiteElo "2558"]
 [BlackElo "2506"]
 [PlyCount "55"]
-[EventDate "2018.03.09"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -242,7 +222,6 @@ Nd5 28. Qa3+ 1-0
 
 [Event "2nd Sharjah Masters 2018"]
 [Site "Sharjah UAE"]
-[Date "2018.04.16"]
 [Round "6.15"]
 [White "Firouzja, Alireza"]
 [Black "Hejazipour, M."]
@@ -251,7 +230,6 @@ Nd5 28. Qa3+ 1-0
 [WhiteElo "2572"]
 [BlackElo "2304"]
 [PlyCount "127"]
-[EventDate "2018.04.12"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -270,7 +248,6 @@ fxe6 47. Rh3 Qg5 48. Rhh4 e5 49. Rfg4 Qf5 50. Kg2 Qf6 51. Rh3 Qc6+ 52. Rf3 Qd5
 
 [Event "2nd Sharjah Masters 2018"]
 [Site "Sharjah UAE"]
-[Date "2018.04.14"]
 [Round "4.14"]
 [White "Firouzja, Alireza"]
 [Black "Raahul, V S."]
@@ -279,7 +256,6 @@ fxe6 47. Rh3 Qg5 48. Rhh4 e5 49. Rfg4 Qf5 50. Kg2 Qf6 51. Rh3 Qc6+ 52. Rf3 Qd5
 [WhiteElo "2572"]
 [BlackElo "2258"]
 [PlyCount "53"]
-[EventDate "2018.04.12"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -293,7 +269,6 @@ O-O-O Qe5 22. f4 Qxf5 23. Rhg1 Nd3+ 24. Kb1 Nb4 25. Nd4 Qf6 26. Rg5 c5 27. Ne6
 
 [Event "2nd Sharjah Masters 2018"]
 [Site "Sharjah UAE"]
-[Date "2018.04.13"]
 [Round "2.20"]
 [White "Firouzja, Alireza"]
 [Black "Ashwath, R."]
@@ -302,7 +277,6 @@ O-O-O Qe5 22. f4 Qxf5 23. Rhg1 Nd3+ 24. Kb1 Nb4 25. Nd4 Qf6 26. Rg5 c5 27. Ne6
 [WhiteElo "2572"]
 [BlackElo "2250"]
 [PlyCount "95"]
-[EventDate "2018.04.12"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -319,7 +293,6 @@ Kxf7 41. Ke4 Ke6 42. Rf1 Ke7 43. Kd5 Rg6 44. Rf3 h5 45. Kxc5 Ke6 46. Rf6+ Rxf6
 
 [Event "2nd Sharjah Masters 2018"]
 [Site "Sharjah UAE"]
-[Date "2018.04.18"]
 [Round "8.14"]
 [White "Firouzja, Alireza"]
 [Black "Bhambure, S."]
@@ -328,7 +301,6 @@ Kxf7 41. Ke4 Ke6 42. Rf1 Ke7 43. Kd5 Rg6 44. Rf3 h5 45. Kxc5 Ke6 46. Rf6+ Rxf6
 [WhiteElo "2572"]
 [BlackElo "2155"]
 [PlyCount "67"]
-[EventDate "2018.04.12"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -343,7 +315,6 @@ bxa5 22. Nxa5 Rxb4 23. Nc6 Rb3 24. Bd1 Ra3 25. Qe7 Rc8 26. Bg4 f5 27. Qe6+ Kh8
 
 [Event "Asian Nations Cup 2018"]
 [Site "Hamedan IRI"]
-[Date "2018.07.28"]
 [Round "1.4"]
 [White "Firouzja, Alireza"]
 [Black "Ahmed, SN."]
@@ -352,7 +323,6 @@ bxa5 22. Nxa5 Rxb4 23. Nc6 Rb3 24. Bd1 Ra3 25. Qe7 Rc8 26. Bg4 f5 27. Qe6+ Kh8
 [WhiteElo "2561"]
 [BlackElo "2257"]
 [PlyCount "61"]
-[EventDate "2018.07.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -369,7 +339,6 @@ Rxf3+ Qxf3 29. Bxe6+ Nxe6 30. Rd7+ Kg8 31. Qxg6+ 1-0
 
 [Event "Asian Nations Cup 2018"]
 [Site "Hamedan IRI"]
-[Date "2018.07.29"]
 [Round "3.4"]
 [White "Firouzja, Alireza"]
 [Black "Bai, Jinshi"]
@@ -378,7 +347,6 @@ Rxf3+ Qxf3 29. Bxe6+ Nxe6 30. Rd7+ Kg8 31. Qxg6+ 1-0
 [WhiteElo "2561"]
 [BlackElo "2588"]
 [PlyCount "85"]
-[EventDate "2018.07.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -397,7 +365,6 @@ Kc6 40. Ke5 Rb4 41. Rc1 Kd7 42. Kf6 Ne7 43. Rd1+ 1-0
 
 [Event "25th Abu Dhabi Masters"]
 [Site "Abu Dhabi UAE"]
-[Date "2018.08.11"]
 [Round "4.23"]
 [White "Firouzja, Alireza"]
 [Black "Sadhwani, Raunak"]
@@ -406,7 +373,6 @@ Kc6 40. Ke5 Rb4 41. Rc1 Kd7 42. Kf6 Ne7 43. Rd1+ 1-0
 [WhiteElo "2561"]
 [BlackElo "2424"]
 [PlyCount "101"]
-[EventDate "2018.08.07"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -423,7 +389,6 @@ Rc1+ 41. Kb2 Rf1 42. b5 Rxf2+ 43. Kb3 e3 44. c7 Bxc7 45. Rxc7 e2 46. Re7 Rxg2
 
 [Event "25th Abu Dhabi Masters"]
 [Site "Abu Dhabi UAE"]
-[Date "2018.08.08"]
 [Round "2.25"]
 [White "Firouzja, Alireza"]
 [Black "Kathmale, S."]
@@ -432,7 +397,6 @@ Rc1+ 41. Kb2 Rf1 42. b5 Rxf2+ 43. Kb3 e3 44. c7 Bxc7 45. Rxc7 e2 46. Re7 Rxg2
 [WhiteElo "2561"]
 [BlackElo "2367"]
 [PlyCount "61"]
-[EventDate "2018.08.07"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -446,7 +410,6 @@ Rhd8 22. Rxd8 Bxd8 23. Rd1 Be7 24. a5 e5 25. Nd3 Nd7 26. Nc5 Nxc5 27. Bxc4+ Ke8
 
 [Event "Asian Nations Cup 2018"]
 [Site "Hamedan IRI"]
-[Date "2018.08.03"]
 [Round "7.4"]
 [White "Firouzja, Alireza"]
 [Black "Noah, A."]
@@ -455,7 +418,6 @@ Rhd8 22. Rxd8 Bxd8 23. Rd1 Be7 24. a5 e5 25. Nd3 Nd7 26. Nc5 Nxc5 27. Bxc4+ Ke8
 [WhiteElo "2561"]
 [BlackElo "2288"]
 [PlyCount "95"]
-[EventDate "2018.07.28"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "IRI"]
@@ -475,7 +437,6 @@ Kf1 Bc4+ 47. Ke1 Kf8 48. gxf7 1-0
 
 [Event "Asian Nations Cup 2018"]
 [Site "Hamedan IRI"]
-[Date "2018.08.01"]
 [Round "5.4"]
 [White "Firouzja, Alireza"]
 [Black "Nguyen Duc Hoa"]
@@ -484,7 +445,6 @@ Kf1 Bc4+ 47. Ke1 Kf8 48. gxf7 1-0
 [WhiteElo "2561"]
 [BlackElo "2441"]
 [PlyCount "47"]
-[EventDate "2018.07.28"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "IRI"]
@@ -500,7 +460,6 @@ Qxf6 Rhg8 21. Qe5 Rxg2 22. Qa5 Rdg8 23. b3 R8g5 24. Qa7 1-0
 
 [Event "chess.com Junior Speed"]
 [Site "chess.com INT"]
-[Date "2019.07.28"]
 [Round "3.24"]
 [White "Firouzja,Alireza"]
 [Black "Wei Yi"]
@@ -514,7 +473,6 @@ Qxf6 Rhg8 21. Qe5 Rxg2 22. Qa5 Rdg8 23. b3 R8g5 24. Qa7 1-0
 [Variation "open, 5.Nf3"]
 [WhiteFideId "12573981"]
 [BlackFideId "8603405"]
-[EventDate "2019.05.16"]
 
 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 dxc4 5. Bg2 c5 6. Qa4+ Nc6 7. dxc5 Qa5+ 8.
 Qxa5 Nxa5 9. Bd2 Nc6 10. Na3 Bxc5 11. Nxc4 Ne4 12. O-O Nxd2 13. Nfxd2 Ke7 14.
@@ -529,7 +487,6 @@ Kc7 46. Rd5 Rb3 47. Rf5 Kd6 48. Rxf4 Rxb5 49. Rf8 Ke7 50. Rg8 Kf7 51. Rg4 Kf6
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.16"]
 [Round "3.1"]
 [White "Firouzja,Alireza"]
 [Black "Ding Liren"]
@@ -543,7 +500,6 @@ Kc7 46. Rd5 Rb3 47. Rf5 Kd6 48. Rxf4 Rxb5 49. Rf8 Ke7 50. Rg8 Kf7 51. Rg4 Kf6
 [Variation "Kmoch variation"]
 [WhiteFideId "12573981"]
 [BlackFideId "8603677"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 b5 7. Nh3 bxc4 8. Bxc4
 Nxd5 9. Bxd5 exd5 10. Qxd5 Nc6 11. O-O Ba6 12. Rf2 Re8 13. Bg5 Qb6 14. Be3 Ne5
@@ -553,7 +509,6 @@ Qa5 22. Qd5 Qa3 23. Qb3 Qa5 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.14"]
 [White "Firouzja,Alireza"]
 [Black "Aronian,L"]
@@ -567,7 +522,6 @@ Qa5 22. Qd5 Qa3 23. Qb3 Qa5 1/2-1/2
 [Variation "closed defence"]
 [WhiteFideId "12573981"]
 [BlackFideId "13300474"]
-[EventDate "2019.09.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
 9. Nc3 Na5 10. Ba2 Be6 11. b4 Bxa2 12. Nxa2 Nb7 13. c4 Qd7 14. Nc3 c5 15. Bg5
@@ -580,7 +534,6 @@ Nf4 41. Kg3 1/2-1/2
 
 [Event "23rd Hoogeveen Matches"]
 [Site "Hoogeveen NED"]
-[Date "2019.10.25"]
 [Round "5"]
 [White "Firouzja,Alireza"]
 [Black "Cori,J"]
@@ -589,7 +542,6 @@ Nf4 41. Kg3 1/2-1/2
 [BlackFideId "3802272"]
 [BlackTitle "GM"]
 [ECO "B33"]
-[EventDate "2019.10.20"]
 [Opening "Sicilian"]
 [Variation "Pelikan, Chelyabinsk variation"]
 [WhiteElo "2702"]
@@ -609,7 +561,6 @@ Nf4 41. Kg3 1/2-1/2
 
 [Event "World Rapid 2019"]
 [Site "Moscow RUS"]
-[Date "2019.12.26"]
 [Round "1.69"]
 [White "Firouzja,Alireza"]
 [Black "Studer,N"]
@@ -618,7 +569,6 @@ Nf4 41. Kg3 1/2-1/2
 [BlackFideId "1319620"]
 [BlackTitle "GM"]
 [ECO "A06"]
-[EventDate "2019.12.26"]
 [EventType "rapid"]
 [Opening "Reti opening"]
 [WhiteElo "2723"]

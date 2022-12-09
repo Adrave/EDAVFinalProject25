@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Paris (France)"]
-[Date "1913.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lasker Edward (GER)"]
@@ -23,7 +22,6 @@ Rg8 38.f4 exf4 39.Bxc5 1-0
 
 [Event "It"]
 [Site "Sheveningen (Netherlands)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Breyer Gyula (HUN)"]
@@ -45,7 +43,6 @@ Rb6 25.Rf1 Nd5 26.Nf5 Qf6 27.Nxh6+ Kf8 28.Rxg5 Ne7 29.Ng4 Qxb2
 
 [Event "It"]
 [Site "Sheveningen (Netherlands)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Englund Fritz"]
@@ -71,7 +68,6 @@ Ke7 53.Kd5 1-0
 
 [Event "It"]
 [Site "Mannheim (Germany)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kruger Paul"]
@@ -95,7 +91,6 @@ Qc1+ 42.Kh2 Qxd2 43.Qg5+ Kh8 44.Qf6+ 1/2-1/2
 
 [Event "Game"]
 [Site "Moscow (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lasker Emanuel (GER)"]
@@ -114,7 +109,6 @@ h6 13.Bxh6 gxh6 14.Rxe6 fxe6 15.Qg3+ Kh8 16.Qg6 1/2-1/2
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bernstein Osip (FRA)"]
@@ -137,7 +131,6 @@ c6 30.Qc3+ Kg8 31.Qg3+ Ng7 32.Ne7+ Kh8 33.Qxd6 Re8 34.Kf2 Qc4
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -161,7 +154,6 @@ Rxd3 42.Rxg6 Ke6 43.g4 hxg3+ 44.hxg3 Kf5 45.Rg8 1/2-1/2
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -182,7 +174,6 @@ Kf7 20.Rxe8 Rxe8 21.Re1 Rxe1+ 22.Kxe1 Ke7 23.Ke2 Bd6 24.Ke3 Bc5+
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -205,7 +196,6 @@ Qb3+ 0-1
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Janowski Dawid M (POL)"]
@@ -226,7 +216,6 @@ Nfd7 25.g3 f6 26.Nxd7+ Nxd7 27.Rxe8+ Kxe8 28.Ke2 Ke7 29.Ke3 Ke6 1/2-1/2
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lasker Emanuel (GER)"]
@@ -258,7 +247,6 @@ Rh3 80.Rd1 Rh2+ 81.Kc3 Rd8 82.Rg1 Rh3 83.Rd1 Rdh8 84.Rg1 R8h5
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Marshall Frank J (USA)"]
@@ -282,7 +270,6 @@ Qb3 42.Bb4 Qc4 43.Bc5 Qb3 44.Bb4 Qc4 45.Bc5 Qb3 1/2-1/2
 
 [Event "Match"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nimzowitsch Aaron"]
@@ -311,7 +298,6 @@ Qa3 67.c4 Rxf6 68.cxd5 Rcf7 69.Re2 Qd6 70.Qc2 Qxd5 71.Kf1 e3
 
 [Event "Tournament (all-russian masters)"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -332,7 +318,6 @@ Bxc6 19.h4 Rd2 20.Rf1 Re8 21.Qg5 Rxf2 22.Bxf7+ Kh8 23.Rd1 Qxf7
 
 [Event "Tournament (all-russian masters)"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Duras Oldrich (CZE)"]
@@ -353,7 +338,6 @@ g6 25.Qe6 Kg7 26.Qxf7+ Kh6 27.Be6 1-0
 
 [Event "Tournament (all-russian masters)"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -375,7 +359,6 @@ Be2 31.Ne7+ Kh8 32.Nxc8 Bxf1 33.Rxf1 Rxc8 34.Bxc6 1-0
 
 [Event "Tournament (all-russian masters)"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Levitsky Stepan M (RUS)"]
@@ -394,7 +377,6 @@ Re8 14.Qc2 g6 15.g4 Kg7 16.gxf5 Nh5 17.Bh6+ 1-0
 
 [Event "Tournament (all-russian masters)"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lowtzky M"]
@@ -420,14 +402,12 @@ Rxh3 53.Kd2 Rf3 0-1
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg  RUE"]
-[Date "1914.04.26"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Frank James Marshall"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "1914.04.21"]
 [PlyCount "110"]
 [WhiteElo "?"]
 
@@ -445,14 +425,12 @@ Rxh3 53.Kd2 Rf3 0-1
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg  RUE"]
-[Date "1914.05.06"]
 [Round "11"]
 [White "Alexander Alekhine"]
 [Black "David Janowski"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "1914.04.21"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -466,14 +444,12 @@ Rxh3 53.Kd2 Rf3 0-1
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg  RUE"]
-[Date "1914.05.19"]
 [Round "8"]
 [White "Alexander Alekhine"]
 [Black "Frank James Marshall"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "1914.04.21"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -490,14 +466,12 @@ Rxh3 53.Kd2 Rf3 0-1
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg  RUE"]
-[Date "1914.05.17"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Emanuel Lasker"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "1914.04.21"]
 [PlyCount "178"]
 [WhiteElo "?"]
 
@@ -521,14 +495,12 @@ Rxh3 53.Kd2 Rf3 0-1
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg  RUE"]
-[Date "1914.05.11"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Siegbert Tarrasch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C32"]
-[EventDate "1914.04.21"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -544,14 +516,12 @@ Rxh3 53.Kd2 Rf3 0-1
 
 [Event "Mannheim"]
 [Site "Mannheim GER"]
-[Date "1914.07.30"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "Siegbert Tarrasch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "1914.07.20"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -566,14 +536,12 @@ Rxh3 53.Kd2 Rf3 0-1
 
 [Event "Mannheim"]
 [Site "Mannheim GER"]
-[Date "1914.08.01"]
 [Round "11"]
 [White "Alexander Alekhine"]
 [Black "Hans Fahrni"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "1914.07.20"]
 [PlyCount "45"]
 [WhiteElo "?"]
 

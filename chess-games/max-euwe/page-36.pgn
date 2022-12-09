@@ -1,13 +1,11 @@
 [Event "NED-ch"]
 [Site "Amsterdam NED"]
-[Date "1938.07.05"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "E A J M Mulder"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D48"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "Clock simul, 6b"]
 [Site "Medan INA"]
-[Date "1930.08.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Si Toemboek"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A45"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -46,14 +42,12 @@
 
 [Event "ASC - Bussum"]
 [Site "Amsterdam NED"]
-[Date "1931.02.14"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Hendrik Willem Felderhof"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -69,14 +63,12 @@
 
 [Event "Simul"]
 [Site "Amsterdam NED"]
-[Date "1931.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Paulus Franciscus Nicolaas Heije"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -91,14 +83,12 @@
 
 [Event "Simul, 30b"]
 [Site "Amsterdam NED"]
-[Date "1931.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "E A J M Mulder"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A12"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -113,14 +103,12 @@
 
 [Event "training"]
 [Site "Amsterdam NED"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Erich Eliskases"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -134,14 +122,12 @@
 
 [Event "Weston"]
 [Site "Weston-super-Mare ENG"]
-[Date "1926.04.??"]
 [Round "3"]
 [White "Max Euwe"]
 [Black "Edmund Spencer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C56"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -155,14 +141,12 @@
 
 [Event "NSB-RhW Schachverband"]
 [Site "Amsterdam NED"]
-[Date "1927.09.??"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Ripke"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C14"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -179,14 +163,12 @@
 
 [Event "NED-ch"]
 [Site "Amsterdam NED"]
-[Date "1929.07.20"]
 [Round "5"]
 [White "Max Euwe"]
 [Black "Henri Weenink"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "153"]
 [WhiteElo "?"]
 
@@ -208,14 +190,12 @@
 
 [Event "Radio Game"]
 [Site "?"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Mikhail Tal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B99"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -229,14 +209,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Sadi Glasser Dumont"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A62"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -250,14 +228,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Bernardo Katz"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B22"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -270,14 +246,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Francisco Schwab"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -289,14 +263,12 @@
 
 [Event "Anglo-Dutch Match"]
 [Site "?"]
-[Date "1973.10.27"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Raymond Keene"]
 [Result "1/2-1/2"]
 [BlackElo "2455"]
 [ECO "B06"]
-[EventDate "2008.11.26"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -308,14 +280,12 @@
 
 [Event "Reti Memorial"]
 [Site "Bladel NED"]
-[Date "1969.07.03"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Karel Opocensky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A56"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -329,14 +299,12 @@
 
 [Event "EU-Cup"]
 [Site "Aarhus DEN"]
-[Date "1980.10.18"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "John Rodgaard"]
 [Result "1/2-1/2"]
 [BlackElo "2335"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -354,14 +322,12 @@
 
 [Event "Voellmy Memorial"]
 [Site "Basel SUI"]
-[Date "1952.01.27"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Rudolf Teschner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -375,14 +341,12 @@
 
 [Event "ASC-DD"]
 [Site "Amsterdam NED"]
-[Date "1957.12.08"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Jan Hein Donner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E48"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -397,14 +361,12 @@
 
 [Event "Simul, 30b"]
 [Site "Amsterdam NED"]
-[Date "1931.12.20"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Selman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 

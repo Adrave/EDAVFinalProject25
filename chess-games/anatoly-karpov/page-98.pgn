@@ -1,13 +1,11 @@
 [Event "Simultaneous exhibition"]
 [Site "London, England"]
-[Date "2011.04.20"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ryad Belabdelouahab"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A53"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.10.10"]
 [Round "11"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -46,14 +42,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.10.24"]
 [Round "17"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -67,14 +61,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.12.26"]
 [Round "35"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B64"]
-[EventDate "????.??.??"]
 [PlyCount "34"]
 [WhiteElo "?"]
 
@@ -87,14 +79,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.11.19"]
 [Round "25"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -108,14 +98,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.09.24"]
 [Round "5"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B83"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -129,14 +117,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.10.19"]
 [Round "15"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "186"]
 [WhiteElo "?"]
 
@@ -162,14 +148,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.11.02"]
 [Round "21"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -185,14 +169,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1985.01.23"]
 [Round "45"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B83"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.20"]
 [Round "6.2"]
 [White "Giri, A."]
 [Black "Nepomniachtchi, I."]
@@ -9,7 +8,6 @@
 [WhiteElo "2773"]
 [BlackElo "2767"]
 [PlyCount "65"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -26,7 +24,6 @@ Rxc3 28. Rxd6 Rxd6 29. exd6 Rc4 30. Bd3 Rc6 31. Rd1 Kf8 32. Bxa6 fxg3 33. hxg3
 
 [Event "Bundesliga 2016-17"]
 [Site "Dresden GER"]
-[Date "2017.02.18"]
 [Round "7.7"]
 [White "Giri, A."]
 [Black "Gajewski, G."]
@@ -35,7 +32,6 @@ Rxc3 28. Rxd6 Rxd6 29. exd6 Rc4 30. Bd3 Rc6 31. Rd1 Kf8 32. Bxa6 fxg3 33. hxg3
 [WhiteElo "2756"]
 [BlackElo "2621"]
 [PlyCount "45"]
-[EventDate "2016.10.15"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -51,7 +47,6 @@ exd5 Nxd4 16. dxe6 Nxb3 17. exd7+ Kd8 18. Bxa8 Nxa1 19. Nd2 Kc7 20. Rc1+ Kb8
 
 [Event "Reykjavik Open 2017"]
 [Site "Reykjavik ISL"]
-[Date "2017.04.20"]
 [Round "2.1"]
 [White "Giri, A."]
 [Black "Stefansson, Vignir Vatnar"]
@@ -60,7 +55,6 @@ exd5 Nxd4 16. dxe6 Nxb3 17. exd7+ Kd8 18. Bxa8 Nxa1 19. Nd2 Kc7 20. Rc1+ Kb8
 [WhiteElo "2771"]
 [BlackElo "2341"]
 [PlyCount "88"]
-[EventDate "2017.04.19"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ISL"]
@@ -77,7 +71,6 @@ Ke8 35. Be2 Kd8 36. Bf3 Ke8 37. Rb1 Bb5 38. g4 Ra7 39. Rc8+ Rd8 40. Rxd8+ Kxd8
 
 [Event "Reykjavik Open 2017"]
 [Site "Reykjavik ISL"]
-[Date "2017.04.21"]
 [Round "4.1"]
 [White "Giri, A."]
 [Black "Van Foreest, Jorden"]
@@ -86,7 +79,6 @@ Ke8 35. Be2 Kd8 36. Bf3 Ke8 37. Rb1 Bb5 38. g4 Ra7 39. Rc8+ Rd8 40. Rxd8+ Kxd8
 [WhiteElo "2771"]
 [BlackElo "2584"]
 [PlyCount "159"]
-[EventDate "2017.04.19"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ISL"]
@@ -109,7 +101,6 @@ Rh7+ 72. Kg5 Ra7 73. Rd8+ Kg7 74. Bf5 Rf7 75. Be6 Re7 76. Kf5 Ra7 77. Rg8+ Kh7
 
 [Event "Reykjavik Open 2017"]
 [Site "Reykjavik ISL"]
-[Date "2017.04.27"]
 [Round "10.1"]
 [White "Giri, A."]
 [Black "L'Ami, E."]
@@ -118,7 +109,6 @@ Rh7+ 72. Kg5 Ra7 73. Rd8+ Kg7 74. Bf5 Rf7 75. Be6 Re7 76. Kf5 Ra7 77. Rg8+ Kh7
 [WhiteElo "2771"]
 [BlackElo "2614"]
 [PlyCount "59"]
-[EventDate "2017.04.19"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ISL"]
@@ -132,7 +122,6 @@ Nd3 Rb3 28. Kg2 g6 29. Nc5 Rb2 30. Qd3 1-0
 
 [Event "TCh-RUS Men 2017"]
 [Site "Sochi RUS"]
-[Date "2017.05.08"]
 [Round "6.2"]
 [White "Giri, A."]
 [Black "Romanov, E."]
@@ -141,7 +130,6 @@ Nd3 Rb3 28. Kg2 g6 29. Nc5 Rb2 30. Qd3 1-0
 [WhiteElo "2785"]
 [BlackElo "2636"]
 [PlyCount "61"]
-[EventDate "2017.05.01"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "RUS"]
@@ -157,7 +145,6 @@ Bxa6 28. Nc6 Rd6 29. Bxe4 Nxd4 30. Nxd4 Rxd4 31. Bd3 1-0
 
 [Event "Moscow Grand Prix 2017"]
 [Site "Moscow RUS"]
-[Date "2017.05.19"]
 [Round "7.5"]
 [White "Giri, A."]
 [Black "Salem, AR."]
@@ -166,7 +153,6 @@ Bxa6 28. Nc6 Rd6 29. Bxe4 Nxd4 30. Nxd4 Rxd4 31. Bd3 1-0
 [WhiteElo "2785"]
 [BlackElo "2633"]
 [PlyCount "131"]
-[EventDate "2017.05.12"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -185,7 +171,6 @@ Kd7 61. a6 Kc7 62. Rh8 Kd6 63. a7 Rxa7 64. Rh6+ Ke5 65. Kxc5 Ra8 66. Kb6 1-0
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.05.25"]
 [Round "1.6"]
 [White "Giri, A."]
 [Black "So, W."]
@@ -194,7 +179,6 @@ Kd7 61. a6 Kc7 62. Rh8 Kd6 63. a7 Rxa7 64. Rh6+ Ke5 65. Kxc5 Ra8 66. Kb6 1-0
 [WhiteElo "2785"]
 [BlackElo "2815"]
 [PlyCount "63"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -208,7 +192,6 @@ Qxb5 Qd4+ 22. Kh1 Bg4 23. Rae1 Qd2 24. h3 Be6 25. a3 Qe3 26. Kh2 b6 27. f5 Bf7
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.05.25"]
 [Round "1.8"]
 [White "Giri, A."]
 [Black "So, W."]
@@ -217,7 +200,6 @@ Qxb5 Qd4+ 22. Kh1 Bg4 23. Rae1 Qd2 24. h3 Be6 25. a3 Qe3 26. Kh2 b6 27. f5 Bf7
 [WhiteElo "2785"]
 [BlackElo "2815"]
 [PlyCount "109"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -235,7 +217,6 @@ Kxf4 54. e6 Ra8 55. e7 1-0
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.05.25"]
 [Round "1.20"]
 [White "Giri, A."]
 [Black "So, W."]
@@ -244,7 +225,6 @@ Kxf4 54. e6 Ra8 55. e7 1-0
 [WhiteElo "2785"]
 [BlackElo "2815"]
 [PlyCount "69"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -259,7 +239,6 @@ Ng5 28. h4 Ne4 29. Nxe4 dxe4 30. e6 fxe6 31. fxg6 Qd8 32. Qf7+ Kh8 33. Qf4 Qd5
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.05.25"]
 [Round "1.28"]
 [White "Giri, A."]
 [Black "So, W."]
@@ -268,7 +247,6 @@ Ng5 28. h4 Ne4 29. Nxe4 dxe4 30. e6 fxe6 31. fxg6 Qd8 32. Qf7+ Kh8 33. Qf4 Qd5
 [WhiteElo "2785"]
 [BlackElo "2815"]
 [PlyCount "107"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -286,7 +264,6 @@ Rg3 b3 54. f7 1-0
 
 [Event "5th Norway Chess 2017"]
 [Site "Stavanger NOR"]
-[Date "2017.06.10"]
 [Round "4.4"]
 [White "Giri, A."]
 [Black "Anand, V."]
@@ -295,7 +272,6 @@ Rg3 b3 54. f7 1-0
 [WhiteElo "2771"]
 [BlackElo "2786"]
 [PlyCount "65"]
-[EventDate "2017.06.06"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -310,7 +286,6 @@ Nxd5 28. Rxd5 Qxa4 29. g5 Rc5 30. h4 Rxd5 31. cxd5 Nc5 32. g6 Qd7 33. Bb4 1-0
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.06.28"]
 [Round "3.4"]
 [White "Giri, A."]
 [Black "Aronian, L."]
@@ -319,7 +294,6 @@ Nxd5 28. Rxd5 Qxa4 29. g5 Rc5 30. h4 Rxd5 31. cxd5 Nc5 32. g6 Qd7 33. Bb4 1-0
 [WhiteElo "2771"]
 [BlackElo "2793"]
 [PlyCount "59"]
-[EventDate "2017.06.28"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -334,7 +308,6 @@ Nc5 27. Bc4 d5 28. Bb5+ c6 29. Qxb4 Qg5+ 30. Qd2 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.02"]
 [Round "15.5"]
 [White "Giri, A."]
 [Black "Jobava, Ba"]
@@ -343,7 +316,6 @@ Nc5 27. Bc4 d5 28. Bb5+ c6 29. Qxb4 Qg5+ 30. Qd2 1-0
 [WhiteElo "2771"]
 [BlackElo "2707"]
 [PlyCount "59"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -358,7 +330,6 @@ Ng5 Qa8 29. Bxc3 h6 30. f3 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.01"]
 [Round "7.3"]
 [White "Giri, A."]
 [Black "Carlsen, M."]
@@ -367,7 +338,6 @@ Ng5 Qa8 29. Bxc3 h6 30. f3 1-0
 [WhiteElo "2771"]
 [BlackElo "2832"]
 [PlyCount "71"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -383,7 +353,6 @@ Nf7 16. hxg5 hxg5 17. Na4 Qe7 18. Nb2 b6 19. Nd3 Bb7 20. Rb1 a5 21. Nde5 Ndxe5
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.03"]
 [Round "1.1"]
 [White "Giri, A."]
 [Black "Dzagnidze, N."]
@@ -392,7 +361,6 @@ Nf7 16. hxg5 hxg5 17. Na4 Qe7 18. Nb2 b6 19. Nd3 Bb7 20. Rb1 a5 21. Nde5 Ndxe5
 [WhiteElo "2777"]
 [BlackElo "2519"]
 [PlyCount "133"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -412,7 +380,6 @@ Kg5 Ra8 60. h5 Rd8 61. h6+ Kf8 62. a7 Ra8 63. Kf6 Kg8 64. h7+ Kh8 65. Ke7 Rxa7
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.11"]
 [Round "3.5"]
 [White "Giri, A."]
 [Black "Sethuraman, S."]
@@ -421,7 +388,6 @@ Kg5 Ra8 60. h5 Rd8 61. h6+ Kf8 62. a7 Ra8 63. Kf6 Kg8 64. h7+ Kh8 65. Ke7 Rxa7
 [WhiteElo "2777"]
 [BlackElo "2617"]
 [PlyCount "65"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -436,7 +402,6 @@ f5 28. exf6 Nxf6 29. Qxe6 c3 30. bxc3 Rxc3 31. R1d4 h5 32. Be4 Nxe4 33. Rh8+
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.11"]
 [Round "3.3"]
 [White "Giri, A."]
 [Black "Sethuraman, S."]
@@ -445,7 +410,6 @@ f5 28. exf6 Nxf6 29. Qxe6 c3 30. bxc3 Rxc3 31. R1d4 h5 32. Be4 Nxe4 33. Rh8+
 [WhiteElo "2777"]
 [BlackElo "2617"]
 [PlyCount "131"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -465,7 +429,6 @@ Kf8 60. g7+ Kg8 61. Kg6 b5 62. b4 a6 63. a3 a5 64. bxa5 b4 65. a6 bxa3 66. a7
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.08"]
 [Round "2.6"]
 [White "Giri, A."]
 [Black "Motylev, A."]
@@ -474,7 +437,6 @@ Kf8 60. g7+ Kg8 61. Kg6 b5 62. b4 a6 63. a3 a5 64. bxa5 b4 65. a6 bxa3 66. a7
 [WhiteElo "2777"]
 [BlackElo "2668"]
 [PlyCount "63"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -488,7 +450,6 @@ Qe1 c4 16. Bc2 Nb3 17. Qf2 Qe7 18. Re1 Nxc1 19. Rbxc1 Qxa3 20. h3 Kf8 21. e4 h4
 
 [Event "33rd ECC Open 2017"]
 [Site "Antalya TUR"]
-[Date "2017.10.14"]
 [Round "7.2"]
 [White "Giri, A."]
 [Black "Zvjaginsev, V."]
@@ -497,7 +458,6 @@ Qe1 c4 16. Bc2 Nb3 17. Qf2 Qe7 18. Re1 Nxc1 19. Rbxc1 Qxa3 20. h3 Kf8 21. e4 h4
 [WhiteElo "2762"]
 [BlackElo "2643"]
 [PlyCount "107"]
-[EventDate "2017.10.08"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "TUR"]
@@ -517,7 +477,6 @@ Kg6 Kd3 53. Kg7 Rxf7+ 54. Kxf7 1-0
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.28"]
 [Round "13.2"]
 [White "Giri, Anish"]
 [Black "Yu, Yangyi"]
@@ -525,7 +484,6 @@ Kg6 Kd3 53. Kg7 Rxf7+ 54. Kxf7 1-0
 [WhiteElo "2783"]
 [BlackElo "2764"]
 [ECO "C42"]
-[EventDate "2018.12.26"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 
 8. Nbd2 Bf5 9. Re1 Nxd2 10. Qxd2 Bxd3 11. Qxd3 O-O 12. Re2 Qd7 13. Bf4 
@@ -535,7 +493,6 @@ Rfe8 14. Rae1 Bf8 15. c3 Rxe2 16. Rxe2 a6 17. h3 f6 18. Nd2 Ne7 19. Nf1
 
 [Event "2. Du Te Cup 2018"]
 [Site "Shenzhen CHN"]
-[Date "2018.11.12"]
 [Round "8.2"]
 [White "Giri, Anish"]
 [Black "Vitiugov, Nikita"]
@@ -543,7 +500,6 @@ Rfe8 14. Rae1 Bf8 15. c3 Rxe2 16. Rxe2 a6 17. h3 f6 18. Nd2 Ne7 19. Nf1
 [WhiteElo "2780"]
 [BlackElo "2709"]
 [ECO "A11"]
-[EventDate "2018.11.04"]
 
 1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Qc2 g6 5. b3 Bg7 6. Bb2 O-O 7. Be2 b6 8. 
 O-O Bb7 9. d4 Nbd7 10. Nc3 Re8 11. Ne5 c5 12. Nxd7 Qxd7 13. dxc5 dxc4 14. 
@@ -555,7 +511,6 @@ Qc6 32. Ng5 f6 33. Ne4 Kf7 34. Nc3 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "16.10"]
 [White "Giri, Anish"]
 [Black "Matlakov, Maxim"]
@@ -563,7 +518,6 @@ Qc6 32. Ng5 f6 33. Ne4 Kf7 34. Nc3 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2700"]
 [ECO "C55"]
-[EventDate "2018.12.29"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. c3 g5 7. Nbd2 Bg7 8. 
 Bb3 O-O 9. Nc4 d5 10. Ncxe5 dxe4 11. dxe4 Nxe5 12. Nxe5 Qxd1 13. Rxd1 Nxe4
@@ -575,7 +529,6 @@ Nc5 33. Nxc5 Bxc5 34. Bc2 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.20"]
 [Round "2.15"]
 [White "Giri, Anish"]
 [Black "Aronian, Levon"]
@@ -583,7 +536,6 @@ Nc5 33. Nxc5 Bxc5 34. Bc2 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2767"]
 [ECO "C67"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. d4 Ne8 10. d5 d6 11. Re1 Bg5 12. c4 Bxc1 13. Qxc1 Nf6 
@@ -598,7 +550,6 @@ Qd2+ 50. Kf1 1/2-1/2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.20"]
 [Round "2.1"]
 [White "Giri, Anish"]
 [Black "Aronian, Levon"]
@@ -606,7 +557,6 @@ Qd2+ 50. Kf1 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2767"]
 [ECO "A56"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Nbd7 6. Bd3 Be7 7. Nge2 g6 8. 
 O-O Nh5 9. Be3 O-O 10. Qd2 Ng7 11. Bh6 Nf6 12. h3 Kh8 13. Kh1 Ng8 14. Be3 

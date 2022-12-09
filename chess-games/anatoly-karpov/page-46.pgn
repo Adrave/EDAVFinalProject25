@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Krabbe Tim (NED)"]
@@ -24,7 +23,6 @@ Qg4 31.Qxg4 Rxg4 32.Rd8 Rgg8 33.Rd6 Rg6 34.Rd8 Rgg8 35.Rd6 Rc8
 
 [Event "It"]
 [Site "Biel (Switzerland)"]
-[Date "1992.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -57,7 +55,6 @@ Qf5+ 92.Ke7 Qg5+ 93.Qf6 Qe3+ 94.Kd7 Qd3+ 95.Kc7 Qc2+ 96.Kb8 Qh2+ 0-1
 
 [Event "It \"S.W.I.F.T.\" (active)"]
 [Site "Brussels (Belgium)"]
-[Date "1992.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -87,7 +84,6 @@ Kd4 78.Kd1 c3 79.Bc2 dxc2+ 80.Kxc2 Ke4 81.Kb1 Kd3 82.Ka2 Kc2 0-1
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "11"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -113,7 +109,6 @@ Qc1 49.Qxh4 Rc2+ 50.Nf2 g5 51.Qg3 Qe1 52.h4 Kg6 53.hxg5 Kxg5
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "21"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -141,7 +136,6 @@ h2+ 65.Kg2 Kf4 0-1
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "15"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -162,7 +156,6 @@ Qe6 25.Qd2 Bh6 26.g5 Qxh3 27.Qd6 1-0
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "12"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -189,7 +182,6 @@ b4 58.Nxh4 b3+ 59.Kd2 Ne4+ 60.Kc1 0-1
 
 [Event "It (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1992.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -218,7 +210,6 @@ Nc6 66.Kd3 Na5 67.Rb5 Nc4 68.a5 Kc6 69.Rc5+ Kb7 70.Rxc4 dxc4+
 
 [Event "It (active)"]
 [Site "Moscow (Russia)"]
-[Date "1992.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gulko Boris F (USA)"]
@@ -240,7 +231,6 @@ Rc6 25.a5 bxa5 26.Nxa5 Rxc1 27.Rxc1 e5 28.dxe5 fxe5 29.Bg5 Rb8
 
 [Event "It (active)"]
 [Site "Moscow (Russia)"]
-[Date "1992.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ivanov Alexander (USA)"]
@@ -262,7 +252,6 @@ Bxd3 25.Qxd3 Rb5 26.h4 Ba5 27.Bxa5 Rxa5 28.a4 h5 29.Reb1 Rxb1
 
 [Event "It (active)"]
 [Site "Moscow (Russia)"]
-[Date "1992.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Krasenkow Michal (POL)"]
@@ -284,7 +273,6 @@ g5 31.Kc5 Rd8 32.Nxe5 Kxe5 33.Re7+ Kf6 34.Re6+ 1-0
 
 [Event "Memorial A.Alekhine (a)"]
 [Site "Moscow (Russia)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -309,7 +297,6 @@ Rf8 47.Qxe6+ Kh7 48.Qh3+ Kg6 49.Rb6+ Rc6 50.Qd3+ Rf5 0-1
 
 [Event "Memorial A.Alekhine (a)"]
 [Site "Moscow (Russia)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -335,7 +322,6 @@ b5 38.R3f2 b4 39.axb4 axb4 40.Rxc2 Rxc2 41.Rf2 Rxf2 42.Qxf2 Ba3
 
 [Event "Memorial A.Alekhine (a)"]
 [Site "Moscow (Russia)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -361,7 +347,6 @@ Kf7 53.Rh6 Bd3 54.h4 Bb4 55.Bb2 Be1+ 56.Kg2 1-0
 
 [Event "It (active)"]
 [Site "Paris (France)"]
-[Date "1992.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -388,7 +373,6 @@ g3+ 60.Kg1 gxf2+ 61.Kxf2 1-0
 
 [Event "It (blitz)"]
 [Site "Paris (France)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -412,7 +396,6 @@ Na5 43.Qf7+ Qxf7 44.exf7 Ke7 45.Re4+ 1-0
 
 [Event "It (blitz)"]
 [Site "Paris (France)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -434,7 +417,6 @@ Kh7 31.g4 hxg4 32.hxg4 Rxc6 33.Rxa4 Qe5 34.Qxe5 dxe5 35.g5 Kg7 1-0
 
 [Event "It (blitz)"]
 [Site "Paris (France)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -460,7 +442,6 @@ Kh7 48.Nc7 Be1 49.Ne8 Rf7 50.Nxd6 Rf2 51.Nxb7 Rc2 52.a6 Rb2+
 
 [Event "It (cat.18)"]
 [Site "Reggio Emilia (Italy)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -483,7 +464,6 @@ Bc8 37.g3 Be6 38.Kd3 Bf5+ 39.Ne4 Bd7 40.Nf2 Bf5+ 41.Kc3 Bd7 1-0
 
 [Event "It (cat.18)"]
 [Site "Reggio Emilia (Italy)"]
-[Date "1992.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -507,7 +487,6 @@ Qc7 43.Qd6 Qa5 44.exf6 Qe1+ 45.Kh2 Rd5 46.Qe7 1-0
 
 [Event "Simultan"]
 [Site "Moscow (Russia)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Beliakov Alexander (RUS)"]
@@ -516,7 +495,6 @@ Qc7 43.Qd6 Qa5 44.exf6 Qe1+ 45.Kh2 Rd5 46.Qe7 1-0
 [WhiteElo "2715"]
 [BlackElo "2169"]
 [PlyCount "119"]
-[EventDate "1992.??.??"]
 
 1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 Be7 5. e4 O-O 6. Bd3 c5 7. h3 Ne8 8. Nf3 a6
 9. g4 Nd7 10. Be3 g6 11. Bh6 Ng7 12. Qd2 Nf6 13. a4 Kh8 14. a5 b6 15. axb6 Qxb6
@@ -532,7 +510,6 @@ Qa1+ 60. Kb5 1-0
 
 [Event "Simultan"]
 [Site "Saint Martin (France & Netherl"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bakus Michel (FRA)"]
@@ -541,7 +518,6 @@ Qa1+ 60. Kb5 1-0
 [WhiteElo "2715"]
 [BlackElo "2176"]
 [PlyCount "91"]
-[EventDate "1992.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. Bg5 Be7 7. Bxe7 Ngxe7 8.
 e3 cxd4 9. Nxd4 Qb6 10. Nxc6 bxc6 11. Qd2 a5 12. Na4 Qb4 13. b3 O-O 14. Be2 Ba6
@@ -555,7 +531,6 @@ Kf1 1-0
 
 [Event "Simultan"]
 [Site "Saint Martin (France & Netherl"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Trammell George (USA)"]
@@ -564,7 +539,6 @@ Kf1 1-0
 [WhiteElo "2715"]
 [BlackElo "2075"]
 [PlyCount "155"]
-[EventDate "1992.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
 Qd2 O-O 9. Nf3 Qa5 10. Rc1 e6 11. Bh6 Rd8 12. h4 cxd4 13. Bxg7 Kxg7 14. cxd4
@@ -583,7 +557,6 @@ Rg2 78. Qe4 1-0
 
 [Event "92/93"]
 [Site "Reggio Emilia ITA"]
-[Date "1992.12.??"]
 [Round "1"]
 [White "Karpov, A"]
 [Black "Beliavsky, Alexander G"]
@@ -591,7 +564,6 @@ Rg2 78. Qe4 1-0
 [WhiteElo "2730"]
 [BlackElo "2655"]
 [ECO "D58"]
-[EventDate "1992.??.??"]
 
 1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. 
 Be2 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. O-O Qe7 12. Qb3 Rd8 13. Rad1 c6 14.
@@ -604,7 +576,6 @@ Be6 38. Kd3 Bf5+ 39. Ne4 Be6 40. Nf2 Bf5+ 41. Kc3 Bd7 1-0
 
 [Event "Credit Suisse"]
 [Site "Biel SUI"]
-[Date "1992.07.??"]
 [Round "1"]
 [White "Karpov, A"]
 [Black "Lautier, Joel"]
@@ -612,7 +583,6 @@ Be6 38. Kd3 Bf5+ 39. Ne4 Be6 40. Nf2 Bf5+ 41. Kc3 Bd7 1-0
 [WhiteElo "2715"]
 [BlackElo "2580"]
 [ECO "D45"]
-[EventDate "1992.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8.
  O-O Re8 9. Rd1 Qe7 10. h3 b6 11. e4 Nxe4 12. Nxe4 dxe4 13. Qxe4 Bb7 14. 

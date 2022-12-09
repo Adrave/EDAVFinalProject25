@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Bled (Slovenia)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Braga Fernando (AND)"]
@@ -22,7 +21,6 @@ Bd6 25.Nh5 Rc7 26.Rxc7+ Qxc7 27.Qf4 Be7 28.Nxf6 Qc2 29.Nd7+ Ke8
 
 [Event "Olympiad"]
 [Site "Bled (Slovenia)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Estrada Nieto Julian (MEX)"]
@@ -45,7 +43,6 @@ Kg8 30.Ne7+ Kh7 31.Kh2 Bd7 32.Rxd6 Bb5 33.Qh4+ Kg7 34.Nf5+ Kg8
 
 [Event "Ch Greece (team)"]
 [Site "Chalkidiki (Greece)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Halkias Stelios (GRE)"]
@@ -72,7 +69,6 @@ c3 58.bxc3 Rxc3 59.Kg7 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -97,7 +93,6 @@ e5 35.Rxe5 Kxh4 36.Kf3 a4 37.Kf4 Kh3 38.Re6 Kg2 39.Rxg6 Kxf2
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -125,7 +120,6 @@ Nf6 60.Qh3 Qxe4 61.Bxe6 Kg7 62.Bf5 Qc4 63.Kg2 Qd5+ 64.Kg1 Qd1+
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Jasim A R Saleh (UAE)"]
@@ -147,7 +141,6 @@ Bf6 26.Nd6 Qg6 27.Bd3 Qxd3 28.Qxh5 Rb8 29.Qxh6+ Kg8 30.Nd5 Bg7
 
 [Event "Cup European Club (final)"]
 [Site "Halkidiki (Greece)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Korobov Anton (UKR)"]
@@ -173,7 +166,6 @@ Bd5 53.Rxh7+ Kg4 54.Re7 c3 55.Re3 1-0
 
 [Event "Cup European Club (final)"]
 [Site "Halkidiki (Greece)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Tzermiadianos Andreas (GRE)"]
@@ -193,7 +185,6 @@ Nce7 20.Nexf6+ Nxf6 21.Nxf8 Qxf8 22.Qg3 Qg7 23.Bg5 1-0
 
 [Event "Cup World FIDE (Gr.B)"]
 [Site "Hyderabad (India)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Kobese Watu (RSA)"]
@@ -213,7 +204,6 @@ Nce7 20.Nexf6+ Nxf6 21.Nxf8 Qxf8 22.Qg3 Qg7 23.Bg5 1-0
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Akopian Vladimir (ARM)"]
@@ -237,7 +227,6 @@ Qf7 37.Qxb4 Bxe4 38.fxe4 Nxe4 39.Rb2 Qf4 40.Qe1 Rf8 41.Qe3 Qg4
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Akopian Vladimir (ARM)"]
@@ -260,7 +249,6 @@ c3 36.Rb7 1-0
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -284,7 +272,6 @@ Bxh3 41.Be2 Bg2 42.Ka5 g5 43.Kxa6 h5 44.a4 Kg6 45.a5 f4 46.gxf4 1-0
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -309,7 +296,6 @@ h5 47.Nd3 Qe4 48.Ke1 h4 49.Kf2 g5 50.Ne1 Qf5+ 51.Kg1 Qc5 52.Qc2+ 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -327,7 +313,6 @@ O-O 8.Bg5 Nxd5 9.Bxe7 Nxe7 10.Rd1 Qb6 11.Qb3 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -349,7 +334,6 @@ Bd7 20.Bd2 O-O 21.Bxd7 Rxd7 22.Rac1 Qb7 23.Qb3 Rc8 24.h3 Rxc1
 
 [Event "Ch Europe (team)"]
 [Site "Plovdiv (Bulgaria)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -368,7 +352,6 @@ Re8 14.Nd5 Nc5 15.a3 Ne6 16.b4 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Plovdiv (Bulgaria)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Macieja Bartlomiej (POL)"]
@@ -388,7 +371,6 @@ Ra3 20.Rxa3 Bxa3 21.Ra1 Be7 22.Rc1 Rc8 23.Rxc8 Bxc8 24.Qc2 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Plovdiv (Bulgaria)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Svidler Peter (RUS)"]
@@ -411,7 +393,6 @@ Qf2+ 37.Kh1 Qh4+ 38.Kg1 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Kasimdzhanov Rustam (UZB)"]
@@ -433,7 +414,6 @@ Rxc6 25.f4 Rd8 26.a4 cxd4 27.cxd4 Rxd4 28.Bb4 Rxb4 29.Rxb4 g5
 
 [Event "It (cat.16)"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Movsesian Sergei (SVK)"]
@@ -454,7 +434,6 @@ Nf8 25.Nf4 N6d7 26.h4 Bf6 27.b4 Qa3 28.Qb2 Qa4 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -474,7 +453,6 @@ Rxc2 20.Rxc2 Rc8 21.f3 Nbd7 22.Nxd7 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -493,7 +471,6 @@ bxc5 14.e3 Qb6 15.Re1 Rad8 16.Qf3 Nc7 17.g4 Ne6 18.h4 h6 19.Qg3 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "13"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Polgar Judit (HUN)"]
@@ -513,7 +490,6 @@ Nxe4 14.Rxe4 Bb7 15.Re1 Bf6 16.Qd2 Qc7 17.dxc5 Bxc3 18.Qxc3 Nxc5
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Shirov Alexei (ESP)"]
@@ -540,7 +516,6 @@ Kg6 59.Rd5 1/2-1/2
 
 [Event "Match St. Petersbourg - Paris 2003"]
 [Site "Paris FRA"]
-[Date "2003.05.28"]
 [Round "?"]
 [White "Radjabov, Teimour"]
 [Black "Svidler, Peter"]
@@ -548,7 +523,6 @@ Kg6 59.Rd5 1/2-1/2
 [WhiteElo "2644"]
 [BlackElo "2713"]
 [ECO "A11"]
-[EventDate "2003.05.28"]
 
 1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 dxc4 5. a4 Be6 6. Na3 Bd5 7. Qc2 c5 8.
  Nxc4 Nc6 9. O-O e6 10. b3 Be7 11. Bb2 O-O 12. Rad1 Rc8 13. Qc3 Qc7 14. 

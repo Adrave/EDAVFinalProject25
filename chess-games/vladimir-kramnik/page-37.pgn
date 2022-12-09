@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Barcelona (Spain)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ruiz Diez Julio Cesar (ESP)"]
@@ -23,7 +22,6 @@ e5 37.Bd3 f6 38.f3 Rd7 39.Ke2 Rc7 40.Ra3 Rc1 41.Ra4 Rc7 1/2-1/2
 
 [Event "Match (active) \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -45,7 +43,6 @@ Qd3 30.c6 bxc6 31.bxc6 Qxa3 32.c7 Rc8 33.Rc3 1/2-1/2
 
 [Event "Match (active) \"Advanced Chess\""]
 [Site "Leon (Spain)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -68,7 +65,6 @@ Rb4 36.Ra7 Rb3+ 37.Kf4 Rb2 38.Kf3 1/2-1/2
 
 [Event "Match (blitz)"]
 [Site "London (England)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Howell David WL (ENG)"]
@@ -88,7 +84,6 @@ Rfe8 14.Be3 Bxe3 15.Qxe3 Na5 16.Bxe6 Qxe6 17.b3 Nc6 18.Rfd1 Rd7
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Almasi Zoltan (HUN)"]
@@ -117,7 +112,6 @@ Qxf6 72.exf6 Bxe4 73.Kd2 Bxd3 74.Kxd3 Nd7 75.f7 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -142,7 +136,6 @@ Ne4 49.Ke2 Qb5+ 50.Kf3 Qd3+ 51.Kg2 Qg3+ 0-1
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2002.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -163,7 +156,6 @@ hxg6 25.Rd8+ 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2002.??.??"]
 [Round "11"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -185,7 +177,6 @@ Nxd7 31.f7 Ne5 0-1
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -207,7 +198,6 @@ Bc3 30.Rxe8 Rxe8 31.Rb1 Re1+ 32.Rxe1 Bxe1 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -232,7 +222,6 @@ Ke7 42.g4 fxg4 43.hxg4 gxf4 44.exf4 Bc3 45.g5 hxg5 46.fxg5 Rd5
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -255,7 +244,6 @@ Ke6 24.a4 a6 25.e4 Nxf4 26.gxf4 b5+ 27.axb5 axb5+ 28.Kxc5 Rdc8+
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -275,7 +263,6 @@ O-O-O 14.Qd4 Qxd7 15.Qxf4 Bd6 16.Qc1 Kb8 17.O-O Qe7 18.a5 a6
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -297,7 +284,6 @@ Kg7 31.Rc8 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -320,7 +306,6 @@ Rg8 36.g3 hxg3 37.fxg3 Rc8 38.Rh7 Rc1 39.Ra7 Rd1+ 40.Kc2 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Smirin Ilia (ISR)"]
@@ -343,7 +328,6 @@ Nc8 37.Qc5 Nxd6 38.Qxe5 Rf8 39.Rd1 Nf7 0-1
 
 [Event "Match \"]
 [Site "Manama (Bahrain)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Computer \"]
@@ -351,7 +335,6 @@ Nc8 37.Qc5 Nxd6 38.Qxe5 Rf8 39.Rd1 Nf7 0-1
 [ECO "D27"]
 [WhiteElo "2807"]
 [PlyCount "113"]
-[EventDate "2002.??.??"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Qxd1 8.
 Rxd1 Bxc5 9. Kf1 b5 10. Be2 Bb7 11. Nbd2 Nbd7 12. Nb3 Bf8 13. a4 b4 14. Nfd2
@@ -366,7 +349,6 @@ Ra6 53. Rc5+ Kd7 54. b3 Rd6+ 55. Kc4 Rd4+ 56. Kc3 Rd1 57. Rd5+ 1-0
 
 [Event "Match \"]
 [Site "Manama (Bahrain)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Computer \"]
@@ -374,7 +356,6 @@ Ra6 53. Rc5+ Kd7 54. b3 Rd6+ 55. Kc4 Rd4+ 56. Kc3 Rd1 57. Rd5+ 1-0
 [ECO "E15"]
 [WhiteElo "2807"]
 [PlyCount "68"]
-[EventDate "2002.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. a4 Bf6 14. e4 c5 15.
@@ -386,13 +367,11 @@ Qxd5 Nxd5 34. axb6 axb6 0-1
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "4"]
 [White "Kramnik,V"]
 [Black "Tudela,M"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "B31"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 d6 6. e5 dxe5 7. Nxe5 Bd7
@@ -404,13 +383,11 @@ axb4 27. Kg2 c5 28. Rf4 1-0
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "3"]
 [White "Kramnik,V"]
 [Black "Pages,B"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "D70"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 g6 4. cxd5 Nxd5 5. e4 Nb6 6. h3 Bg7 7. Nc3 O-O 8.
@@ -423,13 +400,11 @@ Rb6 1-0
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "1"]
 [White "Kramnik,V"]
 [Black "Eguia,I"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "C78"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. d3 d6 7. c3 Bb6 8.
@@ -443,13 +418,11 @@ Bxd5 Bxf2 27. Re2 Bxg3+ 28. Kxg3 Rab8 29. Ne4 f5 30. Nxd6 f4+ 31. Kf3 Rbd8
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "9"]
 [White "Kramnik,V"]
 [Black "Sarda,R"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "D37"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 a6 6. e3 Nc6 7. a3 Bd7 8.
@@ -462,13 +435,11 @@ Rc8 27. Nfd4 b4 28. axb4 Bxb4 29. Re2 Nc4 30. f4 a4 31. Nc6 Bc5 32. Nxc5
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "2"]
 [White "Kramnik,V"]
 [Black "Vila,X"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "E16"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 d6
@@ -480,13 +451,11 @@ Nb8 15. f4 Nba6 16. fxe5 dxe5 17. Nf5 Bc8 18. g4 Nb7 19. Rf3 Nd6 20. b3 Bd7
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "8"]
 [White "Kramnik,V"]
 [Black "Setien,Q"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "C55"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. c3 Bg4 8.
@@ -499,13 +468,11 @@ Bc2 Qd8 34. Rxc7 Nxc7 35. Bxg7 Bg6 36. Nxg6 fxg6 37. Qxg6 Re6 38. Bf6+ 1-0
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "10"]
 [White "Kramnik,V"]
 [Black "Vilaregut,P"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "C60"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. c3 Bg7 6. d4 exd4 7. cxd4 O-O
@@ -516,13 +483,11 @@ Kh1 cxd5 15. Rc1 Bxh2 16. Nxd5 Qe5 17. f4 Bxf4 18. Bxf4 Qxb2 19. Nc7 Qxa2
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "14"]
 [White "Kramnik,V"]
 [Black "Arribas,A"]
 [Result "1-0"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "E01"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 Nc6 5. Bg2 Bd6 6. O-O h6 7. Nc3 O-O 8.

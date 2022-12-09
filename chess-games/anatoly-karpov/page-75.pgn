@@ -1,6 +1,5 @@
 [Event "Ch Europe (team)"]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -29,7 +28,6 @@ Bd6 71.Kg5 1-0
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Schauwecker Meinrad (SUI)"]
@@ -53,7 +51,6 @@ Nf6 43.Rf8 Qg7 44.Rh8+ Nh7 45.Rg8 1-0
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Whiteley Andrew J (ENG)"]
@@ -75,7 +72,6 @@ Qe5 25.Ng3 g5 26.Ngf5 Bxf5 27.gxf5 f6 28.f4 Qxe4+ 29.Ka1 Kf7
 
 [Event "It (cat.11)"]
 [Site "Budapest (Hungary)"]
-[Date "1973.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Adorjan Andras (HUN)"]
@@ -99,7 +95,6 @@ h5 31.Kc3 Nd5+ 32.Kb2 Ne7 33.Nf2 Rxd1 34.Nxd1 h4 35.gxh4 Bd3
 
 [Event "It (cat.11)"]
 [Site "Budapest (Hungary)"]
-[Date "1973.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -123,7 +118,6 @@ Be6 42.Bb3 Bf7 43.Bd1 Be6 44.Bf3 Bf7 45.Bg4 1-0
 
 [Event "It (cat.11)"]
 [Site "Budapest (Hungary)"]
-[Date "1973.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sax Gyula (HUN)"]
@@ -147,7 +141,6 @@ Qb8 42.Qe6+ 1-0
 
 [Event "It (cat.11)"]
 [Site "Budapest (Hungary)"]
-[Date "1973.??.??"]
 [Round "12"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -174,7 +167,6 @@ Kh7 53.g4 Qh3 54.Qxf7+ Kh8 55.Qe8+ Kh7 56.Qe4+ Kg8 57.f5 Qg3+
 
 [Event "Izt (cat.12)"]
 [Site "Leningrad (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -201,7 +193,6 @@ Rc1+ 59.Ke2 Rc2+ 60.Kf1 Rc6 61.Kg2 Rb6 62.Nc7 Rb7 63.Nd5 1-0
 
 [Event "Izt (cat.12)"]
 [Site "Leningrad (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kuzmin Gennadi P (UKR)"]
@@ -224,7 +215,6 @@ g6 31.b4 Ne4+ 32.Bxe4 dxe4 33.Qxe4 Kg7 34.b5 Na5 35.Qe7 Qxe7
 
 [Event "Izt (cat.12)"]
 [Site "Leningrad (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Quinteros Miguel A (ARG)"]
@@ -247,7 +237,6 @@ Nxh5 31.Be5 Bf6 32.Re1 Bxe5 33.Rxe5 N5f6 34.g4 Qf8 35.g5 Ne4
 
 [Event "Izt (cat.12)"]
 [Site "Leningrad (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Torre Eugenio (PHI)"]
@@ -267,7 +256,6 @@ cxd4 20.cxd4 Nc6 21.b3 Nd7 22.Ba3 Rf7 23.g4 Qe4 24.Ng5 1-0
 
 [Event "It"]
 [Site "Madrid (Spain)"]
-[Date "1973.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -290,7 +278,6 @@ g6 37.a7 Kg7 38.Bxg6 1-0
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -314,7 +301,6 @@ b5 43.Bg2 a5 44.h4 axb4 45.axb4 Re8+ 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -339,7 +325,6 @@ Ke7 42.Nd2 Bc7 43.Ne4 f5 44.gxf5 gxf5 45.Nc5 Kd6 46.Nxb7+ Kxd5
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -366,7 +351,6 @@ Kc7 53.Qh7+ Rd7 54.Qc2+ Kb7 55.Qb3 Rd4 56.Qf7+ Kb6 57.Qe6+ Kb7
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "12"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -394,7 +378,6 @@ Ke7 65.Rc2 Bd5 66.Rc7+ Ke6 67.Rh7 Kd6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "14"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -416,7 +399,6 @@ Ke7 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "16"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -436,7 +418,6 @@ Na5 14.Bd3 Nc4 15.Nb5 Qd7 16.Bxc4 dxc4 17.Rfd1 Nf5 18.Qxc4 Bxf3
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "18"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -460,7 +441,6 @@ Kf6 42.Kf4 Re8 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "20"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -486,7 +466,6 @@ Ng6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "22"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -508,7 +487,6 @@ h5 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "24"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -529,14 +507,12 @@ Qxa5 26.Bc3 Qa7 27.a5 c5 28.Qa4 Nb6 29.Qa1 Nd5 30.Nxc5 Nxc3 31.Qxc3 1/2-1/2
 
 [Event "Karpov - Korchnoi Candidates Final"]
 [Site "Moscow URS"]
-[Date "1974.09.22"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C09"]
-[EventDate "1974.09.16"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -553,14 +529,12 @@ Qxa5 26.Bc3 Qa7 27.a5 c5 28.Qa4 Nb6 29.Qa1 Nd5 30.Nxc5 Nxc3 31.Qxc3 1/2-1/2
 
 [Event "Karpov - Korchnoi Candidates Final"]
 [Site "Moscow URS"]
-[Date "1974.10.25"]
 [Round "16"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C09"]
-[EventDate "1974.09.16"]
 [PlyCount "134"]
 [WhiteElo "?"]
 
@@ -580,14 +554,12 @@ Qxa5 26.Bc3 Qa7 27.a5 c5 28.Qa4 Nb6 29.Qa1 Nd5 30.Nxc5 Nxc3 31.Qxc3 1/2-1/2
 
 [Event "Karpov - Korchnoi Candidates Final"]
 [Site "Moscow URS"]
-[Date "1974.11.15"]
 [Round "22"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "1974.09.16"]
 [PlyCount "59"]
 [WhiteElo "?"]
 

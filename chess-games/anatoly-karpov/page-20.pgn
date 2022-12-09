@@ -1,6 +1,5 @@
 [Event "It (1/4 final)"]
 [Site "Bastia (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -27,7 +26,6 @@ Rd1 53.Rxh3 Rf1 54.Rh6+ Kd7 55.Rd6+ Ke7 56.Rd4 Ke6 57.Kc5 Re1
 
 [Event "It (1/8 final)"]
 [Site "Bastia (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zezulkin Jurij (BLR)"]
@@ -55,7 +53,6 @@ Kd5 65.e6 Re1 66.e7 c5 67.Kf7 c4 68.e8Q Rxe8 69.Kxe8 c3 70.g5 1-0
 
 [Event "It (final)"]
 [Site "Bastia (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -81,7 +78,6 @@ Re1 54.Kg3 Rf1 55.Rd1 Rf5 56.R6d5 Rf6 57.R1d3 1-0
 
 [Event "Ch Belgium (team) 2001/02"]
 [Site "Belgium"]
-[Date "2002.??.??"]
 [Round "11"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Le Quang Kim (BEL)"]
@@ -104,7 +100,6 @@ Qe6 37.f4 Qxa2 38.Qxc6 Rd2 39.Kh1 Rf2 40.Qe4 1-0
 
 [Event "It (cat.13) (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Granero Roca Antonio (ESP)"]
@@ -128,7 +123,6 @@ f6 36.gxf6+ Rxf6 37.Rc3 Qf8 38.Qe4 Qd6 39.Rg3 Rf5 40.Rxg6+ Kh7
 
 [Event "It (cat.13) (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "San Segundo Carrillo Pablo (ESP)"]
@@ -151,7 +145,6 @@ Kh7 37.Qxb5 Qh3+ 38.Kf4 Qh2+ 39.Ke3 1-0
 
 [Event "It (cat.13) (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vera Reynaldo (CUB)"]
@@ -179,7 +172,6 @@ Re3 66.Nc6+ Kf7 67.Kxa5 1-0
 
 [Event "It (cat.18)"]
 [Site "Cannes (France)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -204,7 +196,6 @@ Nxf6 48.Bc4 Nd7 49.d6+ Kxd6 50.Bxf7 1-0
 
 [Event "It (1/2 final)"]
 [Site "Cap d'Agde (France)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -226,7 +217,6 @@ f6 30.h4 Rb8 31.g4 Rb4 32.h5 Rxg4 33.h6 Rh4 34.a4 1-0
 
 [Event "It (1/4 final)"]
 [Site "Cap d'Agde (France)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dreev Alexey (RUS)"]
@@ -250,7 +240,6 @@ Nf4 37.Rd1 a4 38.Kf2 axb3 39.axb3 Rb5 40.Ke3 g5 41.hxg5 Nxd3
 
 [Event "It (Gr.1)"]
 [Site "Cap d'Agde (France)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hamdouchi Hichem (MAR)"]
@@ -279,7 +268,6 @@ Kh6 72.e6 Re3 73.e7 1-0
 
 [Event "It (Gr.1)"]
 [Site "Cap d'Agde (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Milov Vadim (SUI)"]
@@ -304,7 +292,6 @@ Rb8 48.e6 Rcc8 49.Rf7 Kg8 50.Rg7+ Kf8 51.Rxh7+ Ke8 52.Bg5 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -329,7 +316,6 @@ Kf6 48.Ne5 Ke7 49.g4 Kd6 50.Nc4+ 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -351,7 +337,6 @@ Rxb7 30.f4 Rb4 31.g3 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -377,7 +362,6 @@ Kc4 55.Kf7 Kd3 56.Kxg6 Ke4 57.f5 Kf3 58.Bg5 Ba5 59.Bxh4 Kg2 60.Be7 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zhu Chen (CHN)"]
@@ -400,7 +384,6 @@ f6 37.Re6+ 1-0
 
 [Event "Match (active)"]
 [Site "Warsaw (Poland)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Macieja Bartlomiej (POL)"]
@@ -421,7 +404,6 @@ Nce4 14.Nxe4 Bxe4 15.Qd2 Qb7 16.Ne1 Bxg2 17.Nxg2 d5 18.Ne3 Rfd8
 
 [Event "Match (active)"]
 [Site "Warsaw (Poland)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Macieja Bartlomiej (POL)"]
@@ -441,7 +423,6 @@ Nxg3 14.hxg3 a6 15.Nd6 Bxd6 16.Rxd6 Qc7 17.Qd2 Rfd8 18.O-O Na5
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -464,7 +445,6 @@ Qb1+ 37.Kg2 Qb3 38.Re2 Qb4 39.Qe3 Qb7+ 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "13"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -483,7 +463,6 @@ Qxc3+ 14.Rxc3 Bd7 15.Bd3 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -520,7 +499,6 @@ Rc7 98.Kb5 Bc3 99.Ka6 Kc4 100.Rb7 Rc8 101.Rb1 Ra8+ 102.Kb7 Rh8
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -545,7 +523,6 @@ Rh5+ 47.Kg4 Rh1 48.Rc2 Rd1 49.Rc7+ Kg8 50.Rc8+ 1/2-1/2
 
 [Event "Essent"]
 [Site "Hoogeveen NED"]
-[Date "2003.10.16"]
 [Round "4"]
 [White "Karpov, Anatoly"]
 [Black "Polgar, Judit"]
@@ -553,7 +530,6 @@ Rh5+ 47.Kg4 Rh1 48.Rc2 Rd1 49.Rc7+ Kg8 50.Rc8+ 1/2-1/2
 [WhiteElo "2693"]
 [BlackElo "2722"]
 [ECO "E32"]
-[EventDate "2003.10.12"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. a3 Bxc3+ 8.
  bxc3 c5 9. Bd3 cxd4 10. cxd4 Qa5+ 11. Kf1 Bd7 12. Ne2 Ba4 13. Qb2 Nc6 14.
@@ -570,13 +546,11 @@ Bd7 56. g5 Kf7 57. Ke5 Be8 58. Kd5 Ba4 59. Bd8 Ke8 60. Ba5 Kf7 61. Bc3 Be8
 
 [Event "CXSP Simul"]
 [Site "Sao Paulo BRA"]
-[Date "2003.11.23"]
 [Round "1"]
 [White "Karpov,Ana"]
 [Black "Jukemura,Leandro"]
 [Result "1/2-1/2"]
 [WhiteElo "2693"]
-[EventDate "2003.11.23"]
 [ECO "D06"]
 
 1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Rxb1 Qxd5 5. Qa4+ c6 6. Nf3 Nd7 7. Bd2
@@ -587,13 +561,11 @@ Kg2 Nh5 21. Be3 Nhf6 22. Bf4 Nh5 23. Be3 Nhf6 1/2-1/2
 
 [Event "CXSP Simul"]
 [Site "Sao Paulo BRA"]
-[Date "2003.11.23"]
 [Round "1"]
 [White "Karpov,Ana"]
 [Black "Marinho,Mauro Aparecido"]
 [Result "1/2-1/2"]
 [WhiteElo "2693"]
-[EventDate "2003.11.23"]
 [ECO "D34"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8.

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Johannesburg (South Africa)"]
-[Date "1955.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Barata Da Cruz V"]
@@ -23,7 +22,6 @@ h5 37.Rf4 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1956.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -43,7 +41,6 @@ f6 20.f5 gxf5 21.exf5 Bb7 22.Be4 Qf7 23.Rf3 Kh8 24.Rh3 1/2-1/2
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1956.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -66,7 +63,6 @@ Re7 37.Re3 Qf6 38.Qc5 Kg8 39.Ng4 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1956.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -86,7 +82,6 @@ Re7 37.Re3 Qf6 38.Qc5 Kg8 39.Ng4 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1956.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -112,7 +107,6 @@ Kb4 54.Kc2 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1956.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -135,7 +129,6 @@ Rf8 1/2-1/2
 
 [Event "Cup Clare Benedict"]
 [Site "Bern (Switzerland)"]
-[Date "1957.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Muffang Andre (FRA)"]
@@ -157,7 +150,6 @@ Rxb2 30.Rxe6 Rxc2 31.Nxb8 fxe6 32.a5 1-0
 
 [Event "Cup Clare Benedict"]
 [Site "Bern (Switzerland)"]
-[Date "1957.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Robatsch Karl (AUT)"]
@@ -179,7 +171,6 @@ bxc6 31.Rxe5 Kxg6 32.Re7 Rh3 33.Rc4 1-0
 
 [Event "Cup Clare Benedict"]
 [Site "Bern (Switzerland)"]
-[Date "1957.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -200,7 +191,6 @@ Nf5 25.e3 Ng7 1/2-1/2
 
 [Event "Match \"BRD-Netherlands\""]
 [Site "Dortmund (Germany)"]
-[Date "1957.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -225,7 +215,6 @@ Nd3 42.b4 Nxf2 43.Ka6 Nd3 44.b5 Nb4+ 45.Ka7 Nc6+ 46.Ka6 Nb4+
 
 [Event "Ch Manhattan Chess Club"]
 [Site "New York (USA)"]
-[Date "1957.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Fischer Robert J (USA)"]
@@ -245,7 +234,6 @@ Qb6 14.Bxf6 Bxf6 15.Qd3 Rfd8 16.Rfe1 Nb4 17.Qh7+ Kf8 18.a3 Nxc2
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1958.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Bouwmeester Hans (NED)"]
@@ -267,7 +255,6 @@ Rd8 31.Nd5 1/2-1/2
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1958.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -290,7 +277,6 @@ e4 36.Nc4 Qc6 37.Kg1 Qg6 38.Kg2 Qg4 39.Nd2 e3 40.Nf3 g6 41.Qc7 1/2-1/2
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1958.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Milic Borislav (YUG)"]
@@ -314,7 +300,6 @@ Rb6 35.Nxc5 Rxb2 36.Rf3 Rb1+ 37.Kf2 Rb2+ 38.Kg3 Re2 39.Nd6 g5
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1958.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -337,7 +322,6 @@ Rxd4 37.Rb1 1/2-1/2
 
 [Event "Match \"Netherlands-Spain\""]
 [Site "Leeuwarden (Netherlands)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Toran Albero Roman (ESP)"]
@@ -362,7 +346,6 @@ Rxf8 43.Qe4 Rf5 44.Bc4 Re5 45.Qa8+ Kg7 46.Qb7+ Kh6 47.Rxe5 Qxe5
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Cintron Rafael"]
@@ -385,7 +368,6 @@ Rxe6 32.dxe6 Qc7 33.Bd5 Be7 34.Bh4 Nc6 35.Bxf6 Bxf6 36.e7+ Kg7
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Palmason Gudmundur (ISL)"]
@@ -408,7 +390,6 @@ Re8 36.Rc7 Kxe5 37.Bxc5 Bxc5 38.Rxc5+ 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Primavera Giuseppe (ITA)"]
@@ -429,7 +410,6 @@ Nef6 20.exf6 Nxf6 21.Qe2 e5 22.dxe5 Re8 23.Qxc4 Nd5 24.Nd3 Bxe5
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -451,7 +431,6 @@ Bg7 25.Rf5 Qe8 26.Rd5 c4 27.Qf3 cxd3 28.Rxd6 Rb4 29.Rxd3 Qxe4
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Walsh C (WLS)"]
@@ -473,7 +452,6 @@ c4 25.Bc2 Bg4 26.Qe3 Raf8 27.Nd4 Bd7 28.Nf5+ R8xf5 29.exf5 Qxe3
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Yanofsky D A (CAN)"]
@@ -496,7 +474,6 @@ Kf7 35.Nxc8 Qxa2 36.Nd6+ Ke7 37.Nf5+ 1-0
 
 [Event "It"]
 [Site "Netherlands"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Penrose Jonathan (ENG)"]
@@ -522,7 +499,6 @@ Nxc8 47.Rxc8 Rc2 48.Rc6+ Kf5 49.Rxb6 Rxc4 50.Rb8 Rb4 51.b6 Kf6
 
 [Event "Cup Clare Benedict"]
 [Site "Neuchatel (Switzerland)"]
-[Date "1958.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Kupper Josef (SUI)"]
@@ -545,14 +521,12 @@ Rc6 37.Ng7 Rb8 38.Nxf5 Nxb2 39.Ka1 Rc4 40.Nh6 Ra4+ 41.Kb1 Nd1+ 0-1
 
 [Event "Euwe - Fischer m"]
 [Site "New York, NY USA"]
-[Date "1957.03.09"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Robert James Fischer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 

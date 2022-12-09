@@ -1,13 +1,11 @@
 [Event "Simul"]
 [Site "ESP"]
-[Date "1976.05.29"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "J Martin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Simul"]
 [Site "Terrassa ESP"]
-[Date "1976.05.31"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Delgado"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C70"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -48,14 +44,12 @@
 
 [Event "Moscow Blitz"]
 [Site "Moscow URS"]
-[Date "1971.03.31"]
 [Round "14"]
 [White "Anatoly Karpov"]
 [Black "Alexey Suetin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A52"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "25"]
 [White "Anatoly Karpov"]
 [Black "Wojciech Gniadek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -92,14 +84,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "16"]
 [White "Anatoly Karpov"]
 [Black "Dariusz Banaszkiewicz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -115,14 +105,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Symeon Dimopoulos"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -136,14 +124,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Kostas Galanis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -157,14 +143,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Manolis Kefalogiannis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -176,14 +160,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Angelos Sandalakis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B52"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -200,14 +182,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Baggelis Bidalis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A90"]
-[EventDate "????.??.??"]
 [PlyCount "127"]
 [WhiteElo "?"]
 
@@ -227,14 +207,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Nikolaos Panagiotakos"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A28"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -248,14 +226,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Stauros Lirakis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B52"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -271,14 +247,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Andreas Karabinas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -293,14 +267,12 @@
 
 [Event "Rethymno simul"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Manolis Fragkiadakis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B91"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -315,14 +287,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Hristos Bibizas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -337,14 +307,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Lampis Tagmatarxis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "21"]
 [WhiteElo "?"]
 
@@ -355,14 +323,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Grigorios Pitselis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -380,14 +346,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Basia Koubidi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -400,14 +364,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Theodoros Naxakis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E92"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -422,14 +384,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Mitos Pasxalidis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -441,14 +401,12 @@
 
 [Event "Rethymno sim"]
 [Site "Rethymno"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Sakis Vlaxos"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C93"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -465,14 +423,12 @@
 
 [Event "Madrid sim"]
 [Site "Madrid"]
-[Date "2001.11.10"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Carlos Adan Bonilla"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -487,14 +443,12 @@
 
 [Event "Madrid sim"]
 [Site "Madrid"]
-[Date "2001.11.10"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Juan Carlos Sanz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -508,14 +462,12 @@
 
 [Event "Madrid sim"]
 [Site "Madrid"]
-[Date "2001.11.10"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Alejandro Santiago Martinez Gonzalez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D38"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -530,14 +482,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1984.09.28"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 

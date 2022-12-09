@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Darga Klaus (GER)"]
@@ -22,7 +21,6 @@ Kg8 31.Qh5 Qd2 32.Qxg4+ Kf8 33.f3 Qxb2 34.Qxc4 Qf2 35.Kh3 1-0
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Golombek Harry (ENG)"]
@@ -44,7 +42,6 @@ bxc5 31.Rxh4 Rxh4 32.Qg7+ Ke8 33.Qg8+ Kd7 34.Qxf7+ Kd6 35.Qe7+ 1-0
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Milev Zdravko (BUL)"]
@@ -64,7 +61,6 @@ cxd4 14.Nxd7 Kxd7 15.exd4 Ke8 16.Be3 Qc7 17.d5 exd5 18.Rfe1 Kd8
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Russell M K A (SRI)"]
@@ -85,7 +81,6 @@ Ke8 20.Bh6 Rg8 21.Rad1 Qc8 22.Bxg7 Nxf5 23.exf5 Be7 24.Rfe1 Be6
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Tringov Georgi P (BUL)"]
@@ -105,7 +100,6 @@ Ke7 19.Nxe4 f5 20.Nc5 1-0
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Benko Pal C (USA)"]
@@ -130,7 +124,6 @@ Ke6 42.b7 Rc2+ 43.Kb6 Rb2+ 44.Ka7 Ra2+ 45.Kb8 Rxg2 46.Kc8 Rb2
 
 [Event "Izt"]
 [Site "Portoroz (Slovenia)"]
-[Date "1958.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "De Greif Boris (COL)"]
@@ -151,7 +144,6 @@ Bd6 14.Ne5 Qe7 15.Rac1 Rac8 16.Nc6 Qh4 17.Nf4 Ndf6 18.g3 Qh6
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "28"]
 [White "Tal Mikhail (LAT)"]
 [Black "Benko Pal C (USA)"]
@@ -172,7 +164,6 @@ h5 14.Bh6 Qb6 15.Bxg7 Kxg7 16.gxh5 e5 17.Nf5+ gxf5 18.Qg5+ Kh7
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -192,7 +183,6 @@ Nc5 20.Rad1 Nxe4 21.Bxe4 Bxe4 22.Bxf6 Qxf6 23.Qxd6 1/2-1/2
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "26"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -213,7 +203,6 @@ Qc4+ 24.Ke3 Qc5+ 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gurgenidze Bukhuti (GEO)"]
@@ -233,7 +222,6 @@ Qh4 20.c6 bxc6 21.dxc6 Ne5 22.Rf1 Bxh3 23.gxh3 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Vasiukov Evgeni (RUS)"]
@@ -252,7 +240,6 @@ Bd7 15.Qc2 Rfc8 16.f3 Nc7 17.Bf2 a5 18.b3 Nf8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Nei Iivo (EST)"]
@@ -271,7 +258,6 @@ O-O 14.Bb5 a6 15.Bxc6 Nxc6 16.Rad1 1/2-1/2
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -291,7 +277,6 @@ Qd6 1/2-1/2
 
 [Event "It"]
 [Site "Riga (Latvia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Koblenc A (LAT)"]
@@ -311,7 +296,6 @@ Ng4 19.Rxg4+ Kf6 20.Rf4+ Kg7 21.Rg4+ Kf6 1/2-1/2
 
 [Event "Match \"Estonia-Latvia\""]
 [Site "Tallinn (Estonia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -335,7 +319,6 @@ Rxb2 41.a3 Rb3 42.Rf2 Rbd3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -357,7 +340,6 @@ Ra8 25.h3 h6 26.Bd3 Rc6 27.Nxe6 Rxc1+ 28.Qxc1 Qxe6 29.Qc7 Qd7
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -379,7 +361,6 @@ Nab6 26.Rc1 Nf6 27.Bd3 Rxc1 28.Qxc1 Kg8 29.Ne1 Bc8 30.N1c2 Qc7
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -406,7 +387,6 @@ Bc2 60.Na3 Bb3 61.Kd3 Kf6 62.Nc2 h5 63.Kc3 Ba4 64.Bc1 Kg6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Tbilisi (Georgia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -429,7 +409,6 @@ Rfd8 31.c5 Rc7 32.Rb1 Rd5 33.Rb6 Rdxc5 34.Bxa6 Bxa6 35.Rxa6 Rd7
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bhend Edwin (SUI)"]
@@ -453,7 +432,6 @@ Bxc4 42.bxc4 Kf5 43.Re7 Ra8 44.Re2 Ra3 45.Kh3 h5 0-1
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fischer Robert J (USA)"]
@@ -475,7 +453,6 @@ Rf6 25.a3 Rd8 26.Rxd8+ Bxd8 27.Rxf6 Bxf6 28.Kd2 Bg5+ 29.Kd3 Bc1
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -499,14 +476,12 @@ h5 42.Kg2 h4 0-1
 
 [Event "Bled-Zagreb-Belgrade Candidates"]
 [Site "Bled, Zagreb & Belgrade YUG"]
-[Date "1959.10.25"]
 [Round "26"]
 [White "Mikhail Tal"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B56"]
-[EventDate "1959.09.07"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -519,14 +494,12 @@ h5 42.Kg2 h4 0-1
 
 [Event "Bled-Zagreb-Belgrade Candidates"]
 [Site "Bled, Zagreb & Belgrade YUG"]
-[Date "1959.10.21"]
 [Round "24"]
 [White "Mikhail Tal"]
 [Black "Paul Keres"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "1959.09.07"]
 [PlyCount "158"]
 [WhiteElo "?"]
 

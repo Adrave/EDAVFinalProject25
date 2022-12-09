@@ -1,6 +1,5 @@
 [Event "It (1/2 final)"]
 [Site "Bastia (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -23,7 +22,6 @@ Ra4 31.Bf2 Qb8 32.Bxd5 exd5 33.Qxd5 Qc8 34.Qxb3 Nc5 35.Bxc5 Qf5+
 
 [Event "It (final)"]
 [Site "Bastia (France)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -44,7 +42,6 @@ Ra6 26.Qc2 Ne7 27.Nd2 Nc4 28.Nb3 Ra7 29.Nc5 Bc8 30.Nxc6 1-0
 
 [Event "It (final)"]
 [Site "Bastia (France)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -71,7 +68,6 @@ Rxd6 59.Qxg7# 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -97,7 +93,6 @@ Rf4 52.Nd6 c5 53.a5 c4 54.Nb5 Nd4 55.Nxd4 Rxd4 56.Rc7 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -119,7 +114,6 @@ f2 26.Rf1 Rb8 27.Qh7+ Kf7 28.Bg6+ Kf6 29.g5+ hxg5 30.hxg5+ Ke5
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Short Nigel D (ENG)"]
@@ -140,7 +134,6 @@ Kf8 27.Bf1 Qc8 28.Nb6 Bf5 29.Bd3 1-0
 
 [Event "Cup World (active)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Taleb Moussa (UAE)"]
@@ -163,7 +156,6 @@ Bxa6 36.Qxa6 Re7 37.Qa2 Bf6 38.Rc6 1-0
 
 [Event "It (active) (knockout)"]
 [Site "Cap d'Agde (France)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -183,7 +175,6 @@ Kb8 19.Kb1 f5 20.Nf4 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -204,7 +195,6 @@ Kh8 25.Raxd1 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -231,7 +221,6 @@ Rh1 52.Rd5 Re1+ 53.Kf3 Bb4 54.Bc4 Kf6 55.Rb5 Rd1 56.Rb6+ Rd6
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Naiditsch Arkadij (GER)"]
@@ -250,7 +239,6 @@ O-O 8.h3 Bb7 9.d3 d6 10.a3 h6 11.Nc3 Re8 12.Ba2 Qd7 13.Be3 Nd8
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "14"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -272,7 +260,6 @@ Rf7 26.Rd6 Kh7 27.Rad1 Re8 28.Rd7 Ree7 29.Rxe7 Rxe7 30.Bd4 Rd7
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -291,7 +278,6 @@ Nxb5 8.exf6 Nxc3 9.fxg7 Bxg7 10.dxc3 d6 11.Ng5 Bf5 12.a4 Qc6
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -312,7 +298,6 @@ Rhf8 25.a4 Rf6 26.Ne5 Nxe5 27.Rxe5 b6 28.f4 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2003.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -333,7 +318,6 @@ h6 14.Bh7+ Kh8 15.Bc2 Bxf3 16.Nxf3 Nf6 17.Kb1 Qc7 18.Qe2 cxd4
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -360,7 +344,6 @@ Kc5 58.Bd5 Bg3+ 59.Ke6 h1Q 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -383,7 +366,6 @@ Ke7 36.Rd1 b2 37.Rb1 Ra8 38.Rxb2 Rxb2 39.Bxb2 Ra2 40.Bf6+ 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -404,7 +386,6 @@ c4 14.Qd4 O-O 15.Bxc4 Rfc8 16.Bxd5 Qxd5 17.Qxd5 Bxd5 18.Rf2 Rc6
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -427,7 +408,6 @@ Rd8 31.Nc4 Nxc5 32.bxc5 Bxc4 33.Qf2 Qe5 34.Bxd4 Qe2 35.Qg1 Rd7
 
 [Event "Match \"Basque Country vs. World\" (advanced)"]
 [Site "Santurtzi (Spain)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Izeta Txabarri Felix (ESP)"]
@@ -449,7 +429,6 @@ axb5 31.Re5 Rd1+ 32.Kh2 Nc4 33.Rxb5 Nd2 34.h4 g4 35.Bf4 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "13"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -468,7 +447,6 @@ Qc7 14.h4 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -486,7 +464,6 @@ Ng6 8.Ng5 e5 9.Qh5 d6 10.O-O h6 11.Nh3 Be7 12.Kh1 Bf6 13.Ng1 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Anand Viswanathan (IND)"]
 [Black "Krasenkow Michal (POL)"]
@@ -506,7 +483,6 @@ Nf5 8.Qxd8+ Kxd8 9.Nc3 Ke8 10.h3 Be7 11.Rd1 Nh4 12.Nxh4 Bxh4
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -527,7 +503,6 @@ a5 25.Rb1 Rc7 26.Qc1 Be8 27.Nb3 Qb6 28.Nd4 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Wely Loek (NED)"]

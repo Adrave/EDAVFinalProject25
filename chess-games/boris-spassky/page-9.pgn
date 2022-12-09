@@ -1,6 +1,5 @@
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -21,7 +20,6 @@ Ra8 1-0
 
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Jussupow Artur (GER)"]
@@ -44,7 +42,6 @@ exf5 21.Qg6 Be8 22.Qg2 Qd7 23.Rg1 Bd8 24.Ng3 Nxd4 25.Nxd4 Bb6
 
 [Event "Bundesliga 1987/88"]
 [Site "Germany"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Steinbacher Matthias Dr (GER)"]
@@ -65,7 +62,6 @@ dxe4 26.Bxe4 Bxa2+ 27.Kxa2 Qc4+ 28.Kb1 Qxe4 29.Nc3 1-0
 
 [Event "Bundesliga 1988/89"]
 [Site "Germany"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Mohr Stefan (GER)"]
@@ -87,7 +83,6 @@ Ng8 26.Raf1 Qxa3 27.Rf7 Rxf7 28.Rxf7 Be8 29.Ra7 Qb4 30.Kg3 a3
 
 [Event "It"]
 [Site "Nordwalde (Germany)"]
-[Date "1988.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Holm Sejer (DEN)"]
@@ -107,7 +102,6 @@ Qd4+ 20.Kh1 Qxd6 21.Nxg6+ hxg6 22.Bxd6+ Kg8 23.Qg5 Kf7 24.Be5 1-0
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -130,7 +124,6 @@ Bc1 31.Qxc1 Qc6 32.Qe3 Bh1 33.Qh3 Qxc7 34.Kxh1 Re8 35.Qh6 Qc6+
 
 [Event "Cup European Club"]
 [Site "Rotterdam (Netherlands)"]
-[Date "1988.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -152,7 +145,6 @@ g6 20.Ne3 f5 21.exf5 gxf5 22.cxb5 axb5 23.Rxa8 Bxa8 24.Qxb5 f4
 
 [Event "Olympiad"]
 [Site "Salonika (Greece)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Almada Enrique (SUI)"]
@@ -177,7 +169,6 @@ Kd6 48.f4 Ke6 49.cxb5 cxb5 50.Kc5 1-0
 
 [Event "Olympiad"]
 [Site "Salonika (Greece)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Greenfeld Alon (ISR)"]
@@ -201,7 +192,6 @@ d5 43.cxd6 Kd7 44.Rc3 1-0
 
 [Event "Olympiad"]
 [Site "Salonika (Greece)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -222,7 +212,6 @@ Qe6 26.Nb4 Ra8 27.Rc7 Bf8 28.Qc3 Qf6 29.a3 f4 30.Bxf4 Qxh4 31.Qd3 1-0
 
 [Event "It (cat.8)"]
 [Site "Wellington (New Zealand)"]
-[Date "1988.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Christiansen Larry M (USA)"]
@@ -251,7 +240,6 @@ Kg7 65.Nc7 f5 66.Ra7 Ng2+ 67.Ke5 Rxf3 68.Nd5+ Kf8 69.Ke6 Nf4+
 
 [Event "It (cat.8)"]
 [Site "Wellington (New Zealand)"]
-[Date "1988.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gufeld Eduard (USA)"]
@@ -275,7 +263,6 @@ Kc7 42.Qxe8 1-0
 
 [Event "It (cat.14)"]
 [Site "Clermont-Ferrand (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lautier Joel (FRA)"]
@@ -301,7 +288,6 @@ Rc3 49.Rh3 Qg6+ 50.Rg3 Qh5 51.Rh3 Qg6+ 52.Rg3 Qh5 53.Rh3 Qg6+
 
 [Event "It (cat.14)"]
 [Site "Clermont-Ferrand (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -320,7 +306,6 @@ O-O 14.Qb3 Rfc8 15.Qd3 Nd8 16.h4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Clermont-Ferrand (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sokolov Andrei (FRA)"]
@@ -339,7 +324,6 @@ Qe7 14.Rae1 Nf6 15.dxe6 Bxe6 16.e4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Clermont-Ferrand (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Spraggett Kevin (CAN)"]
@@ -362,7 +346,6 @@ Bxf6 31.Bxf7 Rf8 32.Be8 Bxb2 33.g3 c5 34.Re6 Rf6 35.Rxf6 Bxf6
 
 [Event "Cup BRD"]
 [Site "Cologne (Germany)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -383,7 +366,6 @@ Nf5 25.e4 dxe4 1/2-1/2
 
 [Event "Bundesliga 1988/89"]
 [Site "Germany"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Reeh Oliver (GER)"]
@@ -403,7 +385,6 @@ h6 20.h4 1/2-1/2
 
 [Event "Bundesliga 1989/90"]
 [Site "Germany"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -424,7 +405,6 @@ b6 25.Kg2 Nc6 1/2-1/2
 
 [Event "Match"]
 [Site "Venice (Italy)"]
-[Date "1989.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -447,7 +427,6 @@ Kf7 36.Be5 1/2-1/2
 
 [Event "Match"]
 [Site "Venice (Italy)"]
-[Date "1989.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -466,7 +445,6 @@ Kf7 36.Be5 1/2-1/2
 
 [Event "Match"]
 [Site "Vina del Mar (Chile)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Morovic Fernandez Ivan (CRO)"]
@@ -487,7 +465,6 @@ dxc4 20.dxc4 a5 21.cxb5 Qxb3 22.Rfc1 a4 23.Qc4 Qxb2 24.Ne2 Qb4
 
 [Event "Match"]
 [Site "Vina del Mar (Chile)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Morovic Fernandez Ivan (CRO)"]
@@ -509,7 +486,6 @@ Rxd5 25.Rxa6 dxc3 26.bxc3 c5 27.Rc6 cxb4 28.cxb4 h5 29.gxh5 Rxh5
 
 [Event "Match"]
 [Site "Vina del Mar (Chile)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Morovic Fernandez Ivan (CRO)"]
@@ -528,7 +504,6 @@ g6 14.a5 Bg4 15.Na4 Bxe2 16.Bxe2 Rc8 17.Nc5 1/2-1/2
 
 [Event "Cup European Club"]
 [Site "Solingen (Germany)"]
-[Date "1989.10.10"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Rajkovic Dusan (SCG)"]

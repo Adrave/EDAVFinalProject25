@@ -5,7 +5,6 @@
 [BlackFideId "4168119"]
 [Result "1-0"]
 [Round "02"]
-[Date "Fri Nov 22 2019"]
 [WhiteClock "0:02:56"]
 [BlackClock "0:09:24"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "2016192"]
 [Result "1-0"]
 [Round "04"]
-[Date "Sat Nov 23 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:07"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5000017"]
 [Result "1-0"]
 [Round "07"]
-[Date "Sun Nov 24 2019"]
 [WhiteClock "0:02:27"]
 [BlackClock "0:03:28"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "8603677"]
 [Result "1-0"]
 [Round "09"]
-[Date "Sun Nov 24 2019"]
 [WhiteClock "0:10:06"]
 [BlackClock "0:00:22"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "16"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:10"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "5007003"]
 [Result "1-0"]
 [Round "22"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:13"]
 [BlackClock "0:00:22"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "5000017"]
 [Result "1-0"]
 [Round "26"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:12"]
 [BlackClock "0:01:05"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "2-4"]
-[Date "Sun Dec 08 2019"]
 [WhiteClock "0:20:31"]
 [BlackClock "0:04:34"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "2-1"]
-[Date "Fri Dec 06 2019"]
 [WhiteClock "0:05:14"]
 [BlackClock "0:00:00"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "2-6"]
-[Date "Sun Dec 08 2019"]
 [WhiteClock "0:00:32"]
 [BlackClock "0:00:00"]
 
@@ -155,7 +145,6 @@
 [BlackFideId "316385"]
 [Result "1-0"]
 [Round "08"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:09:30"]
 [BlackClock "0:02:51"]
 
@@ -170,7 +159,6 @@
 [BlackFideId "4147332"]
 [Result "1-0"]
 [Round "03"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:03:08"]
 [BlackClock "0:00:45"]
 
@@ -185,7 +173,6 @@
 [BlackFideId "24116068"]
 [Result "1/2-1/2"]
 [Round "01"]
-[Date "Sat Jan 11 2020"]
 [WhiteClock "0:58:16"]
 [BlackClock "0:52:56"]
 
@@ -200,7 +187,6 @@
 [BlackFideId "2047640"]
 [Result "1/2-1/2"]
 [Round "03"]
-[Date "Mon Jan 13 2020"]
 [WhiteClock "1:03:52"]
 [BlackClock "0:36:04"]
 
@@ -215,7 +201,6 @@
 [BlackFideId "24126055"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Thu Jan 16 2020"]
 [WhiteClock "1:40:23"]
 [BlackClock "1:14:52"]
 
@@ -230,7 +215,6 @@
 [BlackFideId "2020009"]
 [Result "1/2-1/2"]
 [Round "06"]
-[Date "Fri Jan 17 2020"]
 [WhiteClock "0:41:27"]
 [BlackClock "0:40:25"]
 
@@ -245,7 +229,6 @@
 [BlackFideId "24101605"]
 [Result "1/2-1/2"]
 [Round "12"]
-[Date "Sat Jan 25 2020"]
 [WhiteClock "0:20:30"]
 [BlackClock "0:04:41"]
 
@@ -262,7 +245,6 @@
 [BlackElo "2699"]
 [Result "0-1"]
 [Round "01-03"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:00:08"]
 [BlackClock "0:00:28"]
 
@@ -280,7 +262,6 @@
 [BlackElo "2699"]
 [Result "1/2-1/2"]
 [Round "02-02"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:02:23"]
 [BlackClock "0:00:33"]
 
@@ -298,7 +279,6 @@
 [BlackElo "2764"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:04:33"]
 [BlackClock "0:00:17"]
 
@@ -316,7 +296,6 @@
 [BlackElo "2736"]
 [Result "1-0"]
 [Round "10"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:04:08"]
 [BlackClock "0:01:56"]
 
@@ -334,7 +313,6 @@
 [BlackElo "2767"]
 [Result "1/2-1/2"]
 [Round "01"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:00:58"]
 [BlackClock "0:01:37"]
 
@@ -352,7 +330,6 @@
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "03"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:02:30"]
 [BlackClock "0:01:20"]
 
@@ -370,7 +347,6 @@
 [BlackElo "2699"]
 [Result "1-0"]
 [Round "05"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:01:57"]
 [BlackClock "0:00:21"]
 
@@ -388,7 +364,6 @@
 [BlackElo "2784"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:10:32"]
 [BlackClock "0:10:36"]
 

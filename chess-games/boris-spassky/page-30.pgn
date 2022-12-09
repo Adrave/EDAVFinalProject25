@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Canada"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Banks N"]
@@ -23,7 +22,6 @@ Ke6 36.Rd1 Qxg4 37.Qd5+ 1-0
 
 [Event "It (open)"]
 [Site "Canada"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Dobrich Walter (CAN)"]
@@ -44,7 +42,6 @@ Rxh2 26.Rxg4 Rh1+ 27.Kf2 Rxb1 28.Qxf6 1-0
 
 [Event "It (open)"]
 [Site "Canada"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Posner"]
@@ -65,7 +62,6 @@ Qxb2 25.Rf2 Qxc3 26.Qe8 Qxe3 27.Qh5+ Kg8 28.Rxd7 1-0
 
 [Event "It (open)"]
 [Site "Canada"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zuk Robert D (CAN)"]
@@ -89,7 +85,6 @@ Kh7 42.Qh4+ Kg8 43.Nh6+ 1-0
 
 [Event "It"]
 [Site "Goteborg (Sweden)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Czerniak Moshe (ISR)"]
@@ -112,7 +107,6 @@ Bg4 32.f3 Rf8 33.Qxf8+ Qxf8 34.fxg4 Qd8 35.d7 Kg8 36.Nxf6+ Kf7
 
 [Event "It"]
 [Site "Goteborg (Sweden)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kinnmark Ove (SWE)"]
@@ -132,7 +126,6 @@ Qe7 14.Qf3 Nd7 15.cxd5 cxd5 16.Nf5 Qa3 17.Qg4 g6 18.Nxh6+ Kh7
 
 [Event ""]
 [Site "Goteborg (Sweden)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Jansson Borje (SWE)"]
@@ -154,7 +147,6 @@ Kh8 26.Nxe7 Rxe7 27.Rxf6 axb5 28.Qf4 Kg7 29.Rf1 Qd7 30.Qg5 Kh8
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -177,7 +169,6 @@ N6h7 37.Bf4 1-0
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -202,7 +193,6 @@ Ng4 31.Re2 Rxe2 32.Bxe2 Nxf2 33.Qxf2 Be5 34.Rd3 Rc8 35.d6 Rc1+
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Savon Vladimir A (UKR)"]
@@ -225,7 +215,6 @@ g5 1-0
 
 [Event "Match \"Grandmasters-young masters\""]
 [Site "Moscow (Russia)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kishnev Sergey (RUS)"]
@@ -247,7 +236,6 @@ Nc5 26.Nh6+ Kh8 27.Nhf5 gxf5 28.Nxf5 f6 29.Bh6 Re7 30.Nxg7 Rxg7
 
 [Event "Match \"Grandmasters-young masters\""]
 [Site "Moscow (Russia)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Moskovich M"]
@@ -268,7 +256,6 @@ Nxd4 20.Nxd4 Bd5 21.Qg3 b5 22.f5 exf5 23.Nxf5 Bf8 24.Rxd5 Rxd5
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Chekhover Vitaly A (RUS)"]
@@ -291,7 +278,6 @@ Bg1+ 31.Rxg1 Rxg1 32.Rd6 Qf7 33.Rd2 Qg6 34.Qf2 Rg3 35.Bd1 h6
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -317,7 +303,6 @@ Kb4 54.Kxe4 Kxa4 55.Kd5 Kb5 56.Kd6 1-0
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -340,7 +325,6 @@ Qb1 37.Kf1 Bf5 38.Ke2 Qe4+ 39.Qe3 Qc2+ 40.Qd2 Qb3 41.Qd4 Bd3+ 0-1
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -361,7 +345,6 @@ Qe7 20.Bc2 g5 21.Bd2 Qe8 22.Be1 Qg6 23.Qd3 Nh5 24.Rxf8+ Rxf8
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -386,7 +369,6 @@ Kf3 47.Ree4 Rc1+ 48.Kh2 Rc2+ 49.Kg1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -408,7 +390,6 @@ Rxd3 24.Rxb7 g5 25.Rb8+ Rxb8 26.Rxb8+ Kg7 27.f3 Rd2 28.h4 h6
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "11"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -430,8 +411,6 @@ hxg2+ 26.Kxg2 Rh3 27.Qf6 Nf5 28.c6 Bc8 29.dxe6 fxe6 30.Rfe1 Be7
 
 [Event "Spassky - Fischer World Championship Match"]
 [Site "Reykjavik ISL"]
-[Date "1972.08.10"]
-[EventDate "?"]
 [Round "13"]
 [Result "0-1"]
 [White "Boris Spassky"]
@@ -460,7 +439,6 @@ Rxg7 72. Rxc4 Rd7 73. Re4+ Kf1 74. Bd4 f2 0-1
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -484,7 +462,6 @@ Qc1+ 41.Rb2 Qa1+ 42.Ra2 Qc1+ 43.Rb2 Qa1+ 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "19"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -507,7 +484,6 @@ Ra6 36.c6 Rxc6 37.Ra5 a6 38.Kg3 Kf6 39.Kf3 Rc3+ 40.Kf2 Rc2+ 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1972.??.??"]
 [Round "21"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -530,14 +506,12 @@ Ke5 36.Be6 Kf4 37.Bd7 Rb1 38.Be6 Rb2 39.Bc4 Ra2 40.Be6 h5 41.Bd7 0-1
 
 [Event "Spassky - Fischer World Championship Match"]
 [Site "Reykjavik ISL"]
-[Date "1972.08.01"]
 [Round "9"]
 [White "Boris Spassky"]
 [Black "Robert James Fischer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D41"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -551,14 +525,12 @@ Ke5 36.Be6 Kf4 37.Bd7 Rb1 38.Be6 Rb2 39.Bc4 Ra2 40.Be6 h5 41.Bd7 0-1
 
 [Event "Spassky - Fischer World Championship Match"]
 [Site "Reykjavik ISL"]
-[Date "1972.08.22"]
 [Round "17"]
 [White "Boris Spassky"]
 [Black "Robert James Fischer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B09"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -23,7 +22,6 @@ Rb7 37.Qg3 Rc1+ 38.Kh2 Rc4 39.b5 Rb4 40.Rxe6 Bxe6 41.Qg6+ 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -47,7 +45,6 @@ Kxd7 31.Kxf4 Kd6 32.Ke4 Kc5 33.f4 Kb4 34.f5 gxf5+ 35.Kxf5 Kxa4
 
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sadvakasov Darmen (KAZ)"]
@@ -71,7 +68,6 @@ Kg8 43.Nh6+ 1/2-1/2
 
 [Event "Match \"Europe-Asia\" (active)"]
 [Site "Batumi (Georgia)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Adianto Utut (INA)"]
@@ -96,7 +92,6 @@ Kg8 48.Qf7+ Kh7 49.Qg6+ Kg8 1/2-1/2
 
 [Event "Match \"Europe-Asia\" (active)"]
 [Site "Batumi (Georgia)"]
-[Date "2001.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ye Jiangchuan (CHN)"]
@@ -117,7 +112,6 @@ Be7 14.Ne4 Bxe4 15.Bxe4 Rd8 16.Bxe7 Nxe7 17.Re3 Ng6 18.Bxg6 fxg6
 
 [Event "Cup World (active) (1/2 final)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -144,7 +138,6 @@ Ng6 1/2-1/2
 
 [Event "Cup World (active) (Gr.A)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -169,7 +162,6 @@ Kg7 43.Be3 Ne2+ 44.Kf2 Nxc3 45.Rh6 d4 46.Rxg6+ Kf7 47.Bh6 Rg8
 
 [Event "Cup World (active) (Gr.A)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -194,7 +186,6 @@ Ra4 42.Rxg7+ Kd6 43.Nc4+ Ke6 44.Rg6+ Kf7 45.Rb6 Be6 46.Ne5+ Ke7
 
 [Event "Match (blitz)"]
 [Site "Internet"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -218,7 +209,6 @@ Bxc5 43.Rxc5 Qh5 44.Bg2 Nf6 45.f3 Ne4 46.Qc7 Nxc5 47.bxc5 Bh3 0-1
 
 [Event "It (cat.19)"]
 [Site "Linares (Spain)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -239,7 +229,6 @@ Kf8 25.Rd2 Kg7 26.b4 b5 27.Qxa6 Rc3 1/2-1/2
 
 [Event "Memorial M.Botvinnik (match)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -268,7 +257,6 @@ Ra4+ 65.Kf3 Ra3 66.Ke4 Rb3 67.Nc5 Rb4+ 68.Kf3 Rb5 69.Ne4+ Ke5
 
 [Event "Memorial M.Botvinnik (match)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -287,7 +275,6 @@ Bxe3 14.Qxe3 Nc6 15.a4 Na5 16.axb5 axb5 17.Nd4 Qe8 18.f4 c5 19.Nxe6 1/2-1/2
 
 [Event "Memorial M.Botvinnik (match) (active)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -309,7 +296,6 @@ Nd3 30.Rxe4 1/2-1/2
 
 [Event "Memorial M.Botvinnik (match) (active)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -333,7 +319,6 @@ Qh2+ 42.Ke1 1/2-1/2
 
 [Event "Memorial M.Botvinnik (match) (active)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -358,7 +343,6 @@ Qd4 49.Bc2 e3 50.f5 e2 51.fxg6 e1Q 52.Qxf7+ Kh6 0-1
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -383,7 +367,6 @@ Kg7 47.Qe5+ Kg6 1/2-1/2
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -404,7 +387,6 @@ Bf5 1/2-1/2
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -429,7 +411,6 @@ h5 47.h4 1/2-1/2
 
 [Event "Match (blitz)"]
 [Site "Patras (Greece)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Banikas Hristos (GRE)"]
@@ -454,7 +435,6 @@ Qd8 48.Rh4 1/2-1/2
 
 [Event "Simultan"]
 [Site "Prague (Czech Republic)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hracek Zbynek (CZE)"]
@@ -477,7 +457,6 @@ Qe1+ 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -498,7 +477,6 @@ Qb6 19.Nc2 Qxf2 20.Bd5 O-O 21.Qc4 Be6 22.Ne3 Qxh2 23.Qh4 Qxh4
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -521,7 +499,6 @@ d4 31.bxa5 dxc3 32.Nb3 Nc5 33.Rc4 Rb8 34.Qxc6 Qxc6 35.Nxc5 Qb5
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -545,7 +522,6 @@ Rxa4 43.Re6 Ke8 44.Re4 Ra3+ 45.Re3 Rxe3+ 46.Kxe3 f5 1/2-1/2
 
 [Event "It \"Korchnoi Birthday\" (KO-system)"]
 [Site "Zurich (Switzerland)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -566,7 +542,6 @@ Ne6 20.Bg3 Bc6 21.Rd2 hxg4 22.hxg4 c4 23.Kg2 Rd8 24.Rad1 Ba4
 
 [Event "Simul"]
 [Site "Torshavn FAI"]
-[Date "2001.06.10"]
 [Round "1"]
 [White "Kasparov, Garry"]
 [Black "Nolsoe, Eydun"]
@@ -574,7 +549,6 @@ Ne6 20.Bg3 Bc6 21.Rd2 hxg4 22.hxg4 c4 23.Kg2 Rd8 24.Rad1 Ba4
 [WhiteElo "2827"]
 [BlackElo "2211"]
 [ECO "E36"]
-[EventDate "2001.06.05"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 
 Nbd7 8. e3 c5 9. b3 b6 10. Bb2 Bb7 11. Be2 Rc8 12. O-O Qc7 13. Rac1 Qb8 

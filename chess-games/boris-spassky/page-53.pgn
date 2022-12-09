@@ -1,13 +1,11 @@
 [Event "Belfort World Cup"]
 [Site "Belfort FRA"]
-[Date "1988.07.03"]
 [Round "15"]
 [White "Boris Spassky"]
 [Black "Anatoly Karpov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Interpolis 7th"]
 [Site "Tilburg NED"]
-[Date "1983.10.16"]
 [Round "4"]
 [White "Boris Spassky"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Varna ol (Men) fin-A"]
 [Site "Varna BUL"]
-[Date "1962.09.30"]
 [Round "4"]
 [White "Boris Spassky"]
 [Black "Miguel Najdorf"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C35"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -63,14 +57,12 @@
 
 [Event "URS"]
 [Site "URS"]
-[Date "1948.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Rodgaisky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "16"]
 [WhiteElo "?"]
 
@@ -81,14 +73,12 @@
 
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "David Arutiunian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C93"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "2548"]
 
@@ -103,14 +93,12 @@
 
 [Event "Hastings 1965/66"]
 [Site "Hastings ENG"]
-[Date "1966.01.05"]
 [Round "7"]
 [White "Boris Spassky"]
 [Black "Peter Nicholas Lee"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E30"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -123,14 +111,12 @@
 
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1966.05.11"]
 [Round "13"]
 [White "Boris Spassky"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "181"]
 [WhiteElo "?"]
 
@@ -154,14 +140,12 @@
 
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1966.06.06"]
 [Round "23"]
 [White "Boris Spassky"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -175,14 +159,12 @@
 
 [Event "Lyon FRA"]
 [Site "Lyon FRA"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Beickert"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B25"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "2560"]
 
@@ -195,14 +177,12 @@
 
 [Event "Simul"]
 [Site "Auckland, Hyatt Hotel"]
-[Date "1988.04.09"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "Richard Taylor"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "2690"]
 
@@ -216,14 +196,12 @@
 
 [Event "FRG-CupT"]
 [Site "FRG-CupT"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Carlos Garcia Palermo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C17"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -238,14 +216,12 @@
 
 [Event "Bundesliga 1986/87"]
 [Site "FRG"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Detlef Heinbuch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D27"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -262,14 +238,12 @@
 
 [Event "87th US Open"]
 [Site "Somerset, NJ USA"]
-[Date "1986.08.04"]
 [Round "2"]
 [White "Boris Spassky"]
 [Black "Duffy Hepner"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B23"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -281,14 +255,12 @@
 
 [Event "87th US Open"]
 [Site "Somerset, NJ USA"]
-[Date "1986.08.08"]
 [Round "6"]
 [White "Boris Spassky"]
 [Black "Anatoly Volovich"]
 [Result "1-0"]
 [BlackElo "2441"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "2681"]
 
@@ -306,14 +278,12 @@
 
 [Event "87th US Open"]
 [Site "Somerset, NJ USA"]
-[Date "1986.08.10"]
 [Round "7"]
 [White "Boris Spassky"]
 [Black "Jorge Armando Gonzalez Rodriguez"]
 [Result "1-0"]
 [BlackElo "2395"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "2681"]
 
@@ -329,14 +299,12 @@
 
 [Event "Spassky Simul"]
 [Site "Dallas, TX USA"]
-[Date "1986.09.04"]
 [Round "6"]
 [White "Boris Spassky"]
 [Black "Robert Weinberg"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B03"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -351,14 +319,12 @@
 
 [Event "87th US Open"]
 [Site "Somerset, NJ USA"]
-[Date "1986.08.06"]
 [Round "4"]
 [White "Boris Spassky"]
 [Black "David Griego"]
 [Result "1-0"]
 [BlackElo "2403"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "2681"]
 
@@ -374,14 +340,12 @@
 
 [Event "Vienna op"]
 [Site "Vienna AUT"]
-[Date "1986.11.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Khaled"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B16"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -399,14 +363,12 @@
 
 [Event "Bugojno 3rd"]
 [Site "Bugojno BIH"]
-[Date "1982.05.??"]
 [Round "5"]
 [White "Boris Spassky"]
 [Black "Svetozar Gligoric"]
 [Result "1-0"]
 [BlackElo "2535"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "2625"]
 
@@ -423,14 +385,12 @@
 
 [Event "Hamburg-TV (1 h)"]
 [Site "Hamburg FRG"]
-[Date "1982.09.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Eric Lobron"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B12"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -446,14 +406,12 @@
 
 [Event "Reggio Emilia 1983/84"]
 [Site "Reggio Emilia ITA"]
-[Date "1984.01.01"]
 [Round "9"]
 [White "Boris Spassky"]
 [Black "Milan Vukic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B33"]
-[EventDate "????.??.??"]
 [PlyCount "145"]
 [WhiteElo "?"]
 
@@ -474,14 +432,12 @@
 
 [Event "Simul, 30b"]
 [Site "London ENG"]
-[Date "1979.01.20"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Neil F Dickenson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -494,14 +450,12 @@
 
 [Event "Bundesliga 1980/81"]
 [Site "FRG"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Reiner Franke"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -517,14 +471,12 @@
 
 [Event "Ch France (team)"]
 [Site "France"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Bikert"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C16"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "2548"]
 
@@ -538,14 +490,12 @@
 
 [Event "World Champions Simultaneous Exhibition"]
 [Site "Zurich"]
-[Date "2009.08.22"]
 [Round "1"]
 [White "Boris Spassky"]
 [Black "Marcel Bieler"]
 [Result "1-0"]
 [BlackElo "1706"]
 [ECO "B98"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "2548"]
 

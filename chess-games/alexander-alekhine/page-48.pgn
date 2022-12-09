@@ -1,13 +1,11 @@
 [Event "Blindfold simul"]
 [Site "Lisbon POR"]
-[Date "1941.06.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Supico"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -19,14 +17,12 @@
 
 [Event "Blindfold simul, 8b"]
 [Site "Espinho POR"]
-[Date "1941.08.25"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Pias"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -41,14 +37,12 @@
 
 [Event "Madrid"]
 [Site "Club Real Madrid, Madrid ESP"]
-[Date "1941.12.01"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Isidro Naharro"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -60,14 +54,12 @@
 
 [Event "Simul, 30b"]
 [Site "Madrid ESP"]
-[Date "1941.12.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Galindo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -80,14 +72,12 @@
 
 [Event "Match"]
 [Site "Vitoria ESP"]
-[Date "1941.12.19"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Benito Lopez Esnaola"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -99,14 +89,12 @@
 
 [Event "Clock simul, 9b"]
 [Site "Madrid ESP"]
-[Date "1941.12.17"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "W Kocher"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -124,14 +112,12 @@
 
 [Event "Match"]
 [Site "Warsaw POL"]
-[Date "1943.03.28"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -146,14 +132,12 @@
 
 [Event "Prague blitz"]
 [Site "Prague blitz"]
-[Date "1943.04.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Sik"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -165,14 +149,12 @@
 
 [Event "Clock simul, 8b"]
 [Site "Madrid ESP"]
-[Date "1943.10.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Manuel Cifuentes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -186,14 +168,12 @@
 
 [Event "Clock simul, 8b"]
 [Site "Madrid ESP"]
-[Date "1943.10.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Arturo Pomar Salamanca"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -208,14 +188,12 @@
 
 [Event "Salamanca off-hand"]
 [Site "Salamanca ESP"]
-[Date "1944.04.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Julio Ganzo Mediavilla"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "????.??.??"]
 [PlyCount "21"]
 [WhiteElo "?"]
 
@@ -226,14 +204,12 @@
 
 [Event "Simul, 29b"]
 [Site "Gijon ESP"]
-[Date "1943.11.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Antonio Rico Gonzalez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C70"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -248,14 +224,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Oviedo ESP"]
-[Date "1943.11.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Casielles"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -270,14 +244,12 @@
 
 [Event "Simul, 26b (blindfold)"]
 [Site "San Sebastian ESP"]
-[Date "1944.11.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "De Cassio"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "19"]
 [WhiteElo "?"]
 
@@ -288,14 +260,12 @@
 
 [Event "Sabadell Tournament"]
 [Site "ESP"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Munoz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D39"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -307,14 +277,12 @@
 
 [Event "Madrid"]
 [Site "Madrid"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Francisco Jose Perez Perez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C71"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -329,14 +297,12 @@
 
 [Event "Madrid"]
 [Site "Madrid"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jose Sanz Aguado"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -352,14 +318,12 @@
 
 [Event "Blindfold simul, 4b"]
 [Site "Santander ESP"]
-[Date "1945.07.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Ricondo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "27"]
 [WhiteElo "?"]
 
@@ -370,14 +334,12 @@
 
 [Event "Simul"]
 [Site "Santa Cruz de Tenerife ESP"]
-[Date "1945.11.21"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Pedreira"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -392,14 +354,12 @@
 
 [Event "Moscow Club Spring"]
 [Site "Moscow RUE"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "K Isakov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C44"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -413,14 +373,12 @@
 
 [Event "Duesseldorf"]
 [Site "Duesseldorf GER"]
-[Date "1908.08.04"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Wilhelm Kunze"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -435,14 +393,12 @@
 
 [Event "Blindfold simul, 28b"]
 [Site "Paris"]
-[Date "1925.02.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "S. Italienne Comite militaire interalliee"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -458,14 +414,12 @@
 
 [Event "Blindfold simul, 28b"]
 [Site "Paris FRA"]
-[Date "1925.02.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Cercle des Echecs"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -478,14 +432,12 @@
 
 [Event "Blindfold simul, 28b"]
 [Site "Paris FRA"]
-[Date "1925.02.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Cercle de Colombes-sur-Seine"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -500,14 +452,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.10.11"]
 [Round "12"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D64"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 

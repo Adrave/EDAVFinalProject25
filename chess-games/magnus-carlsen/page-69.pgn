@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Bergen (Norway)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Anagnostopoulos Dimitri (GRE)"]
@@ -20,7 +19,6 @@ Rc8 19.Qd5 e6 20.Qxa8 Qxa8 21.Bxg7 Kxg7 22.Bd3 0-1
 
 [Event "It (open)"]
 [Site "Bergen (Norway)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Fyllingen Roy Harald (NOR)"]
@@ -44,7 +42,6 @@ Be6 42.Rd1 Rc7 43.Rb8 Bc5 44.Re8 Rd7 45.Rf1 Bc4 46.Re1 Rf7 0-1
 
 [Event "It (open)"]
 [Site "Bergen (Norway)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Manne Per (NOR)"]
@@ -64,7 +61,6 @@ Bxd4 20.Bxd4 Re2 21.a4 Qc6 22.Qxc6 Rxc6 23.Ne3 a6 24.Bxf6 1-0
 
 [Event "It (a)"]
 [Site "Gausdal (Norway)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Bluvshtein Mark (CAN)"]
@@ -94,7 +90,6 @@ Kh7 74.Qe4 Rxb2 75.a5 Rb8 76.a6 Rh8 77.Qe5 Kg8+ 0-1
 
 [Event "It (a)"]
 [Site "Gausdal (Norway)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Royset Paal (NOR)"]
@@ -116,7 +111,6 @@ Kxf8 30.b4 f6 31.f4 Bb5 32.Rc1 Kf7 33.Rc5 Bd3 34.b5 1-0
 
 [Event "It (a)"]
 [Site "Gausdal (Norway)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Tjomsland Stig (NOR)"]
@@ -141,7 +135,6 @@ Bxc3 37.Nxc3 Qf4 38.h3 Rf8 39.Re3 h5 40.Rxf3 Qc1+ 41.Kg2 hxg4
 
 [Event "It (cat.4)"]
 [Site "Helsinki (Finland)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Hjelm Niclas (SWE)"]
@@ -168,7 +161,6 @@ Kxh4 59.Kxe5 Kg4 60.Rg6+ Kh3 61.f4 1-0
 
 [Event "It (cat.4)"]
 [Site "Helsinki (Finland)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Nyysti Sampsa (FIN)"]
@@ -192,7 +184,6 @@ Bb7 36.exf5+ Rxf5 37.Qg4+ Kf6 38.Qh4+ Kg6 39.Bc4 Nc5 40.b4 Ne4
 
 [Event "Ch World (juniors) (under 12)"]
 [Site "Heraklio (Greece)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Bindrich Falko (GER)"]
@@ -212,7 +203,6 @@ d4 20.Nd2 Bb7 21.Nc4 Qc7 22.Rfe1 1-0
 
 [Event "Ch World (juniors) (under 12)"]
 [Site "Heraklio (Greece)"]
-[Date "2002.??.??"]
 [Round "10"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kuzubov Yuriy (UKR)"]
@@ -231,7 +221,6 @@ Ke7 13.Nxh5 Nc6 14.Bxc6 Bxc6 15.Rhe1 1-0
 
 [Event "Ch Norway (team) (final)"]
 [Site "Oslo (Norway)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Trygstad Kristian (NOR)"]
@@ -254,7 +243,6 @@ dxc5 37.Rxc2 b6 38.axb6 Rec8 39.e5 fxe5 40.fxe5 Rxb6 1-0
 
 [Event "Ch Norway"]
 [Site "Fredrikstad (Norway)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lie Kjetil A (NOR)"]
@@ -279,7 +267,6 @@ Qxb5 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Gausdal (Norway)"]
-[Date "2003.??.??"]
 [Round "10"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kristjansson Stefan (ISL)"]
@@ -299,7 +286,6 @@ Bg5 20.Nc4 Nb5 21.Bb4 Rfd8 22.Qh5 Bh6 23.f6 c5 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Gausdal (Norway)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lugovoi Aleksei (RUS)"]
@@ -320,7 +306,6 @@ Rc1 24.Qe5 Qb2 25.h3 Rxe1+ 26.Qxe1 Qxd4 27.Qc1 Qe5 1/2-1/2
 
 [Event "It (open) \"Troll Masters\""]
 [Site "Gausdal (Norway)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lugovoi Aleksei (RUS)"]
@@ -344,7 +329,6 @@ Ra2 36.Qb5 Ra1 37.a4 Rxb1+ 38.Qxb1 Qxc4 39.Qb2+ Kh7 40.Qb7 Kg7
 
 [Event "It (open) \"Troll Masters\""]
 [Site "Gausdal (Norway)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Shumiakina Tatiana (RUS)"]
@@ -369,7 +353,6 @@ Rc1 41.Ke3 Re1+ 42.Kf3 Rf1+ 43.Kg2 Rc1 44.Kh3 Bc4 45.Rxh7 Rxc2
 
 [Event "Cup European Club (final)"]
 [Site "Rethymnon (Greece)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "McShane Luke J (ENG)"]
@@ -392,7 +375,6 @@ Rxf5 37.Rd7 Kh8 38.Bc4 Rxf4 39.Bd3 Rf2 40.Re7 Rxa2 41.Rxe3 Rxa4 1/2-1/2
 
 [Event "It (open)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Stefanova Antoaneta (BUL)"]
@@ -416,7 +398,6 @@ Rxb3 36.Ke2 g6 37.Re8 Rb2+ 38.Kd3 Rb3+ 39.Ke2 Rb2+ 40.Kf3 Rb3
 
 [Event "It (open)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Vassallo Mauricio (ESP)"]
@@ -435,7 +416,6 @@ Bb7 8.h4 h5 9.Nh3 Qc7 10.Ng5 Ngf6 11.f4 b4 12.Ne2 c5 13.e5 cxd4
 
 [Event "It (open)"]
 [Site "Schwarzach (Austria)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ivanov Mikhail M (RUS)"]
@@ -460,7 +440,6 @@ h5 49.a4 Kg7 1/2-1/2
 
 [Event "It (open)"]
 [Site "Schwarzach (Austria)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Shchekachev Andrei (RUS)"]
@@ -482,7 +461,6 @@ Nd6 26.Ng4 h5 27.Bg5 Qd7 28.Nf6+ Bxf6 29.Bxf6 Bf5 30.Rbc1 Be4
 
 [Event "Memorial Claude Pecaut (cat.7)"]
 [Site "Taormina (Italy)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Movsziszian Karen (ARM)"]
@@ -509,7 +487,6 @@ Kf6 58.Rc6+ 1/2-1/2
 
 [Event "FSGM December"]
 [Site "Budapest HUN"]
-[Date "2003.12.06"]
 [Round "1"]
 [White "Carlsen, Magnus"]
 [Black "Howell, David W L"]
@@ -517,7 +494,6 @@ Kf6 58.Rc6+ 1/2-1/2
 [WhiteElo "2450"]
 [BlackElo "2381"]
 [ECO "C86"]
-[EventDate "2003.12.06"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 
 8. c3 d6 9. Rd1 Bg4 10. h3 Bh5 11. d3 d5 12. Bg5 d4 13. Bxf6 Bxf3 14. Qxf3
@@ -531,13 +507,11 @@ Rb8 44. Qf1 Qe3+ 1/2-1/2
 
 [Event "15th Open"]
 [Site "Kiel GER"]
-[Date "2002.08.11"]
 [Round "2"]
 [White "Carlsen,M"]
 [Black "Maeder,Torsten"]
 [Result "1-0"]
 [WhiteElo "2214"]
-[EventDate "2002.08.10"]
 [ECO "C00"]
 
 1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 c6 6. Ne2 Bd6 7. Nbc3 O-O
@@ -549,14 +523,12 @@ Qc7 26. Rde1 Qf4 27. Qd8+ Rg8 28. Re8 1-0
 
 [Event "25th Politiken Cup"]
 [Site "Copenhagen DEN"]
-[Date "2003.07.14"]
 [Round "1"]
 [White "Carlsen,M"]
 [Black "Egeland,M"]
 [Result "1/2-1/2"]
 [WhiteElo "2385"]
 [BlackElo "1990"]
-[EventDate "2003.07.14"]
 [ECO "E50"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 cxd4 7. exd4 b6 8.

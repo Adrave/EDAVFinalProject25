@@ -1,13 +1,11 @@
 [Event "Las Palmas"]
 [Site "Las Palmas ESP"]
-[Date "1977.05.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Roman Hernandez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B72"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "Las Palmas"]
 [Site "Las Palmas ESP"]
-[Date "1977.05.??"]
 [Round "14"]
 [White "Anatoly Karpov"]
 [Black "Fernando Visier Segovia"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "137"]
 [WhiteElo "?"]
 
@@ -50,14 +46,12 @@
 
 [Event "Lloyds Bank Junior Clock Simul"]
 [Site "London ENG"]
-[Date "1977.08.14"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Richard M Webb"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B72"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Lloyds Bank Junior Clock Simul"]
 [Site "London ENG"]
-[Date "1977.08.14"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Julian Michael Hodgson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -93,14 +85,12 @@
 
 [Event "Lloyds Bank Junior Clock Simul"]
 [Site "London ENG"]
-[Date "1977.08.14"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "William Nicholas Watson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -114,14 +104,12 @@
 
 [Event "Simul, 11b"]
 [Site "Utrecht NED"]
-[Date "1977.11.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Maarten D Etmans"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -134,14 +122,12 @@
 
 [Event "Simul, 11b"]
 [Site "Utrecht NED"]
-[Date "1977.11.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Erik Olof"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E80"]
-[EventDate "????.??.??"]
 [PlyCount "129"]
 [WhiteElo "?"]
 
@@ -161,14 +147,12 @@
 
 [Event "Simul, 11b"]
 [Site "Utrecht NED"]
-[Date "1977.11.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Eduard Spanjaard"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E84"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -184,14 +168,12 @@
 
 [Event "Simul, 11b"]
 [Site "Utrecht NED"]
-[Date "1977.11.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Bert Kieboom"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -207,14 +189,12 @@
 
 [Event "Karpov - Korchnoi World Championship Match"]
 [Site "City of Baguio PHI"]
-[Date "1978.08.19"]
 [Round "14"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C82"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -231,14 +211,12 @@
 
 [Event "Waddinxveen"]
 [Site "Waddinxveen NED"]
-[Date "1979.06.18"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Gennady Borisovich Sosonko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B63"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -254,14 +232,12 @@
 
 [Event "Simultan, Internet"]
 [Site "Simultan, Internet"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Lenka Havrdova"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B31"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -274,14 +250,12 @@
 
 [Event "Simultan, Internet"]
 [Site "Simultan, Internet"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "R Misecka"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -295,14 +269,12 @@
 
 [Event "Besancon sim"]
 [Site "Besancon FRA"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Adrien Gering"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "2710"]
 
@@ -318,14 +290,12 @@
 
 [Event "Simul, Koszalin POL"]
 [Site "Simul, Koszalin POL"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Mateusz Piescikowski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A81"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -340,14 +310,12 @@
 
 [Event "Simul, Koszalin POL"]
 [Site "Simul, Koszalin POL"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "O Orzech"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -364,14 +332,12 @@
 
 [Event "Simul, Koszalin POL"]
 [Site "Simul, Koszalin POL"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Leszek Wasilewski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A10"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -385,14 +351,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Bidjukov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D85"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -407,14 +371,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Patiutkin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E86"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -426,14 +388,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Shepilov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E62"]
-[EventDate "????.??.??"]
 [PlyCount "30"]
 [WhiteElo "?"]
 
@@ -445,14 +405,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Igor Plotnikov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E81"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -465,14 +423,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Shajda"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B76"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -488,14 +444,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Riazhskikh"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -510,14 +464,12 @@
 
 [Event "Ch Amateur Team, USA"]
 [Site "Ch Amateur Team USA"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Christopher William"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -529,14 +481,12 @@
 
 [Event "Hoogovens Knockout Final"]
 [Site "Wijk aan Zee NED"]
-[Date "1993.01.28"]
 [Round "5.2"]
 [White "Anatoly Karpov"]
 [Black "Miguel Illescas Cordoba"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "121"]
 [WhiteElo "?"]
 

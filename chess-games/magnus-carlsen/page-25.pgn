@@ -1,6 +1,5 @@
 [Event "Magnus Inv Simul 2017"]
 [Site "Oslo NOR"]
-[Date "2017.02.08"]
 [Round "2.3"]
 [White "Carlsen, M."]
 [Black "Fossan, E."]
@@ -9,7 +8,6 @@
 [WhiteElo "2838"]
 [BlackElo "2344"]
 [PlyCount "114"]
-[EventDate "2017.02.08"]
 [EventType "simul"]
 [EventRounds "2"]
 [EventCountry "NOR"]
@@ -28,7 +26,6 @@ Qe4+ 53. f3 Qc2+ 54. Kh3 Qf5+ 55. Kh4 Qf6+ 56. Kg4 Qe7 57. Qxb6 Qb4+ 0-1
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.25"]
 [Round "4.4"]
 [White "Carlsen, M."]
 [Black "Jobava, Ba"]
@@ -37,7 +34,6 @@ Qe4+ 53. f3 Qc2+ 54. Kh3 Qf5+ 55. Kh4 Qf6+ 56. Kg4 Qe7 57. Qxb6 Qb4+ 0-1
 [WhiteElo "2838"]
 [BlackElo "2701"]
 [PlyCount "132"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -60,7 +56,6 @@ Kb6 0-1
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.25"]
 [Round "16.5"]
 [White "Carlsen, M."]
 [Black "Vachier Lagrave, M."]
@@ -69,7 +64,6 @@ Kb6 0-1
 [WhiteElo "2832"]
 [BlackElo "2796"]
 [PlyCount "114"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -88,7 +82,6 @@ g5 54. Qe3 Kg6 55. h3 Rd3 56. Qb6 Kg7 57. b4 Nd5 0-1
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.24"]
 [Round "5.1"]
 [White "Carlsen, M."]
 [Black "Grischuk, A."]
@@ -97,7 +90,6 @@ g5 54. Qe3 Kg6 55. h3 Rd3 56. Qb6 Kg7 57. b4 Nd5 0-1
 [WhiteElo "2832"]
 [BlackElo "2761"]
 [PlyCount "171"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -121,7 +113,6 @@ Kxb7 86. d6 0-1
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.06.28"]
 [Round "3.2"]
 [White "Carlsen, M."]
 [Black "So, W."]
@@ -130,7 +121,6 @@ Kxb7 86. d6 0-1
 [WhiteElo "2832"]
 [BlackElo "2812"]
 [PlyCount "102"]
-[EventDate "2017.06.28"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -148,7 +138,6 @@ hxg6+ Rxg6 47. b5 Qxb5+ 48. Kc2 Rg2+ 49. Kc3 Qb2+ 50. Kc4 Rc2+ 51. Kd5 Qb3+ 0-1
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.09"]
 [Round "3.1"]
 [White "Carlsen, M."]
 [Black "Bu Xiangzhi"]
@@ -157,7 +146,6 @@ hxg6+ Rxg6 47. b5 Qxb5+ 48. Kc2 Rg2+ 49. Kc3 Qb2+ 50. Kc4 Rc2+ 51. Kd5 Qb3+ 0-1
 [WhiteElo "2827"]
 [BlackElo "2714"]
 [PlyCount "72"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -172,7 +160,6 @@ Kf1 Rg8 28. Qxf5+ Rg6 29. Ke1 h5 30. Kd1 Kh6 31. Nc2 h4 32. Ne1 h3 33. Nf3 Qg2
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.04"]
 [Round "1.22"]
 [White "Carlsen, M."]
 [Black "Guseinov, G."]
@@ -181,7 +168,6 @@ Kf1 Rg8 28. Qxf5+ Rg6 29. Ke1 h5 30. Kd1 Kh6 31. Nc2 h4 32. Ne1 h3 33. Nf3 Qg2
 [WhiteElo "2832"]
 [BlackElo "2645"]
 [PlyCount "76"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -196,7 +182,6 @@ Qf3+ 34. Rf2 Qd3+ 35. Re2 Bxd5 36. cxd5 Qf3+ 37. Rf2 Qh1+ 38. Ke2 Qxa1 0-1
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.18"]
 [Round "3.16"]
 [White "Carlsen, M."]
 [Black "So, W."]
@@ -205,7 +190,6 @@ Qf3+ 34. Rf2 Qd3+ 35. Re2 Bxd5 36. cxd5 Qf3+ 37. Rf2 Qh1+ 38. Ke2 Qxa1 0-1
 [WhiteElo "2832"]
 [BlackElo "2815"]
 [PlyCount "44"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -218,7 +202,6 @@ dxc4 21. Rd1 Qc6 22. h4 Rhd8 0-1
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.18"]
 [Round "3.20"]
 [White "Carlsen, M."]
 [Black "So, W."]
@@ -227,7 +210,6 @@ dxc4 21. Rd1 Qc6 22. h4 Rhd8 0-1
 [WhiteElo "2832"]
 [BlackElo "2815"]
 [PlyCount "80"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -243,7 +225,6 @@ Kf4 Ne6+ 40. Ke5 Nd8 0-1
 
 [Event "Carlsen-Ding Showdown G10"]
 [Site "Saint Louis USA"]
-[Date "2017.11.13"]
 [Round "1"]
 [White "Carlsen, M."]
 [Black "Ding Liren"]
@@ -252,7 +233,6 @@ Kf4 Ne6+ 40. Ke5 Nd8 0-1
 [WhiteElo "2837"]
 [BlackElo "2774"]
 [PlyCount "94"]
-[EventDate "2017.11.13"]
 [EventType "match (blitz)"]
 [EventRounds "8"]
 [EventCountry "USA"]
@@ -269,7 +249,6 @@ Bc3 47. Rf1 Rxf1+ 0-1
 
 [Event "Carlsen-Ding Showdown G5"]
 [Site "Saint Louis USA"]
-[Date "2017.11.14"]
 [Round "3"]
 [White "Carlsen, M."]
 [Black "Ding Liren"]
@@ -278,7 +257,6 @@ Bc3 47. Rf1 Rxf1+ 0-1
 [WhiteElo "2837"]
 [BlackElo "2774"]
 [PlyCount "114"]
-[EventDate "2017.11.14"]
 [EventType "match (blitz)"]
 [EventRounds "12"]
 [EventCountry "USA"]
@@ -296,7 +274,6 @@ Kg3 47. Bb5 Kf3 48. Bc6+ Ke3 49. Bb5 Nh5 50. Kg5 Ng3 51. Kg4 Ne4 52. h5 Nf6+
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.21"]
 [Round "3.18"]
 [White "Carlsen, M."]
 [Black "Grischuk, A."]
@@ -305,7 +282,6 @@ Kg3 47. Bb5 Kf3 48. Bc6+ Ke3 49. Bb5 Nh5 50. Kg5 Ng3 51. Kg4 Ne4 52. h5 Nf6+
 [WhiteElo "2832"]
 [BlackElo "2750"]
 [PlyCount "72"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -320,7 +296,6 @@ Rh2+ 35. Kf1 Qh3+ 36. Ke1 Qg3+ 0-1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.21"]
 [Round "3.24"]
 [White "Carlsen, M."]
 [Black "Grischuk, A."]
@@ -329,7 +304,6 @@ Rh2+ 35. Kf1 Qh3+ 36. Ke1 Qg3+ 0-1
 [WhiteElo "2832"]
 [BlackElo "2750"]
 [PlyCount "116"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -347,7 +321,6 @@ Nf5 Qd5+ 54. Kh2 Qxf5 55. Bd6 Qxf2+ 56. Kh3 Qf1+ 57. Kh2 Qe2+ 58. Kh3 Qe6+ 0-1
 
 [Event "9th London Classic 2017"]
 [Site "London ENG"]
-[Date "2017.12.10"]
 [Round "8.1"]
 [White "Carlsen, M."]
 [Black "Nepomniachtchi, I."]
@@ -356,7 +329,6 @@ Nf5 Qd5+ 54. Kh2 Qxf5 55. Bd6 Qxf2+ 56. Kh3 Qf1+ 57. Kh2 Qe2+ 58. Kh3 Qe6+ 0-1
 [WhiteElo "2837"]
 [BlackElo "2729"]
 [PlyCount "80"]
-[EventDate "2017.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -373,7 +345,6 @@ Qxa1+ 35. Kh2 Qxa5 36. Qc6 Qa4 37. Qxa4 Nxa4 38. c6 Nb6 39. c7 f6 40. Rb3 Nc8
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.27"]
 [Round "9.1"]
 [White "Carlsen, M."]
 [Black "Anand, V."]
@@ -382,7 +353,6 @@ Qxa1+ 35. Kh2 Qxa5 36. Qc6 Qa4 37. Qxa4 Nxa4 38. c6 Nb6 39. c7 f6 40. Rb3 Nc8
 [WhiteElo "2837"]
 [BlackElo "2782"]
 [PlyCount "68"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -397,7 +367,6 @@ Qc2 b5 22. Ng2 Nc5 23. Nf4 Qe7 24. Bg4 Rc7 25. Qc3 f5 26. Bf3 Rcd7 27. Qb4 Nb3
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.28"]
 [Round "15.1"]
 [White "Carlsen, M."]
 [Black "Grischuk, A."]
@@ -406,7 +375,6 @@ Qc2 b5 22. Ng2 Nc5 23. Nf4 Qe7 24. Bg4 Rc7 25. Qc3 f5 26. Bf3 Rcd7 27. Qb4 Nb3
 [WhiteElo "2837"]
 [BlackElo "2772"]
 [PlyCount "120"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -425,7 +393,6 @@ axb5 54. Kf4 Re8 55. Bc3 Rc8 56. Bf6 Rc5 57. Kxe3 Rxd5 58. Ke4 Rd1 59. Kf3 b4
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "11.1"]
 [White "Carlsen, M."]
 [Black "Yu Yangyi"]
@@ -434,7 +401,6 @@ axb5 54. Kf4 Re8 55. Bc3 Rc8 56. Bf6 Rc5 57. Kxe3 Rxd5 58. Ke4 Rd1 59. Kf3 b4
 [WhiteElo "2837"]
 [BlackElo "2751"]
 [PlyCount "76"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Bb4 5. Nd5 Ba5 6. c3 Nge7 7. d4 O-O 8.
@@ -447,7 +413,6 @@ Nd6 15. Ng5 Ng6 16. Nxg6 fxg6 17. Bd2 Qd7 18. h3 c5 19. dxc5 Bxc5+ 20. Kh2 Qc6
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "15.1"]
 [White "Carlsen, M."]
 [Black "Karjakin, Sergey"]
@@ -456,7 +421,6 @@ Nd6 15. Ng5 Ng6 16. Nxg6 fxg6 17. Bd2 Qd7 18. h3 c5 19. dxc5 Bxc5+ 20. Kh2 Qc6
 [WhiteElo "2837"]
 [BlackElo "2760"]
 [PlyCount "57"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nc3 O-O 7. Be3 Bd6 8.
@@ -468,7 +432,6 @@ Rff8 28. Rh7 Rf7 29. Bf6 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "20.1"]
 [White "Carlsen, M."]
 [Black "Korobov, A."]
@@ -477,7 +440,6 @@ Rff8 28. Rh7 Rf7 29. Bf6 1-0
 [WhiteElo "2837"]
 [BlackElo "2652"]
 [PlyCount "115"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 h6 5. Bh4 b6 6. e3 Bb7 7. Nbd2 Be7 8. Bd3
@@ -493,7 +455,6 @@ Na5 47. Ne4+ Kg6 48. Kf4 Nc4 49. Nc5 Na5 50. h4 Kf6 51. Ne4+ Kg6 52. Ng3 Nb7
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "19.1"]
 [White "Carlsen, M."]
 [Black "Artemiev, V."]
@@ -502,7 +463,6 @@ Na5 47. Ne4+ Kg6 48. Kf4 Nc4 49. Nc5 Na5 50. h4 Kf6 51. Ne4+ Kg6 52. Ng3 Nb7
 [WhiteElo "2837"]
 [BlackElo "2691"]
 [PlyCount "129"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 Nb6 7. Nc3 Nc6 8. e3
@@ -519,7 +479,6 @@ Qc1 Qb7+ 54. f3 Ng5 55. Qc6 Qxc6 56. bxc6 Ne6 57. Kf2 b5 58. Ke3 f6 59. Kd2 Kg8
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.06.28"]
 [Round "1.1"]
 [White "Carlsen, Magnus"]
 [Black "Aronian, Levon"]
@@ -527,7 +486,6 @@ Qc1 Qb7+ 54. f3 Ng5 55. Qc6 Qxc6 56. bxc6 Ne6 57. Kf2 b5 58. Ke3 f6 59. Kd2 Kg8
 [WhiteElo "2832"]
 [BlackElo "2793"]
 [ECO "E49"]
-[EventDate "2017.06.28"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
 8. Bxc4 c5 9. Ne2 Qc7 10. Ba2 b6 11. O-O Ba6 12. Bb2 Nc6 13. Rc1 Rfd8 14. 
@@ -541,7 +499,6 @@ Kd7 44. h4 Re1 45. g3 f5 46. Be3 Ke7 47. Kc4 Kf6 48. Kxb4 Ke5 49. Bc2 1-0
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.26"]
 [Round "1.1"]
 [White "Carlsen, Magnus"]
 [Black "Bu, Xiangzhi"]
@@ -549,7 +506,6 @@ Kd7 44. h4 Re1 45. g3 f5 46. Be3 Ke7 47. Kc4 Kf6 48. Kxb4 Ke5 49. Bc2 1-0
 [WhiteElo "2837"]
 [BlackElo "2730"]
 [ECO "A25"]
-[EventDate "2017.12.26"]
 
 1. c4 Nf6 2. Nc3 e5 3. e3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Be7 7. Nf3 O-O 
 8. b4 Nxc3 9. dxc3 Qd6 10. Bd3 f5 11. e4 f4 12. h3 a5 13. Bb2 Bf6 14. Rd1 
@@ -561,7 +517,6 @@ Qe7 15. O-O Be6 16. Qe2 Qf7 17. Rd2 g5 18. b5 Ne7 19. c4 Ng6 20. Nh2 Rad8
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.05"]
 [Round "4.1"]
 [White "Carlsen, Magnus"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -569,7 +524,6 @@ Qe7 15. O-O Be6 16. Qe2 Qf7 17. Rd2 g5 18. b5 Ne7 19. c4 Ng6 20. Nh2 Rad8
 [WhiteElo "2822"]
 [BlackElo "2791"]
 [ECO "A34"]
-[EventDate "2017.08.02"]
 
 1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. dxc3 Qxd1+ 7. 
 Kxd1 Bf5 8. Nd2 Nc6 9. e4 Bg6 10. Bb5 Rc8 11. h4 h5 12. Re1 e6 13. a4 Be7 
@@ -587,7 +541,6 @@ f3 62. Ke3 Kf6 63. b4 c4 64. Bd5 Kf5 65. Bxc4 Kg4 66. Kf2 Ng6 67. Be6+ Kf4
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.03"]
 [Round "2.1"]
 [White "Carlsen, Magnus"]
 [Black "Karjakin, Sergey"]
@@ -595,7 +548,6 @@ f3 62. Ke3 Kf6 63. b4 c4 64. Bd5 Kf5 65. Bxc4 Kg4 66. Kf2 Ng6 67. Be6+ Kf4
 [WhiteElo "2822"]
 [BlackElo "2773"]
 [ECO "A05"]
-[EventDate "2017.08.02"]
 
 1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. e4 d6 6. d3 g6 7. a3 Bg7 8. c3
 O-O 9. b4 a6 10. Nbd2 b5 11. Rb1 Nd7 12. Nb3 cxb4 13. axb4 Nb6 14. Be3 Be6
@@ -608,7 +560,6 @@ Qg6 39. Qd8 Be6 40. Ng5+ Kg7 41. Qxd4 Na4 42. Nh3 1-0
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.11"]
 [Round "9.1"]
 [White "Carlsen, Magnus"]
 [Black "Aronian, Levon"]
@@ -616,7 +567,6 @@ Qg6 39. Qd8 Be6 40. Ng5+ Kg7 41. Qxd4 Na4 42. Nh3 1-0
 [WhiteElo "2822"]
 [BlackElo "2809"]
 [ECO "C88"]
-[EventDate "2017.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. a4 b4 9. a5 d6 10. d3 Be6 11. Bxe6 fxe6 12. Nbd2 Rb8 13. c3 Qe8 14. Nc4

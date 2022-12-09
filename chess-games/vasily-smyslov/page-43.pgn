@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "16"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bronstein David I (RUS)"]
@@ -26,7 +25,6 @@ Rb7 54.Rxg6 Rxd3 55.Rxd3 Kc4 56.Rd1 d3 57.Rc1+ 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Filip Miroslav (CZE)"]
@@ -51,7 +49,6 @@ Kg8 37.Kh2 Re8 38.Bxf6 Qxf6 39.Rd4 Nb6 40.Rxc8 Nxc8 41.Qd3 h5
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -74,7 +71,6 @@ Re8 31.Bc1 exf2+ 32.Rxf2 Qh5 33.Bb2 Rf7 34.Rbf3 Re1+ 35.Rf1 Re4
 
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Panno Oscar (ARG)"]
@@ -97,7 +93,6 @@ Rg3 36.Kh2 h4 37.Qf4 g5 38.Qf5 Qc7 39.Kh1 Qc8 40.Rd7 Qc1+ 41.Kh2 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -121,7 +116,6 @@ Kd6 43.c4 Bf7 44.Bd3 Ke7 45.Be4 Rd6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -145,7 +139,6 @@ Be3 31.fxe4 fxe4 32.Qc4 Rh7 33.Qxe4 Rhd7 34.Rd3 Bg5 35.Qf3 Rxd5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -166,7 +159,6 @@ Rdc8 25.Bxc8 Rxc8 26.Nxd5 Rxc6+ 27.Kd2 Ke6 28.Nc3 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -190,7 +182,6 @@ Kd7+ 36.Kd2 Re6 37.Rg5 g6 38.Rd5+ Kc8 39.Bg1 Rf6 40.Bxd4 Nxd4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -214,7 +205,6 @@ g5 37.Nfe3 Ned6 38.Bxd6 Nxd6 39.Bd3 Rb7 40.Reb2 h6 41.Qf3 Ba7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -238,7 +228,6 @@ Ra1+ 41.Kb2 Ra5 42.Rd3 Ra8 43.Kb3 Ra5 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -262,7 +251,6 @@ Nd8 30.g4 fxg4 31.fxg4 Nec6 32.Ne2 Kg8 33.Kf2 Kf8 34.Ke1 Nf7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "16"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -288,7 +276,6 @@ Kf8 53.Kf3 Qc3 54.Qa8+ Kf7 55.Qd5+ 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "18"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -315,7 +302,6 @@ Bc8 60.Bc1 Kd5 61.Ba3 Bd7 62.Bc1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "20"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -338,7 +324,6 @@ Raf7 37.a4 g5 38.Rb5 g4 39.a5 f4 40.hxg4 hxg4 41.a6 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "22"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -356,7 +341,6 @@ Bxf6 8.Bxf6 Qxf6 9.Qd2 O-O 10.Qg5 Qxg5 11.Nxg5 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Vienna (Austria)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Filip Miroslav (CZE)"]
@@ -379,7 +363,6 @@ hxg4 31.h5+ Kxh5 32.Qg7 g3 33.Bxg3 Kg4 34.Rg1 Rh8+ 35.Bh2+ Kh4
 
 [Event "Ch Europe (team)"]
 [Site "Vienna (Austria)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -399,7 +382,6 @@ Qe7 14.Rfd1 Bf5 15.Nxb6 axb6 16.Bc4 Rfd8 17.Qe2 c6 18.e4 Be6
 
 [Event "Ch Europe (team)"]
 [Site "Vienna (Austria)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -423,7 +405,6 @@ Bxe4 42.Nxe4 Qa3 43.Rcf1 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -442,7 +423,6 @@ Qc4 14.c3 Nxd4 15.cxd4 Be6 16.Qb3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -465,7 +445,6 @@ Kf7 36.h6 Rh3 37.Rg7+ Kf6 38.Rh7 Rh4 39.Kc3 Rh3+ 40.Kb2 Rh4 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "13"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -488,7 +467,6 @@ Ke7 37.Bf4 Bb6 38.Bxd6+ Qxd6 39.Qxd6+ Kxd6 40.Bb5 Bd8 41.f4 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "17"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -513,7 +491,6 @@ bxc5 42.bxc5 h4+ 43.Kh2 Qb8+ 44.Kg1 Qc7 45.Qa3 Kf7 46.Qb4 Qc6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "21"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -533,7 +510,6 @@ Rg8 19.g3 h5 20.fxe6 Kxe6 21.Rf2 h4 22.gxh4 Rh8 23.Nd1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "23"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -556,7 +532,6 @@ Ng5 32.Nxg5 hxg5 33.a4 Be8 34.Bg4 a5 35.Bd1 Rbc8 36.Rfc2 Bd7
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Prameshuber Alexander (AUT)"]

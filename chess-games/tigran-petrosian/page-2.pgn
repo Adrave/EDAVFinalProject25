@@ -1,6 +1,5 @@
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Andersson Ulf (SWE)"]
@@ -21,7 +20,6 @@ Rc8 25.h4 Rd7 26.Rxd7 Nxd7 27.Nd4 a6 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivanovic Bozidar (SCG)"]
@@ -45,7 +43,6 @@ Bb6 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -70,7 +67,6 @@ Nh4 48.Nf3 Ng6 49.b3 Nf8 1-0
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -94,7 +90,6 @@ fxe6 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Najdorf Miguel (POL)"]
@@ -115,7 +110,6 @@ exd4 25.Qxd4 Qxd4 26.Rxd4 Nb6 27.e4 g5 28.Nb7 Bf8 29.Nc5 Nc4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -133,7 +127,6 @@ b6 8.cxd5 Nxd5 9.Bb2 Bb7 10.Nc3 c5 11.Nxd5 Bxd5 12.Qd2 Rc8 13.dxc5 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Timman Jan H (NED)"]
@@ -156,7 +149,6 @@ Rc5 36.Nh4 Rce5 37.Rc8 Re8 38.Rxc6 b4 39.a4 Rd8 40.Nf5 Re5 1-0
 
 [Event "Cup URS (team)"]
 [Site "Kislovodsk (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein David I (RUS)"]
@@ -179,7 +171,6 @@ Qe7 37.Nd3 Be4 38.c6 Bxc6 39.Nb4 Qe6 40.c5 Be4 41.Rc1 Ref8 42.Bc4 1-0
 
 [Event "Cup URS (team)"]
 [Site "Kislovodsk (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -202,7 +193,6 @@ h4 31.gxh4 f4 32.Bxe4 Qe7 33.Qf3 Qxh4 34.Bxb6 Bxh3 35.Bd4 Qg5+
 
 [Event "Cup URS (team)"]
 [Site "Kislovodsk (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Palatnik Semon (USA)"]
@@ -225,7 +215,6 @@ Nd4 25.Bxd4 Rxd4 26.Nc3 Qxf4 27.Ne2 Qh2+ 28.Kf1 Rb4 29.Qd5 Rxb2
 
 [Event "Cup URS (team)"]
 [Site "Kislovodsk (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Rashkovsky Nukhim N (RUS)"]
@@ -248,7 +237,6 @@ Qh6 31.Nc7 Ra3 32.Bxd7 Nxd7 33.Qb2 Ra7 34.b4 Qf4 35.Qc1 Qxc1
 
 [Event "Izt"]
 [Site "Las Palmas (Spain)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bouaziz Slim (TUN)"]
@@ -269,7 +257,6 @@ Bd7 20.f5 Bc6 21.Bg2 Kb7 22.Bg3 f6 23.Nd5 Nbxd5 24.exd5 Nxd5
 
 [Event "Izt"]
 [Site "Las Palmas (Spain)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Karlsson Lars (SWE)"]
@@ -292,7 +279,6 @@ Bxg4 32.fxg4 Qxg4 33.Qe4 Rg8 34.h3 Qd1 35.Kh2 Qa1 36.Qb1 Qxb1
 
 [Event "Izt"]
 [Site "Las Palmas (Spain)"]
-[Date "1982.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Larsen Bent (DEN)"]
@@ -312,7 +298,6 @@ a6 14.b3 Rab8 15.Qb2 e5 16.Nf5 g6 17.Ne3 c6 18.b4 h5 19.h3 h4
 
 [Event "Izt"]
 [Site "Las Palmas (Spain)"]
-[Date "1982.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Psakhis Lev (ISR)"]
@@ -334,7 +319,6 @@ Qb8 26.Nc6 Qb7 27.Bf1 f5 28.Qxa6 Rxa6 29.Bxa6 Bxc6 30.Bxb7 Bxb7
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Browne Walter S (USA)"]
@@ -358,7 +342,6 @@ Qe7 37.Bg3 Rf7 38.Rfc1 Kg8 39.Rc6 Kf8 40.Bxd6 cxd6 41.Qg3 Rh4
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sosonko Gennadi (NED)"]
@@ -380,7 +363,6 @@ Kh6 31.g4 fxg4 32.f5+ Bxe3 33.Qxe3+ Kh5 34.fxg6 1-0
 
 [Event "Memorial P.Keres"]
 [Site "Tallinn (Estonia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Oll Lembit (EST)"]
@@ -399,7 +381,6 @@ Kh6 31.g4 fxg4 32.f5+ Bxe3 33.Qxe3+ Kh5 34.fxg6 1-0
 
 [Event "Memorial P.Keres"]
 [Site "Tallinn (Estonia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Psakhis Lev (ISR)"]
@@ -418,7 +399,6 @@ O-O 8.Bg5 Be7 9.e3 d6 10.Be2 Nbd7 11.O-O a6 12.b4 b6 13.Qb3 Bb7
 
 [Event "Memorial P.Keres"]
 [Site "Tallinn (Estonia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Szekely Peter (HUN)"]
@@ -441,7 +421,6 @@ Kh7 38.Nb5 Qe7 39.Bg5 Bf6 40.Nc3 Qc7 41.Ne2 Bg7 42.Ng1 Bd7 1/2-1/2
 
 [Event ""]
 [Site "URS"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivanov Alexander (USA)"]
@@ -464,7 +443,6 @@ Rf7 37.Rf1 Kg7 38.Kf2 Rf8 39.Bg2 Re8 40.Ra1 Re7 41.Be4 1/2-1/2
 
 [Event "Spartakiada URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.07.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lputian Smbat G (ARM)"]
@@ -485,7 +463,6 @@ Nxf5 25.Re5 Ne7 26.f4 Rcd8 27.g4 Kf8 28.Ne2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Agzamov Georgy T (RUS)"]
@@ -493,7 +470,6 @@ Nxf5 25.Re5 Ne7 26.f4 Rcd8 27.g4 Kf8 28.Ne2 1/2-1/2
 [ECO "E11"]
 [WhiteElo "2580"]
 [PlyCount "70"]
-[EventDate "1983.??.??"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. Qc2 Nc6 6. Nc3 d5 7. e3 O-O 8. a3
 Bxc3 9. Bxc3 Ne4 10. b4 a6 11. Bb2 f5 12. Be2 Rf6 13. Rc1 Qe8 14. Ne5 Ne7 15.
@@ -505,14 +481,12 @@ Qg7 35. Nc1 Qf6 1/2-1/2
 
 [Event "50th USSR Championship"]
 [Site "Moscow URS"]
-[Date "1983.04.22"]
 [Round "14"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Georgy Tadzhikanovich Agzamov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "1983.04.03"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -527,14 +501,12 @@ Qg7 35. Nc1 Qf6 1/2-1/2
 
 [Event "50th USSR Championship"]
 [Site "Moscow URS"]
-[Date "1983.04.09"]
 [Round "6"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Konstantin Zaivelevich Lerner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "1983.04.03"]
 [PlyCount "177"]
 [WhiteElo "?"]
 

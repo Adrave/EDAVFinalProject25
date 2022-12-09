@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Krakow (Poland)"]
-[Date "1941.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -25,7 +24,6 @@ Kg7 41.Qxa7 h5 42.Qxb7 Rc2 43.g4 Nh7 44.Qb3 hxg4+ 45.fxg4 Re2
 
 [Event "It"]
 [Site "Krakow (Poland)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kieninger Georg (GER)"]
@@ -47,7 +45,6 @@ gxf5 21.exf5 e4 22.Nxe4 Nbd7 23.Bd2 f6 24.Bc3 Ne5 25.gxf6 Qf7
 
 [Event "It"]
 [Site "Krakow (Poland)"]
-[Date "1941.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Schmidt Paul F (EST)"]
@@ -71,7 +68,6 @@ Bd4 36.Bf5 Qe2 37.Rh7+ Kg8 38.Rc1 Bc5 39.Rb7 Qxa2 40.Re1 Kf8
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -95,7 +91,6 @@ Bf5 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Cortlever Nicolaas (NED)"]
@@ -118,7 +113,6 @@ Kg8 30.Nxf6+ gxf6 31.Rxd7 Nxd7 32.Bd4 a6 33.Rb7 Ne5 34.f4 Rd8
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nielsen Bjorn"]
@@ -147,7 +141,6 @@ g3 69.h5 f4+ 70.Kf3 Ke6 0-1
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rabar Braslav (YUG)"]
@@ -169,7 +162,6 @@ Rd8 25.f3 Bc8 26.Rxd8+ Qxd8 27.Qd3 Qa5 28.Qd2 Bg5 29.Bf4 Bxf4
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rethy Pal (HUN)"]
@@ -191,7 +183,6 @@ g5 26.Rfd3 Kg7 27.Bxd5 cxd5 28.Rxd5 Rxd5 29.Qxd5 Rc8 30.Qd7 Re8
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rohacek Ivan V (CZE)"]
@@ -213,7 +204,6 @@ d2 31.Rc2 Qa6 32.Rd1 Bg7 33.Rxc7 1-0
 
 [Event ""]
 [Site "Warsaw (Poland)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -233,7 +223,6 @@ Ke7 18.Qc5+ Kf7 19.Rxh7+ Kg8 20.Qe7 1-0
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1942.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Foltys Jan (CZE)"]
@@ -258,7 +247,6 @@ e2 48.Kf2 Kxg6 49.Rxe5 Bc4 50.Re3 Kxf6 51.Re8 1/2-1/2
 
 [Event "It \"Duras-60\""]
 [Site "Prague (Czech Republic)"]
-[Date "1942.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Foltys Jan (CZE)"]
@@ -279,7 +267,6 @@ Qc6 25.Reb1 Rfb8 26.Ra5 h6 27.Bf4 Rc8 1/2-1/2
 
 [Event "It \"Duras-60\""]
 [Site "Prague (Czech Republic)"]
-[Date "1942.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Thelen Bedrich (CZE)"]
@@ -304,7 +291,6 @@ Nf4 48.Nf3 bxc6 1/2-1/2
 
 [Event "It \"Duras-60\""]
 [Site "Prague (Czech Republic)"]
-[Date "1942.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Zita Frantisek (CZE)"]
@@ -328,7 +314,6 @@ Ne6 42.Rd6 Nc5 43.Rc6 Nb7 44.Be4 Nc5 45.Bf5 1/2-1/2
 
 [Event "It"]
 [Site "Salzburg (Austria)"]
-[Date "1942.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Junge Klaus (CHI)"]
@@ -356,7 +341,6 @@ Ke2 66.Kg2 Rb2 67.Ng3+ Ke3+ 68.Kh3 Kxf3 69.Nh5 Rb6 0-1
 
 [Event "It"]
 [Site "Salzburg (Austria)"]
-[Date "1942.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Schmidt Paul F (EST)"]
@@ -378,7 +362,6 @@ Kf8 20.fxe4 Qh4 21.e5 Bxd1 22.exd6 Qg4+ 23.Kf1 cxd6 24.d5 Qh3+
 
 [Event "It"]
 [Site "Salzburg (Austria)"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Stoltz Gosta (SWE)"]
@@ -408,14 +391,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "Munich"]
 [Site "Munich GER"]
-[Date "1941.09.15"]
 [Round "10"]
 [White "Alexander Alekhine"]
 [Black "Ivan Vladimir Rohacek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C83"]
-[EventDate "1941.09.08"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -430,14 +411,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "Madrid"]
 [Site "Club Real Madrid, Madrid ESP"]
-[Date "1941.12.03"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Manuel Cifuentes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B54"]
-[EventDate "1941.12.01"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -450,14 +429,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "Madrid"]
 [Site "Club Real Madrid, Madrid ESP"]
-[Date "1941.12.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Manuel De Agustin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C40"]
-[EventDate "1941.12.01"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -470,14 +447,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "Salzburg"]
 [Site "Salzburg AUT"]
-[Date "1942.06.13"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Paul Keres"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C86"]
-[EventDate "1942.06.09"]
 [PlyCount "111"]
 [WhiteElo "?"]
 
@@ -495,14 +470,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "Salzburg"]
 [Site "Salzburg AUT"]
-[Date "1942.06.11"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Klaus Junge"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "1942.06.09"]
 [PlyCount "138"]
 [WhiteElo "?"]
 
@@ -522,14 +495,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "Munich"]
 [Site "Munich GER"]
-[Date "1942.09.20"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Kurt Paul Otto Joseph Richter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "1942.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -546,14 +517,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "Munich"]
 [Site "Munich GER"]
-[Date "1942.09.18"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Paul Keres"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "1942.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -568,14 +537,12 @@ Ka3 76.Qd4 Qh2 77.Qc5+ Ka2 78.e8Q Qf4+ 79.Kg7 Qg3+ 80.Kf8 1-0
 
 [Event "3rd General Government"]
 [Site "Krakow POL"]
-[Date "1942.10.22"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "Werner-Eberhard Kunerth"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D46"]
-[EventDate "1942.10.12"]
 [PlyCount "113"]
 [WhiteElo "?"]
 

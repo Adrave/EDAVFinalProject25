@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Begunov N"]
@@ -22,7 +21,6 @@ Rc8 30.h4+ Kf6 31.e4 Kxf7 32.Rxf5+ 1-0
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kalinin I"]
@@ -43,7 +41,6 @@ Qd7 14.Qf3 Rae8 15.Nf1 Nd8 16.h4 Bxe3 17.fxe3 Ne6 18.N1g3 Nc5
 
 [Event "Match"]
 [Site "Leningrad (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Liutov N"]
@@ -65,7 +62,6 @@ Rd2 31.Qc3 Qb6+ 32.Bc5 Qc7 33.Qxd2 Qxc5+ 34.Qf2 1-0
 
 [Event "Match"]
 [Site "Leningrad (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rivlin B"]
@@ -85,7 +81,6 @@ Bxc4 20.Qxc4+ Ne6 21.Rd6 1-0
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rivlin B"]
@@ -107,7 +102,6 @@ Ke7 29.a4 bxa4 30.Nxa4 Kd7 31.Nc5+ Kc6 32.Nxe4 dxe4 33.f3 1-0
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Schebarschin M"]
@@ -129,7 +123,6 @@ Nc4 25.Bxc5 Qxd7 26.Bd4 Re8 27.Nc5 Nxc5 28.Rxc5 Bc6 29.Qd3 Bxa4
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rabinovich Ilya L (RUS)"]
@@ -154,7 +147,6 @@ Rh1 47.Nf4+ Kd4 48.Rc6 c2 49.Kg2 Rh4 50.Kg3 Rh1 1/2-1/2
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Shebarschin M"]
@@ -187,7 +179,6 @@ Rh4 93.Re1+ Kd7 94.Kf7 Rf4+ 95.Kg6 Rg4+ 96.Kf6 Rg3 97.Re5 1-0
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kagan Moisey"]
@@ -212,7 +203,6 @@ Ng4 42.Nxg4 hxg4 43.Kf2 Kg7 44.Ke3 Kf6 45.Kd4 Rf5 46.Re2 Rf3
 
 [Event "Match \"Stockholm-Leningrad\""]
 [Site "Stockholm (Sweden)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Stoltz Gosta (SWE)"]
@@ -234,14 +224,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1952.02.13"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Vasily Smyslov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E42"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -254,14 +242,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1952.10.24"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C83"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -277,14 +263,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1941.03.11"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E67"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -297,14 +281,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Andrey Khachaturov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -319,14 +301,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Games"]
 [Site "?"]
-[Date "1944.05.11"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -345,14 +325,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training"]
 [Site "Training"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D14"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -368,14 +346,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1946.07.13"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -390,14 +366,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1946.07.16"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D13"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -413,14 +387,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1951.03.07"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C89"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -434,14 +406,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1936.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A09"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -457,14 +427,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "USSR"]
 [Site "USSR"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Evsey Poliak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D46"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -477,14 +445,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "11th USSR Championship Semifinal"]
 [Site "Leningrad URS"]
-[Date "1938.05.23"]
 [Round "4"]
 [White "Mikhail Botvinnik"]
 [Black "Vitaly Chekhover"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E21"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -500,14 +466,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Match"]
 [Site "Moscow URS"]
-[Date "1938.10.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D38"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -521,14 +485,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "11th USSR Championship Semifinal"]
 [Site "Leningrad URS"]
-[Date "1938.06.13"]
 [Round "17"]
 [White "Mikhail Botvinnik"]
 [Black "Vladimir Andreevich Makogonov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -542,14 +504,12 @@ Nxe6 31.Rxe6 1-0
 
 [Event "Training Match"]
 [Site "Moscow URS"]
-[Date "1938.10.10"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viacheslav Ragozin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C65"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 

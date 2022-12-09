@@ -1,6 +1,5 @@
 [Event "It (cat.17)"]
 [Site "Bermuda"]
-[Date "2005.01.30"]
 [Round "1"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Volokitin Andrei (UKR)"]
@@ -24,7 +23,6 @@ Bc4 42.a7 Bd3 43.Qc6 Rg4 44.a8Q Bxe4 45.Qae8+ Kf5 46.Qxh5+ 1-0
 
 [Event "It (cat.17)"]
 [Site "Bermuda"]
-[Date "2005.02.07"]
 [Round "8"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Vescovi Giovanni (BRA)"]
@@ -53,7 +51,6 @@ Bxe6 70.fxe6 Qe7+ 71.Kg3 Qa3+ 72.Kg4 Kxg2 73.Qe4+ Kf2 74.e7 1-0
 
 [Event "It (cat.16)"]
 [Site "Cuernavaca (Mexico)"]
-[Date "2006.02.05"]
 [Round "3"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Felgaer Ruben (ARG)"]
@@ -76,7 +73,6 @@ Be5 31.g3 Qd2 32.Qxe5 Qxe1+ 33.Kg2 e3 34.Qxf5 e2 35.Qg5+ Kh8
 
 [Event "It (cat.16)"]
 [Site "Cuernavaca (Mexico)"]
-[Date "2006.02.09"]
 [Round "7"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -106,7 +102,6 @@ Kh7 77.Kc5 Bf3 78.b4 cxb3 79.Kb4 b2 80.Bxb2 Bd1 81.Bc1 Bb3 82.Kc5 1/2-1/2
 
 [Event "Ch Cuba (KO System)"]
 [Site "Santa Clara (Cuba)"]
-[Date "2006.04.05"]
 [Round "1"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Nogueiras Jesus (CUB)"]
@@ -132,7 +127,6 @@ Rxa4 47.Rxh2 Kd7 48.Rh7 Ra5+ 49.Kg6 Ra6+ 50.Kf7 Rf6+ 51.Kg7 Ke6
 
 [Event "Ch Cuba (KO System)"]
 [Site "Santa Clara (Cuba)"]
-[Date "2006.04.08"]
 [Round "2"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Quezada Yuniesky (CUB)"]
@@ -159,7 +153,6 @@ Kf5 1/2-1/2
 
 [Event "Ch Cuba (KO System)"]
 [Site "Santa Clara (Cuba)"]
-[Date "2006.04.13"]
 [Round "3"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -180,7 +173,6 @@ Kf7 25.g3 Ne5 26.Kg2 b4 27.Bd4 Nc4 28.Rc6 Na5 29.Ra6 Nc4 30.Rc6 1/2-1/2
 
 [Event "Ch Cuba (KO System)"]
 [Site "Santa Clara (Cuba)"]
-[Date "2006.04.14"]
 [Round "3"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -201,7 +193,6 @@ Rxd6 25.Rxd6 Nd3 26.Bxd3 cxd3 27.Rxd3 Bxa2 1/2-1/2
 
 [Event "Ch Cuba (KO System)"]
 [Site "Santa Clara (Cuba)"]
-[Date "2006.04.14"]
 [Round "3"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -230,7 +221,6 @@ Kb7 71.Ke6 Rf4 72.Rf5 Rh4 73.Kf6 Kc6 74.Kg6 Kd7 75.h6 Ke7 76.h7 1-0
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.22"]
 [Round "2"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Navara David (CZE)"]
@@ -254,7 +244,6 @@ Kg5 42.Qxg7+ Kh4 43.g3+ 1-0
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.23"]
 [Round "3"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Cubas Jose Fernando (PAR)"]
@@ -278,7 +267,6 @@ Rf7 38.Ne5 Rff8 39.Nxg6 Ne4 40.Bd2 Nf7 41.f3 Nf6 42.Be2 Rfg8
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.25"]
 [Round "5"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Milos Gilberto (BRA)"]
@@ -303,7 +291,6 @@ Qd6+ 42.Kxa5 Qa3+ 43.Kb6 Qd6+ 44.Qc6 Qb4+ 45.Kc7 Qxb3 46.h5 Qg3+
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.27"]
 [Round "6"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Gashimov Vugar (AZE)"]
@@ -323,7 +310,6 @@ Nxd5 14.Bxg7 Kxg7 15.exd5 Qa5 16.Qd4+ Kg8 17.h4 Rac8 18.h5 Bf5
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.30"]
 [Round "9"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Jussupow Artur (GER)"]
@@ -345,7 +331,6 @@ Nxa5 26.h6 Ba4 27.hxg7 Qxg7 28.Bg5 Bxc2 29.Nf4 Re8 30.Bf6 Qd7
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.06.02"]
 [Round "11"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Gareev Timur (UZB)"]
@@ -373,7 +358,6 @@ Ne3 60.Nf8+ Ke8 61.Ne6 Rg1+ 62.Kf4 Nd5+ 63.Ke5 Nxe7 64.dxe7 Kxe7
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.06.03"]
 [Round "12"]
 [White "Dominguez Lenier (CUB)"]
 [Black "Svidler Peter (RUS)"]
@@ -399,7 +383,6 @@ Qe4+ 52.Kf2 Qf5+ 53.Kg1 Qb1+ 54.Kh2 1-0
 
 [Event "Magistral Barcelona Casino"]
 [Site "Barcelona ESP"]
-[Date "2006.10.25"]
 [Round "7"]
 [White "Dominguez, L."]
 [Black "Narciso Dublan, Marc"]
@@ -407,7 +390,6 @@ Qe4+ 52.Kf2 Qf5+ 53.Kg1 Qb1+ 54.Kh2 1-0
 [WhiteElo "2655"]
 [BlackElo "2511"]
 [ECO "B01"]
-[EventDate "2006.10.09"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Bg4 6. Be3 Nd7 7. h3 Bh5 
 8. g4 Bg6 9. d5 cxd5 10. Qxd5 Qxd5 11. Nxd5 O-O-O 12. O-O-O Ngf6 13. Nc3 
@@ -420,7 +402,6 @@ Kd3 Bd4 38. Bc3 1-0
 
 [Event "Magistral Barcelona Casino"]
 [Site "Barcelona ESP"]
-[Date "2006.10.21"]
 [Round "3"]
 [White "Dominguez, L."]
 [Black "Korneev, Oleg"]
@@ -428,7 +409,6 @@ Kd3 Bd4 38. Bc3 1-0
 [WhiteElo "2655"]
 [BlackElo "2657"]
 [ECO "C74"]
-[EventDate "2006.10.09"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O Bd3 
 8. Re1 Be7 9. Bc2 Bxc2 10. Qxc2 Nf6 11. d4 e4 12. Ng5 d5 13. f3 h6 14. Nh3
@@ -442,7 +422,6 @@ Re8+ Kh7 39. Rg4 Rde7 40. Rb8 Rb7 41. Rd8 Rbd7 42. Rb8 Rb7 43. Rd8 Rbd7
 
 [Event "Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2006.11.30"]
 [Round "10"]
 [White "Dominguez, L."]
 [Black "Nogueiras Santiago, Jesus"]
@@ -450,7 +429,6 @@ Re8+ Kh7 39. Rg4 Rde7 40. Rb8 Rb7 41. Rd8 Rbd7 42. Rb8 Rb7 43. Rd8 Rbd7
 [WhiteElo "2655"]
 [BlackElo "2554"]
 [ECO "C11"]
-[EventDate "2006.11.21"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. 
 dxc5 O-O 9. Be2 Bxc5 10. Qd2 Bxe3 11. Qxe3 f6 12. exf6 Nxf6 13. Nd4 
@@ -459,7 +437,6 @@ dxc5 O-O 9. Be2 Bxc5 10. Qd2 Bxe3 11. Qxe3 f6 12. exf6 Nxf6 13. Nd4
 
 [Event "Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2006.11.28"]
 [Round "8"]
 [White "Dominguez, L."]
 [Black "Ivanchuk, Vassily"]
@@ -467,7 +444,6 @@ dxc5 O-O 9. Be2 Bxc5 10. Qd2 Bxe3 11. Qxe3 f6 12. exf6 Nxf6 13. Nd4
 [WhiteElo "2655"]
 [BlackElo "2741"]
 [ECO "B07"]
-[EventDate "2006.11.21"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. Nf3 Bg4 7. Bh6 Bxh6 
 8. Qxh6 Nbd7 9. Be2 Qa5 10. h3 Bxf3 11. Bxf3 c5 12. O-O-O Rc8 13. Kb1 cxd4
@@ -478,7 +454,6 @@ Ka1 1/2-1/2
 
 [Event "Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2006.11.24"]
 [Round "4"]
 [White "Dominguez, L."]
 [Black "Bruzon Batista, Lazaro"]
@@ -486,7 +461,6 @@ Ka1 1/2-1/2
 [WhiteElo "2655"]
 [BlackElo "2648"]
 [ECO "C95"]
-[EventDate "2006.11.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
  c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
@@ -498,7 +472,6 @@ Qb6 33. f5 gxf5 34. Nxf5 Qxe3 35. Rxe3 Be5 36. Ne7+ 1/2-1/2
 
 [Event "Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2006.11.21"]
 [Round "1"]
 [White "Dominguez, L."]
 [Black "Miton, Kamil"]
@@ -506,7 +479,6 @@ Qb6 33. f5 gxf5 34. Nxf5 Qxe3 35. Rxe3 Be5 36. Ne7+ 1/2-1/2
 [WhiteElo "2655"]
 [BlackElo "2638"]
 [ECO "C88"]
-[EventDate "2006.11.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. h3 Bb7 9. d3 d6 10. a3 Nd7 11. Be3 Bf6 12. Bd5 Rb8 13. Nc3 Nd4 14. Bxb7
@@ -520,7 +492,6 @@ Bxh6 Rxb6 45. Rxb6 Bxb6 46. Bd2 1/2-1/2
 
 [Event "Magistral Barcelona Casino"]
 [Site "Barcelona ESP"]
-[Date "2006.10.27"]
 [Round "9"]
 [White "Dominguez, L."]
 [Black "Ivanchuk, Vassily"]
@@ -528,7 +499,6 @@ Bxh6 Rxb6 45. Rxb6 Bxb6 46. Bd2 1/2-1/2
 [WhiteElo "2655"]
 [BlackElo "2741"]
 [ECO "B06"]
-[EventDate "2006.10.09"]
 
 1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 a6 5. f4 b5 6. Bd3 Bb7 7. Nf3 Nd7 8. 
 e5 Nh6 9. Qe2 Nb6 10. O-O-O Qd7 11. Rhg1 O-O 12. g4 Nxg4 13. Ng5 Nxe3 14. 
@@ -546,7 +516,6 @@ Kf6 55. Bc4 Nf5 56. Ke4 h5 57. Be2 h4 58. Bg4 Nd6+ 59. Kf4 Nb7 60. Bf5 Nc5
 
 [Event "Magistral Barcelona Casino"]
 [Site "Barcelona ESP"]
-[Date "2006.10.23"]
 [Round "5"]
 [White "Dominguez, L."]
 [Black "Lacasa Diaz, Jose Antonio"]
@@ -554,7 +523,6 @@ Kf6 55. Bc4 Nf5 56. Ke4 h5 57. Be2 h4 58. Bg4 Nd6+ 59. Kf4 Nb7 60. Bf5 Nc5
 [WhiteElo "2655"]
 [BlackElo "2410"]
 [ECO "B80"]
-[EventDate "2006.10.09"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Nc6 7. Qd2 Be7 
 8. f3 O-O 9. g4 d5 10. g5 Nxd4 11. Qxd4 Nh5 12. O-O-O Bxg5 13. Kb1 Bxe3 
@@ -568,7 +536,6 @@ Re6 26. hxg6 hxg6 27. a4 a6 28. Rf5 Qd8 29. Rd5 Qf6 30. a5 Rb8 31. b3 Rbe8
 
 [Event "Capablanca Memorial Elite"]
 [Site "Havana CUB"]
-[Date "2006.11.22"]
 [Round "2"]
 [White "Dominguez, L."]
 [Black "Bareev, Evgeny"]
@@ -576,7 +543,6 @@ Re6 26. hxg6 hxg6 27. a4 a6 28. Rf5 Qd8 29. Rd5 Qf6 30. a5 Rb8 31. b3 Rbe8
 [WhiteElo "2655"]
 [BlackElo "2683"]
 [ECO "C18"]
-[EventDate "2006.11.21"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 
 8. Bd3 Nbc6 9. Bg5 Qa5 10. Ne2 Ng6 11. O-O c4 12. Bxg6 fxg6 13. a4 Qc7 14.

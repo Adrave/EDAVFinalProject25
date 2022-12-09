@@ -1,13 +1,11 @@
 [Event "Exhibition Game"]
 [Site "Buenos Aires ARG"]
-[Date "1911.05.12"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Miguel Angel Gelly"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Exhibition Game"]
 [Site "Buenos Aires ARG"]
-[Date "1911.05.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Carlos Portela"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Simul, 30b"]
 [Site "Buenos Aires ARG"]
-[Date "1911.05.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Ricardo Illa"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Simul, 30b"]
 [Site "Buenos Aires ARG"]
-[Date "1911.05.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Guillermo van Rees"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "141"]
 [WhiteElo "?"]
 
@@ -93,14 +85,12 @@
 
 [Event "Exhibition Game"]
 [Site "Buenos Aires ARG"]
-[Date "1911.06.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Julio Lynch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -115,14 +105,12 @@
 
 [Event "Exhibition Game"]
 [Site "Buenos Aires ARG"]
-[Date "1911.06.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Benito Higinio Villegas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -138,14 +126,12 @@
 
 [Event "Exhibition Game"]
 [Site "Buenos Aires ARG"]
-[Date "1911.05.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Jorge Nollmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "111"]
 [WhiteElo "?"]
 
@@ -163,14 +149,12 @@
 
 [Event "Simul, 40b"]
 [Site "Buenos Aires ARG"]
-[Date "1911.06.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Rolando Illa"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -183,14 +167,12 @@
 
 [Event "Simul, 40b"]
 [Site "Buenos Aires ARG"]
-[Date "1911.06.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Maria Teresa Alonso"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -204,14 +186,12 @@
 
 [Event "Exhibition Game"]
 [Site "Montevideo URU"]
-[Date "1911.07.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Alfredo Anaya"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -225,14 +205,12 @@
 
 [Event "Simul, 40b"]
 [Site "Buenos Aires ARG"]
-[Date "1911.06.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Manuel Augusto Molina"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -247,14 +225,12 @@
 
 [Event "Exhibition Game"]
 [Site "Montevideo URU"]
-[Date "1911.07.14"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Jose Berasain"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C44"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -271,14 +247,12 @@
 
 [Event "Simul, 25b"]
 [Site "Amsterdam NED"]
-[Date "1911.09.09"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Arnold van Foreest"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -294,14 +268,12 @@
 
 [Event "Exhibition Game"]
 [Site "Buenos Aires ARG"]
-[Date "1911.06.26"]
 [Round "3"]
 [White "Jose Raul Capablanca"]
 [Black "Rolando Illa"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -316,14 +288,12 @@
 
 [Event "Simul, 25b"]
 [Site "Leiden NED"]
-[Date "1911.09.05"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "G Bosscha"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -339,14 +309,12 @@
 
 [Event "Simul, 25b"]
 [Site "Middelburg NED"]
-[Date "1911.09.07"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Gerard Oskam"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -365,14 +333,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1911.11.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Rudolf Johannes Loman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -384,14 +350,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1911.11.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "A F Shoyer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -406,14 +370,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1911.11.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Otto Tipal"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -426,14 +388,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1911.11.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Walter Ernest Allnutt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -453,14 +413,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1911.11.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Harold Godfrey Cole"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -474,14 +432,12 @@
 
 [Event "Simul, 26b"]
 [Site "Imperial CC, London ENG"]
-[Date "1911.11.17"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Frederick Thomas Downey"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -494,14 +450,12 @@
 
 [Event "Simul, 26b"]
 [Site "Imperial CC, London ENG"]
-[Date "1911.11.17"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Rudolf Johannes Loman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -515,14 +469,12 @@
 
 [Event "Simul, 28b"]
 [Site "Birmingham ENG"]
-[Date "1911.11.24"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Hubert Ernest Price"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -536,14 +488,12 @@
 
 [Event "Blindfold exhibition game"]
 [Site "Havana CUB"]
-[Date "1912.04.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Jaime Baca Arus"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Ch Pan-American Continental"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Goldin Alexander (USA)"]
@@ -25,7 +24,6 @@ Be6 48.Rd1 Bb3 49.e6 Rxc2+ 50.Kb1 Rc8 51.e7 Bxd1 0-1
 
 [Event "Ch Pan-American Continental"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Novikov Igor A (USA)"]
@@ -48,7 +46,6 @@ Qe5 0-1
 
 [Event "Memorial Edward Levy (open)"]
 [Site "Denver (USA)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Firman Nazar (UKR)"]
@@ -72,7 +69,6 @@ Qf1+ 36.Kh4 Qg2 37.Qb8+ Kg7 38.h3 Qxa2 39.Qxb6 Qd2 40.g4 Qe1+
 
 [Event "It (open)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Inarkiev Ernesto (RUS)"]
@@ -96,7 +92,6 @@ Bc8 38.Rb8 Qf2 39.Rf1 Qg3 40.Kc1 Nxg4 41.fxg4 Rxe2 42.Qxe2 Bxg4
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Wojtkiewicz Aleksander (USA)"]
@@ -120,7 +115,6 @@ Be5+ 42.Nd4 Nb6 43.Qa6 Nd5+ 0-1
 
 [Event "It (cat.15)"]
 [Site "Pamplona (Spain)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Romero Holmes Alfonso (ESP)"]
@@ -147,7 +141,6 @@ Qe4+ 57.Kg1 h3 58.f4+ Qxf4 59.Rf1 Qe3+ 60.Kh2 Qe5+ 0-1
 
 [Event "It \"World Open\""]
 [Site "Philadelphia (USA)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Benen Samson (USA)"]
@@ -176,7 +169,6 @@ Kh6+ 70.Kh8 Ra1 0-1
 
 [Event "It (open)"]
 [Site "Santo-Domingo (Dominicana)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "De Vreugt Dennis (NED)"]
@@ -200,7 +192,6 @@ Rxa1 41.Rxa1 Rd3 42.Bg2 f4 43.Be1 Rd6 0-1
 
 [Event "It (open)"]
 [Site "Santo-Domingo (Dominicana)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Dominguez Jose M (DOM)"]
@@ -221,7 +212,6 @@ Rxb7 19.Ba3 Nc5 20.e3 Nb3 21.Rab1 Bxa3 22.Rxb3 Rxb3 23.Nxb3 a6
 
 [Event "It (open)"]
 [Site "Santo-Domingo (Dominicana)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Fauland Peter (AUT)"]
@@ -242,7 +232,6 @@ Rae8 25.d6 b6 1-0
 
 [Event "It (open)"]
 [Site "Santo-Domingo (Dominicana)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Milov Vadim (SUI)"]
@@ -263,7 +252,6 @@ Ra8 25.b5 Qb7 26.a4 h5 27.Rg3 Qe4 28.Rc3 cxd4 29.f3 Rxf3 0-1
 
 [Event "Ch USA"]
 [Site "Seattle (USA)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Shahade Gregory (USA)"]
@@ -287,7 +275,6 @@ gxf4 42.gxf4 Bf5 43.Kd5 Bc1 44.Rb7+ Ke8 45.e6 h5 46.Ke5 Bg4 47.f5 1-0
 
 [Event "Dos Hermanas Qualifier (14-A)"]
 [Site "Internet"]
-[Date "2003.03.14"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Glek Igor V (GER)"]
@@ -310,7 +297,6 @@ Kc7 36.Kc5 Rd2 37.b6+ Kb8 38.Nd6 1-0
 
 [Event "Dos Hermanas Qualifier (14-A)"]
 [Site "Internet"]
-[Date "2003.03.14"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Seeman Tarvo (EST)"]
@@ -333,7 +319,6 @@ Ra7 37.Rc6 b3 38.e6 Be7 39.Bh6 Ra8 40.Nb6 Rd8 41.Nc8 Nb4 42.Nxe7+ 1-0
 
 [Event "Dos Hermanas Qualifier (15-A)"]
 [Site "Internet"]
-[Date "2003.03.15"]
 [Round "6"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ibragimov Ildar (USA)"]
@@ -355,7 +340,6 @@ Kd7 31.Re7+ 1-0
 
 [Event "Dos Hermanas Qualifier (15-A)"]
 [Site "Internet"]
-[Date "2003.03.15"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Nogueiras Jesus (CUB)"]
@@ -382,7 +366,6 @@ Qa2 53.Qf6+ Kh5 54.Kh3 g4+ 55.Kh2 Qd5 56.Qh4+ Kg6 57.Qxg4+ Kh6
 
 [Event "Dos Hermanas Qualifier (15-B)"]
 [Site "Internet"]
-[Date "2003.03.15"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ashe Brandon (USA)"]
@@ -404,7 +387,6 @@ Qf5 30.Bxd6 Nf4 31.Qe5+ Qxe5 32.Bxe5+ Kg8 33.c5+ 1-0
 
 [Event "Dos Hermanas Qualifier (16-A)"]
 [Site "Internet"]
-[Date "2003.03.16"]
 [Round "6"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ivanisevic Ivan (SCG)"]
@@ -428,7 +410,6 @@ Qh5 37.Qxc6 Qf7 38.Qd6 Rg6 39.Nd5 f3 40.h5 Bxd5 41.hxg6 Bxe4+
 
 [Event "Dos Hermanas Qualifier (16-A)"]
 [Site "Internet"]
-[Date "2003.03.16"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Martin Del Campo Roberto (MEX)"]
@@ -453,7 +434,6 @@ Rxf6 37.gxf6 Qc8 38.Bf4 Qg4+ 39.Bg3 Kg8 40.Qa7 Qxe4 41.Qb8+ Kf7
 
 [Event "Dos Hermanas Qualifier (17-A)"]
 [Site "Internet"]
-[Date "2003.03.17"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Aigner Michael (USA)"]
@@ -477,7 +457,6 @@ Rc8 42.Qe5 Qd1+ 43.Kh2 Qf1 44.Qf4+ Kg7 45.Bxg6+ Kxg6 46.Qd6+ 1-0
 
 [Event "Dos Hermanas Qualifier (17-A)"]
 [Site "Internet"]
-[Date "2003.03.17"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Andrews Todd D (USA)"]
@@ -502,7 +481,6 @@ Rd3 47.Bxd3 1-0
 
 [Event "Dos Hermanas Qualifier (17-A)"]
 [Site "Internet"]
-[Date "2003.03.17"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Pupo Emilio (COL)"]
@@ -527,7 +505,6 @@ g4 42.fxg4 Rg8 43.Rf2 Rxg4+ 44.Kf1 dxe4 45.Ne3 Rf4 46.Qb8+ Kg7
 
 [Event "Dos Hermanas Qualifier (14-A)"]
 [Site "Internet"]
-[Date "2003.03.14"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Arias Torio Sergio (ESP)"]
@@ -536,7 +513,6 @@ g4 42.fxg4 Rg8 43.Rf2 Rxg4+ 44.Kf1 dxe4 45.Ne3 Rf4 46.Qb8+ Kg7
 [WhiteElo "2620"]
 [BlackElo "2144"]
 [PlyCount "71"]
-[EventDate "2003.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
 Nh3 Qd8 9. Qg4 g6 10. Ng5 Nf8 11. O-O-O a6 12. Bd3 Qe7 13. Rh3 Nc6 14. Rf3 Nd8
@@ -548,7 +524,6 @@ Kxb7 35. Qb6+ Ka8 36. Qb8# 1-0
 
 [Event "Dos Hermanas Qualifier (14-A)"]
 [Site "Internet"]
-[Date "2003.03.14"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Catereniuc Dragos (ROM)"]
@@ -557,7 +532,6 @@ Kxb7 35. Qb6+ Ka8 36. Qb8# 1-0
 [WhiteElo "2620"]
 [BlackElo "2131"]
 [PlyCount "65"]
-[EventDate "2003.??.??"]
 
 1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. b3 Qe8 8. Nc3
 Nbd7 9. Ng5 Bd8 10. d5 e5 11. Ne6 Rf7 12. Nb5 Nf8 13. Ng5 Re7 14. a4 h6 15. Nf3
@@ -568,13 +542,11 @@ fxe4 Bxe5 29. exf5 Qh3 30. fxe6 Bxg3 31. e7+ Re6 32. e8=Q+ Kg7 33. Bb2+ 1-0
 
 [Event "Bermuda Open"]
 [Site "Southampton BER"]
-[Date "2003.02.07"]
 [Round "1"]
 [White "Nakamura,H"]
 [Black "Miller,Bruce"]
 [Result "1-0"]
 [WhiteElo "2520"]
-[EventDate "2003.02.07"]
 [ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nge7 8.

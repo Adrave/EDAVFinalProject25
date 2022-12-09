@@ -1,6 +1,5 @@
 [Event "Match of the Hopes"]
 [Site "Porto Vecchio FRA"]
-[Date "2007.05.18"]
 [Round "5"]
 [White "Carlsen, M."]
 [Black "Radjabov, T."]
@@ -9,7 +8,6 @@
 [WhiteElo "2693"]
 [BlackElo "2747"]
 [PlyCount "68"]
-[EventDate "2007.05.18"]
 
 1. d4 f5 2. Nc3 Nf6 3. Bg5 d5 4. Bxf6 exf6 5. e3 c6 6. Qf3 Be6 7. Bd3 g6 8. h3
 Nd7 9. g4 fxg4 10. hxg4 Bf7 11. Nge2 Qb6 12. O-O-O O-O-O 13. Nf4 Bb4 14. Nce2
@@ -21,7 +19,6 @@ Qa5 15. Kb1 Bd6 16. c3 b5 17. e4 dxe4 18. Bxe4 Qxa2+ 19. Kc1 Kc7 20. Bxc6 Qa1+
 
 [Event "WCh Candidates s/f"]
 [Site "Elista RUS"]
-[Date "2007.05.27"]
 [Round "1"]
 [White "Carlsen, M."]
 [Black "Aronian, L."]
@@ -30,7 +27,6 @@ Qa5 15. Kb1 Bd6 16. c3 b5 17. e4 dxe4 18. Bxe4 Qxa2+ 19. Kc1 Kc7 20. Bxc6 Qa1+
 [WhiteElo "2693"]
 [BlackElo "2759"]
 [PlyCount "72"]
-[EventDate "2007.05.27"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
 Rb8 9. axb5 axb5 10. Nc3 O-O 11. h3 Nb4 12. Ne2 c5 13. Ng3 Be6 14. Bxe6 fxe6
@@ -42,7 +38,6 @@ Rxa3 28. bxa3 Qc6 29. Nd4 Bxd4 30. Qxd4 Ra8 31. Ra1 c3 32. Qb4 Qc5 33. Qb3+ Kh8
 
 [Event "WCh Candidates s/f"]
 [Site "Elista RUS"]
-[Date "2007.06.03"]
 [Round "12"]
 [White "Carlsen, M."]
 [Black "Aronian, L."]
@@ -51,7 +46,6 @@ Rxa3 28. bxa3 Qc6 29. Nd4 Bxd4 30. Qxd4 Ra8 31. Ra1 c3 32. Qb4 Qc5 33. Qb3+ Kh8
 [WhiteElo "2693"]
 [BlackElo "2759"]
 [PlyCount "114"]
-[EventDate "2007.05.27"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. Bd3 Nc6 8.
 Ne2 b6 9. e4 Ne8 10. O-O Ba6 11. f4 f5 12. e5 d6 13. d5 exd5 14. cxd5 Bxd3 15.
@@ -66,7 +60,6 @@ Ke6 47. Rxa7 Kxd6 48. Kf1 c4 49. Ke2 c3 50. Ra6+ Kd5 51. Kd1 Ne5 52. Ra5+ Kd4
 
 [Event "GM"]
 [Site "Biel SUI"]
-[Date "2007.07.31"]
 [Round "7"]
 [White "Carlsen, M."]
 [Black "Pelletier, Y."]
@@ -75,7 +68,6 @@ Ke6 47. Rxa7 Kxd6 48. Kf1 c4 49. Ke2 c3 50. Ra6+ Kd5 51. Kd1 Ne5 52. Ra5+ Kd4
 [WhiteElo "2710"]
 [BlackElo "2591"]
 [PlyCount "96"]
-[EventDate "2007.07.23"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
 e3 c5 9. dxc5 bxc5 10. Ne2 a5 11. Bxf6 Qxf6 12. Qxf6 gxf6 13. O-O-O Rd8 14. Nc3
@@ -89,7 +81,6 @@ Rc6+ Kd5 46. Rd6+ Ke4 47. Re6+ Kd3 48. Re3+ Kd2 0-1
 
 [Event "Blindfold World Cup"]
 [Site "Bilbao ESP"]
-[Date "2007.10.17"]
 [Round "3"]
 [White "Carlsen, M."]
 [Black "Bu Xiangzhi"]
@@ -98,7 +89,6 @@ Rc6+ Kd5 46. Rd6+ Ke4 47. Re6+ Kd3 48. Re3+ Kd2 0-1
 [WhiteElo "2714"]
 [BlackElo "2692"]
 [PlyCount "136"]
-[EventDate "2007.10.16"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
 Be6 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. Rg1 b4 13. Na4 Qc7 14. Qxb4 Rfc8
@@ -115,7 +105,6 @@ Rc5+ Ke6 66. Ng5+ Kd7 67. Rc4 Qf1 68. Ne4 Qf3+ 0-1
 
 [Event "Blindfold World Cup"]
 [Site "Bilbao ESP"]
-[Date "2007.10.18"]
 [Round "6"]
 [White "Carlsen, M."]
 [Black "Karjakin, Sergey"]
@@ -124,7 +113,6 @@ Rc5+ Ke6 66. Ng5+ Kd7 67. Rc4 Qf1 68. Ne4 Qf3+ 0-1
 [WhiteElo "2714"]
 [BlackElo "2694"]
 [PlyCount "84"]
-[EventDate "2007.10.16"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. O-O cxd4 13. Re1 g6 14. Bg5 Qa5 15. Nd2
@@ -137,7 +125,6 @@ Rh1 f6 42. a5 Kf7 0-1
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.06"]
 [Round "9"]
 [White "Carlsen, M."]
 [Black "Ivanisevic, I."]
@@ -146,7 +133,6 @@ Rh1 f6 42. a5 Kf7 0-1
 [WhiteElo "2714"]
 [BlackElo "2607"]
 [PlyCount "84"]
-[EventDate "2007.10.28"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Bb4+ 6. Nbd2 b5 7. a4 c6 8. Qc2
 Bb7 9. O-O O-O 10. e4 Nbd7 11. e5 Nd5 12. Ne4 h6 13. Bd2 a5 14. b3 cxb3 15.
@@ -159,7 +145,6 @@ Ra8 28. Bf1 Nc3 29. Nfd2 Ra2 30. Bxb5 cxb5 31. Kg1 Kf8 32. Kf1 Ke7 33. Rc1 f5
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "4"]
 [White "Carlsen, M."]
 [Black "Kamsky, G."]
@@ -168,7 +153,6 @@ Ra8 28. Bf1 Nc3 29. Nfd2 Ra2 30. Bxb5 cxb5 31. Kg1 Kf8 32. Kf1 Ke7 33. Rc1 f5
 [WhiteElo "2714"]
 [BlackElo "2714"]
 [PlyCount "70"]
-[EventDate "2007.11.21"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 b6 4. Be3 Bb7 5. Qd2 e6 6. h4 h6 7. f3 d6 8. O-O-O
 Nd7 9. g4 a6 10. Bd3 b5 11. Nge2 b4 12. Na4 a5 13. b3 Ne7 14. f4 Nf6 15. Bb5+
@@ -180,7 +164,6 @@ Re7 35. Qc6 Rb8 0-1
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "6"]
 [White "Carlsen, M."]
 [Black "Rublevsky, S."]
@@ -189,7 +172,6 @@ Re7 35. Qc6 Rb8 0-1
 [WhiteElo "2714"]
 [BlackElo "2676"]
 [PlyCount "120"]
-[EventDate "2007.11.21"]
 
 1. c4 Nf6 2. d4 c6 3. Bf4 d6 4. Nc3 Nbd7 5. Nf3 Qa5 6. Bd2 e5 7. e3 Qc7 8. Qc2
 Be7 9. g4 Nxg4 10. Rg1 Nf8 11. h3 Nf6 12. Rxg7 Ng6 13. Ng5 Rf8 14. Nxh7 Nxh7
@@ -205,7 +187,6 @@ Rxf1 Kxf1 60. Kb5 Rc7 0-1
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "15"]
 [White "Carlsen, M."]
 [Black "Morozevich, A."]
@@ -214,7 +195,6 @@ Rxf1 Kxf1 60. Kb5 Rc7 0-1
 [WhiteElo "2714"]
 [BlackElo "2755"]
 [PlyCount "58"]
-[EventDate "2007.11.21"]
 
 1. c4 c6 2. e4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nxc3 7. bxc3 g6
 8. d4 Bg7 9. Bd3 O-O 10. O-O Nc6 11. Re1 b6 12. Bg5 Re8 13. Qd2 Bb7 14. h4 Rc8
@@ -225,7 +205,6 @@ Bd5 22. Nd2 Ra4 23. c4 Bf7 24. d5 Rxa2 25. Qd3 e5 26. dxe6 Qxd3 27. exf7+ Kxf7
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.21"]
 [Round "19"]
 [White "Carlsen, M."]
 [Black "Grischuk, A."]
@@ -234,7 +213,6 @@ Bd5 22. Nd2 Ra4 23. c4 Bf7 24. d5 Rxa2 25. Qd3 e5 26. dxe6 Qxd3 27. exf7+ Kxf7
 [WhiteElo "2714"]
 [BlackElo "2715"]
 [PlyCount "162"]
-[EventDate "2007.11.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
 Bd7 9. Nbd2 O-O 10. c3 Na5 11. Bc2 c5 12. d4 cxd4 13. cxd4 Nc6 14. d5 Nb4 15.
@@ -253,7 +231,6 @@ Rf2 80. Rd1 d2 81. Ra1 Rf1 0-1
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2007.11.22"]
 [Round "20"]
 [White "Carlsen, M."]
 [Black "Anand, V."]
@@ -262,7 +239,6 @@ Rf2 80. Rd1 d2 81. Ra1 Rf1 0-1
 [WhiteElo "2714"]
 [BlackElo "2801"]
 [PlyCount "114"]
-[EventDate "2007.11.21"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Ne5 Bd6 7. f4 O-O 8. Bd3
 c5 9. O-O cxd4 10. exd4 dxc4 11. Bxc4 Nb6 12. Bb3 Bd7 13. Qf3 Rc8 14. f5 exf5
@@ -277,7 +253,6 @@ Ne6 53. a7 Nc7 54. Nb6 Kf5 55. a8=Q Nxa8 56. Nxa8 Ba5 57. Kg3 h5 0-1
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.12.03"]
 [Round "4.1"]
 [White "Carlsen, M."]
 [Black "Adams, Mi"]
@@ -286,7 +261,6 @@ Ne6 53. a7 Nc7 54. Nb6 Kf5 55. a8=Q Nxa8 56. Nxa8 Ba5 57. Kg3 h5 0-1
 [WhiteElo "2714"]
 [BlackElo "2729"]
 [PlyCount "153"]
-[EventDate "2007.11.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 dxc4 7. Qxc4 b6 8.
 Bf4 Ba6 9. Qxc7 Qxc7 10. Bxc7 O-O 11. Nf3 Rc8 12. Bf4 Nbd7 13. Nd2 Rc2 14. Rb1
@@ -304,7 +278,6 @@ Ke4 Nb4 73. h4 Kb5 74. Bc3 Na6 75. Kd5 Nc5 76. Bd4 Nd3 77. Ke6 1-0
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.12.06"]
 [Round "5.1"]
 [White "Carlsen, M."]
 [Black "Cheparinov, I."]
@@ -313,7 +286,6 @@ Ke4 Nb4 73. h4 Kb5 74. Bc3 Na6 75. Kd5 Nc5 76. Bd4 Nd3 77. Ke6 1-0
 [WhiteElo "2714"]
 [BlackElo "2670"]
 [PlyCount "123"]
-[EventDate "2007.11.24"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. e4 O-O 6. c3 c5 7. dxc5 dxc5 8.
 Bc4 Nc6 9. O-O Qc7 10. Qe2 h6 11. Bh4 Nh5 12. Rfe1 Bg4 13. Qe3 g5 14. Bg3 Nxg3
@@ -329,7 +301,6 @@ Kf4 60. Bg2 Ke3 61. Kc4 Kf2 62. Be4 1-0
 
 [Event "XXIV SuperGM"]
 [Site "Morelia/Linares MEX/ESP"]
-[Date "2007.02.19"]
 [Round "3"]
 [White "Carlsen, M."]
 [Black "Anand, V."]
@@ -338,7 +309,6 @@ Kf4 60. Bg2 Ke3 61. Kc4 Kf2 62. Be4 1-0
 [WhiteElo "2690"]
 [BlackElo "2779"]
 [PlyCount "80"]
-[EventDate "2007.02.17"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 Bd6 9. O-O O-O 10. b3 Bb7 11. Bb2 a6 12. Ne4 Nxe4 13. Bxe4 Nf6 14. Bc2 c5 15.
@@ -351,7 +321,6 @@ Kh7 34. e4 Rb1 35. Kd2 Bxe4 36. Ke3 Bd5 37. Bd2 Rb3+ 38. Kd4 Rb2 39. Be3 Re2
 
 [Event "XXIV SuperGM"]
 [Site "Morelia/Linares MEX/ESP"]
-[Date "2007.02.22"]
 [Round "5"]
 [White "Carlsen, M."]
 [Black "Topalov, V."]
@@ -360,7 +329,6 @@ Kh7 34. e4 Rb1 35. Kd2 Bxe4 36. Ke3 Bd5 37. Bd2 Rb3+ 38. Kd4 Rb2 39. Be3 Re2
 [WhiteElo "2690"]
 [BlackElo "2783"]
 [PlyCount "127"]
-[EventDate "2007.02.17"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
 b6 9. O-O Bb7 10. Bb2 Re8 11. Rad1 Qe7 12. Rfe1 Rac8 13. e4 Nxe4 14. Nxe4 dxe4
@@ -376,7 +344,6 @@ Rf8 48. h6 Qd8 49. d5 Qxd5 50. Rg4 Qd7 51. Rh1 Qe8 52. hxg7 Rxg7 53. Qh7+ Kf7
 
 [Event "XXIV SuperGM"]
 [Site "Morelia/Linares MEX/ESP"]
-[Date "2007.02.17"]
 [Round "1"]
 [White "Carlsen, M."]
 [Black "Morozevich, A."]
@@ -385,7 +352,6 @@ Rf8 48. h6 Qd8 49. d5 Qxd5 50. Rg4 Qd7 51. Rh1 Qe8 52. hxg7 Rxg7 53. Qh7+ Kf7
 [WhiteElo "2690"]
 [BlackElo "2741"]
 [PlyCount "135"]
-[EventDate "2007.02.17"]
 
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c5 7. O-O Nc6 8. d5
 Na5 9. Nd2 e5 10. b3 Ng4 11. h3 Nh6 12. Nde4 f6 13. Nxd6 Qxd6 14. Ne4 Qd8 15.
@@ -402,7 +368,6 @@ Bd6 54. Kb5 Bxf4 55. Kxa5 Bg3 56. Kb5 Bxh4 57. a4 Bxg5 58. a5 Kf6 59. a6 Be3
 
 [Event "Faaborg Midtfyn Blindfold Cup"]
 [Site "Faaborg DEN"]
-[Date "2007.01.02"]
 [Round "1"]
 [White "Carlsen, M."]
 [Black "Nielsen, PH."]
@@ -411,7 +376,6 @@ Bd6 54. Kb5 Bxf4 55. Kxa5 Bg3 56. Kb5 Bxh4 57. a4 Bxg5 58. a5 Kf6 59. a6 Be3
 [WhiteElo "2690"]
 [BlackElo "2651"]
 [PlyCount "79"]
-[EventDate "2007.01.02"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14. cxd5 Qxd5
@@ -424,7 +388,6 @@ Qh4 1-0
 
 [Event "Faaborg Midtfyn Blindfold Cup"]
 [Site "Faaborg DEN"]
-[Date "2007.01.02"]
 [Round "2"]
 [White "Carlsen, M."]
 [Black "Berg, E."]
@@ -433,7 +396,6 @@ Qh4 1-0
 [WhiteElo "2690"]
 [BlackElo "2586"]
 [PlyCount "103"]
-[EventDate "2007.01.02"]
 
 1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. g3 c5 5. Nf3 d5 6. cxd5 Nxd5 7. Bd2 cxd4 8.
 Nxd5 Bxd2+ 9. Qxd2 Qxd5 10. Qxd4 Qxd4 11. Nxd4 Bd7 12. Bg2 Nc6 13. Nxc6 Bxc6
@@ -447,7 +409,6 @@ Kg7 47. Kf5 Kg8 48. h6 Kh8 49. Kf6 Kg8 50. h7+ Kh8 51. g7+ Kxh7 52. Kf7 1-0
 
 [Event "Faaborg Midtfyn Blindfold Cup"]
 [Site "Faaborg DEN"]
-[Date "2007.01.03"]
 [Round "4"]
 [White "Carlsen, M."]
 [Black "Pedersen, Stef"]
@@ -456,7 +417,6 @@ Kg7 47. Kf5 Kg8 48. h6 Kh8 49. Kf6 Kg8 50. h7+ Kh8 51. g7+ Kxh7 52. Kf7 1-0
 [WhiteElo "2690"]
 [BlackElo "2439"]
 [PlyCount "71"]
-[EventDate "2007.01.02"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 b6 6. Nb3 e6 7. Nf3 Bd6 8. g3
 h6 9. Bg2 Ne7 10. O-O Nd7 11. Re1 Qc7 12. Nbd2 Nd5 13. c4 N5f6 14. d5 cxd5 15.
@@ -468,7 +428,6 @@ Re1+ 34. Kg2 Qd7 35. Qh5 Kf8 36. Qh8# 1-0
 
 [Event "Faaborg Midtfyn Cup Blindfold Final"]
 [Site "Faaborg DEN"]
-[Date "2007.01.04"]
 [Round "2"]
 [White "Carlsen, M."]
 [Black "Nielsen, PH."]
@@ -477,7 +436,6 @@ Re1+ 34. Kg2 Qd7 35. Qh5 Kf8 36. Qh8# 1-0
 [WhiteElo "2690"]
 [BlackElo "2651"]
 [PlyCount "69"]
-[EventDate "2007.01.04"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 g6 7. g4 Bg7 8. Bg2
 O-O 9. b3 Nc6 10. Nde2 h5 11. g5 Nd7 12. Bb2 b5 13. e5 Bb7 14. exd6 exd6 15.
@@ -489,7 +447,6 @@ Qh1+ 34. Kg3 Qg1+ 35. Kh4 1-0
 
 [Event "Gausdal NOR, Closed GM April 07"]
 [Site "Gausdal NOR"]
-[Date "2007.04.26"]
 [Round "9"]
 [White "Carlsen, Magnus"]
 [Black "Krasenkow, Michal"]
@@ -497,7 +454,6 @@ Qh1+ 34. Kg3 Qg1+ 35. Kh4 1-0
 [WhiteElo "2693"]
 [BlackElo "2661"]
 [ECO "D30"]
-[EventDate "2007.04.18"]
 
 1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nbd2 f5 5. g3 Nf6 6. Bg2 Bd6 7. O-O O-O 8. 
 Ne5 b6 9. Ndf3 Ne4 10. Qc2 Bb7 11. b3 a5 12. Bb2 Na6 13. a3 Qe7 14. Nd3 
@@ -510,7 +466,6 @@ Bxc1 Qc6 27. Qxe6+ Bxe6 28. Bxc6 Nb3 29. d5 Ne5 30. Rb1 Nd4 31. dxe6 Nexc6
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.20"]
 [Round "7"]
 [White "Carlsen, Magnus"]
 [Black "Svidler, Peter"]
@@ -518,7 +473,6 @@ Bxc1 Qc6 27. Qxe6+ Bxe6 28. Bxc6 Nb3 29. d5 Ne5 30. Rb1 Nd4 31. dxe6 Nexc6
 [WhiteElo "2690"]
 [BlackElo "2728"]
 [ECO "C88"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. a3 Bc5 9. c3 d6 10. d4 Bb6 11. Be3 h6 12. h3 Re8 13. Nbd2 Bb7 14. dxe5 
@@ -532,7 +486,6 @@ Qd6 f6 44. Qc7+ Kh6 45. b4 Kg5 46. Qc6 Qe5+ 47. Kg1 b5 0-1
 
 [Event "Arctic Chess Challenge"]
 [Site "Tromso NOR"]
-[Date "2007.08.09"]
 [Round "6"]
 [White "Carlsen, Magnus"]
 [Black "Carlsen, Henrik"]
@@ -540,7 +493,6 @@ Qd6 f6 44. Qc7+ Kh6 45. b4 Kg5 46. Qc6 Qe5+ 47. Kg1 b5 0-1
 [WhiteElo "2710"]
 [BlackElo "2089"]
 [ECO "D36"]
-[EventDate "2007.08.04"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Qc2 h6 8.
  Bh4 O-O 9. Bd3 Re8 10. Nge2 Ne4 11. Bxe7 Qxe7 12. Bxe4 dxe4 13. Ng3 f5 
@@ -553,7 +505,6 @@ b6 32. Rxc6 bxc5 33. Rxc7+ Kg8 34. Rc6 Rxg2+ 35. Kxg2 Bd5+ 36. Kg3 Bxc6
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.14"]
 [Round "2"]
 [White "Carlsen, Magnus"]
 [Black "Navara, David"]
@@ -561,7 +512,6 @@ b6 32. Rxc6 bxc5 33. Rxc7+ Kg8 34. Rc6 Rxg2+ 35. Kxg2 Bd5+ 36. Kg3 Bxc6
 [WhiteElo "2690"]
 [BlackElo "2719"]
 [ECO "D87"]
-[EventDate "2007.01.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
 8. Ne2 Nc6 9. Be3 O-O 10. O-O Bd7 11. Rb1 Qc7 12. Bf4 Qc8 13. d5 Na5 14. 

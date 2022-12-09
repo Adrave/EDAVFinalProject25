@@ -1,6 +1,5 @@
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.01.18"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Olafsson, H1."]
@@ -9,7 +8,6 @@
 [WhiteElo "2793"]
 [BlackElo "2508"]
 [PlyCount "121"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -30,7 +28,6 @@ Ra8 53. c7 Rc8 54. Rc6 Kf4 55. Rc4+ Ke5 56. Kf3 Kd6 57. Kf4 Rxc7 58. Rxc7 Kxc7
 
 [Event "Gibraltar Masters TB 2018"]
 [Site "Caleta ENG"]
-[Date "2018.02.01"]
 [Round "1.2"]
 [White "Vachier Lagrave, M."]
 [Black "Nakamura, Hi"]
@@ -39,7 +36,6 @@ Ra8 53. c7 Rc8 54. Rc6 Kf4 55. Rc4+ Ke5 56. Kf3 Kd6 57. Kf4 Rxc7 58. Rxc7 Kxc7
 [WhiteElo "2793"]
 [BlackElo "2781"]
 [PlyCount "47"]
-[EventDate "2018.02.01"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -52,7 +48,6 @@ cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Qf6 13. b4 h6 14. b5 Nd4
 
 [Event "Gibraltar Masters TB 2018"]
 [Site "Caleta ENG"]
-[Date "2018.02.01"]
 [Round "2.2"]
 [White "Vachier Lagrave, M."]
 [Black "Aronian, L."]
@@ -61,7 +56,6 @@ cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Qf6 13. b4 h6 14. b5 Nd4
 [WhiteElo "2793"]
 [BlackElo "2797"]
 [PlyCount "89"]
-[EventDate "2018.02.01"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -77,7 +71,6 @@ Re4 41. Rxb7 Rxd4 42. Rb6 Rxa4 43. Rxc6 Rxa3 44. Rd6 Rd3 45. Ra6 1/2-1/2
 
 [Event "Gibraltar Masters TB 2018"]
 [Site "Caleta ENG"]
-[Date "2018.02.01"]
 [Round "2.3"]
 [White "Vachier Lagrave, M."]
 [Black "Aronian, L."]
@@ -86,7 +79,6 @@ Re4 41. Rxb7 Rxd4 42. Rb6 Rxa4 43. Rxc6 Rxa3 44. Rd6 Rd3 45. Ra6 1/2-1/2
 [WhiteElo "2793"]
 [BlackElo "2797"]
 [PlyCount "125"]
-[EventDate "2018.02.01"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -105,7 +97,6 @@ Rb2 53. Rf4+ Ke5 54. Rf1 Ke4 55. Rf8 Rb1 56. Kg2 Rb2+ 57. Rf2 Rb5 58. Rf4+ Ke5
 
 [Event "Gibraltar Masters 2018"]
 [Site "Caleta ENG"]
-[Date "2018.02.01"]
 [Round "10.2"]
 [White "Vachier Lagrave, M."]
 [Black "Rapport, R."]
@@ -114,7 +105,6 @@ Rb2 53. Rf4+ Ke5 54. Rf1 Ke4 55. Rf8 Rb1 56. Kg2 Rb2+ 57. Rf2 Rb5 58. Rf4+ Ke5
 [WhiteElo "2793"]
 [BlackElo "2700"]
 [PlyCount "60"]
-[EventDate "2018.01.23"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -128,7 +118,6 @@ Rab1 a5 21. Ne4 b6 22. Rhc1 Kd7 23. Nc3 a4 24. Nxd5 cxd5 25. d4 Rhc8 26. Kd3 e6
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.02.04"]
 [Round "4"]
 [White "Vachier Lagrave, M."]
 [Black "Carlsen, M."]
@@ -137,7 +126,6 @@ Rab1 a5 21. Ne4 b6 22. Rhc1 Kd7 23. Nc3 a4 24. Nxd5 cxd5 25. d4 Rhc8 26. Kd3 e6
 [WhiteElo "2793"]
 [BlackElo "2834"]
 [PlyCount "81"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -155,7 +143,6 @@ Bd8 35. Qd7 g5 36. hxg5 fxg5 37. Kg1 Qb1+ 38. Be1 Qe4 39. Bd2 Qb1+ 40. Ne1 Qe4
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.02.07"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Sebenik, M."]
@@ -164,7 +151,6 @@ Bd8 35. Qd7 g5 36. hxg5 fxg5 37. Kg1 Qb1+ 38. Be1 Qe4 39. Bd2 Qb1+ 40. Ne1 Qe4
 [WhiteElo "2793"]
 [BlackElo "2551"]
 [PlyCount "62"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -180,7 +166,6 @@ Bxd7 Bc5+ 28. Kh1 Rxe5 29. Rxe4 Rxe4 30. Bc6+ Kb8 31. Bxe4 h6 1/2-1/2
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.16"]
 [Round "14.2"]
 [White "Vachier Lagrave, M."]
 [Black "Mamedyarov, S."]
@@ -189,7 +174,6 @@ Bxd7 Bc5+ 28. Kh1 Rxe5 29. Rxe4 Rxe4 30. Bc6+ Kb8 31. Bxe4 h6 1/2-1/2
 [WhiteElo "2789"]
 [BlackElo "2808"]
 [PlyCount "130"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -209,7 +193,6 @@ Nc5 54. f5 gxf5 55. gxf5 Bxf5 56. Ba3 Ne6 57. Bc1 Bg6 58. Kf3 Ke5 59. Kg4 Bf5+
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.24"]
 [Round "10.3"]
 [White "Vachier Lagrave, M."]
 [Black "So, W."]
@@ -218,7 +201,6 @@ Nc5 54. f5 gxf5 55. gxf5 Bxf5 56. Ba3 Ne6 57. Bc1 Bg6 58. Kf3 Ke5 59. Kg4 Bf5+
 [WhiteElo "2789"]
 [BlackElo "2778"]
 [PlyCount "116"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -237,7 +219,6 @@ c4 54. Bf6 b5 55. Kd2 b4 56. Be7 c3+ 57. bxc3 bxc3+ 58. Kc1 a3 0-1
 
 [Event "51st Biel GM 2018"]
 [Site "Biel SUI"]
-[Date "2018.07.23"]
 [Round "2.1"]
 [White "Vachier Lagrave, M."]
 [Black "Carlsen, M."]
@@ -246,7 +227,6 @@ c4 54. Bf6 b5 55. Kd2 b4 56. Be7 c3+ 57. bxc3 bxc3+ 58. Kc1 a3 0-1
 [WhiteElo "2779"]
 [BlackElo "2842"]
 [PlyCount "158"]
-[EventDate "2018.07.22"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
@@ -269,7 +249,6 @@ Rh2 77. Ke3 Kb6 78. Kd3 Kb5 79. Ra8 Kb4 0-1
 
 [Event "Saint Louis Rapid 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.12"]
 [Round "6.2"]
 [White "Vachier Lagrave, M."]
 [Black "Mamedyarov, S."]
@@ -278,7 +257,6 @@ Rh2 77. Ke3 Kb6 78. Kd3 Kb5 79. Ra8 Kb4 0-1
 [WhiteElo "2779"]
 [BlackElo "2801"]
 [PlyCount "70"]
-[EventDate "2018.08.11"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -294,7 +272,6 @@ Qg6+ 33. Qxg6+ Kxg6 34. Bb4 Rc7 35. c3 b6 0-1
 
 [Event "chess.com Speed 3m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.02"]
 [Round "11"]
 [White "Vachier Lagrave, M."]
 [Black "Dominguez Perez, L."]
@@ -303,7 +280,6 @@ Qg6+ 33. Qxg6+ Kxg6 34. Bb4 Rc7 35. c3 b6 0-1
 [WhiteElo "2779"]
 [BlackElo "2739"]
 [PlyCount "50"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -316,7 +292,6 @@ cxd4 9. Nxd4 Bd7 10. Nd2 Nxd4 11. Bxd4 Bc6 12. Rc1 a6 13. Rc2 Rc8 14. Qa1 dxc4
 
 [Event "chess.com Speed 3m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.02"]
 [Round "19"]
 [White "Vachier Lagrave, M."]
 [Black "Dominguez Perez, L."]
@@ -325,7 +300,6 @@ cxd4 9. Nxd4 Bd7 10. Nd2 Nxd4 11. Bxd4 Bc6 12. Rc1 a6 13. Rc2 Rc8 14. Qa1 dxc4
 [WhiteElo "2779"]
 [BlackElo "2739"]
 [PlyCount "100"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -342,7 +316,6 @@ g6 b4 35. Ba4 Nb6 36. Nc5 Nxa4 37. Nxa4 Bc6 38. Nc5 Bb5 39. Nb3 a4 40. Nd2 Kd6
 
 [Event "chess.com Speed 3m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.02"]
 [Round "15"]
 [White "Vachier Lagrave, M."]
 [Black "Dominguez Perez, L."]
@@ -351,7 +324,6 @@ g6 b4 35. Ba4 Nb6 36. Nc5 Nxa4 37. Nxa4 Bc6 38. Nc5 Bb5 39. Nb3 a4 40. Nd2 Kd6
 [WhiteElo "2779"]
 [BlackElo "2739"]
 [PlyCount "110"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -369,7 +341,6 @@ Ke5 Bc2 54. Kf4 Kd6 55. Kg3 Bxf5 0-1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.02"]
 [Round "27"]
 [White "Vachier Lagrave, M."]
 [Black "Dominguez Perez, L."]
@@ -378,7 +349,6 @@ Ke5 Bc2 54. Kf4 Kd6 55. Kg3 Bxf5 0-1
 [WhiteElo "2779"]
 [BlackElo "2739"]
 [PlyCount "84"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -394,7 +364,6 @@ Nxh6 35. Qh3 Nf7 36. Rde1 Qf6 37. Nh2 Ng5 38. Qg2 e4 39. dxe4 dxe4 40. Re3 Re7
 
 [Event "chess.com Speed 5m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.08.02"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Dominguez Perez, L."]
@@ -403,7 +372,6 @@ Nxh6 35. Qh3 Nf7 36. Rde1 Qf6 37. Nh2 Ng5 38. Qg2 e4 39. dxe4 dxe4 40. Re3 Re7
 [WhiteElo "2779"]
 [BlackElo "2739"]
 [PlyCount "158"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -425,7 +393,6 @@ Nd7 73. Ne3 Nb5 74. Nd5 Nd6 75. Ke3 Nb5 76. Nac3 Nxc3 77. Nxc3 Kb4 78. Kd2 Nc5
 
 [Event "PRO League All Stars St1"]
 [Site "chess.com INT"]
-[Date "2018.09.08"]
 [Round "9"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Melkumyan, Hrant"]
@@ -433,7 +400,6 @@ Nd7 73. Ne3 Nb5 74. Nd5 Nd6 75. Ke3 Nb5 76. Nac3 Nxc3 77. Nxc3 Kb4 78. Kd2 Nc5
 [WhiteElo "2780"]
 [BlackElo "2660"]
 [ECO "C78"]
-[EventDate "2018.09.08"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Ba7 8.
  dxe5 Nxe4 9. Qd5 Nc5 10. Bc2 Ne7 11. Qd1 d5 12. exd6 Qxd6 13. Qxd6 cxd6 
@@ -444,7 +410,6 @@ Rxc1 Nxc1 0-1
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.12"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nakamura, Hikaru"]
@@ -452,7 +417,6 @@ Rxc1 Nxc1 0-1
 [WhiteElo "2779"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a5 7. Re1 O-O 8. 
 Nbd2 Be6 9. Bb5 Qb8 10. a4 Qa7 11. Re2 Ne7 12. Nf1 Bg4 13. Rc2 c6 14. Bc4 
@@ -461,7 +425,6 @@ d5 15. Ba2 dxe4 16. dxe4 Nxe4 17. Qe2 Nxf2 18. Be3 Ne4 0-1
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.20"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nakamura, Hikaru"]
@@ -469,7 +432,6 @@ d5 15. Ba2 dxe4 16. dxe4 Nxe4 17. Qe2 Nxf2 18. Be3 Ne4 0-1
 [WhiteElo "2779"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a5 7. Re1 O-O 8. 
 Nbd2 Be6 9. b3 Re8 10. Nf1 d5 11. exd5 Bxd5 12. Be3 Bxc4 13. dxc4 Qe7 14. 
@@ -481,7 +443,6 @@ Qc2 Na5 21. b4 Nxc4 22. R3e2 Nd5 23. Nxe5 Rxe5 24. Rxe5 Nxe5 25. Rxe5 Qxc3
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.34"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nakamura, Hikaru"]
@@ -489,7 +450,6 @@ Qc2 Na5 21. b4 Nxc4 22. R3e2 Nd5 23. Nxe5 Rxe5 24. Rxe5 Nxe5 25. Rxe5 Qxc3
 [WhiteElo "2779"]
 [BlackElo "2777"]
 [ECO "A01"]
-[EventDate "2018.07.24"]
 
 1. b3 e5 2. Bb2 Nc6 3. a3 d5 4. e3 Bd6 5. Ne2 Nf6 6. h3 O-O 7. g3 Bf5 8. 
 Bg2 d4 9. exd4 exd4 10. d3 Re8 11. O-O Qd7 12. Kh2 Ne5 13. Nd2 c5 14. Re1 
@@ -500,7 +460,6 @@ Rgc6 27. Rc1 Rxc1 28. Bxc1 Rxc1 0-1
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.28"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nakamura, Hikaru"]
@@ -508,7 +467,6 @@ Rgc6 27. Rc1 Rxc1 28. Bxc1 Rxc1 0-1
 [WhiteElo "2779"]
 [BlackElo "2777"]
 [ECO "D75"]
-[EventDate "2018.07.24"]
 
 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d5 6. cxd5 Nxd5 7. d4 c5 
 8. dxc5 Na6 9. e4 Ndb4 10. a3 Qxd1 11. Rxd1 Nc2 12. Ra2 Be6 13. b3 Bxb3 
@@ -517,7 +475,6 @@ Rgc6 27. Rc1 Rxc1 28. Bxc1 Rxc1 0-1
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.4"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nakamura, Hikaru"]
@@ -525,7 +482,6 @@ Rgc6 27. Rc1 Rxc1 28. Bxc1 Rxc1 0-1
 [WhiteElo "2779"]
 [BlackElo "2777"]
 [ECO "B12"]
-[EventDate "2018.07.24"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. Nbd2 Nd7 8. 
 c3 g5 9. Ne1 c5 10. Nc2 Nc6 11. Nb3 c4 12. Nd2 Bg6 13. Bh5 Bd3 14. Re1 Bg7
@@ -541,7 +497,6 @@ dxe5 Kg5 45. Rh1 Ng7 46. Rh8 Kf5 47. Ra8 Kxe5 48. Rxa7 Ne6 49. Re7 Kd6 50.
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.10"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nakamura, Hikaru"]
@@ -549,7 +504,6 @@ dxe5 Kg5 45. Rh1 Ng7 46. Rh8 Kf5 47. Ra8 Kxe5 48. Rxa7 Ne6 49. Re7 Kd6 50.
 [WhiteElo "2779"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 O-O 8. 
 Re1 h6 9. h3 Ba7 10. Nbd2 Be6 11. Bxe6 fxe6 12. b4 Qe8 13. Ra2 Nh5 14. Nf1
@@ -564,7 +518,6 @@ Qc2 Rh6 51. Nf3 Qg6 52. g5 Rh8 53. Kf2 Qh5 54. Ke3 Rf8 0-1
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.22"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nakamura, Hikaru"]
@@ -572,7 +525,6 @@ Qc2 Rh6 51. Nf3 Qg6 52. g5 Rh8 53. Kf2 Qh5 54. Ke3 Rf8 0-1
 [WhiteElo "2779"]
 [BlackElo "2777"]
 [ECO "C50"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nf3 d6 6. O-O h6 7. Nd5 O-O 8.
  c3 a6 9. Re1 Ba7 10. h3 Nxd5 11. Bxd5 Ne7 12. Bb3 Ng6 13. d4 Qf6 14. Be3 
@@ -586,7 +538,6 @@ Re1 Ke6 45. Kg7 Kf5 46. g6 Ke4 47. Kh6 Rh2+ 48. Kg5 Kd3 0-1
 
 [Event "Bundesliga 2018-19"]
 [Site "Berlin GER"]
-[Date "2019.03.01"]
 [Round "9.3"]
 [White "Vachier Lagrave,M"]
 [Black "Kamsky,G"]
@@ -596,7 +547,6 @@ Re1 Ke6 45. Kg7 Kf5 46. g6 Ke4 47. Kh6 Rh2+ 48. Kg5 Kd3 0-1
 [BlackTeam "SF Deizisau"]
 [BlackTitle "GM"]
 [ECO "B46"]
-[EventDate "2018.11.24"]
 [EventType "team"]
 [Opening "Sicilian"]
 [Variation "Taimanov variation"]

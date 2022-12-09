@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nimzowitsch Aaron"]
@@ -20,7 +19,6 @@ Kf7 19.Qxh5 1-0
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "18"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Colle Edgard (BEL)"]
@@ -43,7 +41,6 @@ f5 31.Bxd6 Qxd6 32.Bxf5 Qxf4 33.Qh7+ Kf8 34.Bg6 Qd4 35.Bxe8 Rxe8
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -64,7 +61,6 @@ Ba6 25.Bf3 f6 26.Qe3 Rad8 27.Rxd8 Rxd8 28.e5 f5 29.Rc8 1-0
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "13"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kostic Boris (YUG)"]
@@ -88,7 +84,6 @@ Kh6 43.Rb7 Rd6 44.a7 Ra6 45.f4 Ra2 46.Kf1 g5 47.g3 1-0
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "24"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Maroczy Geza (HUN)"]
@@ -109,7 +104,6 @@ cxd4 14.exd4 Nb6 15.Bd3 Bd7 16.Ne5 Rfd8 17.f4 Be8 18.Ng4 Rxd4
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "20"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Pirc Vasja (YUG)"]
@@ -132,7 +126,6 @@ Rf4 36.Qd3+ g6 37.Rc7+ Kh6 38.Qe3 Bxf3 1-0
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "14"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Stoltz Gosta (SWE)"]
@@ -155,7 +148,6 @@ Kh6 36.Rxh7+ Kg5 37.Raf7 1-0
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -182,7 +174,6 @@ f4 53.Rxh6+ Kg8 54.Rag6+ Rg7 55.Kg1 Ra2 56.a6 Rxg6 57.Rxg6+ Kf7
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1931.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -210,7 +201,6 @@ Rxd6 65.Rxd6+ Kxd6 66.a6 1-0
 
 [Event "Olympiad"]
 [Site "Prague (Czech Republic)"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Andersen (DEN)"]
@@ -230,7 +220,6 @@ Nc6 14.Be3 cxd4 15.cxd4 Rc8 16.Qd2 Na5 17.Bxh6 Nb3 18.Qf4 Rc6
 
 [Event "It"]
 [Site "Bern (Switzerland)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -259,7 +248,6 @@ Qd7 69.Qe5+ Kf8 70.d6 Kf7 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1932.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -280,7 +268,6 @@ Ng7 26.Rg1 f6 27.Rg3 Rdf7 28.Rdg1 Kh8 29.Rh3 Kg8 30.Rhg3 Kh8 1/2-1/2
 
 [Event "Game (exhibition)"]
 [Site "Lyons (France)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Matter"]
@@ -305,7 +292,6 @@ Rxb2 48.h6 Ra2 49.Rb4 b2 0-1
 
 [Event "It"]
 [Site "Mexico City (Mexico)"]
-[Date "1932.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kashdan Isaac (USA)"]
@@ -329,7 +315,6 @@ Bd6 43.Kg4 Bb8 44.Kg5 Bd6 45.Bf6 Bc7 46.Bh8 1/2-1/2
 
 [Event "Game (consultation)"]
 [Site "Paris (France)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Serge / Silber / Berland"]
@@ -359,7 +344,6 @@ Rf2 0-1
 
 [Event ""]
 [Site "Pasadena (USA)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fine Reuben (USA)"]
@@ -385,14 +369,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Simul, 50b"]
 [Site "7th Regt. Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Brooklyn Chess Club"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "1932.11.08"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -408,14 +390,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1932.02.10"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "Georges Koltanowski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C73"]
-[EventDate "1932.02.01"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -429,14 +409,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Berne"]
 [Site "Bern SUI"]
-[Date "1932.07.22"]
 [Round "7"]
 [White "Alexander Alekhine"]
 [Black "Salomon Flohr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "1932.07.16"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -450,14 +428,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Berne"]
 [Site "Bern SUI"]
-[Date "1932.07.24"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "Hans Johner"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "1932.07.16"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -473,14 +449,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Berne"]
 [Site "Bern SUI"]
-[Date "1932.07.28"]
 [Round "13"]
 [White "Alexander Alekhine"]
 [Black "Oskar Naegeli"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1932.07.16"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -497,14 +471,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Berne"]
 [Site "Bern SUI"]
-[Date "1932.07.29"]
 [Round "14"]
 [White "Alexander Alekhine"]
 [Black "Paul F Johner"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E16"]
-[EventDate "1932.07.16"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -523,14 +495,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Pasadena"]
 [Site "Pasadena, CA USA"]
-[Date "1932.08.16"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Harry Borochow"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C82"]
-[EventDate "1932.08.15"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -547,14 +517,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Berne"]
 [Site "Bern SUI"]
-[Date "1932.07.26"]
 [Round "11"]
 [White "Alexander Alekhine"]
 [Black "William Rivier"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "1932.07.16"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -573,14 +541,12 @@ Rg3 53.Ke2 Nf4+ 54.Kf2 Rh3 55.h7 Ne6 56.Ra7 Nf8 57.Ra6+ Kf5 1/2-1/2
 
 [Event "Pasadena"]
 [Site "Pasadena, CA USA"]
-[Date "1932.08.20"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Samuel Reshevsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "1932.08.15"]
 [PlyCount "191"]
 [WhiteElo "?"]
 

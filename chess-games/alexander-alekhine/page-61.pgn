@@ -1,13 +1,11 @@
 [Event "Clock simul, 9b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1929.03.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Abraham Solomon Kussman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D61"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -25,14 +23,12 @@
 
 [Event "Clock simul, 9b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1929.03.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Horace Ransom Bigelow"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Simul, 38b"]
 [Site "St. Louis, MO USA"]
-[Date "1929.04.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Bransford L Lewis"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -70,14 +64,12 @@
 
 [Event "Simul, 29b"]
 [Site "Chicago, IL USA"]
-[Date "1929.04.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "John F Collins"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -95,14 +87,12 @@
 
 [Event "Simul, 38b"]
 [Site "St. Louis, MO USA"]
-[Date "1929.04.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Yates Downman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -118,14 +108,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E Bogen"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -138,14 +126,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jesse Geil"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -161,14 +147,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Max Bock"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -186,14 +170,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Desire Danczowski"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -210,14 +192,12 @@
 
 [Event "Simul, 50b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.25"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "H Eddy"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -232,14 +212,12 @@
 
 [Event "Simul, 60b"]
 [Site "Lisbon POR"]
-[Date "1941.04.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Maria Pires"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D09"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -256,14 +234,12 @@
 
 [Event "Simul, 30b"]
 [Site "Malaga ESP"]
-[Date "1941.12.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E Pereiro"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B52"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -278,14 +254,12 @@
 
 [Event "Simul, 30b"]
 [Site "Bremen GER"]
-[Date "1943.05.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Arne Wedemeyer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -299,14 +273,12 @@
 
 [Event "Clock simul, 8b"]
 [Site "Madrid ESP"]
-[Date "1943.10.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jose Alonso Leira"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -320,14 +292,12 @@
 
 [Event "Clock simul, 8b"]
 [Site "Madrid ESP"]
-[Date "1943.10.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E Gomez"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -341,14 +311,12 @@
 
 [Event "Clock simul, 8b"]
 [Site "Madrid ESP"]
-[Date "1943.10.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Gutierrez de Soto"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -362,14 +330,12 @@
 
 [Event "Reus simul, 30b"]
 [Site "Reus ESP"]
-[Date "1944.02.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F Vernis"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "102"]
 [WhiteElo "?"]
 
@@ -387,14 +353,12 @@
 
 [Event "Sabadell"]
 [Site "Sabadell ESP"]
-[Date "1945.08.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "V Valles"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -410,14 +374,12 @@
 
 [Event "Clock simul"]
 [Site "Caceres ESP"]
-[Date "1945.12.17"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F Moreno Ramos"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -433,14 +395,12 @@
 
 [Event "Melilla"]
 [Site "Melilla ESP"]
-[Date "1945.09.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Frias"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B29"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -453,14 +413,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.09.20"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D65"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -473,14 +431,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.09.23"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D64"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -498,14 +454,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.10.06"]
 [Round "10"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D62"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -519,14 +473,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.09.29"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -543,14 +495,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.10.03"]
 [Round "8"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D62"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 

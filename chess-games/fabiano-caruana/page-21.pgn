@@ -1,6 +1,5 @@
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.14"]
 [Round "2.6"]
 [White "Caruana, F."]
 [Black "Jones, G."]
@@ -9,7 +8,6 @@
 [WhiteElo "2811"]
 [BlackElo "2640"]
 [PlyCount "137"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -30,7 +28,6 @@ Kd6 66. Rc1 Rxh4 67. Kxa7 Ra4 68. a6 Rb4 69. Ka8 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.19"]
 [Round "6.7"]
 [White "Caruana, F."]
 [Black "Matlakov, M."]
@@ -39,7 +36,6 @@ Kd6 66. Rc1 Rxh4 67. Kxa7 Ra4 68. a6 Rb4 69. Ka8 1/2-1/2
 [WhiteElo "2811"]
 [BlackElo "2718"]
 [PlyCount "75"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -55,7 +51,6 @@ Nxb2 34. Ke3 Rc2 35. Rd5+ Ke6 36. Rc5 Kd6 37. Rd5+ Ke6 38. Rc5 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.16"]
 [Round "4.7"]
 [White "Caruana, F."]
 [Black "So, W."]
@@ -64,7 +59,6 @@ Nxb2 34. Ke3 Rc2 35. Rd5+ Ke6 36. Rc5 Kd6 37. Rd5+ Ke6 38. Rc5 1/2-1/2
 [WhiteElo "2811"]
 [BlackElo "2792"]
 [PlyCount "96"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -82,7 +76,6 @@ Rc2+ 47. Kd4 Rd2+ 48. Kc5 Rc2+ 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.28"]
 [Round "13.5"]
 [White "Caruana, F."]
 [Black "Svidler, P."]
@@ -91,7 +84,6 @@ Rc2+ 47. Kd4 Rd2+ 48. Kc5 Rc2+ 1/2-1/2
 [WhiteElo "2811"]
 [BlackElo "2768"]
 [PlyCount "59"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -106,7 +98,6 @@ Nd5 28. Kf3 Nxe3 29. Rxe3 Kf8 30. h4 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.23"]
 [Round "9.7"]
 [White "Caruana, F."]
 [Black "Adhiban, Baskaran"]
@@ -115,7 +106,6 @@ Nd5 28. Kf3 Nxe3 29. Rxe3 Kf8 30. h4 1/2-1/2
 [WhiteElo "2811"]
 [BlackElo "2655"]
 [PlyCount "120"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -135,7 +125,6 @@ Rh7+ Kb6 60. Rxa7 Kxa7 1/2-1/2
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.26"]
 [Round "11.2"]
 [White "Caruana, F."]
 [Black "Giri, A."]
@@ -144,7 +133,6 @@ Rh7+ Kb6 60. Rxa7 Kxa7 1/2-1/2
 [WhiteElo "2811"]
 [BlackElo "2752"]
 [PlyCount "87"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -161,7 +149,6 @@ Nd5 34. Qf3 Kb8 35. Qe4 Qxh4 36. Rd2 Qe7 37. Rh2 Rf8 38. Rh6 Rg8 39. Rxg6 Rxg6
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.23"]
 [Round "9.1"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -170,7 +157,6 @@ Nd5 34. Qf3 Kb8 35. Qe4 Qxh4 36. Rd2 Qe7 37. Rh2 Rf8 38. Rh6 Rg8 39. Rxg6 Rxg6
 [WhiteElo "2816"]
 [BlackElo "2769"]
 [PlyCount "98"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -188,7 +174,6 @@ R1e6 Kg7 48. Rxd8 Rxd8 49. Rxa6 Rd3 0-1
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.23"]
 [Round "5.2"]
 [White "Caruana, F."]
 [Black "Karjakin, Sergey"]
@@ -197,7 +182,6 @@ R1e6 Kg7 48. Rxd8 Rxd8 49. Rxa6 Rd3 0-1
 [WhiteElo "2816"]
 [BlackElo "2782"]
 [PlyCount "88"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -214,7 +198,6 @@ Bxf7 Kc7 42. Rf5 Rxf5 43. exf5 Nd7 44. g5 Nc5 0-1
 
 [Event "GCT Rapid Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.20"]
 [Round "3.4"]
 [White "Caruana, F."]
 [Black "Grischuk, A."]
@@ -223,7 +206,6 @@ Bxf7 Kc7 42. Rf5 Rxf5 43. exf5 Nd7 44. g5 Nc5 0-1
 [WhiteElo "2816"]
 [BlackElo "2766"]
 [PlyCount "72"]
-[EventDate "2018.06.20"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -239,7 +221,6 @@ Re1 Ne6 34. Qg2 Ne3+ 35. Rxe3 Qxe3 36. Qf3 Qc1+ 0-1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.07.24"]
 [Round "19"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -248,7 +229,6 @@ Re1 Ne6 34. Qg2 Ne3+ 35. Rxe3 Qxe3 36. Qf3 Qc1+ 0-1
 [WhiteElo "2822"]
 [BlackElo "2767"]
 [PlyCount "90"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -264,7 +244,6 @@ g4 f5 41. gxf5 gxf5 42. Qd2 Qh1+ 43. Kg3 Bf6 44. Qh2 f4+ 45. Kh3 Qxf3+ 0-1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.07.24"]
 [Round "25"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -273,7 +252,6 @@ g4 f5 41. gxf5 gxf5 42. Qd2 Qh1+ 43. Kg3 Bf6 44. Qh2 f4+ 45. Kh3 Qxf3+ 0-1
 [WhiteElo "2822"]
 [BlackElo "2767"]
 [PlyCount "70"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -288,7 +266,6 @@ Nf5 Qf8 29. Rg1 Rxd2 30. Rxd2 Nxe4 31. Rd7 Bxf2 32. Rxf7 Bxg1+ 33. Kxg1 Qc5+
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.07.24"]
 [Round "23"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -297,7 +274,6 @@ Nf5 Qf8 29. Rg1 Rxd2 30. Rxd2 Nxe4 31. Rd7 Bxf2 32. Rxf7 Bxg1+ 33. Kxg1 Qc5+
 [WhiteElo "2822"]
 [BlackElo "2767"]
 [PlyCount "52"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -311,7 +287,6 @@ Ng4 15. Qf3 Nge5 16. Qe3 Nxd4 17. Qxd4 Qxg5 18. Qf2 Qh6 19. Qf4 g5 20. Qd2 Qh2+
 
 [Event "chess.com Speed 5m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.07.24"]
 [Round "3"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -320,7 +295,6 @@ Ng4 15. Qf3 Nge5 16. Qe3 Nxd4 17. Qxd4 Qxg5 18. Qf2 Qh6 19. Qf4 g5 20. Qd2 Qh2+
 [WhiteElo "2822"]
 [BlackElo "2767"]
 [PlyCount "146"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -341,7 +315,6 @@ Rxb6 73. Kxd6 a5 0-1
 
 [Event "chess.com Speed 3m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.07.24"]
 [Round "9"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -350,7 +323,6 @@ Rxb6 73. Kxd6 a5 0-1
 [WhiteElo "2822"]
 [BlackElo "2767"]
 [PlyCount "84"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -366,7 +338,6 @@ Na3 41. Bd3 Nxb1 42. Bxb1 Bxb4 0-1
 
 [Event "chess.com Speed 3m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.07.24"]
 [Round "11"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -375,7 +346,6 @@ Na3 41. Bd3 Nxb1 42. Bxb1 Bxb4 0-1
 [WhiteElo "2822"]
 [BlackElo "2767"]
 [PlyCount "142"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -396,7 +366,6 @@ Ndf4 60. Ra5 Nd4 61. Ra3 Kc5 62. Re3 Kc4 63. Ra3 Kb4 64. Re3 Kc5 65. Ra3 Kc4
 
 [Event "chess.com Speed 3m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2018.07.24"]
 [Round "15"]
 [White "Caruana, F."]
 [Black "Aronian, L."]
@@ -405,7 +374,6 @@ Ndf4 60. Ra5 Nd4 61. Ra3 Kc5 62. Re3 Kc4 63. Ra3 Kb4 64. Re3 Kc5 65. Ra3 Kc4
 [WhiteElo "2822"]
 [BlackElo "2767"]
 [PlyCount "56"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -419,7 +387,6 @@ Rc7 Bf5 0-1
 
 [Event "Saint Louis Rapid 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.13"]
 [Round "7.1"]
 [White "Caruana, F."]
 [Black "Dominguez Perez, L."]
@@ -428,7 +395,6 @@ Rc7 Bf5 0-1
 [WhiteElo "2822"]
 [BlackElo "2739"]
 [PlyCount "108"]
-[EventDate "2018.08.11"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -447,7 +413,6 @@ Ne3 Qxh5 34. Ra8 Qc5 35. Rb8 Qc7 36. Rf8 Qe7 37. Rc8 Qd7 38. Rc2 f5 39. f4 Qd4
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.15"]
 [Round "12.1"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -456,7 +421,6 @@ Ne3 Qxh5 34. Ra8 Qc5 35. Rb8 Qc7 36. Rf8 Qe7 37. Rc8 Qd7 38. Rc2 f5 39. f4 Qd4
 [WhiteElo "2822"]
 [BlackElo "2777"]
 [PlyCount "102"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -474,7 +438,6 @@ axb5 41. Qa3 Kd7 42. Qg3 d3 43. e6+ Kxe6 44. Bxb6 d2 45. Qe3+ Kd7 46. Bc5 d1=Q
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.14"]
 [Round "4.1"]
 [White "Caruana, F."]
 [Black "Mamedyarov, S."]
@@ -483,7 +446,6 @@ axb5 41. Qa3 Kd7 42. Qg3 d3 43. e6+ Kxe6 44. Bxb6 d2 45. Qe3+ Kd7 46. Bc5 d1=Q
 [WhiteElo "2822"]
 [BlackElo "2801"]
 [PlyCount "100"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -501,7 +463,6 @@ Qc2 48. Qxc2 Rxc2 49. g3 Nd3 50. Rf1 Kf7 0-1
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.14"]
 [Round "6.1"]
 [White "Caruana, F."]
 [Black "Vachier Lagrave, M."]
@@ -510,7 +471,6 @@ Qc2 48. Qxc2 Rxc2 49. g3 Nd3 50. Rf1 Kf7 0-1
 [WhiteElo "2822"]
 [BlackElo "2779"]
 [PlyCount "172"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -534,7 +494,6 @@ g6 Bf6 86. Nh2 Ke1 0-1
 
 [Event "WCh Rapid TB 2018"]
 [Site "London ENG"]
-[Date "2018.11.28"]
 [Round "2"]
 [White "Caruana, Fabiano"]
 [Black "Carlsen, Magnus"]
@@ -542,7 +501,6 @@ g6 Bf6 86. Nh2 Ke1 0-1
 [WhiteElo "2832"]
 [BlackElo "2835"]
 [ECO "B33"]
-[EventDate "2018.11.28"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 
 Nxd5 8. exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Qb8 12. h4 h5 13. Be3 a6 
@@ -553,7 +511,6 @@ c7 Bxc7 27. Nxc7 Ne5 28. Nd5 Kh7 0-1
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.13"]
 [Round "1.6"]
 [White "Caruana, Fabiano"]
 [Black "Nakamura, Hikaru"]
@@ -561,7 +518,6 @@ c7 Bxc7 27. Nxc7 Ne5 28. Nd5 Kh7 0-1
 [WhiteElo "2832"]
 [BlackElo "2746"]
 [ECO "D37"]
-[EventDate "2018.12.11"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Rc1 Ba6 8. 
 Qa4 dxc4 9. Bxc4 Bb7 10. O-O a6 11. Be2 Nbd7 12. Rfd1 b5 13. Qc2 Rc8 14. 
@@ -576,7 +532,6 @@ e3 0-1
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.13"]
 [Round "1.4"]
 [White "Caruana, Fabiano"]
 [Black "Nakamura, Hikaru"]
@@ -584,7 +539,6 @@ e3 0-1
 [WhiteElo "2832"]
 [BlackElo "2746"]
 [ECO "D37"]
-[EventDate "2018.12.11"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5 Nxd5 
 8. Nxd5 Qxd5 9. Bd3 Qa5+ 10. Kf1 Ba6 11. Bxc7 Bxd3+ 12. Qxd3 Na6 13. Bg3 
@@ -599,7 +553,6 @@ Qa6 Kh7 51. Qd3 Qg6 52. g3 Nh6 53. Qc4 Ng4+ 54. Kh3 Qb1 0-1
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.13"]
 [Round "1.8"]
 [White "Caruana, Fabiano"]
 [Black "Nakamura, Hikaru"]
@@ -607,7 +560,6 @@ Qa6 Kh7 51. Qd3 Qg6 52. g3 Nh6 53. Qc4 Ng4+ 54. Kh3 Qb1 0-1
 [WhiteElo "2832"]
 [BlackElo "2746"]
 [ECO "E71"]
-[EventDate "2018.12.11"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 a5 8. g4 
 Na6 9. Nge2 Nd7 10. Qd2 Ndc5 11. Ng3 c6 12. Be2 cxd5 13. cxd5 a4 14. h4 
@@ -620,7 +572,6 @@ Rg8 33. Be2 Kf8 34. Kf1 fxg5 35. f3 b4 36. Nd1 Nxb3 37. Qc2 Nd4 38. Qc1 b3
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.17"]
 [Round "2.6"]
 [White "Caruana, Fabiano"]
 [Black "Aronian, Levon"]
@@ -628,7 +579,6 @@ Rg8 33. Be2 Kf8 34. Kf1 fxg5 35. f3 b4 36. Nd1 Nxb3 37. Qc2 Nd4 38. Qc1 b3
 [WhiteElo "2832"]
 [BlackElo "2765"]
 [ECO "C63"]
-[EventDate "2018.12.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O d6 7. Bc4 Bg4 
 8. h3 Bh5 9. Nc3 Nd4 10. g4 Nxf3+ 11. Qxf3 Bg6 12. Be6 c6 13. Be3 Qe7 14. 

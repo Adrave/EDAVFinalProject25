@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Barcza Gedeon (HUN)"]
@@ -25,7 +24,6 @@ Bd8 31.Kd3 d5 32.exd5+ Kxd5 33.Kc2 Nd4+ 34.Nxd4 exd4 35.Kd3 Bb6
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Barda Olaf (NOR)"]
@@ -48,7 +46,6 @@ Rc6 38.Be3 Bxe5 39.Bxe4 dxe4 40.Qxe4 Bf6 41.Qxc6 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -67,7 +64,6 @@ Qe7 14.Rac1 Rfe8 15.Rfe1 Nf6 16.Qc5 Ne4 17.Qxe7 Rxe7 18.Ne5 1/2-1/2
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ciocaltea Viktor (ROM)"]
@@ -87,7 +83,6 @@ a4 14.Rad1 Nfd7 15.Nde2 Qa5 16.Rxd6 Ne5 17.Rdd1 Nxc4 18.Bd4 Qb4
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -107,7 +102,6 @@ Rc7 20.dxc5 Rfc8 1/2-1/2
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sliwa Bogdan (POL)"]
@@ -131,7 +125,6 @@ Kf7 37.Bf2 Ke6 38.Rc7 Kxd6 39.Rc6+ Kd5 40.Rc7 Kd6 41.Rc6+ Kd5
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Stoltz Gosta (SWE)"]
@@ -155,7 +148,6 @@ Rc4+ 42.Kd3 Rb4 43.Bf6 a4 44.Rg7+ Kf8 45.Be7+ Kxg7 46.Bxb4 1-0
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -174,7 +166,6 @@ Bxc6 14.Qxd8 Rfxd8 15.Rfd1 1/2-1/2
 
 [Event "It"]
 [Site "Bucharest (Romania)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Troianescu Octav (ROM)"]
@@ -197,7 +188,6 @@ Rxa6 32.bxa6 Bc8 33.Qb5 Nf6 34.Nc3 Bd7 35.Qb7 Qxb7 36.axb7 Bc7
 
 [Event "Match (training)"]
 [Site "Gagra (Georgia)"]
-[Date "1953.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tolush Alexander K (RUS)"]
@@ -220,7 +210,6 @@ Rf8 31.Rxf8 Kxf8 32.Kh2 Nd8 33.Bh3 Ke7 34.Kg3 Kd6 35.Bg4 Nf7
 
 [Event "Tournament"]
 [Site "Gagra (Georgia)"]
-[Date "1953.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -252,7 +241,6 @@ Ka2 82.Qa6+ Kb2 83.Qb5+ Ka1 84.Qa4+ Kb1 85.Qb3+ Ka1 86.Qc3+ Kb1
 
 [Event "Tournament"]
 [Site "Gagra (Georgia)"]
-[Date "1953.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kotov Alexander A (RUS)"]
@@ -273,7 +261,6 @@ Kg6 25.dxc7 Rdc8 26.b4 1-0
 
 [Event "Tournament"]
 [Site "Gagra (Georgia)"]
-[Date "1953.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -296,7 +283,6 @@ Rf1 37.Qe7 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -324,7 +310,6 @@ Na5 59.Bb5 Nc4+ 60.Kf4 Nxe3 61.fxe3 Kb4 62.Be8 h4 63.gxh4 Kxc5
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -348,7 +333,6 @@ Rxd2+ 37.Bxd2 Bc5+ 38.Be3 Bd6 39.Bd4 Kg8 40.Ke3 Bf5 41.c5 Bc7
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -371,7 +355,6 @@ Qc5 37.Re3 Bd5 38.Rh8+ Kg6 39.Qd8 Bf3 40.Rxf3 Rxf3 41.gxf3 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -397,7 +380,6 @@ Kf7 54.e8Q+ Nxe8 55.Bxe8+ Kf6 56.Bg6 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Zurich (Switzerland)"]
-[Date "1953.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -419,7 +401,6 @@ Nxg6 31.Qxf6+ Kg8 32.Qf3 Qc2 33.Qd3 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "17"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -441,7 +422,6 @@ Nc6 20.Qg4 Nd5 21.Bg5 Qa5 22.Nd2 Ne3 23.fxe3 Qxd2 24.Rxf8+ Rxf8
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "19"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -464,7 +444,6 @@ Re7 36.Kh4 Nd4 37.Rf4 Nb5 38.a4 Nc3 39.Rc4 Ree2 40.Rb6 Nd5 41.Rxc2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "21"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -487,7 +466,6 @@ Rh5 36.Re6+ Kc7 37.Re5 Kc6 38.Re6+ Kc7 39.Re5 Kc6 40.Re6+ 1/2-1/2
 
 [Event "Match \"URS-USA\""]
 [Site "New York (USA)"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -508,7 +486,6 @@ Rxd8 25.Rxd8 Nxd8 26.Nd6 Bd7 27.Kf2 Kf6 28.Ke3 Nc8 1/2-1/2
 
 [Event "Match \"URS-USA\""]
 [Site "New York (USA)"]
-[Date "1954.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -534,7 +511,6 @@ Re6 54.Ra5 Kf7 55.g5 Kg7 56.Kg4 Rb6 1/2-1/2
 
 [Event "Match \"Sweden-URS\""]
 [Site "Stockholm (Sweden)"]
-[Date "1954.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -556,14 +532,12 @@ Ne4 20.Nxe4 dxe4 21.d5 Bb5 22.Rxc8 Rxc8 23.e6 fxe6 24.Bxe4 Bc4
 
 [Event "Hastings 1954/55"]
 [Site "Hastings ENG"]
-[Date "1955.01.04"]
 [Round "6"]
 [White "Vasily Smyslov"]
 [Black "Ludek Pachman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A09"]
-[EventDate "1954.12.29"]
 [PlyCount "46"]
 [WhiteElo "?"]
 

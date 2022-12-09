@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bamberg (Germany)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bobotsov Milko G (BUL)"]
@@ -21,7 +20,6 @@ Bf6 14.Qd2 Qc7 15.Rfd1 Be7 16.Nb6 Rb8 17.Nd5 exd5 18.cxd5 Bd7
 
 [Event "It"]
 [Site "Bamberg (Germany)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pfleger Helmut Dr (GER)"]
@@ -47,7 +45,6 @@ Kg8 55.Nxg6 1-0
 
 [Event "It"]
 [Site "Bamberg (Germany)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Toran Albero Roman (ESP)"]
@@ -70,7 +67,6 @@ Kg7 36.Be2 Nf6 37.f3 g5 38.g4 h5 39.h3 hxg4 40.hxg4 Ne8 41.Rb6 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Castro Molero Manuel (ESP)"]
@@ -90,7 +86,6 @@ c5 20.d5 Nd7 21.Rxh5 Rxh5 22.Qxh5 Qxb2 23.Nd6+ Kd8 24.Qe8+ 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kottnauer Cenek (ENG)"]
@@ -113,7 +108,6 @@ Rfe8 37.Qa1 Rxe5 38.fxe5 Ng4 39.e6+ Qg7 40.Nxe4 b4 41.e7 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -137,7 +131,6 @@ Rg8 42.Rf1 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -160,7 +153,6 @@ Rxd6 37.Rxd6 Rc7 38.h6+ Kxh6 39.Rxf6 bxa4 40.bxa4 Rc4 41.e5 1-0
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ageichenko Genadi A (RUS)"]
@@ -183,7 +175,6 @@ Bf5 37.Bf1 Qa5 38.c6 Kh7 39.Qf6 Kg8 40.Bc4 Qe1+ 41.Kg2 1-0
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Estrin Yakov B (RUS)"]
@@ -204,7 +195,6 @@ Bxh6 25.Qxh6 Qg7 26.Qh4 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bykhovsky Anatoly A (RUS)"]
@@ -225,7 +215,6 @@ Bg7 25.Bxh6 Rd7 26.Qh7+ Kf8 27.Rxe6 Re7 28.Rf6+ Ke8 29.Qg8+ 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Khasin Abram (RUS)"]
@@ -248,7 +237,6 @@ Kf7 31.Rxe8 Kxe8 32.d5 Nxd5 33.Ba3 Rd8 34.c7 Nxc7 35.Rxc7 Rxd3
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -273,7 +261,6 @@ Bb5 48.f3 Ba6 49.Kf2 Kf4 50.Be2 Bb7 51.a6 Ba8 52.Bd3 Bxf3 53.Bf1 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -298,7 +285,6 @@ Rf7 48.Bd3 Be8 49.Ra8+ Kc7 50.f6 Rf8 51.f7 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Larsen Bent (DEN)"]
@@ -320,7 +306,6 @@ Rb8 32.Rxe6 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "16"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -345,7 +330,6 @@ Ra6 48.g4 hxg4 49.Kg3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "18"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -372,7 +356,6 @@ Qa1+ 54.Qd1 Qe5 55.Qd4 Qe8 56.Qc4 Bb5 57.Qe6 Qxe6 58.Rxe6 Rd5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "22"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -394,7 +377,6 @@ c5 25.e4 Bd4 26.Nxd4 cxd4 27.Qd3 dxe4 28.Bxe4 Kg7 29.Qf3 Qf6
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bobotsov Milko G (BUL)"]
@@ -413,7 +395,6 @@ O-O 14.Re1 b6 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -431,7 +412,6 @@ Nc6 8.Be2 O-O 9.O-O d5 10.cxd5 Nxd4 11.exd4 Nxd5 12.Bf3 Bf6 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Larsen Bent (DEN)"]
@@ -453,7 +433,6 @@ f6 32.h4 Rf7 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Panno Oscar (ARG)"]
@@ -474,7 +453,6 @@ Rg8 19.Bf6 Rg6 20.Bc3 Nd6 21.Rfe1 Nb5 22.Rac1 Rd8 23.Re3 Nd4
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -493,7 +471,6 @@ Bxf6 14.bxc3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "URS"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -511,7 +488,6 @@ Bxf6 14.bxc3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "URS"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -529,14 +505,12 @@ Bxf6 14.bxc3 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1969.10.09"]
 [Round "22"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Lev Polugaevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "1969.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 

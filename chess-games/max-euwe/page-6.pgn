@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Foltys Jan (CZE)"]
@@ -20,7 +19,6 @@ Bd6 14.Rc1 Rc8 15.O-O Bxf4 16.gxf4 Qg6+ 17.Qxg6 hxg6 18.Na4 Ke7
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -44,7 +42,6 @@ Rb3 42.Rd5 Kf7 43.Rxe5 1/2-1/2
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Gudmundsson Gudbjartur"]
@@ -64,7 +61,6 @@ axb4 14.Rxa8 Qxa8 15.Qxb4 Bxc2 16.Qc3 Be4 17.Ncd2 Bc6 18.b3 Bb5
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Najdorf Miguel (POL)"]
@@ -85,7 +81,6 @@ Rc7 20.c5 Be7 21.Rac1 Qd7 22.Qg3 Rd8 23.cxd6 Bxd6 24.Bxd6 Rxc1
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Pilnik Herman (ARG)"]
@@ -115,7 +110,6 @@ Bf5 77.Bg2 Kf2 0-1
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -139,7 +133,6 @@ a4 41.Bc4 a3 1/2-1/2
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -162,7 +155,6 @@ Rb4 31.Rxf3 Qe7 32.Rf4 Nf6 33.Bxf6 gxf6 34.Qf3 Rd4 35.Qg4+ Kh8
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1950.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Cawi Udo"]
@@ -184,7 +176,6 @@ Be8 32.Rxe8+ 1-0
 
 [Event "It"]
 [Site "Berlin (Germany)"]
-[Date "1950.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Teschner Rudolf (GER)"]
@@ -207,7 +198,6 @@ Qf6 31.Re2 Rc6 32.Qd5 h4 33.Re8+ Bf8 34.Qg2 Rc2 35.gxh4+ Kh7
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1950.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Cortlever Nicolaas (NED)"]
@@ -231,7 +221,6 @@ Rxa2 36.h5 gxh5 37.gxh5 Ra5 38.f4 Ra1 39.Kg4 Rg1+ 40.Kf5 Rg7
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1950.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Henneberke Franciscus"]
@@ -255,7 +244,6 @@ Nxh7 42.Kc2 1-0
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1950.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Kramer Haije J (NED)"]
@@ -278,7 +266,6 @@ Be6 37.Bf6 Rf4 38.Bxe7 Kxe7 39.g6 hxg6 40.h7 Rh4 41.Bg2 1-0
 
 [Event "It"]
 [Site "Beverwijk (Netherlands)"]
-[Date "1950.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -304,7 +291,6 @@ Qc5+ 53.Kd7 Qd4+ 54.Ke7 Qc5+ 55.Ke8 1-0
 
 [Event "Olympiad"]
 [Site "Dubrovnik (Yugoslavia)"]
-[Date "1950.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Boek Eero (FIN)"]
@@ -327,7 +313,6 @@ cxb3 31.axb3 Be6 32.Rb6 Bc8 33.Rc6 Rxc6 34.Bxc6 Be6 35.Nc2 Bc3
 
 [Event "Olympiad"]
 [Site "Dubrovnik (Yugoslavia)"]
-[Date "1950.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Myhre Erling"]
@@ -349,7 +334,6 @@ Nxg3 25.Nxb4 Qh6 26.Qd4 Rxb4 27.Rxb4 Qc1+ 28.Kf2 e5 29.Qxb6 Qf4+
 
 [Event "Olympiad"]
 [Site "Dubrovnik (Yugoslavia)"]
-[Date "1950.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Nestler Vincenzo"]
@@ -370,7 +354,6 @@ Nc7 25.Rg5 1-0
 
 [Event "Olympiad"]
 [Site "Dubrovnik (Yugoslavia)"]
-[Date "1950.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Poulsen Christian"]
@@ -390,7 +373,6 @@ Bxb3 19.Ra5 Bc2 20.Nc5 Rac8 21.Ne6 Rf6 22.Nxg7 Kxg7 23.Rxe5 1-0
 
 [Event "Olympiad"]
 [Site "Dubrovnik (Yugoslavia)"]
-[Date "1950.??.??"]
 [Round "11"]
 [White "Euwe Max (NED)"]
 [Black "Skold Kristian (SWE)"]
@@ -412,7 +394,6 @@ Ke7 31.Qxh7 Ng7 32.Nf4 1-0
 
 [Event "Match"]
 [Site "Hague (Netherlands)"]
-[Date "1950.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -432,7 +413,6 @@ exd5 8.cxd5 Nxd5 9.Qxg7 Qf6 10.Qxf6 Nxf6 11.b3 Ne4 12.Ng5 Nxg5
 
 [Event "Match"]
 [Site "Hague (Netherlands)"]
-[Date "1950.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -453,7 +433,6 @@ Qe7 24.Qc4+ Qc5 25.Qf7+ Qe7 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Evans Larry M (USA)"]
@@ -476,7 +455,6 @@ Rc8 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Fuller J"]
@@ -501,7 +479,6 @@ Kg7 42.Rf6 Rb5 43.Kg2 Rb2+ 44.Kf3 Rb3+ 45.Kf2 Rb5 46.Ke3 Rb3+
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Rossolimo Nicholas (RUS)"]
@@ -522,7 +499,6 @@ g6 24.Qe7 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -547,14 +523,12 @@ a2 48.Nxa2 Bxa2 49.Kg7 Bxd5 50.h5 Ke6 0-1
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1950.12.09"]
 [Round "19"]
 [White "Max Euwe"]
 [Black "Herman Pilnik"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D72"]
-[EventDate "1950.11.11"]
 [PlyCount "154"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event ""]
 [Site "corr."]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Manko"]
@@ -21,7 +20,6 @@ Rxe5 20.fxe5 Qh4 21.Nd4 Bxd3 22.Rf4 Qe7 23.cxd3 Rc8 24.Rf6 c5
 
 [Event "Tournament"]
 [Site "Kislovodsk (Russia)"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gajdukevic S V"]
@@ -41,7 +39,6 @@ Ne5 1-0
 
 [Event "Tournament"]
 [Site "Kislovodsk (Russia)"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gajdukevic S V"]
@@ -61,7 +58,6 @@ Nh5 19.Nd5 Rc8 20.Qb4 Be6 21.Qb5+ Bd7 22.Qb7 Be6 23.Rxe6 1-0
 
 [Event "Tournament"]
 [Site "Kislovodsk (Russia)"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "N N"]
@@ -85,7 +81,6 @@ Qf3+ 37.Kg1 Qe2 38.Qc2 Nf3+ 39.Kh1 Qa6 40.b5 Qa5 41.Nxb7 Rxd1+
 
 [Event "Tournament"]
 [Site "Kislovodsk (Russia)"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "N N"]
@@ -108,7 +103,6 @@ Qa4 32.Bc8 Nd8 33.Bb7 Rb8 34.Bc6+ Nxc6 35.Qe6+ Kd8 36.Qxg8+ Be8
 
 [Event "Tournament"]
 [Site "Kislovodsk (Russia)"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "N N"]
@@ -126,7 +120,6 @@ Qxe4+ 8.Kd1 f3 9.g3 f2 10.c3 d6 11.h3 Bf5 0-1
 
 [Event "Tournament"]
 [Site "Kislovodsk (Russia)"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tachtarov"]
@@ -146,7 +139,6 @@ Qd5 13.Re5 Qc6 14.Qf4 d6 15.Rf5 Bxf5 16.Bxf5 Rae8 17.Nd2 Re7
 
 [Event "Tournament"]
 [Site "Moscow (Russia)"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rozanov V"]
@@ -170,7 +162,6 @@ Ka8 42.cxd5 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rozanov V"]
@@ -191,7 +182,6 @@ Neg6 25.Nf6+ Kd8 26.Qxg6 1-0
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Duhm"]
@@ -211,7 +201,6 @@ gxf5 20.Rg3 Kf8 21.Rxf5 h6 22.Qe3 Qc7 23.Rxf6 Ke7 24.Rf5 f6 25.Ng4+ 1-0
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Goncharov Alexey"]
@@ -234,7 +223,6 @@ Rd2 36.Rg3 g5 37.Qd6 Nf4 38.Rg4 Qd5 39.Qe7+ Kg8 40.Qe8+ Kh7 1/2-1/2
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vinogradov"]
@@ -256,7 +244,6 @@ Bf8 31.Qe6+ 1-0
 
 [Event ""]
 [Site "Russia"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kupriyanov V"]
@@ -276,7 +263,6 @@ c6 14.dxc6 bxc6 15.Bd3+ f5 16.Ng5+ Kg8 17.Ne6 Bxe6 18.Rxe6 Bc7
 
 [Event ""]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Evtifiev P"]
@@ -297,7 +283,6 @@ Kf8 20.Nxg4 Bc6 21.Rf1 Rh5 22.Be5 Bxe5 23.Nxe5 Nf5 24.Nc5 Kg7
 
 [Event ""]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gregory Bernhard"]
@@ -320,7 +305,6 @@ Ka7 36.Be3 Rf3 37.Bxc5+ Ka6 38.Qb8 1-0
 
 [Event ""]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "12"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nikolaev Victor (RUS)"]
@@ -341,7 +325,6 @@ Qc5 25.Qe4 Bc8 26.e6 Bxe6 27.dxe6 Rd4 28.Ng6+ Kg8 29.exf7+ 1-0
 
 [Event ""]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rosanov"]
@@ -361,14 +344,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "Hamburg"]
 [Site "Hamburg GER"]
-[Date "1910.08.06"]
 [Round "17"]
 [White "Alexander Alekhine"]
 [Black "Georg Salwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "1910.07.18"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -381,14 +362,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "Hauptturnier A"]
 [Site "Duesseldorf"]
-[Date "1908.08.13"]
 [Round "10"]
 [White "Alexander Alekhine"]
 [Black "Janos Gajdos"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "1908.08.03"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -404,14 +383,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "All Russian Amateur"]
 [Site "St Petersburg RUE"]
-[Date "1909.02.15"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Stefan Izbinsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "1909.02.15"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -425,14 +402,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "All Russian Amateur"]
 [Site "St Petersburg RUE"]
-[Date "1909.02.18"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Vasily I Rozanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "1909.02.15"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -445,14 +420,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "All Russian Amateur"]
 [Site "St Petersburg RUE"]
-[Date "1909.03.05"]
 [Round "14"]
 [White "Alexander Alekhine"]
 [Black "Apollon Viakhirev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "1909.02.15"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -465,14 +438,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "All Russian Amateur"]
 [Site "St Petersburg RUE"]
-[Date "1909.02.28"]
 [Round "10"]
 [White "Alexander Alekhine"]
 [Black "Peter Arsenievich Romanovsky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "1909.02.15"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -488,14 +459,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "All Russian Amateur"]
 [Site "St Petersburg RUE"]
-[Date "1909.03.08"]
 [Round "16"]
 [White "Alexander Alekhine"]
 [Black "Grigory Helbach"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "1909.02.15"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -513,14 +482,12 @@ Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
 
 [Event "All Russian Amateur"]
 [Site "St Petersburg RUE"]
-[Date "1909.03.11"]
 [Round "18"]
 [White "Alexander Alekhine"]
 [Black "Dawid Daniuszewski"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "1909.02.15"]
 [PlyCount "82"]
 [WhiteElo "?"]
 

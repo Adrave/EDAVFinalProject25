@@ -1,6 +1,5 @@
 [Event "Ch World (juniors) (under 10)"]
 [Site "Duisburg (Germany)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Mohsin Basim A (BRN)"]
@@ -24,7 +23,6 @@ Kh8 41.Kg3 1-0
 
 [Event "Ch World (juniors) (under 10)"]
 [Site "Duisburg (Germany)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Simons Rudi (NED)"]
@@ -33,7 +31,6 @@ Kh8 41.Kg3 1-0
 [WhiteElo "2717"]
 [BlackElo "2116"]
 [PlyCount "29"]
-[EventDate "1992.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. Ng5 Be7 7. Nxf7 Rf8 8.
 Nxd8 Bxd8 9. O-O Nxe4 10. Qh5+ g6 11. Qxh7 Ng5 12. Qxg6+ Nf7 13. d3 a5 14. Bh6
@@ -42,14 +39,12 @@ Rg8 15. Qxf7# 1-0
 
 [Event "World Championship Tournament"]
 [Site "Mexico City MEX"]
-[Date "2007.09.28"]
 [Round "13"]
 [White "Alexander Grischuk"]
 [Black "Viswanathan Anand"]
 [Result "1/2-1/2"]
 [BlackElo "2803"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "147"]
 [WhiteElo "2732"]
 

@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Barcelona (Spain)"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Cuadras Avellana Jorge (ESP)"]
@@ -22,7 +21,6 @@ f4 14.Bc1 Bd6 15.e4 fxe3 16.fxe3 Ndf6 17.e4 Nxe4 18.Nxe4 dxe4
 
 [Event "Match"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1985.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -45,7 +43,6 @@ Rxc1+ 25.Rxc1 Rxc1+ 26.Bxc1 Bc5 27.Bc4 Nb6 28.Bb3 Kf8 29.a5 Nd7
 
 [Event "Match"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1985.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -68,7 +65,6 @@ Kc8 36.b6 Rg7 37.Ra4 Kb7 38.Rxf4 Kc6 39.Rc4 Kb5 40.Rb4+ 1-0
 
 [Event "Match"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1985.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -93,7 +89,6 @@ Kg7 36.Kg2 Re7 37.Rb6 Rf7 38.Bd5 Rfd7 39.R1b5 Re7 40.Kg3 Red7
 
 [Event "Match"]
 [Site "Hamburg (Germany)"]
-[Date "1985.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -116,7 +111,6 @@ Nd5 31.hxg6 hxg6 32.Rb3 f5 33.Bd1 Rg7 34.Rh3 Qxb4 35.Qh6 Qxe1+
 
 [Event "Match"]
 [Site "Hamburg (Germany)"]
-[Date "1985.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -143,7 +137,6 @@ Nh7 60.Kb5 1-0
 
 [Event "Match"]
 [Site "Hamburg (Germany)"]
-[Date "1985.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -164,7 +157,6 @@ Bxc5 20.Qe2 Qa8 21.Nb3 dxc4 22.Bxb7 Qxb7 23.Rxc4 h6 24.Rdc1 Rfc8
 
 [Event "Match"]
 [Site "Hilversum (Netherlands)"]
-[Date "1985.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -186,7 +178,6 @@ Rh8 31.Ng8 Bb3 32.Ra1 Qc5 33.Qxh8 d4 34.Rxd4 Qc3+ 35.Ke2 1-0
 
 [Event "Match"]
 [Site "Hilversum (Netherlands)"]
-[Date "1985.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -213,7 +204,6 @@ Rxg3 60.Rxd7+ Ka6 61.Kd2 Ka5 62.Rd6 1/2-1/2
 
 [Event "Match"]
 [Site "Hilversum (Netherlands)"]
-[Date "1985.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -236,7 +226,6 @@ Nb6 26.Qxb5 Qc2 27.exd6 cxd6 28.Re7 Rf7 29.Rxf7 Kxf7 30.c5 Qc4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -260,7 +249,6 @@ Ra8 42.Rbc4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -280,7 +268,6 @@ Bxd5 20.Rxd5 Rfd8 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -303,7 +290,6 @@ b4 37.Re3 Bg6 38.Rxe8 Qxe8 39.Qc1 Ne4 40.Bd5 Nc5 41.Nb3 Nd3 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -325,7 +311,6 @@ dxc5 20.Nc4 cxd4 21.cxd4 f4 22.Bf2 Nh5 23.Bc2 fxe3 24.Bxe3 Bd5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -351,7 +336,6 @@ Kg5 53.Kg2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -372,7 +356,6 @@ Bb7 14.Bg3 Rc8 15.Ba2 Bd6 16.d5 Nxd5 17.Nxd5 Bxg3 18.hxg3 exd5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -393,7 +376,6 @@ Qf6 19.Qe3 Qh6 20.Qxh6 gxh6 21.Rfe1 Bc4 22.a3 b5 23.Rad1 Rf5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "15"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -413,7 +395,6 @@ a6 19.Qb3 Rfd8 20.Be3 Rac8 21.Rac1 h6 22.h3 Nd4 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "17"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -434,7 +415,6 @@ Rdxd6 25.Qe3 Rxd1+ 26.Rxd1 g6 27.Rc1 Rxc1+ 28.Qxc1 Qb6+ 29.Qc5 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "19"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -458,7 +438,6 @@ Qf6 42.Qxc7+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "21"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -482,7 +461,6 @@ Ba6 43.Ng4 Nb5 44.Kd3 Na3+ 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1985.??.??"]
 [Round "23"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -505,7 +483,6 @@ Qd8 37.Rc5 Qe7 38.Qc3 g5 39.Qe3 g4 40.Bd1 Qe4+ 41.Kg1 1/2-1/2
 
 [Event "Simultan"]
 [Site "Frankfurt (Germany)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Richter Dirk (GER)"]
@@ -514,7 +491,6 @@ Qd8 37.Rc5 Qe7 38.Qc3 g5 39.Qe3 g4 40.Bd1 Qe4+ 41.Kg1 1/2-1/2
 [WhiteElo "2740"]
 [BlackElo "2035"]
 [PlyCount "71"]
-[EventDate "1986.??.??"]
 
 1. d4 f5 2. Bg5 g6 3. Nf3 Bg7 4. Nbd2 Nf6 5. Bxf6 Bxf6 6. e4 fxe4 7. Nxe4 d5 8.
 Nxf6+ exf6 9. Qe2+ Qe7 10. O-O-O Qxe2 11. Bxe2 Nc6 12. c3 Kf7 13. Ne1 Nd8 14.
@@ -526,7 +502,6 @@ Rxg4 f5 34. Rf4 Ke6 35. Kc2 Ke5 36. b3 1/2-1/2
 
 [Event "Simultan"]
 [Site "Hamburg (Germany)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hess Christian (GER)"]
@@ -535,7 +510,6 @@ Rxg4 f5 34. Rf4 Ke6 35. Kc2 Ke5 36. b3 1/2-1/2
 [WhiteElo "2740"]
 [BlackElo "2119"]
 [PlyCount "56"]
-[EventDate "1986.??.??"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. a4 O-O 8. e4 axb5
 9. Bxb5 Ba6 10. Bd2 e6 11. Nge2 exd5 12. exd5 d6 13. O-O Nbd7 14. Bf4 Ne5 15.
@@ -546,7 +520,6 @@ Bxe5 dxe5 16. Qd3 Qa5 17. Ng3 Rfd8 18. Nge4 Nxe4 19. Nxe4 Bxb5 20. Qxb5 Rxd5
 
 [Event "It (open) (c)"]
 [Site "Aragon (Spain)"]
-[Date "1986.05.31"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tejero Lamana Santiago (ESP)"]
@@ -555,7 +528,6 @@ Bxe5 dxe5 16. Qd3 Qa5 17. Ng3 Rfd8 18. Nge4 Nxe4 19. Nxe4 Bxb5 20. Qxb5 Rxd5
 [WhiteElo "2740"]
 [BlackElo "2122"]
 [PlyCount "68"]
-[EventDate "1986.??.??"]
 
 1. d4 g6 2. e4 c6 3. c4 d5 4. exd5 cxd5 5. cxd5 Nf6 6. Nc3 Nxd5 7. Bb5+ Nc6 8.
 Qa4 Qd6 9. Nf3 Bg7 10. O-O Nb6 11. Bxc6+ bxc6 12. Qd1 O-O 13. h3 Re8 14. Re1

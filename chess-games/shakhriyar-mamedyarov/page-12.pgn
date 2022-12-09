@@ -5,7 +5,6 @@
 [BlackFideId "12401137"]
 [Result "0-1"]
 [Round "27"]
-[Date "Sun Nov 10 2019"]
 [WhiteClock "0:00:04"]
 [BlackClock "0:00:25"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "14109603"]
 [Result "0-1"]
 [Round "16"]
-[Date "Sat Nov 09 2019"]
 [WhiteClock "0:00:42"]
 [BlackClock "0:02:14"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5000017"]
 [Result "0-1"]
 [Round "20"]
-[Date "Sun Nov 10 2019"]
 [WhiteClock "0:00:25"]
 [BlackClock "0:01:53"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "14105730"]
 [Result "0-1"]
 [Round "17"]
-[Date "Sat Nov 09 2019"]
 [WhiteClock "0:00:41"]
 [BlackClock "0:00:24"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "4130804"]
 [Result "0-1"]
 [Round "15"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:15"]
 [BlackClock "0:00:02"]
 
@@ -75,7 +70,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.25"]
 [Round "11.7"]
 [White "Mamedyarov,S"]
 [Black "Vidit,S"]
@@ -84,7 +78,6 @@
 [BlackFideId "5029465"]
 [BlackTitle "GM"]
 [ECO "D38"]
-[EventDate "2019.01.12"]
 [Opening "QGD"]
 [Variation "Ragozin variation"]
 [WhiteElo "2817"]
@@ -101,7 +94,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.30"]
 [Round "4"]
 [White "Mamedyarov,S"]
 [Black "Sevian,Samuel"]
@@ -111,7 +103,6 @@
 [BlackTeam "Montclair Sopranos"]
 [BlackTitle "GM"]
 [ECO "D30"]
-[EventDate "2019.01.08"]
 [Opening "QGD"]
 [WhiteElo "2817"]
 [WhiteFideId "13401319"]
@@ -130,7 +121,6 @@
 
 [Event "7th Norway Blitz 2019"]
 [Site "Stavanger NOR"]
-[Date "2019.06.03"]
 [Round "2.5"]
 [White "Mamedyarov,S"]
 [Black "Vachier Lagrave,M"]
@@ -144,7 +134,6 @@
 [Variation "fianchetto without c4"]
 [WhiteFideId "13401319"]
 [BlackFideId "623539"]
-[EventDate "2019.06.03"]
 
 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d5 5. O-O O-O 6. c3 Bf5 7. Qb3 Qc8 8. c4
 dxc4 9. Qxc4 Nbd7 10. Nc3 c5 11. d5 Bg4 12. e4 e6 13. e5 exd5 14. Qf4 Bxf3 15.
@@ -156,7 +145,6 @@ Qe6 29. Ree1 Qd5 30. h5 gxh5 31. Nf4 Qf7 32. Nd3 Kxg7 33. Nc5 Rxe1 34. Rxe1 Rxe1
 
 [Event "GCT Rapid Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.28"]
 [Round "4.5"]
 [White "Mamedyarov,S"]
 [Black "Nepomniachtchi,I"]
@@ -169,7 +157,6 @@ Qe6 29. Ree1 Qd5 30. h5 gxh5 31. Nf4 Qf7 32. Nd3 Kxg7 33. Nc5 Rxe1 34. Rxe1 Rxe1
 [Opening "Neo-Gruenfeld, 5.Nf3"]
 [WhiteFideId "13401319"]
 [BlackFideId "4168119"]
-[EventDate "2019.07.27"]
 
 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. Bg2 c6 6. O-O dxc4 7. a4 O-O 8. Na3
 Na6 9. Nxc4 Be6 10. b3 Bd5 11. Ba3 Rc8 12. Rc1 Re8 13. e3 c5 14. Qe2 cxd4 15.
@@ -181,7 +168,6 @@ Bxf6 35. Qd5 Qe7 36. Qd6 1-0
 
 [Event "GCT Rapid Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.28"]
 [Round "6.4"]
 [White "Mamedyarov,S"]
 [Black "Giri,A"]
@@ -194,7 +180,6 @@ Bxf6 35. Qd5 Qe7 36. Qd6 1-0
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteFideId "13401319"]
 [BlackFideId "24116068"]
-[EventDate "2019.07.27"]
 
 1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. c4 e5 5. e3 exd4 6. exd4 Bb4+ 7. Nc3 O-O 8.
 Qf3 Re8+ 9. Ne2 dxc4 10. O-O-O Kh8 11. Ng3 Bxc3 12. bxc3 Be6 13. d5 Bc8 14. Bxc4
@@ -207,7 +192,6 @@ Nb3 Rb8 35. g4 Nxb3+ 36. axb3 b5 37. f5 Bf7 38. Bxf7 Qxf7 39. Kb2 d5 40. Re7 Qf8
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "2.1"]
 [White "Mamedyarov,S"]
 [Black "Anand,V"]
@@ -220,7 +204,6 @@ Nb3 Rb8 35. g4 Nxb3+ 36. axb3 b5 37. f5 Bf7 38. Bxf7 Qxf7 39. Kb2 d5 40. Re7 Qf8
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteFideId "13401319"]
 [BlackFideId "5000017"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. e3 c5 5. Nf3 Nc6 6. c4 cxd4 7. exd4 Be6 8.
 Nc3 Bg7 9. a3 O-O 10. Be2 f5 11. c5 f4 12. Qa4 Bg4 13. Rd1 e6 14. h3 Bh5 15. O-O
@@ -232,7 +215,6 @@ bxc5 29. bxc5 Bh6 30. Ne5 Nxe5 31. dxe5 Rfc8 32. Rc3 Rb5 33. c6 Bg7 34. Nd4 Ra5
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "10.5"]
 [White "Mamedyarov,S"]
 [Black "Giri,A"]
@@ -246,7 +228,6 @@ bxc5 29. bxc5 Bh6 30. Ne5 Nxe5 31. dxe5 Rfc8 32. Rc3 Rb5 33. c6 Bg7 34. Nd4 Ra5
 [Variation "4.e3 Bf5"]
 [WhiteFideId "13401319"]
 [BlackFideId "24116068"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. Nf3 d5 3. e3 Bf5 4. c4 c6 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3 Qc7
 9. Bd2 Be7 10. Nxg6 hxg6 11. g3 Nbd7 12. Rc1 dxc4 13. Bxc4 O-O 14. Kf2 e5 15.
@@ -259,7 +240,6 @@ Qd3+ Kh6 42. Kh2 Re5 43. Qc4 Re6 44. Qxe6 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "17.2"]
 [White "Mamedyarov,S"]
 [Black "Nakamura,Hi"]
@@ -273,7 +253,6 @@ Qd3+ Kh6 42. Kh2 Re5 43. Qc4 Re6 44. Qxe6 1-0
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "13401319"]
 [BlackFideId "2016192"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
 Nc6 9. cxd5 Nxd5 10. Nxd5 exd5 11. Rc1 Bb6 12. Bb5 Qf6 13. b4 a6 14. Bxc6 bxc6
@@ -289,7 +268,6 @@ Rf1+ 54. Kg4 Kd5 55. Re8 Rg1+ 56. Kh5 Kd6 57. Re5 Rg2 58. Re8 Kd7 59. Re4 Kd6
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.10"]
 [Round "1.5"]
 [White "Mamedyarov,S"]
 [Black "Dominguez Perez,L"]
@@ -303,7 +281,6 @@ Rf1+ 54. Kg4 Kd5 55. Re8 Rg1+ 56. Kh5 Kd6 57. Re5 Rg2 58. Re8 Kd7 59. Re4 Kd6
 [Variation "exchange variation"]
 [WhiteFideId "13401319"]
 [BlackFideId "3503240"]
-[EventDate "2019.08.10"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 8.
 Bc4 O-O 9. Nf3 Qc7 10. Qe2 a6 11. O-O b5 12. Bd3 Nd7 13. Rd1 h6 14. a4 bxa4 15.
@@ -315,7 +292,6 @@ Bb4 22. Rbc1 Ba3 23. R1c6 Qb2 24. Rc2 Qb1+ 25. Kg2 Qb6 26. e5 f5 27. R2c6 Qb2
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "10.5"]
 [White "Mamedyarov,S"]
 [Black "Dominguez Perez,L"]
@@ -329,7 +305,6 @@ Bb4 22. Rbc1 Ba3 23. R1c6 Qb2 24. Rc2 Qb1+ 25. Kg2 Qb6 26. e5 f5 27. R2c6 Qb2
 [Variation "Paulsen-Mieses variation"]
 [WhiteFideId "13401319"]
 [BlackFideId "3503240"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 c6 5. Nge2 d5 6. exd5 cxd5 7. d4 exd4 8.
 Nxd4 O-O 9. O-O Bg4 10. Qd3 Bxd4 11. Qxd4 Nc6 12. Qf4 Bh5 13. Qh4 d4 14. Nd5
@@ -342,7 +317,6 @@ Bh3 Qxf5 28. Bxf5 Nd5 29. Bd2 Kf8 30. Kg2 Nde7 31. Bd3 Rd7 32. g4 Nd5 33. f4 Nb6
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "15.2"]
 [White "Mamedyarov,S"]
 [Black "Rapport,R"]
@@ -356,7 +330,6 @@ Bh3 Qxf5 28. Bxf5 Nd5 29. Bd2 Kf8 30. Kg2 Nde7 31. Bd3 Rd7 32. g4 Nd5 33. f4 Nb6
 [Variation "old main line, 6.O-O"]
 [WhiteFideId "13401319"]
 [BlackFideId "738590"]
-[EventDate "2019.08.13"]
 
 1. Nf3 Nf6 2. d4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. d5 Na6 8. Nc3
 Bb4 9. Bd2 Re8 10. dxe6 dxe6 11. Qc2 Nc5 12. Rad1 Qe7 13. a3 Bxc3 14. Bxc3 Be4
@@ -368,7 +341,6 @@ Qxe4+ 34. Kg1 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "14.4"]
 [White "Mamedyarov,S"]
 [Black "Karjakin,Sergey"]
@@ -382,7 +354,6 @@ Qxe4+ 34. Kg1 1-0
 [Variation "Paulsen-Mieses variation"]
 [WhiteFideId "13401319"]
 [BlackFideId "14109603"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Bd6 7. Ne2 O-O 8.
 O-O Nc6 9. Rb1 Re8 10. d4 h6 11. Be3 Qf6 12. Qd3 a6 13. d5 Bf5 14. Be4 Bxe4 15.
@@ -392,7 +363,6 @@ Qxe4 Na5 16. c4 b6 17. c5 bxc5 18. Qa4 Qf3 19. Rfe1 f5 20. Qxa5 f4 21. Bxc5 Qg4
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.13"]
 [Round "2.1"]
 [White "Mamedyarov,S"]
 [Black "Kasimdzhanov,R"]
@@ -405,7 +375,6 @@ Qxe4 Na5 16. c4 b6 17. c5 bxc5 18. Qa4 Qf3 19. Rfe1 f5 20. Qxa5 f4 21. Bxc5 Qg4
 [Opening "QGD"]
 [WhiteFideId "13401319"]
 [BlackFideId "14200244"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. e4 b5 6. a4 c6 7. Nc3 Qb6 8. Be2
 Nbd7 9. d5 exd5 10. exd5 b4 11. dxc6 Qxc6 12. Nb5 Bc5 13. O-O Bb7 14. Nbd4 Qd5
@@ -416,7 +385,6 @@ Bd5 28. Rxd5 Nxd5 29. Nd3 Qd4 30. Ne2 Qg4 31. Nef4+ Kf6 32. Nxd5+ 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.11"]
 [Round "1.2"]
 [White "Mamedyarov,S"]
 [Black "Rakotomaharo,Fy Antenaina"]
@@ -429,7 +397,6 @@ Bd5 28. Rxd5 Nxd5 29. Nd3 Qd4 30. Ne2 Qg4 31. Nef4+ Kf6 32. Nxd5+ 1-0
 [Opening "English opening"]
 [WhiteFideId "13401319"]
 [BlackFideId "13100050"]
-[EventDate "2019.09.10"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 c5 5. cxd5 exd5 6. d4 a6 7. g3 Bd6 8. Bg2
 Nc6 9. O-O O-O 10. b3 Bg4 11. dxc5 Bxc5 12. h3 Bh5 13. Bb2 Ba7 14. Ne2 Bg6 15.
@@ -440,7 +407,6 @@ Nxg4 28. Nd5 Kh8 29. e4 Nf6 30. Qc3 Qh5 31. Nxf6 Qxd1 32. Qc7 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.3"]
 [White "Mamedyarov,S"]
 [Black "So,W"]
@@ -453,7 +419,6 @@ Nxg4 28. Nd5 Kh8 29. e4 Nf6 30. Qc3 Qh5 31. Nxf6 Qxd1 32. Qc7 1-0
 [Opening "QGD"]
 [WhiteFideId "13401319"]
 [BlackFideId "5202213"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 h6 6. Bxf6 Bxf6 7. Qc2 O-O 8. h4
 c5 9. g4 g6 10. g5 hxg5 11. hxg5 Bg7 12. Nc3 cxd4 13. exd4 Nc6 14. O-O-O Nb4 15.
@@ -463,7 +428,6 @@ Rc7 22. Ne5 Rfc8 23. Nxf7 Rxf7 24. Qxe6 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.5"]
 [White "Mamedyarov,S"]
 [Black "So,W"]
@@ -476,7 +440,6 @@ Rc7 22. Ne5 Rfc8 23. Nxf7 Rxf7 24. Qxe6 1-0
 [Opening "QGD"]
 [WhiteFideId "13401319"]
 [BlackFideId "5202213"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 h6 6. Bxf6 Bxf6 7. Qc2 O-O 8. h4
 c5 9. g4 g6 10. g5 hxg5 11. hxg5 Bg7 12. Nc3 cxd4 13. exd4 Nc6 14. O-O-O Qa5 15.
@@ -487,7 +450,6 @@ fxe6 28. Nxg6+ Kf7 29. Nge5+ Ke8 30. Qh2 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.9"]
 [White "Mamedyarov,S"]
 [Black "So,W"]
@@ -501,7 +463,6 @@ fxe6 28. Nxg6+ Kf7 29. Nge5+ Ke8 30. Qh2 1-0
 [Variation "3.e4"]
 [WhiteFideId "13401319"]
 [BlackFideId "5202213"]
-[EventDate "2019.09.02"]
 
 1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Bf5 6. Nc3 e6 7. Bxd5 exd5 8.
 Qf3 Be6 9. Nge2 c5 10. O-O Nc6 11. Rd1 cxd4 12. Nxd4 Bc5 13. Nb3 Bb6 14. Nxd5
@@ -512,7 +473,6 @@ Rg8 21. Qxh7 Ke7 22. Nd4 Rad8 23. b3 Qb4 24. Qe4 Bxd4 25. Bxd4 Qb5 26. Qh4+ Ke8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.23"]
 [White "Mamedyarov,S"]
 [Black "So,W"]
@@ -525,7 +485,6 @@ Rg8 21. Qxh7 Ke7 22. Nd4 Rad8 23. b3 Qb4 24. Qe4 Bxd4 25. Bxd4 Qb5 26. Qh4+ Ke8
 [Opening "Neo-Gruenfeld, 6.O-O"]
 [WhiteFideId "13401319"]
 [BlackFideId "5202213"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. Nf3 d5 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 dxc4 7. Na3 c5 8. Nxc4
 Be6 9. b3 Nc6 10. Bb2 cxd4 11. Nxd4 Nxd4 12. Qxd4 Bd5 13. Bxd5 Qxd5 14. Rfd1
@@ -542,7 +501,6 @@ f8=Q Rxf8 67. Rxf8 Kc6 68. Rc8+ Kb5 69. Kd5 Kb6 70. Rb8+ Kc7 71. Rb2 Kd7 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.29"]
 [White "Mamedyarov,S"]
 [Black "So,W"]
@@ -555,7 +513,6 @@ f8=Q Rxf8 67. Rxf8 Kc6 68. Rc8+ Kb5 69. Kd5 Kb6 70. Rb8+ Kc7 71. Rb2 Kd7 1-0
 [Opening "Richter-Veresov attack"]
 [WhiteFideId "13401319"]
 [BlackFideId "5202213"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 h6 5. Bh4 c5 6. dxc5 e6 7. e4 Bxc5 8. exd5
 Qb6 9. dxe6 fxe6 10. Nge2 O-O 11. Qd2 Be3 12. Qd3 a6 13. Bg3 Rd8 14. Na4 Qa5+
@@ -567,7 +524,6 @@ Bc4 b5 22. Bxe6+ Kh8 23. Rhe1 Nf8 24. Be5 Rxe6 25. Qd4 Qa4 26. b4 Bb7 27. g4 Rc8
 
 [Event "Jerusalem FIDE Grand Prix"]
 [Site "Jerusalem ISR"]
-[Date "2019.12.13"]
 [Round "1.3"]
 [White "Mamedyarov,S"]
 [Black "Jakovenko,D"]
@@ -576,7 +532,6 @@ Bc4 b5 22. Bxe6+ Kh8 23. Rhe1 Nf8 24. Be5 Rxe6 25. Qd4 Qa4 26. b4 Bb7 27. g4 Rc8
 [BlackFideId "4122356"]
 [BlackTitle "GM"]
 [ECO "D37"]
-[EventDate "2019.12.11"]
 [Opening "QGD"]
 [Variation "classical variation (5.Bf4)"]
 [WhiteElo "2772"]

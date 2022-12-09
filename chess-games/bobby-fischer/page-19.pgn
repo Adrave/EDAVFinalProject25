@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "9"]
 [White "Fischer Robert J (USA)"]
 [Black "Geller Efim P (RUS)"]
@@ -29,7 +28,6 @@ g4 70.Rg8 Rf5 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "21"]
 [White "Fischer Robert J (USA)"]
 [Black "Keres Paul (EST)"]
@@ -58,7 +56,6 @@ Nxe4 72.Rf1 Bf5 73.c5+ dxc5 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "5"]
 [White "Fischer Robert J (USA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -80,7 +77,6 @@ Qe6 30.Rg1 a4 31.Rg4 Qb3 32.Qf1 a3 33.Rg3 Qxg3 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "19"]
 [White "Fischer Robert J (USA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -104,7 +100,6 @@ f4 42.Ba7 h3 43.Bb8 Kf5 44.Rf8+ Ke4 45.Re8 Rg5 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "13"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -128,7 +123,6 @@ Rd7 42.Ke4 Rxb7 43.Rf2 0-1
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1962.??.??"]
 [Round "1"]
 [White "Fischer Robert J (USA)"]
 [Black "Mednis Edmar J (USA)"]
@@ -157,7 +151,6 @@ Nb5 71.Bb4 h4 72.Bh3 Nc7 73.Be7 0-1
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "German Eugenio (BRA)"]
@@ -178,7 +171,6 @@ dxc3 20.Nxc3 Na4 21.Bb5 Rxb5 22.Nxa4 Rb4 23.Nc3 Bb7 24.Rhe1 Kh8
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -202,7 +194,6 @@ Qb2 42.d6 g5 43.Qe3 f4 44.Qa7+ 1-0
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -224,7 +215,6 @@ Rc7 31.c4 Kh7 32.h4 Kg6 33.Rd5 1-0
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -252,7 +242,6 @@ Rf6+ 58.Ke5 Rf7 59.Rb6 Rc7 60.Kd5 Kf7 61.Rxa6 Ke7 62.Re6+ Kd8
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Schweber Samuel (ARG)"]
@@ -276,7 +265,6 @@ Qa1+ 42.Kh2 e6 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Aloni Hilel"]
@@ -299,7 +287,6 @@ Na8 30.d5 cxd5 31.Rxd5 Re8 32.Rxe8+ Kxe8 33.Kf1 Nb6 34.Re5+ Kd8
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Ciocaltea Viktor (ROM)"]
@@ -320,7 +307,6 @@ Be6 20.Qh5 Bh6 21.Bg4 Bxg4 22.Qxg4 Nxc6 23.Rd1 b4 24.Nc4 bxc3
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -344,7 +330,6 @@ Rb6 42.b3 a4 43.Re6 axb3 44.axb3 Kd3 45.g5 0-1
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -368,7 +353,6 @@ Rd3+ 42.Kf2 Rd2+ 43.Kg3 Rxg2+ 0-1
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Najdorf Miguel (POL)"]
@@ -388,7 +372,6 @@ Nd7 14.Rxe4 dxe4 15.Nf5 Bc5 16.Ng7+ Ke7 17.Nf5+ Ke8 18.Be3 Bxe3
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Purevhav (MGL)"]
@@ -408,7 +391,6 @@ Nxb2 20.Kxb2 e4 21.Bxg7 Kxg7 22.Nxe4 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Robatsch Karl (AUT)"]
@@ -428,7 +410,6 @@ Nf8 14.gxh5 Ne6 15.Rdg1 Kh8 16.Bxg7+ Nxg7 17.Qh6 Rg8 18.Rg5 Qd8
 
 [Event "Simultan"]
 [Site "Copenhagen (Denmark)"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Nordfjoerd Sverrir (ISL)"]
@@ -450,14 +431,12 @@ Qxe3+ 31.Qxe3 Rxe3 32.Rxc4 Rb3 33.Rc2 Ne6 34.d5 Nc5 35.Bd4 Ne4 0-1
 
 [Event "Simul, 41b"]
 [Site "Copenhagen DEN"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Ole Illum Truelsen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C14"]
-[EventDate "1962.03.11"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -470,14 +449,12 @@ Qxe3+ 31.Qxe3 Rxe3 32.Rxc4 Rb3 33.Rc2 Ne6 34.d5 Nc5 35.Bd4 Ne4 0-1
 
 [Event "Simul, 41b"]
 [Site "Copenhagen DEN"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Erik Poulsen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C63"]
-[EventDate "1962.03.11"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -491,14 +468,12 @@ Qxe3+ 31.Qxe3 Rxe3 32.Rxc4 Rb3 33.Rc2 Ne6 34.d5 Nc5 35.Bd4 Ne4 0-1
 
 [Event "Simul, 41b"]
 [Site "Copenhagen DEN"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "K B Schou"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "1962.03.11"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -512,14 +487,12 @@ Qxe3+ 31.Qxe3 Rxe3 32.Rxc4 Rb3 33.Rc2 Ne6 34.d5 Nc5 35.Bd4 Ne4 0-1
 
 [Event "Simul, 41b"]
 [Site "Copenhagen DEN"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Palle Henriksen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -536,14 +509,12 @@ Qxe3+ 31.Qxe3 Rxe3 32.Rxc4 Rb3 33.Rc2 Ne6 34.d5 Nc5 35.Bd4 Ne4 0-1
 
 [Event "Simul, 41b"]
 [Site "Copenhagen DEN"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Ole Buch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E73"]
-[EventDate "1962.03.11"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -559,14 +530,12 @@ Qxe3+ 31.Qxe3 Rxe3 32.Rxc4 Rb3 33.Rc2 Ne6 34.d5 Nc5 35.Bd4 Ne4 0-1
 
 [Event "US Championship"]
 [Site "New York, NY USA"]
-[Date "1962.12.26"]
 [Round "7"]
 [White "Robert James Fischer"]
 [Black "William G Addison"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "1962.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 

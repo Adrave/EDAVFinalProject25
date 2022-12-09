@@ -1,6 +1,5 @@
 [Event "Match \"England-Netherlands\""]
 [Site "Cheltenham (England)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Penrose Jonathan (ENG)"]
@@ -21,7 +20,6 @@ Rxb8 25.Qxb8+ Bf8 26.Bf4 Rxf1+ 27.Kxf1 f6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Durao Joaquim (POR)"]
@@ -45,7 +43,6 @@ Ke6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Fauconnier Thibaut (FRA)"]
@@ -66,7 +63,6 @@ Qe4+ 19.Qe2 Qh4+ 20.g3 Qe4 21.Qxe4 Bxe4 22.Rg1 d5 23.cxd5 Bxd5
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Ghitescu Theodor (ROM)"]
@@ -89,7 +85,6 @@ Nh3 0-1
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Najdorf Miguel (POL)"]
@@ -113,7 +108,6 @@ Kxh6 41.Rh1+ Kg7 0-1
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Pachman Ludek (GER)"]
@@ -134,7 +128,6 @@ Qc7 25.a4 Kf8 26.Bd5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Penrose Jonathan (ENG)"]
@@ -162,7 +155,6 @@ a5 64.Nd2 a4 65.Kd3 Bf2 66.Nf1 Kd5 67.Ke2 Bd4 0-1
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -182,7 +174,6 @@ Ng4 19.Nxg4 Bxg4 20.Bxg7 Kxg7 21.f3 Bd7 22.Rdc1 1/2-1/2
 
 [Event "Simultan"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Salov Sergei (GER)"]
@@ -207,7 +198,6 @@ Nxc6 42.dxc6 Kf7 43.Bg2 Ne6+ 44.Kh6 Kf6 45.Bd5 Ng5 46.b5 Ne4
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Filip Miroslav (CZE)"]
@@ -229,7 +219,6 @@ Nd5 25.c4 Rxf3 26.Rxf3 bxc4 27.bxc4 Nb4 28.Qe4 Nc6 29.Nxc6 Qxc6
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Robatsch Karl (AUT)"]
@@ -250,7 +239,6 @@ Ne7 20.g4 Rc6 21.Ne4 Qxd2 22.Nxd2 Rfc8 23.Rxc6 Rxc6 24.Rc1 Rxc1
 
 [Event "Cup Clare Benedict"]
 [Site "Lucerne (Switzerland)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Dunkelblum Arthur (BEL)"]
@@ -272,7 +260,6 @@ Re7 31.Be5 Qd7 32.Rc7 Qxc7 33.Bxc7 Rxc7 34.Qd6 1-0
 
 [Event "Cup Clare Benedict"]
 [Site "Lucerne (Switzerland)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Johner Hans (SUI)"]
@@ -295,7 +282,6 @@ Kxe7 26.bxc6 Be8 27.g5 Kd6 28.Nf3 Bg6 29.Rc3 Rb8 30.gxf6 gxf6
 
 [Event "Cup Clare Benedict"]
 [Site "Lucerne (Switzerland)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Rossolimo Nicholas (RUS)"]
@@ -318,7 +304,6 @@ a5 31.Ne7+ Kh7 32.Nf5 a4 33.Rxa4 Rxc3 34.Qxc3 Qb1+ 35.Kf2 Qf1+
 
 [Event "It"]
 [Site "Bladel"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Mueller Giso (GER)"]
@@ -340,7 +325,6 @@ Raa8 32.h3 c5 33.Qe3 h6 34.dxc5 bxc5 35.f4 1-0
 
 [Event ""]
 [Site "Netherlands"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Ree Hans (NED)"]
@@ -363,7 +347,6 @@ Qxh6 32.Rxh6+ Kg7 33.Rh4 cxd5 34.cxd5 Rc3 35.Ree4 Rc5 36.c4 Nb7
 
 [Event "It (juniors)"]
 [Site "Netherlands"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Der Vliet Fred (NED)"]
@@ -386,7 +369,6 @@ Ng6 31.Ne3 Nh4 32.Qc4 Rd8 33.Qc5 Qd6 34.Nc4 Qxc5 35.bxc5 Nxd5
 
 [Event "It"]
 [Site "Hilversum (Netherlands)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Sosonko Gennadi (NED)"]
@@ -411,7 +393,6 @@ Rf2+ 48.Kg1 Rc2 49.Rb1 Bb8 50.Nb6 Rc7 51.Na4 Rc4 1/2-1/2
 
 [Event "Ch Netherlands (team)"]
 [Site "Netherlands"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Piket Joop J (NED)"]
@@ -436,7 +417,6 @@ Ng5+ 48.Kf4 Nxh7 49.Kf5 Kg3 50.Ke6 Kf4 1-0
 
 [Event "Ch Netherlands (team)"]
 [Site "Netherlands"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Verholt Gerard (NED)"]
@@ -461,7 +441,6 @@ Kf8 48.h7 1-0
 
 [Event "Match \"Netherlands-Sweden\""]
 [Site "Telex"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Arnlind Eric (SWE)"]
@@ -483,7 +462,6 @@ Bg4 25.Bxe5 Bxe2 26.Nxe2 dxe5 27.Rd7 b6 28.h3 Rcd8 29.Rfxf7 Rxd7
 
 [Event "Ch Netherlands (team)"]
 [Site "Netherlands"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Scholl Eduard"]
@@ -508,14 +486,12 @@ Rb1+ 42.Kg2 Rb2 43.Re3 Re5 44.Rxe5 dxe5 45.Rd7 c5 46.Rd6 Rb3
 
 [Event "Oirschot, simul"]
 [Site "Oirschot NED"]
-[Date "1976.04.10"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Gerard Welling"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A52"]
-[EventDate "1976.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -536,7 +512,6 @@ Rb1+ 42.Kg2 Rb2 43.Re3 Re5 44.Rxe5 dxe5 45.Rd7 c5 46.Rd6 Rb3
 [Result "1/2-1/2"]
 [Round "03"]
 [TimeControl "5400+30"]
-[Date "2021.07.01"]
 [WhiteClock "1:30:00"]
 [BlackClock "1:30:00"]
 
@@ -552,7 +527,6 @@ Rb1+ 42.Kg2 Rb2 43.Re3 Re5 44.Rxe5 dxe5 45.Rd7 c5 46.Rd6 Rb3
 [Result "0-1"]
 [Round "16"]
 [TimeControl "5400+30"]
-[Date "2021.07.01"]
 [WhiteClock "1:37:30"]
 [BlackClock "1:37:30"]
 

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "MacDonnell G"]
@@ -21,7 +20,6 @@ cxd5 14.cxd5 Nxd5 15.h3 Bd7 16.Qxd5 Rxe2 17.Ne5 Qf6 18.Qd3 Rxe5
 
 [Event "Match"]
 [Site "London (England)"]
-[Date "1866.??.??"]
 [Round "2"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Anderssen Adolf (GER)"]
@@ -46,7 +44,6 @@ Bxf4 48.gxf4 c3 49.h7 Kb1 50.h8Q c2 51.Qh7 Kb2 52.Qg7+ Kxa2 53.Qc3 1-0
 
 [Event "It"]
 [Site "Dundee (Scotland)"]
-[Date "1867.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Neumann Gustav R L (GER)"]
@@ -68,7 +65,6 @@ Ne7 25.Rag1 Ke6 26.Bxd6 Rxd6 27.Nf4+ Kf6 28.Nd3 Rb6 29.b3 Rh6
 
 [Event ""]
 [Site "Dundee (Scotland)"]
-[Date "1867.??.??"]
 [Round "2"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Fraser George"]
@@ -93,7 +89,6 @@ exf1Q+ 49.Kxf1 c3 50.Qh4+ Kc5 51.bxc3 Bxc3 52.Qe4 d2 53.Ke2 1-0
 
 [Event ""]
 [Site "Dundee (Scotland)"]
-[Date "1867.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Scott Ronald W"]
@@ -114,7 +109,6 @@ Kxf8 24.Rc1 Bd5 25.Rc8+ 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1867.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Winawer Szymon A (POL)"]
@@ -135,7 +129,6 @@ Nxc3 20.Nxd8 Rxd8 21.f7 Nd7 22.Rbe1 Ne2+ 23.Kh1 c5 24.Bxc5 Qe4
 
 [Event ""]
 [Site "Paris (France)"]
-[Date "1867.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Czarnowski J"]
@@ -155,7 +148,6 @@ Ke7 20.Rfd1 Nb6 21.Nc6+ Qxc6 22.Bxc6 Bxe3 23.Qb4+ 1-0
 
 [Event ""]
 [Site "London (England)"]
-[Date "1868.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -177,14 +169,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Blindfold simul, 6b"]
 [Site "Dundee SCO"]
-[Date "1867.02.21"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Crichton Milne Baxter"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "1867.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -200,14 +190,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Blindfold simul, 6b"]
 [Site "Dundee SCO"]
-[Date "1867.02.21"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "David Sime"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C23"]
-[EventDate "1867.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -222,14 +210,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Blindfold simul, 6b"]
 [Site "Dundee SCO"]
-[Date "1867.02.21"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "William Alexander Lindsay"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "1867.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -242,14 +228,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Blindfold simul, 6b"]
 [Site "Dundee SCO"]
-[Date "1867.02.21"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Patrick Sandeman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1867.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -263,14 +247,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.06.13"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Ignatz von Kolisch"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C38"]
-[EventDate "1867.06.04"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -286,14 +268,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.06.08"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Celso Golmayo Zupide"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B23"]
-[EventDate "1867.06.04"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -312,14 +292,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.06.06"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Jules Arnous de Riviere"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B23"]
-[EventDate "1867.06.04"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -335,14 +313,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.06.18"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Eugene Rousseau"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1867.06.04"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -356,14 +332,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.06.20"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Martin Severin From"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1867.06.04"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -377,14 +351,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Dundee m"]
 [Site "Dundee"]
-[Date "1867.04.??"]
 [Round "4"]
 [White "Wilhelm Steinitz"]
 [Black "George Brunton Fraser"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "1867.04.??"]
 [PlyCount "126"]
 [WhiteElo "?"]
 
@@ -403,14 +375,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.06.22"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Sam Loyd"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "1867.06.04"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -422,14 +392,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.07.10"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Cecil Valentine De Vere"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "1867.06.04"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -441,14 +409,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.06.28"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Emile D'Andre"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "1867.06.04"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -462,14 +428,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Dundee Congress"]
 [Site "Dundee SCO"]
-[Date "1867.09.07"]
 [Round "4"]
 [White "Wilhelm Steinitz"]
 [Black "George Alcock MacDonnell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "1867.09.04"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -483,14 +447,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Dundee Congress"]
 [Site "Dundee SCO"]
-[Date "1867.09.09"]
 [Round "5"]
 [White "Wilhelm Steinitz"]
 [Black "Gustav Richard Neumann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1867.09.04"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -505,14 +467,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1867.07.01"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Gustav Richard Neumann"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C38"]
-[EventDate "1867.06.04"]
 [PlyCount "112"]
 [WhiteElo "?"]
 
@@ -530,14 +490,12 @@ c4 31.Ba4 Rc7 32.Rd2 Kg7 1/2-1/2
 
 [Event "Dundee Congress"]
 [Site "Dundee SCO"]
-[Date "1867.09.11"]
 [Round "9"]
 [White "Wilhelm Steinitz"]
 [Black "Sigismund Hamel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "1867.09.04"]
 [PlyCount "59"]
 [WhiteElo "?"]
 

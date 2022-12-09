@@ -1,6 +1,5 @@
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Planinec Albin (SLO)"]
@@ -23,7 +22,6 @@ Re5 36.Be4 Rde8 37.R1xc6 Kg8 38.Rd6 Be6 39.Rxd4 1-0
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Radulov Ivan (BUL)"]
@@ -45,7 +43,6 @@ hxg5 31.f6 Bf8 32.Ne4 c2 33.Rb2 Nd4 34.Rc1 Re8 35.Nxg5 1-0
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smejkal Jan (CZE)"]
@@ -73,7 +70,6 @@ Kg7 58.Qd4+ f6 59.g5 Qg1+ 60.Kf3 Qf1+ 61.Ke4 Qb1+ 62.Kd5 Qb5+
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1973.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -95,7 +91,6 @@ Ke7 31.Rxd8 Kxd8 32.Rd2+ Ke8 33.Rd6 1-0
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -118,7 +113,6 @@ Qd8 38.Rb1 Qe7 39.Rbe1 g5 40.Bf2 Nh5 0-1
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -141,7 +135,6 @@ Nxd5 37.Rxc5 Nxe3 38.Rb5 Qe8 39.Qe2 Nxf5 40.Rxf5 1/2-1/2
 
 [Event "Izt"]
 [Site "Manila (Philippines)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Larsen Bent (DEN)"]
@@ -161,7 +154,6 @@ c5 19.Qc2 cxd4 20.Bxh7+ Kh8 21.Be4 Kg8 22.Bh7+ Kh8 23.Be4 0-1
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bilek Istvan (HUN)"]
@@ -180,7 +172,6 @@ c5 19.Qc2 cxd4 20.Bxh7+ Kh8 21.Be4 Kg8 22.Bh7+ Kh8 23.Be4 0-1
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Freyre Jorge (PUR)"]
@@ -200,7 +191,6 @@ Nf8 20.Nd1 Ng6 21.Bxg6 fxg6 22.Qxg6 Qf6 23.Qxf6 Bxf6 24.Ne3 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Keene Raymond D (ENG)"]
@@ -226,7 +216,6 @@ Kd8 53.Rd6+ 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Szmetan Jorge (ARG)"]
@@ -247,7 +236,6 @@ Qxb2 25.Qxb2 Rxb2 26.Rxc7 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Odessa (Ukraine)"]
-[Date "1974.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -269,7 +257,6 @@ Rb8 31.Rb1 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Odessa (Ukraine)"]
-[Date "1974.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -292,7 +279,6 @@ Rxb2 32.Bc1 Rc2 33.Ba3 Na6 34.Bf1 Bxc5 35.Bxc5 Kg7 36.Bd6 Rd8
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1974.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -311,7 +297,6 @@ Bxg2 14.Kxg2 Bxd4 15.Bxd4 d5 16.b3 e5 17.Bb2 d4 18.Qf3 Qd6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1974.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -331,7 +316,6 @@ Nxc5 20.Bxc5 Qf6 21.Nd4 Bxe2 22.Nxe2 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1974.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -353,7 +337,6 @@ Kg6 31.Rg2+ Kf7 32.Re4 Nf6 33.Rf4 Rd6 34.Rg5 Rad8 35.Rd5 1-0
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1974.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -372,7 +355,6 @@ Nd7 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1974.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -393,7 +375,6 @@ Qxa8 20.Qf3 Qb8 21.g4 Ng7 22.Qf6 Ngf5 23.gxf5 Nxf5 24.e4 Ng7
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1974.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -413,7 +394,6 @@ Bxg2 14.Kxg2 Re8 15.Rb1 Na6 16.f3 c6 17.dxc6 dxc6 18.Ne4 Be7
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1974.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -436,7 +416,6 @@ Nf8 31.Rb7 f6 32.Nc6 Ng6+ 33.Kg3 Rd6 34.Rxb6 Re6 35.Rb8+ Nf8
 
 [Event "Ch URS (1 liga)"]
 [Site "URS"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein David I (RUS)"]
@@ -462,7 +441,6 @@ Qd2+ 53.Kg3 Qe1+ 54.Kg2 Qe2+ 55.Kg3 Qe1+ 56.Kg2 Qe2+ 57.Kg3 Qe1+ 1/2-1/2
 
 [Event ""]
 [Site "URS"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -484,7 +462,6 @@ Rxe7 26.Rh1 Qe6 27.Rhe1 Qh3 28.Rg1 Qe6 29.Rge1 Qh3 30.Rh1 Qe6
 
 [Event ""]
 [Site "URS"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kuzmin Gennadi P (UKR)"]
@@ -507,14 +484,12 @@ a6 32.Qc4 Qf5 33.Qe2 g5 34.dxc5 Rxd2 35.Qxd2 Qg4 36.Nd4 Nxc5
 
 [Event "Spartak tt"]
 [Site "Moscow"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Nukhim N Rashkovsky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E97"]
-[EventDate "1974.??.??"]
 [PlyCount "34"]
 [WhiteElo "?"]
 
@@ -526,14 +501,12 @@ a6 32.Qc4 Qf5 33.Qe2 g5 34.dxc5 Rxd2 35.Qxd2 Qg4 36.Nd4 Nxc5
 
 [Event "Petrosian - Portisch Candidates Quarterfinal"]
 [Site "Palma ESP"]
-[Date "1974.02.12"]
 [Round "11"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Lajos Portisch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "1974.01.18"]
 [PlyCount "38"]
 [WhiteElo "?"]
 

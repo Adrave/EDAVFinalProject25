@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Baltimore (USA)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Arnold A B"]
@@ -21,7 +20,6 @@ hxg6 26.Qxg6+ Kh8 27.Qxf6+ 1-0
 
 [Event "It"]
 [Site "Baltimore (USA)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Sellmann Alexander G"]
@@ -50,7 +48,6 @@ Kc7 70.b4 e4 71.b5 e3 72.Rc1 Re2+ 73.Kb3 Rh2 74.b6+ Kxb6 75.c7 1-0
 
 [Event "Blindfold"]
 [Site "Philadelphia (USA)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Thompson J C"]
@@ -72,7 +69,6 @@ fxg4 19.Ne5 Bxe5 20.dxe5 Kb8 21.Qf5 Qh4 22.Be3 g3 23.Qh3 Qe7
 
 [Event ""]
 [Site "Philadelphia (USA)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Martinez (USA)"]
@@ -95,7 +91,6 @@ fxg5 31.Rh6 Be5 32.Rxb6 g4 33.Re7 Bd6 34.Rxd6 Rxd6 35.Bxf4 Rg6
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -117,7 +112,6 @@ h4 26.Ne2 Nxd4 27.Re7 Nxe2 28.Bxe2 g3 29.Bf3 Rg8 30.hxg3 hxg3
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Fleissig Bernhard"]
@@ -140,7 +134,6 @@ f5 37.f3 Kg7 38.c5 Ndf6 39.Nc4 1-0
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mackenzie George H (SCO)"]
@@ -162,7 +155,6 @@ Rf7 30.Re8+ Rf8 31.Bxh7+ Kf7 32.Bg6+ Kg8 33.Re7 1-0
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Paulsen Louis (GER)"]
@@ -185,7 +177,6 @@ Qc6 31.d4 R4h7 32.Qxg6 Rg7 33.Qc2 Bxd4 34.Rg3 Qe6 35.Qd1 Rd7
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Schwarz Adolf (HUN)"]
@@ -207,7 +198,6 @@ Nh8 26.Qg5+ Nhg6 27.Rxa7 Bd3 28.Rc1 Nc6 29.Rxh7 Rxf4 30.Rh6 Rd6
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1882.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Weiss Max (AUT)"]
@@ -230,7 +220,6 @@ Bxb5 31.Bh3 Re8 32.Re4 Bc6 33.Rxd4 cxd4 34.Ba3+ Be7 35.Bxe6 Bxa3
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Golmayo Zupide C"]
@@ -255,7 +244,6 @@ c3 48.Nf2 c2 49.Nd3 Nd7 50.Ke2 Nc5 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -277,7 +265,6 @@ Qh2+ 30.Kf1 Re2 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Englisch Berthold (AUT)"]
@@ -300,7 +287,6 @@ Rxc4 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Englisch Berthold (AUT)"]
@@ -326,7 +312,6 @@ Rb5 54.Nh5 Bd4 55.Bxd4 Rb4 56.Nf4 Rxd4 57.Kh5 Rd6 58.Kg4 Kf6 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mason James (ENG)"]
@@ -349,7 +334,6 @@ Qxc6 31.Qc2 Rf6 32.Qa4 Qxa4 33.Rxa4 Re7 34.Ra6 Rf8 35.a4 Kf7
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Noa Josef (HUN)"]
@@ -369,7 +353,6 @@ Bxe5 14.Bg5 Bc6 15.Bf1 Qe7 16.Nd5 Bxd5 17.Bxf6 Qxf6 18.Qxd5 Rd8
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Rosenthal Samuel (POL)"]
@@ -392,7 +375,6 @@ Bc7 26.b5 Bb7 27.Na4 Nh5 28.Nc5 Nxg3 29.Nxe6 Rxe6 30.Bf4 Ne4
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "13"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Rosenthal Samuel (POL)"]
@@ -416,7 +398,6 @@ Re6 31.Re4 Qa7 32.Qb5 Rd5 33.Qe2 Qa1+ 34.Kd2 Qa5+ 35.Kc1 Qa1+
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "20"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Zukertort Johannes (GER)"]
@@ -448,7 +429,6 @@ Ra4 88.Rb1 g3+ 89.Kh1 h2 0-1
 
 [Event "Simultan"]
 [Site "New Orleans (USA)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Seguin"]
@@ -471,7 +451,6 @@ Rae6 37.Rf4 Re5 38.Qa3 Re3 39.Bxf5 gxf5 40.Qd6 R8e6 41.Qc5 R3e5 0-1
 
 [Event ""]
 [Site "New Orleans (USA)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Maurian C"]
@@ -493,14 +472,12 @@ h6 26.Re1 Bb7 27.Bd1 Nc6 28.Ree3 Ne7 29.Qxf6 gxf6 30.Rxh6+ Kg7
 
 [Event "New York"]
 [Site "New York, NY USA"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "David Seip Thompson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1883.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -515,14 +492,12 @@ h6 26.Re1 Bb7 27.Bd1 Nc6 28.Ree3 Ne7 29.Qxf6 gxf6 30.Rxh6+ Kg7
 
 [Event "Philadelphia m"]
 [Site "Philadelphia, PA USA"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "David Seip Thompson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "1883.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -536,14 +511,12 @@ h6 26.Re1 Bb7 27.Bd1 Nc6 28.Ree3 Ne7 29.Qxf6 gxf6 30.Rxh6+ Kg7
 
 [Event "New Orleans"]
 [Site "?"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "J Buck"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "1883.??.??"]
 [PlyCount "158"]
 [WhiteElo "?"]
 
@@ -565,14 +538,12 @@ h6 26.Re1 Bb7 27.Bd1 Nc6 28.Ree3 Ne7 29.Qxf6 gxf6 30.Rxh6+ Kg7
 
 [Event "Philadelphia simul"]
 [Site "Germantown Assoc Hall"]
-[Date "1883.12.11"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Walter Penn Shipley"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1883.12.11"]
 [PlyCount "50"]
 [WhiteElo "?"]
 

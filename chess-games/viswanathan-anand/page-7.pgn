@@ -1,6 +1,5 @@
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "8.5"]
 [White "Anand, V."]
 [Black "Mamedyarov, S."]
@@ -9,7 +8,6 @@
 [WhiteElo "2776"]
 [BlackElo "2809"]
 [PlyCount "81"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -26,7 +24,6 @@ Bc2 34. Rc1 Rd8 35. Qb2 Bd3 36. Qc3 f5 37. Rd1 fxg4 38. Bxg4 Be4 39. Re1 Qb7
 
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.03"]
 [Round "6.5"]
 [White "Anand, V."]
 [Black "Nakamura, Hi"]
@@ -35,7 +32,6 @@ Bc2 34. Rc1 Rd8 35. Qb2 Bd3 36. Qc3 f5 37. Rd1 fxg4 38. Bxg4 Be4 39. Re1 Qb7
 [WhiteElo "2776"]
 [BlackElo "2787"]
 [PlyCount "83"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -52,7 +48,6 @@ g5 Kf7 41. b4 Kg6 42. d6 1-0
 
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.04"]
 [Round "8.4"]
 [White "Anand, V."]
 [Black "Grischuk, A."]
@@ -61,7 +56,6 @@ g5 Kf7 41. b4 Kg6 42. d6 1-0
 [WhiteElo "2776"]
 [BlackElo "2767"]
 [PlyCount "59"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -76,7 +70,6 @@ Kh7 22. Rhg1 Qf6 23. h4 gxf5 24. Qh3 f4 25. Rg5 Qe6 26. Rf5 Rg8 27. Ng5+ hxg5
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "1.2"]
 [White "Anand, V."]
 [Black "Artemiev, V."]
@@ -85,7 +78,6 @@ Kh7 22. Rhg1 Qf6 23. h4 gxf5 24. Qh3 f4 25. Rg5 Qe6 26. Rf5 Rg8 27. Ng5+ hxg5
 [WhiteElo "2776"]
 [BlackElo "2697"]
 [PlyCount "111"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -104,7 +96,6 @@ f6 Re1 53. Rc8 Rxe4+ 54. Kd5 Re1 55. Rxd8+ Kf7 56. Re8 1-0
 
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.02"]
 [Round "1.3"]
 [White "Anand, V."]
 [Black "Dubov, Daniil"]
@@ -113,7 +104,6 @@ f6 Re1 53. Rc8 Rxe4+ 54. Kd5 Re1 55. Rxd8+ Kf7 56. Re8 1-0
 [WhiteElo "2776"]
 [BlackElo "2701"]
 [PlyCount "69"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -129,7 +119,6 @@ Bd4 35. Ne4 1-0
 
 [Event "Bundesliga 2017-18"]
 [Site "Schwegenheim GER"]
-[Date "2018.03.10"]
 [Round "11.6"]
 [White "Anand, V."]
 [Black "Levin, F."]
@@ -138,7 +127,6 @@ Bd4 35. Ne4 1-0
 [WhiteElo "2783"]
 [BlackElo "2474"]
 [PlyCount "65"]
-[EventDate "2017.10.21"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -154,7 +142,6 @@ Be6 29. Bxe6 Qxe6 30. Qxg4 Rh8 31. dxe5 dxe5 32. Bxe5 Rh4 33. Qg3 1-0
 
 [Event "PRO League KO Stage 2018"]
 [Site "chess.com INT"]
-[Date "2018.03.13"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Sachdev, T."]
@@ -163,7 +150,6 @@ Be6 29. Bxe6 Qxe6 30. Qxg4 Rh8 31. dxe5 dxe5 32. Bxe5 Rh4 33. Qg3 1-0
 [WhiteElo "2776"]
 [BlackElo "2407"]
 [PlyCount "67"]
-[EventDate "2018.03.13"]
 [EventType "team (rapid)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -180,7 +166,6 @@ Nd3 b5 28. c5 Rc8 29. Ra6 Bd8 30. a3 Kg7 31. b4 axb4 32. axb4 Kf6 33. f4 Rb8
 
 [Event "6th Norway Blitz 2018"]
 [Site "Stavanger NOR"]
-[Date "2018.05.27"]
 [Round "3.2"]
 [White "Anand, V."]
 [Black "Vachier Lagrave, M."]
@@ -189,7 +174,6 @@ Nd3 b5 28. c5 Rc8 29. Ra6 Bd8 30. a3 Kg7 31. b4 axb4 32. axb4 Kf6 33. f4 Rb8
 [WhiteElo "2760"]
 [BlackElo "2789"]
 [PlyCount "79"]
-[EventDate "2018.05.27"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -206,7 +190,6 @@ exf5 Qd5 35. Qg2+ Kh8 36. f6 Qg8 37. Ng5 h6 38. f7 Qxg5 39. Qxg5 hxg5 40. Re8+
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.16"]
 [Round "17.2"]
 [White "Anand, V."]
 [Black "Giri, A."]
@@ -215,7 +198,6 @@ exf5 Qd5 35. Qg2+ Kh8 36. f6 Qg8 37. Ng5 h6 38. f7 Qxg5 39. Qxg5 hxg5 40. Re8+
 [WhiteElo "2759"]
 [BlackElo "2782"]
 [PlyCount "71"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -231,7 +213,6 @@ Qf5 28. Rd6 Be7 29. Rd1 Rd8 30. Rxd8+ Bxd8 31. Bd2 Kg8 32. Qe1 Be7 33. Nf1 Qd7
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.15"]
 [Round "9.5"]
 [White "Anand, V."]
 [Black "Vachier Lagrave, M."]
@@ -240,7 +221,6 @@ Qf5 28. Rd6 Be7 29. Rd1 Rd8 30. Rxd8+ Bxd8 31. Bd2 Kg8 32. Qe1 Be7 33. Nf1 Qd7
 [WhiteElo "2759"]
 [BlackElo "2789"]
 [PlyCount "125"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -260,7 +240,6 @@ bxa5 bxa5 61. Rh3 Ne6 62. Rg3 a4 63. Ke5 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.16"]
 [Round "10.2"]
 [White "Anand, V."]
 [Black "Caruana, F."]
@@ -269,7 +248,6 @@ bxa5 bxa5 61. Rh3 Ne6 62. Rg3 a4 63. Ke5 1-0
 [WhiteElo "2759"]
 [BlackElo "2816"]
 [PlyCount "103"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -287,7 +265,6 @@ Nxd6 cxd6 40. Rd1 Ne4 41. Kg2 Kf5 42. Rd5 Ke6 43. Rxa5 d5 44. b4 d4 45. Kf3 Nc3
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.13"]
 [Round "5.5"]
 [White "Anand, V."]
 [Black "Caruana, F."]
@@ -296,7 +273,6 @@ Nxd6 cxd6 40. Rd1 Ne4 41. Kg2 Kf5 42. Rd5 Ke6 43. Rxa5 d5 44. b4 d4 45. Kf3 Nc3
 [WhiteElo "2759"]
 [BlackElo "2816"]
 [PlyCount "113"]
-[EventDate "2018.06.12"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -315,7 +291,6 @@ dxe5+ 47. Kc5 Bd3 48. Nc3 g3 49. hxg3 hxg3 50. d6 Bf1 51. Kc6 Bxg2+ 52. Kc7 Bh3
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.23"]
 [Round "7.3"]
 [White "Anand, V."]
 [Black "Grischuk, A."]
@@ -324,7 +299,6 @@ dxe5+ 47. Kc5 Bd3 48. Nc3 g3 49. hxg3 hxg3 50. d6 Bf1 51. Kc6 Bxg2+ 52. Kc7 Bh3
 [WhiteElo "2759"]
 [BlackElo "2766"]
 [PlyCount "81"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -341,7 +315,6 @@ Nf6 28. Nxf6 Kxf6 29. Rfd1 Ke6 30. Ke3 Rh7 31. Rd5 f4+ 32. Kd3 g5 33. c5 Rd7
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.24"]
 [Round "10.4"]
 [White "Anand, V."]
 [Black "Caruana, F."]
@@ -350,7 +323,6 @@ Nf6 28. Nxf6 Kxf6 29. Rfd1 Ke6 30. Ke3 Rh7 31. Rd5 f4+ 32. Kd3 g5 33. c5 Rd7
 [WhiteElo "2759"]
 [BlackElo "2816"]
 [PlyCount "103"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -368,7 +340,6 @@ a5 Kf8 48. a6 Bc5 49. g4 hxg4 50. hxg4 Ke7 51. Kg2 Kd7 52. Nxc5+ 1-0
 
 [Event "GCT Rapid Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.20"]
 [Round "2.3"]
 [White "Anand, V."]
 [Black "Kramnik, V."]
@@ -377,7 +348,6 @@ a5 Kf8 48. a6 Bc5 49. g4 hxg4 50. hxg4 Ke7 51. Kg2 Kd7 52. Nxc5+ 1-0
 [WhiteElo "2759"]
 [BlackElo "2792"]
 [PlyCount "83"]
-[EventDate "2018.06.20"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -394,7 +364,6 @@ dxe5 Qg6 41. Qxf4 Qe6 42. Qd2+ 1-0
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.24"]
 [Round "15.3"]
 [White "Anand, V."]
 [Black "Karjakin, Sergey"]
@@ -403,7 +372,6 @@ dxe5 Qg6 41. Qxf4 Qe6 42. Qd2+ 1-0
 [WhiteElo "2759"]
 [BlackElo "2782"]
 [PlyCount "61"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -418,7 +386,6 @@ bxc6 h6 28. c7 Qb7 29. h4 Be3+ 30. Kh2 Rg8 31. Qa6 1-0
 
 [Event "Saint Louis Rapid 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.11"]
 [Round "1.3"]
 [White "Anand, V."]
 [Black "Nakamura, Hi"]
@@ -427,7 +394,6 @@ bxc6 h6 28. c7 Qb7 29. h4 Be3+ 30. Kh2 Rg8 31. Qa6 1-0
 [WhiteElo "2768"]
 [BlackElo "2777"]
 [PlyCount "69"]
-[EventDate "2018.08.11"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -443,7 +409,6 @@ Qxf7 34. Bxf7 Kxf7 35. Kg2 1-0
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.14"]
 [Round "6.5"]
 [White "Anand, V."]
 [Black "Grischuk, A."]
@@ -452,7 +417,6 @@ Qxf7 34. Bxf7 Kxf7 35. Kg2 1-0
 [WhiteElo "2768"]
 [BlackElo "2766"]
 [PlyCount "65"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -467,7 +431,6 @@ Nxf6 29. Qxf6 Qxf6 30. Bxf6 Rd7 31. Bh3 Rdc7 32. Bxc8 Bxc8 33. h6 1-0
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.25"]
 [Round "2.22"]
 [White "Anand, Viswanathan"]
 [Black "Ragger, Markus"]
@@ -475,7 +438,6 @@ Nxf6 29. Qxf6 Qxf6 30. Bxf6 Rd7 31. Bh3 Rdc7 32. Bxc8 Bxc8 33. h6 1-0
 [WhiteElo "2771"]
 [BlackElo "2686"]
 [ECO "C54"]
-[EventDate "2018.09.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bg5 h6 7. Bh4 Be7 8.
  Nbd2 d6 9. a4 Nh5 10. g3 Nf6 11. Bxf6 Bxf6 12. h4 Ne7 13. Nh2 d5 14. Bb3 
@@ -489,7 +451,6 @@ Ne7 45. Nxd6 Nxc6 46. Rxf8+ Kxf8 47. Nf5 1-0
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "3.24"]
 [White "Anand, Viswanathan"]
 [Black "Levin, Ev"]
@@ -497,7 +458,6 @@ Ne7 45. Nxd6 Nxc6 46. Rxf8+ Kxf8 47. Nf5 1-0
 [WhiteElo "2773"]
 [BlackElo "2516"]
 [ECO "C11"]
-[EventDate "2018.12.26"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. 
 Qd2 b5 9. Nd1 cxd4 10. Nxd4 Nxd4 11. Bxd4 Bc5 12. c3 O-O 13. Be2 f6 14. 
@@ -510,7 +470,6 @@ Qxe2 38. Bxe2 g5 39. Ne1 Nd7 40. Nd3 Kf7 41. Kg2 1-0
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "5.3"]
 [White "Anand, Viswanathan"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -518,7 +477,6 @@ Qxe2 38. Bxe2 g5 39. Ne1 Nd7 40. Nd3 Kf7 41. Kg2 1-0
 [WhiteElo "2773"]
 [BlackElo "2702"]
 [ECO "C50"]
-[EventDate "2018.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 d6 7. c3 a5 8. 
 Re1 h6 9. Nbd2 Be6 10. Bb5 Qb8 11. Bxc6 bxc6 12. d4 exd4 13. cxd4 Bb6 14. 
@@ -532,7 +490,6 @@ Rxc8+ Kg7 39. Nf5+ Kg6 40. Rxh6+ Rxh6 41. Nxd6 Kg5 42. g3 Kg4 43. Kg2 Rh7
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "3.17"]
 [White "Anand, Viswanathan"]
 [Black "Hovhannisyan, Robert"]
@@ -540,7 +497,6 @@ Rxc8+ Kg7 39. Nf5+ Kg6 40. Rxh6+ Rxh6 41. Nxd6 Kg5 42. g3 Kg4 43. Kg2 Rh7
 [WhiteElo "2773"]
 [BlackElo "2637"]
 [ECO "C54"]
-[EventDate "2018.12.29"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 h6 7. Re1 O-O 8. 
 Nbd2 a5 9. Nf1 a4 10. Bb5 Ng4 11. d4 exd4 12. cxd4 Nxd4 13. Nxd4 Nxf2 14. 
@@ -570,7 +526,6 @@ Kb5 132. Nd4+ Ka6 133. Bd8 Kb7 134. Nc2 Kc8 135. Bb6 Kb8 136. Nb4 Kb7 137.
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "18.25"]
 [White "Anand, Viswanathan"]
 [Black "Yudin, Sergei"]
@@ -578,7 +533,6 @@ Kb5 132. Nd4+ Ka6 133. Bd8 Kb7 134. Nc2 Kc8 135. Bb6 Kb8 136. Nb4 Kb7 137.
 [WhiteElo "2773"]
 [BlackElo "2507"]
 [ECO "B07"]
-[EventDate "2018.12.29"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nge2 Be7 5. Be3 O-O 6. f3 exd4 7. Qxd4 Nc6
 8. Qd2 a6 9. O-O-O b5 10. Kb1 Ne5 11. Nd4 c5 12. Nf5 Bxf5 13. exf5 Qc8 14.
@@ -592,7 +546,6 @@ axb3 cxb3 33. cxb3 Qf3 34. Rd8 Qxf4 35. Ree8 Qxf5+ 36. Ka2 Kh7 37. Rxf8 b4
 
 [Event "Tata Steel India Blitz TB"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Nakamura, Hikaru"]
@@ -600,7 +553,6 @@ axb3 cxb3 33. cxb3 Qf3 34. Rd8 Qxf4 35. Ree8 Qxf5+ 36. Ka2 Kh7 37. Rxf8 b4
 [WhiteElo "2773"]
 [BlackElo "2746"]
 [ECO "C54"]
-[EventDate "2018.11.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Bg5 h6 8. 
 Bh4 a6 9. a4 Ba7 10. Nbd2 g5 11. Bg3 g4 12. Nh4 Nh5 13. Re1 Qg5 14. Nf1 
@@ -615,7 +567,6 @@ Kb5 Ra1 51. Re4 Kd5 52. Rd4+ Kxe5 53. Rxc4 Kd5 54. Rd4+ Ke5 55. Ra4 1-0
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.27"]
 [Round "10.14"]
 [White "Anand, Viswanathan"]
 [Black "Potkin, Vladimir"]
@@ -623,7 +574,6 @@ Kb5 Ra1 51. Re4 Kd5 52. Rd4+ Kxe5 53. Rxc4 Kd5 54. Rd4+ Ke5 55. Ra4 1-0
 [WhiteElo "2773"]
 [BlackElo "2597"]
 [ECO "C65"]
-[EventDate "2018.12.26"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. Be3 
 Bd6 8. Nbd2 O-O 9. Nc4 c5 10. Nxd6 cxd6 11. Nd2 Qe7 12. f4 exf4 13. Bxf4 

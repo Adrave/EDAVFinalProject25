@@ -1,6 +1,5 @@
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2005.01.16"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -26,7 +25,6 @@ Rc8 48.Kg3 Rxc7 49.Kf4 Rd4 50.Ra1 Rf7+ 51.Kg3 Rd8 52.Ra6+ Ke5
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2005.03.10"]
 [Round "14"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -51,7 +49,6 @@ Rc5 49.Kg1 Kh7 50.Qd6 Rf5 51.Qd7 Rf3 52.Qa7 Qd5 0-1
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2005.03.22"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -76,7 +73,6 @@ Kc8 42.Rf7+ Rxh3 43.Rxf2 Bxd6 44.Kc2 Kd7 45.Ree2 Kc6 46.Rf6 Kc7
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2005.03.24"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -102,7 +98,6 @@ Rf5 38.Rxf5 exf5 39.Qxh6 Qe6 40.Qg7 Bd6 41.h3 f4 42.Rxa5 Bxe5
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "2005.03.26"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -130,7 +125,6 @@ Nb6 0-1
 
 [Event "It (cat.20)"]
 [Site "Sofia (Bulgaria)"]
-[Date "2005.05.19"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -150,7 +144,6 @@ Re8 14.cxd5 Qxd5 15.Bf4 Rac8 16.Qc1 Na5 17.c4 Qe4 18.Bd1 Qd3
 
 [Event "It (active) (KO-system)"]
 [Site "Leon (Spain)"]
-[Date "2005.06.11"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Carlsen Magnus (NOR)"]
@@ -172,7 +165,6 @@ Ke7 30.Rxd5 1-0
 
 [Event "It (active) (KO-system)"]
 [Site "Leon (Spain)"]
-[Date "2005.06.11"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Carlsen Magnus (NOR)"]
@@ -201,7 +193,6 @@ Bg7 71.Kd5 1-0
 
 [Event "It (active) (KO-system)"]
 [Site "Leon (Spain)"]
-[Date "2005.06.12"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasimdzhanov Rustam (UZB)"]
@@ -223,7 +214,6 @@ Nf6 20.Be2 Nd5 21.Nc4 Nd7 22.g5 Nxe3 23.Qxe3 Bd5 24.Rhf1 Bc5
 
 [Event "It (active) (KO-system)"]
 [Site "Leon (Spain)"]
-[Date "2005.06.12"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasimdzhanov Rustam (UZB)"]
@@ -246,7 +236,6 @@ Nbc6 37.Rxd8 Rxd8 38.b5 Na5 39.Ra1 1-0
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2005.08.11"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -269,7 +258,6 @@ Qb7 37.Qd6 Kxg7 38.Ba6 1-0
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2005.08.13"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -294,7 +282,6 @@ Nd7 47.Nd5 b3 48.Kc3 Nc5 49.Kb2 g5 0-1
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2005.08.14"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -318,7 +305,6 @@ h4 32.Kg2 Bf4 33.Qf2 Qd8 34.Rhe1 Bg3 35.Qd2 Bxe1 36.Rxe1 Qd6
 
 [Event "Ch World FIDE"]
 [Site "San Luis (Argentina)"]
-[Date "2005.09.30"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -340,7 +326,6 @@ Qb6 20.Nf5 Ne5 21.Rg3 g6 22.Nf3 Ned3 23.Qd2 Bxd5 24.Nxh6+ Bxh6
 
 [Event "Ch World FIDE"]
 [Site "San Luis (Argentina)"]
-[Date "2005.10.06"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Polgar Judit (HUN)"]
@@ -367,7 +352,6 @@ Re4 54.Qa6 Rfe8 55.Re2 Qf8 56.Qd3 Qf6 57.Nc2 Bc5 58.Rge1 Qe5
 
 [Event "Ch World FIDE"]
 [Site "San Luis (Argentina)"]
-[Date "2005.10.10"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasimdzhanov Rustam (UZB)"]
@@ -388,7 +372,6 @@ Nh5 25.Kb1 Bxf4 26.Nd5 Bxd5 27.Rxd5 Bb8 28.Rhd1 c3 29.Rd7 1-0
 
 [Event "It (active) \"Venaco\""]
 [Site "Corsico (France)"]
-[Date "2005.10.28"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Zude Erik Dr (GER)"]
@@ -412,7 +395,6 @@ Qd4+ 42.Qf2 Qd8 1-0
 
 [Event "It (active) \"Venaco\""]
 [Site "Corsico (France)"]
-[Date "2005.10.29"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Izoria Zviad (GEO)"]
@@ -438,7 +420,6 @@ h4 54.Rh8 h3 55.b6 f5 56.Rd7 1-0
 
 [Event "It (active) \"Venaco\" (knockout)"]
 [Site "Corsico (France)"]
-[Date "2005.10.29"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -462,7 +443,6 @@ a5 36.Qa1 Qc7 37.Red2 Qb6 38.Rd6 Qg1+ 39.Kb2 Qe3 40.Rd8+ Rxd8
 
 [Event "It (active) \"Venaco\" (knockout)"]
 [Site "Corsico (France)"]
-[Date "2005.10.29"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kogan Artur (ISR)"]
@@ -486,7 +466,6 @@ Rxb4+ 42.cxb4 Qxe5+ 43.Rc3 Qe2+ 44.Qxe2 1-0
 
 [Event "It \"Corsica Masters\" (KO-system)"]
 [Site "Bastia (France)"]
-[Date "2005.11.03"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Markowski Tomasz (POL)"]
@@ -506,7 +485,6 @@ O-O 14.Nb3 a5 15.bxa5 bxa5 16.Rfd1 Nd7 17.Nb5 Ne5 18.Qc3 Qb8
 
 [Event "It \"Corsica Masters\" (KO-system)"]
 [Site "Bastia (France)"]
-[Date "2005.11.04"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -532,7 +510,6 @@ Ra7 49.g4 hxg4 50.hxg4 Rc5 51.g5 fxg5 52.Qg4 Bf4 53.Rxf4 gxf4
 
 [Event "It \"Corsica Masters\" (KO-system)"]
 [Site "Bastia (France)"]
-[Date "2005.11.04"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -552,7 +529,6 @@ Rf2 20.Qh3 Rxe4+ 21.Nxe4 1-0
 
 [Event "It \"Corsica Masters\" (KO-system)"]
 [Site "Bastia (France)"]
-[Date "2005.11.05"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Milov Vadim (SUI)"]
@@ -577,7 +553,6 @@ Kg5 47.Bf3 Kf4 48.Bh5 f6 49.Bf3 Ke3 50.Bh5 Kd3 0-1
 
 [Event "Bundesliga 2005/06"]
 [Site "Germany"]
-[Date "2005.12.11"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Landa Konstantin (RUS)"]

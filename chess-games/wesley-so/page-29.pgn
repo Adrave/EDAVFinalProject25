@@ -1,6 +1,5 @@
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.16"]
 [Round "3.6"]
 [White "So, W."]
 [Black "Rapport, R."]
@@ -9,7 +8,6 @@
 [WhiteElo "2808"]
 [BlackElo "2702"]
 [PlyCount "95"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -28,7 +26,6 @@ Qxe4 47. Nf6 Qb4+ 48. Ke3 1-0
 
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.19"]
 [Round "5.5"]
 [White "So, W."]
 [Black "Harikrishna, P."]
@@ -37,7 +34,6 @@ Qxe4 47. Nf6 Qb4+ 48. Ke3 1-0
 [WhiteElo "2808"]
 [BlackElo "2766"]
 [PlyCount "95"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -56,7 +52,6 @@ h6 47. Nd5 Ke6 48. Nc7+ 1-0
 
 [Event "PRO League Pacific 2017"]
 [Site "chess.com INT"]
-[Date "2017.01.11"]
 [Round "1"]
 [White "So, W."]
 [Black "Holt, C."]
@@ -65,7 +60,6 @@ h6 47. Nd5 Ke6 48. Nc7+ 1-0
 [WhiteElo "2808"]
 [BlackElo "2567"]
 [PlyCount "147"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -89,7 +83,6 @@ Qe4+ 66. Kb3 Qd5+ 67. c4 Qd3+ 68. Kb4 Qd2+ 69. Kb5 Qb2+ 70. Qb4 Qd4 71. c5 Qd5
 
 [Event "PRO League Pacific 2017"]
 [Site "chess.com INT"]
-[Date "2017.01.11"]
 [Round "1"]
 [White "So, W."]
 [Black "Javakhadze, Z."]
@@ -98,7 +91,6 @@ Qe4+ 66. Kb3 Qd5+ 67. c4 Qd3+ 68. Kb4 Qd2+ 69. Kb5 Qb2+ 70. Qb4 Qd4 71. c5 Qd5
 [WhiteElo "2808"]
 [BlackElo "2468"]
 [PlyCount "111"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -119,7 +111,6 @@ Qxd2 34. Qb6+ Bb7 35. Rxa3 Rc8 36. Qe3 Qxg2 37. Re2 Qg4 38. Rf2 Qe6 39. Rb3 Qc4
 
 [Event "79th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2017.01.25"]
 [Round "10.7"]
 [White "So, W."]
 [Black "Wojtaszek, R."]
@@ -128,7 +119,6 @@ Qxd2 34. Qb6+ Bb7 35. Rxa3 Rc8 36. Qe3 Qxg2 37. Re2 Qg4 38. Rf2 Qe6 39. Rb3 Qc4
 [WhiteElo "2808"]
 [BlackElo "2750"]
 [PlyCount "67"]
-[EventDate "2017.01.14"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -145,7 +135,6 @@ Rxb4 Rc7 29. cxd7 Rxc4 30. Rxc4 Bxc4 31. Rc1 Be6 32. Rc8 Rxc8 33. dxc8=Q+ Bxc8
 
 [Event "PRO League Pacific 2017"]
 [Site "chess.com INT"]
-[Date "2017.02.01"]
 [Round "4"]
 [White "So, W."]
 [Black "Breckenridge, S."]
@@ -154,7 +143,6 @@ Rxb4 Rc7 29. cxd7 Rxc4 30. Rxc4 Bxc4 31. Rc1 Be6 32. Rc8 Rxc8 33. dxc8=Q+ Bxc8
 [WhiteElo "2808"]
 [BlackElo "2239"]
 [PlyCount "58"]
-[EventDate "2017.01.11"]
 [EventType "team (rapid)"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -171,7 +159,6 @@ fxe5 29. Be7 Kh7 1-0
 
 [Event "PRO League Pacific 2017"]
 [Site "chess.com INT"]
-[Date "2017.02.01"]
 [Round "4"]
 [White "So, W."]
 [Black "Haessler, C."]
@@ -180,7 +167,6 @@ fxe5 29. Be7 Kh7 1-0
 [WhiteElo "2808"]
 [BlackElo "2139"]
 [PlyCount "83"]
-[EventDate "2017.01.11"]
 [EventType "team (rapid)"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -199,7 +185,6 @@ Rg8 28. Bc3 Kc8 29. Bd4 Nd7 30. Kg2 c5 31. Bf2 Rg6 32. Nxe6 Rxe6 33. Rxd5 b6
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.11"]
 [Round "5"]
 [White "So, W."]
 [Black "Vachier Lagrave, M."]
@@ -208,7 +193,6 @@ Rg8 28. Bc3 Kc8 29. Bd4 Nd7 30. Kg2 c5 31. Bf2 Rg6 32. Nxe6 Rxe6 33. Rxd5 b6
 [WhiteElo "2808"]
 [BlackElo "2796"]
 [PlyCount "71"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -226,7 +210,6 @@ Nf6 34. Qc8 Bg7 35. h3 h4 36. Kf1 1-0
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.11"]
 [Round "5"]
 [White "So, W."]
 [Black "Gozzoli, Y."]
@@ -235,7 +218,6 @@ Nf6 34. Qc8 Bg7 35. h3 h4 36. Kf1 1-0
 [WhiteElo "2808"]
 [BlackElo "2583"]
 [PlyCount "97"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -255,7 +237,6 @@ Nd6 41. Ne5 Nf5 42. Ke4 Rf6 43. Rg5 Nd4 44. Rxh5 Nxc2 45. Rh7+ Kd8 46. h5 Nd4
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.15"]
 [Round "6"]
 [White "So, W."]
 [Black "Brown, Michael William"]
@@ -264,7 +245,6 @@ Nd6 41. Ne5 Nf5 42. Ke4 Rf6 43. Rg5 Nd4 44. Rxh5 Nxc2 45. Rh7+ Kd8 46. h5 Nd4
 [WhiteElo "2808"]
 [BlackElo "2452"]
 [PlyCount "117"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -285,7 +265,6 @@ Nc3 Qd4 55. Nxa4 d5 56. Ncb2 Bb6 57. Nxb6 Qxb6 58. Qe3 Qb4 59. Qxe5 1-0
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.22"]
 [Round "7"]
 [White "So, W."]
 [Black "Chirila, I."]
@@ -294,7 +273,6 @@ Nc3 Qd4 55. Nxa4 d5 56. Ncb2 Bb6 57. Nxb6 Qxb6 58. Qe3 Qb4 59. Qxe5 1-0
 [WhiteElo "2808"]
 [BlackElo "2533"]
 [PlyCount "145"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -318,7 +296,6 @@ Bc5 Ke6 67. Kc6 Ba5 68. Be3 Bd8 69. Bb6 Be7 70. Bc5 Bd8 71. Be3 Be7 72. Kc7 Bf6
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.22"]
 [Round "7"]
 [White "So, W."]
 [Black "Viswanadha, Kesav"]
@@ -327,7 +304,6 @@ Bc5 Ke6 67. Kc6 Ba5 68. Be3 Bd8 69. Bb6 Be7 70. Bc5 Bd8 71. Be3 Be7 72. Kc7 Bf6
 [WhiteElo "2808"]
 [BlackElo "2372"]
 [PlyCount "87"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -346,7 +322,6 @@ cxd4 22. cxd4 Nb4 23. Qg4 Kf8 24. Ng3 Rxc1 25. Bxc1 Rd7 26. Nh5 g5 27. Nf6 Bxf6
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.08"]
 [Round "2"]
 [White "So, W."]
 [Black "Dreev, A."]
@@ -355,7 +330,6 @@ cxd4 22. cxd4 Nb4 23. Qg4 Kf8 24. Ng3 Rxc1 25. Bxc1 Rd7 26. Nh5 g5 27. Nf6 Bxf6
 [WhiteElo "2822"]
 [BlackElo "2651"]
 [PlyCount "97"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -375,7 +349,6 @@ Kf2 b5 41. Rb7 Rb3 42. Rb6 Bf5 43. Nf7 Bg6 44. Ne5 Bf5 45. h3 Rb2+ 46. Ke1 Rb1+
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.08"]
 [Round "2"]
 [White "So, W."]
 [Black "Brown, Michael William"]
@@ -384,7 +357,6 @@ Kf2 b5 41. Rb7 Rb3 42. Rb6 Bf5 43. Nf7 Bg6 44. Ne5 Bf5 45. h3 Rb2+ 46. Ke1 Rb1+
 [WhiteElo "2822"]
 [BlackElo "2478"]
 [PlyCount "143"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -408,7 +380,6 @@ Kb5 1-0
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.15"]
 [Round "3"]
 [White "So, W."]
 [Black "Ashwin, J."]
@@ -417,7 +388,6 @@ Kb5 1-0
 [WhiteElo "2822"]
 [BlackElo "2492"]
 [PlyCount "103"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -437,7 +407,6 @@ Nf4 Bf5 41. Ke2 Bb1 42. a3 Bc2 43. Nd3+ Kf5 44. b4 Ke4 45. f3+ Kd5 46. Kd2 Ba4
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.15"]
 [Round "3"]
 [White "So, W."]
 [Black "Shimanov, A."]
@@ -446,7 +415,6 @@ Nf4 Bf5 41. Ke2 Bb1 42. a3 Bc2 43. Nd3+ Kf5 44. b4 Ke4 45. f3+ Kd5 46. Kd2 Ba4
 [WhiteElo "2822"]
 [BlackElo "2642"]
 [PlyCount "133"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -469,7 +437,6 @@ dxc6 1-0
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.26"]
 [Round "5.2"]
 [White "So, W."]
 [Black "Nilsen, Jo"]
@@ -478,7 +445,6 @@ dxc6 1-0
 [WhiteElo "2822"]
 [BlackElo "2414"]
 [PlyCount "79"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -497,7 +463,6 @@ c4 Qa5 22. d5 Ne7 23. Be5 Bxe5 24. Nxe5 Qc5 25. Qf3 Qd6 26. Rae1 Rf8 27. Qg3 c6
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.25"]
 [Round "4.5"]
 [White "So, W."]
 [Black "Oussedik, E."]
@@ -506,7 +471,6 @@ c4 Qa5 22. d5 Ne7 23. Be5 Bxe5 24. Nxe5 Qc5 25. Qf3 Qd6 26. Rae1 Rf8 27. Qg3 c6
 [WhiteElo "2822"]
 [BlackElo "2155"]
 [PlyCount "59"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -523,7 +487,6 @@ Qc3 a5 29. Rxe7 Rxe7 30. Nc6 1-0
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.25"]
 [Round "4.7"]
 [White "So, W."]
 [Black "Hansen, Eric"]
@@ -532,7 +495,6 @@ Qc3 a5 29. Rxe7 Rxe7 30. Nc6 1-0
 [WhiteElo "2822"]
 [BlackElo "2616"]
 [PlyCount "45"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -548,7 +510,6 @@ Nc6 21. e6 Ne5 22. exf7 Kf6 23. f8=Q+ 1-0
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.4"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -556,7 +517,6 @@ Nc6 21. e6 Ne5 22. exf7 Kf6 23. f8=Q+ 1-0
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. h3 a5 8. 
 Re1 h6 9. Bb3 Be6 10. Ba4 Ba7 11. d4 Bd7 12. Bc2 exd4 13. cxd4 Nb4 14. Nc3
@@ -569,7 +529,6 @@ Nc2 Qe5+ 27. f4 Qc5 28. Rxd6 Bc6 29. e5 Nd5 30. Re4 Rxc3 31. bxc3 Nxc3 32.
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.26"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -577,7 +536,6 @@ Nc2 Qe5+ 27. f4 Qc5 28. Rxd6 Bc6 29. e5 Nd5 30. Re4 Rxc3 31. bxc3 Nxc3 32.
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "D94"]
-[EventDate "2018.07.24"]
 
 1. Nf3 d5 2. e3 g6 3. c4 c6 4. Nc3 Bg7 5. d4 Nf6 6. Be2 O-O 7. O-O Bg4 8. 
 cxd5 Nxd5 9. h3 Bxf3 10. Bxf3 e6 11. e4 Nb6 12. e5 N8d7 13. Ne4 Qc7 14. 
@@ -611,7 +569,6 @@ Kg2 Kb4 162. Kh1 Kc4 163. Kg2 Kc5 164. Kh1 1/2-1/2
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.20"]
 [Round "1.5"]
 [White "So, Wesley"]
 [Black "Krishna, C R G"]
@@ -619,7 +576,6 @@ Kg2 Kb4 162. Kh1 Kc4 163. Kg2 Kc5 164. Kh1 1/2-1/2
 [WhiteElo "2776"]
 [BlackElo "2445"]
 [ECO "A50"]
-[EventDate "2018.10.20"]
 
 1. d4 Nf6 2. c4 c6 3. Bf4 Qb6 4. Qd2 d5 5. e3 Bf5 6. Nc3 e6 7. f3 Nbd7 8. 
 g4 Bg6 9. h4 h6 10. c5 Qd8 11. b4 Be7 12. Bg3 O-O 13. Nh3 a5 14. b5 e5 15.
@@ -633,7 +589,6 @@ Qe5 Qxe5 45. Rxe5 a4 46. Rxf5+ Kxe7 1/2-1/2
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.28"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -641,7 +596,6 @@ Qe5 Qxe5 45. Rxe5 a4 46. Rxf5+ Kxe7 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "A40"]
-[EventDate "2018.07.24"]
 
 1. Nf3 e6 2. d4 Ke7 3. c4 f6 4. Nc3 Kf7 5. g3 Bb4 6. Bg2 Ne7 7. O-O Rf8 8.
  Qc2 Kg8 9. e4 d5 10. exd5 exd5 11. cxd5 a6 12. a3 Bd6 13. Re1 Nd7 14. Nd2
@@ -651,7 +605,6 @@ Qd4 Nbc8 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.03"]
 [Round "9.1"]
 [White "So, Wesley"]
 [Black "Wojtaszek, Radoslaw"]
@@ -659,7 +612,6 @@ Qd4 Nbc8 1/2-1/2
 [WhiteElo "2776"]
 [BlackElo "2727"]
 [ECO "B90"]
-[EventDate "2018.09.24"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 
 8. f3 Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 Nh5 13. Nd5 Bxd5 14. 
@@ -680,7 +632,6 @@ Bb8 81. Ka4 d3 82. Bh5 d2 83. Bf3 Ba7 84. Be2 Kc6 85. a6 Kb6 86. Kb4 Bb8
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.04"]
 [Round "10.2"]
 [White "So, Wesley"]
 [Black "Sargissian, Gabriel"]
@@ -688,7 +639,6 @@ Bb8 81. Ka4 d3 82. Bh5 d2 83. Bf3 Ba7 84. Be2 Kc6 85. a6 Kb6 86. Kb4 Bb8
 [WhiteElo "2776"]
 [BlackElo "2691"]
 [ECO "C45"]
-[EventDate "2018.09.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 
 Nd5 8. Nd2 Rb8 9. c4 Nb4 10. Nf3 c5 11. g3 Bb7 12. Bg2 Qe6 13. O-O Be7 14.

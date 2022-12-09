@@ -1,6 +1,5 @@
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Boissonet Carlos P (ARG)"]
@@ -8,7 +7,6 @@
 [ECO "A49"]
 [BlackElo "2400"]
 [PlyCount "87"]
-[EventDate "1991.??.??"]
 
 1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d6 5. d4 O-O 6. Bg2 Nc6 7. d5 Nb4 8. c4 c5
 9. O-O b5 10. Nc3 bxc4 11. bxc4 Rb8 12. Qd2 e6 13. Rab1 exd5 14. Nxd5 Nfxd5 15.
@@ -21,7 +19,6 @@ Kd8 41. f5 Ke7 42. Bg8 gxf5 43. Bxh7 Ke6 44. h5 1-0
 
 [Event "It (cat.11)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Panno Oscar (ARG)"]
@@ -29,7 +26,6 @@ Kd8 41. f5 Ke7 42. Bg8 gxf5 43. Bxh7 Ke6 44. h5 1-0
 [ECO "B48"]
 [BlackElo "2440"]
 [PlyCount "69"]
-[EventDate "1991.??.??"]
 
 1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nc6 7. Be3 Nf6 8.
 O-O Ne5 9. h3 Bc5 10. Na4 Ba7 11. c4 d6 12. Rc1 Nxd3 13. Qxd3 Bd7 14. Nc3 O-O
@@ -41,7 +37,6 @@ Kh2 Qxe5+ 34. Qxe5 Rxd8 35. Qc7 1-0
 
 [Event "Bundesliga 1990/91"]
 [Site "Germany"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ramos Domingo (JPN)"]
@@ -49,7 +44,6 @@ Kh2 Qxe5+ 34. Qxe5 Rxd8 35. Qc7 1-0
 [ECO "B90"]
 [BlackElo "2306"]
 [PlyCount "57"]
-[EventDate "1991.??.??"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Qc7 7. Be2 Nc6 8. O-O
 e6 9. Be3 Be7 10. f4 Nxd4 11. Qxd4 e5 12. Qd3 exf4 13. Rxf4 Be6 14. Bd4 d5 15.
@@ -60,7 +54,6 @@ Qh7 Rg6 28. Rd1 Qc2 29. Qh8+ 1-0
 
 [Event "Bundesliga 1990/91"]
 [Site "Germany"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Seibold Hubert Dr (GER)"]
@@ -68,7 +61,6 @@ Qh7 Rg6 28. Rd1 Qc2 29. Qh8+ 1-0
 [ECO "B35"]
 [BlackElo "2255"]
 [PlyCount "57"]
-[EventDate "1991.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 Qa5 8.
 O-O O-O 9. Bb3 d6 10. h3 Bd7 11. Re1 Rfe8 12. Qd3 Nxd4 13. Bxd4 Bc6 14. Rad1
@@ -79,7 +71,6 @@ Bxd5 28. Qf6+ Kh7 29. Rf5 1-0
 
 [Event "It (open)"]
 [Site "Leningrad (Russia)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Mukhametov Eldar (RUS)"]
@@ -87,7 +78,6 @@ Bxd5 28. Qf6+ Kh7 29. Rf5 1-0
 [ECO "A22"]
 [BlackElo "2475"]
 [PlyCount "107"]
-[EventDate "1991.??.??"]
 
 1. c4 c6 2. e4 e5 3. Nf3 Nf6 4. Nc3 Bb4 5. Nxe5 O-O 6. Nd3 Bxc3 7. dxc3 Nxe4 8.
 Be2 d5 9. cxd5 Qxd5 10. O-O Bf5 11. Be3 Qe6 12. Re1 Nd7 13. Bf1 Qd5 14. Nf4
@@ -102,7 +92,6 @@ b4 Nf7 47. Bf5 g6 48. Bc8 Nd8 49. Kc4 Ke8 50. Kb3 Ke7 51. Ka4 Ne6 52. Bxb7 Nd4
 
 [Event "Match (active)"]
 [Site "New York (USA)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -110,7 +99,6 @@ b4 Nf7 47. Bf5 g6 48. Bc8 Nd8 49. Kc4 Ke8 50. Kb3 Ke7 51. Ka4 Ne6 52. Bxb7 Nd4
 [ECO "B22"]
 [BlackElo "2555"]
 [PlyCount "51"]
-[EventDate "1991.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 cxd4 6. cxd4 e6 7. Nc3 Qd6 8.
 Bd3 Nf6 9. O-O Be7 10. Re1 O-O 11. Bg5 Rd8 12. Qe2 Nb4 13. Bc4 Bd7 14. Rad1 Bc6
@@ -120,7 +108,6 @@ Qf3 Rdc8 22. Bd2 a6 23. Rxg7 Kxg7 24. Bxh6+ Kh7 25. Qh3 Ng8 26. Bf8+ 1-0
 
 [Event "Match (active)"]
 [Site "New York (USA)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -128,7 +115,6 @@ Qf3 Rdc8 22. Bd2 a6 23. Rxg7 Kxg7 24. Bxh6+ Kh7 25. Qh3 Ng8 26. Bf8+ 1-0
 [ECO "B31"]
 [BlackElo "2555"]
 [PlyCount "53"]
-[EventDate "1991.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. h3 d6 8. d4
 cxd4 9. cxd4 Bd7 10. Nc3 a6 11. Bf1 e5 12. d5 Ne7 13. a4 Nh5 14. Qb3 Rb8 15.
@@ -139,7 +125,6 @@ Ne6 1-0
 
 [Event "It (cat.12)"]
 [Site "San Francisco (USA)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Grefe John A (USA)"]
@@ -147,7 +132,6 @@ Ne6 1-0
 [ECO "C18"]
 [BlackElo "2385"]
 [PlyCount "71"]
-[EventDate "1991.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
 Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 dxc3 11. Bf4 Nbc6 12. Qd3 Rg4 13. Qf3 Rh4 14. g3
@@ -159,7 +143,6 @@ Bg2 34. Rg3 Bd5 35. h5 a5 36. Ra3 1-0
 
 [Event "It (cat.12)"]
 [Site "San Francisco (USA)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Rogers Ian (AUS)"]
@@ -167,7 +150,6 @@ Bg2 34. Rg3 Bd5 35. h5 a5 36. Ra3 1-0
 [ECO "C10"]
 [BlackElo "2565"]
 [PlyCount "51"]
-[EventDate "1991.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5
 8. dxc5 Bxc5 9. Qe2 O-O 10. Bg5 Qa5+ 11. c3 Be7 12. Ne5 b6 13. Bb5 a6 14. Bc6
@@ -177,7 +159,6 @@ Ra7 15. b4 Qa3 16. Qc2 Nd5 17. Bxd5 exd5 18. Bc1 Bf5 19. Bxa3 Bxc2 20. Nc6 Bf6
 
 [Event "It"]
 [Site "Barcelona (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Akopian Vladimir (ARM)"]
@@ -185,7 +166,6 @@ Ra7 15. b4 Qa3 16. Qc2 Nd5 17. Bxd5 exd5 18. Bc1 Bf5 19. Bxa3 Bxc2 20. Nc6 Bf6
 [ECO "B51"]
 [BlackElo "2600"]
 [PlyCount "75"]
-[EventDate "1992.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Ba4 c4 8. d4
 cxd3 9. Bg5 e6 10. Qxd3 Be7 11. Bxf6 gxf6 12. Bxc6 Bxc6 13. c4 O-O 14. Nc3 Kh8
@@ -197,7 +177,6 @@ Bc7 22. Qxa6 bxc4 23. b4 Qg7 24. g3 d5 25. exd5 Bxf4 26. Kf2 f5 27. gxf4 Qxc3
 
 [Event "It"]
 [Site "Barcelona (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -205,7 +184,6 @@ Bc7 22. Qxa6 bxc4 23. b4 Qg7 24. g3 d5 25. exd5 Bxf4 26. Kf2 f5 27. gxf4 Qxc3
 [ECO "E11"]
 [BlackElo "2575"]
 [PlyCount "27"]
-[EventDate "1992.??.??"]
 
 1. Nf3 Nf6 2. c4 e6 3. d4 Bb4+ 4. Bd2 c5 5. e3 O-O 6. Be2 Bxd2+ 7. Qxd2 cxd4 8.
 Nxd4 d5 9. cxd5 Nxd5 10. Nc3 Nxc3 11. Qxc3 Bd7 12. O-O Qb6 13. Rac1 Nc6 14.
@@ -214,7 +192,6 @@ Rfd1 1/2-1/2
 
 [Event "It"]
 [Site "Barcelona (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lautier Joel (FRA)"]
@@ -222,7 +199,6 @@ Rfd1 1/2-1/2
 [ECO "A46"]
 [BlackElo "2580"]
 [PlyCount "123"]
-[EventDate "1992.??.??"]
 
 1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O c5 6. Bg5 Qb6 7. a4 a6 8. Nc3
 Ne4 9. Nxe4 Bxe4 10. axb5 Qxb5 11. Qd2 f6 12. Bf4 Qb7 13. c4 cxd4 14. Qxd4 e5
@@ -238,7 +214,6 @@ Rg4 52. Nf3 Rg3 53. Ne5+ Kg8 54. f6 Rxg5 55. Ke6 Rg1 56. f7+ Kg7 57. Nd7 Rf1
 
 [Event "It"]
 [Site "Barcelona (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ochoa De Echaguen F Javier (ES"]
@@ -246,7 +221,6 @@ Rg4 52. Nf3 Rg3 53. Ne5+ Kg8 54. f6 Rxg5 55. Ke6 Rg1 56. f7+ Kg7 57. Nd7 Rf1
 [ECO "B33"]
 [BlackElo "2405"]
 [PlyCount "24"]
-[EventDate "1992.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Bg5 Qa5+ 12. Bd2 Qd8 1/2-1/2
@@ -254,7 +228,6 @@ Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Bg5 Qa5+ 12. Bd2 Qd8 1/2-1/2
 
 [Event "It"]
 [Site "Barcelona (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Rivas Pastor Manuel (ESP)"]
@@ -262,7 +235,6 @@ Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Bg5 Qa5+ 12. Bd2 Qd8 1/2-1/2
 [ECO "B07"]
 [BlackElo "2520"]
 [PlyCount "122"]
-[EventDate "1992.??.??"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd2 e5 6. Nf3 exd4 7. Nxd4 Qb6 8. Nb3
 a5 9. Rb1 a4 10. Nc1 g6 11. Qf3 Bg7 12. Bd3 O-O 13. N1e2 Bg4 14. Qg3 Bxe2 15.
@@ -278,7 +250,6 @@ Nh6+ Kf8 60. Kf6 Ke8 61. Nf5 Kd8 1-0
 
 [Event "It"]
 [Site "Barcelona (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sokolov Ivan (NED)"]
@@ -286,7 +257,6 @@ Nh6+ Kf8 60. Kf6 Ke8 61. Nf5 Kd8 1-0
 [ECO "C49"]
 [BlackElo "2625"]
 [PlyCount "25"]
-[EventDate "1992.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6 dxc6 7. Nxe5 Re8
 8. Nd3 Bxc3 9. dxc3 Nxe4 10. Bf4 Bf5 11. Re1 Qd7 12. f3 Nf6 13. Qd2 1/2-1/2
@@ -294,7 +264,6 @@ Nh6+ Kf8 60. Kf6 Ke8 61. Nf5 Kd8 1-0
 
 [Event "It (open) \"]
 [Site "Cologne (Germany)"]
-[Date "1992.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Auer Martin (GER)"]
@@ -302,7 +271,6 @@ Nh6+ Kf8 60. Kf6 Ke8 61. Nf5 Kd8 1-0
 [ECO "E14"]
 [BlackElo "2340"]
 [PlyCount "61"]
-[EventDate "1992.??.??"]
 
 1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O Be7 6. c4 c5 7. Nc3 cxd4 8. exd4
 d6 9. d5 e5 10. Ng5 Nbd7 11. f4 Nc5 12. fxe5 dxe5 13. Bxh7 Ba6 14. Bd3 Nxd3 15.
@@ -313,7 +281,6 @@ Qxf6+ Kg8 22. Qg6+ Kf8 23. Bh6+ Rxh6 24. Qxh6+ Ke8 25. Qg6+ Kf8 26. Qf6+ Ke8
 
 [Event "It (open) \"]
 [Site "Cologne (Germany)"]
-[Date "1992.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ragozin Evgeni (RUS)"]
@@ -321,7 +288,6 @@ Qxf6+ Kg8 22. Qg6+ Kf8 23. Bh6+ Rxh6 24. Qxh6+ Ke8 25. Qg6+ Kf8 26. Qf6+ Ke8
 [ECO "A49"]
 [BlackElo "2441"]
 [PlyCount "16"]
-[EventDate "1992.??.??"]
 
 1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 Nbd7 7. O-O e5 8. dxe5
 Ng4 1/2-1/2
@@ -329,7 +295,6 @@ Ng4 1/2-1/2
 
 [Event "It (open) \"]
 [Site "Cologne (Germany)"]
-[Date "1992.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Reinemer Frank (GER)"]
@@ -337,7 +302,6 @@ Ng4 1/2-1/2
 [ECO "A80"]
 [BlackElo "2265"]
 [PlyCount "63"]
-[EventDate "1992.??.??"]
 
 1. d4 f5 2. Nf3 Nf6 3. Bg5 Ne4 4. h4 Nxg5 5. hxg5 g6 6. Nc3 d5 7. Qd2 Bg7 8.
 Qf4 c6 9. O-O-O Qd6 10. g3 Be6 11. e3 Nd7 12. Bd3 Bf7 13. Qxd6 exd6 14. Rh4 Be6
@@ -348,7 +312,6 @@ Rd8 Kf7 28. Rb8 Rg7 29. Rh6 Kg8 30. Ne6 Rf7 31. f4 a6 32. a3 1-0
 
 [Event "Bundesliga"]
 [Site "Germany"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gutman Lev (GER)"]
@@ -356,7 +319,6 @@ Rd8 Kf7 28. Rb8 Rg7 29. Rh6 Kg8 30. Ne6 Rf7 31. f4 a6 32. a3 1-0
 [ECO "A16"]
 [BlackElo "2465"]
 [PlyCount "43"]
-[EventDate "1992.??.??"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Nxc3 6. bxc3 Bg7 7. Bg2 O-O 8.
 O-O Nd7 9. d4 c6 10. Qc2 Qa5 11. Rd1 Nb6 12. a4 Re8 13. h3 c5 14. Ne5 Bf5 15.
@@ -366,7 +328,6 @@ e4 Be6 16. f4 Rac8 17. d5 Bd7 18. Nxd7 Nxd7 19. e5 c4 20. Be3 Nc5 21. Kh2 Red8
 
 [Event "It (open)"]
 [Site "Sevilla (Spain)"]
-[Date "1992.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -374,7 +335,6 @@ e4 Be6 16. f4 Rac8 17. d5 Bd7 18. Nxd7 Nxd7 19. e5 c4 20. Be3 Nc5 21. Kh2 Red8
 [ECO "B48"]
 [BlackElo "2600"]
 [PlyCount "25"]
-[EventDate "1992.??.??"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. Bd3 Nf6 8.
 O-O Bd6 9. h3 Bf4 10. Qf3 Bxe3 11. Qxe3 Qb6 12. Nf5 Qxe3 13. Nxe3 1/2-1/2
@@ -382,7 +342,6 @@ O-O Bd6 9. h3 Bf4 10. Qf3 Bxe3 11. Qxe3 Qb6 12. Nf5 Qxe3 13. Nxe3 1/2-1/2
 
 [Event "It (open)"]
 [Site "Sevilla (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Jimenez Morales Francisco (ESP"]
@@ -390,7 +349,6 @@ O-O Bd6 9. h3 Bf4 10. Qf3 Bxe3 11. Qxe3 Qb6 12. Nf5 Qxe3 13. Nxe3 1/2-1/2
 [ECO "E18"]
 [BlackElo "2271"]
 [PlyCount "61"]
-[EventDate "1992.??.??"]
 
 1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O b6 7. Nc3 Bb7 8. Ne5
 Nbd7 9. cxd5 Nxe5 10. d6 Nc6 11. dxe7 Qxe7 12. Qa4 Nd8 13. e4 Qe8 14. Qxe8 Rxe8
@@ -401,7 +359,6 @@ Ned6 28. Ne4 Nxe4 29. Bxe4 Ba6 30. Bxc6 Rd8 31. Bd5 1-0
 
 [Event "San Francisco"]
 [Site "San Francisco, CA USA"]
-[Date "1991.??.??"]
 [Round "8"]
 [White "Tal, Mikhail"]
 [Black "Rogers, Ian"]
@@ -419,7 +376,6 @@ d4 26. f3 Bf5+ 27. Kf2 Re3 28. Rab1 1-0
 
 [Event "Barcelona"]
 [Site "Barcelona ESP"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Tal, Mikhail"]
 [Black "Lautier, Joel"]
@@ -443,7 +399,6 @@ Ne5 h4 62. Nf3 1-0
 
 [Event "Sevilla Open"]
 [Site "Seville ESP"]
-[Date "1992.??.??"]
 [Round "4"]
 [White "Tal, Mikhail"]
 [Black "Romero, Martin"]
@@ -462,7 +417,6 @@ Bd3 Kf8 33. Qb8 g6 34. Nd6 1-0
 
 [Event "Barcelona"]
 [Site "Barcelona ESP"]
-[Date "1992.??.??"]
 [Round "1"]
 [White "Tal, Mikhail"]
 [Black "Lautier, Joel"]
@@ -470,7 +424,6 @@ Bd3 Kf8 33. Qb8 g6 34. Nd6 1-0
 [WhiteElo "2520"]
 [BlackElo "2580"]
 [ECO "A46"]
-[EventDate "1992.??.??"]
 
 1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O c5 6. Bg5 Qb6 7. a4 a6 8. 
 Nc3 Ne4 9. Nxe4 Bxe4 10. axb5 Qxb5 11. Qd2 f6 12. Bf4 Qb7 13. c4 cxd4 14. 

@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -23,7 +22,6 @@ Qg6 25.f5 Qg4 26.Rdh2 Rc8 27.f6 Rxf6 28.Qxh7+ Kf8 29.Rh1 Qg6+
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "12"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -46,7 +44,6 @@ Rec8 25.b3 Nd6 26.Qd2 Qb6 27.Rc1 Kd7 28.Rxc7+ Rxc7 29.Bb1 Be7
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "32"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -73,7 +70,6 @@ Rc3+ 53.Kg4 Rc4 54.Kf5 Bxa5 55.Rh7+ Kc6 56.Bxa5 Rc5+ 57.Ke6 Rxa5
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "34"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -104,7 +100,6 @@ Rxa5 77.Re5 Ra1 78.Kxh5 Rg1 79.Rg5 Rh1 80.Rf5 Kb6 81.Rxf7 Kc6
 
 [Event "It"]
 [Site "Kecskemet (Hungary)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Asztalos Lajos (HUN)"]
@@ -127,7 +122,6 @@ Bg7 32.Ba2 b4 33.Bc4 bxa3 34.bxa3 Qa5 35.Qe4 Qc7 36.Qf4 Rab8
 
 [Event "Simultan"]
 [Site "Berlin (Germany)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Benko Francisco (ARG)"]
@@ -150,7 +144,6 @@ Qxd3 31.Bxd3 Red8 32.Rf3 Nd5 33.Be5 Bd6 34.Ba6 Bxe5 35.fxe5 Rc6
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -179,7 +172,6 @@ Ke5 65.Qb8+ Ke6 66.Qxa7 Qf5+ 67.Kh4 Qf4+ 68.Kh3 Qf3+ 69.Kh2 Qe2+
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -201,7 +193,6 @@ Bxb7 30.Rxb7 Rxc3+ 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -229,7 +220,6 @@ Kb7 58.Qb5+ Ka7 59.Qa4+ Kb7 60.Qb5+ Bb6 61.Qd3 Qg6 62.Qxg6 fxg6
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "13"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -251,7 +241,6 @@ Rxc8 31.Bxa4 Qe4 32.Qd2 Qxa4 33.d6 Qd4 34.Qxd4 exd4 0-1
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "15"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -275,7 +264,6 @@ Qc4 42.Qd8 Qc6 43.Rd1 Qf3 44.Rf1 Qc6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "23"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -306,7 +294,6 @@ Kc3 81.h6 Rg2+ 82.Kf7 Rh2 83.Kg7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "25"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -332,7 +319,6 @@ h5 53.h4 Ke7 54.Ke3 b5 55.Rb6 Kf7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Zacatecas"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Meraz E"]
@@ -356,14 +342,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Clock simul, 9b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1929.03.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Harold Meyer Phillips"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A09"]
-[EventDate "1929.??.??"]
 [PlyCount "143"]
 [WhiteElo "?"]
 
@@ -384,14 +368,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul"]
 [Site "Mexico City MEX"]
-[Date "1929.05.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J M Bringas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "1929.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -407,14 +389,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul, 50b"]
 [Site "LA Athletic Club, Los Angeles, CA USA"]
-[Date "1929.05.07"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F W Grabill"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "1929.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -433,14 +413,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul"]
 [Site "Mexico City MEX"]
-[Date "1929.05.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J M Bringas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "1929.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -458,14 +436,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul, 40b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F Guerrero"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "1929.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -479,14 +455,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul, 40b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Mendoza"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "1929.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -500,14 +474,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul, 50b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.25"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Perez Hernandez"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "1929.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -524,14 +496,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul, 40b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Tostado"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "1929.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -545,14 +515,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Bradley Beach"]
 [Site "Bradley Beach, NJ USA"]
-[Date "1929.06.03"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Isador Samuel Turover"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A12"]
-[EventDate "1929.06.03"]
 [PlyCount "159"]
 [WhiteElo "?"]
 
@@ -574,14 +542,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul, 50b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.25"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C Cardenas"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "1929.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -596,14 +562,12 @@ Kh7 43.Kf3 1-0
 
 [Event "Simul, 40b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Rivera"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "1929.??.??"]
 [PlyCount "141"]
 [WhiteElo "?"]
 

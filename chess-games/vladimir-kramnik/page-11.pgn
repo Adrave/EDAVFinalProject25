@@ -1,6 +1,5 @@
 [Event "4th Zurich CC Blitz"]
 [Site "Zurich SUI"]
-[Date "2015.02.13"]
 [Round "3.3"]
 [White "Kramnik, V."]
 [Black "Nakamura, Hi"]
@@ -9,7 +8,6 @@
 [WhiteElo "2783"]
 [BlackElo "2776"]
 [PlyCount "106"]
-[EventDate "2015.02.13"]
 [EventType "tourn (blitz)"]
 [EventRounds "5"]
 [EventCountry "SUI"]
@@ -30,7 +28,6 @@ Kg7 53. a6 Kh7 1/2-1/2
 
 [Event "4th Zurich CC Blitz"]
 [Site "Zurich SUI"]
-[Date "2015.02.13"]
 [Round "5.2"]
 [White "Kramnik, V."]
 [Black "Caruana, F."]
@@ -39,7 +36,6 @@ Kg7 53. a6 Kh7 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2811"]
 [PlyCount "146"]
-[EventDate "2015.02.13"]
 [EventType "tourn (blitz)"]
 [EventRounds "5"]
 [EventCountry "SUI"]
@@ -63,7 +59,6 @@ Nb4 Rb1 73. Kc5 Rxb4 0-1
 
 [Event "Vugar Gashimov Mem 2015"]
 [Site "Shamkir AZE"]
-[Date "2015.04.23"]
 [Round "6.5"]
 [White "Kramnik, V."]
 [Black "Caruana, F."]
@@ -72,7 +67,6 @@ Nb4 Rb1 73. Kc5 Rxb4 0-1
 [WhiteElo "2783"]
 [BlackElo "2802"]
 [PlyCount "108"]
-[EventDate "2015.04.17"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -93,7 +87,6 @@ Qxa5 42. Bg4 Rf8 43. Rd3 Qb4 44. Bg3 h5 45. gxh6 Bxh6 46. Kh2 Nd2 47. Ra1 Ne4
 
 [Event "TCh-RUS Men 2015"]
 [Site "Sochi RUS"]
-[Date "2015.05.04"]
 [Round "4.1"]
 [White "Kramnik, V."]
 [Black "Nepomniachtchi, I."]
@@ -102,7 +95,6 @@ Qxa5 42. Bg4 Rf8 43. Rd3 Qb4 44. Bg3 h5 45. gxh6 Bxh6 46. Kh2 Nd2 47. Ra1 Ne4
 [WhiteElo "2783"]
 [BlackElo "2714"]
 [PlyCount "115"]
-[EventDate "2015.05.01"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -124,7 +116,6 @@ fxe4 54. fxe4 Rf7 55. e5 c6 56. Nb6 Rfe7 57. bxc6 Rxa7 58. Nxa8 1-0
 
 [Event "TCh-RUS Men 2015"]
 [Site "Sochi RUS"]
-[Date "2015.05.06"]
 [Round "6.1"]
 [White "Kramnik, V."]
 [Black "Kamsky, G."]
@@ -133,7 +124,6 @@ fxe4 54. fxe4 Rf7 55. e5 c6 56. Nb6 Rfe7 57. bxc6 Rxa7 58. Nxa8 1-0
 [WhiteElo "2783"]
 [BlackElo "2683"]
 [PlyCount "105"]
-[EventDate "2015.05.01"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -155,7 +145,6 @@ g5 48. a6 Rc1+ 49. Rxc1 Qxc1+ 50. Kh2 Qa3 51. Nf3 Qxa6 52. Qe7+ Kg8 53. Qxg5+
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.06.27"]
 [Round "1.2"]
 [White "Kramnik, V."]
 [Black "Naiditsch, A."]
@@ -164,7 +153,6 @@ g5 48. a6 Rc1+ 49. Rxc1 Qxc1+ 50. Kh2 Qa3 51. Nf3 Qxa6 52. Qe7+ Kg8 53. Qxg5+
 [WhiteElo "2783"]
 [BlackElo "2722"]
 [PlyCount "114"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -187,7 +175,6 @@ Rxe4 47. Rxe4 Nd3 48. Re8+ Kh7 49. Ra8 Rd4 50. g4 Nc5 51. a5 Ra4 52. Kg3 Ra3+
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.07.03"]
 [Round "5.2"]
 [White "Kramnik, V."]
 [Black "Caruana, F."]
@@ -196,7 +183,6 @@ Rxe4 47. Rxe4 Nd3 48. Re8+ Kh7 49. Ra8 Rd4 50. g4 Nc5 51. a5 Ra4 52. Kg3 Ra3+
 [WhiteElo "2783"]
 [BlackElo "2805"]
 [PlyCount "76"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -214,7 +200,6 @@ Nf3 Qg2 35. Qc3 Rf1 36. Qf6 Rf2 37. Kd3 Rxe2 38. Ng5 Rd2+ 0-1
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.06.30"]
 [Round "3.2"]
 [White "Kramnik, V."]
 [Black "Nepomniachtchi, I."]
@@ -223,7 +208,6 @@ Nf3 Qg2 35. Qc3 Rf1 36. Qf6 Rf2 37. Kd3 Rxe2 38. Ng5 Rd2+ 0-1
 [WhiteElo "2783"]
 [BlackElo "2720"]
 [PlyCount "109"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -244,7 +228,6 @@ Nd5 46. Nb6 Be5 47. Nb7 Nc3 48. Nd8 g5 49. Rxd1 Nxd1 50. Nd7+ Ke7 51. Nxe5 Kxd8
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.11"]
 [Round "8.6"]
 [White "Kramnik, V."]
 [Black "Dubov, Daniil"]
@@ -253,7 +236,6 @@ Nd5 46. Nb6 Be5 47. Nb7 Nc3 48. Nd8 g5 49. Rxd1 Nxd1 50. Nd7+ Ke7 51. Nxe5 Kxd8
 [WhiteElo "2777"]
 [BlackElo "2661"]
 [PlyCount "91"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -271,7 +253,6 @@ Qxb6 35. axb4 Nd8 36. Nc3 Ne6 37. b5 Nd4 38. Qc8+ Kh7 39. Nc4 Qa7 40. Kg2 e4
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.11"]
 [Round "6.10"]
 [White "Kramnik, V."]
 [Black "Meier, Geo"]
@@ -280,7 +261,6 @@ Qxb6 35. axb4 Nd8 36. Nc3 Ne6 37. b5 Nd4 38. Qc8+ Kh7 39. Nc4 Qa7 40. Kg2 e4
 [WhiteElo "2777"]
 [BlackElo "2654"]
 [PlyCount "67"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -297,7 +277,6 @@ Rc5 Ka6 34. Be5 1-0
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.10"]
 [Round "2.34"]
 [White "Kramnik, V."]
 [Black "Ghaem Maghami, E."]
@@ -306,7 +285,6 @@ Rc5 Ka6 34. Be5 1-0
 [WhiteElo "2777"]
 [BlackElo "2596"]
 [PlyCount "117"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -327,7 +305,6 @@ Nab6 Kc6 54. Ke4 Bh6 55. e6 Bg7 56. Nd7 Kc7 57. Nxb8 Kxb8 58. Nb6 Kc7 59. Nd7
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.22"]
 [Round "5.1"]
 [White "Kramnik, V."]
 [Black "Topalov, V."]
@@ -336,7 +313,6 @@ Nab6 Kc6 54. Ke4 Bh6 55. e6 Bg7 56. Nd7 Kc7 57. Nxb8 Kxb8 58. Nb6 Kc7 59. Nd7
 [WhiteElo "2777"]
 [BlackElo "2813"]
 [PlyCount "71"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -355,7 +331,6 @@ Rxf5 Rf7 34. Qh6+ Ke8 35. Re5 Rc6 36. Qxh5 1-0
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.20"]
 [Round "3.2"]
 [White "Kramnik, V."]
 [Black "Nepomniachtchi, I."]
@@ -364,7 +339,6 @@ Rxf5 Rf7 34. Qh6+ Ke8 35. Re5 Rc6 36. Qxh5 1-0
 [WhiteElo "2777"]
 [BlackElo "2705"]
 [PlyCount "97"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -385,7 +359,6 @@ h4 48. Re6 hxg3 49. fxg3 1-0
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "20.2"]
 [White "Kramnik, V."]
 [Black "Vovk, Y."]
@@ -394,7 +367,6 @@ h4 48. Re6 hxg3 49. fxg3 1-0
 [WhiteElo "2777"]
 [BlackElo "2617"]
 [PlyCount "61"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -410,7 +382,6 @@ Bxc7 Bxc2 28. Bb6 Be5 29. a6 Bb8 30. Nf6+ Kg7 31. Nd7 1-0
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "18.4"]
 [White "Kramnik, V."]
 [Black "Aronian, L."]
@@ -419,7 +390,6 @@ Bxc7 Bxc2 28. Bb6 Be5 29. a6 Bb8 30. Nf6+ Kg7 31. Nd7 1-0
 [WhiteElo "2777"]
 [BlackElo "2784"]
 [PlyCount "129"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -440,7 +410,6 @@ Re8 Kg7 54. Re4 Bg5 55. Re5 Bf6 56. Rf5 Rb4 57. g5 Be7 58. f4 Rd4 59. Kg4 Bd6
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.14"]
 [Round "14.5"]
 [White "Kramnik, V."]
 [Black "Wojtaszek, R."]
@@ -449,7 +418,6 @@ Re8 Kg7 54. Re4 Bg5 55. Re5 Bf6 56. Rf5 Rb4 57. g5 Be7 58. f4 Rd4 59. Kg4 Bd6
 [WhiteElo "2777"]
 [BlackElo "2734"]
 [PlyCount "101"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -468,7 +436,6 @@ Rc1 40. Ne2 Rb1 41. Nd4 Bg6 42. Nxg6 fxg6 43. Nxe6 Nh5 44. Kf2 Rb2+ 45. Ke3 Ng3
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "11.6"]
 [White "Kramnik, V."]
 [Black "Duda, J."]
@@ -477,7 +444,6 @@ Rc1 40. Ne2 Rb1 41. Nd4 Bg6 42. Nxg6 fxg6 43. Nxe6 Nh5 44. Kf2 Rb2+ 45. Ke3 Ng3
 [WhiteElo "2777"]
 [BlackElo "2658"]
 [PlyCount "105"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -496,7 +462,6 @@ Kd3 48. h7 Bd4 49. a6 Ra2 50. Kf3 Kc4 51. Be3 Bh8 52. Rxd6 Kb5 53. Rd8 1-0
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "7.26"]
 [White "Kramnik, V."]
 [Black "Belov, Vl"]
@@ -505,7 +470,6 @@ Kd3 48. h7 Bd4 49. a6 Ra2 50. Kf3 Kc4 51. Be3 Bh8 52. Rxd6 Kb5 53. Rd8 1-0
 [WhiteElo "2777"]
 [BlackElo "2614"]
 [PlyCount "65"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -522,7 +486,6 @@ Re4 1-0
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "4.7"]
 [White "Kramnik, V."]
 [Black "Dubov, Daniil"]
@@ -531,7 +494,6 @@ Re4 1-0
 [WhiteElo "2777"]
 [BlackElo "2661"]
 [PlyCount "84"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -549,7 +511,6 @@ Kxg5 40. Be4+ Kh6 41. Bxc2 Rxc2 42. Rxe7 Nf3 0-1
 
 [Event "World Blitz 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.13"]
 [Round "1.14"]
 [White "Kramnik, V."]
 [Black "Rasmussen, A."]
@@ -558,7 +519,6 @@ Kxg5 40. Be4+ Kh6 41. Bxc2 Rxc2 42. Rxe7 Nf3 0-1
 [WhiteElo "2777"]
 [BlackElo "2498"]
 [PlyCount "43"]
-[EventDate "2015.10.13"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "GER"]
@@ -573,7 +533,6 @@ Rxf4 Ne5 22. Nxe5 1-0
 
 [Event "World Rapid 2015"]
 [Site "Berlin GER"]
-[Date "2015.10.11"]
 [Round "10.5"]
 [White "Kramnik, V."]
 [Black "Riazantsev, A."]
@@ -582,7 +541,6 @@ Rxf4 Ne5 22. Nxe5 1-0
 [WhiteElo "2777"]
 [BlackElo "2646"]
 [PlyCount "133"]
-[EventDate "2015.10.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -604,7 +562,6 @@ Rd7+ Kg8 67. Rc7 1-0
 
 [Event "Qatar Masters Open 2015"]
 [Site "Doha QAT"]
-[Date "2015.12.28"]
 [Round "8.2"]
 [White "Kramnik, V."]
 [Black "Sjugirov, S."]
@@ -613,7 +570,6 @@ Rd7+ Kg8 67. Rc7 1-0
 [WhiteElo "2796"]
 [BlackElo "2646"]
 [PlyCount "111"]
-[EventDate "2015.12.20"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "QAT"]
@@ -633,7 +589,6 @@ Nc6+ Nxc6 41. Bxc6 Nxc3 42. Kxc3 Rh3+ 43. Kc2 Qxd4 44. Qb5+ Kc7 45. Qb7+ Kd6
 
 [Event "Qatar Masters Open 2015"]
 [Site "Doha QAT"]
-[Date "2015.12.23"]
 [Round "4.9"]
 [White "Kramnik, V."]
 [Black "Naroditsky, D."]
@@ -642,7 +597,6 @@ Nc6+ Nxc6 41. Bxc6 Nxc3 42. Kxc3 Rh3+ 43. Kc2 Qxd4 44. Qb5+ Kc7 45. Qb7+ Kd6
 [WhiteElo "2796"]
 [BlackElo "2628"]
 [PlyCount "81"]
-[EventDate "2015.12.20"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "QAT"]
@@ -660,7 +614,6 @@ Rxb1 c3 41. Bxb6 1-0
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.14"]
 [Round "2.1"]
 [White "Kramnik, Vladimir"]
 [Black "Bruzon Batista, Lazaro"]
@@ -668,7 +621,6 @@ Rxb1 c3 41. Bxb6 1-0
 [WhiteElo "2777"]
 [BlackElo "2659"]
 [ECO "E05"]
-[EventDate "2015.09.11"]
 
 1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. d4 dxc4 7. Ne5 Nc6 
 8. Nxc6 bxc6 9. Na3 Bxa3 10. bxa3 a5 11. Bxc6 Rb8 12. Qc2 Ba6 13. Rd1 Nd5 
@@ -694,7 +646,6 @@ Kb7 104. Rg8 Rd5+ 105. Bd6 Rb5 106. Rg6 Rd5 107. Ke6 Rb5 108. Rg1 Kb6 109.
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.12"]
 [Round "1.2"]
 [White "Kramnik, Vladimir"]
 [Black "Cori T, Deysi"]
@@ -702,7 +653,6 @@ Kb7 104. Rg8 Rd5+ 105. Bd6 Rb5 106. Rg6 Rd5 107. Ke6 Rb5 108. Rg1 Kb6 109.
 [WhiteElo "2777"]
 [BlackElo "2419"]
 [ECO "B37"]
-[EventDate "2015.09.11"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 c5 7. O-O cxd4 8.
  Nxd4 Nc6 9. Nc2 Nd7 10. Bd2 a5 11. Re1 Nc5 12. Bf1 Bd7 13. Bg5 h6 14. Be3

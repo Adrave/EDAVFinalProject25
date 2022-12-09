@@ -1,6 +1,5 @@
 [Event "It (active) (knockout system) \"Corsica Masters\""]
 [Site "Bastia (France)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -25,7 +24,6 @@ Bd5 42.Be5 Qxe5 43.Qxc8+ Kh7 44.Qg4 h5 45.Qd1 Bxg2+ 46.Kxg2 Qg5+
 
 [Event "It (active) (knockout system) \"Corsica Masters\""]
 [Site "Bastia (France)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -47,7 +45,6 @@ h5 30.Qe3 Qc3 31.Re2 b5 32.Ne5 Rd6 33.Nxg6 1-0
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -67,7 +64,6 @@ Rf3 21.Bxf3 exf3 22.Rxh7 1-0
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Graf Alexander (GER)"]
@@ -90,7 +86,6 @@ Kh8 36.Qxd3 1-0
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Mamedyarov Shakhriyar (AZE)"]
@@ -116,7 +111,6 @@ Rg6 53.Rxg6+ Kxg6 54.Kf4 Kf6 1-0
 
 [Event "It (active) (knockout)"]
 [Site "Cap d'Agde (France)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -140,7 +134,6 @@ Rc1+ 36.Kh2 Rf6 37.Qe8+ Bf8 38.Bxe6 f3 39.g4 Rf1 40.Kg3 Rg1+
 
 [Event "It (active) (knockout) (blitz)"]
 [Site "Cap d'Agde (France)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -162,7 +155,6 @@ Nxa6 31.Rxa6 Rxb2 32.c4 h5 33.c5 Rb5 34.c6 1-0
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bologan Viktor (MDA)"]
@@ -185,7 +177,6 @@ Re8 36.Bd3 1-0
 
 [Event "Bundesliga 2002/03"]
 [Site "Germany"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Almasi Zoltan (HUN)"]
@@ -209,7 +200,6 @@ Bc3 37.Kc1 Bg7 38.Bxb4 Bd4 39.Bd6 Bxf2 40.Kb2 Bd4+ 41.Kxb3 Bg7
 
 [Event "Bundesliga 2003/04"]
 [Site "Germany"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Markowski Tomasz (POL)"]
@@ -233,7 +223,6 @@ Kd7 42.Qd5+ Ke7 43.Qb7+ 1-0
 
 [Event "Bundesliga 2003/04"]
 [Site "Germany"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "McShane Luke J (ENG)"]
@@ -256,7 +245,6 @@ exd3 32.b5 d2 33.Nxf3 Qh6 34.Qh4 Qb6 35.Nxd2 Rc2 36.Rbd1 Re8
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -285,7 +273,6 @@ Ke6 71.Bg1 Kd5 72.b5 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -312,7 +299,6 @@ Kxf6 60.e8Q Bxe8 61.Nxe8+ Ke6 62.Kb5 Ke5 63.Kxa5 f5 64.Ng7 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "12"]
 [White "Anand Viswanathan (IND)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -334,7 +320,6 @@ Bxd5 25.Qxd5 Ne7 26.Qd2 Bb6 27.Red1 Rhc8 28.Bh6+ Kh7 29.Bg5 Ng8
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Polgar Judit (HUN)"]
@@ -357,7 +342,6 @@ Kh6 37.h4 Nd4 38.Qe7 Qg7 39.Qf8 Ne6 40.Qxg7+ Kxg7 41.Ra8 1-0
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Polgar Judit (HUN)"]
@@ -384,7 +368,6 @@ Bd4 58.Be7 Kxg7 59.Bxa3 Kf6 60.Bb4 1-0
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Polgar Judit (HUN)"]
@@ -410,7 +393,6 @@ Rxb5 48.Rxg6 Be3 49.Rg7+ Ke8 50.Kg6 Rb1 51.h5 Rg1+ 52.Kf6 Rh1
 
 [Event "It (active)"]
 [Site "Middelfart (Denmark)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hansen Curt (DEN)"]
@@ -431,7 +413,6 @@ Qxc4 25.Qxd7+ Kf8 26.Qxf5+ Ke8 27.Qd7+ 1-0
 
 [Event "It (active)"]
 [Site "Middelfart (Denmark)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hector Jonny (SWE)"]
@@ -459,7 +440,6 @@ Ra8 65.Rc6 Rc8 66.Kxb4 1-0
 
 [Event "It (active)"]
 [Site "Middelfart (Denmark)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -481,7 +461,6 @@ e4 30.Bc2 Rg4 31.Bxe4 Nxe4 32.Rxe4+ Rxe4 33.Qg5+ Ke8 34.f6 1-0
 
 [Event "It (final)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.31"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -508,7 +487,6 @@ h4 55.c7 Kh7 56.Bb6 Rf8 57.Bc5 Rf3 58.Qb1 Rxg3+ 59.fxg3 Qxg3+
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2004.08.06"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -532,7 +510,6 @@ Bxb2 37.e5 Bxe5 38.Bd4 Nd7 39.Bxe5 Nxe5 40.Nd4 Kf8 41.Nb3 Nd7
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2004.08.08"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -553,7 +530,6 @@ Re8 14.Nf5 Ne6 15.Nxe7+ Rxe7 16.f3 Rd8 17.Bxe6 fxe6 18.e5 dxe5
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.22"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -576,7 +552,6 @@ Rd7 26.Rc2 Qc7 27.Rb6 Bxd4 28.Bxd4 Rxd4 29.Rxc3 Rc4 30.Re3 Rxe3
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.29"]
 [Round "14"]
 [White "Anand Viswanathan (IND)"]
 [Black "Georgiev Kiril (MKD)"]

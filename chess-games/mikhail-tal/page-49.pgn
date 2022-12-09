@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "14"]
 [White "Tal Mikhail (LAT)"]
 [Black "Benko Pal C (USA)"]
@@ -21,7 +20,6 @@ Kxf7 26.Qxh7+ Bg7 27.Rh6 Qg8 28.Qxg6+ Kf8 29.Ng5 Qxd5 30.Rh8+ 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fischer Robert J (USA)"]
@@ -44,7 +42,6 @@ Rxf4 37.Ne6+ Kh8 38.Qd4+ R8f6 39.Nxf4 Kh7 40.e5 dxe5 41.Qd7+ 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "20"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fischer Robert J (USA)"]
@@ -66,7 +63,6 @@ Kg7 30.Rff8 Ne7 31.Na5 h5 32.h4 Rb8 33.Nc4 b5 34.Ne5 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -91,7 +87,6 @@ Ke8 47.f6 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "16"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -119,7 +114,6 @@ Qa5+ 64.Kh6 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "4"]
 [White "Tal Mikhail (LAT)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -143,7 +137,6 @@ d5 37.c4 Rb8 38.a6 Rhh8 39.Ka2 Bxb4 40.axb4 dxc4 41.Rd7+ Nxd7
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "18"]
 [White "Tal Mikhail (LAT)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -167,7 +160,6 @@ Bf5 36.f7 Rf8 37.gxf4 Rxh4+ 38.Kg3 Rh3+ 39.Kg2 Kg7 40.Re3 Rh5
 
 [Event "Match \"BRD-URS\""]
 [Site "Hamburg (Germany)"]
-[Date "1960.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Schmid Lothar (GER)"]
@@ -186,7 +178,6 @@ Bh3 14.Kg1 exd6 15.Qxd6 Nf4 16.Bf1 Bxf1 17.Kxf1 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sliwa Bogdan (POL)"]
@@ -210,7 +201,6 @@ Nh5 26.Nf1 Nb6 27.Ne3 Qe6 28.Nf5 Nc4 29.Nd2 Rfd8 30.Nxg7 Kxg7
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Koblencs Aleksandrs"]
@@ -230,7 +220,6 @@ Ng4 19.Rxg4+ Kf6 20.Rf4+ Kg7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -253,7 +242,6 @@ Qxe5 36.Qe8+ Kb7 37.Qc6+ Kb8 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -277,7 +265,6 @@ Rxe1 36.Kxe1 c5 37.Ke2 cxd4 38.cxd4 Nf6 39.Kd3 Nh5 40.Ne2 e5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "9"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -304,7 +291,6 @@ Kf6 58.g3 Ne2 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "13"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -323,7 +309,6 @@ Na5 14.b3 Be4 15.Bb2 Bxb2 16.Rxb2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "15"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -346,7 +331,6 @@ cxb4 37.cxb4 hxg5 38.fxg5 fxg5 39.Rg3 Rf7 40.Rxg5 Rf2+ 41.Ka3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "21"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -365,7 +349,6 @@ Bxg2 14.Nxg2 Nc6 15.Qf3 Qd7 16.Nf4 Rae8 17.d5 Nd8 1/2-1/2
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Augustin Josef (CZE)"]
@@ -390,7 +373,6 @@ Qe6 48.Qb7+ Kd6 49.Qb8+ Kd7 50.Qe5 Qf7 1/2-1/2
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Dekan P"]
@@ -416,7 +398,6 @@ Kd6 1/2-1/2
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Falta Josef"]
@@ -439,7 +420,6 @@ Kxc6 38.Be5 g6 39.Ke3 Kd5 1/2-1/2
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Haubt J"]
@@ -460,7 +440,6 @@ Kh8 19.Qd3 e5 20.Qxe3 Qxd4 21.Qxd4 exd4 22.Ba4 Be5 23.Bxc6 Rac8
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Hort Vlastimil (GER)"]
@@ -482,7 +461,6 @@ exd4 20.Nd5 Bxd5 21.exd5 Qa5 22.Rhe1 Rfb8 23.Re2 Be5 24.f4 gxf4
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Janata Michael (CSR)"]
@@ -506,7 +484,6 @@ R3b5 36.Rxb5 Rxb5 37.dxe6 fxe6 38.b4 f4 39.Rb2 Rh5 40.b5 Rxh2
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Jansa Vlastimil (CZE)"]
@@ -529,7 +506,6 @@ R8d7 30.Ra5 g6 31.g4 fxg4 32.Re2 Rd2 33.Rxd2 Rxd2 34.Kg3 Rxb2
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Plachetka Jan (SVK)"]
@@ -557,7 +533,6 @@ Nxa4 64.Rxa4 Rf3 1/2-1/2
 
 [Event "Simultan (radio)"]
 [Site "Prague (Czech Republic)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Trapl Jindrich (CZE)"]

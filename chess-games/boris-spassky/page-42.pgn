@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "19"]
 [White "Spassky Boris V (FRA)"]
 [Black "Alvarez JL"]
@@ -23,7 +22,6 @@ gxf6 37.Rxa4 Kf7 38.Kc2 Rf5 39.Rf4 Re5 40.b4 Re8 41.b5 1-0
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gonzales-Casafus"]
@@ -44,7 +42,6 @@ Qd6 25.Be4 1-0
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Guimard Carlos E (ARG)"]
@@ -70,7 +67,6 @@ Rxf6 54.Nd4 Rg6+ 55.Kf4 Nh6 56.Rb6 Rg8 1-0
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -93,7 +89,6 @@ Qxf6 32.Re5 Qf7 33.g5 Qxh5+ 34.Kg2 hxg5 35.fxg5 Qf7 36.Rf1 Qe7
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ortega Ruiz Jose Miguel (ESP)"]
@@ -116,7 +111,6 @@ g5 37.Rd3 Bg6 38.h5 Bxh5 39.Qf5+ Bg6 40.Rd7+ 1-0
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Pachman Ludek (GER)"]
@@ -138,7 +132,6 @@ d4 20.Bc4 Bxc4 21.Qxc4+ Kh7 22.b4 Rac8 23.Ne6 Ne5 24.Qc2+ d3
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Siero L"]
@@ -161,7 +154,6 @@ Qh4 26.Bxf8 Nf3+ 27.Kh1 Rxd5 28.Bxd5 Qf4 29.g3 Qxf5 30.Kg2 Qxd5
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -185,7 +177,6 @@ Qc3 42.Qxa6 1-0
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -208,7 +199,6 @@ Kc6 37.Kf4 Kc5 38.h4 Kd4 39.h5 Bd1 40.h6 Bh5 41.b4 1-0
 
 [Event "Ch URS (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sofman"]
@@ -230,7 +220,6 @@ Kc8 30.Qxf5+ 1-0
 
 [Event "Olympiad (students) (team)"]
 [Site "Marianske Lazne (Czech Republic)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ciric Dragoljub M (SCG)"]
@@ -251,7 +240,6 @@ Re7 24.Bb3 Qe5 25.Re1 g5 26.Rf3 Kg7 27.Rd1 f6 28.Kg1 g4 29.Bd4 1-0
 
 [Event "Olympiad (students) (team)"]
 [Site "Marianske Lazne (Czech Republic)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -272,7 +260,6 @@ Qh4 20.Rae1 Rbe8 21.Nd5 Bd4 22.Bxd4 Nxd4 23.f4 Bxd5 24.cxd5 Re7
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Darga Klaus (GER)"]
@@ -293,7 +280,6 @@ b5 8.Be2 Bb7 9.f4 Nf6 10.Bf3 d6 11.O-O Na5 12.Qe2 Nc4 13.e5 Nxe3
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Evans Larry M (USA)"]
@@ -314,7 +300,6 @@ Ke8 25.Qxg6 Nxe5 26.Rf8+ 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hoen Ragnar (NOR)"]
@@ -337,7 +322,6 @@ Rd8 38.Ba6 Bf8 39.Nb5 Be7 40.Rc7 Bf7 41.Qc3 g5 42.Qc6 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kincel (AUT)"]
@@ -358,7 +342,6 @@ g6 20.Nd4 Nxd4 21.Qxe5+ Ne6 22.Qxh8 g5 23.Qe5 O-O-O 24.Rad1 Re8
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Limbos P (BEL)"]
@@ -381,7 +364,6 @@ Nb8 36.a6 Ra3 37.Ra4 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Schmid Lothar (GER)"]
@@ -401,7 +383,6 @@ b4 15.Bxf6 Bxf6 16.Ne4 Bg7 17.Nxc5 Bxb2 18.Rad1 Bf5 19.Qxh6 Bg7
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -427,7 +408,6 @@ Kb5 54.Kxa2 Kc5 55.Ne3 Kd4 1-0
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -451,7 +431,6 @@ Qb7+ 37.Qg2 Qd5 38.a4 Rf3 39.Nd2 Rf2 40.Qxd5 exd5 41.Nf1 Rd3
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korelov Alexander P (RUS)"]
@@ -476,7 +455,6 @@ Bf7 48.Ne3 Be6 49.Ra8 Re1 50.Nf5+ 1-0
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -500,7 +478,6 @@ Kd8 42.Nc6+ Kc8 43.Qe8+ Kc7 44.Qxb8+ Kxc6 45.Qxb2 h5 1-0
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -526,14 +503,12 @@ Rd2+ 48.Kc4 Rc2+ 49.Kxb4 Nh6 50.Rg6 Nf7 51.Bd4 Ne5 52.Bxe5 Kxe5
 
 [Event "USSR Championship"]
 [Site "Yerevan URS"]
-[Date "1962.12.10"]
 [Round "13"]
 [White "Boris Spassky"]
 [Black "Viktor Korchnoi"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D41"]
-[EventDate "1962.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -549,14 +524,12 @@ Rd2+ 48.Kc4 Rc2+ 49.Kxb4 Nh6 50.Rg6 Nf7 51.Bd4 Ne5 52.Bxe5 Kxe5
 
 [Event "USSR Championship"]
 [Site "Leningrad URS"]
-[Date "1963.11.27"]
 [Round "3"]
 [White "Boris Spassky"]
 [Black "Mark Taimanov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "1963.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 

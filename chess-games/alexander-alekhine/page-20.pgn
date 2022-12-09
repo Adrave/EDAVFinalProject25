@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -24,7 +23,6 @@ Qxc3 42.Qxd6 Qd4+ 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -49,7 +47,6 @@ Kh8 37.Bh4 Qxh4 38.Rh2 Rh7 39.Rxh4 Rxh4 40.Qe2 Rfh7 41.Qg2 Rh3
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1927.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -78,7 +75,6 @@ Kf2 71.Kd2 Nc3 0-1
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -98,7 +94,6 @@ e5 14.Rfd1 exd4 15.Nxd4 Nf6 16.Bf3 Bg4 17.Bxg4 Nxg4 18.Nf5 Qf6
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -123,7 +118,6 @@ g5 48.Na6 e4+ 49.Kc3 Kc6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -147,7 +141,6 @@ f6 30.Rc4 Rb5 31.Rd4+ Ke6 32.Rxb5 cxb5 33.Rxe4+ Kf7 34.Rd4 Rc6
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -167,7 +160,6 @@ c5 8.cxd5 Nxd5 9.Nxd5 exd5 10.Bxe7 Qxe7 11.Bd3 g6 12.dxc5 Nxc5
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "14"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -188,7 +180,6 @@ Nxg6 20.Bxg6 Be6 21.Ne2 Qd7 22.Nf4 Bf5 23.Bxf5 Qxf5 24.Qxf5 Nxf5
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "16"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -209,7 +200,6 @@ c5 19.d5 exd5 20.Bxd5 Bxd5 21.Rxd5 Nc7 22.Rd2 Nf8 23.Rcd1 Rxd2+
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "18"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -230,7 +220,6 @@ Kxd8 25.Ne5 Ke7 26.f3 Nfd7 27.Nxd7 Nxd7 28.Kd3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "20"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -254,7 +243,6 @@ Rxa6 42.e4 Ra1 43.Kd4 Rh8 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "22"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -286,7 +274,6 @@ Rd5 86.Kf3 Kd3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "24"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -309,7 +296,6 @@ a4 31.Bc2 Nd7 32.Rc3 b4 33.Rc6 Bxc6 34.Nxc6+ Ke8 35.Nxd8 Kxd8
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "26"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -329,7 +315,6 @@ Bb7 14.O-O c5 15.dxc5 Nxc5 16.Rfd1 Qb6 17.Be5 Rac8 18.Bd4 Bxf3
 
 [Event "Ch World (match)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1927.??.??"]
 [Round "28"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -353,7 +338,6 @@ Rb3 42.Ra7 Kd8 43.g3 1/2-1/2
 
 [Event "It"]
 [Site "Kecskemet (Hungary)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Ahues Carl O (GER)"]
@@ -375,7 +359,6 @@ Qxe6 31.Qd8+ Kg7 32.Ke3 Bc8 1/2-1/2
 
 [Event "It"]
 [Site "Kecskemet (Hungary)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Asztalos Lajos (HUN)"]
@@ -400,7 +383,6 @@ Rd1 48.Nd4 Kf7 49.Nf3 1/2-1/2
 
 [Event "It"]
 [Site "Kecskemet (Hungary)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Brinckmann Alfred (GER)"]
@@ -422,7 +404,6 @@ d5 31.c4 Qh6 32.f6 Re8 33.cxd5 Bxd5 34.Qf5 1-0
 
 [Event "It"]
 [Site "Kecskemet (Hungary)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -443,7 +424,6 @@ Nc6 19.Qxc6 Bf8 20.Nf5 Bc4 21.Bxh6 Bd5 22.Qc7 Rac8 23.Qf4 Rc6
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -467,7 +447,6 @@ bxa4 42.Qxa6 Qe2+ 0-1
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Marshall Frank J (USA)"]
@@ -491,7 +470,6 @@ Ne2 41.Kb6 Rb8+ 42.Ka7 Rxb3 43.c7 Ra3+ 44.Kb7 Rb3+ 45.Kc6 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Marshall Frank J (USA)"]
@@ -512,7 +490,6 @@ g6 25.exd7 Bxd7 26.Rf7 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nimzowitsch Aaron"]
@@ -543,7 +520,6 @@ fxg5 75.Qxg5+ Kd6 76.Qg6+ Kc7 77.Qc6+ Kd8 78.f6 Ra1 79.g4 Rf1
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -571,7 +547,6 @@ Ra1 59.Kg5 Rg1+ 60.Kf4 Ra1 61.Ke5 Re1+ 62.Kd4 Ra1 63.Kc3 Ra3
 
 [Event ""]
 [Site "Santiago (Chile)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Consultants"]

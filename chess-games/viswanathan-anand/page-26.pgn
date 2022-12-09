@@ -1,6 +1,5 @@
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.18"]
 [Round "4"]
 [White "Anand, V."]
 [Black "Wang Hao"]
@@ -9,7 +8,6 @@
 [WhiteElo "2810"]
 [BlackElo "2731"]
 [PlyCount "65"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -22,7 +20,6 @@ f5 28. Bxa6 Qd7 29. Bb5 Qf7 30. exf5 Qxf5 31. Qxc5 Rc8 32. Qd4 Rfd8 33. a4 1-0
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.26"]
 [Round "10"]
 [White "Anand, V."]
 [Black "Shirov, A."]
@@ -31,7 +28,6 @@ f5 28. Bxa6 Qd7 29. Bb5 Qf7 30. exf5 Qxf5 31. Qxc5 Rc8 32. Qd4 Rfd8 33. a4 1-0
 [WhiteElo "2810"]
 [BlackElo "2722"]
 [PlyCount "51"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -43,7 +39,6 @@ Ne5 Bd5 22. Be7 Rfe8 23. Bd6 Rbd8 24. Bh5 Rxd6 25. Bxf7+ Kf8 26. Bxe8 1-0
 
 [Event "20th Amber Blindfold"]
 [Site "Monaco MNC"]
-[Date "2011.03.12"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Topalov, V."]
@@ -52,7 +47,6 @@ Ne5 Bd5 22. Be7 Rfe8 23. Bd6 Rbd8 24. Bh5 Rxd6 25. Bxf7+ Kf8 26. Bxe8 1-0
 [WhiteElo "2817"]
 [BlackElo "2775"]
 [PlyCount "133"]
-[EventDate "2011.03.12"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "MNC"]
@@ -75,7 +69,6 @@ Bd3 66. Nd7+ Kg7 67. Nc5 1-0
 
 [Event "20th Amber Rapid"]
 [Site "Monaco MNC"]
-[Date "2011.03.15"]
 [Round "4"]
 [White "Anand, V."]
 [Black "Grischuk, A."]
@@ -84,7 +77,6 @@ Bd3 66. Nd7+ Kg7 67. Nc5 1-0
 [WhiteElo "2817"]
 [BlackElo "2747"]
 [PlyCount "83"]
-[EventDate "2011.03.12"]
 [EventRounds "11"]
 [EventCountry "MNC"]
 [EventCategory "21"]
@@ -102,7 +94,6 @@ Qa6 29. Qd2 Nf6 30. Rxe5 Rd8 31. Bd4 Be6 32. Nf5 Bf8 33. h3 Bc4 34. Ne7+ Bxe7
 
 [Event "20th Amber Rapid"]
 [Site "Monaco MNC"]
-[Date "2011.03.24"]
 [Round "11"]
 [White "Anand, V."]
 [Black "Giri, A."]
@@ -111,7 +102,6 @@ Qa6 29. Qd2 Nf6 30. Rxe5 Rd8 31. Bd4 Be6 32. Nf5 Bf8 33. h3 Bc4 34. Ne7+ Bxe7
 [WhiteElo "2817"]
 [BlackElo "2690"]
 [PlyCount "75"]
-[EventDate "2011.03.12"]
 [EventRounds "11"]
 [EventCountry "MNC"]
 [EventCategory "21"]
@@ -128,7 +118,6 @@ Qe8+ Kh7 34. Qxf7 Qe5 35. h4 h5 36. Qe6 Qxe6 37. dxe6 Kg6 38. f4 1-0
 
 [Event "Rapid Match"]
 [Site "Tashkent UZB"]
-[Date "2011.03.27"]
 [Round "3"]
 [White "Anand, V."]
 [Black "Kasimdzhanov, R."]
@@ -137,7 +126,6 @@ Qe8+ Kh7 34. Qxf7 Qe5 35. h4 h5 36. Qe6 Qxe6 37. dxe6 Kg6 38. f4 1-0
 [WhiteElo "2817"]
 [BlackElo "2687"]
 [PlyCount "47"]
-[EventDate "2011.03.27"]
 [EventType "rapid"]
 [EventRounds "4"]
 [EventCountry "UZB"]
@@ -152,7 +140,6 @@ Kg8 21. Re1 Nxc3+ 22. bxc3 Be6 23. Rxe6 Qb6+ 24. Kc1 1-0
 
 [Event "24th Leon Masters"]
 [Site "Leon ESP"]
-[Date "2011.06.03"]
 [Round "2"]
 [White "Anand, V."]
 [Black "Shirov, A."]
@@ -161,7 +148,6 @@ Kg8 21. Re1 Nxc3+ 22. bxc3 Be6 23. Rxe6 Qb6+ 24. Kc1 1-0
 [WhiteElo "2817"]
 [BlackElo "2709"]
 [PlyCount "67"]
-[EventDate "2011.06.03"]
 [EventType "rapid"]
 [EventRounds "6"]
 [EventCountry "ESP"]
@@ -178,7 +164,6 @@ Rxg4 34. Qe8# 1-0
 
 [Event "Botvinnik Memorial"]
 [Site "Moscow RUS"]
-[Date "2011.09.03"]
 [Round "5"]
 [White "Anand, V."]
 [Black "Aronian, L."]
@@ -187,7 +172,6 @@ Rxg4 34. Qe8# 1-0
 [WhiteElo "2817"]
 [BlackElo "2807"]
 [PlyCount "75"]
-[EventDate "2011.09.02"]
 [EventType "rapid"]
 [EventRounds "6"]
 [EventCountry "RUS"]
@@ -205,7 +189,6 @@ b4 Rd4 29. c3 Rdf4 30. Bd5 Bd6 31. f3 e4 32. Bxe4 Rh4 33. Kf1 Bf4 34. gxh3 Rxh3
 
 [Event "Schachbundesliga 2011-12"]
 [Site "Bremen GER"]
-[Date "2012.03.17"]
 [Round "12"]
 [White "Anand, V."]
 [Black "Eljanov, P."]
@@ -214,7 +197,6 @@ b4 Rd4 29. c3 Rdf4 30. Bd5 Bd6 31. f3 e4 32. Bxe4 Rh4 33. Kf1 Bf4 34. gxh3 Rxh3
 [WhiteElo "2817"]
 [BlackElo "2683"]
 [PlyCount "94"]
-[EventDate "2011.10.14"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -235,7 +217,6 @@ h5 Rxc3 47. h6 Rb3 1/2-1/2
 
 [Event "WCh 2012"]
 [Site "Moscow RUS"]
-[Date "2012.05.11"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -244,7 +225,6 @@ h5 Rxc3 47. h6 Rb3 1/2-1/2
 [WhiteElo "2791"]
 [BlackElo "2727"]
 [PlyCount "48"]
-[EventDate "2012.05.11"]
 [EventType "match"]
 [EventRounds "12"]
 [EventCountry "RUS"]
@@ -259,7 +239,6 @@ O-O 21. Bd6 Re8 22. Nd2 f5 23. f3 fxe4 24. Nxe4 Bf5 1/2-1/2
 
 [Event "WCh 2012"]
 [Site "Moscow RUS"]
-[Date "2012.05.14"]
 [Round "3"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -268,7 +247,6 @@ O-O 21. Bd6 Re8 22. Nd2 f5 23. f3 fxe4 24. Nxe4 Bf5 1/2-1/2
 [WhiteElo "2791"]
 [BlackElo "2727"]
 [PlyCount "74"]
-[EventDate "2012.05.11"]
 [EventType "match"]
 [EventRounds "12"]
 [EventCountry "RUS"]
@@ -285,7 +263,6 @@ Re7+ Kg6 34. Rc7 Re8 35. Rh1 Ree2 36. d7 Rb2+ 37. Kc1 Rxa2 1/2-1/2
 
 [Event "WCh 2012"]
 [Site "Moscow RUS"]
-[Date "2012.05.17"]
 [Round "5"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -294,7 +271,6 @@ Re7+ Kg6 34. Rc7 Re8 35. Rh1 Ree2 36. d7 Rb2+ 37. Kc1 Rxa2 1/2-1/2
 [WhiteElo "2791"]
 [BlackElo "2727"]
 [PlyCount "53"]
-[EventDate "2012.05.11"]
 [EventType "match"]
 [EventRounds "12"]
 [EventCountry "RUS"]
@@ -310,7 +286,6 @@ Bh6 22. Bh3 Qb6 23. Bd7 b3 24. Bc6 Ra2 25. Rxa2 bxa2 26. Qa3 Rb8 27. Qxa2
 
 [Event "WCh 2012"]
 [Site "Moscow RUS"]
-[Date "2012.05.24"]
 [Round "10"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -319,7 +294,6 @@ Bh6 22. Bh3 Qb6 23. Bd7 b3 24. Bc6 Ra2 25. Rxa2 bxa2 26. Qa3 Rb8 27. Qxa2
 [WhiteElo "2791"]
 [BlackElo "2727"]
 [PlyCount "49"]
-[EventDate "2012.05.11"]
 [EventType "match"]
 [EventRounds "12"]
 [EventCountry "RUS"]
@@ -334,7 +308,6 @@ f5 21. Bxb4 cxb4 22. Nd2 Bd6 23. Rxe8 Rxe8 24. Nb3 c5 25. a3 1/2-1/2
 
 [Event "WCh 2012"]
 [Site "Moscow RUS"]
-[Date "2012.05.28"]
 [Round "12"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -343,7 +316,6 @@ f5 21. Bxb4 cxb4 22. Nd2 Bd6 23. Rxe8 Rxe8 24. Nb3 c5 25. a3 1/2-1/2
 [WhiteElo "2791"]
 [BlackElo "2727"]
 [PlyCount "43"]
-[EventDate "2012.05.11"]
 [EventType "match"]
 [EventRounds "12"]
 [EventCountry "RUS"]
@@ -358,7 +330,6 @@ Rhd8 22. Bxe7 1/2-1/2
 
 [Event "WCh Rapid Tiebreak"]
 [Site "Moscow RUS"]
-[Date "2012.05.30"]
 [Round "4"]
 [White "Anand, V."]
 [Black "Gelfand, B."]
@@ -367,7 +338,6 @@ Rhd8 22. Bxe7 1/2-1/2
 [WhiteElo "2791"]
 [BlackElo "2727"]
 [PlyCount "111"]
-[EventDate "2012.05.11"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "RUS"]
@@ -387,7 +357,6 @@ Bg5+ Kxg5 54. Kxb1 Kf4 55. Re6 Kxf3 56. Kb2 1/2-1/2
 
 [Event "5th Final Masters"]
 [Site "Sao Paulo/Bilbao BRA/ESP"]
-[Date "2012.10.11"]
 [Round "8"]
 [White "Anand, V."]
 [Black "Caruana, F."]
@@ -396,7 +365,6 @@ Bg5+ Kxg5 54. Kxb1 Kf4 55. Re6 Kxf3 56. Kb2 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2773"]
 [PlyCount "90"]
-[EventDate "2012.09.24"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCategory "22"]
@@ -414,7 +382,6 @@ axb5 c4 41. Rxc4 Rxb5 42. Rc7+ Kg8 43. Kc3 a5 44. Rc8+ Kf7 45. Rc7+ Kg8 1/2-1/2
 
 [Event "5th Final Masters"]
 [Site "Sao Paulo/Bilbao BRA/ESP"]
-[Date "2012.10.13"]
 [Round "10"]
 [White "Anand, V."]
 [Black "Karjakin, Sergey"]
@@ -423,7 +390,6 @@ axb5 c4 41. Rxc4 Rxb5 42. Rc7+ Kg8 43. Kc3 a5 44. Rc8+ Kf7 45. Rc7+ Kg8 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2778"]
 [PlyCount "90"]
-[EventDate "2012.09.24"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCategory "22"]
@@ -441,7 +407,6 @@ d6 Qd2 41. d7 c2 42. h4 Qd1 43. Qf4+ Kg7 44. Qc7 Kh6 45. Qf4+ Kg7 1/2-1/2
 
 [Event "5th Final Masters"]
 [Site "Sao Paulo/Bilbao BRA/ESP"]
-[Date "2012.09.24"]
 [Round "1"]
 [White "Anand, V."]
 [Black "Vallejo Pons, F."]
@@ -450,7 +415,6 @@ d6 Qd2 41. d7 c2 42. h4 Qd1 43. Qf4+ Kg7 44. Qc7 Kh6 45. Qf4+ Kg7 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2697"]
 [PlyCount "117"]
-[EventDate "2012.09.24"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCategory "22"]
@@ -471,7 +435,6 @@ b6 41. cxb6 Qxb6 42. Be2 Bf5 43. g4 Be4 44. g5 Bf5 45. Ra1 Rxf2 46. Ra8+ Kd7
 
 [Event "5th Final Masters"]
 [Site "Sao Paulo/Bilbao BRA/ESP"]
-[Date "2012.09.25"]
 [Round "2"]
 [White "Anand, V."]
 [Black "Aronian, L."]
@@ -480,7 +443,6 @@ b6 41. cxb6 Qxb6 42. Be2 Bf5 43. g4 Be4 44. g5 Bf5 45. Ra1 Rxf2 46. Ra8+ Kd7
 [WhiteElo "2780"]
 [BlackElo "2816"]
 [PlyCount "69"]
-[EventDate "2012.09.24"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCategory "22"]
@@ -497,7 +459,6 @@ Nc3 Ke7 28. Kf1 c5 29. Ke2 Nc6 30. Kd2 Kd7 31. Bg3 Bf7 32. Nb5 Bg6 33. Nc3 Bf7
 
 [Event "5th Final Masters"]
 [Site "Sao Paulo/Bilbao BRA/ESP"]
-[Date "2012.09.29"]
 [Round "5"]
 [White "Anand, V."]
 [Black "Carlsen, M."]
@@ -506,7 +467,6 @@ Nc3 Ke7 28. Kf1 c5 29. Ke2 Nc6 30. Kd2 Kd7 31. Bg3 Bf7 32. Nb5 Bg6 33. Nc3 Bf7
 [WhiteElo "2780"]
 [BlackElo "2843"]
 [PlyCount "115"]
-[EventDate "2012.09.24"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCategory "22"]
@@ -526,7 +486,6 @@ axb5 Bxf2 54. b6 f5+ 55. Kf3 Bxb6 56. Nxb6 f4 57. Nd5 Kxd5 58. Kxf4 1/2-1/2
 
 [Event "4th London Chess Classic"]
 [Site "London ENG"]
-[Date "2012.12.02"]
 [Round "2.4"]
 [White "Anand, V."]
 [Black "McShane, L."]
@@ -535,7 +494,6 @@ axb5 Bxf2 54. b6 f5+ 55. Kf3 Bxb6 56. Nxb6 f4 57. Nd5 Kxd5 58. Kxf4 1/2-1/2
 [WhiteElo "2775"]
 [BlackElo "2713"]
 [PlyCount "215"]
-[EventDate "2012.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -564,7 +522,6 @@ Kg4 92. Rg8+ Kf3 93. Ra8 Re1 94. Ra7 Rd1 95. Ra8 Ke3 96. Kxh3 f3 97. Ra3+ Kf2
 
 [Event "4th London Chess Classic"]
 [Site "London ENG"]
-[Date "2012.12.04"]
 [Round "4.2"]
 [White "Anand, V."]
 [Black "Kramnik, V."]
@@ -573,7 +530,6 @@ Kg4 92. Rg8+ Kf3 93. Ra8 Re1 94. Ra7 Rd1 95. Ra8 Ke3 96. Kxh3 f3 97. Ra3+ Kf2
 [WhiteElo "2775"]
 [BlackElo "2795"]
 [PlyCount "80"]
-[EventDate "2012.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -591,7 +547,6 @@ Rh1 Nd6 36. h5 g5 37. Ne3 Bf8 38. Nc4 Nxc4 39. dxc4 h6 40. Be3 Bd6 1/2-1/2
 
 [Event "4th London Chess Classic"]
 [Site "London ENG"]
-[Date "2012.12.09"]
 [Round "8.3"]
 [White "Anand, V."]
 [Black "Nakamura, Hi"]
@@ -600,7 +555,6 @@ Rh1 Nd6 36. h5 g5 37. Ne3 Bf8 38. Nc4 Nxc4 39. dxc4 h6 40. Be3 Bd6 1/2-1/2
 [WhiteElo "2775"]
 [BlackElo "2760"]
 [PlyCount "130"]
-[EventDate "2012.12.01"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -623,7 +577,6 @@ Kh3 Qe3+ 1/2-1/2
 
 [Event "Anand vs The World"]
 [Site "Chess.com INT"]
-[Date "2012.08.13"]
 [Round "1"]
 [White "Anand,V"]
 [Black "The World"]
@@ -634,7 +587,6 @@ Kh3 Qe3+ 1/2-1/2
 [Opening "QGD semi-Slav"]
 [Variation "5.e3"]
 [WhiteFideId "5000017"]
-[EventDate "2012.08.13"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Bb4 6. Bd3 O-O 7. O-O Nbd7 8. a3
 Bxc3 9. bxc3 Qc7 10. a4 e5 11. Nd2 e4 12. Be2 Re8 13. Ba3 Nb6 14. c5 Nbd7 15. c4
@@ -644,14 +596,12 @@ Be2 Bg4 1/2-1/2
 
 [Event "Anand - Gelfand World Championship Match"]
 [Site "Moscow RUS"]
-[Date "2012.05.11"]
 [Round "1"]
 [White "Viswanathan Anand"]
 [Black "Boris Gelfand"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D85"]
-[EventDate "2012.05.10"]
 [PlyCount "48"]
 [WhiteElo "?"]
 

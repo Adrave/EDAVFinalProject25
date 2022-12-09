@@ -1,6 +1,5 @@
 [Event "Riga FIDE Grand Prix 2019"]
 [Site "Riga LAT"]
-[Date "2019.07.17"]
 [Round "2.3"]
 [White "Grischuk,A"]
 [Black "Yu Yangyi"]
@@ -14,7 +13,6 @@
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "4126025"]
 [BlackFideId "8603820"]
-[EventDate "2019.07.12"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O
 a6 9. a4 c5 10. d5 exd5 11. Nxd5 Nxd5 12. Qxd5 Nf6 13. Qxd8 Rxd8 14. Bc7 Re8 15.
@@ -30,7 +28,6 @@ Nxf4+ Kg4 55. h5 Kg5 56. e5 Nf5 57. e6 Ng7 58. Ka2 Nf5 59. Kxa3 Kf6 60. g4 Ne3
 
 [Event "GCT Rapid Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.27"]
 [Round "2.3"]
 [White "Grischuk,A"]
 [Black "Nakamura,Hi"]
@@ -44,7 +41,6 @@ Nxf4+ Kg4 55. h5 Kg5 56. e5 Nf5 57. e6 Ng7 58. Ka2 Nf5 59. Kxa3 Kf6 60. g4 Ne3
 [Variation "closed, 5.Nf3"]
 [WhiteFideId "4126025"]
 [BlackFideId "2016192"]
-[EventDate "2019.07.27"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b6 8. Bg5
 Nd5 9. Bxe7 Qxe7 10. Nbd2 b5 11. b3 cxb3 12. Nxb3 a5 13. Ne5 a4 14. Nc5 c6 15.
@@ -59,7 +55,6 @@ Rf4 55. e6 g6 56. Kd6 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "2.3"]
 [White "Grischuk,A"]
 [Black "Vachier Lagrave,M"]
@@ -72,7 +67,6 @@ Rf4 55. e6 g6 56. Kd6 1-0
 [Opening "King's Indian defence"]
 [WhiteFideId "4126025"]
 [BlackFideId "623539"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. c4 g6 3. h4 Bg7 4. Nc3 d6 5. e4 Nc6 6. Nge2 Nh5 7. Bg5 O-O 8. Qd2
 f6 9. Be3 f5 10. exf5 Bxf5 11. f3 e5 12. d5 Nd4 13. O-O-O Nxe2+ 14. Nxe2 e4 15.
@@ -86,7 +80,6 @@ Qh7 Ke7 48. Be5+ Kd8 49. Bxf4 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "10.3"]
 [White "Grischuk,A"]
 [Black "Nakamura,Hi"]
@@ -99,7 +92,6 @@ Qh7 Ke7 48. Be5+ Kd8 49. Bxf4 1-0
 [Opening "Queen's pawn game"]
 [WhiteFideId "4126025"]
 [BlackFideId "2016192"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2
 Ne4 9. Bf4 c6 10. Nc3 g5 11. Be3 Nd6 12. b3 Nf5 13. Bd2 g4 14. Ne1 Nxd4 15. Qd1
@@ -118,7 +110,6 @@ Bg4 Ne6 81. Bxe6 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "12.1"]
 [White "Grischuk,A"]
 [Black "Giri,A"]
@@ -132,7 +123,6 @@ Bg4 Ne6 81. Bxe6 1-0
 [Variation "Najdorf, Byrne (English) attack"]
 [WhiteFideId "4126025"]
 [BlackFideId "24116068"]
-[EventDate "2019.07.31"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
 O-O 9. O-O Nc6 10. Bg5 Be6 11. Bb3 Nd7 12. Bxe7 Qxe7 13. Nd5 Qd8 14. Qe2 Nc5 15.
@@ -145,7 +135,6 @@ Rh1+ 41. Kg2 Rb1 42. Rb6 Rxb2 43. Rxb5 Rc2 44. Rc5 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "17.4"]
 [White "Grischuk,A"]
 [Black "Nepomniachtchi,I"]
@@ -158,7 +147,6 @@ Rh1+ 41. Kg2 Rb1 42. Rb6 Rxb2 43. Rxb5 Rc2 44. Rc5 1-0
 [Opening "King's Indian defence"]
 [WhiteFideId "4126025"]
 [BlackFideId "4168119"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. c4 g6 3. h4 c6 4. Nc3 d5 5. cxd5 cxd5 6. Bf4 Bg7 7. e3 Nc6 8. Be2
 h6 9. Nf3 Bg4 10. Qb3 Na5 11. Qa4+ Bd7 12. Bb5 O-O 13. Bxd7 Nxd7 14. Nxd5 e5 15.
@@ -172,7 +160,6 @@ f4 41. Nd5+ Kc6 42. Nxf4 Bxf4 43. gxf4 Rh1 44. Re6+ Kd7 45. Rh6 Rxh4 46. Ke4 Rh1
 
 [Event "Levitov Chess Week Blitz"]
 [Site "Amsterdam NED"]
-[Date "2019.08.03"]
 [Round "1.3"]
 [White "Grischuk,A"]
 [Black "Bareev,E"]
@@ -186,7 +173,6 @@ f4 41. Nd5+ Kc6 42. Nxf4 Bxf4 43. gxf4 Rh1 44. Re6+ Kd7 45. Rh6 Rxh4 46. Ke4 Rh1
 [Variation "Steinitz variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "4100140"]
-[EventDate "2019.08.03"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 b5 8. a3 Rb8
 9. Nf4 cxd4 10. cxd4 b4 11. a4 b3 12. Bb5 Qb6 13. O-O Ba6 14. Bxa6 Qxa6 15. Be3
@@ -197,7 +183,6 @@ Nxb2 Qxb2 29. Qxf7 Nb6 30. Nf4 1-0
 
 [Event "Levitov Chess Week Blitz"]
 [Site "Amsterdam NED"]
-[Date "2019.08.03"]
 [Round "3.2"]
 [White "Grischuk,A"]
 [Black "Gelfand,B"]
@@ -210,7 +195,6 @@ Nxb2 Qxb2 29. Qxf7 Nb6 30. Nf4 1-0
 [Opening "King's Indian defence"]
 [WhiteFideId "4126025"]
 [BlackFideId "2805677"]
-[EventDate "2019.08.03"]
 
 1. d4 Nf6 2. c4 g6 3. h4 c5 4. d5 Bg7 5. Nc3 d6 6. e4 O-O 7. Be2 e6 8. h5 exd5
 9. exd5 Re8 10. h6 Bh8 11. Bg5 Qb6 12. b3 Ne4 13. Nxe4 Rxe4 14. Rc1 Nd7 15. Kf1
@@ -221,7 +205,6 @@ Nh5 29. Bg5 Re5 30. b4 cxb4 1-0
 
 [Event "Levitov Chess Week Blitz"]
 [Site "Amsterdam NED"]
-[Date "2019.08.03"]
 [Round "5.1"]
 [White "Grischuk,A"]
 [Black "Giri,A"]
@@ -235,7 +218,6 @@ Nh5 29. Bg5 Re5 30. b4 cxb4 1-0
 [Variation "old Indian attack"]
 [WhiteFideId "4126025"]
 [BlackFideId "24116068"]
-[EventDate "2019.08.03"]
 
 1. Nf3 d5 2. d3 g6 3. Nbd2 Bg7 4. e4 dxe4 5. dxe4 Nf6 6. Bc4 O-O 7. O-O Nc6 8.
 c3 Nd7 9. Qc2 Nb6 10. Be2 a5 11. a4 e5 12. Rd1 Be6 13. Nc4 Qe7 14. Nxb6 cxb6 15.
@@ -246,7 +228,6 @@ Rd6 22. Qc4 Rad8 23. Rdb1 Na6 24. b4 axb4 25. cxb4 Qxc4 26. Bxc4 Nb8 27. b5 Nd7
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.05"]
 [Round "3.2"]
 [White "Grischuk,A"]
 [Black "Bareev,E"]
@@ -260,7 +241,6 @@ Rd6 22. Qc4 Rad8 23. Rdb1 Na6 24. b4 axb4 25. cxb4 Qxc4 26. Bxc4 Nb8 27. b5 Nd7
 [Variation "advance variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "4100140"]
-[EventDate "2019.08.04"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Bg6 7. Nbd2 Be7 8. a4
 Nh6 9. Nb3 Nf5 10. g4 Nh4 11. Nxh4 Bxh4 12. f4 f5 13. Bd3 Qe7 14. gxf5 exf5 15.
@@ -271,7 +251,6 @@ Rag1 g6 23. Qh3 c5 24. Nf3 c4 25. Be2 Nb8 26. Qh6 Rg8 27. Ng5 Bxg5 28. Rxg5 Nc6
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.06"]
 [Round "6.2"]
 [White "Grischuk,A"]
 [Black "Anand,V"]
@@ -285,7 +264,6 @@ Rag1 g6 23. Qh3 c5 24. Nf3 c4 25. Be2 Nb8 26. Qh6 Rg8 27. Ng5 Bxg5 28. Rxg5 Nc6
 [Variation "old Indian attack"]
 [WhiteFideId "4126025"]
 [BlackFideId "5000017"]
-[EventDate "2019.08.04"]
 
 1. Nf3 d5 2. d3 Nc6 3. Bf4 e6 4. e3 Bd6 5. d4 Bxf4 6. exf4 Qd6 7. Qd2 Nf6 8. c3
 Ne4 9. Qe3 Ne7 10. Bd3 Nf5 11. Qc1 c5 12. dxc5 Nxc5 13. Bxf5 exf5 14. O-O O-O
@@ -300,7 +278,6 @@ Qc2 54. b3 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.11"]
 [Round "1.2"]
 [White "Grischuk,A"]
 [Black "Pultinevicius,Paulius"]
@@ -314,7 +291,6 @@ Qc2 54. b3 1-0
 [Variation "modern exchange variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "12809390"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
 Be3 Bg4 9. Rc1 Qa5 10. Qd2 Nd7 11. d5 O-O 12. c4 Qa3 13. Be2 Nf6 14. e5 Nd7 15.
@@ -327,7 +303,6 @@ Qc7+ 40. Nc6 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.20"]
 [Round "4.1"]
 [White "Grischuk,A"]
 [Black "Dominguez Perez,L"]
@@ -341,7 +316,6 @@ Qc7+ 40. Nc6 1-0
 [Variation "Neo-Catalan declined"]
 [WhiteFideId "4126025"]
 [BlackFideId "3503240"]
-[EventDate "2019.09.10"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. d4 dxc4 7. Qc2 a6 8. a4
 Bd7 9. Qxc4 Bc6 10. Bg5 Nbd7 11. Nc3 h6 12. Bxf6 Nxf6 13. Rfd1 Bd5 14. Qd3 Bxf3
@@ -361,7 +335,6 @@ Kg4 Be3 74. Kf3 Bd2 75. h6 gxh6 76. f5 c2 77. f6+ Kf8 78. Bxc2 Bc3 79. Kf4 h5
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.22"]
 [Round "4.4"]
 [White "Grischuk,A"]
 [Black "Dominguez Perez,L"]
@@ -375,7 +348,6 @@ Kg4 Be3 74. Kf3 Bd2 75. h6 gxh6 76. f5 c2 77. f6+ Kf8 78. Bxc2 Bc3 79. Kf4 h5
 [Variation "Neo-Catalan declined"]
 [WhiteFideId "4126025"]
 [BlackFideId "3503240"]
-[EventDate "2019.09.10"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. d4 dxc4 7. Qc2 a6 8. a4
 Bd7 9. Qxc4 Bc6 10. Bg5 Nbd7 11. Nc3 h6 12. Bxf6 Nxf6 13. Rfd1 Bd5 14. Qd3 Bxf3
@@ -388,7 +360,6 @@ Kf6 35. Kxf2 Nd3+ 36. Ke3 Nc5 37. Ra3 Ke5 38. Bb5 Rg2 39. Kf3 Rd2 40. Ra2 Rd4
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.17"]
 [Round "3.2"]
 [White "Grischuk,A"]
 [Black "Xu,Xiangyu"]
@@ -401,7 +372,6 @@ Kf6 35. Kxf2 Nd3+ 36. Ke3 Nc5 37. Ra3 Ke5 38. Bb5 Rg2 39. Kf3 Rd2 40. Ra2 Rd4
 [Opening "Queen's pawn game"]
 [WhiteFideId "4126025"]
 [BlackFideId "8608288"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. b3 Nc6 8. Bb2 b6
 9. Nbd2 Bb7 10. Rc1 Ne7 11. Qc2 Rc8 12. Rfd1 Re8 13. Ne5 Nd7 14. Nd3 Nf6 15. Ne5
@@ -412,7 +382,6 @@ Bg5 Rb7 29. g4 Rc7 30. Rd8 Rxd8 31. Rxd8+ Kh7 32. Bf6 Ng8 33. g5 1-0
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.12"]
 [Round "3.6"]
 [White "Grischuk,A"]
 [Black "Oparin,G"]
@@ -426,7 +395,6 @@ Bg5 Rb7 29. g4 Rc7 30. Rd8 Rxd8 31. Rxd8+ Kh7 32. Bf6 Ng8 33. g5 1-0
 [Variation "Archangelsk (counterthrust) variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "24125890"]
-[EventDate "2019.10.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Bc5 8. a4
 O-O 9. Bg5 h6 10. Bh4 Be7 11. c3 d6 12. Na3 Nh5 13. Bxe7 Qxe7 14. axb5 axb5 15.
@@ -444,7 +412,6 @@ Rf5+ Ke4 74. Kg6 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.2"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -458,7 +425,6 @@ Rf5+ Ke4 74. Kg6 1-0
 [Variation "advance variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Bb4 7. Nbd2 h6 8. Re1
 Ne7 9. c3 Ba5 10. Nf1 Bg6 11. Nh4 Bh7 12. Ng3 Ng6 13. Nf3 O-O 14. Nh5 f6 15.
@@ -473,7 +439,6 @@ f4 b4 54. f5 Re7 55. Rg6 Qc7 56. f6 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.4"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -487,7 +452,6 @@ f4 b4 54. f5 Re7 55. Rg6 Qc7 56. f6 1-0
 [Variation "Kan, 5.Nc3"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 a6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nf6 7. f4 d6 8. Qe2
 Nbd7 9. g4 Nc5 10. g5 Nfd7 11. h4 b5 12. a3 Bb7 13. Rh3 Nb6 14. h5 e5 15. Nf5
@@ -502,7 +466,6 @@ Ka2 a4 48. Bc4 Rb7 49. Ba6 Rb3 50. Qd4 Rd8 51. Qxa4 Rb6 52. Bb5 Bc7 53. Bc6 Kc8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.8"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -515,7 +478,6 @@ Ka2 a4 48. Bc4 Rb7 49. Ba6 Rb3 50. Qd4 Rd8 51. Qxa4 Rb6 52. Bb5 Bc7 53. Bc6 Kc8
 [Opening "Queen's Indian accelerated"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. Nf3 d5 5. Bg5 Ne4 6. cxd5 Nxc3 7. bxc3 Qxd5 8.
 Bf4 e6 9. e3 Bd6 10. Bg3 Nd7 11. Bd3 Nf6 12. a4 O-O 13. a5 Ne4 14. Qc2 b5 15. a6
@@ -529,7 +491,6 @@ Ra5 48. c5 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.12"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -543,7 +504,6 @@ Ra5 48. c5 1-0
 [Variation "4.e3"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O Bg4 8. h3
 Bxf3 9. Bxf3 e6 10. b3 Nbd7 11. Bb2 Re8 12. Qc2 Nb6 13. Ne2 Nc8 14. Nf4 Nd6 15.
@@ -558,7 +518,6 @@ a5 Be5 48. Qg5 Qa6 49. h5 Qxa5 50. Qxg6+ Kh8 51. Qxf5 Qc7 52. h6 Qd6 53. b4 Bc3
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.14"]
 [Round "5.4"]
 [White "Grischuk,A"]
 [Black "Cheparinov,I"]
@@ -571,7 +530,6 @@ a5 Be5 48. Qg5 Qa6 49. h5 Qxa5 50. Qxg6+ Kh8 51. Qxf5 Qc7 52. h6 Qd6 53. b4 Bc3
 [Opening "Sicilian"]
 [WhiteFideId "4126025"]
 [BlackFideId "2905540"]
-[EventDate "2019.10.10"]
 
 1. Nf3 c5 2. e4 d6 3. c3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. Re1 Nc6 8. d3 e5
 9. a4 h6 10. Na3 d5 11. exd5 Nxd5 12. Nc4 Re8 13. a5 Rb8 14. Qa4 Bf5 15. Nfd2
@@ -584,7 +542,6 @@ Kf2 Rc6 42. Ra4 1-0
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.19"]
 [Round "9.10"]
 [White "Grischuk,A"]
 [Black "Shirov,A"]
@@ -598,7 +555,6 @@ Kf2 Rc6 42. Ra4 1-0
 [Variation "Steinitz, Boleslavsky variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "2209390"]
-[EventDate "2019.10.10"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
 Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
@@ -612,7 +568,6 @@ Rc2 48. Ke3 h5 49. h4 Ra2 50. Rxa5 Bh7 51. Rxd5 Rxa4 52. Nf4 1-0
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.21"]
 [Round "11.11"]
 [White "Grischuk,A"]
 [Black "Gelfand,B"]
@@ -626,7 +581,6 @@ Rc2 48. Ke3 h5 49. h4 Ra2 50. Rxa5 Bh7 51. Rxd5 Rxa4 52. Nf4 1-0
 [Variation "classical attack"]
 [WhiteFideId "4126025"]
 [BlackFideId "2805677"]
-[EventDate "2019.10.10"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Bf5 8. Ne5
 Nd7 9. Nc3 Nxc3 10. bxc3 Bxd3 11. cxd3 O-O 12. Qb3 Nxe5 13. dxe5 Rb8 14. f4 f5
@@ -638,7 +592,6 @@ Kh7 35. Qh5+ Rh6 36. Qxf5+ 1-0
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.07"]
 [Round "1.4"]
 [White "Grischuk,A"]
 [Black "Wojtaszek,R"]
@@ -647,7 +600,6 @@ Kh7 35. Qh5+ Rh6 36. Qxf5+ 1-0
 [BlackFideId "1118358"]
 [BlackTitle "GM"]
 [ECO "A05"]
-[EventDate "2019.11.05"]
 [Opening "Reti opening"]
 [WhiteElo "2764"]
 [WhiteFideId "4126025"]
@@ -667,7 +619,6 @@ Kh7 35. Qh5+ Rh6 36. Qxf5+ 1-0
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.17"]
 [Round "4.5"]
 [White "Grischuk,A"]
 [Black "Duda,J"]
@@ -676,7 +627,6 @@ Kh7 35. Qh5+ Rh6 36. Qxf5+ 1-0
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "D11"]
-[EventDate "2019.11.05"]
 [Opening "QGD Slav"]
 [Variation "4.e3"]
 [WhiteElo "2764"]

@@ -1,6 +1,5 @@
 [Event "Ch France (team) (juniors) 2004/05"]
 [Site "France"]
-[Date "2005.05.15"]
 [Round "10"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Heinz Timothee (FRA)"]
@@ -23,7 +22,6 @@ Nb3 30.Bf4 Rd8 31.Re7 Ra8 32.Kd1 Bxf2 33.Be5 Kg8 34.Rxg7+ Kf8
 
 [Event "Match \"China-France\""]
 [Site "Shenzheng (China)"]
-[Date "2005.06.28"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Hou Yifan (CHN)"]
@@ -50,7 +48,6 @@ g3 59.c5 Kf2 60.c6 Rd1 61.c7 Rc1 62.Kb5 1-0
 
 [Event "Ch World (juniors) (under 16)"]
 [Site "Belfort (France)"]
-[Date "2005.07.23"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Maenhout Thibaut (BEL)"]
@@ -74,7 +71,6 @@ gxf6 42.g7 Raa8 43.Rg1 1-0
 
 [Event "Ch World (juniors) (under 16)"]
 [Site "Belfort (France)"]
-[Date "2005.07.25"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Vila Gazquez Javier (ESP)"]
@@ -103,7 +99,6 @@ Rxd2+ 65.Kf3 d4 66.Rxe5+ Kf7 67.Ke4 Rd1 68.Kf5 d3 69.g6+ Kf8
 
 [Event "Ch World (juniors) (under 16)"]
 [Site "Belfort (France)"]
-[Date "2005.07.26"]
 [Round "8"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Warakomski Tomasz (POL)"]
@@ -127,7 +122,6 @@ Kc6 30.a4 b5 31.cxb5+ axb5 32.axb5+ Kxb5 33.Rc1 g5 34.Rd5 gxf4
 
 [Event "Ch World (juniors) (under 16)"]
 [Site "Belfort (France)"]
-[Date "2005.07.29"]
 [Round "11"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Nguyen Ngoc Truongson (VIE)"]
@@ -154,7 +148,6 @@ Ke6 59.Be5 1-0
 
 [Event "Ch France"]
 [Site "Chartres (France)"]
-[Date "2005.08.17"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Marzolo Cyril (FRA)"]
@@ -178,7 +171,6 @@ Kb5 36.Re5+ R8d5 37.Rxd5+ Rxd5 38.Re1 Rd8 39.Re5+ Kb6 40.d4 Rc8+
 
 [Event "Ch France"]
 [Site "Chartres (France)"]
-[Date "2005.08.18"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bagheri Amir (FRA)"]
@@ -201,7 +193,6 @@ Bxe4 31.Nxe4 Nh5 32.Rd5 Be7 33.Qc6 Bd8 34.Rd7 Rg8 35.Rxd8 Rxd8
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2005.09.16"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Dzagnidze Nana (GEO)"]
@@ -230,7 +221,6 @@ Kd8 69.a5 Ne8 70.a6 Nd6+ 71.Kc6 Nxf7 72.exf7 Ke7 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2006.02.11"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Fressinet Laurent (FRA)"]
@@ -249,7 +239,6 @@ Ne5 14.Qxb5+ Bd7 15.Qe2 Qxe4 16.Be3 O-O 1/2-1/2
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2006.02.13"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Akopian Vladimir (ARM)"]
@@ -280,7 +269,6 @@ Qe6+ 74.Kc2 Qf5+ 75.Kb3 Qb1 76.Rc4+ Kd6 77.Rc3 Kd5 78.a4 Qa1
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2006.02.14"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Mamedyarov Shakhriyar (AZE)"]
@@ -300,7 +288,6 @@ Rb8 14.Bg5 Nd7 15.axb5 axb5 16.Bxe7 Rxe7 17.Nd5 Re5 18.Nb4 Bxe4
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.21"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Cueto J (BOL)"]
@@ -328,7 +315,6 @@ c1Q+ 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.22"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bogut Zeljko (BIH)"]
@@ -352,7 +338,6 @@ Kxg7 41.Ne5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.25"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Kizov Atanas (MKD)"]
@@ -377,7 +362,6 @@ Ke7 49.Ne4 Kf7 50.Ng5+ Ke7 51.Ke4 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.06.02"]
 [Round "11"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Ni Hua (CHN)"]
@@ -399,7 +383,6 @@ Bg6 31.h3 h6 32.Ng4 b3 33.Rxe5 Qxa2 34.Re3 Qxb2 35.Rxb3 Qd4 1/2-1/2
 
 [Event "Ch Paris (open)"]
 [Site "Paris (France)"]
-[Date "2006.07.14"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Fressinet Laurent (FRA)"]
@@ -423,7 +406,6 @@ Qe2+ 1/2-1/2
 
 [Event "Ch France"]
 [Site "Besancon (France)"]
-[Date "2006.08.15"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Lautier Joel (FRA)"]
@@ -443,7 +425,6 @@ Qc7 14.exd5 Bxd5 15.c4 Bc6 16.Be5 Qa7 17.Nc3 Rad8 18.Ne4 Nxe4
 
 [Event "Ch France"]
 [Site "Besancon (France)"]
-[Date "2006.08.21"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Libiszewski Fabien (FRA)"]
@@ -465,7 +446,6 @@ axb5 30.axb5 Rd8 31.Qc5 cxb5 32.Rb1 1/2-1/2
 
 [Event "Ch France"]
 [Site "Besancon (France)"]
-[Date "2006.08.25"]
 [Round "11"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bauer Christian (FRA)"]
@@ -486,7 +466,6 @@ Rac8 26.Re2 Bf8 27.g4 Rc4 28.Nd5 1/2-1/2
 
 [Event "Match \"France-China\""]
 [Site "Paris (France)"]
-[Date "2006.09.09"]
 [Round "6"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Zhao Jun (CHN)"]
@@ -511,7 +490,6 @@ Qg8 48.Re7 Qf8 49.Qb7 Rxa7 50.Qxa7 Qf1+ 51.Kh2 1/2-1/2
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2006.09.14"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Wojtaszek Radoslaw (POL)"]
@@ -535,7 +513,6 @@ Be1 1/2-1/2
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2006.09.14"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Wojtaszek Radoslaw (POL)"]
@@ -567,7 +544,6 @@ Ng7+ 86.Kf4 Nh5+ 87.Kg5 Ng7 88.Rd8+ Kh7 89.Rd7 Kg8 90.Rd8+ 1/2-1/2
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2006.09.16"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Gashimov Vugar (AZE)"]
@@ -593,7 +569,6 @@ Kd7 54.Ra1 Bg5 55.b4 Bd8 56.a4 a5 57.axb5 1/2-1/2
 
 [Event "GpB"]
 [Site "Cap d'Agde FRA"]
-[Date "2006.10.27"]
 [Round "2"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Bacrot, Etienne"]
@@ -601,7 +576,6 @@ Kd7 54.Ra1 Bg5 55.b4 Bd8 56.a4 a5 57.axb5 1/2-1/2
 [WhiteElo "2579"]
 [BlackElo "2705"]
 [ECO "C69"]
-[EventDate "2006.10.27"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5
 8. Nb3 Qxd1 9. Rxd1 Bg4 10. f3 Bd7 11. Nc3 O-O-O 12. Bf4 c4 13. Na5 Bc5+ 

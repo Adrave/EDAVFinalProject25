@@ -1,6 +1,5 @@
 [Event "Ch Netherlands"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1948.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -21,7 +20,6 @@ Bxb4 26.Rd4 a5 27.Nh5+ Kf8 28.Rg4 Nc5 29.Nf6 Ke7 30.Nd4 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1948.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -44,7 +42,6 @@ Nb1 36.f3 Kf6 37.Kf2 Ke6 38.g4 Nd2 39.Rc3 Ke5 40.Ke2 Nb1 41.Rb3 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1948.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -66,7 +63,6 @@ h6 31.Re1 Rxe1 32.Rxe1 Rxe1 33.Bxe1 Bd4 1/2-1/2
 
 [Event "Ch Netherlands (match)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1948.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -86,7 +82,6 @@ Nf4 14.Rf2 Re6 15.Nxf4 Bxf4 16.Nf1 Rae8 17.Re2 Qe7 18.Rxe6 Qxe6
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -109,7 +104,6 @@ Kb5 36.Ra5+ Kb6 37.b4 Re5 38.bxc5+ Bxc5 39.f4 Re8 40.Ra4 Kb5 1/2-1/2
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Keres Paul (EST)"]
@@ -135,7 +129,6 @@ Nd5 48.Qd1 Nc3 49.Qc2 Kg6 50.Kh1 Qe1+ 51.Kh2 Ne2 52.Qc6+ Kh7
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "11"]
 [White "Euwe Max (NED)"]
 [Black "Keres Paul (EST)"]
@@ -156,7 +149,6 @@ hxg5 25.Bd2 Be4 0-1
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "21"]
 [White "Euwe Max (NED)"]
 [Black "Keres Paul (EST)"]
@@ -179,7 +171,6 @@ Qc2+ 0-1
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "20"]
 [White "Euwe Max (NED)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -202,7 +193,6 @@ Nd3+ 38.Ke2 Rf8 39.Nd2 Rf2+ 40.Kd1 Rb2 41.Rxb2 Nxb2+ 42.Kc1 Rxg2 0-1
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -226,7 +216,6 @@ Qb7 31.Bd4 Kh7 32.Nf4 Bc4 33.Nexg6 fxg6 34.Nxg6 Kxg6 35.e5+ Kf7
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "14"]
 [White "Euwe Max (NED)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -250,7 +239,6 @@ Kg7 37.Rb5 Bd2 38.Rc7+ Kf6 39.Rd7 Be1 40.Rb6+ Kg5 41.h4+ Kf4
 
 [Event "Ch World (match-tournament)"]
 [Site "Hague/Moscow (Netherl./Russia)"]
-[Date "1948.??.??"]
 [Round "24"]
 [White "Euwe Max (NED)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -273,7 +261,6 @@ Rd8 30.Rc1 b6 31.Bc4 Rda8 32.Bd5 Ra2 33.Rcb1 R8a4 34.Kd2 Rd4+
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1948.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -296,7 +283,6 @@ Qd5+ 30.Qxd5 cxd5 31.Rh7 Rxa2 32.Rxb7 Rxb2 33.h4 Bd2 34.Kf1 Rb1+
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1948.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Kramer George Mo (USA)"]
@@ -319,7 +305,6 @@ Re7 37.Qf6 Kh7 38.Qh4+ Kg8 39.Qg5 Rg7 40.Re1 Nf5 41.Re8+ 1-0
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1948.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Castaldi Vincenzo (ITA)"]
@@ -344,7 +329,6 @@ Kg3 46.Qg5+ Kf2 47.Qh4+ Ke3 48.Qe1+ Kd4 0-1
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1948.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Primavera Giuseppe (ITA)"]
@@ -367,7 +351,6 @@ Rf4 36.Rxb6+ 1-0
 
 [Event "Match"]
 [Site "Bled (Slovenia)"]
-[Date "1949.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Pirc Vasja (YUG)"]
@@ -388,7 +371,6 @@ Ra3+ 24.Kb2 R3a2+ 25.Kb3 1/2-1/2
 
 [Event "Match"]
 [Site "Bled (Slovenia)"]
-[Date "1949.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Pirc Vasja (YUG)"]
@@ -410,7 +392,6 @@ Kf7 1/2-1/2
 
 [Event "Match"]
 [Site "Bled (Slovenia)"]
-[Date "1949.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Pirc Vasja (YUG)"]
@@ -436,7 +417,6 @@ h5+ 53.Kh4 Kh6 54.g4 hxg4 55.Kxg4 Kg6 56.Kf4 Kf6 57.b3 1-0
 
 [Event "Match"]
 [Site "Bled (Slovenia)"]
-[Date "1949.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Pirc Vasja (YUG)"]
@@ -457,7 +437,6 @@ Rxd1 25.Nxd1 Kf7 1/2-1/2
 
 [Event "It"]
 [Site "Copenhagen (Denmark)"]
-[Date "1949.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Enevoldsen Jens (DEN)"]
@@ -480,7 +459,6 @@ Bb7 36.Rd8+ Kh7 37.Rd7 1-0
 
 [Event "Match \"Czechoslovakia-Netherlands\""]
 [Site "Czechoslovakia"]
-[Date "1949.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Foltys Jan (CZE)"]
@@ -505,7 +483,6 @@ Be7 42.Nxc5+ Bxc5 43.Rxc5 Rf5 44.Ke3 Kb8 45.Kd4 Rf1 46.Rc7 Ra1
 
 [Event "Match"]
 [Site "Ljubljana (Slovenia)"]
-[Date "1949.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Pirc Vasja (YUG)"]
@@ -529,7 +506,6 @@ Ke8 36.Ke2 Nd6 37.Rxc8+ Nxc8 38.Ke3 Nd6 39.Kd3 Nc8 40.Kc4 Kd7
 
 [Event "Game (radio)"]
 [Site "Netherlands"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Barda Olaf (NOR)"]
@@ -552,14 +528,12 @@ Bxa4 37.bxa4 Rxa4 38.Rf2 Ra3 1/2-1/2
 
 [Event "ENG-NED"]
 [Site "London, Bonnington Hall"]
-[Date "1948.09.11"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Reginald Joseph Broadbent"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "1948.09.11"]
 [PlyCount "83"]
 [WhiteElo "?"]
 

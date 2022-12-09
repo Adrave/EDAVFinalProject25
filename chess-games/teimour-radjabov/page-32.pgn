@@ -1,6 +1,5 @@
 [Event "Ch France (team) 2005"]
 [Site "France"]
-[Date "2005.02.05"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Schlosser Philipp (GER)"]
@@ -22,7 +21,6 @@ Be8 30.Ne4 Bc5 31.Nxc5 Qxc5 32.Rg1 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2005.02.17"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Minasian Artashes (ARM)"]
@@ -43,7 +41,6 @@ Nxd3 26.bxa5 Nxf2 27.cxd5 cxd5 28.Rc1 e6 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2005.02.22"]
 [Round "8"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Areshchenko Alexander (UKR)"]
@@ -65,7 +62,6 @@ Ra7 25.Nc6 Rc7 26.Nd4 Kf7 27.Nxf5 Nc5 28.Qa5 Rd7 29.Nxd6+ Ke6
 
 [Event "It (cat.16)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2005.04.05"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Karjakin Sergey (UKR)"]
@@ -87,7 +83,6 @@ Kf7 31.Rg3 1-0
 
 [Event "Cup President"]
 [Site "Baku (Azerbaijan)"]
-[Date "2005.05.03"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Mamedov Nidjat (AZE)"]
@@ -112,7 +107,6 @@ Ree7 48.Rxc3 1-0
 
 [Event "Cup President"]
 [Site "Baku (Azerbaijan)"]
-[Date "2005.05.05"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Allahverdiev Anar (AZE)"]
@@ -134,7 +128,6 @@ a5 26.Qf2 exf4 27.Rxf4 Rfe8 28.Rxf6 h6 29.Rf4 Rxe6 30.dxe6 Qe8
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.19"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Mastrovasilis Dimitrios (GRE)"]
@@ -154,7 +147,6 @@ Nf8 20.e6 Nxe6 21.Bg4 Bxg5 22.Bxg5 cxd4 23.Qb4 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.21"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Kozul Zdenko (CRO)"]
@@ -175,7 +167,6 @@ Kxf8 25.Rxg5 hxg5 26.Kxc2 f5 27.Bb7 g4 28.Rd1 f4 29.Be4 Ke7 30.Nd5+ 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.23"]
 [Round "6"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Riazantsev Alexander (RUS)"]
@@ -200,7 +191,6 @@ Na4 43.Qe8 Nb6 44.Qf7 Ka6 45.Be6 Bd8 46.Nc3 Qxf4 47.Bxd5 Qc7
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.26"]
 [Round "8"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Naiditsch Arkadij (GER)"]
@@ -221,7 +211,6 @@ Nb7 26.Nc6 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.30"]
 [Round "12"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Milov Vadim (SUI)"]
@@ -245,7 +234,6 @@ bxc5 43.Rg3+ Kh8 44.Qc6 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Goteborg (Sweden)"]
-[Date "2005.08.06"]
 [Round "8"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Lutz Christopher (GER)"]
@@ -267,7 +255,6 @@ Kd7 31.b4 f6 32.b5 axb5 33.cxb5 Rxb5 34.c6+ Kd8 35.d7 1-0
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.13"]
 [Round "4"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Chiburdanidze Maia (GEO)"]
@@ -290,7 +277,6 @@ Kf8 37.Qxh5 R1c2 38.Rd2 Rc5 39.h4 Ke8 40.Qg5 Be4 41.Rxc2 1-0
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.13"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Stromer Alexander (GER)"]
@@ -309,7 +295,6 @@ Qxe2 14.Bxe2 Rd7 15.e5 h6 16.exf6 hxg5 17.Bg4 Rh4 18.h3 1-0
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.14"]
 [Round "8"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Gagunashvili Merab (GEO)"]
@@ -340,7 +325,6 @@ Kg8 83.Bf5 Kh8 84.Bd7 1-0
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.14"]
 [Round "9"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -364,7 +348,6 @@ Nc4 36.axb5 cxb5 37.Qxb5 Rc8 38.Rfd1 Bf7 39.Bb4 e3 40.f3 Rb8
 
 [Event "Ch Spain (team) (Honor 2)"]
 [Site "Sant Lluis (Spain)"]
-[Date "2005.09.04"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Dreev Alexey (RUS)"]
@@ -392,7 +375,6 @@ Nd6 63.Kg4 Ne4 64.Kh5 Kf7 65.Kh6 1-0
 
 [Event "Cup European Club (final)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2005.09.23"]
 [Round "6"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Babula Vlastimil (CZE)"]
@@ -415,7 +397,6 @@ Nxc6 36.Qf7+ Kh8 37.dxc6 Bxg5 38.c7 Ra8 39.Qf3 1-0
 
 [Event "It (cat.17)"]
 [Site "Biel (Switzerland)"]
-[Date "2006.07.31"]
 [Round "7"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Pelletier Yannick (SUI)"]
@@ -439,7 +420,6 @@ Bxa6 36.e6 Kd8 37.Rg6 Rd6 38.f5 dxe6 39.Rxh6 Ke7 40.Rxe6+ Rxe6
 
 [Event "It (cat.17)"]
 [Site "Biel (Switzerland)"]
-[Date "2006.08.03"]
 [Round "10"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -457,7 +437,6 @@ Bxa6 36.e6 Kd8 37.Rg6 Rd6 38.f5 dxe6 39.Rxh6 Ke7 40.Rxe6+ Rxe6
 
 [Event "Ch World (blitz)"]
 [Site "Rishon le Zion (Israel)"]
-[Date "2006.09.07"]
 [Round "3"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Sutovsky Emil (ISR)"]
@@ -482,7 +461,6 @@ Kh7 47.Qa1 1/2-1/2
 
 [Event "22. ECU Club Cup"]
 [Site "Feugen AUT"]
-[Date "2006.10.09"]
 [Round "2"]
 [White "Radjabov, Teimour"]
 [Black "Brkic, Ante"]
@@ -490,7 +468,6 @@ Kh7 47.Qa1 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2541"]
 [ECO "D87"]
-[EventDate "2006.10.08"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
 8. Ne2 O-O 9. O-O Nc6 10. Be3 Bg4 11. f3 Bd7 12. Rb1 Rc8 13. dxc5 Qc7 14. 
@@ -502,7 +479,6 @@ Be3 Rcc2 33. Bg1 Kf7 34. Rbd1 Bc5 35. d6 1/2-1/2
 
 [Event "GpA"]
 [Site "Cap d'Agde FRA"]
-[Date "2006.10.27"]
 [Round "2"]
 [White "Radjabov, Teimour"]
 [Black "Harikrishna, Pendyala"]
@@ -510,7 +486,6 @@ Be3 Rcc2 33. Bg1 Kf7 34. Rbd1 Bc5 35. d6 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2674"]
 [ECO "C68"]
-[EventDate "2006.10.27"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 
 Qd7 8. d3 f6 9. Nd2 Bd6 10. Nc4 Ne7 11. Qh5+ Ng6 12. Nxd6+ cxd6 13. f4 
@@ -521,7 +496,6 @@ dxc4 Rfc8 20. Rac1 Rc6 21. b3 Rac8 22. Rcd1 b5 23. cxb5 axb5 24. Rd5 Rc2
 
 [Event "GpA"]
 [Site "Cap d'Agde FRA"]
-[Date "2006.10.28"]
 [Round "4"]
 [White "Radjabov, Teimour"]
 [Black "Negi, Parimarjan"]
@@ -529,7 +503,6 @@ dxc4 Rfc8 20. Rac1 Rc6 21. b3 Rac8 22. Rcd1 b5 23. cxb5 axb5 24. Rd5 Rc2
 [WhiteElo "2729"]
 [BlackElo "2538"]
 [ECO "D87"]
-[EventDate "2006.10.27"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
 8. Ne2 O-O 9. O-O Nc6 10. Be3 Bg4 11. f3 Na5 12. Bxf7+ Rxf7 13. fxg4 Rxf1+
@@ -546,7 +519,6 @@ Rf4+ 61. Kd3 Rf8 1/2-1/2
 
 [Event "22. ECU Club Cup"]
 [Site "Feugen AUT"]
-[Date "2006.10.13"]
 [Round "6"]
 [White "Radjabov, Teimour"]
 [Black "Svidler, Peter"]
@@ -554,7 +526,6 @@ Rf4+ 61. Kd3 Rf8 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2750"]
 [ECO "B46"]
-[EventDate "2006.10.08"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. f4 Bb4 
 8. Bd3 d6 9. Nxc6 bxc6 10. O-O e5 11. h3 O-O 12. Qf3 exf4 13. Bxf4 Nd7 14.

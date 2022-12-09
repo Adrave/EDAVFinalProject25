@@ -1,6 +1,5 @@
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2009.02.17"]
 [Round "1"]
 [White "Mamedyarov, S."]
 [Black "Bartel, Mat"]
@@ -9,7 +8,6 @@
 [WhiteElo "2724"]
 [BlackElo "2594"]
 [PlyCount "56"]
-[EventDate "2009.02.17"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8.
 e3 O-O 9. Rc1 Rd8 10. cxd5 exd5 11. Be2 a6 12. O-O Bf8 13. a3 Ne7 14. b4 Bg4
@@ -20,7 +18,6 @@ Ne2 Bf8 22. Rg1 Ra3 23. Bb1 g6 24. Ng3 Nxg3+ 25. Rxg3 Bg7 26. Qg4 Kf8 27. h4 h5
 
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2009.02.20"]
 [Round "4"]
 [White "Mamedyarov, S."]
 [Black "Tomashevsky, E."]
@@ -29,7 +26,6 @@ Ne2 Bf8 22. Rg1 Ra3 23. Bb1 g6 24. Ng3 Nxg3+ 25. Rxg3 Bg7 26. Qg4 Kf8 27. h4 h5
 [WhiteElo "2724"]
 [BlackElo "2664"]
 [PlyCount "51"]
-[EventDate "2009.02.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
 Qf3 Be7 9. Bxc6+ Nxc6 10. Qxc6+ Bd7 11. Qf3 O-O 12. Nc3 Rc8 13. d3 Bc6 14. Qh3
@@ -40,7 +36,6 @@ Rxb2 21. O-O Be6 22. Qe5 Rxa2 23. Rxa2 Bxa2 24. Qa1 Qxd3 25. Qxa2 Qxe4 26. Qxa7
 
 [Event "Bundesliga 2008-9"]
 [Site "Eppingen GER"]
-[Date "2009.02.28"]
 [Round "12"]
 [White "Mamedyarov, S."]
 [Black "Tiviakov, S."]
@@ -49,7 +44,6 @@ Rxb2 21. O-O Be6 22. Qe5 Rxa2 23. Rxa2 Bxa2 24. Qa1 Qxd3 25. Qxa2 Qxe4 26. Qxa7
 [WhiteElo "2731"]
 [BlackElo "2686"]
 [PlyCount "51"]
-[EventDate "2008.10.03"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
 Be2 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. O-O Qa5 12. Rac1 a6 13. Rfe1 Rfc8 14. b3 b5
@@ -59,7 +53,6 @@ Be2 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. O-O Qa5 12. Rac1 a6 13. Rfe1 Rfc8 14. b3 b5
 
 [Event "4th FIDE GP"]
 [Site "Nalchik RUS"]
-[Date "2009.04.17"]
 [Round "3"]
 [White "Mamedyarov, S."]
 [Black "Kamsky, G."]
@@ -68,7 +61,6 @@ Be2 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. O-O Qa5 12. Rac1 a6 13. Rfe1 Rfc8 14. b3 b5
 [WhiteElo "2725"]
 [BlackElo "2720"]
 [PlyCount "85"]
-[EventDate "2009.04.15"]
 
 1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 Nc6 8. d5
 Ne5 9. Bd4 O-O 10. f4 Ng4 11. Bxg7 Kxg7 12. Qd4+ Nf6 13. O-O-O c6 14. h3 Qc7
@@ -81,7 +73,6 @@ Rb8 40. b4 e5 41. b5 e4 42. Kd4 Rxb5 43. Kxe4 1/2-1/2
 
 [Event "4th FIDE GP"]
 [Site "Nalchik RUS"]
-[Date "2009.04.18"]
 [Round "4"]
 [White "Mamedyarov, S."]
 [Black "Akopian, Vl"]
@@ -90,7 +81,6 @@ Rb8 40. b4 e5 41. b5 e4 42. Kd4 Rxb5 43. Kxe4 1/2-1/2
 [WhiteElo "2725"]
 [BlackElo "2696"]
 [PlyCount "77"]
-[EventDate "2009.04.15"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
 Be7 9. Rd1 O-O 10. Nc3 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 Ne8 14. e4 Bc6 15.
@@ -102,7 +92,6 @@ Qe4 Qb8 35. Kg2 Qf4 36. Rd8+ Kf7 37. Rd7+ Kg8 38. Rd8+ Kf7 39. Rd7+ 1/2-1/2
 
 [Event "4th FIDE GP"]
 [Site "Nalchik RUS"]
-[Date "2009.04.23"]
 [Round "8"]
 [White "Mamedyarov, S."]
 [Black "Ivanchuk, V."]
@@ -111,7 +100,6 @@ Qe4 Qb8 35. Kg2 Qf4 36. Rd8+ Kf7 37. Rd7+ Kg8 38. Rd8+ Kf7 39. Rd7+ 1/2-1/2
 [WhiteElo "2725"]
 [BlackElo "2746"]
 [PlyCount "74"]
-[EventDate "2009.04.15"]
 
 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. O-O O-O 8. Nc3
 Ne4 9. Ne5 Bf5 10. Qb3 Nc6 11. Rd1 Na5 12. Qxd5 Nxc3 13. bxc3 Qxd5 14. Bxd5
@@ -123,7 +111,6 @@ Rd8+ Kg7 34. d6 Kf6 35. Re8 Rd2 36. Ra8 Rxd6 37. Rxa5 Kg7 1/2-1/2
 
 [Event "4th FIDE GP"]
 [Site "Nalchik RUS"]
-[Date "2009.04.28"]
 [Round "12"]
 [White "Mamedyarov, S."]
 [Black "Eljanov, P."]
@@ -132,7 +119,6 @@ Rd8+ Kg7 34. d6 Kf6 35. Re8 Rd2 36. Ra8 Rxd6 37. Rxa5 Kg7 1/2-1/2
 [WhiteElo "2725"]
 [BlackElo "2693"]
 [PlyCount "99"]
-[EventDate "2009.04.15"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. a3 Be7 6. Bf4 dxc4 7. e4 a6 8. Bxc4
 b5 9. Ba2 Bb7 10. e5 Nd5 11. Nxd5 Bxd5 12. Bxd5 exd5 13. O-O c6 14. e6 fxe6 15.
@@ -146,7 +132,6 @@ Rb6 47. Kg8 Rc6 48. Kf7 Rb6 49. Kg8 Rc6 50. Kf7 1/2-1/2
 
 [Event "AZE vs World Rapid"]
 [Site "Baku AZE"]
-[Date "2009.05.07"]
 [Round "2"]
 [White "Mamedyarov, S."]
 [Black "Karjakin, Sergey"]
@@ -155,7 +140,6 @@ Rb6 47. Kg8 Rc6 48. Kf7 Rb6 49. Kg8 Rc6 50. Kf7 1/2-1/2
 [WhiteElo "2725"]
 [BlackElo "2721"]
 [PlyCount "149"]
-[EventDate "2009.05.07"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. cxd5 exd5 8. Be2
 Nc6 9. O-O Nb4 10. Qb1 g6 11. Bd2 Bf5 12. Qd1 c4 13. b3 Bc2 14. Qc1 cxb3 15.
@@ -173,7 +157,6 @@ Ra4+ Kb2 72. Rf4 Ka2 73. Rxf2 b2 74. Kc3 Ka1 75. Rxb2 1/2-1/2
 
 [Event "AZE vs World Rapid"]
 [Site "Baku AZE"]
-[Date "2009.05.08"]
 [Round "5"]
 [White "Mamedyarov, S."]
 [Black "Anand, V."]
@@ -182,7 +165,6 @@ Ra4+ Kb2 72. Rf4 Ka2 73. Rxf2 b2 74. Kc3 Ka1 75. Rxb2 1/2-1/2
 [WhiteElo "2725"]
 [BlackElo "2783"]
 [PlyCount "85"]
-[EventDate "2009.05.07"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. a4 c5 7. Bxc4 Nc6 8. O-O
 Be7 9. Ne5 cxd4 10. Nxc6 bxc6 11. exd4 O-O 12. b3 Bb7 13. Be3 Nd5 14. Rc1 Rc8
@@ -195,7 +177,6 @@ Nxa6 Bd2 41. Kh5 Ke5 42. Nc5 Be3 43. h4 1/2-1/2
 
 [Event "16th ORDIX Open"]
 [Site "Mainz GER"]
-[Date "2009.08.02"]
 [Round "11"]
 [White "Mamedyarov, S."]
 [Black "Akopian, Vl"]
@@ -204,7 +185,6 @@ Nxa6 Bd2 41. Kh5 Ke5 42. Nc5 Be3 43. h4 1/2-1/2
 [WhiteElo "2717"]
 [BlackElo "2712"]
 [PlyCount "46"]
-[EventDate "2009.08.01"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "GER"]
@@ -219,7 +199,6 @@ Rad8 22. f3 Qe6 23. Nb1 Ne8 1/2-1/2
 
 [Event "4th Kolkata Open"]
 [Site "Kolkata IND"]
-[Date "2009.09.05"]
 [Round "5"]
 [White "Mamedyarov, S."]
 [Black "Himanshu, Sh"]
@@ -228,7 +207,6 @@ Rad8 22. f3 Qe6 23. Nb1 Ne8 1/2-1/2
 [WhiteElo "2721"]
 [BlackElo "2471"]
 [PlyCount "102"]
-[EventDate "2009.09.01"]
 [EventRounds "10"]
 [EventCountry "IND"]
 [Source "Mark Crowther"]
@@ -246,7 +224,6 @@ dxc3 48. Kf3 Kg7 49. Ke4 Kf6 50. Kd5 Bf8 51. d4 g5 1/2-1/2
 
 [Event "Open"]
 [Site "Baku AZE"]
-[Date "2009.09.23"]
 [Round "3"]
 [White "Mamedyarov, S."]
 [Black "Durarbeyli, V."]
@@ -255,7 +232,6 @@ dxc3 48. Kf3 Kg7 49. Ke4 Kf6 50. Kd5 Bf8 51. d4 g5 1/2-1/2
 [WhiteElo "2721"]
 [BlackElo "2443"]
 [PlyCount "133"]
-[EventDate "2009.09.21"]
 [EventRounds "9"]
 [EventCountry "AZE"]
 [Source "Mark Crowther"]
@@ -276,7 +252,6 @@ Rf2+ 65. Ke3 Ra2 66. Kf4 Rf2+ 67. Ke3 1/2-1/2
 
 [Event "Open"]
 [Site "Baku AZE"]
-[Date "2009.09.29"]
 [Round "9"]
 [White "Mamedyarov, S."]
 [Black "Guliev, L."]
@@ -285,7 +260,6 @@ Rf2+ 65. Ke3 Ra2 66. Kf4 Rf2+ 67. Ke3 1/2-1/2
 [WhiteElo "2721"]
 [BlackElo "2426"]
 [PlyCount "74"]
-[EventDate "2009.09.21"]
 [EventRounds "9"]
 [EventCountry "AZE"]
 [Source "Mark Crowther"]
@@ -301,7 +275,6 @@ Nf1 Ne2+ 34. Kh1 Nd4 35. Qf4 c5 36. h3 b6 37. Kh2 Qb1 1/2-1/2
 
 [Event "25th ECC"]
 [Site "Ohrid MKD"]
-[Date "2009.10.08"]
 [Round "5"]
 [White "Mamedyarov, S."]
 [Black "Azarov, S."]
@@ -310,7 +283,6 @@ Nf1 Ne2+ 34. Kh1 Nd4 35. Qf4 c5 36. h3 b6 37. Kh2 Qb1 1/2-1/2
 [WhiteElo "2721"]
 [BlackElo "2625"]
 [PlyCount "88"]
-[EventDate "2009.10.04"]
 [EventRounds "7"]
 [EventCountry "MKD"]
 [Source "Mark Crowther"]
@@ -327,7 +299,6 @@ Ba8 35. a5 bxa5 36. Qxa5 Ne5 37. c5 dxc5 38. bxc5 Nfd7 39. c6 Nxc6 40. Qxa6 Bb7
 
 [Event "25th ECC"]
 [Site "Ohrid MKD"]
-[Date "2009.10.09"]
 [Round "6"]
 [White "Mamedyarov, S."]
 [Black "Alekseev, Evgeny"]
@@ -336,7 +307,6 @@ Ba8 35. a5 bxa5 36. Qxa5 Ne5 37. c5 dxc5 38. bxc5 Nfd7 39. c6 Nxc6 40. Qxa6 Bb7
 [WhiteElo "2721"]
 [BlackElo "2725"]
 [PlyCount "72"]
-[EventDate "2009.10.04"]
 [EventRounds "7"]
 [EventCountry "MKD"]
 [Source "Mark Crowther"]
@@ -352,7 +322,6 @@ Bxe4 27. Qxe4 Qb1 28. Re3 Rc8 29. Re2 Rh8 30. Qg2 Qc1 31. Qg3 Qh1 32. Ke3 a6
 
 [Event "17th TCh-Eur"]
 [Site "Novi Sad SRB"]
-[Date "2009.10.24"]
 [Round "3"]
 [White "Mamedyarov, S."]
 [Black "Fridman, D2."]
@@ -361,7 +330,6 @@ Bxe4 27. Qxe4 Qb1 28. Re3 Rc8 29. Re2 Rh8 30. Qg2 Qc1 31. Qg3 Qh1 32. Ke3 a6
 [WhiteElo "2721"]
 [BlackElo "2661"]
 [PlyCount "105"]
-[EventDate "2009.10.22"]
 [EventRounds "9"]
 [Source "Mark Crowther"]
 [SourceDate "2009.06.15"]
@@ -379,7 +347,6 @@ Rd8 41. Rd2 Rxd2 42. Bxd2 Bf3 43. Kd4 Nf5+ 44. Kc5 Ng3 45. Bc3 Ne2 46. Ne6 Bxh5
 
 [Event "17th TCh-Eur"]
 [Site "Novi Sad SRB"]
-[Date "2009.10.26"]
 [Round "5"]
 [White "Mamedyarov, S."]
 [Black "Sanikidze, T."]
@@ -388,7 +355,6 @@ Rd8 41. Rd2 Rxd2 42. Bxd2 Bf3 43. Kd4 Nf5+ 44. Kc5 Ng3 45. Bc3 Ne2 46. Ne6 Bxh5
 [WhiteElo "2721"]
 [BlackElo "2600"]
 [PlyCount "95"]
-[EventDate "2009.10.22"]
 [EventRounds "9"]
 [Source "Mark Crowther"]
 [SourceDate "2009.06.15"]
@@ -405,7 +371,6 @@ Nf5 28. Bxf5 gxf5 29. Ne2 Nd5 30. Rxc6 Nxb4 31. Rc5 Ra2 32. Rd2 Nd5 33. Rb5 Rc8
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "21"]
 [White "Mamedyarov, S."]
 [Black "Morozevich, A."]
@@ -414,7 +379,6 @@ Nf5 28. Bxf5 gxf5 29. Ne2 Nd5 30. Rxc6 Nxb4 31. Rc5 Ra2 32. Rd2 Nd5 33. Rb5 Rc8
 [WhiteElo "2719"]
 [BlackElo "2750"]
 [PlyCount "64"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -431,7 +395,6 @@ Bxa6 Qxa6 22. f5 Rae8 23. fxe6 fxe6 24. Re3 e5 25. d5 e4 26. Rf2 Qb6 27. c4 Re5
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "25"]
 [White "Mamedyarov, S."]
 [Black "Gelfand, B."]
@@ -440,7 +403,6 @@ Bxa6 Qxa6 22. f5 Rae8 23. fxe6 fxe6 24. Re3 e5 25. d5 e4 26. Rf2 Qb6 27. c4 Re5
 [WhiteElo "2719"]
 [BlackElo "2758"]
 [PlyCount "96"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -460,7 +422,6 @@ Qa2 Ra4 42. Qb3 Qb7 43. e4 Rd4 44. Nf3 Rxd1 45. Rxd1 Nc4 46. Rd5 Na5 47. Qd1 b4
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "27"]
 [White "Mamedyarov, S."]
 [Black "Dominguez Perez, L."]
@@ -469,7 +430,6 @@ Qa2 Ra4 42. Qb3 Qb7 43. e4 Rd4 44. Nf3 Rxd1 45. Rxd1 Nc4 46. Rd5 Na5 47. Qd1 b4
 [WhiteElo "2719"]
 [BlackElo "2719"]
 [PlyCount "197"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -497,7 +457,6 @@ Rf2 98. Ke6 Rxf7 99. Kxf7 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "31"]
 [White "Mamedyarov, S."]
 [Black "Carlsen, M."]
@@ -506,7 +465,6 @@ Rf2 98. Ke6 Rxf7 99. Kxf7 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2801"]
 [PlyCount "58"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -523,7 +481,6 @@ e6 9. O-O exd5 10. cxd5 c6 11. dxc6 bxc6 12. Be3 Re8 13. Nd2 d5 14. Nb3 dxe4
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "35"]
 [White "Mamedyarov, S."]
 [Black "Jakovenko, D."]
@@ -532,7 +489,6 @@ e6 9. O-O exd5 10. cxd5 c6 11. dxc6 bxc6 12. Be3 Re8 13. Nd2 d5 14. Nb3 dxe4
 [WhiteElo "2719"]
 [BlackElo "2736"]
 [PlyCount "82"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -551,7 +507,6 @@ Qd4+ 40. Kf3 Rb3 41. Rd1 Rxe3+ 0-1
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "37"]
 [White "Mamedyarov, S."]
 [Black "Ivanchuk, V."]
@@ -560,7 +515,6 @@ Qd4+ 40. Kf3 Rb3 41. Rd1 Rxe3+ 0-1
 [WhiteElo "2719"]
 [BlackElo "2739"]
 [PlyCount "111"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -581,7 +535,6 @@ Rxd2+ 53. Kxd2 h3 54. a6 h2 55. a7 h1=Q 56. a8=Q 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "39"]
 [White "Mamedyarov, S."]
 [Black "Gashimov, V."]
@@ -590,7 +543,6 @@ Rxd2+ 53. Kxd2 h3 54. a6 h2 55. a7 h1=Q 56. a8=Q 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2758"]
 [PlyCount "23"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -604,14 +556,12 @@ Rxd2+ 53. Kxd2 h3 54. a6 h2 55. a7 h1=Q 56. a8=Q 1/2-1/2
 
 [Event "World Blitz Championship"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "25"]
 [White "Shakhriyar Mamedyarov"]
 [Black "Boris Gelfand"]
 [Result "0-1"]
 [BlackElo "2758"]
 [ECO "D45"]
-[EventDate "2009.11.16"]
 [PlyCount "95"]
 [WhiteElo "2719"]
 

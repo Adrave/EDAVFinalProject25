@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Flores Diego (ARG)"]
@@ -23,7 +22,6 @@ h5 36.Bxa6 h4 37.gxh4 Qe5+ 38.Kh1 Qe1+ 1/2-1/2
 
 [Event "It (cat.22) (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -43,7 +41,6 @@ bxc4 14.Qxc6 Be6 15.Be2 Rb8 16.O-O Qd2 17.Rab1 Qxc2 18.Rfc1 Qd2
 
 [Event "It (cat.22) (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -65,7 +62,6 @@ Nd4+ 30.Kg4 Kf7 31.hxg6+ 1/2-1/2
 
 [Event "It (cat.22) (match 3-4 place)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -94,7 +90,6 @@ Nxg5 70.Qg4 Rg6 71.Kb4 Nf7 72.Qd4+ 1/2-1/2
 
 [Event "Match (active)"]
 [Site "Internet"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Miles Anthony J (ENG)"]
@@ -119,7 +114,6 @@ Kf6 48.Kd4 Ke6 49.Kc4 Kf6 50.Kd4 Ke6 51.Kc4 Kf6 52.Kd4 Ke6 53.Kc4 1/2-1/2
 
 [Event "Match (man+computer)"]
 [Site "Leon (Spain)"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -140,7 +134,6 @@ Qa5 25.Ra4 1/2-1/2
 
 [Event "Match (play-off) (blitz)"]
 [Site "Leon (Spain)"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -165,7 +158,6 @@ Kd6 48.Be8 a4 49.Ra5 a3 50.Ra6+ Ke7 0-1
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -189,7 +181,6 @@ Be8 43.Qc5 Nxc6 44.Nd4 Qa7 0-1
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "14"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -209,7 +200,6 @@ Qh6 19.Qd3 Re7 20.Rc2 Rae8 21.Re1 Qh5 22.Kg1 Bf5 0-1
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.20"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nataf Igor-Alexandre (FRA)"]
@@ -231,7 +221,6 @@ exd4 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.20"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Schmaltz Roland (GER)"]
@@ -258,7 +247,6 @@ Qd5 35.Qxd5+ exd5 36.h4 Rh7 37.Rh1 Kc6 38.Kc1 Rh5 39.Kd2 Kc5
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.21"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Schmaltz Roland (GER)"]
@@ -282,7 +270,6 @@ Qc4 42.Qe3 Qe4 43.Qc5 Re7 44.Kh2 Rd7 0-1
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.21"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Zarnicki Pablo (ARG)"]
@@ -308,7 +295,6 @@ Kg7 49.Qc7+ Kh6 50.Qb8 Nh7 51.Kh2 Rxd5 52.Qxe5 Rxe5 53.Kg1 Re6
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.25"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Zarnicki Pablo (ARG)"]
@@ -331,7 +317,6 @@ f6 37.Rd7 Kf7 38.g6+ Ke8 39.Ra7 Rd6 40.Rxd6 Bxd6 41.Rxg7 1-0
 
 [Event "Blitz"]
 [Site "Internet"]
-[Date "1998.08.25"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Zarnicki Pablo (ARG)"]
@@ -356,7 +341,6 @@ Bf2 47.Kxb6 Be1 48.Kb7 Bxb4 49.c6 Bd6 50.b6 1-0
 
 [Event "Simultan"]
 [Site "Colmar (France)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Inguimberty JL"]
@@ -365,7 +349,6 @@ Bf2 47.Kxb6 Be1 48.Kb7 Bxb4 49.c6 Bd6 50.b6 1-0
 [WhiteElo "2815"]
 [BlackElo "2130"]
 [PlyCount "51"]
-[EventDate "1998.??.??"]
 
 1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. e3 e6 5. Bd3 Be7 6. O-O O-O 7. Nc3 Nbd7 8. b3
 Re8 9. Bb2 b6 10. e4 dxe4 11. Nxe4 Qc7 12. Qe2 h6 13. Nxf6+ Bxf6 14. Ne5 Bb7
@@ -375,7 +358,6 @@ Re8 9. Bb2 b6 10. e4 dxe4 11. Nxe4 Qc7 12. Qe2 h6 13. Nxf6+ Bxf6 14. Ne5 Bb7
 
 [Event "Simultan"]
 [Site "Colmar (France)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Lefevre Charles (FRA)"]
@@ -384,7 +366,6 @@ Re8 9. Bb2 b6 10. e4 dxe4 11. Nxe4 Qc7 12. Qe2 h6 13. Nxf6+ Bxf6 14. Ne5 Bb7
 [WhiteElo "2815"]
 [BlackElo "2028"]
 [PlyCount "79"]
-[EventDate "1998.??.??"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 Nd7 6. Nbd2 Ne7 7. Nh4 Bg6 8. c3
 Nf5 9. Nxg6 hxg6 10. Nf3 Be7 11. Bd3 Nh4 12. Nxh4 Rxh4 13. g3 Rh8 14. h4 Qc7
@@ -397,7 +378,6 @@ Qd8+ 1-0
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Brown Steven A (SCO)"]
@@ -406,7 +386,6 @@ Qd8+ 1-0
 [WhiteElo "2815"]
 [BlackElo "2087"]
 [PlyCount "39"]
-[EventDate "1998.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d6 5. Ng5 Be6 6. Nxe6 fxe6 7. Bxe6 Qe7 8.
 Bh3 a6 9. O-O Qf7 10. Nc3 Ne7 11. f4 g6 12. fxe5 dxe5 13. Bg5 Bg7 14. d4 exd4
@@ -416,7 +395,6 @@ Bh3 a6 9. O-O Qf7 10. Nc3 Ne7 11. f4 g6 12. fxe5 dxe5 13. Bg5 Bg7 14. d4 exd4
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Thiruchelvam Thirumurugan (ENG"]
@@ -425,7 +403,6 @@ Bh3 a6 9. O-O Qf7 10. Nc3 Ne7 11. f4 g6 12. fxe5 dxe5 13. Bg5 Bg7 14. d4 exd4
 [WhiteElo "2815"]
 [BlackElo "2020"]
 [PlyCount "75"]
-[EventDate "1998.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 h6 8. Bh4
 b6 9. Nf3 Bb7 10. O-O Nbd7 11. Qc2 c5 12. Rad1 c4 13. Bf5 a6 14. Ne5 b5 15. a3
@@ -437,7 +414,6 @@ Nb6 16. f4 Qd6 17. Qf2 Bc8 18. Bb1 Na4 19. Bxf6 Bxf6 20. Qc2 Rd8 21. Qh7+ Kf8
 
 [Event "ISR vs Kasparov sim"]
 [Site "Tel Aviv ISR"]
-[Date "1998.05.21"]
 [Round "2.2"]
 [White "Kasparov, Garry"]
 [Black "Sutovsky, Emil"]
@@ -445,7 +421,6 @@ Nb6 16. f4 Qd6 17. Qf2 Bc8 18. Bb1 Na4 19. Bxf6 Bxf6 20. Qc2 Rd8 21. Qh7+ Kf8
 [WhiteElo "2825"]
 [BlackElo "2595"]
 [ECO "B30"]
-[EventDate "1998.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Bg5 7. h4 Bh6 8. 
 Qh5 g6 9. Qd1 Nf6 10. Nf1 Bxc1 11. Qxc1 Be6 12. Ne3 Qd7 13. Ned5 Bxd5 14. 
@@ -458,7 +433,6 @@ Qe7+ Kb6 38. d6 Qxc4 39. d7 Qd5+ 40. Kh2 Qh5+ 41. Qh4 1-0
 
 [Event "BT Wireplay Challenge"]
 [Site "London ENG"]
-[Date "1998.12.17"]
 [Round "?"]
 [White "Kasparov,G"]
 [Black "Johnson,Daniel"]
@@ -475,7 +449,6 @@ Qe4 a5 21. c5 Ba7 22. a3 Ne7 23. Bb3 c6 24. Bc4 a4 25. Rab1 Rhf8 26. f4 Bb8
 
 [Event "BT Wireplay Challenge"]
 [Site "London ENG"]
-[Date "1998.12.17"]
 [Round "?"]
 [White "Kasparov,G"]
 [Black "Chate,Fred"]
@@ -492,7 +465,6 @@ Nxe8+ Bxe8 27. Rc7 Qb5 28. Rxe7 Qf1+ 29. Rxf1 1-0
 
 [Event "BT Wireplay Challenge"]
 [Site "London ENG"]
-[Date "1998.12.17"]
 [Round "?"]
 [White "Kasparov,G"]
 [Black "Wood,Gaby"]
@@ -507,7 +479,6 @@ Kxd8 8. Bxd7 Kxd7 9. exd5 Rhe8 10. c4 c6 11. Nc3 g6 12. d4 h5 13. Bg5 Nh7
 
 [Event "BT Wireplay Challenge"]
 [Site "London ENG"]
-[Date "1998.12.17"]
 [Round "?"]
 [White "Kasparov,G"]
 [Black "Mutkin,Henry"]
@@ -523,7 +494,6 @@ Rxa4 Qb6 21. Rfa1 Rfd8 22. Qa2 Bf8 23. h4 1-0
 
 [Event "BT Wireplay Challenge"]
 [Site "London ENG"]
-[Date "1998.12.17"]
 [Round "?"]
 [White "Kasparov,G"]
 [Black "Williams,Alan"]

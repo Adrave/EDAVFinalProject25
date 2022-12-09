@@ -1,6 +1,5 @@
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein David I (RUS)"]
@@ -22,7 +21,6 @@ Qxb4 31.Nd3 Qd6 32.Ne5 g6 33.Ba2 Qb6 34.Nc3 1-0
 
 [Event "It"]
 [Site "Rovinj/Zagreb (Croatia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Nicevski Risto (MKD)"]
@@ -45,7 +43,6 @@ Ra8 36.Rc4 Rxe8 37.Nxd6 Ne5 38.Rxe4 1-0
 
 [Event "It"]
 [Site "Rovinj/Zagreb (Croatia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Parma Bruno (SLO)"]
@@ -70,7 +67,6 @@ Re7 47.Rb5+ Kc7 48.Kc3 Re6 49.h4 g6 50.Bf4+ Kc8 51.Rb6 1-0
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fuller Maxwell L (AUS)"]
@@ -96,7 +92,6 @@ Ra5+ 48.Bc5 Be6+ 49.Kd6 Bxb3 50.Rb2 Bc4 51.Rxb4 Ba6 52.Rb7+ Bxb7
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "15"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Liebert Heinz (GER)"]
@@ -121,7 +116,6 @@ Nh6 43.gxh6+ Kxf6 44.Re3 Rxe3 45.Kxe3 Kf7 46.Ke4 Kg8 47.f5 Kh7
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Rodriguez Orestes (ESP)"]
@@ -141,7 +135,6 @@ Ng6 14.O-O-O Bb7 15.Ne6 fxe6 16.Rxd6 e5 17.Rhd1 Nd5 18.Bc4 Kh8
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Trikaliotis Georgios (GRE)"]
@@ -164,7 +157,6 @@ Kg7 31.Qf3 Rh8 32.Rxh8 Kxh8 33.Rc1 Kg7 34.Rh1 Qg5 35.Nxe6+ fxe6
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1971.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fischer Robert J (USA)"]
@@ -184,7 +176,6 @@ Rxc1 19.Kxc1 Kf8 20.Kc2 e6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -207,7 +198,6 @@ Rxc4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -228,7 +218,6 @@ Qxb6 20.Nc4 Qc7 21.b4 Rb8 22.Nxa5 Nxa5 23.bxa5 Qxa5 24.Nb4 Bb7
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -247,7 +236,6 @@ Qxb6 20.Nc4 Qc7 21.b4 Rb8 22.Nxa5 Nxa5 23.bxa5 Qxa5 24.Nb4 Bb7
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -266,7 +254,6 @@ O-O 8.cxd5 Nxd5 9.Nc3 Nxc3 10.bxc3 Nc6 11.Nxc6 bxc6 12.Bxc6 Bh3
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein David I (RUS)"]
@@ -284,7 +271,6 @@ Qxa4 8.Nxa4 Na6 9.cxd5 Nxd5 10.Bb5+ Bd7 11.c6 Bxc6 12.Bxc6+ 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Hort Vlastimil (GER)"]
@@ -303,7 +289,6 @@ Re8 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -322,7 +307,6 @@ Nf6 14.dxc5 Bxc5 15.Nb3 Ba3 16.Rc2 Rc8 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tal Mikhail (LAT)"]
@@ -341,7 +325,6 @@ Rfd8 14.a4 Ne4 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -360,7 +343,6 @@ Nd7 14.e4 e6 15.Qe2 Re8 16.e5 f5 17.f4 Qb6 18.g4 a4 19.c5 Qa6 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -380,7 +362,6 @@ Qc5 20.Qg3 Nc6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sevilla (Spain)"]
-[Date "1971.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -404,7 +385,6 @@ Re8 42.dxe7 Rxe7+ 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sevilla (Spain)"]
-[Date "1971.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -425,7 +405,6 @@ f6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Sevilla (Spain)"]
-[Date "1971.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -444,7 +423,6 @@ Bxe4 14.Qxe4 c5 15.d5 1/2-1/2
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -463,7 +441,6 @@ Qc7 14.O-O Rfc8 15.h3 Qd8 16.Bb2 e5 1/2-1/2
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kuijpers Frans A (NED)"]
@@ -486,7 +463,6 @@ Bf8 1/2-1/2
 
 [Event "It (a)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lengyel Levente (HUN)"]
@@ -505,14 +481,12 @@ Bf8 1/2-1/2
 
 [Event "Fischer - Petrosian Candidates Final"]
 [Site "Buenos Aires ARG"]
-[Date "1971.10.12"]
 [Round "4"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Robert James Fischer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "1971.09.30"]
 [PlyCount "40"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1889.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mason James (ENG)"]
@@ -23,7 +22,6 @@ Rg4 37.Qxc4 Rxc4 38.Rg2 Rxh4 1/2-1/2
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1889.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Van Foreest Arnold E"]
@@ -48,7 +46,6 @@ Rc4+ 48.Ke3 Ra6 49.f6+ Rxf6 50.Rh7+ 1-0
 
 [Event ""]
 [Site "Breslau (Poland)"]
-[Date "1889.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Lipke Paul (GER)"]
@@ -73,7 +70,6 @@ Qxg4+ 36.Kxg4 Nxd5 37.Bd2 Nf6+ 38.Kf5 Ke7 39.g4 d5 40.g5 hxg5
 
 [Event "Match"]
 [Site "Leipzig (Germany)"]
-[Date "1889.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mieses Jacques (GER)"]
@@ -96,7 +92,6 @@ Na7 36.Nd5+ Ke6 37.Nxb6 1-0
 
 [Event "Match"]
 [Site "Leipzig (Germany)"]
-[Date "1889.??.??"]
 [Round "3"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mieses Jacques (GER)"]
@@ -125,7 +120,6 @@ Kg5 70.Rf7 Ra1 1/2-1/2
 
 [Event "Match"]
 [Site "Leipzig (Germany)"]
-[Date "1889.??.??"]
 [Round "5"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mieses Jacques (GER)"]
@@ -146,7 +140,6 @@ Qf6 20.Nxd5 cxd5 21.Rxd5 Qe6 22.Bxe5 Rfe8 23.Re1 Ng5 24.f4 Nxe4
 
 [Event "Match"]
 [Site "Leipzig (Germany)"]
-[Date "1889.??.??"]
 [Round "7"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mieses Jacques (GER)"]
@@ -169,13 +162,11 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1889.08.26"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Johann Hermann Bauer"]
 [Result "1-0"]
 [ECO "A03"]
-[EventDate "1889.08.26"]
 [PlyCount "75"]
 
 1. f4 d5 2. e3 Nf6 3. b3 e6 4. Bb2 Be7 5. Bd3 b6 6. Nc3 Bb7 7. Nf3 Nbd7
@@ -190,14 +181,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Lasker - Schlechter World Championship Match"]
 [Site "Berlin GER"]
-[Date "1910.02.08"]
 [Round "10"]
 [White "Emanuel Lasker"]
 [Black "Carl Schlechter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "141"]
 [WhiteElo "?"]
 
@@ -218,14 +207,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Atlantic Ocean cons"]
 [Site "Atlantic Ocean"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Efim Bogoljubov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -238,14 +225,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "New York"]
 [Site "New York, NY USA"]
-[Date "1893.10.13"]
 [Round "10"]
 [White "Emanuel Lasker"]
 [Black "William Henry Krause Pollock"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -262,14 +247,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 19b"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1893.10.23"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "George H Stout"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -282,14 +265,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 18b"]
 [Site "New York, NY USA"]
-[Date "1894.01.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "William M De Visser"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -305,14 +286,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 18b"]
 [Site "Brooklyn CC, New York, NY USA"]
-[Date "1894.01.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Hermann Helms"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -324,14 +303,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 18b"]
 [Site "Brooklyn CC, New York, NY USA"]
-[Date "1894.01.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "John Washington Lukenbach"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -345,14 +322,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Steinitz - Lasker World Championship Match"]
 [Site "Montreal CAN"]
-[Date "1894.03.21"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Wilhelm Steinitz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -370,14 +345,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Steinitz - Lasker World Championship Match"]
 [Site "Montreal CAN"]
-[Date "1894.04.21"]
 [Round "11"]
 [White "Emanuel Lasker"]
 [Black "Wilhelm Steinitz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -392,14 +365,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 36b"]
 [Site "Leipzig GER"]
-[Date "1894.09.09"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -412,14 +383,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Steinitz - Lasker World Championship Match"]
 [Site "Montreal CAN"]
-[Date "1894.03.15"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Wilhelm Steinitz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "119"]
 [WhiteElo "?"]
 
@@ -438,14 +407,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Blindfold simul, 4b"]
 [Site "Berlin GER"]
-[Date "1894.07.23"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Hermann Keidanski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -460,14 +427,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 20b"]
 [Site "Cyprus CC, London ENG"]
-[Date "1895.04.05"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Hooper"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -480,14 +445,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 20b"]
 [Site "Cyprus CC, London ENG"]
-[Date "1895.04.05"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "MacLaren"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C48"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -499,14 +462,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Simul, 20b"]
 [Site "Hastings ENG"]
-[Date "1895.03.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Frederick William Womersley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -521,14 +482,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1889.08.31"]
 [Round "8"]
 [White "Emanuel Lasker"]
 [Black "James Mason"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "1889.08.26"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -543,14 +502,12 @@ fxg4 25.Rc2 Nd6 26.Kg2 Re4 27.Rfc1 Nf5 28.Rb2 Nxe3+ 29.fxe3 Rxe3
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1889.08.26"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "Arnold van Foreest"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "1889.08.26"]
 [PlyCount "99"]
 [WhiteElo "?"]
 

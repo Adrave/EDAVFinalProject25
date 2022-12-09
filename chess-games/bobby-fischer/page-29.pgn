@@ -1,13 +1,11 @@
 [Event "Havana ol (Men) fin-A"]
 [Site "Havana CUB"]
-[Date "1966.11.14"]
 [Round "2"]
 [White "Robert James Fischer"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C93"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -26,14 +24,12 @@
 
 [Event "Euwe - Fischer m"]
 [Site "New York, NY USA"]
-[Date "1957.03.10"]
 [Round "2"]
 [White "Robert James Fischer"]
 [Black "Max Euwe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C83"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -49,14 +45,12 @@
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Karl-Heinz Budt"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C16"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -71,14 +65,12 @@
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Ingo Lentze"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A01"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -97,14 +89,12 @@
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Guenther Langhanke"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -119,14 +109,12 @@
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Poeschel"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "?"]
 
@@ -144,14 +132,12 @@
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Ulrich Nehmert"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B31"]
-[EventDate "????.??.??"]
 [PlyCount "122"]
 [WhiteElo "?"]
 
@@ -170,14 +156,12 @@
 
 [Event "Simul, 50b"]
 [Site "Richmond, VA USA"]
-[Date "1964.03.05"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Spencer Matthews"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B76"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "2780"]
 
@@ -191,14 +175,12 @@
 
 [Event "Simul, 55b"]
 [Site "Hartford, CT USA"]
-[Date "1964.03.03"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Joseph Platz"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -213,14 +195,12 @@
 
 [Event "Simul, 50b"]
 [Site "Richmond, VA USA"]
-[Date "1964.03.05"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Charles Powell"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -233,14 +213,12 @@
 
 [Event "Simul, 50b"]
 [Site "San Francisco, CA USA"]
-[Date "1964.04.13"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Henry Gross"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -255,14 +233,12 @@
 
 [Event "Simul, 50b"]
 [Site "Sacramento, CA USA"]
-[Date "1964.04.15"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "George Flynn"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -277,14 +253,12 @@
 
 [Event "Simul, 50b"]
 [Site "San Francisco, CA USA"]
-[Date "1964.04.13"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Michael Morris"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -301,14 +275,12 @@
 
 [Event "Simul, 43b"]
 [Site "Lawrence, KS USA"]
-[Date "1964.04.30"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jack Winters"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C52"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -323,14 +295,12 @@
 
 [Event "Simul, 32b"]
 [Site "Colorado Springs, CO USA"]
-[Date "1964.04.28"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "James Juan Reid"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -344,14 +314,12 @@
 
 [Event "Simul, 50b"]
 [Site "Santa Monica, CA USA"]
-[Date "1964.04.19"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "William Korst"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B56"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -367,14 +335,12 @@
 
 [Event "Simul, 58b"]
 [Site "Flint, MI USA"]
-[Date "1964.05.16"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Norman Burns"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -389,14 +355,12 @@
 
 [Event "Simul, 73b"]
 [Site "Cheltenham, PA USA"]
-[Date "1964.05.03"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Norman Canter"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -411,14 +375,12 @@
 
 [Event "Simul, 58b"]
 [Site "Flint, MI USA"]
-[Date "1964.05.16"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jack O'Keefe"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -433,14 +395,12 @@
 
 [Event "Simul, 50b"]
 [Site "Ambassador Hotel, Los Angeles, CA USA"]
-[Date "1961.02.01"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Robert W Moore"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B95"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 

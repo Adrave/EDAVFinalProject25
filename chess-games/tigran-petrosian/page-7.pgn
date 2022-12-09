@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Brilon (Germany)"]
-[Date "1978.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gunsav Orkan"]
@@ -24,7 +23,6 @@ Kxg7 42.Rd7+ 1-0
 
 [Event "It (open)"]
 [Site "Brilon (Germany)"]
-[Date "1978.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Koepsell Rudi"]
@@ -46,7 +44,6 @@ Kg8 32.Rg1+ Bg7 33.Rxg7+ Nxg7 34.Qg5 1-0
 
 [Event "It (open)"]
 [Site "Brilon (Germany)"]
-[Date "1978.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Mondragon Jose"]
@@ -68,7 +65,6 @@ e5 20.Bh6 Rd8 21.Rac1 Nb6 22.Bxg7 Kxg7 23.Nd5 Qd6 24.Nxb6 Qxd2
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Browne Walter S (USA)"]
@@ -91,7 +87,6 @@ Nf6 37.h3 Rc3 38.Kg2 Nxd5 39.g4 Nf4+ 40.Kg3 Qxh3+ 41.Qxh3 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ciocaltea Viktor (ROM)"]
@@ -115,7 +110,6 @@ Rxd2 37.Rxd2 Qxe6 38.exf5 Qe7 39.Bc4 Kh7 40.Qd1 Bh6 41.Qxh5 Ne5
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1978.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Nunn John D M (ENG)"]
@@ -137,7 +131,6 @@ Bc8 32.Nxh5 gxh5 33.Qh8+ Ng8 34.Bc5+ Rd6 35.Qe5 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1978.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tarjan James E (USA)"]
@@ -161,7 +154,6 @@ Kh5 42.Be3 Rxa2 43.Kg2 Kg6 44.Rc7 Bd6 45.Rc6 1-0
 
 [Event "It (open)"]
 [Site "Lone Pine (USA)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bohm Hans (NED)"]
@@ -182,7 +174,6 @@ Nf6 20.e5 Nd7 21.Rh5 Ke7 22.Qc2 Ke8 23.Rdh1 Nf8 24.Bxc8 Qxc8
 
 [Event "Tournament"]
 [Site "Moscow (Russia)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -202,7 +193,6 @@ Nd7 20.Ng1 Nf6 21.f3 Nh5 22.g4 1-0
 
 [Event ""]
 [Site "URS"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lukin Andrei M (RUS)"]
@@ -227,7 +217,6 @@ Rd8 1-0
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -246,7 +235,6 @@ e6 8.Nf3 exd5 9.e3 O-O 10.Bd3 Nc6 11.O-O a5 12.a3 Ne7 13.b4 Bg4
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "18"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -267,7 +255,6 @@ Nc7 14.O-O Ne6 15.Rfd1 Re8 16.Nf4 Nxf4 17.Qxf4 Rc8 18.Rc2 Bg5
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -287,7 +274,6 @@ Rxf8 20.Ne4 Nc6 21.Qg3 Nce7 22.Nd6 1/2-1/2
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "16"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -310,7 +296,6 @@ Qc8 26.Qxc8+ Nexc8 27.Nf4 Bf6 28.Be2 Be7 29.Kf1 f6 30.Ned3 Kf7
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smejkal Jan (CZE)"]
@@ -329,7 +314,6 @@ a6 14.Be2 Nc6 15.Be3 Bd5 1/2-1/2
 
 [Event "Izt"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -347,7 +331,6 @@ a6 14.Be2 Nc6 15.Be3 Bd5 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1979.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tal Mikhail (LAT)"]
@@ -370,7 +353,6 @@ Kb6 36.f4 Nc5 1/2-1/2
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Yugoslavia"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -391,7 +373,6 @@ fxe4 20.Ne3 Rd8 21.Nxd3 exd3 22.Nf5 e4 23.Nxd6 Rxd6 24.Bf4 Rd7
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.04.12"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Vukic Milan (SCG)"]
@@ -419,7 +400,6 @@ Rh2 67.Re7+ 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.04.14"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -440,7 +420,6 @@ dxc4 20.d5 Qf6 21.Qd4 Qxd4 22.Nfxd4 Bxd5 23.Rfd1 Nf6 24.Nf5 Rc7
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.04.19"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sibarevic Milenko (SCG)"]
@@ -464,7 +443,6 @@ h6 43.Bd1 Kh7 44.Be2 Rb8 45.Bf1 Rd8 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.04.23"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smejkal Jan (CZE)"]
@@ -486,14 +464,12 @@ Rd4 31.Rb7 Rxe4 32.Kf1 axb3 33.axb3 h5 34.h4 Kg8 35.b4 Kh7 1/2-1/2
 
 [Event "Buenos Aires (Clarin)"]
 [Site "Buenos Aires ARG"]
-[Date "1979.12.06"]
 [Round "8"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "1979.11.26"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -505,14 +481,12 @@ Rd4 31.Rb7 Rxe4 32.Kf1 axb3 33.axb3 h5 34.h4 Kg8 35.b4 Kh7 1/2-1/2
 
 [Event "Buenos Aires (Clarin)"]
 [Site "Buenos Aires ARG"]
-[Date "1979.12.05"]
 [Round "7"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Miguel Najdorf"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E49"]
-[EventDate "1979.11.26"]
 [PlyCount "36"]
 [WhiteElo "?"]
 
@@ -524,14 +498,12 @@ Rd4 31.Rb7 Rxe4 32.Kf1 axb3 33.axb3 h5 34.h4 Kg8 35.b4 Kh7 1/2-1/2
 
 [Event "Buenos Aires (Clarin)"]
 [Site "Buenos Aires ARG"]
-[Date "1979.12.12"]
 [Round "12"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Florin Gheorghiu"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A43"]
-[EventDate "1979.11.26"]
 [PlyCount "26"]
 [WhiteElo "?"]
 

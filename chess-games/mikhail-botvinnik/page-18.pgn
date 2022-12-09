@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "15"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -26,7 +25,6 @@ Rxa8 55.axb5 Rd8 56.Rxb3 Rxd7 57.b6 1-0
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kan Ilya A (RUS)"]
@@ -49,7 +47,6 @@ Rxa2 37.Qc3+ Kh7 38.Bxb8 fxe4 39.Bxe4+ Bxe4 40.Rxe4 Qd8 1-0
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "10"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lasker Emanuel (GER)"]
@@ -69,7 +66,6 @@ Bd7 14.Nxc4 Nxc4 15.Qxc4 b5 16.Qe2 Rab8 17.axb5 cxb5 18.e5 Ne8
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "3"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -93,7 +89,6 @@ Qxf2+ 30.Kxf2 e6 31.Nb6 Nf6 32.a5 Rb8 33.Rc8+ Rxc8 34.Nxc8 Ne8
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "17"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -116,7 +111,6 @@ d2 37.Nb2 1-0
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1936.??.??"]
 [Round "11"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rjumin N (RUS)"]
@@ -143,7 +137,6 @@ Bb2 60.Nb6+ 1-0
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "4"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -164,7 +157,6 @@ Ng6 20.Nd6 Be6 21.Nxe7 Nxe7 22.Rxf6 Kxf6 23.Qh5 Ng6 24.Nf5 Rg8
 
 [Event "Match"]
 [Site "Leningrad/Moscow (Russia)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -189,7 +181,6 @@ Re2+ 48.Kf1 hxg5 49.Rxg7+ 1-0
 
 [Event "Match"]
 [Site "Leningrad/Moscow (Russia)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -209,7 +200,6 @@ Kh8 20.Bxc5 Qxc5 21.Qxc5 bxc5 22.Be4 Rab8 23.Rb1 Bh6 1/2-1/2
 
 [Event "Match"]
 [Site "Leningrad/Moscow (Russia)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -232,7 +222,6 @@ axb5 36.axb5+ Kb6 37.Kd5 Bg4 38.Kd6 Be6 39.c5+ Kxb5 40.c6 Kb6 0-1
 
 [Event "Match"]
 [Site "Leningrad/Moscow (Russia)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -260,7 +249,6 @@ Rd7 64.g4 Rc7+ 65.Kb3 Rd7 66.Kc3 Rc7+ 67.Kb4 Rd7 68.Kc5 1-0
 
 [Event "Match"]
 [Site "Leningrad/Moscow (Russia)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -284,7 +272,6 @@ c3 42.Kf3 c2 0-1
 
 [Event "Match"]
 [Site "Leningrad/Moscow (Russia)"]
-[Date "1937.??.??"]
 [Round "12"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -307,7 +294,6 @@ Qxc1 32.Rxf5 Bg5 33.h4 Rg8 34.Qh5+ Bh6 35.Rxf6 Kh7 36.Qf5+ Kh8
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -330,7 +316,6 @@ Rf8 37.Rd3 Rfb8 38.Rf3 Rf8 39.h3 Rb7 40.Rd3 axb3 41.axb3 Ra7 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "8"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Fine Reuben (USA)"]
@@ -350,7 +335,6 @@ Qxe5 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "13"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -372,7 +356,6 @@ Rac7 31.Rxc7 Rxc7 32.Rxc7 Qxc7 33.Qd2 Be8 34.h4 h5 1/2-1/2
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "9"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -395,7 +378,6 @@ Nxb3 38.Rxb3 Rbc8 39.Rc3 Qc7 40.Kf2 Ra5 41.Rb3 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -415,7 +397,6 @@ Rfe8 20.Bf2 Rxe2 21.Rxe2 Rxe2 22.Bxe2 Qe8 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -434,7 +415,6 @@ Nxc1+ 8.Rxc1 e6 9.d4 cxd4 10.Qxd4 Qxd4 11.Nxd4 a6 12.Na4 Nd7
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1938.??.??"]
 [Round "15"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lisitsyn Georgy (RUS)"]
@@ -457,7 +437,6 @@ Qe3+ 37.Kh2 Qf4+ 38.Kg1 Qe3+ 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1938.??.??"]
 [Round "17"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Makogonov Vladimir (AZE)"]
@@ -479,7 +458,6 @@ h6 25.a3 Rc6 26.Bxb8 Rxb8 27.Rxc6 Qxc6 28.Rc1 Qb6 29.Qb4 Bc8
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Poliak Abram (RUS)"]
@@ -500,7 +478,6 @@ Kf8 20.d5 Be5 21.Nxe5 Nxe5 22.Rad1 Bd7 23.dxc6 Bxc6 24.Rd6 Rad8
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rabinovich Ilya L (RUS)"]
@@ -522,14 +499,12 @@ Qh5 25.b3 Rf8 26.Rad1 Bd5 27.Re2 Qh2+ 28.Kf1 Rxf2+ 29.Rxf2 Ne3+
 
 [Event "AVRO"]
 [Site "The Netherlands"]
-[Date "1938.11.15"]
 [Round "7"]
 [White "Mikhail Botvinnik"]
 [Black "Alexander Alekhine"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D41"]
-[EventDate "1938.11.06"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -547,14 +522,12 @@ Qh5 25.b3 Rf8 26.Rad1 Bd5 27.Re2 Qh2+ 28.Kf1 Rxf2+ 29.Rxf2 Ne3+
 
 [Event "Botvinnik - Levenfish"]
 [Site "Leningrad RUS"]
-[Date "1937.11.03"]
 [Round "12"]
 [White "Mikhail Botvinnik"]
 [Black "Grigory Levenfish"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A25"]
-[EventDate "1937.10.05"]
 [PlyCount "80"]
 [WhiteElo "?"]
 

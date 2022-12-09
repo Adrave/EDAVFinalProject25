@@ -1,6 +1,5 @@
 [Event "Ch Russia (juniors)"]
 [Site "Borovichi (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nedelin"]
@@ -23,7 +22,6 @@ Ba6 21.Bxc5 Qxc5 22.Qd2 Rdb8 23.Reb1 Bc8 24.Ne2 Ng7 25.b3 Ba6
 
 [Event ""]
 [Site "Magnitogorsk (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Maksimov"]
@@ -50,7 +48,6 @@ Qc4+ 48.Kb1 Qb5+ 49.Qb3 Qxa5 50.a4 Kf8 51.Ka2 Qa7 52.Qb4+ Kg7
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Alekseev V G (RUS)"]
@@ -76,7 +73,6 @@ Ke6 48.Kc3 Nac6 49.axb5 axb5 50.b4 g5 51.cxb5 Nxb5+ 52.Kc4 Ncd4
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Budakov"]
@@ -97,7 +93,6 @@ Bb7 20.Re2 d5 21.dxe5 Nxe5 22.Nxe5 Bxe5 23.exd5 Qxd5 24.Be4 Qxd1+
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gaimaletdinov"]
@@ -124,7 +119,6 @@ Kh8 60.Ke6 1-0
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kalashnikov Viacheslav"]
@@ -151,7 +145,6 @@ Be6 59.Nxc6 Kxb2 60.Nd8 1-0
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Mukhudulin"]
@@ -178,7 +171,6 @@ Kf5 57.Rxe4 Rh3 58.Rf4+ Kg5 59.Kf3 Rh6 60.Rg4+ Kf5 61.Rg7 Kf6 1/2-1/2
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ponomariov Boris (UKR)"]
@@ -208,7 +200,6 @@ Nf7 77.h7 Kc5 78.Kf6 Nh8 79.Kg7 1-0
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shefler"]
@@ -232,7 +223,6 @@ h5 42.Ra5 Qc7 43.Nxd5+ 1-0
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zyulyarkin"]
@@ -254,7 +244,6 @@ Rh7 31.Qg2 Kf7 32.Qg1 Qd6 33.Rbc1 Rfh8 34.Rf2 Bd7 35.Nxg6 1-0
 
 [Event ""]
 [Site "Cheliabinsk (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Karin X"]
@@ -277,7 +266,6 @@ Rac5 36.Kf2 a5 37.Rb1 R5c7 38.Ke3 Re7 39.Kd4 1-0
 
 [Event ""]
 [Site "Cheliabinsk (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tarinin X"]
@@ -303,7 +291,6 @@ Rc4 53.b5 1-0
 
 [Event ""]
 [Site "Zlatoust (Russia)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Piskunov"]
@@ -325,7 +312,6 @@ Qc7 31.Qd2 Ne7 32.Nd3 Rxe2 33.Qxe2 h5 34.Qe6 h4 35.Qd6 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -349,7 +335,6 @@ Rcxb4 1/2-1/2
 
 [Event ""]
 [Site "Vladimir (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ferin"]
@@ -373,7 +358,6 @@ Kg8 43.Qe8+ Kh7 44.g6+ Kh6 45.Qxe7 f4 46.Ngf5+ 1-0
 
 [Event ""]
 [Site "Vladimir (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Petrov Anton (RUS)"]
@@ -397,7 +381,6 @@ Ra8 42.Kg4 Kf7 43.f5 gxf5+ 44.Kxf5 Kg7 45.Ke5 Kg6 46.Kd6 1-0
 
 [Event ""]
 [Site "Vladimir (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Simanov"]
@@ -423,7 +406,6 @@ Rc8 54.Rc4 Qd6 55.Rc6 Qd7 56.Kh4 Qe7 57.Be4 Kg7 58.Kg3 Rh8 59.c8Q 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tula (Russia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Orekhov"]
@@ -450,7 +432,6 @@ b3 55.axb3 axb3 56.Ke2 b2 57.Re8+ Kd5 58.Rxe3 Nxe3 59.Kxe3 Kc4
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tula (Russia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Poliakov Mikhail (RUS)"]
@@ -472,7 +453,6 @@ Bxa5 25.b4 Bb6 26.Ndf3 Ra8 27.Nc6 Ra3 28.Ne7+ Kf8 29.Nxd5 Ba7
 
 [Event ""]
 [Site "Vladimir (Russia)"]
-[Date "1965.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -494,7 +474,6 @@ a4 31.b4 f6 32.Ke3 1/2-1/2
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zaitsev Igor A (RUS)"]
@@ -513,7 +492,6 @@ a4 31.b4 f6 32.Ke3 1/2-1/2
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zaitsev Igor A (RUS)"]
@@ -533,7 +511,6 @@ f5 20.gxf5 exf5 21.b3 cxb3 22.Rxb3 fxe4 23.Nxe4 1/2-1/2
 
 [Event "Ch URS (juniors)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nepomnishay Mikhail I (RUS)"]
@@ -555,7 +532,6 @@ Rf7 26.Qe3 Nd7 27.d4 exd4 28.Nxd4 Kg8 29.Nd5 Bxd5 30.exd5 Ne5
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Lilein"]
@@ -578,7 +554,6 @@ Bg7 31.Qe2 Qh4 32.Qg4 Qxg4 33.hxg4 Rxf4 34.Rxf4 Be5 35.Kg2 Bxf4
 
 [Event ""]
 [Site "Stockholm (Sweden)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hatlebakk Einar (NOR)"]

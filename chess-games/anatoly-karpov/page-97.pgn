@@ -1,13 +1,11 @@
 [Event "St. Martin simul"]
 [Site "St. Martin"]
-[Date "1992.05.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "P Lapalus"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E16"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "Simul"]
 [Site "Dortmund GER"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Josef Kloster"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C40"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "Jyvaskyla Simul"]
 [Site "Jyvaskyla FIN"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Jorma Mertanen"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D07"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -67,14 +61,12 @@
 
 [Event "Jyvaskyla Simul"]
 [Site "Jyvaskyla FIN"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Harri Froeberg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -90,14 +82,12 @@
 
 [Event "Team ch World, Luzern"]
 [Site "Team ch World, Luzern"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ljubomir Ljubojevic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E16"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -111,14 +101,12 @@
 
 [Event "Skelleftea World Cup"]
 [Site "Skelleftea SWE"]
-[Date "1989.08.??"]
 [Round "13"]
 [White "Anatoly Karpov"]
 [Black "Robert Huebner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D39"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -132,14 +120,12 @@
 
 [Event "Candidates Match"]
 [Site "London ENG"]
-[Date "1989.10.03"]
 [Round "2"]
 [White "Anatoly Karpov"]
 [Black "Artur Yusupov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E32"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -154,14 +140,12 @@
 
 [Event "USA, Simultan, Harvard"]
 [Site "USA, Simultan, Harvard"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Robert Seltzer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A58"]
-[EventDate "????.??.??"]
 [PlyCount "158"]
 [WhiteElo "?"]
 
@@ -183,14 +167,12 @@
 
 [Event "Candidates Final"]
 [Site "Kuala Lumpur MAS"]
-[Date "1990.03.18"]
 [Round "6"]
 [White "Anatoly Karpov"]
 [Black "Jan Timman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A70"]
-[EventDate "????.??.??"]
 [PlyCount "124"]
 [WhiteElo "?"]
 
@@ -209,14 +191,12 @@
 
 [Event "Amsterdam VSB"]
 [Site "Amsterdam NED"]
-[Date "1991.05.13"]
 [Round "9"]
 [White "Anatoly Karpov"]
 [Black "Nigel Short"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -230,14 +210,12 @@
 
 [Event "Simul, 30b"]
 [Site "Gjovik NOR"]
-[Date "1991.07.09"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Arne Vik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -254,14 +232,12 @@
 
 [Event "Simul, 30b"]
 [Site "Gjovik NOR"]
-[Date "1991.07.09"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Torben Myrvold"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E87"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -276,14 +252,12 @@
 
 [Event "Simul, 30b"]
 [Site "Gjovik NOR"]
-[Date "1991.07.09"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ingrid Dahl"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A18"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -298,14 +272,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Joao Moyses Filho"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -322,14 +294,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Jochen Esser"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E70"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "2644"]
 
@@ -344,14 +314,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Hans Joachim Brandenburg"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "2644"]
 
@@ -365,14 +333,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Carsten Guenner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "2644"]
 
@@ -387,14 +353,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Lars Stark"]
 [Result "1/2-1/2"]
 [BlackElo "2432"]
 [ECO "A70"]
-[EventDate "????.??.??"]
 [PlyCount "30"]
 [WhiteElo "2644"]
 
@@ -406,14 +370,12 @@
 
 [Event "Reykjavik Blitz"]
 [Site "Reykjavik"]
-[Date "2004.03.17"]
 [Round "2"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D47"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -428,14 +390,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Richard Zahn"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "2644"]
 
@@ -449,14 +409,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "11"]
 [White "Anatoly Karpov"]
 [Black "Michal Paterek"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -472,14 +430,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "19"]
 [White "Anatoly Karpov"]
 [Black "Anna Szewczak"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A58"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -492,14 +448,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "20"]
 [White "Anatoly Karpov"]
 [Black "Bartlomiej Guzinski"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A52"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -512,14 +466,12 @@
 
 [Event "Madrid sim"]
 [Site "Madrid"]
-[Date "2001.11.10"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ramon Arcos"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -532,14 +484,12 @@
 
 [Event "Simultaneous exhibition"]
 [Site "London, England"]
-[Date "2011.04.20"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Dominic Lawson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A41"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 

@@ -1,13 +1,11 @@
 [Event "Dos Hermanas"]
 [Site "Dos Hermanas ESP"]
-[Date "1993.04.??"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Michael Adams"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "9th ECC qual group 3"]
 [Site "Vienna AUT"]
-[Date "1993.08.24"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Khvicha Supatashvili"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "Tilburg"]
 [Site "Tilburg NED"]
-[Date "1993.11.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Artur Yusupov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -70,14 +64,12 @@
 
 [Event "Hockenheim SW50"]
 [Site "Hockenheim SW50"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Holger Grund"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -92,14 +84,12 @@
 
 [Event "Melody Amber Rapid 3rd"]
 [Site "Monte Carlo MNC"]
-[Date "1994.04.??"]
 [Round "6"]
 [White "Anatoly Karpov"]
 [Black "Zsuzsa Polgar"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E66"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -116,14 +106,12 @@
 
 [Event "USA"]
 [Site "USA"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ron W Henley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -137,14 +125,12 @@
 
 [Event "Melody Amber Rapid"]
 [Site "Roquebrune-Cap-Martin FRA"]
-[Date "1992.02.06"]
 [Round "9"]
 [White "Anatoly Karpov"]
 [Black "Jonathan Speelman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B12"]
-[EventDate "????.??.??"]
 [PlyCount "141"]
 [WhiteElo "?"]
 
@@ -165,14 +151,12 @@
 
 [Event "St. Martin simul"]
 [Site "St. Martin"]
-[Date "1992.05.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Stuebing"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -185,14 +169,12 @@
 
 [Event "St. Martin simul"]
 [Site "St. Martin"]
-[Date "1992.05.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Dyson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -206,14 +188,12 @@
 
 [Event "St. Martin simul"]
 [Site "St. Martin"]
-[Date "1992.05.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Georg Porubszki"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E96"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -230,14 +210,12 @@
 
 [Event "Blindfold simul, 5b"]
 [Site "Amsterdam NED"]
-[Date "1992.09.06"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Frank de Grave"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "2725"]
 
@@ -253,14 +231,12 @@
 
 [Event "Blindfold simul, 5b"]
 [Site "Amsterdam NED"]
-[Date "1992.09.06"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Dirk Jan ten Geuzendam"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -276,14 +252,12 @@
 
 [Event "Blindfold simul, 5b"]
 [Site "Amsterdam NED"]
-[Date "1992.09.06"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Minze bij de Weg"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "2725"]
 
@@ -299,14 +273,12 @@
 
 [Event "Brocco-op"]
 [Site "Brocco-op"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "C Sulser"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -320,14 +292,12 @@
 
 [Event "Berlin Simul"]
 [Site "Berlin GER"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Maximilian Tyrtania"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A43"]
-[EventDate "????.??.??"]
 [PlyCount "145"]
 [WhiteElo "?"]
 
@@ -348,14 +318,12 @@
 
 [Event "Jyvaskyla Simul"]
 [Site "Jyvaskyla FIN"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Hannu Heino"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "143"]
 [WhiteElo "?"]
 
@@ -376,14 +344,12 @@
 
 [Event "Valkeakoski"]
 [Site "Valkeakoski FIN"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "P Nikkanen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -395,14 +361,12 @@
 
 [Event "Jyvaskyla Simul"]
 [Site "Jyvaskyla FIN"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "M Kinnunen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E83"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -418,14 +382,12 @@
 
 [Event "Rotterdam World Cup"]
 [Site "Rotterdam NED"]
-[Date "1989.06.09"]
 [Round "6"]
 [White "Anatoly Karpov"]
 [Black "Lajos Portisch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -441,14 +403,12 @@
 
 [Event "Rotterdam World Cup"]
 [Site "Rotterdam NED"]
-[Date "1989.06.18"]
 [Round "13"]
 [White "Anatoly Karpov"]
 [Black "Johann Hjartarson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -464,14 +424,12 @@
 
 [Event "World Team-ch 2nd"]
 [Site "Lucerne SUI"]
-[Date "1989.11.01"]
 [Round "5"]
 [White "Anatoly Karpov"]
 [Black "Nigel Short"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "130"]
 [WhiteElo "?"]
 
@@ -491,14 +449,12 @@
 
 [Event "Biel"]
 [Site "Biel"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Rey"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -511,14 +467,12 @@
 
 [Event "USA, Simultan, Harvard"]
 [Site "USA, Simultan, Harvard"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Andrew G Ofiesh"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -531,14 +485,12 @@
 
 [Event "Harvard"]
 [Site "Harvard"]
-[Date "1990.02.02"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Deep Thought (Computer)"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B12"]
-[EventDate "????.??.??"]
 [PlyCount "129"]
 [WhiteElo "?"]
 
@@ -558,14 +510,12 @@
 
 [Event "Sao Paulo sim"]
 [Site "Sao Paulo"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Carlos Gomez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B29"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 

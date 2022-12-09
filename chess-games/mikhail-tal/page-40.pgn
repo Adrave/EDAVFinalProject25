@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -23,7 +22,6 @@ Qxf4 37.R1xe2 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -45,7 +43,6 @@ Qa6 31.Qb4 b5 32.Bxb5 Qb7 33.f4 Bb8 34.Bc6 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Larsen Bent (DEN)"]
@@ -68,7 +65,6 @@ b3 31.axb3 Rf1+ 32.Kd2 Qb4+ 33.c3 Qd6 34.Bc5 Qxc5 35.Re8+ Rf8
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Portisch Lajos (HUN)"]
@@ -89,7 +85,6 @@ Kd6 25.b5 Rxa7 26.Re6+ Kc7 27.Rxf6 1-0
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Bled (Slovenia)"]
-[Date "1965.??.??"]
 [Round "4"]
 [White "Tal Mikhail (LAT)"]
 [Black "Portisch Lajos (HUN)"]
@@ -111,7 +106,6 @@ fxg4 31.Qxg4 Rd8 32.Ne5 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -134,7 +128,6 @@ Be7 37.Kd2 Kd7 38.Ke3 Ke6 39.Kf3 Kd5 40.Nf2 b4 41.axb4 axb4 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Kislovodsk (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Geller Efim P (RUS)"]
@@ -158,7 +151,6 @@ Rxd6 36.Rxe8 Kxg5 37.Rxa8 d3 38.Rac8 b4 39.R8c5 Kh6 40.Rxd5 Rxd5
 
 [Event "It \"Central Chess Club\""]
 [Site "Kislovodsk (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -181,7 +173,6 @@ bxc5 0-1
 
 [Event "Simultan"]
 [Site "Krakow (Poland)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Jedrzejek Czeslaw"]
@@ -204,7 +195,6 @@ Nxg2 0-1
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Chernikov Oleg L (RUS)"]
@@ -232,7 +222,6 @@ Kc5 59.Nxh7 Kb5 60.Kxf3 Kxa5 61.Kg4 Kb5 62.Nf6 Kc5 63.Nd5 Kd4
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -253,7 +242,6 @@ h6 25.Nf3 Rc7 26.Rc1 Rxc1 27.Rxc1 Rc8 28.Rxc8+ Bxc8 29.h4 Bb7 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -273,7 +261,6 @@ Rxb5 20.Nc3 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -292,7 +279,6 @@ Nd6 14.Nfd2 Be7 15.O-O Bf5 16.Bd3 Bxe4 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -313,7 +299,6 @@ f6 20.axb5 axb5 21.Ra1 Ra8 22.h3 Rfc8 23.Nh2 Nd8 24.bxc5 Qxc5
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "14"]
 [White "Tal Mikhail (LAT)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -333,7 +318,6 @@ Nxe8 19.Rc1 Bc7 20.Bxc7 Rxc7 21.Rc5 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -353,7 +337,6 @@ Bxf3 20.Qxf3 Rxc5 21.Bb4 Rc2 22.Bxe7 Qxe7 23.Rac1 Rxc1 24.Rxc1 1/2-1/2
 
 [Event ""]
 [Site "Poland"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Klaput Edward"]
@@ -375,7 +358,6 @@ Qxg6 25.Rxd2 Kg8 26.Kg2 Bxd4 27.Re1 Qf5 28.Ne4 Qf3+ 29.Kh3 Bxb2
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Janosevic Dragoljub (YUG)"]
@@ -399,7 +381,6 @@ Qd3+ 0-1
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Jansa Vlastimil (CZE)"]
@@ -422,7 +403,6 @@ Rxe8 37.Nxe8 Nf7 38.Nc7 Nd6 39.Nf1 Rxg2 40.Rxg2 Qh4+ 41.Kg1 Nc4 0-1
 
 [Event "Game (training)"]
 [Site "URS"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bronstein David I (RUS)"]
@@ -445,7 +425,6 @@ Ke6 35.Rg6+ Kd7 36.Qd6+ Ke8 37.Rg7 Qh5+ 38.Kd2 1-0
 
 [Event "Simultan"]
 [Site "Warsaw (Poland)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Adamski Andrzej (POL)"]
@@ -466,7 +445,6 @@ Ne3 25.Bh6 Nxf1 26.Kxf1 a6 27.a5 Bd7 28.Ne4 Kf7 29.Ng5+ 1-0
 
 [Event "Simultan"]
 [Site "Warsaw (Poland)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Przysuski Feliks"]
@@ -488,7 +466,6 @@ cxb4 31.Rxb4 bxc4 32.Rxc4 Nf5 33.Re4 Rb7 34.Re1 Rb2 1/2-1/2
 
 [Event "Simultan"]
 [Site "Warsaw (Poland)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Schinzel Wladyslaw (POL)"]
@@ -509,7 +486,6 @@ b5 19.Rh3 Qa3 20.Ng4 Nxg4 21.Qxh7+ Kf8 22.Qh8+ Ke7 23.Qxg7 Nf6
 
 [Event "Simultan"]
 [Site "Warsaw (Poland)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Witkowski Stefan (POL)"]
@@ -532,14 +508,12 @@ Rd7 31.Rc1 Rfd8 32.Rc4 Bf8 33.g4 fxg4 34.Ng3 Be7 35.Rxg4 Rg8
 
 [Event "Palma de Mallorca"]
 [Site "Palma ESP"]
-[Date "1966.12.09"]
 [Round "10"]
 [White "Mikhail Tal"]
 [Black "Helmut Pfleger"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "1966.11.27"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Ch Chess Club Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Reshko Aron G (RUS)"]
@@ -23,7 +22,6 @@ h5 35.a3 Kh6 36.Ba4 h4 37.Qd8 Qe1+ 38.Ka2 Qe6+ 39.Bb3 Qe5 40.Bf7 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -47,7 +45,6 @@ Bd7 43.g4 a5 44.R1e2 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Danov Vladimir"]
@@ -67,7 +64,6 @@ Qa5 14.O-O-O O-O 15.Kb1 Rd8 16.f5 dxe4 17.Nxe4 Qxf5 18.Qe3 Qa5
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -90,7 +86,6 @@ Kh7 36.Rxg4 Rd7 37.Rh1 Re6 38.Rd1 Rc6 39.Rd2 Be5 40.f4 Bh8 41.f5 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Najdorf Miguel (POL)"]
@@ -112,7 +107,6 @@ h6 31.hxg5 hxg5 32.Qe2 f3 33.Qe3 fxg2 34.Rxg5 Re8 35.Ne5 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "10"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pachman Ludek (GER)"]
@@ -137,7 +131,6 @@ Kg7 47.Qb2+ 1-0
 
 [Event "Spartakiada Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bronstein David I (RUS)"]
@@ -159,7 +152,6 @@ fxe5 25.Nxe5 Qxc5 26.Rc6 Qa7 27.Ng4 Kh8 28.Nxh6 Be8 29.Rxe8 Qxf2+
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Janosevic Dragoljub (YUG)"]
@@ -185,7 +177,6 @@ Qf8 53.Qg5 Bf7 54.Re7 1-0
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tatai Stefano (ITA)"]
@@ -209,7 +200,6 @@ Bd3 41.Ke3 Bc4 42.Kd4 1-0
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1967.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Magrin Antonio (ITA)"]
@@ -231,7 +221,6 @@ Re8 31.Rd7 1-0
 
 [Event "It"]
 [Site "Venice (Italy)"]
-[Date "1967.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Zinser Sylvain (FRA)"]
@@ -254,7 +243,6 @@ bxc5 37.Nxf7+ Rxf7 38.dxc5 Qf6 39.Reg1 Rd8 40.Qg2 1-0
 
 [Event "It"]
 [Site "Bamberg (Germany)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -273,7 +261,6 @@ f6 14.Bg3 Rc8 1/2-1/2
 
 [Event "It"]
 [Site "Bamberg (Germany)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Schmid Lothar (GER)"]
@@ -297,7 +284,6 @@ exf4 42.exf4 b5 1/2-1/2
 
 [Event "It"]
 [Site "Bamberg (Germany)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Teufel Juergen (GER)"]
@@ -318,7 +304,6 @@ h4 25.Qxa7 Rc8 26.d4 Nf3+ 27.Kh1 Rc2 28.a4 Nxh2 1/2-1/2
 
 [Event "It"]
 [Site "Bamberg (Germany)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -337,7 +322,6 @@ a5 14.O-O Ba6 15.Rd1 Bc4 16.Rb1 Ba2 17.Ra1 Bc4 18.Rb1 Ba2 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -356,7 +340,6 @@ Bd7 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Hort Vlastimil (GER)"]
@@ -375,7 +358,6 @@ Bd7 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -394,7 +376,6 @@ Nxe5 14.Rxe5 Bd6 15.Re1 g6 16.Bd5 Ra7 17.Qf3 b6 18.Ne4 Kg7 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Medina-Garcia Antonio (ESP)"]
@@ -419,7 +400,6 @@ Kd8 49.Na3 Bb8 50.Qb5 Qc8 51.a6 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -442,7 +422,6 @@ f4 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1968.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Westerinen Heikki M J (FIN)"]
@@ -466,14 +445,12 @@ Kg7 41.Qg5+ 1-0
 
 [Event "Palma de Mallorca"]
 [Site "Palma ESP"]
-[Date "1968.12.09"]
 [Round "13"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Arturo Pomar Salamanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D47"]
-[EventDate "1968.11.24"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -488,14 +465,12 @@ Kg7 41.Qg5+ 1-0
 
 [Event "Palma de Mallorca"]
 [Site "Palma ESP"]
-[Date "1968.11.29"]
 [Round "5"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Jesus Diez del Corral"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E80"]
-[EventDate "1968.11.24"]
 [PlyCount "155"]
 [WhiteElo "?"]
 
@@ -517,14 +492,12 @@ Kg7 41.Qg5+ 1-0
 
 [Event "Palma de Mallorca"]
 [Site "Palma ESP"]
-[Date "1968.12.01"]
 [Round "7"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Svetozar Gligoric"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E81"]
-[EventDate "1968.11.24"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -541,14 +514,12 @@ Kg7 41.Qg5+ 1-0
 
 [Event "Palma de Mallorca"]
 [Site "Palma ESP"]
-[Date "1968.12.12"]
 [Round "16"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Heinz Lehmann"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "1968.11.24"]
 [PlyCount "70"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Match (active)"]
 [Site "Creta (Greece)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -25,7 +24,6 @@ Kc6 47.h4 f5 48.g3 Kc5 49.Kb7 Kd5 1-0
 
 [Event "Match (blitz)"]
 [Site "Creta (Greece)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -47,7 +45,6 @@ Rdd8 25.Qg5 h5 26.fxg6 fxg6 27.Qxg6+ Kh8 28.Nf5 Qe5 29.Qh6+ Kg8
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -74,7 +71,6 @@ Kg7 59.Rd6 Kh7 60.Kg4 Kg7 61.Rd7+ Kf6 62.c7 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -98,7 +94,6 @@ Rg4 31.Rfxf5 Nd7 32.Rxf8+ Nxf8 33.Kf2 Nd7 34.Nf5 Kh8 35.Kf3 Rg8
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -121,7 +116,6 @@ g5 25.Bd2 Rde8 26.O-O-O Na5 27.Rdf1 Nb3+ 28.Kd1 Bxg3 29.Rf7 Rd8
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Wilson Jonathan (ENG)"]
@@ -147,7 +141,6 @@ Rf2 54.Rh4 Rxf3+ 55.Ke7 Re3+ 56.Kf8 1-0
 
 [Event "Cup European Club (final)"]
 [Site "Rethymnon (Greece)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Chuchelov Vladimir (BEL)"]
@@ -168,7 +161,6 @@ e4 20.Be2 h6 21.Nd6 Bxd6 22.Bxd6 hxg5 23.hxg5 Nh7 24.Rxh7 Kxh7
 
 [Event "Cup European Club (final)"]
 [Site "Rethymnon (Greece)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -195,7 +187,6 @@ Bd1 53.Kh2 Rd8 54.Bf6 Rc8 55.Be6 Rc6 56.Bg7+ Kh7 57.Bf5+ Kg8
 
 [Event "Cup European Club (final)"]
 [Site "Rethymnon (Greece)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Jobava Baadur (GEO)"]
@@ -220,7 +211,6 @@ exd5 43.Rxd5 Rg6 44.Rd3 Rc6 45.e6 Qxe6 46.Re3 Qc4 47.Bxb4 Re6
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.02.23"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -244,7 +234,6 @@ Ng3 42.Nd3 Nxe4 43.fxe4 Qxe4 44.Qg2 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.02.27"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -269,7 +258,6 @@ Kg6 48.Rg5+ Kh7 49.Rh5+ Kg6 50.Rg5+ 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.02.29"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -289,7 +277,6 @@ b5 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2004.03.04"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -312,7 +299,6 @@ Kd8 37.Ne6+ Ke8 38.Nc7+ 1/2-1/2
 
 [Event "It (active)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.20"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -335,7 +321,6 @@ Nc6 36.Ne5+ 1/2-1/2
 
 [Event "It (active)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.21"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -361,7 +346,6 @@ Bxb8 47.Be7 Ba7+ 48.Kh2 Bf2 49.g3 Bd4 50.Kg2 Bxf6 51.Bd6 Bc3
 
 [Event "Match \"Armenia-Rest of the World\""]
 [Site "Moscow (Russia)"]
-[Date "2004.06.12"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -389,7 +373,6 @@ Na5 54.Kc3 Kc5 55.Nd4 Bd7 56.f5 Bxf5 57.Nxf5 gxf5 58.Be2 Nc6
 
 [Event "Match \"Armenia-Rest of the World\""]
 [Site "Moscow (Russia)"]
-[Date "2004.06.13"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -413,7 +396,6 @@ Rxb6 43.Bb5 d5 44.f5 exf5 45.Rxd5 Rd6 1/2-1/2
 
 [Event "Cup European Club"]
 [Site "Izmir (Turkey)"]
-[Date "2004.10.07"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -434,7 +416,6 @@ Qxh4+ 25.Kg1 Qe1+ 26.Bf1 Qxa1 27.Rxh6+ gxh6 28.Qf6+ 1/2-1/2
 
 [Event "Cup European Club"]
 [Site "Izmir (Turkey)"]
-[Date "2004.10.09"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huzman Alexander (ISR)"]
@@ -459,7 +440,6 @@ cxd5 48.Bc3 Bc7 49.Ne3 Ne7 50.Bg7 Bb8 1/2-1/2
 
 [Event "Ch Russia"]
 [Site "Moscow (Russia)"]
-[Date "2004.11.18"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Motylev Alexander (RUS)"]
@@ -489,7 +469,6 @@ Kc8 70.Rf8+ Kd7 71.Rf7+ Kd8 72.a5 Rd1+ 73.Kc6 Rc1+ 74.Kb7 Rb1+
 
 [Event "Ch Russia"]
 [Site "Moscow (Russia)"]
-[Date "2004.11.26"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -514,7 +493,6 @@ Kxe6 49.Bb8 Rxa3 50.Bxa7 Ra6 1/2-1/2
 
 [Event "Simultan"]
 [Site "London (England)"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Faulks Nick (BER)"]
@@ -523,7 +501,6 @@ Kxe6 49.Bb8 Rxa3 50.Bxa7 Ra6 1/2-1/2
 [WhiteElo "2813"]
 [BlackElo "2056"]
 [PlyCount "79"]
-[EventDate "2003.??.??"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8.
 Rb1 a5 9. d3 O-O 10. Be3 Be6 11. Bxb6 cxb6 12. Qa4 f6 13. Rfd1 Qe8 14. e3 Qf7
@@ -536,7 +513,6 @@ Rxf6 g5 40. Kf5 1-0
 
 [Event "Match \"]
 [Site "New York (USA)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Computer \"]
@@ -544,7 +520,6 @@ Rxf6 g5 40. Kf5 1-0
 [ECO "D45"]
 [WhiteElo "2813"]
 [PlyCount "53"]
-[EventDate "2003.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 dxc4 8. Bxc4
 b6 9. e4 e5 10. g5 Nh5 11. Be3 O-O 12. O-O-O Qc7 13. d5 b5 14. dxc6 bxc4 15.
@@ -555,7 +530,6 @@ Kb1 Nf8 22. Ka1 Ng6 23. Rc1 Ba6 24. b3 cxb3 25. Qxb3 Ra8 26. Qxb5 Bxb5 27. Rc7
 
 [Event "Match \"]
 [Site "New York (USA)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Computer \"]
@@ -563,7 +537,6 @@ Kb1 Nf8 22. Ka1 Ng6 23. Rc1 Ba6 24. b3 cxb3 25. Qxb3 Ra8 26. Qxb5 Bxb5 27. Rc7
 [ECO "D45"]
 [WhiteElo "2813"]
 [PlyCount "72"]
-[EventDate "2003.??.??"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 b6 7. cxd5 exd5 8. Bd3
 Be7 9. Bd2 O-O 10. g4 Nxg4 11. Rg1 Ndf6 12. h3 Nh6 13. e4 dxe4 14. Bxh6 exd3
@@ -575,7 +548,6 @@ Ng6+ Kg8 34. Ne7+ Kf8 35. Nd5 Qg7 36. Qxd4 Rxd5 0-1
 
 [Event "Match \"]
 [Site "New York (USA)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Computer \"]
@@ -583,7 +555,6 @@ Ng6+ Kg8 34. Ne7+ Kf8 35. Nd5 Qg7 36. Qxd4 Rxd5 0-1
 [ECO "D45"]
 [WhiteElo "2813"]
 [PlyCount "89"]
-[EventDate "2003.??.??"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. e3 a6 6. c5 Nbd7 7. b4 a5 8. b5 e5 9.
 Qa4 Qc7 10. Ba3 e4 11. Nd2 Be7 12. b6 Qd8 13. h3 O-O 14. Nb3 Bd6 15. Rb1 Be7

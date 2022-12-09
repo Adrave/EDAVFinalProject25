@@ -1,6 +1,5 @@
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2018.01.31"]
 [Round "3"]
 [White "Caruana, F."]
 [Black "Iturrizaga, E."]
@@ -9,7 +8,6 @@
 [WhiteElo "2811"]
 [BlackElo "2650"]
 [PlyCount "95"]
-[EventDate "2018.01.18"]
 [EventType "team (rapid)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -28,7 +26,6 @@ Rf7 g4 47. f4 Nxf2 48. Rf5 1-0
 
 [Event "GRENKE Chess Classic 2019"]
 [Site "Karlsruhe/Baden Baden GER"]
-[Date "2019.04.29"]
 [Round "9.2"]
 [White "Caruana,F"]
 [Black "Aronian,L"]
@@ -42,7 +39,6 @@ Rf7 g4 47. f4 Nxf2 48. Rf5 1-0
 [Variation "Marshall counter-attack, 11...c6"]
 [WhiteFideId "2020009"]
 [BlackFideId "13300474"]
-[EventDate "2019.04.20"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 15.
@@ -55,7 +51,6 @@ Nd5 41. Kg3 Ne7 42. Kg4 Nd5 43. Kg3 Ne7 1/2-1/2
 
 [Event "Mechanics Institute Rapid"]
 [Site "San Francisco USA"]
-[Date "2019.05.02"]
 [Round "5.1"]
 [White "Caruana,F"]
 [Black "Hammer,J"]
@@ -69,7 +64,6 @@ Nd5 41. Kg3 Ne7 42. Kg4 Nd5 43. Kg3 Ne7 1/2-1/2
 [Variation "Berlin defence"]
 [WhiteFideId "2020009"]
 [BlackFideId "1503707"]
-[EventDate "2019.05.02"]
 [EventType "rapid"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. Nbd2 O-O 8.
@@ -89,7 +83,6 @@ Qg6 74. Qf4+ Kh7 75. Rd4 Re7 76. Rc4 Qe6 77. Qe4+ Kg7 78. Rc6 Qxe5 79. Qg6+ Kh8
 
 [Event "7th Norway Blitz 2019"]
 [Site "Stavanger NOR"]
-[Date "2019.06.03"]
 [Round "6.2"]
 [White "Caruana,F"]
 [Black "Ding Liren"]
@@ -103,7 +96,6 @@ Qg6 74. Qf4+ Kh7 75. Rd4 Re7 76. Rc4 Qe6 77. Qe4+ Kg7 78. Rc6 Qxe5 79. Qg6+ Kh8
 [Variation "Anderssen variation"]
 [WhiteFideId "2020009"]
 [BlackFideId "8603677"]
-[EventDate "2019.06.03"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 d6 8. Nbd2
 O-O 9. Nf1 Re8 10. Ng3 Be6 11. Bc2 d5 12. exd5 Bxd5 13. O-O e4 14. dxe4 Nxe4 15.
@@ -115,7 +107,6 @@ Rd7 28. Re3 Bc4 29. g4 Bxc3 30. Rxc3 Rxd4 31. Be3 Rd1+ 32. Kh2 Be6 33. Kg3 Rd7
 
 [Event "7th Norway Chess 2019"]
 [Site "Stavanger NOR"]
-[Date "2019.06.08"]
 [Round "4.3"]
 [White "Caruana,F"]
 [Black "So,W"]
@@ -128,7 +119,6 @@ Rd7 28. Re3 Bc4 29. g4 Bxc3 30. Rxc3 Rxd4 31. Be3 Rd1+ 32. Kh2 Be6 33. Kg3 Rd7
 [Opening "Giuoco Piano"]
 [WhiteFideId "2020009"]
 [BlackFideId "5202213"]
-[EventDate "2019.06.04"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Be2 Ne4 8. cxd4
 Bb4+ 9. Bd2 Nxd2 10. Nbxd2 O-O 11. O-O f6 12. Bb5 Ne7 13. a3 Ba5 14. Bd3 Nc6 15.
@@ -140,7 +130,6 @@ Rc2 34. Nd4 Rd2 35. Nf3 Rc2 36. Nd4 Rd2 37. Nf3 1/2-1/2
 
 [Event "7th Norway Armageddon"]
 [Site "Stavanger NOR"]
-[Date "2019.06.08"]
 [Round "4.3"]
 [White "Caruana,F"]
 [Black "So,W"]
@@ -154,7 +143,6 @@ Rc2 34. Nd4 Rd2 35. Nf3 Rc2 36. Nd4 Rd2 37. Nf3 1/2-1/2
 [Variation "Nimzovich attack"]
 [WhiteFideId "2020009"]
 [BlackFideId "5202213"]
-[EventDate "2019.06.04"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
 Qd2 Be6 9. O-O-O Qd7 10. h4 h6 11. Nd4 Nxd4 12. Bxd4 Rg8 13. c4 c5 14. Bc3 O-O-O
@@ -171,7 +159,6 @@ Rf8 Re4 60. f5 Re1+ 61. Kb2 Rf1 62. Rb8+ Kc6 63. Rf8 Rxf2 64. f6 a4 65. Ka3 Kb7
 
 [Event "7th Norway Chess 2019"]
 [Site "Stavanger NOR"]
-[Date "2019.06.14"]
 [Round "9.1"]
 [White "Caruana,F"]
 [Black "Carlsen,M"]
@@ -185,7 +172,6 @@ Rf8 Re4 60. f5 Re1+ 61. Kb2 Rf1 62. Rb8+ Kc6 63. Rf8 Rxf2 64. f6 a4 65. Ka3 Kb7
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteFideId "2020009"]
 [BlackFideId "1503014"]
-[EventDate "2019.06.04"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 e5 7. O-O Qc7 8. a3
 Nf6 9. Be3 c4 10. Nc3 cxd3 11. Qxd3 O-O 12. Rfd1 Re8 13. Bc5 Bf8 14. Bxf8 Kxf8
@@ -200,7 +186,6 @@ Kg7 54. Nf5+ Kg6 55. Nh4+ Kg7 56. Nf5+ 1/2-1/2
 
 [Event "7th Norway Chess 2019"]
 [Site "Stavanger NOR"]
-[Date "2019.06.12"]
 [Round "7.4"]
 [White "Caruana,F"]
 [Black "Anand,V"]
@@ -214,7 +199,6 @@ Kg7 54. Nf5+ Kg6 55. Nh4+ Kg7 56. Nf5+ 1/2-1/2
 [Variation "open, 8...Be6"]
 [WhiteFideId "2020009"]
 [BlackFideId "5000017"]
-[EventDate "2019.06.04"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
 Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Re1 Nxd2 13. Bxd2 Qd7 14. h3 Bh5 15.
@@ -231,7 +215,6 @@ Kd3 Re1 62. Kc2 Re3 63. h4 Re1 64. Bf7 Kg7 65. Bg6 Bb4 66. Bd3 Re3 67. Rb1 Re1
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.06.28"]
 [Round "3.1"]
 [White "Caruana,F"]
 [Black "Carlsen,M"]
@@ -245,7 +228,6 @@ Kd3 Re1 62. Kc2 Re3 63. h4 Re1 64. Bf7 Kg7 65. Bg6 Bb4 66. Bd3 Re3 67. Rb1 Re1
 [Variation "open, 6.d4"]
 [WhiteFideId "2020009"]
 [BlackFideId "1503014"]
-[EventDate "2019.06.26"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 b5 8. Rxe4
 d5 9. Nxe5 Nxe5 10. Rxe5 bxa4 11. Nc3 O-O 12. Re1 Bd6 13. Qh5 a3 14. Nxd5 axb2
@@ -262,7 +244,6 @@ Ka8 68. Bf4 1/2-1/2
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.06.30"]
 [Round "5.3"]
 [White "Caruana,F"]
 [Black "So,W"]
@@ -275,7 +256,6 @@ Ka8 68. Bf4 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "2020009"]
 [BlackFideId "5202213"]
-[EventDate "2019.06.26"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. h3 a6 8. a4 h6
 9. Re1 Ba7 10. Nbd2 Re8 11. b4 Be6 12. Bxe6 Rxe6 13. Nb3 Ne7 14. Nh4 d5 15. Qe2
@@ -288,7 +268,6 @@ gxf4 29. Reb1 Rd3 30. Rxb7 Rxc3 31. Rb8 Qxc5 32. Qh4 Qe7 33. Qg4 Rc2 34. Qf5+ g6
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.07.03"]
 [Round "7.3"]
 [White "Caruana,F"]
 [Black "Giri,A"]
@@ -301,7 +280,6 @@ gxf4 29. Reb1 Rd3 30. Rxb7 Rxc3 31. Rb8 Qxc5 32. Qh4 Qe7 33. Qg4 Rc2 34. Qf5+ g6
 [Opening "Neo-Gruenfeld, 6.O-O c6"]
 [WhiteFideId "2020009"]
 [BlackFideId "24116068"]
-[EventDate "2019.06.26"]
 
 1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. Nbd2 a5 8. b3 Bf5
 9. e3 a4 10. Ba3 Nbd7 11. cxd5 Nxd5 12. Qc1 Nc7 13. Nc4 Nb5 14. Bb2 Be4 15. b4
@@ -316,7 +294,6 @@ Rh3 54. Kg2 1/2-1/2
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.07.05"]
 [Round "9.3"]
 [White "Caruana,F"]
 [Black "Ding Liren"]
@@ -330,7 +307,6 @@ Rh3 54. Kg2 1/2-1/2
 [Variation "closed, anti-Marshall 8.a4"]
 [WhiteFideId "2020009"]
 [BlackFideId "8603677"]
-[EventDate "2019.06.26"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. a5 d6 10. c3 Rb8 11. Bc4 Bg4 12. h3 Bh5 13. Qa4 Na7 14. g4 Bg6 15. d3 Nb5
@@ -345,7 +321,6 @@ f5 54. Qg8+ Kf6 55. Qf8+ Ke6 56. Qe8+ Kf6 57. Qf8+ Ke6 58. Qe8+ 1/2-1/2
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.07.06"]
 [Round "10.2"]
 [White "Caruana,F"]
 [Black "Mamedyarov,S"]
@@ -358,7 +333,6 @@ f5 54. Qg8+ Kf6 55. Qf8+ Ke6 56. Qe8+ Kf6 57. Qf8+ Ke6 58. Qe8+ 1/2-1/2
 [Opening "Scandinavian defence"]
 [WhiteFideId "2020009"]
 [BlackFideId "13401319"]
-[EventDate "2019.06.26"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bc4 e6 7. Bd2 Bb4 8. a3
 Bxc3 9. Bxc3 Qb6 10. O-O O-O 11. b3 Rd8 12. Re1 Nbd7 13. Bb2 c6 14. Qc1 h6 15.
@@ -372,7 +346,6 @@ Rd2 Rb1 48. Rxb1 Rxb1+ 49. Kg2 Rb6 50. Kf1 Rb1+ 51. Kg2 Rb6 52. Kf1 Rb1+ 1/2-1/2
 
 [Event "GCT Rapid Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.28"]
 [Round "4.2"]
 [White "Caruana,F"]
 [Black "Dubov,Daniil"]
@@ -386,7 +359,6 @@ Rd2 Rb1 48. Rxb1 Rxb1+ 49. Kg2 Rb6 50. Kf1 Rb1+ 51. Kg2 Rb6 52. Kf1 Rb1+ 1/2-1/2
 [Variation "accelerated fianchetto, modern variation with Bc4"]
 [WhiteFideId "2020009"]
 [BlackFideId "24126055"]
-[EventDate "2019.07.27"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
 Bb3 Re8 9. f3 d5 10. exd5 Nb4 11. Nde2 e6 12. d6 Nbd5 13. Bd4 Qxd6 14. Bxd5 exd5
@@ -396,7 +368,6 @@ fxg4 Rxe2 22. Nxe2 Qa3+ 23. Kb1 Rxb3+ 24. axb3 Qxb3+ 25. Ka1 Qa3+ 26. Kb1 1/2-1/
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.10"]
 [Round "2.1"]
 [White "Caruana,F"]
 [Black "Mamedyarov,S"]
@@ -409,7 +380,6 @@ fxg4 Rxe2 22. Nxe2 Qa3+ 23. Kb1 Rxb3+ 24. axb3 Qxb3+ 25. Ka1 Qa3+ 26. Kb1 1/2-1/
 [Opening "Giuoco Piano"]
 [WhiteFideId "2020009"]
 [BlackFideId "13401319"]
-[EventDate "2019.08.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. h3 a5
 9. Nbd2 Be6 10. Bb5 Qb8 11. Nf1 Qa7 12. Re2 a4 13. Ng3 Rfd8 14. Bxc6 bxc6 15. d4
@@ -419,7 +389,6 @@ Bb6 16. Be3 Qa5 17. Rc2 Qb5 18. Qc1 exd4 19. cxd4 Nh5 20. Ne2 Nf6 21. Ng3 Nh5
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.18"]
 [Round "2.2"]
 [White "Caruana,F"]
 [Black "Nepomniachtchi,I"]
@@ -433,7 +402,6 @@ Bb6 16. Be3 Qa5 17. Rc2 Qb5 18. Qc1 exd4 19. cxd4 Nh5 20. Ne2 Nf6 21. Ng3 Nh5
 [Variation "Najdorf, Adams attack"]
 [WhiteFideId "2020009"]
 [BlackFideId "4168119"]
-[EventDate "2019.08.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be7 8. g4 b5
 9. g5 Nfd7 10. h4 Nb6 11. Be3 Be6 12. Bxb6 Qxb6 13. Qf3 b4 14. Nd5 Bxd5 15. exd5
@@ -445,7 +413,6 @@ Qh2 Bg7 1/2-1/2
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "4.1"]
 [White "Caruana,F"]
 [Black "Aronian,L"]
@@ -459,7 +426,6 @@ Qh2 Bg7 1/2-1/2
 [Variation "four knights, Romanishin variation"]
 [WhiteFideId "2020009"]
 [BlackFideId "13300474"]
-[EventDate "2019.08.13"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 Bxc3 6. Qxc3 Qe7 7. a3 d5 8. b4
 d4 9. Qc2 Bg4 10. b5 Nd8 11. Bb2 c5 12. O-O-O O-O 13. Re1 Qc7 14. Bd3 a6 15.
@@ -473,7 +439,6 @@ Qb8+ 1/2-1/2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.23"]
 [Round "6.1"]
 [White "Caruana,F"]
 [Black "Vachier Lagrave,M"]
@@ -487,7 +452,6 @@ Qb8+ 1/2-1/2
 [Variation "Najdorf, Adams attack"]
 [WhiteFideId "2020009"]
 [BlackFideId "623539"]
-[EventDate "2019.08.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be6 8. f4 g6
 9. Be2 Nbd7 10. g4 Rc8 11. f5 Bxb3 12. axb3 Rxc3 13. bxc3 Nxe4 14. O-O Qh4 15.
@@ -501,7 +465,6 @@ Kb3 48. h4 Kc4 49. h5 Kd3 50. Kg2 Ke2 51. Kh1 Kf2 52. Kh2 Bd6+ 53. Kh1 Be5 1/2-1
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.25"]
 [Round "8.1"]
 [White "Caruana,F"]
 [Black "Anand,V"]
@@ -515,7 +478,6 @@ Kb3 48. h4 Kc4 49. h5 Kd3 50. Kg2 Ke2 51. Kh1 Kf2 52. Kh2 Bd6+ 53. Kh1 Be5 1/2-1
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "2020009"]
 [BlackFideId "5000017"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5 Nxd5 8. Nxd5
 Qxd5 9. a3 Ba6 10. Bxa6 Nxa6 11. b4 Bd6 12. Bg3 Nb8 13. Qd3 b5 14. e4 Qb7 15. d5
@@ -528,7 +490,6 @@ Rc2+ 42. Kg1 Rc1+ 43. Kg2 Rc2+ 44. Kg1 Rc1+ 1/2-1/2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.28"]
 [Round "11.3"]
 [White "Caruana,F"]
 [Black "Karjakin,Sergey"]
@@ -542,7 +503,6 @@ Rc2+ 42. Kg1 Rc1+ 43. Kg2 Rc2+ 44. Kg1 Rc1+ 1/2-1/2
 [Variation "four knights, kingside fianchetto"]
 [WhiteFideId "2020009"]
 [BlackFideId "14109603"]
-[EventDate "2019.08.17"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 Bc5 6. Bg2 d6 7. O-O O-O 8. e3
 Re8 9. b3 Bg4 10. h3 Bh5 11. d3 a5 12. a3 Nxd5 13. cxd5 Ne7 14. g4 Bg6 15. d4
@@ -556,7 +516,6 @@ Rxc4 48. Rxa5 Rc3+ 49. Ke4 Rc4+ 50. Kf3 Rc3+ 51. Ke4 Rc4+ 52. Kf3 1/2-1/2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.13"]
 [Round "4.1"]
 [White "Caruana,F"]
 [Black "Wang Hao"]
@@ -570,7 +529,6 @@ Rxc4 48. Rxa5 Rc3+ 49. Ke4 Rc4+ 50. Kf3 Rc3+ 51. Ke4 Rc4+ 52. Kf3 1/2-1/2
 [Variation "classical attack, Marshall variation"]
 [WhiteFideId "2020009"]
 [BlackFideId "8602883"]
-[EventDate "2019.10.10"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
 c6 9. Re1 Bf5 10. Qb3 Qd7 11. Nc3 Nxc3 12. Bxf5 Qxf5 13. Qxb7 Qd7 14. Qxd7 Nxd7
@@ -583,7 +541,6 @@ b4 axb4 42. Nxb4 Rxa4 43. Nxc6 f6 44. Ke3 Ra3 45. Rc1 Ra8 46. Ra1 1/2-1/2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.18"]
 [Round "8.1"]
 [White "Caruana,F"]
 [Black "Aronian,L"]
@@ -597,7 +554,6 @@ b4 axb4 42. Nxb4 Rxa4 43. Nxc6 f6 44. Ke3 Ra3 45. Rc1 Ra8 46. Ra1 1/2-1/2
 [Variation "four knights, kingside fianchetto"]
 [WhiteFideId "2020009"]
 [BlackFideId "13300474"]
-[EventDate "2019.10.10"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. b3
 O-O 9. Bb2 Re8 10. Rc1 Bf8 11. Ne4 f6 12. d4 f5 13. Nc5 e4 14. Ne5 Nxe5 15. dxe5
@@ -609,7 +565,6 @@ Rc7 Bxc5 29. Rxc5 Bxf3 30. exf3 e2 31. Bc3 Re3 32. Ba5 exf1=Q+ 33. Kxf1 Rxf3+
 
 [Event "Superbet Blitz 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.10"]
 [Round "18.3"]
 [White "Caruana,F"]
 [Black "Aronian,L"]
@@ -618,7 +573,6 @@ Rc7 Bxc5 29. Rxc5 Bxf3 30. exf3 e2 31. Bc3 Re3 32. Ba5 exf1=Q+ 33. Kxf1 Rxf3+
 [BlackFideId "13300474"]
 [BlackTitle "GM"]
 [ECO "C65"]
-[EventDate "2019.11.09"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence"]
 [WhiteElo "2822"]
@@ -638,7 +592,6 @@ Rc7 Bxc5 29. Rxc5 Bxf3 30. exf3 e2 31. Bc3 Re3 32. Ba5 exf1=Q+ 33. Kxf1 Rxf3+
 
 [Event "Superbet Blitz 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.09"]
 [Round "8.5"]
 [White "Caruana,F"]
 [Black "Le,Quang Liem"]
@@ -647,7 +600,6 @@ Rc7 Bxc5 29. Rxc5 Bxf3 30. exf3 e2 31. Bc3 Re3 32. Ba5 exf1=Q+ 33. Kxf1 Rxf3+
 [BlackFideId "12401137"]
 [BlackTitle "GM"]
 [ECO "B31"]
-[EventDate "2019.11.09"]
 [Opening "Sicilian"]
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteElo "2822"]
@@ -675,7 +627,6 @@ Rc7 Bxc5 29. Rxc5 Bxf3 30. exf3 e2 31. Bc3 Re3 32. Ba5 exf1=Q+ 33. Kxf1 Rxf3+
 
 [Event "Superbet Blitz 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.10"]
 [Round "13.1"]
 [White "Caruana,F"]
 [Black "Giri,A"]
@@ -684,7 +635,6 @@ Rc7 Bxc5 29. Rxc5 Bxf3 30. exf3 e2 31. Bc3 Re3 32. Ba5 exf1=Q+ 33. Kxf1 Rxf3+
 [BlackFideId "24116068"]
 [BlackTitle "GM"]
 [ECO "B23"]
-[EventDate "2019.11.09"]
 [Opening "Sicilian"]
 [Variation "closed"]
 [WhiteElo "2822"]

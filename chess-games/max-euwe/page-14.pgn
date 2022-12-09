@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -24,7 +23,6 @@ Kg7 37.Rc2 Nxd5 38.exd5 Rxb6 39.Rc6 Rxc6 40.dxc6 Qe7 41.Bc4 Kh6
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -53,7 +51,6 @@ Ke6 64.Bc8+ Ke7 65.Rd5 Ra4+ 66.Kf5 Bg3 67.Rd7+ Kf8 68.a7 Bf2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -76,7 +73,6 @@ Rxf8 32.d5 Nxd5 33.Rxf8+ Bxf8 34.Bd4 Be7 35.Qf2 Qh4 36.Qxh4 gxh4
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "12"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -99,7 +95,6 @@ Rxc8 36.Qxc8+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "14"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -123,7 +118,6 @@ Qa1+ 36.Kg2 Rh8 37.g5+ Kxg5 38.Qf4+ Kf6 39.Qd6+ Kg5 40.f4+ Kh6
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "20"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -146,7 +140,6 @@ gxh4 36.Kh2 Kg5 37.Kh3 Ra5 38.Bb7 Kf6 39.Bd5 Kg5 40.Bb7 Kf6 41.Bc8 1-0
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1936.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Fine Reuben (USA)"]
@@ -168,7 +161,6 @@ Nc5 31.Nd4 Ne6 32.Nc2 d4 33.exd4 Bb7 1/2-1/2
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1936.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -190,7 +182,6 @@ Bxb5+ 24.Nxb5 Nd6 25.Nc3 Kd7 26.Kd3 Kc6 27.e4 Nb5 28.Nxb5 Kxb5
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1936.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Kmoch Hans (AUT)"]
@@ -214,7 +205,6 @@ Rh8 40.Kd2 Nf5 41.Bxf5 exf5 42.Rc4 Rg8 43.Rxc5 Rxg3 1/2-1/2
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1936.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Scheltinga Theo D (NED)"]
@@ -238,7 +228,6 @@ Na5 42.e5 Nb7 43.Bf5 1-0
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "14"]
 [White "Euwe Max (NED)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -264,7 +253,6 @@ Ne5+ 42.Ke2 Nxc4 43.Bxh6 Nb2 44.Bg7 Nxa4 45.g4 b5 46.h5 gxh5
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Fine Reuben (USA)"]
@@ -284,7 +272,6 @@ a6 14.Ne5 cxd4 15.exd4 Qd6 16.Qe2 b5 17.Bb3 Bb7 18.Rfd1 Rac8
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -304,7 +291,6 @@ exd4 14.Nf5 Qd8 15.N3xd4 Ne5 16.Bb3 Bxf5 17.Nxf5 g6 18.Qd4 Qxd4
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -329,7 +315,6 @@ Qxe2 36.Rxa5 Qe4+ 37.Qf3 Qc2 38.h4 Rc8 39.Ra7 Rc7 40.Rxc7 Qxc7
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -352,7 +337,6 @@ Rd8 25.Rxc7 Qe6 26.Re7 Qf6 27.Qd7 Rf8 28.Re8 Nd6 29.Rxf8+ Kxf8
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "12"]
 [White "Euwe Max (NED)"]
 [Black "Tylor Theodore (ENG)"]
@@ -373,7 +357,6 @@ Nd7 19.Bc7 Rc8 20.Bg3 d4 21.Qd2 Bb6 22.exd4 Nf6 23.Bxf7+ Kh8
 
 [Event "It"]
 [Site "Nottingham (England)"]
-[Date "1936.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Winter William (ENG)"]
@@ -394,7 +377,6 @@ Ba6 25.Nd6+ 1-0
 
 [Event "It"]
 [Site "Zandvoort (Netherlands)"]
-[Date "1936.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Becker Albert (AUT)"]
@@ -417,7 +399,6 @@ Rad8 25.Rde3 g6 26.g4 Rd6 27.f5 exf5 28.gxf5 Rc8 29.fxg6 hxg6
 
 [Event "It"]
 [Site "Zandvoort (Netherlands)"]
-[Date "1936.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -438,7 +419,6 @@ exd5 14.e4 Be7 15.e5 Nd7 16.Nxd5 O-O 17.Qf5 Nc5 18.Nf6+ Bxf6
 
 [Event "It"]
 [Site "Zandvoort (Netherlands)"]
-[Date "1936.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -461,7 +441,6 @@ g6 31.Be4 Rc6 32.Qe1 Rxc2 33.Rxc2 Bxe4 34.Qxe4 Qxe4 35.fxe4 Rb4
 
 [Event "It"]
 [Site "Zandvoort (Netherlands)"]
-[Date "1936.??.??"]
 [Round "10"]
 [White "Euwe Max (NED)"]
 [Black "Maroczy Geza (HUN)"]
@@ -483,7 +462,6 @@ Qc7 20.Bxh6 gxh6 21.Rd4 f5 22.exf6 Bxf6 23.Rg4+ Bg7 24.Qxh6 Rad8
 
 [Event "It"]
 [Site "Zandvoort (Netherlands)"]
-[Date "1936.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Prins Lodewijk (NED)"]
@@ -504,7 +482,6 @@ Bxd2 19.Qxh4 Qg5 20.Qc4 c5 21.dxc6 Bxc3 22.cxb7 Ba5 23.Rxf6 Qxf6
 
 [Event "It"]
 [Site "Zandvoort (Netherlands)"]
-[Date "1936.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -531,7 +508,6 @@ Ke4 58.Kd2 1/2-1/2
 
 [Event "It"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -556,14 +532,12 @@ Rd3+ 48.Kf2 Rd2+ 49.Kf3 Rh2 50.Kg3 Re2 51.Kf3 Rd2 52.Ke3 1/2-1/2
 
 [Event "7th olm final"]
 [Site "Stockholm SWE"]
-[Date "1937.08.12"]
 [Round "17"]
 [White "Max Euwe"]
 [Black "Savielly Tartakower"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A50"]
-[EventDate "1937.07.31"]
 [PlyCount "48"]
 [WhiteElo "?"]
 

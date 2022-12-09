@@ -1,13 +1,11 @@
 [Event "Simul, 23b"]
 [Site "New Orleans, LA USA"]
-[Date "1912.04.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Henry Edward Chambers"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Simul, 28b"]
 [Site "Birmingham ENG"]
-[Date "1911.11.24"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "F Feeny"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Casual game"]
 [Site "New Orleans, LA USA"]
-[Date "1912.04.15"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Leon L Labatt"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Simul, 20b"]
 [Site "Lincoln, NE USA"]
-[Date "1912.05.06"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "L B Tuckerman"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C48"]
-[EventDate "????.??.??"]
 [PlyCount "130"]
 [WhiteElo "?"]
 
@@ -93,14 +85,12 @@
 
 [Event "Simul, 20b"]
 [Site "St. Louis CC, St. Louis, MO USA"]
-[Date "1912.05.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Walter Joseph Shutes"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -117,14 +107,12 @@
 
 [Event "Simul, 15b"]
 [Site "Minneapolis, MN USA"]
-[Date "1912.05.11"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Wilfred Bland"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -139,14 +127,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "George Edward Wainwright"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -161,14 +147,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Michael Glover Atkins"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D05"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -182,14 +166,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Philip W Sergeant"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C88"]
-[EventDate "????.??.??"]
 [PlyCount "126"]
 [WhiteElo "?"]
 
@@ -209,14 +191,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Harold Godfrey Cole"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -233,14 +213,12 @@
 
 [Event "Simul, 28b"]
 [Site "City of London CC, London ENG"]
-[Date "1913.10.13"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Robert Cecil James Walker"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B12"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -255,14 +233,12 @@
 
 [Event "Havana casual"]
 [Site "Havana CUB"]
-[Date "1901.10.20"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Enrique Corzo"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C40"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -276,14 +252,12 @@
 
 [Event "Simul, 24b"]
 [Site "Washington, D.C. USA"]
-[Date "1909.01.06"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "William Rufus Pratt"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -299,14 +273,12 @@
 
 [Event "Simul, 22b"]
 [Site "Minneapolis, MN USA"]
-[Date "1909.01.25"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Fremont N Jaynes"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -322,14 +294,12 @@
 
 [Event "Simul, 16b"]
 [Site "Lincoln, NE USA"]
-[Date "1909.01.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Fred D Cornell"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "2006.01.29"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -346,14 +316,12 @@
 
 [Event "Simul, 16b"]
 [Site "Lincoln, NE USA"]
-[Date "1909.01.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "W E Hardy"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -369,14 +337,12 @@
 
 [Event "Simul, 18b"]
 [Site "Philadelphia, PA USA"]
-[Date "1908.01.25"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Samuel R Barrett"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -395,14 +361,12 @@
 
 [Event "Simul, 16b"]
 [Site "Lincoln, NE USA"]
-[Date "1909.01.29"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Elmer Holben"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -416,14 +380,12 @@
 
 [Event "Simul, 49b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1909.03.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "H F Kunkel"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -436,14 +398,12 @@
 
 [Event "Simul, 49b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1909.03.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Albert H Gerwig"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -459,14 +419,12 @@
 
 [Event "Simul, 18b"]
 [Site "St Louis, MO USA"]
-[Date "1909.02.08"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Daniel Webster Pomeroy"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -479,14 +437,12 @@
 
 [Event "Simul, 22b"]
 [Site "Philadelphia, PA USA"]
-[Date "1909.04.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "David Stuart Robinson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B74"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -501,14 +457,12 @@
 
 [Event "Simul, 22b"]
 [Site "Franklin C.C., Philadelphia USA"]
-[Date "1909.04.02"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Norman Tweed Whitaker"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "106"]
 [WhiteElo "?"]
 
@@ -526,14 +480,12 @@
 
 [Event "Simul, 31b"]
 [Site "Chicago, IL USA"]
-[Date "1909.11.24"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Charles W Phillips"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -547,14 +499,12 @@
 
 [Event "Simul, 24b"]
 [Site "New Orleans, LA USA"]
-[Date "1909.12.18"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Leon L Labatt"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 

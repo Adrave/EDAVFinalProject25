@@ -1,13 +1,11 @@
 [Event "Simul, 40b"]
 [Site "Dresden GER"]
-[Date "1936.06.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Kretschmar"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Simul"]
 [Site "Los Angeles, CA USA"]
-[Date "1932.09.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "R McBride"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A82"]
-[EventDate "????.??.??"]
 [PlyCount "112"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Simul"]
 [Site "Los Angeles, CA USA"]
-[Date "1932.09.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Moses Scholtz"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -69,14 +63,12 @@
 
 [Event "Simul, 40b"]
 [Site "New York, NY USA"]
-[Date "1932.11.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Nathan Grossman"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B58"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -92,14 +84,12 @@
 
 [Event "Simul, 43b"]
 [Site "Bridgeport, CT USA"]
-[Date "1932.11.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Seymour Schamach"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -116,14 +106,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "James Madison High School"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C47"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -140,14 +128,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Brooklyn Preparatory School"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "136"]
 [WhiteElo "?"]
 
@@ -168,14 +154,12 @@
 
 [Event "Simul, 43b"]
 [Site "Syracuse, NY USA"]
-[Date "1932.11.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Rudolph J Guckemus"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -190,14 +174,12 @@
 
 [Event "Simul, 42b"]
 [Site "Eaton's Auditorium, Toronto CAN"]
-[Date "1932.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Hoffman"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -213,14 +195,12 @@
 
 [Event "Simul, 42b"]
 [Site "Eaton's Auditorium, Toronto CAN"]
-[Date "1932.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Sydney Eugene Gale"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C79"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -237,14 +217,12 @@
 
 [Event "Simul, 43b"]
 [Site "Syracuse, NY USA"]
-[Date "1932.11.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Thomas A Jenkins"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -259,14 +237,12 @@
 
 [Event "Simul, 38b"]
 [Site "Buffalo Athletic Club, Buffalo, NY USA"]
-[Date "1932.11.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Samuel Frucella"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -281,14 +257,12 @@
 
 [Event "Simul, 42b"]
 [Site "Eaton's Auditorium, Toronto CAN"]
-[Date "1932.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "D Luvstrand"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -304,14 +278,12 @@
 
 [Event "Simul, 37b"]
 [Site "HKG"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E J Davies"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -328,14 +300,12 @@
 
 [Event "Simul, 50b"]
 [Site "Jakarta"]
-[Date "1933.03.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Willem Frederik Wertheim"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B50"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -348,14 +318,12 @@
 
 [Event "Simul, 43b"]
 [Site "Surabaya, East Java INA"]
-[Date "1933.03.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Adriaan Arnold Surber"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -372,14 +340,12 @@
 
 [Event "Simul, 50b"]
 [Site "Jakarta INA"]
-[Date "1933.03.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Johan Carl Engelen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -394,14 +360,12 @@
 
 [Event "Blindfold simul, 12b"]
 [Site "Basel SUI"]
-[Date "1933.06.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Freivogel"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -416,14 +380,12 @@
 
 [Event "Olympiad"]
 [Site "Folkestone ENG"]
-[Date "1933.06.13"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Savielly Tartakower"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "????.??.??"]
 [PlyCount "148"]
 [WhiteElo "?"]
 
@@ -444,14 +406,12 @@
 
 [Event "Simul, 28b"]
 [Site "Washington, DC USA"]
-[Date "1933.08.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Lee Jones"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B41"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -468,14 +428,12 @@
 
 [Event "Simul"]
 [Site "Rotterdam NED"]
-[Date "1933.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Teunis ten Kate"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -490,14 +448,12 @@
 
 [Event "Simul, 50b"]
 [Site "Rotterdam NED"]
-[Date "1933.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Carl Johann Friedrich Boettcher"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B62"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -513,14 +469,12 @@
 
 [Event "Simul, 39b"]
 [Site "Bussum NED"]
-[Date "1933.11.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Nardus Mozes Boekdrukker"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -535,14 +489,12 @@
 
 [Event "Simul"]
 [Site "Groningen NL"]
-[Date "1933.11.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Ch Scholtens"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -555,14 +507,12 @@
 
 [Event "Heerlen Simul"]
 [Site "Heerlen NED"]
-[Date "1933.10.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Schoenmakers"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 

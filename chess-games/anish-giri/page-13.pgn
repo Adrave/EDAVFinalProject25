@@ -5,7 +5,6 @@
 [BlackFideId "14109603"]
 [Result "0-1"]
 [Round "12"]
-[Date "Sat Nov 09 2019"]
 [WhiteClock "0:00:11"]
 [BlackClock "0:00:47"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "1503014"]
 [Result "0-1"]
 [Round "05"]
-[Date "Sat Nov 23 2019"]
 [WhiteClock "0:00:11"]
 [BlackClock "0:02:37"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5202213"]
 [Result "0-1"]
 [Round "16"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:01:10"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "12573981"]
 [Result "0-1"]
 [Round "18"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:01"]
 [BlackClock "0:00:12"]
 
@@ -60,7 +56,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.12"]
 [Round "1.2"]
 [White "Giri,A"]
 [Black "Nepomniachtchi,I"]
@@ -69,7 +64,6 @@
 [BlackFideId "4168119"]
 [BlackTitle "GM"]
 [ECO "B07"]
-[EventDate "2019.01.12"]
 [Opening "Pirc defence"]
 [WhiteElo "2783"]
 [WhiteFideId "24116068"]
@@ -85,7 +79,6 @@
 
 [Event "Vugar Gashimov Mem 2019"]
 [Site "Shamkir AZE"]
-[Date "2019.04.01"]
 [Round "2.4"]
 [White "Giri,A"]
 [Black "Karjakin,Sergey"]
@@ -94,7 +87,6 @@
 [BlackFideId "14109603"]
 [BlackTitle "GM"]
 [ECO "C53"]
-[EventDate "2019.03.31"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2797"]
 [WhiteFideId "24116068"]
@@ -111,7 +103,6 @@
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.06.26"]
 [Round "1.1"]
 [White "Giri,A"]
 [Black "Carlsen,M"]
@@ -125,7 +116,6 @@
 [Variation "Nimzovich-Rossolimo attack (without ...d6)"]
 [WhiteFideId "24116068"]
 [BlackFideId "1503014"]
-[EventDate "2019.06.26"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. h4 h5 7. e5 d6 8. exd6
 Ng6 9. Nfd2 Bxd6 10. Nc4 Be7 11. Nc3 Ba6 12. Qf3 Bxc4 13. Qxc6+ Kf8 14. dxc4
@@ -135,7 +125,6 @@ Rxd1 Qa8 22. Bc7 h4 23. f3 h3 0-1
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.06.30"]
 [Round "5.5"]
 [White "Giri,A"]
 [Black "Ding Liren"]
@@ -149,7 +138,6 @@ Rxd1 Qa8 22. Bc7 h4 23. f3 h3 0-1
 [Variation "Stoltz variation"]
 [WhiteFideId "24116068"]
 [BlackFideId "8603677"]
-[EventDate "2019.06.26"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2 b6
 9. O-O Bb7 10. Bb2 Rc8 11. Rad1 c5 12. dxc5 Nxc5 13. cxd5 Nxd5 14. Bc4 Nb4 15.
@@ -165,7 +153,6 @@ Rc6 h3 62. Rc3 h2 63. Rf3+ Ke7 64. Rh3 g5 0-1
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "15.2"]
 [White "Giri,A"]
 [Black "Vachier Lagrave,M"]
@@ -179,7 +166,6 @@ Rc6 h3 62. Rc3 h2 63. Rf3+ Ke7 64. Rh3 g5 0-1
 [Variation "Najdorf, Byrne (English) attack"]
 [WhiteFideId "24116068"]
 [BlackFideId "623539"]
-[EventDate "2019.07.31"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
 g5 9. Bg3 Bg7 10. h3 Ne5 11. Nf5 Bxf5 12. exf5 Nbc6 13. Nd5 e6 14. fxe6 fxe6 15.
@@ -190,7 +176,6 @@ Rxg3+ 28. fxg3 e5 29. Kg2 b5 30. Qd2 Rc8 31. Nf5 Qc3 32. Nxd4 1-0
 
 [Event "Levitov Chess Week Blitz"]
 [Site "Amsterdam NED"]
-[Date "2019.08.03"]
 [Round "4.1"]
 [White "Giri,A"]
 [Black "Bareev,E"]
@@ -204,7 +189,6 @@ Rxg3+ 28. fxg3 e5 29. Kg2 b5 30. Qd2 Rc8 31. Nf5 Qc3 32. Nxd4 1-0
 [Variation "Steinitz, Boleslavsky variation"]
 [WhiteFideId "24116068"]
 [BlackFideId "4100140"]
-[EventDate "2019.08.03"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2 b6
 9. Be2 Bb7 10. O-O O-O 11. Nd1 cxd4 12. Nxd4 Nxd4 13. Bxd4 Nc5 14. Nf2 Qc8 15.
@@ -223,7 +207,6 @@ Kh8 74. Qh6+ Kg8 75. Qxe6+ Kh8 76. g6 Qc7 77. Kh5 b4 78. f5 Qd8 79. Qf6+ Qxf6
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.05"]
 [Round "4.2"]
 [White "Giri,A"]
 [Black "Bareev,E"]
@@ -237,7 +220,6 @@ Kh8 74. Qh6+ Kg8 75. Qxe6+ Kh8 76. g6 Qc7 77. Kh5 b4 78. f5 Qd8 79. Qf6+ Qxf6
 [Variation "Fort Knox variation"]
 [WhiteFideId "24116068"]
 [BlackFideId "4100140"]
-[EventDate "2019.08.04"]
 
 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
 Ng3 Bxf3 9. Qxf3 c6 10. b3 a5 11. a3 g6 12. Bb2 Bg7 13. Rfe1 O-O 14. Rad1 Re8
@@ -253,7 +235,6 @@ Bc2 Nd7 61. Ke4 Nc3+ 62. Kf4 h6 63. Bxg6 1-0
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.06"]
 [Round "6.4"]
 [White "Giri,A"]
 [Black "Nepomniachtchi,I"]
@@ -266,7 +247,6 @@ Bc2 Nd7 61. Ke4 Nc3+ 62. Kf4 h6 63. Bxg6 1-0
 [Opening "Caro-Kann defence"]
 [WhiteFideId "24116068"]
 [BlackFideId "4168119"]
-[EventDate "2019.08.04"]
 
 1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nf6 6. Nfd2 Ng4 7. Ke1 e5 8.
 Nc4 b5 9. Ne3 Bc5 10. Nxg4 Bxg4 11. a4 b4 12. a5 Nd7 13. Bc4 Ke7 14. Nd2 Bd6 15.
@@ -279,7 +259,6 @@ Rd8 41. Re8+ 1-0
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.28"]
 [Round "11.5"]
 [White "Giri,A"]
 [Black "Nepomniachtchi,I"]
@@ -293,7 +272,6 @@ Rd8 41. Re8+ 1-0
 [Variation "Gruenfeld gambit, Capablanca variation"]
 [WhiteFideId "24116068"]
 [BlackFideId "4168119"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 Be6 7. c5 c6 8. Bd3 b6
 9. Na4 Nfd7 10. h3 bxc5 11. Nxc5 Nxc5 12. Rxc5 Qb6 13. Qc2 Rc8 14. Nf3 Nd7 15.
@@ -311,7 +289,6 @@ Ra7+ Ke6 74. Ra6+ Kf7 75. Rf6+ Ke7 76. Rxg6 Rxh3 77. Kg5 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.06"]
 [Round "1.6"]
 [White "Giri,A"]
 [Black "Duda,J"]
@@ -325,7 +302,6 @@ Ra7+ Ke6 74. Ra6+ Kf7 75. Rf6+ Ke7 76. Rxg6 Rxh3 77. Kg5 1-0
 [Variation "4.Nf3"]
 [WhiteFideId "24116068"]
 [BlackFideId "1170546"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O Nf6 8.
 Qa4+ Nc6 9. Ne5 Bd6 10. Nxc6 bxc6 11. Qxc6+ Bd7 12. Qf3 O-O 13. Bg5 Rb8 14. b3
@@ -338,7 +314,6 @@ Kd5 Kxa5 41. Kc5 f5 42. h4 h5 43. Kc4 Ka6 44. Kxb4 Kb6 45. Kc4 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.06"]
 [Round "1.10"]
 [White "Giri,A"]
 [Black "Duda,J"]
@@ -352,7 +327,6 @@ Kd5 Kxa5 41. Kc5 f5 42. h4 h5 43. Kc4 Ka6 44. Kxb4 Kb6 45. Kc4 1-0
 [Variation "4.Nf3"]
 [WhiteFideId "24116068"]
 [BlackFideId "1170546"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O Nf6 8.
 Qa4+ Nc6 9. Ne5 Bd6 10. Nxc6 bxc6 11. Qxc6+ Bd7 12. Qf3 O-O 13. Bg5 h6 14. Bh4
@@ -370,7 +344,6 @@ Kd4 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.06"]
 [Round "1.14"]
 [White "Giri,A"]
 [Black "Duda,J"]
@@ -384,7 +357,6 @@ Kd4 1-0
 [Variation "exchange variation"]
 [WhiteFideId "24116068"]
 [BlackFideId "1170546"]
-[EventDate "2019.09.02"]
 
 1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 Bf5 7. Nf3 e6 8. Rc1
 Rc8 9. Be2 Be7 10. O-O O-O 11. Nh4 Be4 12. a3 h6 13. Nf3 Bh7 14. Ne5 a6 15. Bd3
@@ -399,7 +371,6 @@ b5 56. Bxa5 bxa4 57. bxa4 Ke8 58. Be1 Bxe1 59. Kxe1 Kd7 60. Kd2 Kc6 61. Kc3 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.06"]
 [Round "1.16"]
 [White "Giri,A"]
 [Black "Duda,J"]
@@ -413,7 +384,6 @@ b5 56. Bxa5 bxa4 57. bxa4 Ke8 58. Be1 Bxe1 59. Kxe1 Kd7 60. Kd2 Kc6 61. Kc3 1-0
 [Variation "Stoltz variation"]
 [WhiteFideId "24116068"]
 [BlackFideId "1170546"]
-[EventDate "2019.09.02"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2 b6
 9. O-O Bb7 10. Bb2 Qe7 11. Rad1 Rad8 12. Rfe1 Rfe8 13. e4 Nxe4 14. Nxe4 dxe4 15.
@@ -428,7 +398,6 @@ hxg4 48. fxg4+ Kxg4 49. Ke4 Be7 50. a5 bxa5 51. Bf2 a6 52. Kd5 Kf3 53. Bxc5 Bd8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.06"]
 [Round "1.20"]
 [White "Giri,A"]
 [Black "Duda,J"]
@@ -442,7 +411,6 @@ hxg4 48. fxg4+ Kxg4 49. Ke4 Be7 50. a5 bxa5 51. Bf2 a6 52. Kd5 Kf3 53. Bxc5 Bd8
 [Variation "Nimzovich variation (exaggerated fianchetto)"]
 [WhiteFideId "24116068"]
 [BlackFideId "1170546"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 c6 8. e4 d5
 9. Bd3 dxe4 10. Nxe4 Nbd7 11. Qe2 O-O 12. O-O Bb7 13. b4 c5 14. dxc5 bxc5 15. b5
@@ -457,7 +425,6 @@ Qf5 55. Qg3 Nf4 56. b6 Kg6 57. b7 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.06"]
 [Round "1.28"]
 [White "Giri,A"]
 [Black "Duda,J"]
@@ -470,7 +437,6 @@ Qf5 55. Qg3 Nf4 56. b6 Kg6 57. b7 1-0
 [Opening "QGD semi-Slav"]
 [WhiteFideId "24116068"]
 [BlackFideId "1170546"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
 g6 9. O-O Bg7 10. Re1 O-O 11. e4 dxc4 12. Bxc4 e5 13. d5 Nb6 14. Bb3 Bg4 15. Re3
@@ -489,7 +455,6 @@ Rxa8 75. Bxa8 h3 76. Rf8 Kg4 77. Rh8 Kg3 78. Kd4 Kh2 79. Ke3 Kg1 80. Rxh3 Kf1
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.10"]
 [Round "1.1"]
 [White "Giri,A"]
 [Black "Mohammad Fahad,Rahman"]
@@ -503,7 +468,6 @@ Rxa8 75. Bxa8 h3 76. Rf8 Kg4 77. Rh8 Kg3 78. Kd4 Kh2 79. Ke3 Kg1 80. Rxh3 Kf1
 [Variation "Canal-Sokolsky attack, Sokolsky variation"]
 [WhiteFideId "24116068"]
 [BlackFideId "10207791"]
-[EventDate "2019.09.10"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 Nf6 7. d4 cxd4 8.
 Nxd4 e6 9. O-O Rc8 10. Nf3 Be7 11. Qe2 a6 12. Bf4 Qc7 13. c5 Ne5 14. Rac1 Qb8
@@ -517,7 +481,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 
 [Event "22nd European Teams"]
 [Site "Batumi GEO"]
-[Date "2019.10.26"]
 [Round "3.3"]
 [White "Giri,A"]
 [Black "Anton Guijarro,D"]
@@ -527,7 +490,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 [BlackTeam "Spain"]
 [BlackTitle "GM"]
 [ECO "C50"]
-[EventDate "2019.10.24"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2780"]
 [WhiteFideId "24116068"]
@@ -544,7 +506,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 
 [Event "Superbet Rapid 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.06"]
 [Round "1.2"]
 [White "Giri,A"]
 [Black "So,W"]
@@ -553,7 +514,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 [BlackFideId "5202213"]
 [BlackTitle "GM"]
 [ECO "E04"]
-[EventDate "2019.11.06"]
 [Opening "Catalan"]
 [Variation "open, 5.Nf3"]
 [WhiteElo "2776"]
@@ -572,7 +532,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 
 [Event "Superbet Rapid 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.07"]
 [Round "4.3"]
 [White "Giri,A"]
 [Black "Le,Quang Liem"]
@@ -581,7 +540,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 [BlackFideId "12401137"]
 [BlackTitle "GM"]
 [ECO "B31"]
-[EventDate "2019.11.06"]
 [Opening "Sicilian"]
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteElo "2776"]
@@ -600,7 +558,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 
 [Event "Superbet Blitz 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.10"]
 [Round "16.1"]
 [White "Giri,A"]
 [Black "Le,Quang Liem"]
@@ -609,7 +566,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 [BlackFideId "12401137"]
 [BlackTitle "GM"]
 [ECO "B31"]
-[EventDate "2019.11.09"]
 [Opening "Sicilian"]
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteElo "2776"]
@@ -631,7 +587,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 
 [Event "World Rapid 2019"]
 [Site "Moscow RUS"]
-[Date "2019.12.27"]
 [Round "8.18"]
 [White "Giri,A"]
 [Black "Alekseev,Evgeny"]
@@ -640,7 +595,6 @@ Nexf7 Nd7 35. Rc1 Rd4 36. c6 bxc6 37. Rxc6 Nf6 38. e5 Nd7 39. Rc8 Kh7 40. h5 g5
 [BlackFideId "4138147"]
 [BlackTitle "GM"]
 [ECO "B40"]
-[EventDate "2019.12.26"]
 [Opening "Sicilian defence"]
 [WhiteElo "2769"]
 [WhiteFideId "24116068"]

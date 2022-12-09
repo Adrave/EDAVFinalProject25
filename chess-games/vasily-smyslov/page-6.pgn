@@ -1,6 +1,5 @@
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Dvoirys Semen I (RUS)"]
@@ -27,7 +26,6 @@ Ke8 59.Bd5 Kd7 60.Bf7 e4 61.Bxg6 e3 62.Bd3 Kxd6 63.g6 Ke6 64.Kh5 1-0
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -46,7 +44,6 @@ Qxc3+ 14.Rxc3 Rg8 15.Rg1 Ne5 16.Nxe5 fxe5 17.f3 Ke7 1/2-1/2
 
 [Event "Izt"]
 [Site "Biel (Switzerland)"]
-[Date "1993.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hansen Curt (DEN)"]
@@ -70,7 +67,6 @@ Rxb3 42.Rxa5 1-0
 
 [Event "It (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -91,7 +87,6 @@ Nxf3+ 25.gxf3 Qxh3 26.c3 Rc4 0-1
 
 [Event "It (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -114,7 +109,6 @@ Kb8 31.Re2 Nf2+ 32.Rxf2 Qxf2 33.Nd2 Qe3 34.Qf5 Qe7 35.Nde4 Rh8
 
 [Event "It (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -138,7 +132,6 @@ e5 42.Kf1 c3 43.Ke2 g5 44.Kd3 Kg6 45.b6 0-1
 
 [Event "It (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -159,7 +152,6 @@ exf6 25.Qxh7+ Kf8 26.Re1 Be6 27.Rxe6 1-0
 
 [Event "It (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tiviakov Sergei (NED)"]
@@ -183,7 +175,6 @@ Kf7 0-1
 
 [Event "It"]
 [Site "Muenster (Germany)"]
-[Date "1993.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bosboom Manuel (NED)"]
@@ -211,7 +202,6 @@ Rc2 65.Kd1 b3 66.Bf5 Rc5 67.Be6 Rc3 68.Bd5 Kb5 69.Bf7 Kb4 0-1
 
 [Event "It"]
 [Site "Muenster (Germany)"]
-[Date "1993.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Libeau Rene (GER)"]
@@ -232,7 +222,6 @@ Qc2 25.Bd2 d4 0-1
 
 [Event "It"]
 [Site "Rishon le Zion (Israel)"]
-[Date "1993.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Krayz Alexander (ISR)"]
@@ -258,7 +247,6 @@ Re8 48.Qf5+ Kg8 49.Rg1 Rxg1+ 50.Kxg1 Bd8 51.Qe4 Re7 52.f5 Nd2
 
 [Event "It"]
 [Site "Rostov on Don (Russia)"]
-[Date "1993.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Epishin Vladimir (GER)"]
@@ -283,7 +271,6 @@ d5 42.Rxh6 Ke3 43.Rf6 d4 44.Rxf5 d3 45.Re5+ Kxf3 46.Rf5+ Ke3
 
 [Event "It"]
 [Site "Rostov on Don (Russia)"]
-[Date "1993.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Oll Lembit (EST)"]
@@ -305,7 +292,6 @@ Kxe4 30.Nf2+ Kxf4 31.Rg1 1-0
 
 [Event "It"]
 [Site "Rostov on Don (Russia)"]
-[Date "1993.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pushkov Nikolai (RUS)"]
@@ -328,7 +314,6 @@ Rxd7 0-1
 
 [Event "It"]
 [Site "Rostov on Don (Russia)"]
-[Date "1993.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -353,7 +338,6 @@ Kxb4 47.Rxc7 Rd6 0-1
 
 [Event "It"]
 [Site "San Martin (Argentina)"]
-[Date "1993.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Spangenberg Hugo (ARG)"]
@@ -383,7 +367,6 @@ b4 70.Rf6 Ng7 71.Nd7 Nh5 72.Rf5 Ng7 73.Nxf8 Nxf5 74.Ne6 Nh4+
 
 [Event "It \"Interpolis\""]
 [Site "Tilburg (Netherlands)"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Shabalov Alexander (USA)"]
@@ -413,7 +396,6 @@ Ra6+ 70.Kf7 g4 71.Rd3+ Kf2 72.Ng6 Kg2 73.Nf4+ Kh2 74.Nh5 Rb6
 
 [Event "It \"Interpolis\""]
 [Site "Tilburg (Netherlands)"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Shabalov Alexander (USA)"]
@@ -438,7 +420,6 @@ Qe4+ 0-1
 
 [Event "Match (team)"]
 [Site "Vienna (Austria)"]
-[Date "1993.??.??"]
 [Round "-59"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Arakhamia-Grant Ketevan (GEO)"]
@@ -460,7 +441,6 @@ Be8 31.Nd6 Bd7 32.Qa2 Rf8 33.Rxa7 Qd8 34.Qe6 1-0
 
 [Event "It \"Interpolis\""]
 [Site "Tilburg (Netherlands)"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -489,7 +469,6 @@ Kg3 71.Ra3+ Kg4 72.Ra2 Nxh1 73.Rxh2 Ng3 74.Rh6 Kxf4 75.Rxg6 Ke4 1/2-1/2
 
 [Event "Rostov"]
 [Site "Rostov RUS"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Smyslov, Vasily"]
 [Black "Oll, Lembit"]
@@ -497,7 +476,6 @@ Kg3 71.Ra3+ Kg4 72.Ra2 Nxh1 73.Rxh2 Ng3 74.Rh6 Kxf4 75.Rxg6 Ke4 1/2-1/2
 [WhiteElo "2530"]
 [BlackElo "2585"]
 [ECO "A81"]
-[EventDate "1993.??.??"]
 
 1. d4 f5 2. g3 g6 3. Bg2 Nf6 4. Nh3 Bg7 5. Nf4 c6 6. h4 d6 7. Nc3 e5 8. 
 dxe5 dxe5 9. Qxd8+ Kxd8 10. Nd3 Nbd7 11. e4 Re8 12. Bg5 h6 13. Bd2 Nb6 14.
@@ -509,7 +487,6 @@ Rg1 1-0
 
 [Event "Rostov"]
 [Site "Rostov RUS"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Smyslov, Vasily"]
 [Black "Epishin, Vladimir"]
@@ -531,7 +508,6 @@ Ke3 50. Re8+ Kf3 0-1
 
 [Event "Rostov"]
 [Site "Rostov RUS"]
-[Date "1993.??.??"]
 [Round "1"]
 [White "Smyslov, Vasily"]
 [Black "Epishin, Vladimir"]
@@ -539,7 +515,6 @@ Ke3 50. Re8+ Kf3 0-1
 [WhiteElo "2530"]
 [BlackElo "2620"]
 [ECO "E61"]
-[EventDate "1993.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 O-O 5. e3 d6 6. Nf3 c5 7. Be2 cxd4 8.
  exd4 h6 9. Bf4 Bf5 10. O-O Ne4 11. Nxe4 Bxe4 12. Qd2 g5 13. Be3 e6 14. 
@@ -554,7 +529,6 @@ Ke3 50. Re8+ Kf3 0-1
 
 [Event "Muenster"]
 [Site "Muenster GER"]
-[Date "1994.??.??"]
 [Round "1"]
 [White "Smyslov, Vasily"]
 [Black "Dao, Thien Hai"]
@@ -562,7 +536,6 @@ Ke3 50. Re8+ Kf3 0-1
 [WhiteElo "2530"]
 [BlackElo "2495"]
 [ECO "B26"]
-[EventDate "1994.??.??"]
 
 1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nf6 8. 
 h3 Be6 9. Nge2 Nd4 10. g4 h5 11. g5 Nd7 1/2-1/2
@@ -570,7 +543,6 @@ h3 Be6 9. Nge2 Nd4 10. g4 h5 11. g5 Nd7 1/2-1/2
 
 [Event "Rostov"]
 [Site "Rostov RUS"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Smyslov, Vasily"]
 [Black "Vaganian, Rafael A"]

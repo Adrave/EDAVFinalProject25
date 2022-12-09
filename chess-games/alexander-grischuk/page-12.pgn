@@ -1,6 +1,5 @@
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.20"]
 [Round "3"]
 [White "Grischuk,A"]
 [Black "Diamant,A"]
@@ -10,7 +9,6 @@
 [BlackTeam "Brazil Capybaras"]
 [BlackTitle "GM"]
 [ECO "B63"]
-[EventDate "2020.01.06"]
 [Opening "Sicilian"]
 [Variation "Richter-Rauzer, Rauzer attack"]
 [WhiteElo "2777"]
@@ -31,7 +29,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.13"]
 [Round "2"]
 [White "Grischuk,A"]
 [Black "Perez Ponsa,F"]
@@ -41,7 +38,6 @@
 [BlackTeam "Argentina Krakens"]
 [BlackTitle "GM"]
 [ECO "E97"]
-[EventDate "2020.01.06"]
 [Opening "King's Indian"]
 [Variation "orthodox, Aronin-Taimanov, bayonet attack"]
 [WhiteElo "2777"]
@@ -60,7 +56,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.13"]
 [Round "2"]
 [White "Grischuk,A"]
 [Black "Pichot,A"]
@@ -70,7 +65,6 @@
 [BlackTeam "Argentina Krakens"]
 [BlackTitle "GM"]
 [ECO "A07"]
-[EventDate "2020.01.06"]
 [Opening "Reti"]
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteElo "2777"]
@@ -89,7 +83,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.20"]
 [Round "3"]
 [White "Grischuk,A"]
 [Black "Disconzi da Silva,R"]
@@ -99,7 +92,6 @@
 [BlackTeam "Brazil Capybaras"]
 [BlackTitle "IM"]
 [ECO "B41"]
-[EventDate "2020.01.06"]
 [Opening "Sicilian"]
 [Variation "Kan, Maroczy bind (Reti variation)"]
 [WhiteElo "2777"]
@@ -119,7 +111,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "Grischuk,A"]
 [Black "Smirnov,Ant"]
@@ -129,7 +120,6 @@
 [BlackTeam "California Unicorns"]
 [BlackTitle "GM"]
 [ECO "A06"]
-[EventDate "2020.01.06"]
 [Opening "Reti"]
 [Variation "old Indian attack"]
 [WhiteElo "2777"]
@@ -158,7 +148,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "Grischuk,A"]
 [Black "Sarana,A"]
@@ -168,7 +157,6 @@
 [BlackTeam "California Unicorns"]
 [BlackTitle "GM"]
 [ECO "A07"]
-[EventDate "2020.01.06"]
 [Opening "Reti"]
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteElo "2777"]
@@ -189,7 +177,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "Grischuk,A"]
 [Black "Haria,R"]
@@ -199,7 +186,6 @@
 [BlackTeam "U.K. Lions"]
 [BlackTitle "IM"]
 [ECO "A14"]
-[EventDate "2020.01.06"]
 [Opening "English"]
 [Variation "Neo-Catalan declined"]
 [WhiteElo "2777"]
@@ -217,7 +203,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "Grischuk,A"]
 [Black "Berchtenbreiter,M"]
@@ -227,7 +212,6 @@
 [BlackTeam "U.K. Lions"]
 [BlackTitle "IM"]
 [ECO "B06"]
-[EventDate "2020.01.06"]
 [Opening "Robatsch (modern) defence"]
 [WhiteElo "2777"]
 [WhiteFideId "4126025"]
@@ -244,7 +228,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.02.03"]
 [Round "5"]
 [White "Grischuk,A"]
 [Black "So,W"]
@@ -254,7 +237,6 @@
 [BlackTeam "Saint Louis Arch Bishops"]
 [BlackTitle "GM"]
 [ECO "D38"]
-[EventDate "2020.01.06"]
 [Opening "QGD"]
 [Variation "Ragozin variation"]
 [WhiteElo "2777"]
@@ -277,7 +259,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.02.03"]
 [Round "5"]
 [White "Grischuk,A"]
 [Black "Caruana,F"]
@@ -287,7 +268,6 @@
 [BlackTeam "Saint Louis Arch Bishops"]
 [BlackTitle "GM"]
 [ECO "A07"]
-[EventDate "2020.01.06"]
 [Opening "Reti"]
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteElo "2777"]
@@ -315,7 +295,6 @@
 [BlackElo "2568"]
 [Result "1/2-1/2"]
 [Round "01"]
-[Date "Tue Mar 17 2020"]
 [WhiteClock "0:02:29"]
 [BlackClock "0:38:43"]
 
@@ -332,7 +311,6 @@
 [BlackElo "2707"]
 [Result "1/2-1/2"]
 [Round "03"]
-[Date "Thu Mar 19 2020"]
 [WhiteClock "0:34:25"]
 [BlackClock "0:48:43"]
 
@@ -349,7 +327,6 @@
 [BlackElo "2776"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Sun Mar 22 2020"]
 [WhiteClock "0:33:51"]
 [BlackClock "1:09:25"]
 
@@ -366,7 +343,6 @@
 [BlackElo "2735"]
 [Result "1/2-1/2"]
 [Round "01"]
-[Date "Thu Dec 03 2020"]
 [WhiteClock "0:00:46"]
 [BlackClock "0:01:35"]
 
@@ -384,7 +360,6 @@
 [BlackElo "2759"]
 [Result "1/2-1/2"]
 [Round "09"]
-[Date "Mon Dec 07 2020"]
 [WhiteClock "0:01:02"]
 [BlackClock "0:02:23"]
 
@@ -402,7 +377,6 @@
 [BlackElo "2709"]
 [Result "1/2-1/2"]
 [Round "06"]
-[Date "Sat Dec 05 2020"]
 [WhiteClock "0:01:34"]
 [BlackClock "0:01:36"]
 
@@ -420,7 +394,6 @@
 [BlackElo "2763"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Sat Dec 05 2020"]
 [WhiteClock "0:00:45"]
 [BlackClock "0:02:11"]
 
@@ -438,7 +411,6 @@
 [BlackElo "2732"]
 [Result "1-0"]
 [Round "03"]
-[Date "Fri Dec 04 2020"]
 [WhiteClock "0:00:35"]
 [BlackClock "0:00:30"]
 
@@ -456,7 +428,6 @@
 [BlackElo "2791"]
 [Result "1/2-1/2"]
 [Round "11"]
-[Date "Tue Dec 08 2020"]
 [WhiteClock "0:01:08"]
 [BlackClock "0:01:42"]
 
@@ -474,7 +445,6 @@
 [BlackElo "2764"]
 [Result "1/2-1/2"]
 [Round "14"]
-[Date "Wed Dec 09 2020"]
 [WhiteClock "0:00:34"]
 [BlackClock "0:00:37"]
 
@@ -492,7 +462,6 @@
 [BlackElo "2863"]
 [Result "1/2-1/2"]
 [Round "09"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:00:45"]
 [BlackClock "0:04:16"]
 
@@ -510,7 +479,6 @@
 [BlackElo "2784"]
 [Result "0-1"]
 [Round "11"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:11:10"]
 
@@ -528,7 +496,6 @@
 [BlackElo "2736"]
 [Result "0-1"]
 [Round "01"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:00:18"]
 [BlackClock "0:00:52"]
 
@@ -547,7 +514,6 @@
 [Result "1/2-1/2"]
 [Round "08"]
 [TimeControl "5400+30"]
-[Date "2021.11.20"]
 [WhiteClock "0:12:22"]
 [BlackClock "0:19:32"]
 
@@ -567,7 +533,6 @@
 [Result "1/2-1/2"]
 [Round "06"]
 [TimeControl "5400+30"]
-[Date "2021.11.18"]
 [WhiteClock "0:05:44"]
 [BlackClock "0:11:59"]
 

@@ -1,6 +1,5 @@
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Almasi Zoltan (HUN)"]
@@ -22,7 +21,6 @@ Rd3 30.Re4 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -45,7 +43,6 @@ Kd6 36.Rc6+ Ke7 37.Rc7+ 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Jussupow Artur (GER)"]
@@ -73,7 +70,6 @@ Ng8 59.Rh7+ Kf8 60.Rxh5 Nf6 61.Rf5 Ke7 62.Bd3 Rh2 63.Rf4 Ke6
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -95,7 +91,6 @@ Bxc5 1/2-1/2
 
 [Event "It (cat.22) (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -119,7 +114,6 @@ Ke7 42.Ba6 Rd8 43.Re2 Nd3+ 44.Kc2 Nc5 45.Bc4 Rh8 1/2-1/2
 
 [Event "It (cat.22) (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -142,7 +136,6 @@ h6 1/2-1/2
 
 [Event "It (cat.22) (match 1-2 place)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -162,7 +155,6 @@ dxc4 14.Nxe4 f5 15.Nd2 fxg4 16.Nxc4 c5 17.a3 Nc6 18.dxc5 Qxd1
 
 [Event "It (cat.22) (match 1-2 place)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -189,7 +181,6 @@ d3 58.Rxh5+ Kxg3 59.Rd5 1/2-1/2
 
 [Event "It (cat.22) (match 1-2 place) (blitz)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -212,7 +203,6 @@ Nd4 25.Nxd4 Rxd4 26.Qc2 Bg6 27.Bxg6 Qxg6 28.Qxg6 hxg6 29.b5 Rd5
 
 [Event "Ch World FIDE (final)"]
 [Site "Lausanne (Switzerland)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -237,7 +227,6 @@ a2 48.g3 h5 49.g4 h4 0-1
 
 [Event "Ch World FIDE (final) (active)"]
 [Site "Lausanne (Switzerland)"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -259,7 +248,6 @@ Kd8 25.Qxg7 Re8 26.Qxh6 Qa5 27.Qg5+ Kc8 28.Qg6 Rf8 29.Rc1 Qb6
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -279,7 +267,6 @@ Nxe3 20.fxe3 Qb6 21.Kh1 Rc8 22.e4 Bd7 23.Qd3 Ng6 24.g3 Bc5 25.Rfd1 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "1998.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -299,7 +286,6 @@ Rb8 14.Nd4 Bd7 15.Be2 Nc4 16.Bxc4 bxc4 17.Rb1 Rg8 18.Nxc6 Bxc6
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "1998.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -320,7 +306,6 @@ Nxd4 26.cxd4 Bxc2 27.dxe5 dxe5 28.Qc5 Rf7 1/2-1/2
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -344,7 +329,6 @@ Rf5+ 30.Ke1 Bf2+ 31.Ke2 Bg1 32.h3 Rf2+ 33.Kd3 Rxg2 34.Rg4+ Rxg4
 
 [Event "Simultan"]
 [Site "Madras (India)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Venkatesh M R (IND)"]
@@ -365,7 +349,6 @@ Rad8 26.Nb6 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Madrid (Spain)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -389,7 +372,6 @@ d1Q+ 36.Kh2 Nd6 37.Qd8 Qf7 38.Qxd6 Qxf8 39.Qd5+ Qf7 40.Qa8+ Kh7
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -413,7 +395,6 @@ Rd5 37.Rb6 Rb5 38.Rxa6 Rxb2 39.g4 hxg4 40.hxg4 Nc7 41.Rb6 Re2
 
 [Event "Simultan"]
 [Site "Madras (India)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Aarthie Ramaswamy (IND)"]
@@ -422,7 +403,6 @@ Rd5 37.Rb6 Rb5 38.Rxa6 Rxb2 39.g4 hxg4 40.hxg4 Nc7 41.Rb6 Re2
 [WhiteElo "2795"]
 [BlackElo "2035"]
 [PlyCount "89"]
-[EventDate "1998.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
 Ne7 9. b4 Nd7 10. c5 f5 11. Ng5 Nf6 12. f3 h6 13. Ne6 Bxe6 14. dxe6 d5 15. exd5
@@ -435,7 +415,6 @@ e4 41. fxe4+ Kxe4 42. Bf2 Bc7 43. h3 g5 44. Ra1 Ba5 45. Be1 1-0
 
 [Event "Simultan"]
 [Site "Madras (India)"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kavitha J E (IND)"]
@@ -444,7 +423,6 @@ e4 41. fxe4+ Kxe4 42. Bf2 Bc7 43. h3 g5 44. Ra1 Ba5 45. Be1 1-0
 [WhiteElo "2795"]
 [BlackElo "2126"]
 [PlyCount "101"]
-[EventDate "1998.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. g3 O-O 7. Bg2 d6 8.
 O-O Nc6 9. Ne1 Qc7 10. e3 b6 11. a3 Bb7 12. Nd3 bxa3 13. Nxa3 a6 14. b4 Ne7 15.
@@ -458,7 +436,6 @@ f4 Kb5 48. Rxa3 Kb4 49. Ra1 Kb3 50. Kf3 Kb2 51. Rg1 1-0
 
 [Event "It (open) (active)"]
 [Site "Villarrobledo (Spain)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ribeiro Bruno (POR)"]
@@ -467,7 +444,6 @@ f4 Kb5 48. Rxa3 Kb4 49. Ra1 Kb3 50. Kf3 Kb2 51. Rg1 1-0
 [WhiteElo "2795"]
 [BlackElo "2195"]
 [PlyCount "53"]
-[EventDate "1998.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 O-O 8. O-O
 c6 9. Nbc3 N8d7 10. f4 Nf6 11. h3 Qc7 12. Qc2 Be6 13. b3 Rad8 14. Be3 Ne8 15.
@@ -477,7 +453,6 @@ Kh8 22. Rf3 g5 23. Bf1 Rc8 24. Bb5 Rxc1+ 25. Qxc1 Rc8 26. Qa3 Rc6 27. Rc3 1-0
 
 [Event "Match (blitz)"]
 [Site "Ischia (Italy)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Computer \"]
@@ -485,7 +460,6 @@ Kh8 22. Rf3 g5 23. Bf1 Rc8 24. Bb5 Rxc1+ 25. Qxc1 Rc8 26. Qa3 Rc6 27. Rc3 1-0
 [ECO "D02"]
 [WhiteElo "2795"]
 [PlyCount "58"]
-[EventDate "1998.??.??"]
 
 1. d4 d5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. b3 c5 7. Bb2 Ne4 8. c3
 Nc6 9. e3 Bg4 10. h3 cxd4 11. cxd4 Bf5 12. Nfd2 Nf6 13. Nc3 Nb4 14. Nf3 Nd3 15.
@@ -496,7 +470,6 @@ exd3 28. Nf4 Rc2 29. Bxd5+ e6 0-1
 
 [Event "Match (blitz)"]
 [Site "Ischia (Italy)"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Computer \"]
@@ -504,7 +477,6 @@ exd3 28. Nf4 Rc2 29. Bxd5+ e6 0-1
 [ECO "A12"]
 [WhiteElo "2795"]
 [PlyCount "66"]
-[EventDate "1998.??.??"]
 
 1. c4 c6 2. Nf3 d5 3. b3 Bg4 4. Bb2 Nd7 5. e3 Ngf6 6. h3 Bxf3 7. Qxf3 e6 8. Nc3
 dxc4 9. bxc4 Ne5 10. Qe2 Bb4 11. f4 Bxc3 12. Bxc3 Ne4 13. O-O-O Ng3 14. Qe1
@@ -516,7 +488,6 @@ Ke7 28. Rg1 fxg5 29. hxg5 c5 30. Bxg7 Kf7 31. Bc3 Rc7 32. Rh1 Ke8 33. Bg4 Re7
 
 [Event "It"]
 [Site "It, Madrid"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Anand, Viswanathan"]
 [Black "Adams, Michael"]
@@ -536,7 +507,6 @@ Qd7 21. e3 Rb8 22. f3 f4 23. gxf4 Rxf4 24. e4 Nf6 25. Kh1 Rf8 26. Rg1 Nh5
 
 [Event "FIDE WCh KO"]
 [Site "Lausanne FIDE WCh KO"]
-[Date "1998.??.??"]
 [Round "?"]
 [White "Anand, Viswanathan"]
 [Black "Karpov, Anatoly"]

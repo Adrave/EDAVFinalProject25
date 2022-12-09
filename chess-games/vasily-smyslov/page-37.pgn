@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Alvarez JL"]
@@ -23,7 +22,6 @@ hxg5 37.hxg5 Kg7 38.Nf6 Rb6 39.Nd7 1-0
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -48,7 +46,6 @@ Kg7 42.Nf4 Rc6 43.Nd3 Bxd3 44.Kxd3 Ra6 45.Rxc5 Rxa3+ 46.Kd4 Ra2
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Jimenez Eleazar (CUB)"]
@@ -70,7 +67,6 @@ Re7 30.Kf1 Bd5 31.Nf4 1-0
 
 [Event "It"]
 [Site "Habana (Cuba)"]
-[Date "1962.??.??"]
 [Round "16"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Milev"]
@@ -91,7 +87,6 @@ Bd7 26.Bh6 Qb6+ 27.Kh1 Rxf1+ 28.Rxf1 Qd8 29.Qd4 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1963.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Clarke Peter H (ENG)"]
@@ -114,7 +109,6 @@ Rbf8 31.Rd1 Qc7 32.Kh2 f5 33.hxg6+ Rxg6 34.Qh4 Rg4 35.Qh5 Rg5
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hollis Adrian Swayne (ENG)"]
@@ -134,7 +128,6 @@ Be6 20.Bxh6 f4 21.Qxg7+ Qxg7 22.Bxg7 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1963.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tan Henry"]
@@ -161,7 +154,6 @@ Kf5+ 53.Kd1 Re7 54.Rh6 Bg7 55.Rh7 Bf8 56.Rh8 Rd7+ 57.Kc2 Bxa3
 
 [Event ""]
 [Site "Hastings (England)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Littlewood H"]
@@ -184,7 +176,6 @@ Nd5 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Klovans Janis (LAT)"]
@@ -207,7 +198,6 @@ Kh8 35.Nc6 Ne6 36.Nxd8 Rxd8 37.Rc6 1-0
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -231,7 +221,6 @@ Ke6 1-0
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -255,7 +244,6 @@ b5 42.axb5 Rb7 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Balcerowski Witold (POL)"]
@@ -277,7 +265,6 @@ Qh8 32.Qd5 Qf8 33.Bc4 Rg7 34.Rh2 h5 35.Qg5 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Jimenez Eleazar (CUB)"]
@@ -303,7 +290,6 @@ g2 53.Ra1 Kf5 54.b8Q 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -322,7 +308,6 @@ Nxc5 8.Bd2 b6 9.Be2 Bb7 10.O-O Nce4 11.Nxe4 Bxe4 12.Bd3 Bxd3
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kuijpers Frans A (NED)"]
@@ -343,7 +328,6 @@ Qa8 25.Rc6 Bg4 26.f3 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -363,7 +347,6 @@ Bxg2 14.Nxg2 Bg5 15.Qd3 Qh5 16.f4 Be7 17.Qf3 Qxf3 18.exf3 Bf6
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Padevsky Nikola (BUL)"]
@@ -384,7 +367,6 @@ Rg8 25.g4 Nh4 26.Rf4 Rc4 27.Rxf7+ Kxf7 28.Ne5+ Ke7 29.Qg5+ 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -408,7 +390,6 @@ Kxf4 42.Ra7 Ke3 43.Rc2 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Vladimirov Boris T (RUS)"]
@@ -429,7 +410,6 @@ Ke7 24.Kd3 Nd6 25.Nd2 Nf5 26.Nf3 Nd6 27.Nd2 Nf5 28.Nf3 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1963.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Antoshin Vladimir S (RUS)"]
@@ -451,7 +431,6 @@ Nc1 25.Qd1 Qxa3 26.f4 Qb2 27.Qh5 Rc6 28.fxg5 Qxb1 29.gxh6+ Kh8
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1963.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bilek Istvan (HUN)"]
@@ -474,7 +453,6 @@ Qf7 20.Qxf7+ Kxf7 21.Re7+ Kf8 22.Rxb7 Nc6 23.c3 Kg8 24.a6 Bf8
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1963.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bobotsov Milko G (BUL)"]
@@ -494,7 +472,6 @@ f5 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1963.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ciocaltea Viktor (ROM)"]
@@ -515,7 +492,6 @@ Rb8 21.Nb5 Bf8 22.Na7 Bd7 23.Nxd7 Rxd7 24.c6 bxc6 25.Nxc6 Qb6+
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1963.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Haag Ervin (HUN)"]
@@ -541,7 +517,6 @@ a4 53.g5+ Ke7 54.Nd4 Bg6 55.bxa4 Bd3 56.c6 bxc6 57.c5 1-0
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1963.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kholmov Ratmir D (RUS)"]

@@ -1,6 +1,5 @@
 [Event "PRO League Atlantic 2017"]
 [Site "chess.com INT"]
-[Date "2017.01.11"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Zapata, Alo"]
@@ -9,7 +8,6 @@
 [WhiteElo "2739"]
 [BlackElo "2418"]
 [PlyCount "83"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -28,7 +26,6 @@ Ke1 Kg7 40. Qxf8+ Kf6 41. Qd6+ Kg7 42. Qe5+ 1-0
 
 [Event "PRO League Atlantic 2017"]
 [Site "chess.com INT"]
-[Date "2017.01.11"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Gulamali, K."]
@@ -37,7 +34,6 @@ Ke1 Kg7 40. Qxf8+ Kf6 41. Qd6+ Kg7 42. Qe5+ 1-0
 [WhiteElo "2739"]
 [BlackElo "2341"]
 [PlyCount "59"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -54,7 +50,6 @@ g6 22. Nxa4 Nxb3 23. cxb3 hxg5 24. Nc2 Qb5 25. Nd4 Qb4 26. Re4 Rad8 27. Ka2 f5
 
 [Event "PRO League Atlantic 2017"]
 [Site "chess.com INT"]
-[Date "2017.02.01"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Shen, Christopher Y"]
@@ -63,7 +58,6 @@ g6 22. Nxa4 Nxb3 23. cxb3 hxg5 24. Nc2 Qb5 25. Nd4 Qb4 26. Re4 Rad8 27. Ka2 f5
 [WhiteElo "2739"]
 [BlackElo "2165"]
 [PlyCount "65"]
-[EventDate "2017.01.11"]
 [EventType "team (rapid)"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -80,7 +74,6 @@ Kxf1 Qb5+ 28. Kg1 Qc6 29. h4 Ke7 30. Qg5+ Ke8 31. h5 Qa4 32. Rd4 Qc6 33. h6 1-0
 
 [Event "PRO League Atlantic 2017"]
 [Site "chess.com INT"]
-[Date "2017.02.01"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Wang, Jason"]
@@ -89,7 +82,6 @@ Kxf1 Qb5+ 28. Kg1 Qc6 29. h4 Ke7 30. Qg5+ Ke8 31. h5 Qa4 32. Rd4 Qc6 33. h6 1-0
 [WhiteElo "2739"]
 [BlackElo "2006"]
 [PlyCount "49"]
-[EventDate "2017.01.11"]
 [EventType "team (rapid)"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -105,7 +97,6 @@ f5 21. Bg6 Rf8 22. Bxf7 Rxf7 23. a5 g6 24. Rd6 Rh7 25. Red1 1-0
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.11"]
 [Round "5"]
 [White "Dominguez Perez, L."]
 [Black "Ducarmon, Q."]
@@ -114,7 +105,6 @@ f5 21. Bg6 Rf8 22. Bxf7 Rxf7 23. a5 g6 24. Rd6 Rh7 25. Red1 1-0
 [WhiteElo "2739"]
 [BlackElo "2468"]
 [PlyCount "69"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -132,7 +122,6 @@ Kf2 Kxd8 22. dxc5+ Ke7 23. Qd6+ Qxd6 24. cxd6+ Kxd6 25. Rd1+ Ke7 26. Rc7+ Kf6
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.11"]
 [Round "5"]
 [White "Dominguez Perez, L."]
 [Black "Admiraal, M."]
@@ -141,7 +130,6 @@ Kf2 Kxd8 22. dxc5+ Ke7 23. Qd6+ Qxd6 24. cxd6+ Kxd6 25. Rd1+ Ke7 26. Rc7+ Kf6
 [WhiteElo "2739"]
 [BlackElo "2441"]
 [PlyCount "83"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -160,7 +148,6 @@ Kh1 Qf8 42. Ng6+ 1-0
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.15"]
 [Round "6"]
 [White "Dominguez Perez, L."]
 [Black "Lesiege, A."]
@@ -169,7 +156,6 @@ Kh1 Qf8 42. Ng6+ 1-0
 [WhiteElo "2739"]
 [BlackElo "2521"]
 [PlyCount "145"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -193,7 +179,6 @@ a6 h3 73. a7 1-0
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.15"]
 [Round "6"]
 [White "Dominguez Perez, L."]
 [Black "Van Foreest, Jorden"]
@@ -202,7 +187,6 @@ a6 h3 73. a7 1-0
 [WhiteElo "2739"]
 [BlackElo "2612"]
 [PlyCount "135"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -225,7 +209,6 @@ Qf5 65. Qh6 Qe5+ 66. Qf6 Qe4 67. Kg8 Qxb4 68. Qxf7+ 1-0
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.22"]
 [Round "7"]
 [White "Dominguez Perez, L."]
 [Black "Balakrishnan, Praveen"]
@@ -234,7 +217,6 @@ Qf5 65. Qh6 Qe5+ 66. Qf6 Qe4 67. Kg8 Qxb4 68. Qxf7+ 1-0
 [WhiteElo "2739"]
 [BlackElo "2465"]
 [PlyCount "137"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -257,7 +239,6 @@ Kd4 66. Bb1 Ke5 67. Kg6 Nc8 68. f6 Ke6 69. Bf5+ 1-0
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.01"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Noritsyn, N."]
@@ -266,7 +247,6 @@ Kd4 66. Bb1 Ke5 67. Kg6 Nc8 68. f6 Ke6 69. Bf5+ 1-0
 [WhiteElo "2739"]
 [BlackElo "2473"]
 [PlyCount "63"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -283,7 +263,6 @@ Qd2 29. Qf6 Qg2 30. Bxf8 Qxh1+ 31. Ka2 Kxf8 32. d6 1-0
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.01"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Szabo, G ROM."]
@@ -292,7 +271,6 @@ Qd2 29. Qf6 Qg2 30. Bxf8 Qxh1+ 31. Ka2 Kxf8 32. d6 1-0
 [WhiteElo "2739"]
 [BlackElo "2545"]
 [PlyCount "99"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -312,7 +290,6 @@ Kg5 41. Rxh7 Rd4 42. Kg2 Rxa4 43. Rf2 Kf4 44. Rg7 g5 45. Re2 Rb4 46. Rge7 a5
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.08"]
 [Round "2"]
 [White "Dominguez Perez, L."]
 [Black "Cuevas, A."]
@@ -321,7 +298,6 @@ Kg5 41. Rxh7 Rd4 42. Kg2 Rxa4 43. Rf2 Kf4 44. Rg7 g5 45. Re2 Rb4 46. Rge7 a5
 [WhiteElo "2739"]
 [BlackElo "2288"]
 [PlyCount "59"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -338,7 +314,6 @@ Qf8 22. Bf1 f5 23. exf5 gxf5 24. Re1 Qf6 25. Rbd1 Ng7 26. f4 Re8 27. Bd4 Qh6
 
 [Event "Champions Showdown G5"]
 [Site "Saint Louis USA"]
-[Date "2017.11.12"]
 [Round "12.3"]
 [White "Dominguez Perez, L."]
 [Black "So, W."]
@@ -347,7 +322,6 @@ Qf8 22. Bf1 f5 23. exf5 gxf5 24. Re1 Qf6 25. Rbd1 Ng7 26. f4 Re8 27. Bd4 Qh6
 [WhiteElo "2739"]
 [BlackElo "2788"]
 [PlyCount "57"]
-[EventDate "2017.11.12"]
 [EventType "match (blitz)"]
 [EventRounds "12"]
 [EventCountry "USA"]
@@ -361,7 +335,6 @@ Qd1+ 28. Nf1 Qe1 29. Nd8 1-0
 
 [Event "Champions Showdown G5"]
 [Site "Saint Louis USA"]
-[Date "2017.11.12"]
 [Round "8.3"]
 [White "Dominguez Perez, L."]
 [Black "So, W."]
@@ -370,7 +343,6 @@ Qd1+ 28. Nf1 Qe1 29. Nd8 1-0
 [WhiteElo "2739"]
 [BlackElo "2788"]
 [PlyCount "48"]
-[EventDate "2017.11.12"]
 [EventType "match (blitz)"]
 [EventRounds "12"]
 [EventCountry "USA"]
@@ -383,7 +355,6 @@ Qg5 Bf8 22. h6 Ne4 23. Nxe4 dxe4 24. Qf5 Re6 1-0
 
 [Event "Champions Showdown G30"]
 [Site "Saint Louis USA"]
-[Date "2017.11.09"]
 [Round "4.3"]
 [White "Dominguez Perez, L."]
 [Black "So, W."]
@@ -392,7 +363,6 @@ Qg5 Bf8 22. h6 Ne4 23. Nxe4 dxe4 24. Qf5 Re6 1-0
 [WhiteElo "2739"]
 [BlackElo "2788"]
 [PlyCount "109"]
-[EventDate "2017.11.09"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -410,7 +380,6 @@ Nf3 Bxc4 54. Rxg6 Bd3 55. Ng5+ 1-0
 
 [Event "Champions Showdown G20"]
 [Site "Saint Louis USA"]
-[Date "2017.11.10"]
 [Round "2.3"]
 [White "Dominguez Perez, L."]
 [Black "So, W."]
@@ -419,7 +388,6 @@ Nf3 Bxc4 54. Rxg6 Bd3 55. Ng5+ 1-0
 [WhiteElo "2739"]
 [BlackElo "2788"]
 [PlyCount "117"]
-[EventDate "2017.11.10"]
 [EventType "match (rapid)"]
 [EventRounds "6"]
 [EventCountry "USA"]
@@ -438,7 +406,6 @@ Kd4 59. Rc4+ 1-0
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.15"]
 [Round "17.5"]
 [White "Dominguez Perez, L."]
 [Black "Grischuk, A."]
@@ -447,7 +414,6 @@ Kd4 59. Rc4+ 1-0
 [WhiteElo "2739"]
 [BlackElo "2766"]
 [PlyCount "60"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -462,7 +428,6 @@ Rxf8+ Qxf8 28. Qxd6 Qf2+ 29. Kh1 Qh4+ 30. Kg1 Qf2+ 1/2-1/2
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.15"]
 [Round "13.3"]
 [White "Dominguez Perez, L."]
 [Black "Karjakin, Sergey"]
@@ -471,7 +436,6 @@ Rxf8+ Qxf8 28. Qxd6 Qf2+ 29. Kh1 Qh4+ 30. Kg1 Qf2+ 1/2-1/2
 [WhiteElo "2739"]
 [BlackElo "2773"]
 [PlyCount "74"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -487,7 +451,6 @@ Nb3 Rc2 34. Nd4 Rd2 35. Nb3 Rc2 36. Nd4 Rd2 37. Nb3 Rc2 1/2-1/2
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.15"]
 [Round "15.4"]
 [White "Dominguez Perez, L."]
 [Black "Nakamura, Hi"]
@@ -496,7 +459,6 @@ Nb3 Rc2 34. Nd4 Rd2 35. Nb3 Rc2 36. Nd4 Rd2 37. Nb3 Rc2 1/2-1/2
 [WhiteElo "2739"]
 [BlackElo "2777"]
 [PlyCount "53"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -510,7 +472,6 @@ Bc2 a4 16. d4 Rfe8 17. Nf5 b5 18. Qd2 Rad8 19. b3 axb3 20. axb3 Qb6 21. Ng3 c6
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.14"]
 [Round "7.2"]
 [White "Dominguez Perez, L."]
 [Black "Anand, V."]
@@ -519,7 +480,6 @@ Bc2 a4 16. d4 Rfe8 17. Nf5 b5 18. Qd2 Rad8 19. b3 axb3 20. axb3 Qb6 21. Ng3 c6
 [WhiteElo "2739"]
 [BlackElo "2768"]
 [PlyCount "44"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -533,7 +493,6 @@ Rxc1+ 21. Nxc1 Nd6 22. Kf1 Nc4 1/2-1/2
 
 [Event "Saint Louis Blitz 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.14"]
 [Round "1.5"]
 [White "Dominguez Perez, L."]
 [Black "Aronian, L."]
@@ -542,7 +501,6 @@ Rxc1+ 21. Nxc1 Nd6 22. Kf1 Nc4 1/2-1/2
 [WhiteElo "2739"]
 [BlackElo "2767"]
 [PlyCount "96"]
-[EventDate "2018.08.14"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -560,14 +518,12 @@ Rd1 Ke8 22. g4 Ne7 23. Kh2 Rd8 24. Kg3 Bc8 25. Rd2 Ncd5 26. Bb3 Nb4 27. Bc4 g6
 
 [Event "Champions Chess960 G30"]
 [Site "Saint Louis USA"]
-[Date "2018.09.13"]
 [Round "6.5"]
 [White "Dominguez Perez, Leinier"]
 [Black "Aronian, Levon"]
 [Result "1/2-1/2"]
 [BlackElo "2780"]
 [ECO "C02"]
-[EventDate "2018.09.11"]
 [WhiteElo "2739"]
 
 1. e4 d5 2. e5 e6 3. d4 c5 4. dxc5 Qg5 5. Qd2 Qxd2+ 6. Kxd2 Bxc5 7. b4 Be7
@@ -579,7 +535,6 @@ Rd1 Ke8 22. g4 Ne7 23. Kh2 Rd8 24. Kg3 Bc8 25. Rd2 Ncd5 26. Bb3 Nb4 27. Bc4 g6
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.17"]
 [Round "1.1"]
 [White "Dominguez Perez, Leinier"]
 [Black "Navara, David"]
@@ -587,7 +542,6 @@ Rd1 Ke8 22. g4 Ne7 23. Kh2 Rd8 24. Kg3 Bc8 25. Rd2 Ncd5 26. Bb3 Nb4 27. Bc4 g6
 [WhiteElo "2739"]
 [BlackElo "2737"]
 [ECO "B12"]
-[EventDate "2017.08.17"]
 
 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. f4 e6 6. Be3 d4 7. Bf2 Bxc5 8. 
 Nd2 Nge7 9. a3 Nd5 10. Ne4 Qa5+ 11. b4 Ncxb4 12. axb4 Qxb4+ 13. Qd2 Qb2 
@@ -600,7 +554,6 @@ Qe1+ 32. Kh3 Kg8 33. Qxf7+ Kh8 34. Rd7 Rg8 35. Qh5 h6 36. Qg6 Qe3+ 37. g3
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "13.2"]
 [White "Dominguez Perez, Leinier"]
 [Black "Caruana, Fabiano"]
@@ -608,7 +561,6 @@ Qe1+ 32. Kh3 Kg8 33. Qxf7+ Kh8 34. Rd7 Rg8 35. Qh5 h6 36. Qg6 Qe3+ 37. g3
 [WhiteElo "2739"]
 [BlackElo "2807"]
 [ECO "E11"]
-[EventDate "2017.08.17"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 
 8. Bf4 c6 9. Nc3 b6 10. cxd5 exd5 11. Rc1 Bb7 12. Qc2 Re8 13. Rfd1 Nf8 14.
@@ -623,7 +575,6 @@ Qxe4 Rxe4 38. Rxa7 Re2+ 39. Kf1 Rxe5 40. Kf2 Rf5+ 41. Rf3 Rd5 42. Ke3 Nc5
 
 [Event "Saint Louis Rapid 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.15"]
 [Round "4.4"]
 [White "Dominguez Perez, Leinier"]
 [Black "Le, Quang Liem"]
@@ -631,7 +582,6 @@ Qxe4 Rxe4 38. Rxa7 Re2+ 39. Kf1 Rxe5 40. Kf2 Rf5+ 41. Rf3 Rd5 42. Ke3 Nc5
 [WhiteElo "2739"]
 [BlackElo "2739"]
 [ECO "C65"]
-[EventDate "2017.08.14"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Be6 7. O-O 
 Bd6 8. b3 O-O 9. Nc4 Bxc4 10. bxc4 Nd7 11. Rb1 b6 12. g3 Nc5 13. Nh4 g6 

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Caracas (Venezuela)"]
-[Date "1970.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -31,7 +30,6 @@ Qa4+ 76.Kd3 Qb5+ 77.Ke4 Qb7+ 78.Nd5 Qb1+ 79.Ke3 Qg1+ 80.Kd3 Bxd5
 
 [Event "It"]
 [Site "Caracas (Venezuela)"]
-[Date "1970.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Panno Oscar (ARG)"]
@@ -56,7 +54,6 @@ Qg6 48.Kg3 1/2-1/2
 
 [Event "It"]
 [Site "Caracas (Venezuela)"]
-[Date "1970.??.??"]
 [Round "11"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sigurjonsson Gudmundur (ISL)"]
@@ -79,7 +76,6 @@ Qb8 26.Rab1 Qd6 27.Kg1 d4 28.Rd1 Be5 29.Nh3 Qe6 30.cxd4 Qxh3
 
 [Event "It"]
 [Site "Caracas (Venezuela)"]
-[Date "1970.??.??"]
 [Round "16"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -98,7 +94,6 @@ Bd6 8.Bxd6 Qxd6 9.Ngf3 Ne7 10.O-O Nd7 11.Rfe1 O-O 12.Re2 Ng6
 
 [Event "Ch Russia"]
 [Site "Kuibyshev (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sergievsky Vladimir D (RUS)"]
@@ -122,7 +117,6 @@ Nf5+ 42.Kd3 1-0
 
 [Event "Ch Russia"]
 [Site "Kuibyshev (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zaitsev Igor A (RUS)"]
@@ -151,7 +145,6 @@ h3 70.Rxe6 g4 71.Rh6 1-0
 
 [Event ""]
 [Site "Kuibyshev (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anikaev Yuri N (RUS)"]
@@ -170,7 +163,6 @@ Qxd1 8.Rxd1 Bxf3 9.gxf3 fxe5 10.f4 Bd6 11.Nd2 exf4 12.Nc4 O-O-O
 
 [Event ""]
 [Site "Kuibyshev (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dementiev Oleg I (RUS)"]
@@ -189,7 +181,6 @@ c5 8.Nb3 Qxd1 9.Rxd1 Bd7 10.Nc3 O-O-O 11.Bf4 Be6 12.Rxd8+ Kxd8
 
 [Event ""]
 [Site "Kuibyshev (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Pozdniakov"]
@@ -215,7 +206,6 @@ c2 54.Rxg5+ Bxg5 55.Qxg5+ Kh7 56.Qh5+ Kg7 57.Qe5+ 1-0
 
 [Event ""]
 [Site "Kuibyshev (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shestakov Sergei S (RUS)"]
@@ -237,7 +227,6 @@ Bxf4 31.Nxf4 Rxd4 32.Ng6+ Kh7 33.Nf8+ Kh8 34.Qg6 1-0
 
 [Event ""]
 [Site "Kuibyshev (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zhukhovitsky Samuel (RUS)"]
@@ -262,7 +251,6 @@ Qh8 49.Qe1 Kf8 50.Qg3 Ra3 51.Bd1 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Izotov"]
@@ -284,7 +272,6 @@ Kd7 31.Rxb7+ 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korelov Alexander P (RUS)"]
@@ -308,7 +295,6 @@ Qxc3 41.h5 Qd2 42.Qf5+ Kg8 43.Qxe5 c3 44.Qe8+ Kh7 45.e5 c2 1/2-1/2
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tiulin E (RUS)"]
@@ -327,7 +313,6 @@ f5 14.Ba3 fxe4 15.Nd2 e3 1/2-1/2
 
 [Event "Ch Armed Forces (cat.9)"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Chilnov"]
@@ -351,7 +336,6 @@ Rad8 43.Rxe8 Kxe8 44.Qxh7 gxf5 45.Qh8+ Kd7 46.Rxd6+ 1-0
 
 [Event "Ch Armed Forces (cat.9)"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kosenkov Vsevolod"]
@@ -374,7 +358,6 @@ Re5+ 36.Re4 Rf5 37.Rh4 1/2-1/2
 
 [Event "Ch Armed Forces (cat.9)"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zheliandinov Viktor (UKR)"]
@@ -398,7 +381,6 @@ Bf5 37.Re1 Qc7 38.Rc1 Kg8 39.exd6 Nxd6 40.Nxb4 cxb4 41.Bxf5 Bc3
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Antoshin Vladimir S (RUS)"]
@@ -421,7 +403,6 @@ Nxb3 37.Qxb3 Ra1 38.Qb4 Bf5 39.h3 Rxe1+ 40.Qxe1 d4 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "12"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -445,7 +426,6 @@ Nxe5 43.R6c2 Nc4 44.a8Q Rxa8 45.Nxa8 b5 46.Ra2 Rb7 1-0
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -471,7 +451,6 @@ g6 48.Ne3+ Kb5 49.Kd3 Rd7+ 50.Nd5 axb4 51.cxb4 f5 52.gxf5 gxf5
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "18"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -498,7 +477,6 @@ h6 53.Kf3 Nd4+ 54.Kg4 Kf7 55.Ra7+ Ke6 56.f5+ Kd6 57.Ra6+ Ke7
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Moiseev Viktor (RUS)"]
@@ -518,7 +496,6 @@ Qxc2 20.Rxc2 Rfd8 21.Nb3 Rac8 22.Rfc1 Rd6 23.Kf1 Rdc6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Podgaets Mikhail (UKR)"]
@@ -538,7 +515,6 @@ Bc6 20.axb5 axb5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "16"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -562,7 +538,6 @@ Qd5 42.Qb3 1-0
 
 [Event "Ch URS"]
 [Site "Riga (Latvia)"]
-[Date "1970.??.??"]
 [Round "14"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zaitsev Igor A (RUS)"]

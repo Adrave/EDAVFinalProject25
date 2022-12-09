@@ -1,6 +1,5 @@
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -22,7 +21,6 @@ Kh7 31.Ng5+ Kg7 32.Nxe5 Nxe5 33.Nxf7+ Kxf7 34.dxe5 1-0
 
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Miles Anthony J (ENG)"]
@@ -45,7 +43,6 @@ Nf8 26.Nd5 Bxb2 27.Nxc7 Re7 28.Nxe6 Rxe6 29.Qg3 Ba3 30.f5 Ree8
 
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -75,7 +72,6 @@ Kd8 70.Kxb5 Kc7 71.Kc5 Be3+ 72.Kd5 Bf4 73.Bf8 Kb6 74.Bd6 Bg5
 
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -110,7 +106,6 @@ Kc7 105.Rc8+ 1-0
 
 [Event "It \"S.W.I.F.T.\""]
 [Site "Brussels (Belgium)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -137,8 +132,6 @@ Kh7 54.Bf5+ Kh6 55.Qg5+ Qxg5 56.fxg5+ Kg7 57.Bd3 Ra1 58.Bc4 Rb1
 
 [Event "Bugojno"]
 [Site "Bugojno YUG"]
-[Date "1986.05.27"]
-[EventDate "?"]
 [Result "1-0"]
 [White "Anatoly Karpov"]
 [Black "Artur Yusupov"]
@@ -162,7 +155,6 @@ a3 52. Kg3 Kd6 53. Nb3 Ke5 54. Kg4 h5+ 55. Kg5 h4 56. f6 Ke6
 
 [Event "It (cat.16)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -193,7 +185,6 @@ Rxc6 83.e5 Rb6 84.Rg8 Rb4 85.g6 fxg6+ 86.Rxg6 1-0
 
 [Event "It (cat.16)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -215,7 +206,6 @@ a5 30.Rd4 Ref8 31.Rd7 Rc6 32.Qe5 Qf6 33.Qd5 Rc5 34.Qe4 1-0
 
 [Event "It (cat.16)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -244,7 +234,6 @@ Rd2 65.Nf5 Kg5 66.Rf3 Ra2 67.Ne7 Ra6+ 68.Kf7 Ra5 69.Rxf6 Ra3
 
 [Event "Olympiad"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -270,7 +259,6 @@ Kxh7 54.Rh2+ Kg8 55.Rdh1 f6 56.Rh8+ 1-0
 
 [Event "Olympiad"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sznapik Aleksander (POL)"]
@@ -291,7 +279,6 @@ Qb7 26.f5 Ne5 27.Ne6 1-0
 
 [Event "Ch World (match)"]
 [Site "London/Leningrad"]
-[Date "1986.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -313,7 +300,6 @@ g5 26.hxg5 hxg5 27.Bxg5 Kf7 28.Bf4 Rb8 29.Rec1 Bc6 30.Rc3 Ra5
 
 [Event "Ch World (match)"]
 [Site "London/Leningrad"]
-[Date "1986.??.??"]
 [Round "17"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -335,7 +321,6 @@ Bb2 25.Na4 Nb5 26.Rxc6 Rfd8 27.Rb6 Rd5 28.Bg3 Nc3 29.Nxc3 Bxc3
 
 [Event "Ch World (match)"]
 [Site "London/Leningrad"]
-[Date "1986.??.??"]
 [Round "19"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -358,7 +343,6 @@ Rd8 31.Re5 f6 32.Rf5 b6 33.Bd4 Ne7 34.Bxf6 Rxd5 35.Rg5+ Rxg5
 
 [Event "It \"Interpolis\""]
 [Site "Tilburg (Netherlands)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -381,7 +365,6 @@ h5 25.b5 Nxg2 26.Kxg2 h4 27.bxc6 hxg3 28.fxg3 Rxe3 29.Rxe3 Qxe3
 
 [Event "It (open)"]
 [Site "Vienna (Austria)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kindermann Stefan (AUT)"]
@@ -405,7 +388,6 @@ Ke8 41.Rh6 1-0
 
 [Event "It (open)"]
 [Site "Vienna (Austria)"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Mednis Edmar J (USA)"]
@@ -433,7 +415,6 @@ Kf7 60.Bh4 Qa5 61.Ke1 Qa4 62.Qc1 Na3 63.g5 hxg5 64.Qxg5 Nxc2+
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -461,7 +442,6 @@ Rh4+ 60.Kg2 Qe4+ 61.Qxe4 Rxe4 62.Rc7+ Kg6 63.Ra7 Re3 64.Kh3 Rc3
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "13"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -484,7 +464,6 @@ Rhc8 36.Rdf4 Rxf2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "15"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -508,7 +487,6 @@ hxg4 36.hxg4 Kg6 37.Kg2 Bb2 38.Ne7+ Kf6 39.Nc6 Rd7 40.Nb8 Rd8
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "17"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -532,7 +510,6 @@ Kg7 43.Ra8 Kf7 44.Ke4 Kg7 45.Ra7+ Kg6 46.Re7 g4 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "19"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -560,7 +537,6 @@ Ke5 58.Re7+ Kd6 59.Rh7 Ke5 60.Re7+ Kd6 61.Rh7 Ke5 62.Re7+ Kd6
 
 [Event "Ch World (match)"]
 [Site "Sevilla (Spain)"]
-[Date "1987.??.??"]
 [Round "21"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -581,7 +557,6 @@ Nc4 26.Qd5 Nb6 27.Qd3 Nc4 28.Qd5 Nb6 1/2-1/2
 
 [Event "It \"]
 [Site "Brussels (Belgium)"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -589,7 +564,6 @@ Nc4 26.Qd5 Nb6 27.Qd3 Nc4 28.Qd5 Nb6 1/2-1/2
 [ECO "E06"]
 [WhiteElo "2700"]
 [PlyCount "120"]
-[EventDate "1987.??.??"]
 
 1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 c6 7. Qc2 b6 8. Nbd2
 Bb7 9. e4 Na6 10. e5 Nd7 11. a3 c5 12. cxd5 Bxd5 13. Qd3 Qc8 14. Ne4 cxd4 15.
@@ -605,14 +579,12 @@ Ka5 Nc4+ 60. Ka4 Ncb6+ 1/2-1/2
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "Seville ESP"]
-[Date "1987.10.30"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1/2-1/2"]
 [BlackElo "2740"]
 [ECO "D87"]
-[EventDate "1987.10.12"]
 [PlyCount "158"]
 [WhiteElo "2700"]
 

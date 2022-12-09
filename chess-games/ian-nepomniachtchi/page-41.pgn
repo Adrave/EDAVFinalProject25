@@ -1,6 +1,5 @@
 [Event "ch-RSCU Rapid"]
 [Site "Moscow RUS"]
-[Date "2011.01.09"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -9,7 +8,6 @@
 [WhiteElo "2733"]
 [BlackElo "2776"]
 [PlyCount "60"]
-[EventDate "2011.01.09"]
 [EventType "rapid"]
 [EventRounds "2"]
 [EventCountry "RUS"]
@@ -25,7 +23,6 @@ Bxc6 Rd3+ 28. Kb2 Rd2+ 29. Kc3 Rd3+ 30. Kb2 Rd2+ 1/2-1/2
 
 [Event "ch-RSCU Blitz"]
 [Site "Moscow RUS"]
-[Date "2011.01.09"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -34,7 +31,6 @@ Bxc6 Rd3+ 28. Kb2 Rd2+ 29. Kc3 Rd3+ 30. Kb2 Rd2+ 1/2-1/2
 [WhiteElo "2733"]
 [BlackElo "2776"]
 [PlyCount "74"]
-[EventDate "2011.01.09"]
 [EventType "blitz"]
 [EventRounds "5"]
 [EventCountry "RUS"]
@@ -51,7 +47,6 @@ Reh8 28. Rc1+ Kd6 29. Rd3+ Ke6 30. Rxc7 Rxh2 31. Kf1 Rf8 32. Rd2 e4 33. Rc4 Ke5
 
 [Event "ch-RSCU Blitz"]
 [Site "Moscow RUS"]
-[Date "2011.01.09"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -60,7 +55,6 @@ Reh8 28. Rc1+ Kd6 29. Rd3+ Ke6 30. Rxc7 Rxh2 31. Kf1 Rf8 32. Rd2 e4 33. Rc4 Ke5
 [WhiteElo "2733"]
 [BlackElo "2776"]
 [PlyCount "104"]
-[EventDate "2011.01.09"]
 [EventType "blitz"]
 [EventRounds "5"]
 [EventCountry "RUS"]
@@ -80,7 +74,6 @@ Ne4 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.15"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Kramnik, V."]
@@ -89,7 +82,6 @@ Ne4 1/2-1/2
 [WhiteElo "2733"]
 [BlackElo "2784"]
 [PlyCount "72"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -103,7 +95,6 @@ Rh1 h4 28. f4 Kg8 29. Bh2 c5 30. b3 Kf7 31. Rxg5 Rxg5 32. fxg5 Kg6 33. Bf4 Rh8
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.17"]
 [Round "3"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -112,7 +103,6 @@ Rh1 h4 28. f4 Kg8 29. Bh2 c5 30. b3 Kf7 31. Rxg5 Rxg5 32. fxg5 Kg6 33. Bf4 Rh8
 [WhiteElo "2733"]
 [BlackElo "2773"]
 [PlyCount "46"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -124,7 +114,6 @@ Rhe1 Rxe1 22. Rxe1+ Kf8 23. Nb7 Kg7 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.20"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Shirov, A."]
@@ -133,7 +122,6 @@ Rhe1 Rxe1 22. Rxe1+ Kf8 23. Nb7 Kg7 1/2-1/2
 [WhiteElo "2733"]
 [BlackElo "2722"]
 [PlyCount "157"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -154,7 +142,6 @@ Kg8 79. Qf8+ 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.22"]
 [Round "7"]
 [White "Nepomniachtchi, I."]
 [Black "Ponomariov, R."]
@@ -163,7 +150,6 @@ Kg8 79. Qf8+ 1/2-1/2
 [WhiteElo "2733"]
 [BlackElo "2744"]
 [PlyCount "44"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -175,7 +161,6 @@ Rxa3 22. Nc5 Bxc5 1/2-1/2
 
 [Event "73rd Tata Steel GMA"]
 [Site "Wijk aan Zee NED"]
-[Date "2011.01.30"]
 [Round "13"]
 [White "Nepomniachtchi, I."]
 [Black "Anand, V."]
@@ -184,7 +169,6 @@ Rxa3 22. Nc5 Bxc5 1/2-1/2
 [WhiteElo "2733"]
 [BlackElo "2810"]
 [PlyCount "76"]
-[EventDate "2011.01.14"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
 
@@ -198,7 +182,6 @@ Kf7 28. Na5 Rc2 29. Rf2 Rc1+ 30. Rf1 Rxf1+ 31. Kxf1 g5 32. Nc6 Kf6 33. b4 Rd7
 
 [Event "12th ch-EUR"]
 [Site "Aix-les-Bains FRA"]
-[Date "2011.03.25"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Wells, P."]
@@ -207,7 +190,6 @@ Kf7 28. Na5 Rc2 29. Rf2 Rc1+ 30. Rf1 Rxf1+ 31. Kxf1 g5 32. Nc6 Kf6 33. b4 Rd7
 [WhiteElo "2729"]
 [BlackElo "2487"]
 [PlyCount "119"]
-[EventDate "2011.03.22"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [Source "Mark Crowther"]
@@ -227,7 +209,6 @@ Rb4+ Ka6 60. a4 1/2-1/2
 
 [Event "12th ch-EUR"]
 [Site "Aix-les-Bains FRA"]
-[Date "2011.03.27"]
 [Round "6"]
 [White "Nepomniachtchi, I."]
 [Black "Macieja, B."]
@@ -236,7 +217,6 @@ Rb4+ Ka6 60. a4 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2619"]
 [PlyCount "120"]
-[EventDate "2011.03.22"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [Source "Mark Crowther"]
@@ -256,7 +236,6 @@ Bc4 Rec7 1/2-1/2
 
 [Event "12th ch-EUR"]
 [Site "Aix-les-Bains FRA"]
-[Date "2011.03.31"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Volokitin, And"]
@@ -265,7 +244,6 @@ Bc4 Rec7 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2677"]
 [PlyCount "45"]
-[EventDate "2011.03.22"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [Source "Mark Crowther"]
@@ -279,7 +257,6 @@ Qf5 15. Rh3 O-O-O 16. Be3 Bf6 17. Nd4 Bxd4 18. Bxd4 f6 19. Rg3 Rd7 20. Re1 Qh5
 
 [Event "TCh-RUS Premier"]
 [Site "Olginka RUS"]
-[Date "2011.04.13"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Gelfand, B."]
@@ -288,7 +265,6 @@ Qf5 15. Rh3 O-O-O 16. Be3 Bf6 17. Nd4 Bxd4 18. Bxd4 f6 19. Rg3 Rd7 20. Re1 Qh5
 [WhiteElo "2729"]
 [BlackElo "2733"]
 [PlyCount "29"]
-[EventDate "2011.04.12"]
 [EventRounds "11"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -303,7 +279,6 @@ Nxb7 1/2-1/2
 
 [Event "ch-RUS Rapid"]
 [Site "Olginka RUS"]
-[Date "2011.04.26"]
 [Round "7"]
 [White "Nepomniachtchi, I."]
 [Black "Matlakov, M."]
@@ -312,7 +287,6 @@ Nxb7 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2625"]
 [PlyCount "115"]
-[EventDate "2011.04.25"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "RUS"]
@@ -332,7 +306,6 @@ Kxh5 e3 48. Kh4 Nd4 49. Kg5 e2 50. Bxe2 Nxe2 51. h4 f4 52. Kg4 f3 53. Kxf3 Nd4+
 
 [Event "TCh-RUS Premier"]
 [Site "Olginka RUS"]
-[Date "2011.04.21"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Savchenko, B."]
@@ -341,7 +314,6 @@ Kxh5 e3 48. Kh4 Nd4 49. Kg5 e2 50. Bxe2 Nxe2 51. h4 f4 52. Kg4 f3 53. Kxf3 Nd4+
 [WhiteElo "2729"]
 [BlackElo "2616"]
 [PlyCount "168"]
-[EventDate "2011.04.12"]
 [EventRounds "11"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -366,7 +338,6 @@ Kc2 Rg1 80. Bc3 g3 81. Re5+ Kf4 82. Re7 g2 83. Bd2+ Kf3 84. Re3+ Kf2 0-1
 
 [Event "ch-RUS Rapid"]
 [Site "Olginka RUS"]
-[Date "2011.04.25"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Lastin, A."]
@@ -375,7 +346,6 @@ Kc2 Rg1 80. Bc3 g3 81. Re5+ Kf4 82. Re7 g2 83. Bd2+ Kf3 84. Re3+ Kf2 0-1
 [WhiteElo "2729"]
 [BlackElo "2617"]
 [PlyCount "63"]
-[EventDate "2011.04.25"]
 [EventType "rapid"]
 [EventRounds "11"]
 [EventCountry "RUS"]
@@ -391,7 +361,6 @@ Re3 Re8 28. Qxb6 Nd3+ 29. Kf1 Rxe3 30. Bxe3 Ne5+ 31. Kg1 Qxd5 32. Qxa6 1/2-1/2
 
 [Event "8th World Teams"]
 [Site "Ningbo CHN"]
-[Date "2011.07.20"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Mamedyarov, S."]
@@ -400,7 +369,6 @@ Re3 Re8 28. Qxb6 Nd3+ 29. Kf1 Rxe3 30. Bxe3 Ne5+ 31. Kg1 Qxd5 32. Qxa6 1/2-1/2
 [WhiteElo "2711"]
 [BlackElo "2765"]
 [PlyCount "56"]
-[EventDate "2011.07.17"]
 [EventRounds "9"]
 [EventCountry "CHN"]
 [Source "Mark Crowther"]
@@ -419,7 +387,6 @@ hxg6 22. Qa1 Bd5 23. Rxa7 Rac8 24. Qa4 g5 25. Qd7 Rcd8 26. Qc7 Rc8 27. Qd7 Rcd8
 
 [Event "8th World Teams"]
 [Site "Ningbo CHN"]
-[Date "2011.07.23"]
 [Round "6"]
 [White "Nepomniachtchi, I."]
 [Black "Efimenko, Z."]
@@ -428,7 +395,6 @@ hxg6 22. Qa1 Bd5 23. Rxa7 Rac8 24. Qa4 g5 25. Qd7 Rcd8 26. Qc7 Rc8 27. Qd7 Rcd8
 [WhiteElo "2711"]
 [BlackElo "2706"]
 [PlyCount "118"]
-[EventDate "2011.07.17"]
 [EventRounds "9"]
 [EventCountry "CHN"]
 [Source "Mark Crowther"]
@@ -451,7 +417,6 @@ b5 48. Rb2 Rxe4 49. Kf3 Re8 50. Rxb5 Bb6 51. Rb3 Kc8 52. Be3 Kb8 53. Ra3 Ka7
 
 [Event "8th World Teams"]
 [Site "Ningbo CHN"]
-[Date "2011.07.26"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Sasikiran, K."]
@@ -460,7 +425,6 @@ b5 48. Rb2 Rxe4 49. Kf3 Re8 50. Rxb5 Bb6 51. Rb3 Kc8 52. Be3 Kb8 53. Ra3 Ka7
 [WhiteElo "2711"]
 [BlackElo "2681"]
 [PlyCount "148"]
-[EventDate "2011.07.17"]
 [EventRounds "9"]
 [EventCountry "CHN"]
 [Source "Mark Crowther"]
@@ -486,7 +450,6 @@ Kh4 72. Qc7 Qd1+ 73. Kh2 Qd2+ 74. Kg1 Kg3 0-1
 
 [Event "64th ch-RUS"]
 [Site "Moscow RUS"]
-[Date "2011.08.09"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Galkin, A."]
@@ -495,7 +458,6 @@ Kh4 72. Qc7 Qd1+ 73. Kh2 Qd2+ 74. Kg1 Kg3 0-1
 [WhiteElo "2711"]
 [BlackElo "2598"]
 [PlyCount "147"]
-[EventDate "2011.08.08"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [EventCategory "19"]
@@ -518,7 +480,6 @@ Rh4+ 72. Kg5 Rg4+ 73. Kxf5 Rxg6 74. Kxg6 1/2-1/2
 
 [Event "64th ch-RUS"]
 [Site "Moscow RUS"]
-[Date "2011.08.15"]
 [Round "7"]
 [White "Nepomniachtchi, I."]
 [Black "Karjakin, Sergey"]
@@ -527,7 +488,6 @@ Rh4+ 72. Kg5 Rg4+ 73. Kxf5 Rxg6 74. Kxg6 1/2-1/2
 [WhiteElo "2711"]
 [BlackElo "2788"]
 [PlyCount "87"]
-[EventDate "2011.08.08"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [EventCategory "19"]
@@ -545,7 +505,6 @@ Rxh6+ gxh6 41. Qxh6+ Kg8 42. Qg5+ Kh8 43. Qh5+ Kg7 44. Qg5+ 1/2-1/2
 
 [Event "FIDE World Cup 2011"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2011.09.05"]
 [Round "3.3"]
 [White "Nepomniachtchi, I."]
 [Black "Kamsky, G."]
@@ -554,7 +513,6 @@ Rxh6+ gxh6 41. Qxh6+ Kg8 42. Qg5+ Kh8 43. Qh5+ Kg7 44. Qg5+ 1/2-1/2
 [WhiteElo "2711"]
 [BlackElo "2741"]
 [PlyCount "142"]
-[EventDate "2011.08.28"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -576,7 +534,6 @@ Rf4+ Ke2 0-1
 
 [Event "Final Russian Rapid GP"]
 [Site "Apatity RUS"]
-[Date "2011.12.03"]
 [Round "3.2"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -585,7 +542,6 @@ Rf4+ Ke2 0-1
 [WhiteElo "2730"]
 [BlackElo "2752"]
 [PlyCount "92"]
-[EventDate "2011.11.02"]
 [EventType "k.o. (rapid)"]
 [EventRounds "4"]
 [EventCountry "RUS"]
@@ -604,7 +560,6 @@ Ka8 0-1
 
 [Event "European Rapid 2011"]
 [Site "Warsaw POL"]
-[Date "2011.12.18"]
 [Round "11"]
 [White "Nepomniachtchi, I."]
 [Black "Korobov, A."]
@@ -613,7 +568,6 @@ Ka8 0-1
 [WhiteElo "2730"]
 [BlackElo "2660"]
 [PlyCount "94"]
-[EventDate "2011.12.17"]
 [EventType "swiss (rapid)"]
 [EventRounds "13"]
 [EventCountry "POL"]
@@ -632,7 +586,6 @@ Kh7 41. Bf8 Rd4 42. b4 Bxb4 43. Bg7 d1=Q+ 44. Rxd1 Rxd1 45. Kxd1 Be7 46. b4 b6
 
 [Event "European Blitz 2011"]
 [Site "Warsaw POL"]
-[Date "2011.12.16"]
 [Round "10"]
 [White "Nepomniachtchi, I."]
 [Black "Timofeev, Arty"]
@@ -641,7 +594,6 @@ Kh7 41. Bf8 Rd4 42. b4 Bxb4 43. Bg7 d1=Q+ 44. Rxd1 Rxd1 45. Kxd1 Be7 46. b4 b6
 [WhiteElo "2730"]
 [BlackElo "2659"]
 [PlyCount "116"]
-[EventDate "2011.12.16"]
 [EventType "swiss (blitz)"]
 [EventRounds "13"]
 [EventCountry "POL"]
@@ -664,7 +616,6 @@ Ra2 53. Bd6 Bd3 54. Rxc7+ Kb6 55. Re7 Rxe2+ 56. Kg3 Nc6 57. Re8 e5 58. h4 d4
 
 [Event "European Blitz 2011"]
 [Site "Warsaw POL"]
-[Date "2011.12.16"]
 [Round "11"]
 [White "Nepomniachtchi, I."]
 [Black "Wojtaszek, R."]
@@ -673,7 +624,6 @@ Ra2 53. Bd6 Bd3 54. Rxc7+ Kb6 55. Re7 Rxe2+ 56. Kg3 Nc6 57. Re8 e5 58. h4 d4
 [WhiteElo "2730"]
 [BlackElo "2705"]
 [PlyCount "100"]
-[EventDate "2011.12.16"]
 [EventType "swiss (blitz)"]
 [EventRounds "13"]
 [EventCountry "POL"]

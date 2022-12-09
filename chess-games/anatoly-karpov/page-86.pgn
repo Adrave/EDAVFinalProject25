@@ -1,13 +1,11 @@
 [Event "Skopje"]
 [Site "Skopje MKD"]
-[Date "1976.03.??"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Dragoljub Velimirovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E87"]
-[EventDate "????.??.??"]
 [PlyCount "133"]
 [WhiteElo "?"]
 
@@ -27,14 +25,12 @@
 
 [Event "9th Soviet Team Cup"]
 [Site "Tbilisi GEO"]
-[Date "1976.04.??"]
 [Round "5"]
 [White "Anatoly Karpov"]
 [Black "Yuri N Anikaev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B81"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -49,14 +45,12 @@
 
 [Event "Simul"]
 [Site "Huesca ESP"]
-[Date "1976.05.26"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Pepita Ferrer Lucas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Simul"]
 [Site "ESP"]
-[Date "1976.05.28"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Kind"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A85"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -95,14 +87,12 @@
 
 [Event "Simul"]
 [Site "Centelles ESP"]
-[Date "1976.06.01"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Bellenguer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B53"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -115,14 +105,12 @@
 
 [Event "Moscow blitz"]
 [Site "Moscow URS"]
-[Date "1972.05.11"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Aivars Gipslis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -137,14 +125,12 @@
 
 [Event "Moscow blitz"]
 [Site "Moscow URS"]
-[Date "1972.05.11"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Yuri Balashov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C79"]
-[EventDate "????.??.??"]
 [PlyCount "111"]
 [WhiteElo "?"]
 
@@ -162,14 +148,12 @@
 
 [Event "W-ch Student Team Final-A"]
 [Site "Graz AUT"]
-[Date "1972.07.21"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Valentin Stoica"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B92"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -185,14 +169,12 @@
 
 [Event "Chess Olympiad Final-A"]
 [Site "Skopje MKD"]
-[Date "1972.10.03"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Dan Uddenfeldt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B93"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -206,14 +188,12 @@
 
 [Event "Chess Olympiad Final-A"]
 [Site "Skopje MKD"]
-[Date "1972.10.07"]
 [Round "10"]
 [White "Anatoly Karpov"]
 [Black "Jens Enevoldsen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C03"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -227,14 +207,12 @@
 
 [Event "Chess Olympiad Final-A"]
 [Site "Skopje MKD"]
-[Date "1972.10.10"]
 [Round "13"]
 [White "Anatoly Karpov"]
 [Black "Fernando Visier Segovia"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B42"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -251,14 +229,12 @@
 
 [Event "Budapest Tungsram"]
 [Site "Budapest HUN"]
-[Date "1973.02.26"]
 [Round "12"]
 [White "Anatoly Karpov"]
 [Black "Rafael Vaganian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C09"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -277,14 +253,12 @@
 
 [Event "9th Soviet Match-Tournament"]
 [Site "Moscow URS"]
-[Date "1973.04.26"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Boris Spassky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C94"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -299,14 +273,12 @@
 
 [Event "Olympiad Qualifying Group 1"]
 [Site "Nice FRA"]
-[Date "1974.06.07"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Craig William Pritchett"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A33"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -322,14 +294,12 @@
 
 [Event "Vidmar Memorial"]
 [Site "Portoroz"]
-[Date "1975.06.02"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Lajos Portisch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D18"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -343,14 +313,12 @@
 
 [Event "Leningrad"]
 [Site "Leningrad"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Garry Kasparov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B92"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -367,14 +335,12 @@
 
 [Event "Vidmar Memorial"]
 [Site "Portoroz/Ljubljana"]
-[Date "1975.06.07"]
 [Round "5"]
 [White "Anatoly Karpov"]
 [Black "Janez Barle"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E81"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -387,14 +353,12 @@
 
 [Event "Vidmar Memorial"]
 [Site "Portoroz/Ljubljana"]
-[Date "1975.06.14"]
 [Round "10"]
 [White "Anatoly Karpov"]
 [Black "Dragoljub Velimirovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B78"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -411,14 +375,12 @@
 
 [Event "26th RSFSR-ch"]
 [Site "Kuybyshev URS"]
-[Date "1970.05.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Nikolai Krogius"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C09"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -436,14 +398,12 @@
 
 [Event "26th RSFSR-ch"]
 [Site "Kuybyshev URS"]
-[Date "1970.05.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Alexander Zaitsev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "143"]
 [WhiteElo "?"]
 
@@ -464,14 +424,12 @@
 
 [Event "Caracas"]
 [Site "Caracas VEN"]
-[Date "1970.06.22"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Bruno Parma"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E32"]
-[EventDate "????.??.??"]
 [PlyCount "131"]
 [WhiteElo "?"]
 
@@ -491,14 +449,12 @@
 
 [Event "Caracas"]
 [Site "Caracas VEN"]
-[Date "1970.07.07"]
 [Round "14"]
 [White "Anatoly Karpov"]
 [Black "Alberto N Caro"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A22"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -512,14 +468,12 @@
 
 [Event "Simul, 26b"]
 [Site "London ENG"]
-[Date "1972.01.22"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "John Yeo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B07"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -534,14 +488,12 @@
 
 [Event "Simul, 26b"]
 [Site "London ENG"]
-[Date "1972.01.22"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Harry Ennis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -556,14 +508,12 @@
 
 [Event "Simul, 26b"]
 [Site "London ENG"]
-[Date "1972.01.22"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Mike Wills"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "131"]
 [WhiteElo "?"]
 

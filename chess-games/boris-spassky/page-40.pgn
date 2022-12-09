@@ -1,6 +1,5 @@
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Rossetto Hector (ARG)"]
@@ -25,7 +24,6 @@ g4 1/2-1/2
 
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -52,7 +50,6 @@ g5 59.Nd4 Kg6 60.Ke2 1/2-1/2
 
 [Event "Izt"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -74,7 +71,6 @@ Rxc1 25.Qxc1 Rc8 26.Rc2 Rxc2 27.Qxc2 Bd4 28.Bd2 Qc5 29.Qxc5 dxc5
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1964.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -96,7 +92,6 @@ a3 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1964.??.??"]
 [Round "17"]
 [White "Spassky Boris V (FRA)"]
 [Black "Janosevic Dragoljub (YUG)"]
@@ -117,7 +112,6 @@ Nh5 14.d4 Bg4 15.dxe5 dxe5 16.Qd3 Rad8 17.Qc3 Bxf3 18.Qxa5 Bxe4
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1964.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -140,7 +134,6 @@ Ke5 36.Re2+ Kd4 37.g5 Kxc4 38.Kg4 Kc3 39.g6 c4 40.Kg5 b5 41.g7 1/2-1/2
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1964.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -165,7 +158,6 @@ Nc7 47.g4 1-0
 
 [Event "It"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1964.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zuidema Coen (NED)"]
@@ -187,7 +179,6 @@ Reb8 20.Rc3 Qb7 21.Qc1 Bxb3 22.h4 Be6 23.hxg5 hxg5 24.Nc4 Nh7
 
 [Event "Match \"Leningrad-Yugoslavia\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1964.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -207,7 +198,6 @@ Bxf3 8.Qxd8+ Rxd8 9.gxf3 Bb4 10.Bd2 Ne7 11.Rd1 Ng6 12.Ke2 f6
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Leningrad (Russia)"]
-[Date "1964.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ciric Dragoljub M (SCG)"]
@@ -229,7 +219,6 @@ Bd7 30.Kf2 Be6 1/2-1/2
 
 [Event "Ch URS (play-off)"]
 [Site "Moscow (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -250,7 +239,6 @@ Rg8 25.Rxf7 1-0
 
 [Event "Ch URS (play-off)"]
 [Site "Moscow (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -272,7 +260,6 @@ Bd7 14.hxg6 hxg6 15.Qd3 Qb6 16.Bd2 Rfc8 17.Ra5 a6 18.Rc5 Rxc5
 
 [Event "Zt"]
 [Site "Moscow (Russia)"]
-[Date "1964.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -301,7 +288,6 @@ e3 70.Re1 g5 71.Re2 Kg6 72.Ke6 f5 73.Ra2 f4 74.d5 e2 0-1
 
 [Event "Zt"]
 [Site "Moscow (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -325,7 +311,6 @@ Ne7 33.d4 exd4 34.exd4 Nef5 35.d5 cxd5 36.Nxd5 Bxd5 37.Bxd5 Nd4
 
 [Event "Zt"]
 [Site "Moscow (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -345,7 +330,6 @@ Bxf6 14.Nxd5 Bxd5 15.Nf4 Qd6 16.Nxd5 Bg5 17.f4 Bd8 18.Nc3 Na6
 
 [Event "Zt"]
 [Site "Moscow (Russia)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -368,7 +352,6 @@ Ne4+ 31.Ke1 Bd7 32.Rxf8+ Kxf8 33.Rxa6 Ke7 34.Ra8 Kd6 35.a4 Bc6
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1964.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Doroshkievich Vladimir K (RUS)"]
@@ -392,7 +375,6 @@ fxe5 41.Kxe5 Kg6 42.Ke6 Re8+ 43.Kd7 Rh8 44.Ke7 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1964.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "Forintos Gyozo V (HUN)"]
@@ -415,7 +397,6 @@ Kf7 36.Qxf6+ Ke8 37.Qg6+ Ke7 38.Bxh8 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1964.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Garcia Gonzales Guillermo (CUB)"]
@@ -437,7 +418,6 @@ Qxe5 31.Ng7 Bd7 32.Qh6 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Sochi (Russia)"]
-[Date "1964.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ujtelsky Maximilian (CZE)"]
@@ -457,7 +437,6 @@ Qxe5 31.Ng7 Bd7 32.Qh6 1-0
 
 [Event "Olympiad"]
 [Site "Tel Aviv (Israel)"]
-[Date "1964.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Badilles Glicerio (PHI)"]
@@ -479,7 +458,6 @@ Ne6 31.Qxd6 Ng7 32.Qxd7 Qxd7 33.Nf6+ Kh8 34.Rxd7 1-0
 
 [Event "Olympiad"]
 [Site "Tel Aviv (Israel)"]
-[Date "1964.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Espinoza Alejandro"]
@@ -499,7 +477,6 @@ Qf8 20.Qh5 h6 21.Qg6 Bxd5 22.Bxf5 Qxf5 23.Qxf5 Bc6 24.Qg6 1-0
 
 [Event "Olympiad"]
 [Site "Tel Aviv (Israel)"]
-[Date "1964.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Jansa Vlastimil (CZE)"]
@@ -523,7 +500,6 @@ Rxb2 36.Rxh7+ Kg5 37.Ra3 Rb5 38.h4+ Kf6 39.Raa7 Rf5 40.Rae7 Re6
 
 [Event "Olympiad"]
 [Site "Tel Aviv (Israel)"]
-[Date "1964.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Macskasy Elod (CAN)"]
@@ -546,7 +522,6 @@ Ke8 31.bxc5 bxc5 32.g5 hxg5 33.hxg5 R4a7 34.Rhb2 Nd8 35.Rb6 Rd7
 
 [Event "Olympiad"]
 [Site "Tel Aviv (Israel)"]
-[Date "1964.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Perez Eduardo"]

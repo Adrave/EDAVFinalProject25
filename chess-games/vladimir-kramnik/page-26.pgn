@@ -1,6 +1,5 @@
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.26"]
 [Round "12"]
 [White "Kramnik, V."]
 [Black "Carlsen, M."]
@@ -9,7 +8,6 @@
 [WhiteElo "2799"]
 [BlackElo "2733"]
 [PlyCount "114"]
-[EventDate "2008.01.12"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
 d6 9. Rd1 a6 10. Ng5 Bxg2 11. Kxg2 Nc6 12. Qf4 O-O 13. Nce4 Ne8 14. b3 Ra7 15.
@@ -24,7 +22,6 @@ Rb4 Rc4 48. Rb2 b4 49. Rdb1 Nf3 50. Kg2 Rd7 51. h3 e5 52. Ne2 Rd2 53. hxg4 fxg4
 
 [Event "Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2008.03.15"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -33,7 +30,6 @@ Rb4 Rc4 48. Rb2 b4 49. Rdb1 Nf3 50. Kg2 Rd7 51. h3 e5 52. Ne2 Rd2 53. hxg4 fxg4
 [WhiteElo "2799"]
 [BlackElo "2799"]
 [PlyCount "86"]
-[EventDate "2008.03.15"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O f5 13. Rc1 Nf6 14. Bb2 Bd6 15.
@@ -46,7 +42,6 @@ a4 h5 29. b4 h4 30. b5 Bb7 31. Rdc1 Kg6 32. Be5 Bxe5 33. Qxe5 Qf6 34. Qd4 e5
 
 [Event "Amber Rapid"]
 [Site "Nice FRA"]
-[Date "2008.03.17"]
 [Round "3"]
 [White "Kramnik, V."]
 [Black "Mamedyarov, S."]
@@ -55,7 +50,6 @@ a4 h5 29. b4 h4 30. b5 Bb7 31. Rdc1 Kg6 32. Be5 Bxe5 33. Qxe5 Qf6 34. Qd4 e5
 [WhiteElo "2799"]
 [BlackElo "2760"]
 [PlyCount "78"]
-[EventDate "2008.03.15"]
 
 1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nc3 Nc6 5. e3 Ngxe5 6. a3 a5 7. f4 Ng6 8. Bd3
 Bc5 9. Qh5 d6 10. Nf3 a4 11. Bd2 O-O 12. Ne4 Qe8 13. O-O-O f5 14. Nxc5 dxc5 15.
@@ -68,7 +62,6 @@ Nd2 0-1
 
 [Event "Cez Trophy Rapid"]
 [Site "Prague CZE"]
-[Date "2008.05.14"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Navara, D."]
@@ -77,7 +70,6 @@ Nd2 0-1
 [WhiteElo "2788"]
 [BlackElo "2672"]
 [PlyCount "65"]
-[EventDate "2008.05.14"]
 
 1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O O-O 8. Bg5
 b5 9. Ne5 Ra6 10. a4 bxa4 11. Nxc4 Nbd7 12. Nc3 c5 13. Nxa4 h6 14. Bd2 Qc7 15.
@@ -88,7 +80,6 @@ Qxb6 28. Rc8+ Kh7 29. Rb8 Qc6 30. Qf5+ g6 31. Qe5 Bc4 32. b3 Bd3 33. Bxd5 1-0
 
 [Event "Cez Trophy Rapid"]
 [Site "Prague CZE"]
-[Date "2008.05.15"]
 [Round "3"]
 [White "Kramnik, V."]
 [Black "Navara, D."]
@@ -97,7 +88,6 @@ Qxb6 28. Rc8+ Kh7 29. Rb8 Qc6 30. Qf5+ g6 31. Qe5 Bc4 32. b3 Bd3 33. Bxd5 1-0
 [WhiteElo "2788"]
 [BlackElo "2672"]
 [PlyCount "127"]
-[EventDate "2008.05.14"]
 
 1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. O-O d6 7. a3 a5 8. Ne1 Be6
 9. d3 Nge7 10. Nc2 d5 11. cxd5 Nxd5 12. Ne3 Nde7 13. Nc4 O-O 14. Bg5 f6 15. Be3
@@ -113,7 +103,6 @@ Rc1 60. Ra8+ Ke7 61. f6+ Kd6 62. f7 Nxe4+ 63. fxe4 Rg1+ 64. Kh4 1-0
 
 [Event "Sparkassen"]
 [Site "Dortmund GER"]
-[Date "2008.06.29"]
 [Round "2"]
 [White "Kramnik, V."]
 [Black "Van Wely, L."]
@@ -122,7 +111,6 @@ Rc1 60. Ra8+ Ke7 61. f6+ Kd6 62. f7 Nxe4+ 63. fxe4 Rg1+ 64. Kh4 1-0
 [WhiteElo "2788"]
 [BlackElo "2677"]
 [PlyCount "57"]
-[EventDate "2008.06.28"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. b3 Nbd7 6. Bb2 b6 7. Bd3 Bb7 8. O-O
 Bd6 9. Nbd2 O-O 10. Ne5 Qe7 11. Qf3 Rfd8 12. Qh3 h6 13. f4 Bb4 14. Ndf3 Ne4 15.
@@ -133,7 +121,6 @@ Qb5 22. Qg3 Bb6 23. Nd7 g6 24. Nf6+ Kf8 25. Be5 Rcc8 26. Qh4 h5 27. Nh7+ Ke8
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2008.08.18"]
 [Round "1"]
 [White "Kramnik, V."]
 [Black "Shirov, A."]
@@ -142,7 +129,6 @@ Qb5 22. Qg3 Bb6 23. Nd7 g6 24. Nf6+ Kf8 25. Be5 Rcc8 26. Qh4 h5 27. Nh7+ Ke8
 [WhiteElo "2788"]
 [BlackElo "2741"]
 [PlyCount "91"]
-[EventDate "2008.08.18"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 Bb7 9. a3 b4 10. Ne4 Nxe4 11. Bxe4 bxa3 12. O-O Bd6 13. Nd2 Qc7 14. Nc4 Bxh2+
@@ -156,7 +142,6 @@ Rxb6 1-0
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2008.08.26"]
 [Round "8"]
 [White "Kramnik, V."]
 [Black "Alekseev, Evgeny"]
@@ -165,7 +150,6 @@ Rxb6 1-0
 [WhiteElo "2788"]
 [BlackElo "2708"]
 [PlyCount "81"]
-[EventDate "2008.08.18"]
 
 1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. O-O d6 7. a3 Nge7 8. b4 h6
 9. Rb1 Rb8 10. d3 O-O 11. Bd2 Be6 12. Ne1 f5 13. Qa4 f4 14. e3 g5 15. b5 Na5
@@ -178,7 +162,6 @@ Kg6 41. Rb6+ 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "2"]
 [White "Kramnik, V."]
 [Black "Svidler, P."]
@@ -187,7 +170,6 @@ Kg6 41. Rb6+ 1-0
 [WhiteElo "2788"]
 [BlackElo "2738"]
 [PlyCount "52"]
-[EventDate "2008.08.29"]
 
 1. c4 e5 2. Nc3 d6 3. g3 f5 4. d4 e4 5. Nh3 Nf6 6. Bg2 Be7 7. O-O O-O 8. d5 c5
 9. Nf4 Na6 10. f3 exf3 11. exf3 Nc7 12. Re1 Re8 13. Qd3 Nd7 14. Qxf5 Ne5 15.
@@ -197,7 +179,6 @@ Ne4 Bd4+ 22. Kg2 d5 23. Bd2 Qg6 24. Re1 Nf2 25. Be3 Nd3 26. Re2 Nb4 0-1
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "6"]
 [White "Kramnik, V."]
 [Black "Carlsen, M."]
@@ -206,7 +187,6 @@ Ne4 Bd4+ 22. Kg2 d5 23. Bd2 Qg6 24. Re1 Nf2 25. Be3 Nd3 26. Re2 Nb4 0-1
 [WhiteElo "2788"]
 [BlackElo "2775"]
 [PlyCount "95"]
-[EventDate "2008.08.29"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8. cxd5
 exd5 9. Nc3 O-O 10. O-O Bb7 11. Qc2 Nbd7 12. Bf4 c6 13. Rfd1 Re8 14. Ne5 Nf8
@@ -220,7 +200,6 @@ exd3 48. Qxd3 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "8"]
 [White "Kramnik, V."]
 [Black "Tkachiev, V."]
@@ -229,7 +208,6 @@ exd3 48. Qxd3 1-0
 [WhiteElo "2788"]
 [BlackElo "2664"]
 [PlyCount "85"]
-[EventDate "2008.08.29"]
 
 1. d4 d5 2. Bg5 Nf6 3. Bxf6 exf6 4. e3 Bd6 5. c4 dxc4 6. Bxc4 O-O 7. Nc3 c6 8.
 Nf3 f5 9. Qc2 Nd7 10. Bd3 g6 11. h4 Qe7 12. h5 Nf6 13. hxg6 fxg6 14. Bc4+ Be6
@@ -242,7 +220,6 @@ Ke6 40. Kb6 Kxe5 41. Kxa5 Kd6 42. Kb6 Kd7 43. Kb7 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "10"]
 [White "Kramnik, V."]
 [Black "Gelfand, B."]
@@ -251,7 +228,6 @@ Ke6 40. Kb6 Kxe5 41. Kxa5 Kd6 42. Kb6 Kd7 43. Kb7 1-0
 [WhiteElo "2788"]
 [BlackElo "2720"]
 [PlyCount "115"]
-[EventDate "2008.08.29"]
 
 1. d4 d5 2. Bg5 h6 3. Bh4 c6 4. Nf3 Qb6 5. b3 Bf5 6. e3 e6 7. Bd3 Bxd3 8. Qxd3
 Be7 9. Bg3 Nd7 10. O-O Ngf6 11. c4 O-O 12. Nc3 a5 13. Rfd1 Qd8 14. Rac1 Bb4 15.
@@ -266,7 +242,6 @@ Ne5+ Ke6 54. Nd3 Ne3 55. c5 bxc5 56. b6 Kd6 57. b7 Kc7 58. Nxc5 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "12"]
 [White "Kramnik, V."]
 [Black "Morozevich, A."]
@@ -275,7 +250,6 @@ Ne5+ Ke6 54. Nd3 Ne3 55. c5 bxc5 56. b6 Kd6 57. b7 Kc7 58. Nxc5 1-0
 [WhiteElo "2788"]
 [BlackElo "2788"]
 [PlyCount "41"]
-[EventDate "2008.08.29"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. a3
 Bd6 9. cxd5 exd5 10. b4 a6 11. Qb3 Ne4 12. Bb2 Re8 13. a4 Re6 14. Rfd1 Rf6 15.
@@ -284,7 +258,6 @@ Bxe4 dxe4 16. Ne5 Nd7 17. b5 axb5 18. Nxb5 Nf8 19. d5 Rh6 20. h3 Bc5 21. d6 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "14"]
 [White "Kramnik, V."]
 [Black "Kamsky, G."]
@@ -293,7 +266,6 @@ Bxe4 dxe4 16. Ne5 Nd7 17. b5 axb5 18. Nxb5 Nf8 19. d5 Rh6 20. h3 Bc5 21. d6 1-0
 [WhiteElo "2788"]
 [BlackElo "2723"]
 [PlyCount "96"]
-[EventDate "2008.08.29"]
 
 1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. d4 a6 5. g3 g6 6. cxd5 cxd5 7. Bg2 Bg7 8. Ne5
 O-O 9. O-O b5 10. Bg5 Bb7 11. Qb3 Ne4 12. Bf4 Nxc3 13. bxc3 e6 14. a4 Qb6 15.
@@ -307,7 +279,6 @@ Rxd6 47. cxd6 Qd4+ 48. Kh1 Qxd6 0-1
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "17"]
 [White "Kramnik, V."]
 [Black "Grachev, B."]
@@ -316,7 +287,6 @@ Rxd6 47. cxd6 Qd4+ 48. Kh1 Qxd6 0-1
 [WhiteElo "2788"]
 [BlackElo "2640"]
 [PlyCount "129"]
-[EventDate "2008.08.29"]
 
 1. d4 d5 2. Bg5 h6 3. Bh4 c5 4. e3 Nc6 5. Nf3 g5 6. Bg3 Bg7 7. c3 Qb6 8. Qc1
 Bf5 9. Nbd2 Rc8 10. dxc5 Qxc5 11. Be2 Nf6 12. O-O O-O 13. Nd4 Bg6 14. Nxc6 Qxc6
@@ -333,7 +303,6 @@ Rf7 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "18"]
 [White "Kramnik, V."]
 [Black "Ponomariov, R."]
@@ -342,7 +311,6 @@ Rf7 1-0
 [WhiteElo "2788"]
 [BlackElo "2718"]
 [PlyCount "59"]
-[EventDate "2008.08.29"]
 
 1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Bc4 Nf6 5. Qe2 c6 6. e5 Nd5 7. O-O O-O 8. h3
 dxe5 9. dxe5 Qc7 10. Re1 h6 11. Nbd2 Bf5 12. Nf1 Nd7 13. Ng3 Be6 14. Bb3 Nc5
@@ -353,7 +321,6 @@ Bf6 28. Nh6 Kg7 29. Qf7+ Kh8 30. Nf5+ 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "20"]
 [White "Kramnik, V."]
 [Black "Alekseev, Evgeny"]
@@ -362,7 +329,6 @@ Bf6 28. Nh6 Kg7 29. Qf7+ Kh8 30. Nf5+ 1-0
 [WhiteElo "2788"]
 [BlackElo "2708"]
 [PlyCount "134"]
-[EventDate "2008.08.29"]
 
 1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 a5 7. O-O d6 8. Ne1 Be6
 9. d3 Nge7 10. Nc2 d5 11. cxd5 Nxd5 12. Ne3 Nde7 13. Nc4 O-O 14. Bg5 f6 15. Be3
@@ -379,7 +345,6 @@ Bf3 Ke7 61. Qg4 Kd6 62. Qe4 Ke7 63. h5 Qg5 64. Ke2 Kf8 65. Kf2 Ke7 66. Ke2 Kf8
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "24"]
 [White "Kramnik, V."]
 [Black "Karpov, Ana"]
@@ -388,7 +353,6 @@ Bf3 Ke7 61. Qg4 Kd6 62. Qe4 Ke7 63. h5 Qg5 64. Ke2 Kf8 65. Kf2 Ke7 66. Ke2 Kf8
 [WhiteElo "2788"]
 [BlackElo "2651"]
 [PlyCount "47"]
-[EventDate "2008.08.29"]
 
 1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 cxd4 5. exd4 b6 6. c4 Bb7 7. Nc3 Be7 8. Bd3
 d5 9. Bxf6 Bxf6 10. cxd5 exd5 11. Bb5+ Kf8 12. O-O a6 13. Ba4 Nc6 14. Re1 b5
@@ -398,7 +362,6 @@ g3 h5 22. h4 Rf8 23. Ne2 Qc8 24. Nf4 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "26"]
 [White "Kramnik, V."]
 [Black "Movsesian, S."]
@@ -407,7 +370,6 @@ g3 h5 22. h4 Rf8 23. Ne2 Qc8 24. Nf4 1-0
 [WhiteElo "2788"]
 [BlackElo "2723"]
 [PlyCount "45"]
-[EventDate "2008.08.29"]
 
 1. d4 e6 2. c4 Bb4+ 3. Bd2 Qe7 4. g3 f5 5. Bg2 Nf6 6. Nh3 Bxd2+ 7. Qxd2 d6 8.
 Nf4 e5 9. dxe5 dxe5 10. Nd5 Nxd5 11. cxd5 O-O 12. Nc3 e4 13. O-O-O Nd7 14. d6
@@ -417,7 +379,6 @@ cxd6 15. Qxd6 Qf7 16. f3 exf3 17. exf3 Nb6 18. Rhe1 f4 19. Re7 Qh5 20. g4 Qxh2
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "28"]
 [White "Kramnik, V."]
 [Black "Grischuk, A."]
@@ -426,7 +387,6 @@ cxd6 15. Qxd6 Qf7 16. f3 exf3 17. exf3 Nb6 18. Rhe1 f4 19. Re7 Qh5 20. g4 Qxh2
 [WhiteElo "2788"]
 [BlackElo "2728"]
 [PlyCount "61"]
-[EventDate "2008.08.29"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 13. Ba3 h6 14. Ne6 Bxe6 15.
@@ -437,7 +397,6 @@ Rac1 Rf7 28. Rc8+ Kh7 29. Rec1 Rd7 30. R8c7 Rd4 31. Nf6+ 1-0
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "33"]
 [White "Kramnik, V."]
 [Black "Ivanchuk, V."]
@@ -446,7 +405,6 @@ Rac1 Rf7 28. Rc8+ Kh7 29. Rec1 Rd7 30. R8c7 Rd4 31. Nf6+ 1-0
 [WhiteElo "2788"]
 [BlackElo "2781"]
 [PlyCount "82"]
-[EventDate "2008.08.29"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. dxc5 Qa5 8. Rc1
 dxc4 9. Bxc4 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Qa6 13. e4 Rd8 14. Qe1 Nb4 15.
@@ -459,7 +417,6 @@ Ne4 41. Qb6 Bxg3+ 0-1
 
 [Event "WCh"]
 [Site "Bonn GER"]
-[Date "2008.10.17"]
 [Round "3"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -468,7 +425,6 @@ Ne4 41. Qb6 Bxg3+ 0-1
 [WhiteElo "2772"]
 [BlackElo "2783"]
 [PlyCount "82"]
-[EventDate "2008.10.14"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6 13. O-O Qb6 14. Qe2 Bb7 15.
@@ -481,7 +437,6 @@ Qf1+ 41. Ka2 Bb1+ 0-1
 
 [Event "WCh"]
 [Site "Bonn GER"]
-[Date "2008.10.20"]
 [Round "5"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -490,7 +445,6 @@ Qf1+ 41. Ka2 Bb1+ 0-1
 [WhiteElo "2772"]
 [BlackElo "2783"]
 [PlyCount "70"]
-[EventDate "2008.10.14"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6 13. O-O Qb6 14. Qe2 Bb7 15.
@@ -502,7 +456,6 @@ Ke7 22. Ra3 Rac8 23. Rxc8 Rxc8 24. Ra1 Qc5 25. Qg4 Qe5 26. Nf3 Qf6 27. Re1 Rc5
 
 [Event "WCh"]
 [Site "Bonn GER"]
-[Date "2008.10.27"]
 [Round "10"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -511,7 +464,6 @@ Ke7 22. Ra3 Rac8 23. Rxc8 Rxc8 24. Ra1 Qc5 25. Qg4 Qe5 26. Nf3 Qf6 27. Re1 Rc5
 [WhiteElo "2772"]
 [BlackElo "2783"]
 [PlyCount "57"]
-[EventDate "2008.10.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
 cxd5 Nxd5 9. Qb3 Qa5 10. Bd2 Nc6 11. Nxc6 bxc6 12. O-O Bxc3 13. bxc3 Ba6 14.
@@ -522,7 +474,6 @@ Rfd1 Qc5 15. e4 Bc4 16. Qa4 Nb6 17. Qb4 Qh5 18. Re1 c5 19. Qa5 Rfc8 20. Be3 Be2
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.19"]
 [Round "6"]
 [White "Kramnik, V."]
 [Black "Short, N."]
@@ -531,7 +482,6 @@ Rfd1 Qc5 15. e4 Bc4 16. Qa4 Nb6 17. Qb4 Qh5 18. Re1 c5 19. Qa5 Rfc8 20. Be3 Be2
 [WhiteElo "2772"]
 [BlackElo "2642"]
 [PlyCount "93"]
-[EventDate "2008.11.13"]
 
 1. d4 Nc6 2. Nf3 d5 3. c4 Bg4 4. Nc3 e6 5. cxd5 exd5 6. Bf4 Bd6 7. Bg3 Nge7 8.
 e3 Qd7 9. a3 O-O 10. Bd3 a6 11. Bxd6 Bxf3 12. Qxf3 Qxd6 13. Qg3 Rfd8 14. b4 g6

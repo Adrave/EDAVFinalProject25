@@ -1,6 +1,5 @@
 [Event "It (cat.7)"]
 [Site "Budapest (Hungary)"]
-[Date "2006.02.17"]
 [Round "13"]
 [White "Caruana Fabiano (USA)"]
 [Black "Nemeth Miklos (HUN)"]
@@ -26,7 +25,6 @@ h5 48.Ne6 Rf5 49.Nc5 Kg6 50.Nxb7 h4 51.Rxh4 Rf3+ 52.Kd4 Rd3+
 
 [Event "Ch Madrid (final)"]
 [Site "Madrid (Spain)"]
-[Date "2006.03.15"]
 [Round "9"]
 [White "Caruana Fabiano (USA)"]
 [Black "Vazquez Renier (ESP)"]
@@ -50,7 +48,6 @@ Rh8 43.Kf3 Kxc4 44.Kf4 Kb4 45.Kxf5 Ka3 46.Kg6 1-0
 
 [Event "It \"Young Stars of the World\" (cat.7)"]
 [Site "Kirishi (Russia)"]
-[Date "2006.05.16"]
 [Round "7"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Popov Ivan (RUS)"]
@@ -71,7 +68,6 @@ Nf8 20.cxd4 Qxd4 21.exf5 Qxb2 22.Rd1 Bb7 23.Be4 Qe5 24.Qf3 Kh8
 
 [Event "It (open)"]
 [Site "Salou (Spain)"]
-[Date "2006.06.11"]
 [Round "5"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Garcia Castro Pablo (ESP)"]
@@ -97,7 +93,6 @@ Ba2 53.a6 Kc7 54.Bc5 Bb1 55.f6 Ba2 56.e5 1-0
 
 [Event "It (open)"]
 [Site "Salou (Spain)"]
-[Date "2006.06.13"]
 [Round "7"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Jakobsen Ole (DEN)"]
@@ -121,7 +116,6 @@ c5 20.Rfe1 Bb7 21.Ne5 Bxe5 22.Rxe5 Nd6 23.Rae1 Qc8 24.Bd5 Qd7
 
 [Event "It (open)"]
 [Site "Andorra la Vella (Andorra)"]
-[Date "2006.07.11"]
 [Round "4"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Roktim Bandyopadhyay (IND)"]
@@ -147,7 +141,6 @@ Kg8 53.f4 Kh8 54.f5 Kg8 55.f6 Qxf6 56.Qe6+ Qxe6+ 57.Kxe6 1-0
 
 [Event "It (open)"]
 [Site "Andorra la Vella (Andorra)"]
-[Date "2006.07.15"]
 [Round "8"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Villavicencio Adalberto (ESP)"]
@@ -169,7 +162,6 @@ Qg5+ 25.Kb1 Bg7 26.Bxe6+ Kxe6 27.d7 Rc7 28.d8Q Rxd8 29.Rxd8 Be5
 
 [Event "It (open)"]
 [Site "Badalona (Spain)"]
-[Date "2006.08.??"]
 [Round "5"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Munoz Pantoja Miguel (PER)"]
@@ -195,7 +187,6 @@ h2 53.Rb4+ 1-0
 
 [Event "Ch Italy (juniors) (under 20)"]
 [Site "Bratto (Italy)"]
-[Date "2006.08.21"]
 [Round "3"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Lain Luigi (ITA)"]
@@ -217,7 +208,6 @@ f6 31.e6 Nd6 32.Bxh7 f5 33.Rh4 Kg7 34.Qh6+ 1-0
 
 [Event "Cup Mitropa"]
 [Site "Brno (Czech Republic)"]
-[Date "2006.09.??"]
 [Round "9"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Braun Arik (GER)"]
@@ -244,7 +234,6 @@ Qe2+ 52.Kd6 Qa6+ 53.Kc5 Qa5+ 54.Kc4 Qa6+ 55.Kb3 Qb6+ 56.Qb4 Qe3+
 
 [Event "Ch Madrid (final)"]
 [Site "Madrid (Spain)"]
-[Date "2006.03.02"]
 [Round "2"]
 [White "Caruana Fabiano (USA)"]
 [Black "Pastor Alonso De Prado Alberto"]
@@ -253,7 +242,6 @@ Qe2+ 52.Kd6 Qa6+ 53.Kc5 Qa5+ 54.Kc4 Qa6+ 55.Kb3 Qb6+ 56.Qb4 Qe3+
 [WhiteElo "2409"]
 [BlackElo "2192"]
 [PlyCount "83"]
-[EventDate "2006.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Nd4 5. Nxd4 exd4 6. O-O c6 7. Bc4 d6 8.
 Nd2 Be7 9. Nf3 Qb6 10. a4 a5 11. c3 dxc3 12. bxc3 O-O 13. Ba3 Qc7 14. Qb3 h6
@@ -266,7 +254,6 @@ Rg8 35. Rf1 Be8 36. Qe3 Bg5 37. Qf2 Qe7 38. Bxg5 Rxg5 39. Qh4+ Kg7 40. Rd2 Bd7
 
 [Event "Ch Italy (juniors) (under 20)"]
 [Site "Bratto (Italy)"]
-[Date "2006.08.23"]
 [Round "5"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Stromboli Carlo (ITA)"]
@@ -275,7 +262,6 @@ Rg8 35. Rf1 Be8 36. Qe3 Bg5 37. Qf2 Qe7 38. Bxg5 Rxg5 39. Qh4+ Kg7 40. Rd2 Bd7
 [WhiteElo "2444"]
 [BlackElo "2188"]
 [PlyCount "71"]
-[EventDate "2006.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Bb7 8. c3
 d6 9. d4 Bb6 10. Bg5 h6 11. Bxf6 Qxf6 12. Bd5 Rb8 13. dxe5 dxe5 14. Na3 bxa4
@@ -287,7 +273,6 @@ Bb8 28. Qd3 Nd6 29. Nxd6 cxd6 30. Qxa6 Qf4 31. Qd3 Rc8 32. g3 Qc1+ 33. Kg2 Qxc3
 
 [Event "66. ch-ITA"]
 [Site "Cremona ITA"]
-[Date "2006.11.27"]
 [Round "6"]
 [White "Caruana, Fabiano"]
 [Black "Contin, Daniel"]
@@ -295,7 +280,6 @@ Bb8 28. Qd3 Nd6 29. Nxd6 cxd6 30. Qxa6 Qf4 31. Qd3 Rc8 32. g3 Qc1+ 33. Kg2 Qxc3
 [WhiteElo "2474"]
 [BlackElo "2386"]
 [ECO "C16"]
-[EventDate "2006.11.21"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 Bf8 6. Bb5 c6 7. Ba4 a5 8. 
 a3 b5 9. Bb3 Na6 10. Be3 Ne7 11. Nge2 h5 12. Qh3 Nf5 13. Nd1 a4 14. Ba2 c5
@@ -310,7 +294,6 @@ Rf7 Rf8 52. Rxf8 Bxf8 53. Rf7+ Ke8 54. Rf6 Be7 55. Rxe6 Bd7 56. Rxg6 1-0
 
 [Event "3. Open"]
 [Site "Calvia ESP"]
-[Date "2006.10.24"]
 [Round "5"]
 [White "Caruana, Fabiano"]
 [Black "Grant, Jonathan I M"]
@@ -318,7 +301,6 @@ Rf7 Rf8 52. Rxf8 Bxf8 53. Rf7+ Ke8 54. Rf6 Be7 55. Rxe6 Bd7 56. Rxg6 1-0
 [WhiteElo "2474"]
 [BlackElo "2271"]
 [ECO "B12"]
-[EventDate "2006.10.20"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Ne7 6. a3 dxc4 7. Bxc4 Nd7 8. 
 Nge2 Nb6 9. Bb3 Ned5 10. O-O Qd7 11. Ng3 Bg6 12. f4 Rd8 13. Qf3 Be7 14. 
@@ -331,7 +313,6 @@ Kh2 Rb8 39. f5 exf5 40. gxf5 Nde3 41. Bf6+ Kg8 42. fxg6 Qd5 43. g7 1-0
 
 [Event "66. ch-ITA"]
 [Site "Cremona ITA"]
-[Date "2006.12.02"]
 [Round "10"]
 [White "Caruana, Fabiano"]
 [Black "Garcia Palermo, Carlos"]
@@ -339,7 +320,6 @@ Kh2 Rb8 39. f5 exf5 40. gxf5 Nde3 41. Bf6+ Kg8 42. fxg6 Qd5 43. g7 1-0
 [WhiteElo "2474"]
 [BlackElo "2452"]
 [ECO "B12"]
-[EventDate "2006.11.21"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Ne7 6. a3 dxc4 7. Bxc4 Nd7 8. 
 Nge2 Nb6 9. Bb3 Nbd5 10. O-O Bg6 11. Ng3 Qd7 12. Qe2 h5 13. Bg5 Nf5 14. 
@@ -352,7 +332,6 @@ axb4 Rhh8 27. g4 Rhg8 28. Rc3 fxg4 29. b5 cxb5 30. f5+ gxf5 31. Qc1 f4 32.
 
 [Event "3. Open"]
 [Site "Calvia ESP"]
-[Date "2006.10.28"]
 [Round "9"]
 [White "Caruana, Fabiano"]
 [Black "Zawadzka, Jolanta"]
@@ -360,7 +339,6 @@ axb4 Rhh8 27. g4 Rhg8 28. Rc3 fxg4 29. b5 cxb5 30. f5+ gxf5 31. Qc1 f4 32.
 [WhiteElo "2474"]
 [BlackElo "2353"]
 [ECO "B67"]
-[EventDate "2006.10.20"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 
 8. O-O-O Bd7 9. f4 h6 10. Bh4 g5 11. fxg5 Ng4 12. Be2 Nge5 13. Nf3 Be7 14.
@@ -376,7 +354,6 @@ b5 Nd7 56. Kd5 Nf6+ 57. Kxe5 Nd7+ 58. Kd5 Nb8 59. b6+ Kd7 1-0
 
 [Event "4. Young Stars of the World"]
 [Site "Kirishi RUS"]
-[Date "2006.05.18"]
 [Round "9"]
 [White "Caruana, Fabiano"]
 [Black "Narayanan, S."]
@@ -384,7 +361,6 @@ b5 Nd7 56. Kd5 Nf6+ 57. Kxe5 Nd7+ 58. Kd5 Nb8 59. b6+ Kd7 1-0
 [WhiteElo "2421"]
 [BlackElo "2170"]
 [ECO "C54"]
-[EventDate "2006.05.09"]
 
 1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 Nc6 5. c3 a6 6. O-O Ba7 7. Re1 d6 8. 
 Nbd2 O-O 9. Nf1 Na5 10. Ng3 Nxc4 11. dxc4 Kh8 12. Be3 Ng4 13. Bxa7 Rxa7 
@@ -397,7 +373,6 @@ bxc5 Rb1+ 33. Qxb1 Qxa4 34. Qb7 h6 35. c6 Qc4 36. c7 Qc1+ 37. Kh2 Qf4+ 38.
 
 [Event "3. Open"]
 [Site "Calvia ESP"]
-[Date "2006.10.20"]
 [Round "1"]
 [White "Caruana, Fabiano"]
 [Black "Rhein, Klaus"]
@@ -405,7 +380,6 @@ bxc5 Rb1+ 33. Qxb1 Qxa4 34. Qb7 h6 35. c6 Qc4 36. c7 Qc1+ 37. Kh2 Qf4+ 38.
 [WhiteElo "2474"]
 [BlackElo "2082"]
 [ECO "B48"]
-[EventDate "2006.10.20"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 
 8. O-O Ne5 9. Nf3 Nfg4 10. Nxe5 Nxe3 11. Qh5 g6 12. Qf3 Qxe5 13. fxe3 f6 
@@ -419,7 +393,6 @@ bxc5 Rb1+ 33. Qxb1 Qxa4 34. Qb7 h6 35. c6 Qc4 36. c7 Qc1+ 37. Kh2 Qf4+ 38.
 
 [Event "66. ch-ITA"]
 [Site "Cremona ITA"]
-[Date "2006.11.23"]
 [Round "2"]
 [White "Caruana, Fabiano"]
 [Black "Brunello, Sabino"]
@@ -427,7 +400,6 @@ bxc5 Rb1+ 33. Qxb1 Qxa4 34. Qb7 h6 35. c6 Qc4 36. c7 Qc1+ 37. Kh2 Qf4+ 38.
 [WhiteElo "2474"]
 [BlackElo "2460"]
 [ECO "C90"]
-[EventDate "2006.11.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. 
 Nbd2 b5 9. Bb3 Na5 10. Bc2 c5 11. Re1 Re8 12. Nf1 Bf8 13. Ng3 g6 14. d4 
@@ -438,7 +410,6 @@ Qd4 Bxf4 27. Nxf4 Qxf4 28. Rf1 Qh4 29. Qa7 1-0
 
 [Event "33. Annual Eastern Open"]
 [Site "Washington, DC USA"]
-[Date "2006.12.30"]
 [Round "8"]
 [White "Caruana, Fabiano"]
 [Black "Zimmer, R."]
@@ -446,7 +417,6 @@ Qd4 Bxf4 27. Nxf4 Qxf4 28. Rf1 Qh4 29. Qa7 1-0
 [WhiteElo "2474"]
 [BlackElo "2236"]
 [ECO "B45"]
-[EventDate "2006.12.27"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 
 Nd5 8. Ne4 Qa5+ 9. c3 Qc7 10. f4 Qb6 11. c4 Bb4+ 12. Ke2 Ba6 13. Kf3 f5 
@@ -462,7 +432,6 @@ Qf3+ 56. Qf2 Qh1+ 57. Ke2 Qe4+ 58. Kd2 1-0
 
 [Event "4. Young Stars of the World"]
 [Site "Kirishi RUS"]
-[Date "2006.05.20"]
 [Round "11"]
 [White "Caruana, Fabiano"]
 [Black "Kulikov, Alex RUS"]
@@ -470,7 +439,6 @@ Qf3+ 56. Qf2 Qh1+ 57. Ke2 Qe4+ 58. Kd2 1-0
 [WhiteElo "2421"]
 [BlackElo "2038"]
 [ECO "B00"]
-[EventDate "2006.05.09"]
 
 1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bb5 Bd7 6. O-O e6 7. d4 a6 
 8. Bc4 Bb4 9. Bd2 Nge7 10. a3 Bxc3 11. Bxc3 Qh5 12. Re1 O-O-O 13. Bd2 Nf5 
@@ -480,7 +448,6 @@ Bxd6 cxd6 21. axb5 Bxb5 22. Ra5 1-0
 
 [Event "Ch Madrid (final)"]
 [Site "Madrid ESP"]
-[Date "2006.03.07"]
 [Round "4"]
 [White "Caruana, Fabiano"]
 [Black "Vallejo Diaz, Javier"]
@@ -498,7 +465,6 @@ Rxf7 1-0
 
 [Event "33. Annual Eastern Open"]
 [Site "Washington, DC USA"]
-[Date "2006.12.28"]
 [Round "4"]
 [White "Caruana, Fabiano"]
 [Black "Ivanov, Alexander USA"]
@@ -506,7 +472,6 @@ Rxf7 1-0
 [WhiteElo "2474"]
 [BlackElo "2587"]
 [ECO "B00"]
-[EventDate "2006.12.27"]
 
 1. e4 b6 2. d4 Bb7 3. Bd3 Nf6 4. Nd2 e6 5. Ngf3 d5 6. e5 Nfd7 7. O-O c5 8.
  c3 Ba6 9. Bxa6 Nxa6 10. Ne1 Be7 11. f4 O-O 12. Ndf3 b5 13. Nc2 b4 14. Qe2
@@ -518,7 +483,6 @@ Re7 33. Be5 Qh7 34. hxg6 Nxg6 35. Qg5 Kf7 1-0
 
 [Event "I Patrimonio de la Humanidad Open"]
 [Site "Alcala de Henares ESP"]
-[Date "2006.10.12"]
 [Round "6"]
 [White "Caruana, Fabiano"]
 [Black "Candela Perez, Jose"]
@@ -526,7 +490,6 @@ Re7 33. Be5 Qh7 34. hxg6 Nxg6 35. Qg5 Kf7 1-0
 [WhiteElo "2474"]
 [BlackElo "2406"]
 [ECO "B84"]
-[EventDate "2006.10.07"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Nbd7 
 8. O-O Nc5 9. f3 b6 10. Qe1 Bb7 11. Qg3 Qc7 12. Rfd1 g6 13. a4 Bg7 14. a5 
@@ -536,14 +499,12 @@ bxa5 15. Ndb5 axb5 16. Nxb5 Qc6 17. Nxd6+ Kf8 18. Bb5 Qc7 19. Nxb7 Qxb7
 
 [Event "VIII Open"]
 [Site "Salou ESP"]
-[Date "2006.06.07"]
 [Round "1"]
 [White "Caruana,F"]
 [Black "Reves Balleste,J"]
 [Result "1-0"]
 [WhiteElo "2421"]
 [BlackElo "1975"]
-[EventDate "2006.06.07"]
 [ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 Bxb1 5. Rxb1 dxc4 6. Bxc4 e6 7. Ne2 Bb4+

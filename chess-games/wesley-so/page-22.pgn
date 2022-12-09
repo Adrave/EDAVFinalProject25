@@ -1,6 +1,5 @@
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.17"]
 [Round "5.3"]
 [White "So, W."]
 [Black "Adhiban, Baskaran"]
@@ -9,7 +8,6 @@
 [WhiteElo "2792"]
 [BlackElo "2655"]
 [PlyCount "159"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -32,7 +30,6 @@ Ra8 79. Kf5 Kc6 80. Rd8 1-0
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.28"]
 [Round "13.7"]
 [White "So, W."]
 [Black "Hou Yifan"]
@@ -41,7 +38,6 @@ Ra8 79. Kf5 Kc6 80. Rd8 1-0
 [WhiteElo "2792"]
 [BlackElo "2680"]
 [PlyCount "59"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -56,7 +52,6 @@ Bg6 fxg5 28. Bxe8 gxh4 29. Rg5 Rxe8 30. Rxh5+ 1-0
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.26"]
 [Round "11.7"]
 [White "So, W."]
 [Black "Jones, G."]
@@ -65,7 +60,6 @@ Bg6 fxg5 28. Bxe8 gxh4 29. Rg5 Rxe8 30. Rxh5+ 1-0
 [WhiteElo "2792"]
 [BlackElo "2640"]
 [PlyCount "123"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -85,7 +79,6 @@ Kg8 60. Kg6 Kf8 61. Re5 Nc4 62. Rf5+ 1-0
 
 [Event "FIDE Candidates 2018"]
 [Site "Berlin GER"]
-[Date "2018.03.16"]
 [Round "6.1"]
 [White "So, W."]
 [Black "Aronian, L."]
@@ -94,7 +87,6 @@ Kg8 60. Kg6 Kf8 61. Re5 Nc4 62. Rf5+ 1-0
 [WhiteElo "2799"]
 [BlackElo "2794"]
 [PlyCount "155"]
-[EventDate "2018.03.10"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GER"]
@@ -116,7 +108,6 @@ Rd4 73. Qf5+ Ke8 74. Qe5 Rb4 75. Kg4 Kf8 76. Qf5+ Ke8 77. Qe6 Rd4 78. Qe5 1-0
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.28"]
 [Round "11.6"]
 [White "So,W"]
 [Black "Aronian,L"]
@@ -130,7 +121,6 @@ Rd4 73. Qf5+ Ke8 74. Qe5 Rb4 75. Kg4 Kf8 76. Qf5+ Ke8 77. Qe6 Rd4 78. Qe5 1-0
 [Variation "closed, 5.Nf3"]
 [WhiteFideId "5202213"]
 [BlackFideId "13300474"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Bxc6
 bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qa4 e5 12. dxe5 Qxe5 13. Nc3 Ne4 14. Qxc4
@@ -142,7 +132,6 @@ Ba4 34. Bg7 Bb5 35. Bd4 Ba4 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.21"]
 [Round "4.2"]
 [White "So,W"]
 [Black "Vitiugov,N"]
@@ -156,7 +145,6 @@ Ba4 34. Bg7 Bb5 35. Bd4 Ba4 1/2-1/2
 [Variation "closed"]
 [WhiteFideId "5202213"]
 [BlackFideId "4152956"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
 Bd7 9. c3 O-O 10. d4 h6 11. Nbd2 exd4 12. cxd4 Nb4 13. Nf1 c5 14. e5 dxe5 15.
@@ -167,7 +155,6 @@ Kg8 28. Nfe5 Rxf1+ 29. Rxf1 Nxe5 30. Nxe5 Nc5 1/2-1/2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.12"]
 [Round "3.26"]
 [White "So,W"]
 [Black "Volokitin,And"]
@@ -181,7 +168,6 @@ Kg8 28. Nfe5 Rxf1+ 29. Rxf1 Nxe5 30. Nxe5 Nc5 1/2-1/2
 [Variation "closed"]
 [WhiteFideId "5202213"]
 [BlackFideId "14107090"]
-[EventDate "2019.10.10"]
 
 1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 g6 6. b3 Bh6 7. f4 f5 8. Bb2
 Nf6 9. O-O-O Rf8 10. exf5 Bxf5 11. Bb5 Qb6 12. Nge2 Ne4 13. Nxe4 Bxe4 14. Bxc6+
@@ -192,7 +178,6 @@ Qa5+ 1/2-1/2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.10"]
 [Round "1.3"]
 [White "So,W"]
 [Black "Moiseenko,A1"]
@@ -206,7 +191,6 @@ Qa5+ 1/2-1/2
 [Variation "ultra-symmetrical variation"]
 [WhiteFideId "5202213"]
 [BlackFideId "14102560"]
-[EventDate "2019.10.10"]
 
 1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. b3 d6 6. Bb2 e5 7. e3 Nge7 8. Nge2
 O-O 9. O-O Be6 10. Nd5 Qd7 11. Nec3 Rad8 12. Re1 Bh3 13. Bh1 Nxd5 14. Nxd5 Ne7
@@ -217,7 +201,6 @@ Be4 Rb2 28. Rxd6 Be6 29. Rd3 f5 30. Bd5 Kf6 31. Bxe6 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.4"]
 [White "So,W"]
 [Black "Mamedyarov,S"]
@@ -231,7 +214,6 @@ Be4 Rb2 28. Rxd6 Be6 29. Rd3 f5 30. Bd5 Kf6 31. Bxe6 1/2-1/2
 [Variation "exchange variation"]
 [WhiteFideId "5202213"]
 [BlackFideId "13401319"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
 Rc1 O-O 9. Qd2 Nd7 10. Nf3 Qc7 11. Bh6 e5 12. Bxg7 Kxg7 13. h4 h5 14. Bd3 Qd6
@@ -241,7 +223,6 @@ Rc1 O-O 9. Qd2 Nd7 10. Nf3 Qc7 11. Bh6 e5 12. Bxg7 Kxg7 13. h4 h5 14. Bd3 Qd6
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.28"]
 [White "So,W"]
 [Black "Mamedyarov,S"]
@@ -255,7 +236,6 @@ Rc1 O-O 9. Qd2 Nd7 10. Nf3 Qc7 11. Bh6 e5 12. Bxg7 Kxg7 13. h4 h5 14. Bd3 Qd6
 [Variation "Harrwitz attack"]
 [WhiteFideId "5202213"]
 [BlackFideId "13401319"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. Bg5 Ne4 3. Bf4 Nf6 4. c4 e6 5. Nc3 d5 6. e3 Bb4 7. Qc2 O-O 8. a3
 Bxc3+ 9. Qxc3 c5 10. dxc5 Ne4 11. Qc2 Nc6 12. O-O-O Qa5 13. Bd3 Nxc5 14. Bxh7+
@@ -265,7 +245,6 @@ Kh8 15. Nf3 dxc4 16. Ng5 e5 17. Bg3 f6 18. Bg8 Nd3+ 19. Rxd3 cxd3 20. Qxd3 e4
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.02"]
 [Round "1.26"]
 [White "So,W"]
 [Black "Mamedyarov,S"]
@@ -278,7 +257,6 @@ Kh8 15. Nf3 dxc4 16. Ng5 e5 17. Bg3 f6 18. Bg8 Nd3+ 19. Rxd3 cxd3 20. Qxd3 e4
 [Opening "King's Indian defence"]
 [WhiteFideId "5202213"]
 [BlackFideId "13401319"]
-[EventDate "2019.09.02"]
 
 1. d4 Nf6 2. c4 g6 3. f3 c5 4. dxc5 Bg7 5. e4 O-O 6. Nc3 Na6 7. Be3 b6 8. cxb6
 axb6 9. Nge2 e6 10. Qd2 d5 11. cxd5 exd5 12. Nxd5 Nxd5 13. exd5 Nc5 14. Nd4 Qxd5
@@ -289,7 +267,6 @@ Rd2 Rd5 22. b3 Nc5 23. b4 Re8 24. Bf2 Na6 25. b5 Nc7 26. Rfd1 Red8 27. Nb3 Rxd2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.20"]
 [Round "10.9"]
 [White "So,W"]
 [Black "Robson,R"]
@@ -303,7 +280,6 @@ Rd2 Rd5 22. b3 Nc5 23. b4 Re8 24. Bf2 Na6 25. b5 Nc7 26. Rfd1 Red8 27. Nb3 Rxd2
 [Variation "4.e3"]
 [WhiteFideId "5202213"]
 [BlackFideId "2023970"]
-[EventDate "2019.10.10"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Ne5 e6 8. Nd2 Nbd7
 9. h4 dxc4 10. Nxg6 hxg6 11. g5 Nd5 12. Nxc4 Bb4+ 13. Bd2 Qe7 14. a3 Bxd2+ 15.
@@ -321,7 +297,6 @@ Rf2 Ke1 68. Rf3 Nd2 69. Re3+ Kd1 70. Re6 Nf1 71. Re5 Ng3 72. Rg5 Nf1 73. Rg2 Ke1
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.18"]
 [Round "8.5"]
 [White "So,W"]
 [Black "Alekseenko,K"]
@@ -335,7 +310,6 @@ Rf2 Ke1 68. Rf3 Nd2 69. Re3+ Kd1 70. Re6 Nf1 71. Re5 Ng3 72. Rg5 Nf1 73. Rg2 Ke1
 [Variation "classical variation"]
 [WhiteFideId "5202213"]
 [BlackFideId "4135539"]
-[EventDate "2019.10.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d5 6. Bg5 c5 7. dxc5 dxc4 8. e3
 h6 9. Bh4 Qa5 10. Bxf6 gxf6 11. Bxc4 Qxc5 12. Bb3 Nc6 13. O-O Bxc3 14. Rac1 Bb4
@@ -348,7 +322,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "Superbet Rapid 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.06"]
 [Round "2.3"]
 [White "So,W"]
 [Black "Anand,V"]
@@ -357,7 +330,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "5000017"]
 [BlackTitle "GM"]
 [ECO "A09"]
-[EventDate "2019.11.06"]
 [Opening "Reti"]
 [Variation "advance variation"]
 [WhiteElo "2760"]
@@ -377,7 +349,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "Superbet Blitz 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.09"]
 [Round "2.5"]
 [White "So,W"]
 [Black "Giri,A"]
@@ -386,7 +357,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "24116068"]
 [BlackTitle "GM"]
 [ECO "A20"]
-[EventDate "2019.11.09"]
 [Opening "English opening"]
 [WhiteElo "2760"]
 [WhiteFideId "5202213"]
@@ -404,7 +374,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "Superbet Blitz 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.09"]
 [Round "8.2"]
 [White "So,W"]
 [Black "Anand,V"]
@@ -413,7 +382,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "5000017"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.11.09"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2760"]
 [WhiteFideId "5202213"]
@@ -430,7 +398,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.4"]
 [White "So,W"]
 [Black "Vachier Lagrave,M"]
@@ -439,7 +406,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "623539"]
 [BlackTitle "GM"]
 [ECO "B90"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Najdorf, Adams attack"]
 [WhiteElo "2767"]
@@ -462,7 +428,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.8"]
 [White "So,W"]
 [Black "Vachier Lagrave,M"]
@@ -471,7 +436,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "623539"]
 [BlackTitle "GM"]
 [ECO "B90"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Najdorf, Adams attack"]
 [WhiteElo "2767"]
@@ -490,7 +454,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.14"]
 [White "So,W"]
 [Black "Vachier Lagrave,M"]
@@ -499,7 +462,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "623539"]
 [BlackTitle "GM"]
 [ECO "B65"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
 [WhiteElo "2767"]
@@ -519,7 +481,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.6"]
 [White "So,W"]
 [Black "Vachier Lagrave,M"]
@@ -528,7 +489,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "623539"]
 [BlackTitle "GM"]
 [ECO "B90"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Najdorf, Adams attack"]
 [WhiteElo "2767"]
@@ -547,7 +507,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.19"]
 [Round "2.30"]
 [White "So,W"]
 [Black "Vachier Lagrave,M"]
@@ -556,7 +515,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "623539"]
 [BlackTitle "GM"]
 [ECO "B13"]
-[EventDate "2019.09.02"]
 [Opening "Caro-Kann"]
 [Variation "exchange, Rubinstein variation"]
 [WhiteElo "2767"]
@@ -579,7 +537,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.05"]
 [Round "3.6"]
 [White "So,W"]
 [Black "Artemiev,V"]
@@ -588,7 +545,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "24101605"]
 [BlackTitle "GM"]
 [ECO "B28"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "O'Kelly variation"]
 [WhiteElo "2767"]
@@ -610,7 +566,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.05"]
 [Round "3.24"]
 [White "So,W"]
 [Black "Artemiev,V"]
@@ -619,7 +574,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "24101605"]
 [BlackTitle "GM"]
 [ECO "B12"]
-[EventDate "2019.09.02"]
 [Opening "Caro-Kann"]
 [Variation "advance variation"]
 [WhiteElo "2767"]
@@ -638,7 +592,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.05"]
 [Round "3.22"]
 [White "So,W"]
 [Black "Artemiev,V"]
@@ -647,7 +600,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "24101605"]
 [BlackTitle "GM"]
 [ECO "B00"]
-[EventDate "2019.09.02"]
 [Opening "Owen defence"]
 [WhiteElo "2767"]
 [WhiteFideId "5202213"]
@@ -665,7 +617,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.05"]
 [Round "3.18"]
 [White "So,W"]
 [Black "Artemiev,V"]
@@ -674,7 +625,6 @@ Kh4 Kg7 42. Kh5 Kh7 43. Kh4 Kg7 44. Kh5 Kh7 45. Kh4 1/2-1/2
 [BlackFideId "24101605"]
 [BlackTitle "GM"]
 [ECO "B12"]
-[EventDate "2019.09.02"]
 [Opening "Caro-Kann"]
 [Variation "advance variation"]
 [WhiteElo "2767"]

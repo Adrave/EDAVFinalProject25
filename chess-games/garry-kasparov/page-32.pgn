@@ -1,6 +1,5 @@
 [Event "It (cat.16)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -23,7 +22,6 @@ Rd7 31.Re8 Nd6 32.Rg8+ Kh7 33.Rb8 Kg7 34.Rg8+ Kh7 35.Rb8 Kg7
 
 [Event "It (cat.16)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -50,7 +48,6 @@ Kf8 54.Ng1 Rd2+ 55.Ke1 Rd5 56.Nh3 Bd2+ 57.Ke2 Kg7 58.Ra2 Bc1
 
 [Event "It (cat.16)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Salov Valery (RUS)"]
@@ -73,7 +70,6 @@ Rc5 31.a4 Rxe5 32.Qxe5 bxa4 33.Qe4 Qc5 34.Rxa4 a5 35.Qe2 Qg5
 
 [Event "It (cat.16)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -94,7 +90,6 @@ gxh4 20.Rxh4 Nf8 21.a4 Ng6 22.a5 Nxh4 23.Bxh4 cxd4 24.cxd4 Rd5
 
 [Event "Simultan"]
 [Site "Asiago (Italy)"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bellemo Luca (ITA)"]
@@ -118,7 +113,6 @@ Qc8 32.Qf3 Nf4 33.Rxf4 gxf4 34.Qxf4 Qe6 35.g5 Rxd4 36.Qf6+ Kg8
 
 [Event "Simultan"]
 [Site "Galicia (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Suarez Pousa Diego (ESP)"]
@@ -140,7 +134,6 @@ a5 31.Qf6+ 1-0
 
 [Event "It (cat.17)"]
 [Site "Linares (Spain)"]
-[Date "1991.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -162,7 +155,6 @@ Ng6 31.Kh2 Nce5 32.a4 Rd6 33.a5 Nd7 34.Nc7 1-0
 
 [Event "It (cat.17)"]
 [Site "Linares (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -185,7 +177,6 @@ Qh1+ 36.Kf2 Bxg2 37.Qxg2 Qh4+ 38.Ke2 1-0
 
 [Event "It (cat.17)"]
 [Site "Linares (Spain)"]
-[Date "1991.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -206,7 +197,6 @@ e6 19.Ke2 Nc4 20.Rae1 Kh8 21.Bg5 f6 22.Nxe6 fxg5 23.Nxf8 Rxf8
 
 [Event "It \"Immopar\""]
 [Site "Paris (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -230,7 +220,6 @@ g4 42.a5 g3 43.a6 Kc6 44.b5+ Kb6 45.Ba5+ Ka7 46.Bd8 1-0
 
 [Event "It \"Immopar\""]
 [Site "Paris (France)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -253,7 +242,6 @@ Qg5 31.Rxd7 Qxf4 32.Rxd8+ Kh7 33.R8d4 a5 34.c3 a4 35.Bc2 bxc3
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -274,7 +262,6 @@ gxf6 19.Nce4 Qd4 20.Qh5 Rf8 21.Rd1 Qe3 22.Qh4 Qf4 23.Qe1 Ra4
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -296,7 +283,6 @@ Qb8 25.dxe5 Rxe5 26.Bf2 Qd6 27.Rd4 Rd5 28.Rxd5 Qxd5 29.Qb4 Qd6
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "14"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -320,7 +306,6 @@ e4 41.b4 h3 42.Rg3 Rh7 43.a6 f5 44.Ra3 1-0
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -344,7 +329,6 @@ Kg7 37.Rxd5 Rxd5 38.Qxd5 Qa4 39.Qb7+ Kg6 40.Bc6 Qa5 41.Be8+ Kf5
 
 [Event "It (cat.17)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1991.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -366,7 +350,6 @@ Nd7 31.Nc6 Bxa6 32.Qc1 1-0
 
 [Event "Simultan"]
 [Site "Asiago (Italy)"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Capitelli Paolo (ITA)"]
@@ -375,7 +358,6 @@ Nd7 31.Nc6 Bxa6 32.Qc1 1-0
 [WhiteElo "2770"]
 [BlackElo "2158"]
 [PlyCount "75"]
-[EventDate "1991.??.??"]
 
 1. Nf3 Nf6 2. c4 d6 3. g3 g6 4. Bg2 Bg7 5. d4 O-O 6. O-O c6 7. Nc3 Qc7 8. e4 e5
 9. h3 Nbd7 10. Be3 Re8 11. d5 c5 12. Ne1 a6 13. a4 b6 14. Nd3 Rb8 15. Qd2 Nh5
@@ -387,7 +369,6 @@ Rg8 36. Rg5 a3 37. Nf2 Bxg5 38. hxg5 1-0
 
 [Event "Simultan"]
 [Site "Asiago (Italy)"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Guaglianone Mario (ITA)"]
@@ -396,7 +377,6 @@ Rg8 36. Rg5 a3 37. Nf2 Bxg5 38. hxg5 1-0
 [WhiteElo "2770"]
 [BlackElo "2073"]
 [PlyCount "75"]
-[EventDate "1991.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 b6 5. Nc3 Be7 6. d5 exd5 7. cxd5 d6 8. e4
 O-O 9. Be2 Re8 10. O-O Na6 11. Nd2 Nc7 12. a4 Bf8 13. f4 Rb8 14. Kh1 a6 15. g4
@@ -408,7 +388,6 @@ Bf6 29. Rg3 Rf8 30. Qf1 g6 31. Qg2 Bg7 32. Ra1 Qe7 33. Rg1 Nd4 34. Bxg6 hxg6
 
 [Event "Simultan"]
 [Site "Asiago (Italy)"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Paci Daniele (ITA)"]
@@ -417,7 +396,6 @@ Bf6 29. Rg3 Rf8 30. Qf1 g6 31. Qg2 Bg7 32. Ra1 Qe7 33. Rg1 Nd4 34. Bxg6 hxg6
 [WhiteElo "2770"]
 [BlackElo "2193"]
 [PlyCount "87"]
-[EventDate "1991.??.??"]
 
 1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 e6 5. e4 Nb6 6. Nc3 Be7 7. Bd3 O-O 8.
 O-O c5 9. dxc5 Bxc5 10. Qe2 Nc6 11. e5 Nd4 12. Nxd4 Bxd4 13. Rd1 f5 14. exf6
@@ -430,7 +408,6 @@ Qd2 Qf3 41. Re1 Rxa3 42. Re8+ Kh7 43. Qc2+ Rd3 44. Rd8 1-0
 
 [Event "Simultan"]
 [Site "Asiago (Italy)"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Spinelli Doriano (ITA)"]
@@ -439,7 +416,6 @@ Qd2 Qf3 41. Re1 Rxa3 42. Re8+ Kh7 43. Qc2+ Rd3 44. Rd8 1-0
 [WhiteElo "2770"]
 [BlackElo "2155"]
 [PlyCount "69"]
-[EventDate "1991.??.??"]
 
 1. c4 e6 2. Nc3 d5 3. d4 f5 4. Nf3 Nf6 5. Bg5 c6 6. e3 Be7 7. Bd3 Ne4 8. Bxe7
 Qxe7 9. O-O Nd7 10. Ne2 O-O 11. Ne1 b6 12. Rc1 Bb7 13. Bb1 Rac8 14. Nd3 Kh8 15.
@@ -451,7 +427,6 @@ Nexf3+ 34. Bxf3 Qxe3+ 35. Qf2 1-0
 
 [Event "Simultan"]
 [Site "Asiago (Italy)"]
-[Date "1991.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Viaggi Giovanni (ITA)"]
@@ -460,7 +435,6 @@ Nexf3+ 34. Bxf3 Qxe3+ 35. Qf2 1-0
 [WhiteElo "2770"]
 [BlackElo "2149"]
 [PlyCount "89"]
-[EventDate "1991.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 h6 8. Bh4
 Nbd7 9. Nge2 Re8 10. Qc2 c5 11. dxc5 Nxc5 12. O-O Nxd3 13. Qxd3 Be6 14. Nf4 Qa5
@@ -473,7 +447,6 @@ Kf3 f5 35. gxf5 gxf5 36. Ng3 Ke6 37. b5 a6 38. bxa6 bxa6 39. Rb3 Bf8 40. a4 a5
 
 [Event "Simultan"]
 [Site "Galicia (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Garza Castro Ramon (ESP)"]
@@ -482,7 +455,6 @@ Kf3 f5 35. gxf5 gxf5 36. Ng3 Ke6 37. b5 a6 38. bxa6 bxa6 39. Rb3 Bf8 40. a4 a5
 [WhiteElo "2770"]
 [BlackElo "2104"]
 [PlyCount "81"]
-[EventDate "1991.??.??"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
 c6 9. Qc2 Re8 10. Nc3 Bg4 11. Ne5 Qh4 12. g3 Qh5 13. Nxg4 Nxc3 14. bxc3 Qxg4
@@ -495,7 +467,6 @@ Rxh8 Kxh8 41. Qxf6+ 1-0
 
 [Event "Simultan"]
 [Site "Galicia (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Prieto Martin Alfonso (ESP)"]
@@ -504,7 +475,6 @@ Rxh8 Kxh8 41. Qxf6+ 1-0
 [WhiteElo "2770"]
 [BlackElo "2156"]
 [PlyCount "41"]
-[EventDate "1991.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 c6 4. e4 d5 5. e5 Ng4 6. Nf3 Bg7 7. cxd5 cxd5 8. Qb3
 e6 9. h3 Nh6 10. g4 Nc6 11. Bb5 a6 12. Bxc6+ bxc6 13. Bg5 Qc7 14. Na4 Ng8 15.
@@ -514,7 +484,6 @@ Ncxd7 1-0
 
 [Event "Simultan"]
 [Site "Galicia (Spain)"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Veiga Goy Jose Luis (ESP)"]
@@ -523,7 +492,6 @@ Ncxd7 1-0
 [WhiteElo "2770"]
 [BlackElo "2188"]
 [PlyCount "99"]
-[EventDate "1991.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nge2 Nc6 7. O-O d6 8. d5
 Ne7 9. e4 Bxc3 10. Nxc3 e5 11. a3 Ng6 12. g3 Bh3 13. Re1 h5 14. f3 Nh7 15. b4
@@ -537,7 +505,6 @@ Ra1 a3 47. c5 dxc5 48. d6 Kf8 49. Bc4 Rb4 50. Kd5 1-0
 
 [Event "Tilburg"]
 [Site "Tilburg NED"]
-[Date "1991.??.??"]
 [Round "5"]
 [White "Kasparov, Garry"]
 [Black "Anand, Viswanathan"]

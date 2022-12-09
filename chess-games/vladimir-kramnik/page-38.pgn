@@ -1,6 +1,5 @@
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -27,7 +26,6 @@ Bc3 58.f5 Bb2 59.Nxg7 Bxg7 60.g5 1-0
 
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Sadvakasov Darmen (KAZ)"]
@@ -47,7 +45,6 @@ Rxf7 20.Qxf5 g6 21.Bxe5 1-0
 
 [Event "Match (active)"]
 [Site "Budapest (Hungary)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -70,7 +67,6 @@ f6 30.hxg5 hxg5 31.e5 fxe5 32.Kxe5 f3 33.gxf3 Bxf3 34.d6 Rd8
 
 [Event "Match (active)"]
 [Site "Budapest (Hungary)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -95,7 +91,6 @@ Kf6 48.Kc5 Kg7 49.Be2 Rde8 50.Rxe8 Rxe8 51.Bf3 1-0
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -118,7 +113,6 @@ Rc7 35.a3 b4 36.axb4 Rc1+ 37.Kg2 Rb1 38.Ra5 Rxb2 39.Ra4 1-0
 
 [Event "It (cat.21)"]
 [Site "Dortmund (Germany)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Morozevich Alexander (RUS)"]
@@ -141,7 +135,6 @@ b3 36.a3 Rac8 37.h4 Rg6 38.h5 1-0
 
 [Event "Simultan"]
 [Site "Lyons (France)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Vulfson"]
@@ -165,7 +158,6 @@ Rg7 31.gxf6 Rxg6 32.Rxg6 fxg6 33.f7 Qd8 34.Bh6 Rf8 35.Bxf8 Qxf8
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -190,7 +182,6 @@ Kg7 36.Kd4 Kf6 37.Re8 Re7 38.Rb8 Rc7 39.Rb7 Rxb7 40.cxb7 Nd7
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -215,7 +206,6 @@ Be8 42.Bd3 Bc6 43.Be2 Be8 44.g4 fxg4 45.Bxg4 g5 46.fxg5 hxg5
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -239,7 +229,6 @@ Be6 42.Rb4 b5 43.Be2 Re5 44.Rb2 bxc4 45.Bf3 Ke7 46.Kxe5 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -260,7 +249,6 @@ Nxc4 26.Nxc4 b5 27.axb5 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -279,7 +267,6 @@ Qxg5 14.Qxg5 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -301,7 +288,6 @@ Be5 25.Nf5 Bxf5 26.exf5 f6 27.Red1 Kf7 28.d6 Ke8 29.Bxf6 Bxf6
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -325,7 +311,6 @@ f5 41.exf6+ Kxf6 42.Ne4+ Ke7 43.h6 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Tiviakov Sergei (NED)"]
@@ -348,7 +333,6 @@ Bg6 37.Rf2 Nf5 38.h7 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -370,7 +354,6 @@ Rb2 30.Nd5 Rb5 31.Kc2 Bc5 32.Bh6 f6 33.Nc7 1-0
 
 [Event "It \"Korchnoi Birthday\" (KO-system)"]
 [Site "Zurich (Switzerland)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -393,7 +376,6 @@ Rxf3+ 36.Kc4 1-0
 
 [Event "It \"Korchnoi Birthday\" (KO-system)"]
 [Site "Zurich (Switzerland)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -417,7 +399,6 @@ Rxb2 43.Ra6 Rb3 44.Kf5 Rxa3 45.Ra7+ 1-0
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -444,7 +425,6 @@ Kh6 53.Rf7 Kg5 54.Rg7+ Kf4 55.h6 Rb2+ 56.Kh3 Rb3+ 57.Kh2 Rb2+
 
 [Event "Cup France (final)"]
 [Site "Paris (France)"]
-[Date "2002.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Vallejo Pons Francisco (ESP)"]
@@ -465,7 +445,6 @@ a6 14.Rfc1 b5 15.Ne2 Bb7 16.h4 h5 17.Nf4 Bh6 18.g3 a5 19.a4 axb4
 
 [Event "It \"Grand Prix du Senat\""]
 [Site "Paris (France)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -486,7 +465,6 @@ Nf6 1/2-1/2
 
 [Event "It \"Eurotel World Chess Trophy\""]
 [Site "Prague (Czech Republic)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -507,7 +485,6 @@ Bc6 20.Bc3 bxa5 21.Rxa5 Nb6 22.Rb1 Rxa5 23.Bxa5 Na4 24.Rd1 Qa7
 
 [Event "Match \"]
 [Site "Manama (Bahrain)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Computer \"]
@@ -515,7 +492,6 @@ Bc6 20.Bc3 bxa5 21.Rxa5 Nb6 22.Rb1 Rxa5 23.Bxa5 Na4 24.Rd1 Qa7
 [ECO "D34"]
 [WhiteElo "2807"]
 [PlyCount "81"]
-[EventDate "2002.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3
 O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Bf4 Bg4 12. h3 Be6 13. Rc1 Re8 14. Nxe6 fxe6
@@ -528,7 +504,6 @@ Rxg4+ Kf5 41. Rc4 1/2-1/2
 
 [Event "Match \"]
 [Site "Manama (Bahrain)"]
-[Date "2002.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Computer \"]
@@ -536,7 +511,6 @@ Rxg4+ Kf5 41. Rc4 1/2-1/2
 [ECO "D68"]
 [WhiteElo "2807"]
 [PlyCount "41"]
-[EventDate "2002.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. O-O
 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Rc1 Nxc3 12. Rxc3 e5 13. Bb3 exd4 14. exd4
@@ -546,13 +520,11 @@ Nf6 15. Re1 Qd6 16. h3 Bf5 17. Rce3 Rae8 18. Re5 Bg6 19. a3 Qd8 20. Rxe8 Nxe8
 
 [Event "Simul"]
 [Site "Barcelona ESP"]
-[Date "2002.06.19"]
 [Round "12"]
 [White "Kramnik,V"]
 [Black "Munoz,T"]
 [Result "1/2-1/2"]
 [WhiteElo "2809"]
-[EventDate "2002.06.19"]
 [ECO "A36"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. g3 Nc6 5. Bg2 g6 6. d4 cxd4 7. Nxd4 Bg7 8.

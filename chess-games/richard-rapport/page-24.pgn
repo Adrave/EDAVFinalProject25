@@ -1,6 +1,5 @@
 [Event "Balogh-Rapport Match"]
 [Site "Szombathely CZE"]
-[Date "2011.01.08"]
 [Round "5"]
 [White "Rapport, R."]
 [Black "Balogh, C."]
@@ -9,7 +8,6 @@
 [WhiteElo "2531"]
 [BlackElo "2604"]
 [PlyCount "85"]
-[EventDate "2011.01.04"]
 [EventRounds "8"]
 [EventCountry "CZE"]
 [Source "Mark Crowther"]
@@ -26,7 +24,6 @@ Kd7 41. Bd6 Qd8 42. Qxh7+ Kc6 43. Qxg6 1-0
 
 [Event "TCh-AUT 2010-11"]
 [Site "Graz AUT"]
-[Date "2011.01.21"]
 [Round "5.4"]
 [White "Rapport, R."]
 [Black "Platzgummer, F."]
@@ -35,7 +32,6 @@ Kd7 41. Bd6 Qd8 42. Qxh7+ Kc6 43. Qxg6 1-0
 [WhiteElo "2543"]
 [BlackElo "2311"]
 [PlyCount "99"]
-[EventDate "2010.11.19"]
 [EventRounds "11"]
 [EventCountry "AUT"]
 [Source "Mark Crowther"]
@@ -55,7 +51,6 @@ e4 b3 48. d5 e5 49. d6 Ra7 50. Qg6 1-0
 
 [Event "TCh-AUT 1st Bundesliga 2012"]
 [Site "Baden AUT"]
-[Date "2012.01.21"]
 [Round "2.1"]
 [White "Rapport, R."]
 [Black "Prohaszka, P2."]
@@ -64,7 +59,6 @@ e4 b3 48. d5 e5 49. d6 Ra7 50. Qg6 1-0
 [WhiteElo "2543"]
 [BlackElo "2547"]
 [PlyCount "60"]
-[EventDate "2012.01.20"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AUT"]
@@ -82,7 +76,6 @@ cxb5 28. Qd2 b4 29. Nd1 Bc4 30. Bb1 Qa5 1/2-1/2
 
 [Event "Gibraltar Open"]
 [Site "Caleta ENG"]
-[Date "2012.01.24"]
 [Round "1.38"]
 [White "Rapport, R."]
 [Black "Ben Artzi, I."]
@@ -91,7 +84,6 @@ cxb5 28. Qd2 b4 29. Nd1 Bc4 30. Bb1 Qa5 1/2-1/2
 [WhiteElo "2543"]
 [BlackElo "2284"]
 [PlyCount "66"]
-[EventDate "2012.01.24"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -108,7 +100,6 @@ Kg2 Kf6 1/2-1/2
 
 [Event "Gibraltar Open"]
 [Site "Caleta ENG"]
-[Date "2012.02.01"]
 [Round "9.6"]
 [White "Rapport, R."]
 [Black "Sasikiran, K."]
@@ -117,7 +108,6 @@ Kg2 Kf6 1/2-1/2
 [WhiteElo "2543"]
 [BlackElo "2700"]
 [PlyCount "72"]
-[EventDate "2012.01.24"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -134,7 +124,6 @@ Qxc8 28. f4 Nd7 29. Bg6 Nc5 30. Bh5 Re4 31. Qb5+ Bc6 32. Qf1 Rxe1 33. Qxe1 Nd3
 
 [Event "Schachbundesliga 2011-12"]
 [Site "Emsdetten GER"]
-[Date "2012.02.05"]
 [Round "9"]
 [White "Rapport, R."]
 [Black "Tregubov, P."]
@@ -143,7 +132,6 @@ Qxc8 28. f4 Nd7 29. Bg6 Nc5 30. Bh5 Re4 31. Qb5+ Bc6 32. Qf1 Rxe1 33. Qxe1 Nd3
 [WhiteElo "2547"]
 [BlackElo "2602"]
 [PlyCount "104"]
-[EventDate "2011.10.14"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -165,7 +153,6 @@ Qa1+ 1/2-1/2
 
 [Event "Schachbundesliga 2011-12"]
 [Site "Remagen GER"]
-[Date "2012.02.25"]
 [Round "10"]
 [White "Rapport, R."]
 [Black "Teske, H."]
@@ -174,7 +161,6 @@ Qa1+ 1/2-1/2
 [WhiteElo "2547"]
 [BlackElo "2547"]
 [PlyCount "48"]
-[EventDate "2011.10.14"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -191,7 +177,6 @@ Bd7 21. gxh6 gxh6 22. Bf3 b5 23. Rc5 Ra6 24. Bc6 Ra3+ 1/2-1/2
 
 [Event "TCh-AUT 1st Bundesliga 2012"]
 [Site "St. Veit AUT"]
-[Date "2012.03.01"]
 [Round "4.1"]
 [White "Rapport, R."]
 [Black "Rozentalis, E."]
@@ -200,7 +185,6 @@ Bd7 21. gxh6 gxh6 22. Bf3 b5 23. Rc5 Ra6 24. Bc6 Ra3+ 1/2-1/2
 [WhiteElo "2543"]
 [BlackElo "2592"]
 [PlyCount "78"]
-[EventDate "2012.01.20"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AUT"]
@@ -220,7 +204,6 @@ Kg1 Qxh4 34. Qh1 Nh3+ 35. Kg2 Rf8 36. Qxh3 Rcxf2+ 37. Rxf2 Rxf2+ 38. Kg1 Qxh3
 
 [Event "TCh-AUT 1st Bundesliga 2012"]
 [Site "St. Veit AUT"]
-[Date "2012.03.03"]
 [Round "6.1"]
 [White "Rapport, R."]
 [Black "Antoniewski, R."]
@@ -229,7 +212,6 @@ Kg1 Qxh4 34. Qh1 Nh3+ 35. Kg2 Rf8 36. Qxh3 Rcxf2+ 37. Rxf2 Rxf2+ 38. Kg1 Qxh3
 [WhiteElo "2543"]
 [BlackElo "2559"]
 [PlyCount "50"]
-[EventDate "2012.01.20"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AUT"]
@@ -246,7 +228,6 @@ Rfd8 22. Rad1 Ne6 23. Bc3 Nf4 24. Bd2 Ne6 25. Bc3 Nf4 1/2-1/2
 
 [Event "13th EICC"]
 [Site "Plovdiv BUL"]
-[Date "2012.03.21"]
 [Round "2.20"]
 [White "Rapport, R."]
 [Black "Balogh, C."]
@@ -255,7 +236,6 @@ Rfd8 22. Rad1 Ne6 23. Bc3 Nf4 24. Bd2 Ne6 25. Bc3 Nf4 1/2-1/2
 [WhiteElo "2559"]
 [BlackElo "2664"]
 [PlyCount "68"]
-[EventDate "2012.03.20"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "BUL"]
@@ -272,7 +252,6 @@ Be2 Kf6 28. Rg1 Rh7 29. Rb1 Be8 30. Rc1 Rc7 31. Ke1 Rg7 32. Kf2 Rc7 33. Ke1 Rg7
 
 [Event "13th EICC"]
 [Site "Plovdiv BUL"]
-[Date "2012.03.23"]
 [Round "4.94"]
 [White "Rapport, R."]
 [Black "Kreisl, R."]
@@ -281,7 +260,6 @@ Be2 Kf6 28. Rg1 Rh7 29. Rb1 Be8 30. Rc1 Rc7 31. Ke1 Rg7 32. Kf2 Rc7 33. Ke1 Rg7
 [WhiteElo "2559"]
 [BlackElo "2400"]
 [PlyCount "93"]
-[EventDate "2012.03.20"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "BUL"]
@@ -300,7 +278,6 @@ Nd7 Rf7 47. Rxa6 1/2-1/2
 
 [Event "13th EICC"]
 [Site "Plovdiv BUL"]
-[Date "2012.03.31"]
 [Round "11.53"]
 [White "Rapport, R."]
 [Black "Sutovsky, E."]
@@ -309,7 +286,6 @@ Nd7 Rf7 47. Rxa6 1/2-1/2
 [WhiteElo "2559"]
 [BlackElo "2700"]
 [PlyCount "85"]
-[EventDate "2012.03.20"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "BUL"]
@@ -327,7 +303,6 @@ a4 e4 35. b5 Bc3 36. Re2 h5 37. Kg2 Be5 38. a5 bxa5 39. Bxa7 Rb3 40. Rxe4 Rxb5
 
 [Event "TCh-AUT 1st Bundesliga 2012"]
 [Site "Jenbach AUT"]
-[Date "2012.04.19"]
 [Round "8.1"]
 [White "Rapport, R."]
 [Black "Ragger, M."]
@@ -336,7 +311,6 @@ a4 e4 35. b5 Bc3 36. Re2 h5 37. Kg2 Be5 38. a5 bxa5 39. Bxa7 Rb3 40. Rxe4 Rxb5
 [WhiteElo "2543"]
 [BlackElo "2655"]
 [PlyCount "60"]
-[EventDate "2012.01.20"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AUT"]
@@ -354,7 +328,6 @@ hxg6 22. Qg4 Qc7 23. Nd3 Be7 24. a3 Nc5 25. Rad1 Qb6 26. Nb4 Na6 27. Bf1 Nc5
 
 [Event "Mitropa Cup 2012"]
 [Site "Sibenik CRO"]
-[Date "2012.06.01"]
 [Round "2"]
 [White "Rapport, R."]
 [Black "Godena, M."]
@@ -363,7 +336,6 @@ hxg6 22. Qg4 Qc7 23. Nd3 Be7 24. a3 Nc5 25. Rad1 Qb6 26. Nb4 Na6 27. Bf1 Nc5
 [WhiteElo "2577"]
 [BlackElo "2521"]
 [PlyCount "63"]
-[EventDate "2012.05.31"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "CRO"]
@@ -383,7 +355,6 @@ Qxa5 28. h3 e5 29. Ndb4 exd4 30. exd4 Nf8 31. Qe2 Qa8 32. g3 1/2-1/2
 
 [Event "40th TCh-GRE 2012"]
 [Site "Achaea GRE"]
-[Date "2012.07.01"]
 [Round "2.8"]
 [White "Rapport, R."]
 [Black "Hammer, J."]
@@ -392,7 +363,6 @@ Qxa5 28. h3 e5 29. Ndb4 exd4 30. exd4 Nf8 31. Qe2 Qa8 32. g3 1/2-1/2
 [WhiteElo "2577"]
 [BlackElo "2630"]
 [PlyCount "62"]
-[EventDate "2012.06.30"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "GRE"]
@@ -410,7 +380,6 @@ Rc3 28. R1d3 Rc1+ 29. Rd1 Rc3 30. R1d3 Rc1+ 31. Rd1 Rc3 1/2-1/2
 
 [Event "40th TCh-GRE 2012"]
 [Site "Achaea GRE"]
-[Date "2012.07.03"]
 [Round "5.7"]
 [White "Rapport, R."]
 [Black "Brunello, S."]
@@ -419,7 +388,6 @@ Rc3 28. R1d3 Rc1+ 29. Rd1 Rc3 30. R1d3 Rc1+ 31. Rd1 Rc3 1/2-1/2
 [WhiteElo "2577"]
 [BlackElo "2592"]
 [PlyCount "80"]
-[EventDate "2012.06.30"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "GRE"]
@@ -439,7 +407,6 @@ Re8 28. Rxe8 Nxe8 29. g4 hxg4 30. hxg4 Kf6 31. f4 Nd6 32. Kg3 b5 33. cxb5 Nxb5
 
 [Event "40th TCh-GRE 2012"]
 [Site "Achaea GRE"]
-[Date "2012.07.05"]
 [Round "7.9"]
 [White "Rapport, R."]
 [Black "Dochev, D."]
@@ -448,7 +415,6 @@ Re8 28. Rxe8 Nxe8 29. g4 hxg4 30. hxg4 Kf6 31. f4 Nd6 32. Kg3 b5 33. cxb5 Nxb5
 [WhiteElo "2577"]
 [BlackElo "2404"]
 [PlyCount "54"]
-[EventDate "2012.06.30"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "GRE"]
@@ -466,7 +432,6 @@ Rxd5 Qc8 16. Bf4 e6 17. Rd2 g5 18. Bxg5 Nxe5 19. Re1 b3 20. a3 h6 21. Bf4 Nxf3+
 
 [Event "51st World Juniors"]
 [Site "Athens GRE"]
-[Date "2012.08.03"]
 [Round "2.4"]
 [White "Rapport, R."]
 [Black "Wei Yi"]
@@ -475,7 +440,6 @@ Rxd5 Qc8 16. Bf4 e6 17. Rd2 g5 18. Bxg5 Nxe5 19. Re1 b3 20. a3 h6 21. Bf4 Nxf3+
 [WhiteElo "2605"]
 [BlackElo "2418"]
 [PlyCount "70"]
-[EventDate "2012.08.02"]
 [EventType "swiss"]
 [EventRounds "13"]
 [EventCountry "GRE"]
@@ -492,7 +456,6 @@ Qxf5 35. Qxb7 Rb1 0-1
 
 [Event "51st World Juniors"]
 [Site "Athens GRE"]
-[Date "2012.08.13"]
 [Round "11.1"]
 [White "Rapport, R."]
 [Black "Grandelius, N."]
@@ -501,7 +464,6 @@ Qxf5 35. Qxb7 Rb1 0-1
 [WhiteElo "2605"]
 [BlackElo "2562"]
 [PlyCount "66"]
-[EventDate "2012.08.02"]
 [EventType "swiss"]
 [EventRounds "13"]
 [EventCountry "GRE"]
@@ -518,7 +480,6 @@ Qxd7 Rxg2+ 1/2-1/2
 
 [Event "TCh-HUN 2012-13"]
 [Site "Szombathely HUN"]
-[Date "2012.09.16"]
 [Round "1"]
 [White "Rapport, R."]
 [Black "Hajnal, Z."]
@@ -527,7 +488,6 @@ Qxd7 Rxg2+ 1/2-1/2
 [WhiteElo "2621"]
 [BlackElo "2384"]
 [PlyCount "77"]
-[EventDate "2012.09.16"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "HUN"]
@@ -546,7 +506,6 @@ Rxc6 Rxf2 35. Rc7 R2f6 36. Rb7 Qa6 37. Rb5 Qc6 38. Rxb4 Rf5 39. Qe4 1/2-1/2
 
 [Event "TCh-AUT 2012-13"]
 [Site "Hohenems AUT"]
-[Date "2012.11.02"]
 [Round "1.1"]
 [White "Rapport, R."]
 [Black "Balogh, C."]
@@ -555,7 +514,6 @@ Rxc6 Rxf2 35. Rc7 R2f6 36. Rb7 Qa6 37. Rb5 Qc6 38. Rxb4 Rf5 39. Qe4 1/2-1/2
 [WhiteElo "2621"]
 [BlackElo "2641"]
 [PlyCount "61"]
-[EventDate "2012.11.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AUT"]
@@ -573,7 +531,6 @@ h3 h5 28. hxg4 hxg4 29. Kh2 f5 30. Kg3 Kf7 31. Nc3 1/2-1/2
 
 [Event "Amplico ch-EUR Rapid"]
 [Site "Warsaw POL"]
-[Date "2012.12.16"]
 [Round "10.2"]
 [White "Rapport, R."]
 [Black "Rublevsky, S."]
@@ -582,7 +539,6 @@ h3 h5 28. hxg4 hxg4 29. Kh2 f5 30. Kg3 Kf7 31. Nc3 1/2-1/2
 [WhiteElo "2621"]
 [BlackElo "2688"]
 [PlyCount "68"]
-[EventDate "2012.12.15"]
 [EventType "swiss (rapid)"]
 [EventRounds "11"]
 [EventCountry "POL"]
@@ -599,7 +555,6 @@ f5 22. Qd3 Qg5 23. Nf4 Rac8 24. Rc3 Kh8 25. gxf5 e5 26. dxe5 d4 27. Rxc6 Rxc6
 
 [Event "Gibraltar Open"]
 [Site "Caleta ENG"]
-[Date "2012.01.26"]
 [Round "3.22"]
 [White "Rapport, Richard"]
 [Black "Herman, Jean"]
@@ -607,7 +562,6 @@ f5 22. Qd3 Qg5 23. Nf4 Rac8 24. Rc3 Kh8 25. gxf5 e5 26. dxe5 d4 27. Rxc6 Rxc6
 [WhiteElo "2543"]
 [BlackElo "2077"]
 [ECO "A06"]
-[EventDate "2012.01.24"]
 
 1. Nf3 d5 2. b3 Nf6 3. Bb2 Bg4 4. e3 e6 5. h3 Bh5 6. d3 Bd6 7. Nbd2 Nbd7 
 8. g4 Bg6 9. Nh4 e5 10. Bg2 c6 11. Qe2 Qe7 12. a3 Nc5 13. Nf1 e4 14. Nd2 
@@ -619,7 +573,6 @@ Nd2 Ng5 33. Be2 Qb7 34. Bxb5 Rh2 35. Rf1 Rg2 36. Qa4 Bc7 37. Rb1 1-0
 
 [Event "Amplico ch-EUR Rapid"]
 [Site "Warsaw POL"]
-[Date "2012.12.15"]
 [Round "2.23"]
 [White "Rapport, Richard"]
 [Black "Szwarc, Pawel"]
@@ -627,7 +580,6 @@ Nd2 Ng5 33. Be2 Qb7 34. Bxb5 Rh2 35. Rf1 Rg2 36. Qa4 Bc7 37. Rb1 1-0
 [WhiteElo "2621"]
 [BlackElo "2094"]
 [ECO "B90"]
-[EventDate "2012.12.15"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 
 8. Bc4 O-O 9. O-O Nc6 10. Bg5 Be6 11. Bb3 Rc8 12. Bxf6 Bxf6 13. Qd3 Na5 
@@ -641,7 +593,6 @@ Be5 44. gxf4 Bxf4 45. h3 1-0
 
 [Event "13th EICC"]
 [Site "Plovdiv BUL"]
-[Date "2012.03.25"]
 [Round "6.95"]
 [White "Rapport,R"]
 [Black "Kadric,D"]
@@ -654,7 +605,6 @@ Be5 44. gxf4 Bxf4 45. h3 1-0
 [Variation "classical (two knights) system"]
 [WhiteFideId "738590"]
 [BlackFideId "14403803"]
-[EventDate "2012.03.20"]
 [EventType "swiss"]
 
 1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. Be3 O-O 6. Qd2 c6 7. Bd3 Nbd7 8. O-O

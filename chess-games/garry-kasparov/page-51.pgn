@@ -1,6 +1,5 @@
 [Event "Match (training)"]
 [Site "Baku (Azerbaijan)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Magerramov Elmar (AZE)"]
@@ -24,7 +23,6 @@ Kg8 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Browne Walter S (USA)"]
@@ -47,7 +45,6 @@ b4 37.Be4 c3 38.Bh7+ Kxh7 39.Qxe6 1-0
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bukic Enver (SLO)"]
@@ -75,7 +72,6 @@ Nh4 65.Nd4 g5 66.Ke5 g4 67.Kf6 1-0
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "14"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kurajica Bojan (BIH)"]
@@ -93,7 +89,6 @@ Nh4 65.Nd4 g5 66.Ke5 g4 67.Kf6 1-0
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Marjanovic Slavoljub (SCG)"]
@@ -115,7 +110,6 @@ Qf7 25.e5 Qxc7 26.Qxh5 Qc6 27.f3 Be7 28.Bh7+ Kf8 29.Qf5+ Ke8
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Marovic Drazen (CRO)"]
@@ -137,7 +131,6 @@ e5 25.Rxf5 Ba3 26.Qe4 Kh8 27.Rh5 Qh7 28.Qxh7+ Kxh7 29.dxe5 Kg6
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -156,7 +149,6 @@ d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.d5 Bd7 13.b3 Nb7
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -176,7 +168,6 @@ Qh3 20.Qf3 g6 21.Bd1 Rfe8 22.Qg2 Qxg2+ 23.Kxg2 1/2-1/2
 
 [Event "It (cat.10)"]
 [Site "Banja-Luka (Bosnia & Herzegovina)"]
-[Date "1979.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Vukic Milan (SCG)"]
@@ -198,7 +189,6 @@ Qb8 31.d6 Nxb4 32.Be7 Qb7 33.Rxf7 Kxf7 34.Rf1+ Bf6 35.Bxf6 1-0
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anikaev Yuri N (RUS)"]
@@ -226,7 +216,6 @@ Rxe6 60.fxe6 Ke7 61.Qg7 Kxe6 62.Nf4+ Ke5 63.Kg3 Qa5 64.Kf2 Qb6+
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "16"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dolmatov Sergey (RUS)"]
@@ -254,7 +243,6 @@ Kd5 65.Kd2 1-0
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Giorgadze Tamaz (GEO)"]
@@ -277,7 +265,6 @@ Bxb6 32.axb6 Qe7 33.Qa3 Rd8 34.f3 Nh6 35.c5 dxc5 36.Bxc5 Qf6
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Jussupow Artur (GER)"]
@@ -301,7 +288,6 @@ Kd4 41.h4 1-0
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "14"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kupreichik Viktor D (BLR)"]
@@ -325,7 +311,6 @@ Ke8 43.d6 a2 44.d7+ Ke7 45.Bg5+ 1-0
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Lerner Konstantin Z (UKR)"]
@@ -349,7 +334,6 @@ Rxe3 37.Ra6 Nxa6 38.Rxa6 Rg6 39.Bf2 Rxb3 40.Bxe4 fxe4 41.f5 Rbxg3
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Rashkovsky Nukhim N (RUS)"]
@@ -371,7 +355,6 @@ Kd6 25.Rd1+ Bd4 26.Rxd4+ exd4 27.Qg3+ e5 28.c5+ Kd5 29.Bf3+ e4
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Razuvaev Yuri S (RUS)"]
@@ -393,7 +376,6 @@ Bxh2+ 30.Kxh2 fxg6 31.Rg5 Rc6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Minsk (Belarus)"]
-[Date "1979.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -417,7 +399,6 @@ Qf8 43.Qa5 Ke7 44.Qe1 Kd8 45.Qa5+ Ke7 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Butnorius Algimantas (LTU)"]
@@ -441,7 +422,6 @@ Bb7 1-0
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Mnatsakanian Eduard A (ARM)"]
@@ -463,7 +443,6 @@ Qc5 31.Qf4 Bd5 32.Qa4 Kf8 33.Qd7 1-0
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1979.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -486,7 +465,6 @@ Rf4+ 35.Kc5 Re5+ 36.Kb6 Re6+ 37.Rc6 1-0
 
 [Event ""]
 [Site "URS"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Morgulov Alexsander M (RUS)"]
@@ -509,7 +487,6 @@ Qh4 37.Ng1 Rf8 38.Rc2 Qxh5 39.Qxe4 Raa8 40.Qe6+ Kh7 41.Qg4 1-0
 
 [Event ""]
 [Site "URS"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Vdovin SA"]
@@ -533,7 +510,6 @@ Bxd4 42.e7 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Scara (Sweden)"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Pinter Jozsef (HUN)"]
@@ -555,7 +531,6 @@ a5 31.bxa6 Rxa6 32.b4 Rxa3 33.bxc5 b5 34.Rxd4 Rc3 35.c6 Kf8 36.Rh4 1/2-1/2
 
 [Event "Match (training)"]
 [Site "Baku (Azerbaijan)"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -563,7 +538,6 @@ a5 31.bxa6 Rxa6 32.b4 Rxa3 33.bxc5 b5 34.Rxd4 Rc3 35.c6 Kf8 36.Rh4 1/2-1/2
 [ECO "E46"]
 [WhiteElo "2595"]
 [PlyCount "54"]
-[EventDate "1980.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. cxd5 Nxd5 8. g3
 Nxc3 9. Nxc3 c5 10. dxc5 Bxc5 11. b4 Qxd1+ 12. Kxd1 Be7 13. Bb2 Nc6 14. Kc2 b6

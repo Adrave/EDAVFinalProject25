@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Golmayo Zupide C"]
@@ -21,7 +20,6 @@ Nge7 14.Qh5 g6 15.Qh4 Rh7 16.Nf3 O-O-O 17.Ng5 Rg7 18.Qxh6 Rdg8
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Golmayo Zupide C"]
@@ -49,7 +47,6 @@ Kc7 59.Nd3 Rh1 60.Rxb2 Rxh4 61.Ne5 Kd8 62.Rb7 Kc8 63.Rg7 Rf4
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -70,7 +67,6 @@ Qc7 25.Qf6+ Kc5 26.R1e6 Bxe6 27.Rxe6 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -93,7 +89,6 @@ Nd4 36.Rxc5 Rxf4 37.Rxc4 Ne2 38.Rxf4 Nxf4 39.Rxg7 Re1+ 40.Rg1+ 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "31"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mackenzie George H (SCO)"]
@@ -116,7 +111,6 @@ axb5 32.axb5 cxb5 33.Ra6 Nc7 34.Rxe8 Qxe8 35.Ra7 Qb8 36.c6 Rf7
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "4"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mortimer James (USA)"]
@@ -139,7 +133,6 @@ Kg7 36.Qf6+ Kg8 37.Bh6 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "24"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mortimer James (USA)"]
@@ -163,7 +156,6 @@ g5 42.Rb8 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Sellmann Alexander G"]
@@ -185,7 +177,6 @@ Rc8 31.Ne7+ 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1883.??.??"]
 [Round "1"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Winawer Szymon A (POL)"]
@@ -211,7 +202,6 @@ Ra1 47.g7 Rg1 48.Rf8 Ne4 49.g8Q+ Rxg8 50.Rxg8 c5 51.Rd8+ Nd6
 
 [Event ""]
 [Site "New Orleans (USA)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Labatt L"]
@@ -235,7 +225,6 @@ g4 43.hxg4 hxg4 44.f4 1-0
 
 [Event ""]
 [Site "New Orleans (USA)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Maurian C"]
@@ -256,7 +245,6 @@ Qa8 26.Rac1 Bb7 27.gxf5 Nxf4 28.Qxh7+ Rg7 29.fxg6+ 1-0
 
 [Event "Simultan"]
 [Site "New York (USA)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Elson Jacob"]
@@ -276,7 +264,6 @@ f5 14.Nh5 Nf6 15.Nxf6+ Rxf6 16.Bd2 Bxe5 17.fxe5 Rf7 18.g4 g5
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mackenzie George H (SCO)"]
@@ -304,14 +291,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1883.05.14"]
 [Round "11"]
 [White "Wilhelm Steinitz"]
 [Black "Henry Edward Bird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C46"]
-[EventDate "1883.04.26"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -325,14 +310,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Havana ."]
 [Site "Havana CUB"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Emilio Hidalgo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1883.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -347,14 +330,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "New Orleans"]
 [Site "?"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "J Buck"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C23"]
-[EventDate "1883.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -366,14 +347,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "New Orleans"]
 [Site "?"]
-[Date "1883.??.??"]
 [Round "2"]
 [White "Wilhelm Steinitz"]
 [Black "Charles Maurian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "1883.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -387,14 +366,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "New Orleans"]
 [Site "?"]
-[Date "1883.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Fass"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1883.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -408,14 +385,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Simul, 27b"]
 [Site "New York, NY USA"]
-[Date "1883.02.15"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Gustave Simonson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1883.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -429,14 +404,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Offhand game"]
 [Site "Philadelphia, PA USA"]
-[Date "1885.02.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Hermann G Voigt"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B25"]
-[EventDate "1885.01.12"]
 [PlyCount "24"]
 [WhiteElo "?"]
 
@@ -447,14 +420,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Philadelphia"]
 [Site "?"]
-[Date "1884.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Dionisio M Martinez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1884.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -469,14 +440,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Baltimore"]
 [Site "Baltimore, MD USA"]
-[Date "1885.02.12"]
 [Round "3"]
 [White "Wilhelm Steinitz"]
 [Black "Alexander G Sellman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C14"]
-[EventDate "1885.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -492,14 +461,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Simul, 25b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1885.11.26"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "John Lindsay McCutcheon"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "1885.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -513,14 +480,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Philadelphia"]
 [Site "?"]
-[Date "1884.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "August Priester"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C38"]
-[EventDate "1884.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -535,14 +500,12 @@ Kf7 66.Kc6 Ke8 67.d6 Kd8 68.Rf1 1-0
 
 [Event "Blindfold simul, 4b"]
 [Site "Baltimore, MD USA"]
-[Date "1885.02.13"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "J B Brockenbrough"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "1885.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 

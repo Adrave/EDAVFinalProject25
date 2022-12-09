@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1974.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Pytel Krzysztof (FRA)"]
@@ -21,7 +20,6 @@ Bxe6 26.Nxe6 Qh2+ 27.Kf1 Qh1+ 28.Ke2 Qxa1 29.Nxf8 Qxb2 30.Rxf7 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1974.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Rellstab Ludwig Sr (GER)"]
@@ -43,7 +41,6 @@ Rb8 32.Qd3 Kh8 33.c5 Nc8 34.Qe4 Bf8 35.c6 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1974.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Stean Michael F (ENG)"]
@@ -66,7 +63,6 @@ Kg1 34.Ne2# 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -92,7 +88,6 @@ Kg5 54.Kf3 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Dvoretzky Mark (RUS)"]
@@ -115,7 +110,6 @@ Qxf5 37.Bxe6 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gulko Boris F (USA)"]
@@ -144,7 +138,6 @@ Rd5 64.h5 b3 65.Qxb3 Rd6+ 66.Kb5 Rd5 67.Qxd5 Nxd5 68.Kxc5 Nf6
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -167,7 +160,6 @@ Be5 31.Rbd1 Kg8 32.g4 h5 33.g5 Bxd6 34.Rxd6 Rxd6 35.Rxd6 Ne5
 
 [Event "It"]
 [Site "Lublin (Poland)"]
-[Date "1974.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Adamski Jan (POL)"]
@@ -190,7 +182,6 @@ Rd6 37.Nc5 Rc6 38.Nd7 Rc7 39.Nb6 Bc5 40.Bc4+ 1-0
 
 [Event "It"]
 [Site "Lublin (Poland)"]
-[Date "1974.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Giorgadze Tamaz (GEO)"]
@@ -209,7 +200,6 @@ a6 14.Nxd4 Nxd4 15.Nxb4 c5 16.Nd5 Qa5 17.e3 Nc6 1-0
 
 [Event "It"]
 [Site "Lublin (Poland)"]
-[Date "1974.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Liebert Heinz (GER)"]
@@ -233,7 +223,6 @@ Kxg6 42.Qd3 Nd6 43.exd6 1-0
 
 [Event "It"]
 [Site "Lublin (Poland)"]
-[Date "1974.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Pytel Krzysztof (FRA)"]
@@ -256,7 +245,6 @@ Ke5 35.c6 Nd5 36.Rxd5+ 1-0
 
 [Event "It"]
 [Site "Lublin (Poland)"]
-[Date "1974.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Szymczak Zbigniew (POL)"]
@@ -279,7 +267,6 @@ Kf8 31.Rd1 Rc8 32.Rxd6 Rc1+ 33.Kh2 Qe5+ 34.f4 Qxd6 35.Qg8+ Ke7
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -299,7 +286,6 @@ dxe5 14.Bxe5 Ne4 15.Nxe4 Bxe5 16.Nf3 Bg7 17.Rad1 Qc8 18.Bc4 Be8
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hamam M"]
@@ -324,7 +310,6 @@ c3 47.g5+ Kh5 48.Ra6 1-0
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hecht Hans-Joachim (GER)"]
@@ -348,7 +333,6 @@ e4 42.gxh5 exf3+ 43.Kd2 f2 44.Rxf2 gxh5 45.Rf5 Kb5 46.Rd5 1-0
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Myagmarsuren Lhamsuren (MGL)"]
@@ -370,7 +354,6 @@ Kd6 24.Bf4 Bd5 25.Re1 Kc5 26.Rxe5 Rxe5 27.Qxe5 Qd7 28.Nc2 Re8
 
 [Event "Olympiad"]
 [Site "Nice (France)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sully David John"]
@@ -391,7 +374,6 @@ a3 20.Nb1 Ba4 21.b3 Bd7 22.e4 Nf6 23.Bxf7+ Kxf7 24.Qc4+ Nfd5
 
 [Event "Ch Yugoslavia"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Deze Anton (YUG)"]
@@ -413,7 +395,6 @@ Ng7 31.Rxh7+ 1-0
 
 [Event "Ch Yugoslavia"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hulak Krunoslav (CRO)"]
@@ -437,7 +418,6 @@ Kf7 36.Qxf6+ Qxf6 37.Rxf6+ Kxf6 38.a5 Ke6 39.b5 Kd7 40.b6 h6
 
 [Event "Ch Yugoslavia"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ilijic Milan (SCG)"]
@@ -457,7 +437,6 @@ Qc6 20.Be7 Rf5 21.Nf6+ Bxf6 22.exf6 Rd7 23.Bxf5 Rxe7 24.Be4 1-0
 
 [Event "Ch Yugoslavia"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Maric Rudolf (YUG)"]
@@ -480,7 +459,6 @@ Rc8 30.Ra1 Ra8 31.Ra6 g6 32.f4 h6 33.Nd8 Re7 34.c5 g5 35.g3 gxf4
 
 [Event "Ch Yugoslavia"]
 [Site "Novi Sad (Yugoslavia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Mejic Petar (YUG)"]
@@ -500,7 +478,6 @@ Bf6 14.Nd2 Rb8 15.N2b3 Rb6 16.Rad1 Bxe5 17.Rxe5 Nd6 18.Qc3 Qf6
 
 [Event "Telexmatch"]
 [Site "Telex"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Jordan William (AUS)"]
@@ -521,7 +498,6 @@ Ke6 25.c4 Nb4 26.a3 Nc6 27.g3 Rg4 28.h3 Rxe4 29.Rxe4 f5 30.Rh4 1-0
 
 [Event ""]
 [Site "URS"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bronstein David I (RUS)"]
@@ -545,7 +521,6 @@ Ra2 41.Bc3 Rxg2 42.b6 Rf2 43.b7+ Kb8 44.Bxf6 1-0
 
 [Event ""]
 [Site "URS"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gufeld Eduard (USA)"]

@@ -1,13 +1,11 @@
 [Event "Clock simul, 10b"]
 [Site "Zagreb YUG"]
-[Date "1930.12.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Djordje Avirovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C73"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Simul, 34b"]
 [Site "Sombor YUG"]
-[Date "1930.12.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Graber"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Simul, 36b"]
 [Site "Osijek YUG"]
-[Date "1930.12.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Popovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Clock simul, 37b"]
 [Site "Subotica YUG"]
-[Date "1930.12.28"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Stanislaw Kohn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -85,14 +77,12 @@
 
 [Event "Simul, 34b"]
 [Site "Sombor YUG"]
-[Date "1930.12.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Nikola Konjovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -106,14 +96,12 @@
 
 [Event "Simul, 36b"]
 [Site "Belgrade YUG"]
-[Date "1931.01.04"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "S Lugowski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C23"]
-[EventDate "????.??.??"]
 [PlyCount "24"]
 [WhiteElo "?"]
 
@@ -124,14 +112,12 @@
 
 [Event "Clock simul, 37b"]
 [Site "Subotica YUG"]
-[Date "1930.12.28"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Steinberger"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -148,14 +134,12 @@
 
 [Event "Clock simul, 37b"]
 [Site "Subotica YUG"]
-[Date "1930.12.28"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Csillag"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -172,14 +156,12 @@
 
 [Event "Simul, 33b"]
 [Site "Sarajevo YUG"]
-[Date "1931.01.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Rumjancev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -192,14 +174,12 @@
 
 [Event "Simul, 36b"]
 [Site "Belgrade YUG"]
-[Date "1931.01.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "V Petrovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -212,14 +192,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Paris FRA"]
-[Date "1931.05.30"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "British Chess Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -231,14 +209,12 @@
 
 [Event "Simul, 36b"]
 [Site "Belgrade YUG"]
-[Date "1931.01.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Dobrovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -256,14 +232,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Paris FRA"]
-[Date "1931.05.30"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Russian Chess Circle"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A51"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -278,14 +252,12 @@
 
 [Event "Prague Olympiad"]
 [Site "Prague CSR"]
-[Date "1931.07.22"]
 [Round "15"]
 [White "Alexander Alekhine"]
 [Black "Erik Andersen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A50"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -298,14 +270,12 @@
 
 [Event "Clock Simul"]
 [Site "Reykjavik ISL"]
-[Date "1931.08.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Asmundur Asgeirsson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -318,14 +288,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Paris FRA"]
-[Date "1931.05.30"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Vardonenko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -339,14 +307,12 @@
 
 [Event "Simul, 24b"]
 [Site "London ENG"]
-[Date "1932.01.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "15"]
 [WhiteElo "?"]
 
@@ -357,14 +323,12 @@
 
 [Event "Simul, 24b"]
 [Site "London ENG"]
-[Date "1932.01.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Ms McCombie"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B14"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -379,14 +343,12 @@
 
 [Event "Nogales"]
 [Site "Nogales"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Aviles"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B07"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -402,14 +364,12 @@
 
 [Event "Simul, 60b"]
 [Site "Paris FRA"]
-[Date "1932.02.28"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "L'Echiquier Feminin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B15"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -422,14 +382,12 @@
 
 [Event "Simul, 60b"]
 [Site "Paris FRA"]
-[Date "1932.02.28"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Russian Tennis Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -442,14 +400,12 @@
 
 [Event "Simul, 25b"]
 [Site "Zuerich SUI"]
-[Date "1932.07.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Schenker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A52"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -462,14 +418,12 @@
 
 [Event "Bern"]
 [Site "Berne SUI"]
-[Date "1932.03.25"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Erwin Voellmy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -484,14 +438,12 @@
 
 [Event "Simul"]
 [Site "Rennes FRA"]
-[Date "1932.06.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Le Corre"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -503,14 +455,12 @@
 
 [Event "Simul, 32b"]
 [Site "Lille FRA"]
-[Date "1932.07.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Charles Dupin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 

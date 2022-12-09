@@ -1,6 +1,5 @@
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.17"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Ravi Lanka (IND)"]
@@ -25,7 +24,6 @@ Rc8 48.Rb6 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.23"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kobalia Mikhail (RUS)"]
@@ -52,7 +50,6 @@ Rf7 60.Bxh6 Kb7 61.Bf4 Rg7+ 62.Kf2 Rg6 63.Rh7+ 1-0
 
 [Event "It (open)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2004.03.29"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Barrientos Sergio (COL)"]
@@ -75,7 +72,6 @@ Qe6 31.Bf5 Qe5 32.Bxg6 fxg6 33.Nxb4 Qb2 34.Nc6 Rf8 35.Qd5+ Kh8
 
 [Event "It (open)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2004.03.31"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Del Rio Angelis Salvador G (ESP)"]
@@ -100,7 +96,6 @@ Rxb5 42.c7 a5 43.c8Q Nxc8 44.Rxc8 a4 45.Rf8+ Kg7 46.Rf7+ Kh6
 
 [Event "It (blitz) ACP (Prelim1)"]
 [Site "Internet"]
-[Date "2004.04.12"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Dimitrijevic Aleksandra (SCG)"]
@@ -123,7 +118,6 @@ Qg7 31.d6 Rd7 32.Qd5 Rgd8 33.Qe6 Nf7 34.Rd5 Bg5 35.Nxg5 Nxg5
 
 [Event "It (blitz) ACP (Prelim1)"]
 [Site "Internet"]
-[Date "2004.04.12"]
 [Round "9"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Lobron Eric (GER)"]
@@ -144,7 +138,6 @@ Nc5 25.Bc6 Rd6 26.b4 Ne6 27.Rbd1 Rh8 28.h3 Ng5 29.Rxd4 1-0
 
 [Event "It (blitz) ACP (Prelim1)"]
 [Site "Internet"]
-[Date "2004.04.12"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Timofeev Artyom (RUS)"]
@@ -167,7 +160,6 @@ Kg7 31.Re7+ Kh6 32.Rxd7 Rg1 33.Rxd6 Rxd1+ 34.Qxd1 h4 35.Qd4 Rf8
 
 [Event "It \"Canarias En Red\" (final)"]
 [Site "Internet"]
-[Date "2004.05.09"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Dreev Alexey (RUS)"]
@@ -190,7 +182,6 @@ Rdxc7 30.c3 f4 31.Rf3 Rf8 32.Rg4 Rf5 33.Rgxf4 Rxh5 34.c4 Rhc5
 
 [Event "It \"Canarias En Red\" (final)"]
 [Site "Internet"]
-[Date "2004.05.09"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kiriakov Petr (RUS)"]
@@ -212,7 +203,6 @@ Kb8 26.Rb1 Ne7 27.a6 Rc8 28.Rcb4 Bc6 29.Nxc6+ Nxc6 30.Rxb7+ Ka8
 
 [Event "It \"Canarias En Red\" (final)"]
 [Site "Internet"]
-[Date "2004.05.09"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Sasikiran Krishnan (IND)"]
@@ -239,7 +229,6 @@ Kf6 58.Kd5 Kg5 59.Kd6 Nb8 60.Kc7 Na6+ 61.Kc8 1-0
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "11"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Grabuzova Tatiana (RUS)"]
@@ -264,7 +253,6 @@ Be2 49.Ne4+ 1-0
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kiriakov Petr (RUS)"]
@@ -287,7 +275,6 @@ Bf5 36.Nf6 1-0
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "12"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Macieja Bartlomiej (POL)"]
@@ -314,7 +301,6 @@ Bg2 54.Bf5+ Kh6 55.Bf6 Bd5 56.Bxe5 Bf7 57.Kd4 Bg8 58.Kc5 Bf7
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Psakhis Lev (ISR)"]
@@ -339,7 +325,6 @@ Qe8 43.Qg4 a5 44.Bh4 Qf7 45.Bd8 b4 46.axb4 axb4 47.Qg6+ Qxg6
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "9"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Sasikiran Krishnan (IND)"]
@@ -363,7 +348,6 @@ Nxe4 36.Qxe4 Rb8 37.Ra8 Qf8 38.Rxb8 Qxb8 39.Nd5 Rb3 40.Ra1 Kg7
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "19"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Vasilevich Tatjana (UKR)"]
@@ -385,7 +369,6 @@ Qd2 31.Qd4 Re1 32.Bxh7+ Kxh7 33.Qxd2 Rxf1+ 34.Nxf1 Rf4 35.Qxf4 1-0
 
 [Event "It (blitz) (final)"]
 [Site "Internet"]
-[Date "2004.06.05"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Macieja Bartlomiej (POL)"]
@@ -406,7 +389,6 @@ Qd7 25.Re1 a6 26.Qb3 b5 27.Qa3 a5 28.Qc5 b4 29.d5 Nd8 30.Qxc7 1-0
 
 [Event "It (blitz) (final)"]
 [Site "Internet"]
-[Date "2004.06.05"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Macieja Bartlomiej (POL)"]
@@ -429,7 +411,6 @@ Kg6 30.Nxe6 Nb3+ 31.Kd1 Nxd2 32.Bxd2 Kf5 33.Ng5 a5 34.Ne4 Rd8
 
 [Event "Cup European Club (final)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2005.09.21"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Inarkiev Ernesto (RUS)"]
@@ -449,7 +430,6 @@ Rdc8 20.Qd2 Na6 21.Ng3 1/2-1/2
 
 [Event "Cup European Club (final)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2005.09.22"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Aleksandrov Aleksej (BLR)"]
@@ -471,7 +451,6 @@ Be5 31.Qc1 Nf6 1/2-1/2
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.03"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Anastasian Ashot (ARM)"]
@@ -492,7 +471,6 @@ Ngf6 14.Ne4 O-O-O 15.g3 Be7 16.Kb1 c5 17.Bf4 Qc6 18.Nxf6 Bxf6
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.08"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Arencibia Walter (CUB)"]
@@ -517,7 +495,6 @@ Qf6 48.Qd5 Qe6 49.Qd4+ 1/2-1/2
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2005.11.18"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Nisipeanu Liviu-Dieter (ROM)"]
@@ -536,7 +513,6 @@ exf6 8.Qd2 Bg7 9.O-O-O O-O 10.Ndb5 f5 11.Nxd6 fxe4 12.Ndxe4 Qxd2+
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.27"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Balogh Csaba (HUN)"]
@@ -565,7 +541,6 @@ e5 70.Rd7 Kf3 71.Rd5 Rxd5 72.cxd5 e4 73.d6 1/2-1/2
 
 [Event "Cup World FIDE (active)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.29"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Balogh Csaba (HUN)"]

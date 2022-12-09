@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bath (England)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Rogers Ian (AUS)"]
@@ -21,7 +20,6 @@ Nf5 20.Rh3 O-O-O 21.c4 Qc5 22.b4 Bf3 23.Rxd8+ Rxd8 24.Qxf3 Qxe5
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Chandler Murray G (ENG)"]
@@ -43,7 +41,6 @@ Re6 26.Rf1 Qh3 27.Ne1 g4 28.Bg2 Nxg3 29.hxg3 Qxg3 30.Rxf5 Qh4
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Chen De (CHN)"]
@@ -64,7 +61,6 @@ O-O 14.Bh4 Bf4 15.Re1 Kh8 16.Bg3 Nh5 17.Ne2 Nxg3 18.Nxf4 Ne4
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Giorgadze Tamaz (GEO)"]
@@ -90,7 +86,6 @@ Qb4 53.Bb5 Qc5 54.Bc6 Kh8 55.Qd8+ Kh7 56.Bd5 1-0
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Pfleger Helmut Dr (GER)"]
@@ -112,7 +107,6 @@ Qg7 31.a7 Bb7 32.Ba3 Rb5 33.Nxb5 cxb5 34.Bc5 d4 35.Qxd4 1-0
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Torre Eugenio (PHI)"]
@@ -134,7 +128,6 @@ f5 26.Nxb3 cxb3 27.exf5 Nf6 28.Bc6 b2 29.Qxb2 Nbxd5 30.Nxd5 Nxd5
 
 [Event "It (cat.14)"]
 [Site "Linares (Spain)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -158,7 +151,6 @@ Be7 32.c5 Bxh4 33.Rxh4 Rb5 34.Rc4 Rc7 35.Rdd4 Re7 36.Re4 Kd7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -188,7 +180,6 @@ Ne5 77.Ne3 Kg6 78.Ke7 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -210,7 +201,6 @@ Bc4 31.Qxc4 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Jussupow Artur (GER)"]
@@ -234,7 +224,6 @@ Qe7+ 42.Kxh3 Qf7 43.Rh2 Qd7+ 44.f5 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Lerner Konstantin Z (UKR)"]
@@ -259,7 +248,6 @@ Qf1+ 47.Ke3 f5 48.Re1 Qb5 49.Qh3 Qc5+ 50.Kf3 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "15"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -291,7 +279,6 @@ Ke6 90.f4 gxf4 91.g5 fxe3 92.gxh6 e2 93.Nf4+ Ke7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "17"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -311,7 +298,6 @@ Bxb4 20.Bxe4 Bxe4 21.Qd4 Bxf3 22.Qxb4 Be2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "19"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -335,7 +321,6 @@ Ra8 42.Kb3 Rb8+ 43.Kc2 Ra8 44.Rf1+ Ke6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "21"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -357,7 +342,6 @@ Rexe5 31.Rfxb2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "23"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -377,7 +361,6 @@ Nf6 19.Nc5 Bb5 20.Rd1 b6 21.Ne4 Nxe4 22.Bxe4 Rc8 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "25"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -397,7 +380,6 @@ Rc8 14.Rd2 Qb6 15.Qb3 Rfd8 16.Rfd1 Qxb3 17.axb3 Nb6 18.Ne5 Kf8
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "29"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -416,7 +398,6 @@ c5 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "31"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -438,7 +419,6 @@ Rc8 31.Qe2 Ng4 32.Ne5 Nxg3 33.hxg3 Qb5 34.Nc4 Bf6 35.Nab6 Re8 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "33"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -458,7 +438,6 @@ Nxd5 14.Rd1 Qe7 15.Bf3 Re8 16.g3 Bh3 17.Bd2 Be5 18.Bxd5 Bxd4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "35"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -477,7 +456,6 @@ d5 14.Bxf6 Bxf6 15.Nxd5 Be5 16.g3 fxg3 17.hxg3 Ne7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "37"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -496,7 +474,6 @@ Be7 8.O-O-O O-O 9.Nb3 a5 10.a4 d5 11.exd5 Nxd5 12.Bxe7 Ncxe7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1984.??.??"]
 [Round "39"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -521,7 +498,6 @@ hxg4 47.hxg4 Nxg4 48.Ne2 d4 1/2-1/2
 
 [Event ""]
 [Site "Oslo (Norway)"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "De Firmian Nick E (USA)"]
@@ -545,14 +521,12 @@ Qa7 43.Nxc5 Qxc5 44.Qb3 Rc8 1/2-1/2
 
 [Event "Phillips & Drew GLC Kings"]
 [Site "London ENG"]
-[Date "1984.04.29"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Lev Polugaevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A33"]
-[EventDate "1984.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 

@@ -1,13 +1,11 @@
 [Event "Simul"]
 [Site "Manresa ESP"]
-[Date "1976.05.30"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Sanchez"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E47"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "W-ch Student Team Final-A"]
 [Site "Graz AUT"]
-[Date "1972.07.23"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Andras Adorjan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D86"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -46,14 +42,12 @@
 
 [Event "Simul"]
 [Site "?"]
-[Date "1972.12.12"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "J Mulberry"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C82"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Simul"]
 [Site "?"]
-[Date "1972.12.12"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "D Taylor"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -87,14 +79,12 @@
 
 [Event "Simul"]
 [Site "?"]
-[Date "1972.12.12"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Y Markewycz"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B24"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -107,14 +97,12 @@
 
 [Event "Training Match"]
 [Site "Leningrad URS"]
-[Date "1971.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C95"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "?"]
 
@@ -132,14 +120,12 @@
 
 [Event "URS-ch U18"]
 [Site "Moscow URS"]
-[Date "1966.01.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "V Lilein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B24"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -154,14 +140,12 @@
 
 [Event "Simul, 30b"]
 [Site "Groningen NED"]
-[Date "1986.12.25"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Otto Rubingh"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -178,14 +162,12 @@
 
 [Event "Hoogovens"]
 [Site "Wijk aan Zee NED"]
-[Date "1988.01.09"]
 [Round "2"]
 [White "Anatoly Karpov"]
 [Black "Predrag Nikolic"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A25"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -201,14 +183,12 @@
 
 [Event "Simul, 20b"]
 [Site "Westergate ENG"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Neil L Carr"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -223,14 +203,12 @@
 
 [Event "Karpov - Korchnoi World Championship Match"]
 [Site "Merano ITA"]
-[Date "1981.10.15"]
 [Round "6"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C82"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -246,14 +224,12 @@
 
 [Event "London"]
 [Site "London"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "John J Cox"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -268,14 +244,12 @@
 
 [Event "Simul"]
 [Site "Chichester ENG"]
-[Date "1982.04.13"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Lee"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B16"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -291,14 +265,12 @@
 
 [Event "Karpov - Korchnoi World Championship Match"]
 [Site "City of Baguio PHI"]
-[Date "1978.09.30"]
 [Round "28"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C82"]
-[EventDate "????.??.??"]
 [PlyCount "121"]
 [WhiteElo "?"]
 
@@ -317,14 +289,12 @@
 
 [Event "Simul, 20b"]
 [Site "Toronto CAN"]
-[Date "1979.05.09"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Bryon Nickoloff"]
 [Result "0-1"]
 [BlackElo "2325"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "2705"]
 
@@ -340,14 +310,12 @@
 
 [Event "blitz game"]
 [Site "?"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ruslan Ponomariov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A59"]
-[EventDate "????.??.??"]
 [PlyCount "104"]
 [WhiteElo "?"]
 
@@ -365,14 +333,12 @@
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1991.11.10"]
 [Round "2"]
 [White "Anatoly Karpov"]
 [Black "Jan Timman"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "96"]
 [WhiteElo "?"]
 
@@ -389,14 +355,12 @@
 
 [Event "Brocco-op"]
 [Site "Brocco-op"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Georgiew Kr"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "137"]
 [WhiteElo "?"]
 
@@ -417,14 +381,12 @@
 
 [Event "Rotterdam World Cup"]
 [Site "Rotterdam NED"]
-[Date "1989.06.21"]
 [Round "15"]
 [White "Anatoly Karpov"]
 [Black "Valery Salov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "????.??.??"]
 [PlyCount "104"]
 [WhiteElo "?"]
 
@@ -442,14 +404,12 @@
 
 [Event "Rotterdam World Cup"]
 [Site "Rotterdam NED"]
-[Date "1989.06.22"]
 [Round "16"]
 [White "Anatoly Karpov"]
 [Black "Ljubomir Ljubojevic"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D16"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -466,14 +426,12 @@
 
 [Event "/- Munich"]
 [Site "/- Munich"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Mephisto (Computer)"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D16"]
-[EventDate "????.??.??"]
 [PlyCount "166"]
 [WhiteElo "?"]
 
@@ -496,14 +454,12 @@
 
 [Event "Cambridge simul"]
 [Site "Cambridge, MA USA"]
-[Date "1990.02.03"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Louis A Mercuri"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B33"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -517,14 +473,12 @@
 
 [Event "Vienna"]
 [Site "Vienna"]
-[Date "1991.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Michael Higatsberger"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A70"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -541,14 +495,12 @@
 
 [Event "Simul"]
 [Site "Warsaw"]
-[Date "2003.04.11"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Tadeusz Cymanski"]
 [Result "0-1"]
 [BlackElo "2000"]
 [ECO "B12"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "2686"]
 
@@ -566,14 +518,12 @@
 
 [Event "sim"]
 [Site "Prague"]
-[Date "2001.02.02"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "David Navara"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D85"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 

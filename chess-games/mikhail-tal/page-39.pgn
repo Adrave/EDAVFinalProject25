@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bolbochan Julio (ARG)"]
@@ -22,7 +21,6 @@ d5 26.Ne3 dxe4 27.Ng4 f5 28.Nf6+ Kf7 29.hxg6+ Ke6 30.Nxe8 Rxe8
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Brinck-Claussen Bjorn (DEN)"]
@@ -46,7 +44,6 @@ Kf7 36.Qc6 Ne7 37.Qe8+ Ke6 38.Rc8 Qd5 39.Rc3 Qd7 40.Re3+ Kd6
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Byrne Robert E (USA)"]
@@ -68,7 +65,6 @@ Qd7 26.Na5 Bd8 27.Nxc6+ Qxc6 28.Rc1 Kb7 29.cxb5 Qxb5 30.Rd3 Ka7
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Calvo Minguez Ricardo (ESP)"]
@@ -91,7 +87,6 @@ a5 36.Rg6 Kc5 37.Rxf6 Rxg3 38.Rh6 Rg5 39.f6 Nd8 40.f7 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Johansson Mattias"]
@@ -115,7 +110,6 @@ cxb5 38.Bxb7 Rxc5 39.Qe1 Rc7 40.Be4 b4 41.Nc6 Rd6 42.Nxa5 Rxd4
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Menvielle Lacourrelle August (ESP)"]
@@ -136,7 +130,6 @@ exf6 25.Qxf6+ Kh6 26.Rd5 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Olivera Alfredo"]
@@ -156,7 +149,6 @@ dxc3 14.Nxc3 Ne5 15.Qe2 c5 16.Be3 b4 17.Nd5 Nxd5 18.Bxd5 Ra7
 
 [Event "It \"Central Chess Club\""]
 [Site "Kislovodsk (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hamann Svend (DEN)"]
@@ -175,7 +167,6 @@ Bb4 8.Bg5 Bxc3 9.Bxf6 gxf6 10.bxc3 Qxc3 11.Rb1 Nc6 12.Nxc6 dxc6
 
 [Event "It \"Central Chess Club\""]
 [Site "Kislovodsk (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Matulovic Milan (SCG)"]
@@ -200,7 +191,6 @@ a6 48.Bxf4 Nc8 49.Be5 Nb6 50.g3 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Kislovodsk (Russia)"]
-[Date "1966.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Stefanov Parik (ROM)"]
@@ -228,7 +218,6 @@ Kf2 64.Rxg6 h4 65.Rh6 Kg3 66.Ke3 h3 67.Rg6+ Kh2 68.Kf2 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Kislovodsk (Russia)"]
-[Date "1966.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -251,7 +240,6 @@ b4 36.R8d5 Qb6 37.Qd4 Qb7 38.Kb1 Be6 39.Rd6 Rc4 40.Qe5 1-0
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -275,7 +263,6 @@ Kf7 37.Bxb5 Be6 38.Rc3 Rd4 39.Rd3 Rxd3 40.Bxd3 Bd5 41.Nc5 b6
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lehmann Heinz G (GER)"]
@@ -299,7 +286,6 @@ Ke5 42.g4 f5 43.gxf5 Kxf5 44.b5 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Menvielle Lacourrelle August (ESP)"]
@@ -323,7 +309,6 @@ Nb8 42.Kd5 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Pfleger Helmut Dr (GER)"]
@@ -345,7 +330,6 @@ Qd5+ 30.Kg1 Qf3 31.Rd1 1-0
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Trifunovic Petar (YUG)"]
@@ -371,7 +355,6 @@ Rxc5 49.Bxh3 f5 50.bxc6 Rxc6 51.Bxf5 Rd6 52.Kg3 Ke8 53.Rxd7 Rxd7
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1966.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Wade Robert G (ENG)"]
@@ -392,7 +375,6 @@ b5 19.Rdh1 Nc4+ 20.Bxc4 bxc4 21.Rxh7 Nxh7 22.Qh6 e6 23.f4 e5
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bogdanovic Rajko (BIH)"]
@@ -417,7 +399,6 @@ Kxg5 47.d5 Kf5 48.Re7 e3+ 49.Kf3 Bc2 50.d6 Bd1+ 51.Kg2 Kf6 52.Re4 1-0
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ciric Dragoljub M (SCG)"]
@@ -440,7 +421,6 @@ Rxd5 36.exd5 Qb4 37.c5 a2 38.Qe5 Qb1 39.Rh8 a1Q 40.Qd6+ 1-0
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Damjanovic Mato (CRO)"]
@@ -462,7 +442,6 @@ Rxa6 31.Rxa6 Bxa6 32.Nh5 f5 33.gxf5 Ke7 34.Ke3 Kd6 35.Nf6 1-0
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gasic Bozidar (SCG)"]
@@ -482,7 +461,6 @@ Nc4 20.Nd5 Nxd5 21.g4 Bxd4+ 22.Nxd4 Qh4 23.exd5 Ne5 24.Rxe5 1-0
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Pachman Ludek (GER)"]
@@ -503,7 +481,6 @@ cxd4 14.Nxe4 Re8 15.Qd2 Bf5 16.Nc5 Qe7 17.Rac1 Rac8 18.Qf4 Bg6
 
 [Event "It"]
 [Site "Sarajevo (Bosnia & Herzegovina)"]
-[Date "1966.??.??"]
 [Round "14"]
 [White "Tal Mikhail (LAT)"]
 [Black "Tan Lian-Ann (SIN)"]
@@ -522,7 +499,6 @@ Nbd7 8.Qf3 Qc7 9.O-O-O b5 10.e5 Bb7 11.Qh3 dxe5 12.Nxe6 fxe6
 
 [Event "Spartakiada URS"]
 [Site "Moscow (Russia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -542,14 +518,12 @@ Bxh3 20.Rxe8 Rxe8 21.Nf3 Bg4 22.Kg2 Be6 23.Bd2 Bd5 24.Bb3 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1967.06.03"]
 [Round "10"]
 [White "Mikhail Tal"]
 [Black "Efim Geller"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C93"]
-[EventDate "1967.05.21"]
 [PlyCount "201"]
 [WhiteElo "?"]
 

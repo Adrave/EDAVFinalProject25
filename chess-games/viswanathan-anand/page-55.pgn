@@ -1,6 +1,5 @@
 [Event "Cup European Club (final)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -21,7 +20,6 @@ Qxd3 25.Rxd3 Bh6 26.c4 Bxe3 27.fxe3 bxc4 28.Bxc4 Rd8 29.Ra3 d5 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dortmund (Germany)"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -42,7 +40,6 @@ c4 14.Qd4 O-O 15.Bxc4 Qxd6 16.Rd1 Rfc8 17.Bd3 Qb6 18.Qxb6 Nxb6
 
 [Event "Cup European Club"]
 [Site "Eupen (Belgium)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Chernin Alexander (HUN)"]
@@ -64,7 +61,6 @@ Nc4 26.Bc1 Bd4+ 27.Kh1 Ng7 28.Qh6 Rxb2 29.Bxb2 Nxb2 30.Rf3 Bxc3
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -85,7 +81,6 @@ f6 26.f4 fxg5 27.f5 Rh6 28.Qe5 Bf7 29.d7 Qxe5 30.R1xe5 Kf8 0-1
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -109,7 +104,6 @@ Bg8 43.f4 Qg6 44.Be5 Re8 45.Qxh5 1-0
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -130,7 +124,6 @@ Rad8 14.Na4 Qc6 15.Be3 Ne4 16.Qb5 Bd7 17.Qxc6 Bxc6 18.Bxa6 Bxa4
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -151,7 +144,6 @@ Nxc3 14.Qxc3 Kf8 15.Bf4 c6 16.Rxe7 Kxe7 17.Qb4+ Kd8 18.Qxb7 Rc8
 
 [Event "Match"]
 [Site "Leon (Spain)"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -177,7 +169,6 @@ Ra2+ 54.Kc3 Ra3+ 55.Kb4 Ra1 56.f5 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "1999.??.??"]
 [Round "14"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -201,7 +192,6 @@ Rd3 43.Bf5+ Kg8 44.Bc8 Nxf3 45.Qe6+ 1-0
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "1999.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -226,7 +216,6 @@ Bc2 46.Nb5 Ne7 47.Na7 Kd4 48.c6 Nd5 49.Nb5+ Kc5 50.c7 Bf5 0-1
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -248,7 +237,6 @@ Qa5+ 26.Bd2 Nxe5 27.Be2 c3 28.Bxc3 b4 29.Nxg7 bxc3 30.Qh8+ Kf7
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -271,7 +259,6 @@ Rxc2 25.Bd3 Rb2 26.Qa7 Qb7 27.Qxb7 Rxb7 28.a4 Ne6 29.Bf1 Nc5
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -293,7 +280,6 @@ Rc1+ 31.Kf2 Bxb4 32.Nf5+ Kg6 33.Nh4+ Kh5 34.Nf5 Be1+ 0-1
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -316,7 +302,6 @@ Kh8 36.Ng6+ Kh7 37.Qe4 Qc7 38.Ne7+ 1-0
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -338,7 +323,6 @@ g3 31.Qh6 gxf2+ 32.Kf1 Bg8 33.Rxh7+ Bxh7 34.Rb7 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -361,7 +345,6 @@ Rd1 36.Be2 Rc1 0-1
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -382,7 +365,6 @@ Be6 14.Bxa7 Rxa7 15.Qf2 Ra8 16.O-O-O Qb8 17.Bb5 Rc8 18.Na4 d5
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "12"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -404,7 +386,6 @@ Bc8 26.Nxd4 Qf6 27.Nc6 Qxa1 28.Rxa1 Raf7 29.f4 Ne3 30.Bf3 h6
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Yermolinsky Alex (USA)"]
@@ -428,7 +409,6 @@ Nxd4 20.Rxd4 e5 21.Rxb4 d5 22.exd5 Bxb4 23.Qxb4 Bf5 24.Qc5 Qb7
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasimdzhanov Rustam (UZB)"]
@@ -451,7 +431,6 @@ Ke7 31.Nc4 Rec5 32.Rfd2 Ne8 33.Re2+ Kf7 34.Rde3 Nf6 35.Re7+ Kg6
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Piket Jeroen (NED)"]
@@ -474,7 +453,6 @@ h6 31.Bd3 Re8 32.Rxe8+ Qxe8 33.Be7 Bb2 34.Qe4 g6 35.Bb4 Qxe4
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Timman Jan H (NED)"]
@@ -497,7 +475,6 @@ Ra3 31.Qh4 Rda8 32.Nxh5 Bc2 33.Nf4 Qh7 34.Qg4 Bxb3 35.Re3 R8a4
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "13"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -520,7 +497,6 @@ Rxh1 31.Rxh1 Qg5 32.Rh7 Rc7 33.Ka2 Ba6 34.Qh2 Bd3 35.Rh8+ Ke7
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "11"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Wely Loek (NED)"]
@@ -547,7 +523,6 @@ Rc7 60.Qxc4 1-0
 
 [Event "Linares16th"]
 [Site "Linares"]
-[Date "1999.02.27"]
 [Round "6"]
 [White "Anand, Viswanathan"]
 [Black "Svidler, Peter"]

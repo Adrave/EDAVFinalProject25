@@ -1,13 +1,11 @@
 [Event "?"]
 [Site "?"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "George Salto Fontein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "C H Piccardt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C56"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "NED Cup"]
 [Site "Netherlands"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Alexander Rueb"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C24"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -63,14 +57,12 @@
 
 [Event "S.S.S. Cup"]
 [Site "Amsterdam NED"]
-[Date "1925.02.13"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Klaas Geus"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -86,14 +78,12 @@
 
 [Event "NSB - RhW Schachverband"]
 [Site "Nijmegen NED"]
-[Date "1925.10.25"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Otto Brech"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -108,14 +98,12 @@
 
 [Event "?"]
 [Site "?"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Alexander Rueb"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -129,14 +117,12 @@
 
 [Event "?"]
 [Site "?"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "George Salto Fontein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A53"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -150,14 +136,12 @@
 
 [Event "ASC winter"]
 [Site "Amsterdam NED"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Willem Andreas Theodorus Schelfhout"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A83"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -171,14 +155,12 @@
 
 [Event "Match"]
 [Site "Berlin GER"]
-[Date "1922.06.??"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Bernhard Kagan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -191,14 +173,12 @@
 
 [Event "SSS Cup"]
 [Site "Scheveningen NED"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "George Salto Fontein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -215,14 +195,12 @@
 
 [Event "SSS Cup"]
 [Site "Scheveningen NED"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Alexander Rueb"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A22"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -234,14 +212,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "D C W Spaans"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E72"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -257,14 +233,12 @@
 
 [Event "Rotterdam"]
 [Site "Rotterdam NED"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Rudolf Johannes Loman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A09"]
-[EventDate "????.??.??"]
 [PlyCount "35"]
 [WhiteElo "?"]
 
@@ -276,14 +250,12 @@
 
 [Event "Hastings-C"]
 [Site "Hastings ENG"]
-[Date "1919.08.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "William Alban Cunningham Craig"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -297,14 +269,12 @@
 
 [Event "Hastings-C"]
 [Site "Hastings ENG"]
-[Date "1919.08.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "E Palmer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -318,14 +288,12 @@
 
 [Event "NED-ch"]
 [Site "The Hague NED"]
-[Date "1919.12.30"]
 [Round "6"]
 [White "Max Euwe"]
 [Black "Reurt Meijer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -340,14 +308,12 @@
 
 [Event "Haarlem"]
 [Site "Haarlem NED"]
-[Date "1919.08.??"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "G Zittersteyn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -362,14 +328,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Wiersma"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C44"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -382,14 +346,12 @@
 
 [Event "Amsterdam"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Wiersma"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C48"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -405,14 +367,12 @@
 
 [Event "Amsterdam m4"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "Johannis Wouter Keemink"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -424,14 +384,12 @@
 
 [Event "Scheveningen"]
 [Site "Scheveningen"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "George Salto Fontein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -448,14 +406,12 @@
 
 [Event "Scheveningen"]
 [Site "Scheveningen NED"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Henry Baudet"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C50"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -469,14 +425,12 @@
 
 [Event "Scheveningen"]
 [Site "Scheveningen NED"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Alexander Rueb"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "111"]
 [WhiteElo "?"]
 
@@ -495,14 +449,12 @@
 
 [Event "Amsterdam m4"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "3"]
 [White "Max Euwe"]
 [Black "Johannis Wouter Keemink"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -518,14 +470,12 @@
 
 [Event "ASC winter"]
 [Site "Amsterdam NED"]
-[Date "1920.??.??"]
 [Round "?"]
 [White "Max Euwe"]
 [Black "Jan Hendrik Graves"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 

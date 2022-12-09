@@ -1,6 +1,5 @@
 [Event "It \"Investbanka\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1995.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -22,7 +21,6 @@ Qb4 31.Nf6+ Kf8 32.Nxh7+ Kg8 33.Nf6+ Kf8 34.Re4 1-0
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1995.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -46,7 +44,6 @@ Rxa2 42.h5 Ne6 43.Rh8 Ng5 44.Rc8 Rxg2+ 45.Kf1 1-0
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1995.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -71,7 +68,6 @@ Nf6 48.g4 Ra1 49.e5 Nd5+ 50.Ke4 1-0
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1995.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -96,7 +92,6 @@ d3 42.Bd4 d2 43.Qe5 Kf8 44.Be3 Kg8 45.Bh6 Qxf2+ 46.Rxf2 d1Q+
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1995.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -117,7 +112,6 @@ Ng4 20.e5 Rd7 21.Ne2 Rad8 22.Bxe6 fxe6 23.Qxg6 Nxe5 24.Qh7+ Kf8
 
 [Event "Match (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1995.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lobron Eric (GER)"]
@@ -141,7 +135,6 @@ Ne7 36.Qe4 R8d7 37.Be5+ Kg8 38.h4 gxh4 39.Qxh4 Kh7 40.Qf6 Neg6
 
 [Event "Bundesliga 1994/95"]
 [Site "Germany"]
-[Date "1995.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Hertneck Gerald (GER)"]
@@ -163,7 +156,6 @@ cxd5 26.cxd5 Nb6 27.d6 Nd5 28.Nd4 Rhf8 29.Kg3 Bg4 30.fxg4 Rxf4
 
 [Event "Bundesliga 1994/95"]
 [Site "Germany"]
-[Date "1995.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Zude Arno (GER)"]
@@ -189,7 +181,6 @@ Rh8 54.Rb1 1-0
 
 [Event "Bundesliga 1995/96"]
 [Site "Germany"]
-[Date "1995.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Horvath Tamas I (HUN)"]
@@ -210,7 +201,6 @@ cxd4 20.cxd4 d5 21.exd5 exd5 22.Qg6 Qd7 23.Nf5 Nce8 24.a6 Bc8
 
 [Event "It (cat.17)"]
 [Site "Horgen (Switzerland)"]
-[Date "1995.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gulko Boris F (USA)"]
@@ -231,7 +221,6 @@ Re7 20.Nh4 c5 21.Ndf5 Re6 22.Nxd6 Rxd6 23.bxc5 Rc6 24.Nf3 Rxc5
 
 [Event "It (cat.17)"]
 [Site "Horgen (Switzerland)"]
-[Date "1995.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -258,7 +247,6 @@ Kf5 59.g6 Kf6 60.Bg5+ Kg7 61.Kd4 Ba4 62.Ke5 Bc2 63.Bf6+ Kf8 64.Kf4 1-0
 
 [Event "It (cat.17)"]
 [Site "Horgen (Switzerland)"]
-[Date "1995.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -286,7 +274,6 @@ Rf3 65.Rd7 Nf7 66.Rc7 Rxg3 67.Rc8+ 1-0
 
 [Event "It (cat.17)"]
 [Site "Horgen (Switzerland)"]
-[Date "1995.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -308,7 +295,6 @@ Qa3 31.Qxe6+ Kf8 32.Qxf5+ Ke8 33.Qe6+ Kd8 34.Qb6+ Ke8 35.Nd6+ 1-0
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "London (England)"]
-[Date "1995.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Miles Anthony J (ENG)"]
@@ -331,7 +317,6 @@ Qb5 25.Bxf6 gxf6 26.Qxf6 Be7 27.Qh8+ Kd7 28.Ra1 Qc5 29.h5 Qf2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1995.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -356,7 +341,6 @@ Rd6 48.Ke4 Rd1 49.Re5 1-0
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1995.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Nunn John D M (ENG)"]
@@ -384,7 +368,6 @@ Kg5 59.Qe7+ Kg6 60.Qe8+ Kg5 61.Qd8+ Kg4 62.Qd1+ Kg5 63.Qd2+ Kh5
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1995.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -405,7 +388,6 @@ O-O 25.Rb5 Qa6 26.Rxh5 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1995.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -430,7 +412,6 @@ Nxc6 43.bxc6 Qc7 44.Qxb8+ Qxb8 45.c7 Qc8 46.Nxd5 Kg7 47.Ne7 Qd7
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1995.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -452,7 +433,6 @@ fxe6 32.fxe6 Bxe1 33.e7+ Kg7 34.Rxe1 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1995.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -476,7 +456,6 @@ a5 42.e6 1-0
 
 [Event "It \"Kremlin Stars\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1995.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Jussupow Artur (GER)"]
@@ -497,7 +476,6 @@ Nf6 25.Bg5 1-0
 
 [Event "It (cat.17)"]
 [Site "Novgorod (Russia)"]
-[Date "1995.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -519,7 +497,6 @@ b4 31.Bd5 Kg7 32.Kf1 1-0
 
 [Event "Cup European Club"]
 [Site "Paris (France)"]
-[Date "1995.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -542,7 +519,6 @@ Ra2 36.f5 Kf8 37.Kd1 g5 38.f6 Kg8 39.Ra8+ Kh7 40.e6 1-0
 
 [Event "Cup European Club"]
 [Site "Paris (France)"]
-[Date "1995.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Renet Olivier (FRA)"]
@@ -566,7 +542,6 @@ Qc5 37.Bc4 Ne3+ 38.R2xe3 Bxc4+ 39.Kg1 Bg8 40.b3 a5 41.Re8 Rd7
 
 [Event "It \"Intel Chess Grand Prix\" (active)"]
 [Site "Paris (France)"]
-[Date "1995.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Bacrot Etienne (FRA)"]

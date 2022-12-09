@@ -1,6 +1,5 @@
 [Event "76th Tata Steel Masters"]
 [Site "Wijk aan Zee NED"]
-[Date "2014.01.23"]
 [Round "9.6"]
 [White "So, W."]
 [Black "Van Wely, L."]
@@ -9,7 +8,6 @@
 [WhiteElo "2719"]
 [BlackElo "2672"]
 [PlyCount "81"]
-[EventDate "2014.01.11"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "NED"]
@@ -28,7 +26,6 @@ dxe5 41. Be4 1-0
 
 [Event "76th Tata Steel Masters"]
 [Site "Wijk aan Zee NED"]
-[Date "2014.01.17"]
 [Round "5.3"]
 [White "So, W."]
 [Black "Gelfand, B."]
@@ -37,7 +34,6 @@ dxe5 41. Be4 1-0
 [WhiteElo "2719"]
 [BlackElo "2777"]
 [PlyCount "57"]
-[EventDate "2014.01.11"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "NED"]
@@ -54,7 +50,6 @@ Rab8 22. O-O Qg6 23. a5 Rfc8 24. Nc4 Qc2 25. Rc1 Qd3 26. Be3 h6 27. Rfd1 Qf5
 
 [Event "College Final Four 2014"]
 [Site "New York USA"]
-[Date "2014.04.06"]
 [Round "3.2"]
 [White "So, W."]
 [Black "Moradiabadi, E."]
@@ -63,7 +58,6 @@ Rab8 22. O-O Qg6 23. a5 Rfc8 24. Nc4 Qc2 25. Rc1 Qd3 26. Be3 h6 27. Rfd1 Qf5
 [WhiteElo "2738"]
 [BlackElo "2585"]
 [PlyCount "47"]
-[EventDate "2014.04.05"]
 [EventType "team"]
 [EventRounds "3"]
 [EventCountry "USA"]
@@ -80,7 +74,6 @@ Bxg5 22. f4 Nf6 23. Rxg5 Nxh7 24. Qxh7+ 1-0
 
 [Event "49th Capablanca Elite 2014"]
 [Site "Havana CUB"]
-[Date "2014.05.16"]
 [Round "8.2"]
 [White "So, W."]
 [Black "Dominguez Perez, L."]
@@ -89,7 +82,6 @@ Bxg5 22. f4 Nf6 23. Rxg5 Nxh7 24. Qxh7+ 1-0
 [WhiteElo "2731"]
 [BlackElo "2768"]
 [PlyCount "127"]
-[EventDate "2014.05.08"]
 [EventType "tourn"]
 [EventRounds "19"]
 [EventCountry "CUB"]
@@ -111,7 +103,6 @@ Kc7 59. Ke6 Nd4+ 60. Ke7 Nf5+ 61. Ke6 Nd4+ 62. Kf7 Nf5 63. Kf6 Ne3 64. Ke6 1-0
 
 [Event "49th Capablanca Elite 2014"]
 [Site "Havana CUB"]
-[Date "2014.05.09"]
 [Round "2.3"]
 [White "So, W."]
 [Black "Vallejo Pons, F."]
@@ -120,7 +111,6 @@ Kc7 59. Ke6 Nd4+ 60. Ke7 Nf5+ 61. Ke6 Nd4+ 62. Kf7 Nf5 63. Kf6 Ne3 64. Ke6 1-0
 [WhiteElo "2731"]
 [BlackElo "2700"]
 [PlyCount "83"]
-[EventDate "2014.05.08"]
 [EventType "tourn"]
 [EventRounds "19"]
 [EventCountry "CUB"]
@@ -139,7 +129,6 @@ Nxe5 34. fxe5 h4 35. Rd6 Re8 36. Kf3 f4 37. Nd5+ Bxd5+ 38. Rxd5 Rf8 39. Rd2 Rf7
 
 [Event "9th Edmonton Int 2014"]
 [Site "Edmonton CAN"]
-[Date "2014.06.29"]
 [Round "9.2"]
 [White "So, W."]
 [Black "Haessel, D."]
@@ -148,7 +137,6 @@ Nxe5 34. fxe5 h4 35. Rd6 Re8 36. Kf3 f4 37. Nd5+ Bxd5+ 38. Rxd5 Rf8 39. Rd2 Rf7
 [WhiteElo "2744"]
 [BlackElo "2168"]
 [PlyCount "47"]
-[EventDate "2014.06.21"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "CAN"]
@@ -164,7 +152,6 @@ Rad8 22. h6 Bf8 23. Nh5 Rxd4 24. Nf6 1-0
 
 [Event "9th Edmonton Int 2014"]
 [Site "Edmonton CAN"]
-[Date "2014.06.22"]
 [Round "2.2"]
 [White "So, W."]
 [Black "Shankland, S."]
@@ -173,7 +160,6 @@ Rad8 22. h6 Bf8 23. Nh5 Rxd4 24. Nf6 1-0
 [WhiteElo "2744"]
 [BlackElo "2632"]
 [PlyCount "71"]
-[EventDate "2014.06.21"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "CAN"]
@@ -191,7 +177,6 @@ Bxb2 34. Qb1 Qc6 35. Qxb2 Qxc5+ 36. Kg2 1-0
 
 [Event "ACP Golden Classic 2014"]
 [Site "Bergamo ITA"]
-[Date "2014.07.14"]
 [Round "3.1"]
 [White "So, W."]
 [Black "Vocaturo, D."]
@@ -200,7 +185,6 @@ Bxb2 34. Qb1 Qc6 35. Qxb2 Qxc5+ 36. Kg2 1-0
 [WhiteElo "2744"]
 [BlackElo "2584"]
 [PlyCount "85"]
-[EventDate "2014.07.12"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "ITA"]
@@ -219,7 +203,6 @@ Qe8 29. Qb2 Ra8 30. Bd2 Qf7 31. Ncd1 Nxg3 32. Kxg3 Nf4 33. Nc3 Rf8 34. Be3 g4
 
 [Event "ACP Golden Classic 2014"]
 [Site "Bergamo ITA"]
-[Date "2014.07.18"]
 [Round "6.3"]
 [White "So, W."]
 [Black "Jobava, Ba"]
@@ -228,7 +211,6 @@ Qe8 29. Qb2 Ra8 30. Bd2 Qf7 31. Ncd1 Nxg3 32. Kxg3 Nf4 33. Nc3 Rf8 34. Be3 g4
 [WhiteElo "2744"]
 [BlackElo "2713"]
 [PlyCount "73"]
-[EventDate "2014.07.12"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "ITA"]
@@ -246,7 +228,6 @@ g5 34. c6 Bd6 35. Nd7 gxf4 36. Nb6 f3+ 37. Kf2 1-0
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.15"]
 [Round "5.4"]
 [White "So, W."]
 [Black "Hou Yifan"]
@@ -255,7 +236,6 @@ g5 34. c6 Bd6 35. Nd7 gxf4 36. Nb6 f3+ 37. Kf2 1-0
 [WhiteElo "2762"]
 [BlackElo "2673"]
 [PlyCount "132"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -278,7 +258,6 @@ Rh1 1/2-1/2
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.20"]
 [Round "9.5"]
 [White "So, W."]
 [Black "Vachier Lagrave, M."]
@@ -287,7 +266,6 @@ Rh1 1/2-1/2
 [WhiteElo "2762"]
 [BlackElo "2757"]
 [PlyCount "85"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -306,7 +284,6 @@ Rxe5 40. Nb7 Be7 41. Rxa6 Kg7 42. Nd6 Bxd6 43. Rxd6 1/2-1/2
 
 [Event "Bunratty Masters 2015"]
 [Site "Bunratty IRL"]
-[Date "2015.02.21"]
 [Round "3.1"]
 [White "So, W."]
 [Black "Norwood, D."]
@@ -315,7 +292,6 @@ Rxe5 40. Nb7 Be7 41. Rxa6 Kg7 42. Nd6 Bxd6 43. Rxd6 1/2-1/2
 [WhiteElo "2788"]
 [BlackElo "2502"]
 [PlyCount "91"]
-[EventDate "2015.02.20"]
 [EventType "swiss"]
 [EventRounds "6"]
 [EventCountry "IRL"]
@@ -333,7 +309,6 @@ Rg8+ 35. Kxh4 Rxg1 36. Bxg1 Rb1 37. Rxb1 Bxb1 38. c5 a3 39. c4 a2 40. Bd4 dxc5
 
 [Event "Vugar Gashimov Mem 2015"]
 [Site "Shamkir AZE"]
-[Date "2015.04.23"]
 [Round "6.2"]
 [White "So, W."]
 [Black "Mamedyarov, S."]
@@ -342,7 +317,6 @@ Rg8+ 35. Kxh4 Rxg1 36. Bxg1 Rb1 37. Rxb1 Bxb1 38. c5 a3 39. c4 a2 40. Bd4 dxc5
 [WhiteElo "2788"]
 [BlackElo "2756"]
 [PlyCount "73"]
-[EventDate "2015.04.17"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -360,7 +334,6 @@ Qxd7 Qxe4 28. Nxe7 Nxe7 29. Qxe7 Qxe2 30. Qxf7 Qd1+ 31. Bf1 Nd4 32. Qf8+ Kc7
 
 [Event "Vugar Gashimov Mem 2015"]
 [Site "Shamkir AZE"]
-[Date "2015.04.25"]
 [Round "8.3"]
 [White "So, W."]
 [Black "Carlsen, M."]
@@ -369,7 +342,6 @@ Qxd7 Qxe4 28. Nxe7 Nxe7 29. Qxe7 Qxe2 30. Qxf7 Qd1+ 31. Bf1 Nd4 32. Qf8+ Kc7
 [WhiteElo "2788"]
 [BlackElo "2863"]
 [PlyCount "81"]
-[EventDate "2015.04.17"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -388,7 +360,6 @@ b3 28. d4 Bb6 29. Be3 h6 30. e5 Bc6 31. Qxb3 Bxg2 32. Kxg2 Bxd4 33. Bxd4 Qe4+
 
 [Event "TCh-FRA Top 12 2015"]
 [Site "Montpellier FRA"]
-[Date "2015.05.30"]
 [Round "1.1"]
 [White "So, W."]
 [Black "Duda, J."]
@@ -397,7 +368,6 @@ b3 28. d4 Bb6 29. Be3 h6 30. e5 Bc6 31. Qxb3 Bxg2 32. Kxg2 Bxd4 33. Bxd4 Qe4+
 [WhiteElo "2778"]
 [BlackElo "2610"]
 [PlyCount "78"]
-[EventDate "2015.05.30"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -416,7 +386,6 @@ Ra8 29. Nb3 Bc8 30. Ra1 Bd7 31. Bd3 Ng5 32. Nxg5 Qxg5 33. Nc5 Bg4 34. Rxa8 Rxa8
 
 [Event "TCh-FRA Top 12 2015"]
 [Site "Montpellier FRA"]
-[Date "2015.06.04"]
 [Round "6.5"]
 [White "So, W."]
 [Black "Edouard, R."]
@@ -425,7 +394,6 @@ Ra8 29. Nb3 Bc8 30. Ra1 Bd7 31. Bd3 Ng5 32. Nxg5 Qxg5 33. Nc5 Bg4 34. Rxa8 Rxa8
 [WhiteElo "2778"]
 [BlackElo "2627"]
 [PlyCount "147"]
-[EventDate "2015.05.30"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -450,7 +418,6 @@ Rf2 73. Rf8 Rf3 74. Rf6 1/2-1/2
 
 [Event "TCh-FRA Top 12 2015"]
 [Site "Montpellier FRA"]
-[Date "2015.06.02"]
 [Round "4.6"]
 [White "So, W."]
 [Black "Iordachescu, V."]
@@ -459,7 +426,6 @@ Rf2 73. Rf8 Rf3 74. Rf6 1/2-1/2
 [WhiteElo "2778"]
 [BlackElo "2588"]
 [PlyCount "85"]
-[EventDate "2015.05.30"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -479,7 +445,6 @@ Be3 Qd8 35. Bb6 Qd6 36. Bd3 Bg5 37. Kc2 Kg7 38. b4 Bf4 39. Bc5 Qd8 40. Bb6 Qd6
 
 [Event "TCh-TUR Super League 2015"]
 [Site "Kocaeli TUR"]
-[Date "2015.08.13"]
 [Round "11.4"]
 [White "So, W."]
 [Black "Harikrishna, P."]
@@ -488,7 +453,6 @@ Be3 Qd8 35. Bb6 Qd6 36. Bd3 Bg5 37. Kc2 Kg7 38. b4 Bf4 39. Bc5 Qd8 40. Bb6 Qd6
 [WhiteElo "2779"]
 [BlackElo "2740"]
 [PlyCount "111"]
-[EventDate "2015.08.04"]
 [EventType "team"]
 [EventRounds "13"]
 [EventCountry "TUR"]
@@ -510,7 +474,6 @@ Ke3 Kg4 54. Ke2 Kf4 55. Kd3 Kg5 56. Ke3 1/2-1/2
 
 [Event "Millionaire TB A 2015"]
 [Site "Las Vegas USA"]
-[Date "2015.10.11"]
 [Round "4.2"]
 [White "So, W."]
 [Black "McShane, L."]
@@ -519,7 +482,6 @@ Ke3 Kg4 54. Ke2 Kf4 55. Kd3 Kg5 56. Ke3 1/2-1/2
 [WhiteElo "2760"]
 [BlackElo "2674"]
 [PlyCount "191"]
-[EventDate "2015.10.11"]
 [EventType "tourn (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -547,7 +509,6 @@ Rf4 91. Kg2 g4 92. fxg4+ Rxg4+ 93. Kf3 Kg5 94. Rf8 Rf4+ 95. Kg3 Rg4+ 96. Kf3
 
 [Event "Millionaire TB Final 2015"]
 [Site "Las Vegas USA"]
-[Date "2015.10.11"]
 [Round "2"]
 [White "So, W."]
 [Black "Nakamura, Hi"]
@@ -556,7 +517,6 @@ Rf4 91. Kg2 g4 92. fxg4+ Rxg4+ 93. Kf3 Kg5 94. Rf8 Rf4+ 95. Kg3 Rg4+ 96. Kf3
 [WhiteElo "2760"]
 [BlackElo "2816"]
 [PlyCount "31"]
-[EventDate "2015.10.11"]
 [EventType "match (rapid)"]
 [EventRounds "3"]
 [EventCountry "USA"]
@@ -570,7 +530,6 @@ Qd5 9. Qe2 Be7 10. Re1 d3 11. Bxc6+ Qxc6 12. Qxd3 Qd6 13. Qe2 O-O 14. Nc3 Be6
 
 [Event "Qatar Masters Open 2015"]
 [Site "Doha QAT"]
-[Date "2015.12.28"]
 [Round "8.4"]
 [White "So, W."]
 [Black "Lin Chen"]
@@ -579,7 +538,6 @@ Qd5 9. Qe2 Be7 10. Re1 d3 11. Bxc6+ Qxc6 12. Qxd3 Qd6 13. Qe2 O-O 14. Nc3 Be6
 [WhiteElo "2775"]
 [BlackElo "2532"]
 [PlyCount "263"]
-[EventDate "2015.12.20"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "QAT"]
@@ -611,7 +569,6 @@ Rd8+ Kg7 111. Rd7 Kf8 112. Rd6 Kg7 113. Kd7 Ra4 114. Rf6 Ra7+ 115. Kd6 Ra6+
 
 [Event "Qatar Masters Open 2015"]
 [Site "Doha QAT"]
-[Date "2015.12.26"]
 [Round "6.1"]
 [White "So, W."]
 [Black "Carlsen, M."]
@@ -620,7 +577,6 @@ Rd8+ Kg7 111. Rd7 Kf8 112. Rd6 Kg7 113. Kd7 Ra4 114. Rf6 Ra7+ 115. Kd6 Ra6+
 [WhiteElo "2775"]
 [BlackElo "2834"]
 [PlyCount "77"]
-[EventDate "2015.12.20"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "QAT"]
@@ -637,7 +593,6 @@ a4 35. Bc2 Qb7 36. Qd3 Qc7 37. Qd2 Qb7 38. Qd3 Qc7 39. Qd2 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.19"]
 [Round "3.3"]
 [White "So, Wesley"]
 [Black "Le, Quang Liem"]
@@ -645,7 +600,6 @@ a4 35. Bc2 Qb7 36. Qd3 Qc7 37. Qd2 Qb7 38. Qd3 Qc7 39. Qd2 1/2-1/2
 [WhiteElo "2773"]
 [BlackElo "2697"]
 [ECO "C67"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 
 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Bd7 13. Ne2 
@@ -661,7 +615,6 @@ f5 56. Kd2 Kf4 57. Kd3 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.17"]
 [Round "3.1"]
 [White "So, Wesley"]
 [Black "Le, Quang Liem"]
@@ -669,7 +622,6 @@ f5 56. Kd2 Kf4 57. Kd3 1/2-1/2
 [WhiteElo "2773"]
 [BlackElo "2697"]
 [ECO "D37"]
-[EventDate "2015.09.11"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Bf4 Nf6 5. e3 O-O 6. Nf3 Nbd7 7. c5 Ne4 8.
  Nxe4 dxe4 9. Ne5 Nxe5 10. Bxe5 Bd7 11. Bc4 Bf6 12. Bg3 Bc6 13. b4 b5 14. 
@@ -683,14 +635,12 @@ Bf8 45. Rxh5 Kg6 46. Rh8 Kg7 47. Rh5 Kg6 48. Rh8 Kg7 49. Rh5 1/2-1/2
 
 [Event "Tata Steel Masters"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.17"]
 [Round "7"]
 [White "Wesley So"]
 [Black "Teimour Radjabov"]
 [Result "1/2-1/2"]
 [BlackElo "2734"]
 [ECO "D37"]
-[EventDate "2015.01.09"]
 [PlyCount "81"]
 [WhiteElo "2762"]
 

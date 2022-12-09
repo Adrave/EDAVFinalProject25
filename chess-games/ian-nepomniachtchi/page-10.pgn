@@ -5,7 +5,6 @@
 [BlackFideId "5000017"]
 [Result "1-0"]
 [Round "03"]
-[Date "Fri Nov 22 2019"]
 [WhiteClock "0:23:41"]
 [BlackClock "0:13:55"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "5029465"]
 [Result "1-0"]
 [Round "07"]
-[Date "Sun Nov 24 2019"]
 [WhiteClock "0:10:28"]
 [BlackClock "0:00:13"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "24116068"]
 [Result "1-0"]
 [Round "13"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:01:41"]
 [BlackClock "0:00:21"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "18"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:07"]
 [BlackClock "0:00:00"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "5000017"]
 [Result "1-0"]
 [Round "19"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:32"]
 [BlackClock "0:01:18"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "5007003"]
 [Result "1-0"]
 [Round "26"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:02:54"]
 [BlackClock "0:00:36"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "2805677"]
 [Result "1-0"]
 [Round "1-03"]
-[Date "Fri Dec 13 2019"]
 [WhiteClock "0:14:00"]
 [BlackClock "0:00:26"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "5202213"]
 [Result "1-0"]
 [Round "2-04"]
-[Date "Mon Dec 16 2019"]
 [WhiteClock "0:04:59"]
 [BlackClock "0:00:27"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "623539"]
 [Result "1-0"]
 [Round "3-01"]
-[Date "Tue Dec 17 2019"]
 [WhiteClock "0:40:39"]
 [BlackClock "0:25:47"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "13302485"]
 [Result "1-0"]
 [Round "07"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:05:29"]
 [BlackClock "0:00:34"]
 
@@ -155,7 +145,6 @@
 [BlackFideId "5002150"]
 [Result "1-0"]
 [Round "02"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:11:56"]
 [BlackClock "0:01:18"]
 
@@ -170,7 +159,6 @@
 [BlackFideId "2804344"]
 [Result "1-0"]
 [Round "06"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:13:07"]
 [BlackClock "0:01:10"]
 
@@ -185,7 +173,6 @@
 [BlackFideId "4170350"]
 [Result "1-0"]
 [Round "05"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:18"]
 [BlackClock "0:00:38"]
 
@@ -200,7 +187,6 @@
 [BlackFideId "2801990"]
 [Result "1-0"]
 [Round "07"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:07"]
 
@@ -215,7 +201,6 @@
 [BlackFideId "6302181"]
 [Result "1-0"]
 [Round "03"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:02:17"]
 [BlackClock "0:01:40"]
 
@@ -230,7 +215,6 @@
 [BlackFideId "12573981"]
 [Result "1-0"]
 [Round "11"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:17"]
 [BlackClock "0:00:05"]
 
@@ -245,7 +229,6 @@
 [BlackFideId "4147235"]
 [Result "1-0"]
 [Round "09"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:01:28"]
 [BlackClock "0:00:18"]
 
@@ -260,7 +243,6 @@
 [BlackFideId "4130804"]
 [Result "1-0"]
 [Round "21"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:13"]
 [BlackClock "0:00:00"]
 
@@ -275,7 +257,6 @@
 [BlackFideId "4129199"]
 [Result "1-0"]
 [Round "19"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:28"]
 [BlackClock "0:00:03"]
 
@@ -285,7 +266,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.14"]
 [Round "3.4"]
 [White "Nepomniachtchi,I"]
 [Black "Kramnik,V"]
@@ -294,7 +274,6 @@
 [BlackFideId "4101588"]
 [BlackTitle "GM"]
 [ECO "C67"]
-[EventDate "2019.01.12"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence, open variation"]
 [WhiteElo "2763"]
@@ -312,7 +291,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.22"]
 [Round "9.3"]
 [White "Nepomniachtchi,I"]
 [Black "Vidit,S"]
@@ -321,7 +299,6 @@
 [BlackFideId "5029465"]
 [BlackTitle "GM"]
 [ECO "C42"]
-[EventDate "2019.01.12"]
 [Opening "Petrov's defence"]
 [WhiteElo "2763"]
 [WhiteFideId "4168119"]
@@ -338,7 +315,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.25"]
 [Round "11.5"]
 [White "Nepomniachtchi,I"]
 [Black "Fedoseev,Vl3"]
@@ -347,7 +323,6 @@
 [BlackFideId "24130737"]
 [BlackTitle "GM"]
 [ECO "B12"]
-[EventDate "2019.01.12"]
 [Opening "Caro-Kann"]
 [Variation "advance variation"]
 [WhiteElo "2763"]
@@ -367,7 +342,6 @@
 
 [Event "12th World Teams 2019"]
 [Site "Astana KAZ"]
-[Date "2019.03.07"]
 [Round "3.1"]
 [White "Nepomniachtchi,I"]
 [Black "Yu Yangyi"]
@@ -377,7 +351,6 @@
 [BlackTeam "China"]
 [BlackTitle "GM"]
 [ECO "C43"]
-[EventDate "2019.03.05"]
 [Opening "Petrov"]
 [Variation "modern attack, Symmetrical variation"]
 [WhiteElo "2771"]
@@ -397,7 +370,6 @@
 
 [Event "Cote d'Ivoire Rapid 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.09"]
 [Round "4.5"]
 [White "Nepomniachtchi,I"]
 [Black "Amin,B"]
@@ -411,7 +383,6 @@
 [Variation "closed defence"]
 [WhiteFideId "4168119"]
 [BlackFideId "10601457"]
-[EventDate "2019.05.08"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1
 Re8 9. h3 b5 10. Bc2 Bf8 11. Bg5 h6 12. Bh4 Bb7 13. Nbd2 g6 14. Nf1 Bg7 15. Ne3
@@ -429,7 +400,6 @@ Ne3 Kh8 29. Nd5 Qb7 30. Be4 f5 31. Ne7 fxe4 32. Qf7 1-0
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:02:09"]
 [BlackClock "0:01:51"]
 

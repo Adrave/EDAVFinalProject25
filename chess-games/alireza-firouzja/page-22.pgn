@@ -1,6 +1,5 @@
 [Event "Asian Nations Cup 2016"]
 [Site "Abu Dhabi UAE"]
-[Date "2016.04.05"]
 [Round "9.3"]
 [White "Firouzja, Alireza"]
 [Black "Abdulla, AlR"]
@@ -9,7 +8,6 @@
 [WhiteElo "2475"]
 [BlackElo "2478"]
 [PlyCount "83"]
-[EventDate "2016.03.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -31,7 +29,6 @@ Rh5 28. Bf4 e5 29. Bg5 Qe6 30. Qxc5 Bd4 31. Qc2 Nb5 32. a4 Nbd6 33. Nxd6 Nxd6
 
 [Event "Asian Nations Cup 2016"]
 [Site "Abu Dhabi UAE"]
-[Date "2016.03.28"]
 [Round "1.4"]
 [White "Firouzja, Alireza"]
 [Black "Naotunna, Dineth Nimnaka"]
@@ -40,7 +37,6 @@ Rh5 28. Bf4 e5 29. Bg5 Qe6 30. Qxc5 Bd4 31. Qc2 Nb5 32. a4 Nbd6 33. Nxd6 Nxd6
 [WhiteElo "2475"]
 [BlackElo "2022"]
 [PlyCount "131"]
-[EventDate "2016.03.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -66,7 +62,6 @@ Qg4 1-0
 
 [Event "ch-IRI 2016"]
 [Site "Tehran IRI"]
-[Date "2016.01.20"]
 [Round "1.1"]
 [White "Firouzja, Alireza"]
 [Black "Mosadeghpour, Masoud"]
@@ -75,7 +70,6 @@ Qg4 1-0
 [WhiteElo "2455"]
 [BlackElo "2475"]
 [PlyCount "63"]
-[EventDate "2016.01.20"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -92,7 +86,6 @@ Qf4 h5 28. Nf5 Rxd1+ 29. Rxd1 Qxc2 30. Rc1 Qb2 31. Qg5 Ne8 32. Re1 1-0
 
 [Event "ch-IRI 2016"]
 [Site "Tehran IRI"]
-[Date "2016.01.21"]
 [Round "2.6"]
 [White "Firouzja, Alireza"]
 [Black "Mousavi, Se"]
@@ -101,7 +94,6 @@ Qf4 h5 28. Nf5 Rxd1+ 29. Rxd1 Qxc2 30. Rc1 Qb2 31. Qg5 Ne8 32. Re1 1-0
 [WhiteElo "2455"]
 [BlackElo "2425"]
 [PlyCount "43"]
-[EventDate "2016.01.20"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -117,7 +109,6 @@ cxd5 Bxd3 9. Qxd3 exd5 10. c4 c6 11. Nf3 O-O 12. O-O Qd6 13. a4 Re8 14. Ba3 Qg6
 
 [Event "ch-IRI 2016"]
 [Site "Tehran IRI"]
-[Date "2016.01.22"]
 [Round "4.5"]
 [White "Firouzja, Alireza"]
 [Black "Khamisi, S."]
@@ -126,7 +117,6 @@ cxd5 Bxd3 9. Qxd3 exd5 10. c4 c6 11. Nf3 O-O 12. O-O Qd6 13. a4 Re8 14. Ba3 Qg6
 [WhiteElo "2455"]
 [BlackElo "2279"]
 [PlyCount "71"]
-[EventDate "2016.01.20"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -144,7 +134,6 @@ Rab8 22. Red1 Rb6 23. Nd4 Nac5 24. Bc3 Ra6 25. f4 Be7 26. Qf3 Nb8 27. f5 exf5
 
 [Event "Aeroflot Open A 2016"]
 [Site "Moscow RUS"]
-[Date "2016.03.09"]
 [Round "9.39"]
 [White "Firouzja, Alireza"]
 [Black "Wang, Yiye"]
@@ -153,7 +142,6 @@ Rab8 22. Red1 Rb6 23. Nd4 Nac5 24. Bc3 Ra6 25. f4 Be7 26. Qf3 Nb8 27. f5 exf5
 [WhiteElo "2475"]
 [BlackElo "2445"]
 [PlyCount "57"]
-[EventDate "2016.03.01"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -169,7 +157,6 @@ exd4 21. cxd4 Rhe8+ 22. Kf1 Be4 23. Rc1 c6 24. b4 Bxh7 25. Rxh7 Re4 26. d5 Ne5
 
 [Event "1st Stars Cup 2016"]
 [Site "Bandar-e Anzali IRI"]
-[Date "2016.07.11"]
 [Round "1.6"]
 [White "Firouzja, Alireza"]
 [Black "Miroshnichenko, E."]
@@ -178,7 +165,6 @@ exd4 21. cxd4 Rhe8+ 22. Kf1 Be4 23. Rc1 c6 24. b4 Bxh7 25. Rxh7 Re4 26. d5 Ne5
 [WhiteElo "2481"]
 [BlackElo "2616"]
 [PlyCount "89"]
-[EventDate "2016.07.11"]
 [EventType "schev"]
 [EventRounds "10"]
 [EventCountry "IRI"]
@@ -197,7 +183,6 @@ Kh6 40. Kh2 Rc6 41. Rf7 Kg5 42. Rg7+ Kf4 43. Rg6 Rd6 44. Kg1 Rc6 45. Kf1 1-0
 
 [Event "World Youth U16 Olympiad"]
 [Site "Poprad SVK"]
-[Date "2016.07.23"]
 [Round "2.1"]
 [White "Firouzja, Alireza"]
 [Black "Horvath, Dominik"]
@@ -206,7 +191,6 @@ Kh6 40. Kh2 Rc6 41. Rf7 Kg5 42. Rg7+ Kf4 43. Rg6 Rd6 44. Kg1 Rc6 45. Kf1 1-0
 [WhiteElo "2481"]
 [BlackElo "2216"]
 [PlyCount "127"]
-[EventDate "2016.07.22"]
 [EventType "team-swiss"]
 [EventRounds "9"]
 [EventCountry "SVK"]
@@ -230,7 +214,6 @@ Rxh6 54. Rc1 Rh7 55. e5 Nf5 56. Rxc4 Rd7 57. d5 exd5 58. Rxg4+ Kf7 59. Rf4 Ke6
 
 [Event "42nd Olympiad 2016"]
 [Site "Baku AZE"]
-[Date "2016.09.06"]
 [Round "5.27"]
 [White "Firouzja, Alireza"]
 [Black "Petrik, T."]
@@ -239,7 +222,6 @@ Rxh6 54. Rc1 Rh7 55. e5 Nf5 56. Rxc4 Rd7 57. d5 exd5 58. Rxg4+ Kf7 59. Rf4 Ke6
 [WhiteElo "2463"]
 [BlackElo "2464"]
 [PlyCount "81"]
-[EventDate "2016.09.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -260,7 +242,6 @@ Kg6 40. Ke3 Kh5 41. Ke4 1-0
 
 [Event "ch-IRI 2017"]
 [Site "Tehran IRI"]
-[Date "2017.03.08"]
 [Round "5.1"]
 [White "Firouzja, Alireza"]
 [Black "Idani, P."]
@@ -269,7 +250,6 @@ Kg6 40. Ke3 Kh5 41. Ke4 1-0
 [WhiteElo "2470"]
 [BlackElo "2576"]
 [PlyCount "119"]
-[EventDate "2017.03.05"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -292,7 +272,6 @@ Kf2 1/2-1/2
 
 [Event "ch-IRI 2017"]
 [Site "Tehran IRI"]
-[Date "2017.03.07"]
 [Round "3.2"]
 [White "Firouzja, Alireza"]
 [Black "Ghaem Maghami, E."]
@@ -301,7 +280,6 @@ Kf2 1/2-1/2
 [WhiteElo "2470"]
 [BlackElo "2577"]
 [PlyCount "84"]
-[EventDate "2017.03.05"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "IRI"]
@@ -321,7 +299,6 @@ Rxb6+ Kc7 40. Rb5 b6 41. Re5 Rb3 42. Ne3 Kd6 1/2-1/2
 
 [Event "Asian Juniors 2017"]
 [Site "Shiraz IRI"]
-[Date "2017.05.07"]
 [Round "6.2"]
 [White "Firouzja, Alireza"]
 [Black "Khodashenas, M."]
@@ -330,7 +307,6 @@ Rxb6+ Kc7 40. Rb5 b6 41. Re5 Rb3 42. Ne3 Kd6 1/2-1/2
 [WhiteElo "2487"]
 [BlackElo "2410"]
 [PlyCount "103"]
-[EventDate "2017.05.03"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -348,7 +324,6 @@ Ra1 g5 41. h3 f5 42. Kf1 Rd2 43. Re1 Bc2 44. Re5 Bd3+ 45. Kg1 Kd6 46. Bd4 Ra2
 
 [Event "2nd Stars Cup 2017"]
 [Site "Bandar-e Anzali IRI"]
-[Date "2017.07.14"]
 [Round "3.4"]
 [White "Firouzja, Alireza"]
 [Black "Bruzon Batista, L."]
@@ -357,7 +332,6 @@ Ra1 g5 41. h3 f5 42. Kf1 Rd2 43. Re1 Bc2 44. Re5 Bd3+ 45. Kg1 Kd6 46. Bd4 Ra2
 [WhiteElo "2499"]
 [BlackElo "2653"]
 [PlyCount "80"]
-[EventDate "2017.07.12"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "IRI"]
@@ -375,7 +349,6 @@ g6 16. Qb1 Rb8 17. c4 exd4 18. cxb5 axb5 19. Nxd4 Ba8 20. Bb3 c5 21. bxc5 Nxc5
 
 [Event "1st Aftab Cup Open 2017"]
 [Site "Khomeyn IRI"]
-[Date "2017.08.31"]
 [Round "5.7"]
 [White "Firouzja, Alireza"]
 [Black "Akhgari, Reza"]
@@ -384,7 +357,6 @@ g6 16. Qb1 Rb8 17. c4 exd4 18. cxb5 axb5 19. Nxd4 Ba8 20. Bb3 c5 21. bxc5 Nxc5
 [WhiteElo "2517"]
 [BlackElo "2092"]
 [PlyCount "76"]
-[EventDate "2017.08.29"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -399,7 +371,6 @@ Rxe1+ 34. Qxe1 Qxf4 35. Qe8+ Bf8 36. Kg1 Qc1+ 37. Kh2 Qf4+ 38. Kg1 Qc1+ 1/2-1/2
 
 [Event "16th TCh-IRI SL R1-5 2017"]
 [Site "Sari IRI"]
-[Date "2017.09.13"]
 [Round "2.2"]
 [White "Firouzja, Alireza"]
 [Black "Javanbakht, N."]
@@ -408,7 +379,6 @@ Rxe1+ 34. Qxe1 Qxf4 35. Qe8+ Bf8 36. Kg1 Qc1+ 37. Kh2 Qf4+ 38. Kg1 Qc1+ 1/2-1/2
 [WhiteElo "2527"]
 [BlackElo "2418"]
 [PlyCount "128"]
-[EventDate "2017.09.13"]
 [EventType "team"]
 [EventRounds "5"]
 [EventCountry "IRI"]
@@ -429,7 +399,6 @@ Re2+ 60. Kf3 Rh2 61. Ra5+ Kh6 62. Kg4 Rg2+ 63. Kxh4 g5+ 64. Rxg5 Rxg5 1/2-1/2
 
 [Event "5th Asian U23 Men Blitz"]
 [Site "Ashgabat TKM"]
-[Date "2017.09.27"]
 [Round "4.1"]
 [White "Firouzja, Alireza"]
 [Black "Garcia, Jan"]
@@ -438,7 +407,6 @@ Re2+ 60. Kf3 Rh2 61. Ra5+ Kh6 62. Kg4 Rg2+ 63. Kxh4 g5+ 64. Rxg5 Rxg5 1/2-1/2
 [WhiteElo "2527"]
 [BlackElo "2443"]
 [PlyCount "265"]
-[EventDate "2017.09.27"]
 [EventType "team-swiss (blitz)"]
 [EventRounds "5"]
 [EventCountry "TKM"]
@@ -472,7 +440,6 @@ Kf3 Kg7 130. Rb6 Kh7 131. Ke4 Kg7 132. Ke5 Kh7 133. Kf6 1/2-1/2
 
 [Event "2nd Paytakht Cup 2017"]
 [Site "Tehran IRI"]
-[Date "2017.10.28"]
 [Round "6.6"]
 [White "Firouzja, Alireza"]
 [Black "Sibashvili, G."]
@@ -481,7 +448,6 @@ Kf3 Kg7 130. Rb6 Kh7 131. Ke4 Kg7 132. Ke5 Kh7 133. Kf6 1/2-1/2
 [WhiteElo "2525"]
 [BlackElo "2412"]
 [PlyCount "161"]
-[EventDate "2017.10.24"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -505,7 +471,6 @@ Nd4+ 79. Ke3 Kg6 80. Ne7+ Kh5 81. Nd5 1/2-1/2
 
 [Event "2nd Paytakht Cup 2017"]
 [Site "Tehran IRI"]
-[Date "2017.10.27"]
 [Round "5.7"]
 [White "Firouzja, Alireza"]
 [Black "Rostami, R."]
@@ -514,7 +479,6 @@ Nd4+ 79. Ke3 Kg6 80. Ne7+ Kh5 81. Nd5 1/2-1/2
 [WhiteElo "2525"]
 [BlackElo "2147"]
 [PlyCount "98"]
-[EventDate "2017.10.24"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -533,7 +497,6 @@ Qg7+ Kg5 47. Rg1+ Reg3 48. Rxg3+ Qxg3 49. Rxh3 Qe1+ 1/2-1/2
 
 [Event "16th TCh-IRI SL R6-11"]
 [Site "Tabriz IRI"]
-[Date "2017.10.18"]
 [Round "8.5"]
 [White "Firouzja, Alireza"]
 [Black "Molaei, Mohammadamin"]
@@ -542,7 +505,6 @@ Qg7+ Kg5 47. Rg1+ Reg3 48. Rxg3+ Qxg3 49. Rxh3 Qe1+ 1/2-1/2
 [WhiteElo "2525"]
 [BlackElo "2326"]
 [PlyCount "160"]
-[EventDate "2017.10.16"]
 [EventType "team"]
 [EventRounds "6"]
 [EventCountry "IRI"]
@@ -566,7 +528,6 @@ Kf5 79. Kg1 Kf6 80. Rb7 Ke5 1/2-1/2
 
 [Event "ch-IRI SF 2017"]
 [Site "Hamedan IRI"]
-[Date "2017.11.05"]
 [Round "5.2"]
 [White "Firouzja, Alireza"]
 [Black "Darini, P."]
@@ -575,7 +536,6 @@ Kf5 79. Kg1 Kf6 80. Rb7 Ke5 1/2-1/2
 [WhiteElo "2521"]
 [BlackElo "2484"]
 [PlyCount "47"]
-[EventDate "2017.11.02"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -588,7 +548,6 @@ Qxb4 22. Rxb4 Rfb8 23. Rfb1 Nc5 24. b6 1/2-1/2
 
 [Event "ch-IRI SF 2017"]
 [Site "Hamedan IRI"]
-[Date "2017.11.03"]
 [Round "3.2"]
 [White "Firouzja, Alireza"]
 [Black "Javanbakht, N."]
@@ -597,7 +556,6 @@ Qxb4 22. Rxb4 Rfb8 23. Rfb1 Nc5 24. b6 1/2-1/2
 [WhiteElo "2521"]
 [BlackElo "2427"]
 [PlyCount "173"]
-[EventDate "2017.11.02"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "IRI"]
@@ -620,7 +578,6 @@ Ka1 a5 79. Kb2 Kc4 80. Ka3 Kb5 81. Kb2 Kb4 82. Ka1 Kc3 83. Ka2 Bd5+ 84. Ka1 a4
 
 [Event "World Youth U16 Olympiad"]
 [Site "Ahmedabad IND"]
-[Date "2017.12.16"]
 [Round "6.1"]
 [White "Firouzja, Alireza"]
 [Black "Lobanov, Sergei"]
@@ -629,7 +586,6 @@ Ka1 a5 79. Kb2 Kc4 80. Ka3 Kb5 81. Kb2 Kb4 82. Ka1 Kc3 83. Ka2 Bd5+ 84. Ka1 a4
 [WhiteElo "2526"]
 [BlackElo "2441"]
 [PlyCount "78"]
-[EventDate "2017.12.11"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "IND"]
@@ -648,7 +604,6 @@ Kh1 Rxe3 35. Rg1 Qh4 36. Rad1 Kh7 37. Qa8 Be4 38. Qd8 Qxd8 39. Rxd8 Rxf3 0-1
 
 [Event "24. Abu Dhabi Masters"]
 [Site "Abudhabi UAE"]
-[Date "2017.08.22"]
 [Round "9.5"]
 [White "Firouzja, Alireza"]
 [Black "Adly, Ahmed"]
@@ -656,7 +611,6 @@ Kh1 Rxe3 35. Rg1 Qh4 36. Rad1 Kh7 37. Qa8 Be4 38. Qd8 Qxd8 39. Rxd8 Rxf3 0-1
 [WhiteElo "2517"]
 [BlackElo "2619"]
 [ECO "B90"]
-[EventDate "2017.08.14"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 
 8. a4 Be7 9. Be2 O-O 10. O-O Be6 11. a5 Nbd7 12. Ng5 Bc4 13. Bxc4 Qxc4 14.
@@ -671,7 +625,6 @@ Kg6 50. a6 Ra3 1/2-1/2
 
 [Event "24. Abu Dhabi Masters"]
 [Site "Abudhabi UAE"]
-[Date "2017.08.20"]
 [Round "7.2"]
 [White "Firouzja, Alireza"]
 [Black "Salem, A R Saleh"]
@@ -679,7 +632,6 @@ Kg6 50. a6 Ra3 1/2-1/2
 [WhiteElo "2517"]
 [BlackElo "2624"]
 [ECO "B13"]
-[EventDate "2017.08.14"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Na3 a6 7. Nc2 Nf6 
 8. h3 e5 9. dxe5 Nxe5 10. Nf3 Bd6 11. O-O O-O 12. Nxe5 Bxe5 13. Be3 Re8 
@@ -694,7 +646,6 @@ Ra1 50. c4 Rd1 0-1
 
 [Event "24. Abu Dhabi Masters"]
 [Site "Abudhabi UAE"]
-[Date "2017.08.14"]
 [Round "1.33"]
 [White "Firouzja, Alireza"]
 [Black "Alinasab, Mobina"]
@@ -702,7 +653,6 @@ Ra1 50. c4 Rd1 0-1
 [WhiteElo "2517"]
 [BlackElo "2208"]
 [ECO "A47"]
-[EventDate "2017.08.14"]
 
 1. d4 e6 2. Nf3 Nf6 3. Bf4 b6 4. e3 Bb7 5. Nbd2 Be7 6. Bd3 c5 7. dxc5 bxc5
 8. e4 d6 9. O-O Nc6 10. c3 O-O 11. Nc4 d5 12. exd5 exd5 13. Ne3 g6 14. Bb5

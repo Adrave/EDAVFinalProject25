@@ -1,13 +1,11 @@
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1969.05.02"]
 [Round "8"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1969.05.23"]
 [Round "16"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1966.04.22"]
 [Round "6"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D40"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -63,14 +57,12 @@
 
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1966.04.27"]
 [Round "8"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A33"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -83,14 +75,12 @@
 
 [Event "LTU-ch"]
 [Site "Vilnius"]
-[Date "1951.03.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Ratmir Kholmov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D19"]
-[EventDate "????.??.??"]
 [PlyCount "106"]
 [WhiteElo "?"]
 
@@ -108,14 +98,12 @@
 
 [Event "Training Match Tournament"]
 [Site "URS"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Alexander Kotov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B50"]
-[EventDate "????.??.??"]
 [PlyCount "34"]
 [WhiteElo "?"]
 
@@ -127,14 +115,12 @@
 
 [Event "Tbilisi"]
 [Site "Tbilisi"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Vladas Mikenas"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B05"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -150,14 +136,12 @@
 
 [Event "URS-ch sf"]
 [Site "Moscow"]
-[Date "1947.10.??"]
 [Round "3"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Ratmir Kholmov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E19"]
-[EventDate "????.??.??"]
 [PlyCount "144"]
 [WhiteElo "?"]
 
@@ -178,14 +162,12 @@
 
 [Event "Simul, 37b"]
 [Site "Ostersund SWE"]
-[Date "1964.03.24"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Thore Manneby"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -198,14 +180,12 @@
 
 [Event "Simul, 37b"]
 [Site "Ostersund SWE"]
-[Date "1964.03.24"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Svante Sjodin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "136"]
 [WhiteElo "?"]
 
@@ -226,14 +206,12 @@
 
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Abram Khasin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C81"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -249,14 +227,12 @@
 
 [Event "YUG-URS"]
 [Site "Belgrade YUG"]
-[Date "1956.06.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Svetozar Gligoric"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E66"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -269,14 +245,12 @@
 
 [Event "Simul, 30b"]
 [Site "London ENG"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Nigel Short"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E14"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -292,14 +266,12 @@
 
 [Event "San Francisco simul"]
 [Site "San Francisco, California"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Neil Falconer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -312,14 +284,12 @@
 
 [Event "Simul, 30 boards"]
 [Site "Ilford"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Trevor Carr"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -334,14 +304,12 @@
 
 [Event "YMCA simul"]
 [Site "London"]
-[Date "1978.01.15"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Raymond Charles Cannon"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A61"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -357,14 +325,12 @@
 
 [Event "Simul"]
 [Site "London Central YMCA"]
-[Date "1978.01.15"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Daryl Taylor"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D56"]
-[EventDate "????.??.??"]
 [PlyCount "140"]
 [WhiteElo "2645"]
 
@@ -385,14 +351,12 @@
 
 [Event "Las Palmas"]
 [Site "Las Palmas"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Roman Hernandez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E47"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "2610"]
 
@@ -407,14 +371,12 @@
 
 [Event "Las Palmas"]
 [Site "Las Palmas ESP"]
-[Date "1980.06.??"]
 [Round "8"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Luis Gonzales Mestres"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E41"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "2610"]
 
@@ -430,14 +392,12 @@
 
 [Event "Oberwart"]
 [Site "Oberwart"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Bela Vigh"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E83"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -454,14 +414,12 @@
 
 [Event "Vrbas"]
 [Site "Vrbas"]
-[Date "1980.10.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Dragoljub Velimirovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A56"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "2610"]
 
@@ -477,14 +435,12 @@
 
 [Event "15th Soviet Team-ch final"]
 [Site "Moscow URS"]
-[Date "1981.05.??"]
 [Round "3"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Anatoly S Lutikov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A43"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -500,14 +456,12 @@
 
 [Event "Kostic Memorial"]
 [Site "Vrsac YUG"]
-[Date "1981.09.12"]
 [Round "1"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Sasa Velickovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A56"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -525,14 +479,12 @@
 
 [Event "Interpolis 5th"]
 [Site "Tilburg NED"]
-[Date "1981.10.06"]
 [Round "4"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Anthony Miles"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E41"]
-[EventDate "????.??.??"]
 [PlyCount "126"]
 [WhiteElo "?"]
 
@@ -552,14 +504,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1963.04.29"]
 [Round "15"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Mikhail Botvinnik"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D81"]
-[EventDate "????.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 

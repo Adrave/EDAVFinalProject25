@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Boston (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Codman Russell"]
@@ -20,7 +19,6 @@ Bxh6+ 20.Kb1 Qxd4 21.Qe2 Bg7 22.Nxd7 Kxd7 23.Bxf5 Qe5 0-1
 
 [Event "Simultan"]
 [Site "Chicago (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Diebert G"]
@@ -43,7 +41,6 @@ Bf5 38.e6 Be4 39.e7 Rxf3 0-1
 
 [Event "Simultan"]
 [Site "Chicago (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Sax Boris"]
@@ -66,7 +63,6 @@ Ne3 36.Ng3 Kd6 37.g5 Nxc2 38.h4 Ne3 39.Rh6+ Kd7 40.h5 Ng4 0-1
 
 [Event "Simultan"]
 [Site "Chicago (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Thornell G"]
@@ -89,7 +85,6 @@ d3 36.Be6 Rh2+ 37.Kd1 d2 38.Bd7 Kg8 0-1
 
 [Event "Simultan"]
 [Site "Cicero (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Puto E"]
@@ -109,7 +104,6 @@ Qxh4+ 20.Kg2 Qh3+ 21.Kg1 Qe3+ 0-1
 
 [Event "Simultan"]
 [Site "Denver (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Koehler Wesley"]
@@ -131,7 +125,6 @@ Nxa4 31.Nxa4 Bxa4 0-1
 
 [Event "Simultan"]
 [Site "Fitchburg (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Barber Clarence"]
@@ -152,7 +145,6 @@ f6 20.O-O-O Nxd3+ 21.Rxd3 e5 22.Bb2 d4 23.Qh3 Bxh1 24.Qxh1 Rc8
 
 [Event "Simultan"]
 [Site "Fitchburg (USA)"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Dondis Harold"]
@@ -172,14 +164,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 36b"]
 [Site "Little Rock, AR USA"]
-[Date "1964.03.29"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Gary Berry"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C43"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -192,14 +182,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 36b"]
 [Site "Little Rock, AR USA"]
-[Date "1964.03.29"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Leslie Hunter Weaks"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "1964.03.29"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -214,14 +202,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Aker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B90"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -234,14 +220,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Mechem"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B03"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -257,14 +241,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Wilson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -277,14 +259,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Munzlinger"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -297,14 +277,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Travis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -320,14 +298,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "K Isely"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "23"]
 [WhiteElo "?"]
 
@@ -338,14 +314,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Briggs"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -360,14 +334,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Edgington"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -381,14 +353,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Heckathorn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C57"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -402,14 +372,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Greer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -423,14 +391,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 40b"]
 [Site "Wichita, KS USA"]
-[Date "1964.04.04"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Fusco"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C16"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -446,14 +412,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 50b"]
 [Site "San Francisco, CA USA"]
-[Date "1964.04.13"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "John Blackstone"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "1964.04.13"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -467,14 +431,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 50b"]
 [Site "San Francisco, CA USA"]
-[Date "1964.04.13"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Alan Benson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "1964.04.13"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -487,14 +449,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 73b"]
 [Site "Cheltenham, PA USA"]
-[Date "1964.05.03"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Ross Nickel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C40"]
-[EventDate "1964.05.03"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -506,14 +466,12 @@ Be7 19.Kd2 c5 0-1
 
 [Event "Simul, 50b"]
 [Site "San Francisco, CA USA"]
-[Date "1964.04.13"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Keith Walters"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A00"]
-[EventDate "1964.04.13"]
 [PlyCount "73"]
 [WhiteElo "?"]
 

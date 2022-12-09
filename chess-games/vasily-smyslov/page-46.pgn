@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1954.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kluger Gyula (HUN)"]
@@ -25,7 +24,6 @@ Kh7 48.Qg5 Rc8 49.Qxe5 Rg8+ 50.Kf2 Re8 1-0
 
 [Event "Olympiad"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1954.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pachman Ludek (GER)"]
@@ -45,7 +43,6 @@ Nd7 20.Nc4 Ne5 21.Nb6 Nd7 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1954.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Penrose Jonathan (ENG)"]
@@ -69,7 +66,6 @@ Kg7 36.f5 gxf5+ 37.Kxf5 Ne6 38.h5 Nd4+ 39.Ke4 Ne6 40.h6+ Kg8
 
 [Event "Olympiad"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1954.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Robatsch Karl (AUT)"]
@@ -91,7 +87,6 @@ Nxe4 20.Bxe4 Ng6 21.Bb1 Nh4 22.Qd3 Nf5 23.Rce1 Qf7 24.Re3 Qe7
 
 [Event "Olympiad"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1954.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Schmid Lothar (GER)"]
@@ -115,7 +110,6 @@ Qb2 36.Bf4 Rd8 37.Qe7 Qd4 38.Qe8+ Rxe8 39.Rxe8+ Bf8 40.Be5+ Qxe5
 
 [Event "Match \"England-URS\""]
 [Site "London (England)"]
-[Date "1954.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Alexander Conel H O'D (ENG)"]
@@ -135,7 +129,6 @@ O-O-O 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -162,7 +155,6 @@ Rf5 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -185,7 +177,6 @@ Bf6 36.Bc3 Ke6 37.Kg2 g5 38.Be2 g6 39.Bd1 Be7 40.Bd2 Bd8 41.Be3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -209,7 +200,6 @@ Ra2 41.Kxf6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -234,7 +224,6 @@ Ra7 42.Re3 Kd6 43.Be5+ Kd5 44.Bb2 Kd6 45.Rd3+ Kc5 46.Rd2 Rh7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -255,7 +244,6 @@ Bd7 14.Bg5 Rc8 15.Nd4 Nf5 16.Rb1 Rc4 17.Nxf5 exf5 18.Rxb7 Re4+
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -279,7 +267,6 @@ Nxc7 36.Bxc7 Kxh2 37.Kb5 Kh3 38.c4 Kg4 39.c5 f4 40.gxf4 gxf4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "13"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -303,7 +290,6 @@ axb5 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "15"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -326,7 +312,6 @@ Rg5+ 31.Kh2 Rf5 32.Be3 cxd4 33.cxd4 Kh7 34.Rf2 g5 35.Ne2 Rxf2+
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1954.??.??"]
 [Round "23"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -347,7 +332,6 @@ Rf3 25.Nxb7 Raf8 26.Nxc5 Qf5 27.Re8 Kg8 28.Rxf8+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Furman Semen (RUS)"]
@@ -368,7 +352,6 @@ Qf7 20.Qxf7+ Rxf7 21.Rb3 Bc8 22.Rc1 Ne5 23.Nd4 Bd7 24.Bg3 a5
 
 [Event "Ch URS (match)"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -389,7 +372,6 @@ b6 24.Rc2 Rc8 1/2-1/2
 
 [Event "Ch URS (match)"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -415,7 +397,6 @@ Rf8 53.Rbxa3 Rxa3 54.Rxa3 Kd6 55.Ra7 Rf6 56.Ra8 Ke7 57.Rg8 Kf7 1/2-1/2
 
 [Event "Ch URS (match)"]
 [Site "Moscow (Russia)"]
-[Date "1955.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -436,7 +417,6 @@ Rc2 24.Kf1 Kf8 25.a4 Ra2 26.f3 b5 1/2-1/2
 
 [Event "It"]
 [Site "Zagreb (Croatia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -459,7 +439,6 @@ Bb8 37.Qd1 h5 1/2-1/2
 
 [Event "It"]
 [Site "Zagreb (Croatia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -481,7 +460,6 @@ Bc5 1/2-1/2
 
 [Event "It"]
 [Site "Zagreb (Croatia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -503,14 +481,12 @@ Rb8 32.Ng2 Bd6 33.Nge3 Rxb1 34.Qxb1 Qb7 35.Qxb7 Bxb7 36.Bg4 Ne6 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1955.03.04"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Yuri Averbakh"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D78"]
-[EventDate "1955.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -525,14 +501,12 @@ Rb8 32.Ng2 Bd6 33.Nge3 Rxb1 34.Qxb1 Qb7 35.Qxb7 Bxb7 36.Bg4 Ne6 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1955.04.??"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "Efim Geller"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "1955.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -545,14 +519,12 @@ Rb8 32.Ng2 Bd6 33.Nge3 Rxb1 34.Qxb1 Qb7 35.Qxb7 Bxb7 36.Bg4 Ne6 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1955.04.??"]
 [Round "3"]
 [White "Vasily Smyslov"]
 [Black "Efim Geller"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "1955.??.??"]
 [PlyCount "114"]
 [WhiteElo "?"]
 

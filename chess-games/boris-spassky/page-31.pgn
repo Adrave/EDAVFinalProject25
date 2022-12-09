@@ -1,6 +1,5 @@
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ciric Dragoljub M (SCG)"]
@@ -21,7 +20,6 @@ bxc5 20.Ng5 Rxd6 21.Rfd1 Ra6 22.Qe4 f5 23.Qc4 Qe8 24.Re1 Rxa2
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Langeweg Kick (NED)"]
@@ -41,7 +39,6 @@ Qe7 19.Kf2 Qf6+ 20.Kg1 Bg4 21.Bg5 Qe5 22.Bf4 1-0
 
 [Event "It \"IBM\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1970.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ree Hans (NED)"]
@@ -65,7 +62,6 @@ Rb8 36.Rg7 Nd7 37.Rg6+ Kf7 38.Rd6 Nf8 39.Rf6+ Kg7 40.Rb6 Kf7
 
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -88,7 +84,6 @@ Kf5 31.Nxf4 Ne5+ 32.Ke2 Re8 33.Rxb6 Nc4 34.Rb3 g5 35.Nd5 Re5
 
 [Event "It"]
 [Site "Leiden (Netherlands)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -109,7 +104,6 @@ Rxd1+ 25.Rxd1 Rxd1+ 26.Qxd1 1-0
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "14"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -132,7 +126,6 @@ Rf8 31.g5 Rd2 32.Ref1 Qc7 33.Rxd2 Nxd2 34.Qd4 Rd8 35.Nd5+ Kg8
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "16"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gheorghiu Florin (ROM)"]
@@ -156,7 +149,6 @@ Ke6 36.Ke3 Rh8 37.Ke4 Nf6+ 38.Kd3 Nd7 39.f4 Rd8 40.fxe5 Nf6+
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kostro Jerzy (POL)"]
@@ -176,7 +168,6 @@ Qc6 19.Qe2 Nd5 20.Nd6 Bxd6 21.Qxe6+ 1-0
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lorinczi Retek Pedro (ESP)"]
@@ -195,7 +186,6 @@ h6 14.Nf6+ Kh8 15.Re4 Ng8 16.Rh4 Nxf6 17.exf6 1-0
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "18"]
 [White "Spassky Boris V (FRA)"]
 [Black "Yanofsky D A (CAN)"]
@@ -219,7 +209,6 @@ Ke8 42.Ra7 1-0
 
 [Event "It"]
 [Site "Goteborg (Sweden)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bilek Istvan (HUN)"]
@@ -239,7 +228,6 @@ Qb6 1/2-1/2
 
 [Event "It"]
 [Site "Goteborg (Sweden)"]
-[Date "1971.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Romanishin Oleg M (UKR)"]
@@ -260,7 +248,6 @@ Qxd6 19.Qf3 Qd5 20.Rc5 Qxf3 21.gxf3 Rd5 22.Rc4 Rd7 23.Rdc1 Rc8
 
 [Event "It"]
 [Site "Goteborg (Sweden)"]
-[Date "1971.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -288,7 +275,6 @@ Bxf6 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -311,7 +297,6 @@ Kf8 36.Qc8+ 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -331,7 +316,6 @@ Re8 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -353,7 +337,6 @@ Rf8 31.Qh3 Qxc2 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -375,7 +358,6 @@ Qxe6 20.f5 Qe7 21.cxd4 Rxd4 22.Bxd4 Bxd4+ 23.Kg2 Be5 24.Qe3 Rd8
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -396,7 +378,6 @@ Rd7 20.Qg4 h5 21.Qxh5 Rxd4 22.f6 gxf6 23.Ra2 fxe5 24.Bxd4 Qxd4
 
 [Event "It (open)"]
 [Site "Toronto (Canada)"]
-[Date "1971.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zalys Ignas"]
@@ -419,7 +400,6 @@ Qxe4+ 25.Rxe4 Kd7 26.Kc2 Nf7 27.Rxe8 Kxe8 28.Kd3 Kd7 29.Ng6 Bd6
 
 [Event ""]
 [Site "URS"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -443,7 +423,6 @@ Nc3+ 41.Kxf4 1-0
 
 [Event "It \"Canadian Open\""]
 [Site "Canada"]
-[Date "1971.08.29"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Suttles Duncan (CAN)"]
@@ -467,7 +446,6 @@ Nf5 37.Qd3 gxh3 38.Rxe4 Rxe4 39.Qxe4 h2+ 40.Kg2 Qg3+ 41.Kh1 Qf2
 
 [Event "It \"Canadian Open\""]
 [Site "Canada"]
-[Date "1971.08.31"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ree Hans (NED)"]
@@ -488,14 +466,12 @@ Ndb4 14.Be4 Qb6 15.Be3 Rad8 16.a3 Na6 17.b4 Nxe5 18.fxe5 Bxe5
 
 [Event "Soviet Team Championship"]
 [Site "Rostov-on-Don URS"]
-[Date "1971.08.??"]
 [Round "?"]
 [White "Boris Spassky"]
 [Black "Ratmir Kholmov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "1971.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -508,14 +484,12 @@ Ndb4 14.Be4 Qb6 15.Be3 Rad8 16.a3 Na6 17.b4 Nxe5 18.fxe5 Bxe5
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1971.12.08"]
 [Round "11"]
 [White "Boris Spassky"]
 [Black "David Bronstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1971.11.24"]
 [PlyCount "36"]
 [WhiteElo "?"]
 
@@ -527,14 +501,12 @@ Ndb4 14.Be4 Qb6 15.Be3 Rad8 16.a3 Na6 17.b4 Nxe5 18.fxe5 Bxe5
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1971.12.15"]
 [Round "15"]
 [White "Boris Spassky"]
 [Black "Vladimir Savon"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A67"]
-[EventDate "1971.11.24"]
 [PlyCount "71"]
 [WhiteElo "?"]
 

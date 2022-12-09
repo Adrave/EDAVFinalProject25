@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -23,7 +22,6 @@ g6 31.Qxh7+ Kf6 32.Rf8+ Kg5 33.h4+ Kf4 34.Qh6+ g5 35.Rxf5+ Rxf5
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -46,7 +44,6 @@ Kd8 26.Nxg7 f6 27.Rad1 Kc8 28.Ndf5 fxe5 29.fxe5 Rg8 30.e6 Rdxg7
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "16"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -73,7 +70,6 @@ f3 60.Qxb4 Rd6 61.Bd3 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bernstein Osip (FRA)"]
@@ -101,7 +97,6 @@ Kxf3 66.Re5 Re3 67.Rxf4+ 1-0
 
 [Event "Simultan"]
 [Site "Barcelona (Spain)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Cherta Pedro"]
@@ -122,7 +117,6 @@ Rxd1 25.Rxd1 Kf8 26.Bxf6 gxf6 27.Rd7 b6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Barcelona (Spain)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Duffo E"]
@@ -148,7 +142,6 @@ Kd3 52.Rxh6 a5 53.Ra6 Be1 54.Re6 Bb4 1/2-1/2
 
 [Event "Simultan"]
 [Site "Barcelona (Spain)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Ribera Arnal Angel"]
@@ -170,7 +163,6 @@ Rxf1 31.Rxf1 Qxf1 32.Qb8+ Ke7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Madrid (Spain)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fuentes Juan Manuel"]
@@ -192,7 +184,6 @@ Nxd7 0-1
 
 [Event "Simultan"]
 [Site "Madrid (Spain)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Sanz Javier"]
@@ -216,7 +207,6 @@ a1Q 42.Qxa1 Rxa1 43.Ke3 Rca5 44.Kd4 Rd1+ 45.Kc3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -238,7 +228,6 @@ Rxa8 25.Qe4 Ra4 26.Qe2 Bf8 27.h3 Qe6 28.Qxe6 fxe6 29.Rb1 Rxa3
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -260,7 +249,6 @@ Qxc6 25.Qd8+ Qe8 26.Qc7 Qc6 27.Qb8+ Kh7 28.Bd3+ g6 29.Kh2 Kg7
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "13"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -286,7 +274,6 @@ hxg4 54.Kd4 Kg6 55.Ke5 f6+ 56.Kf4 Ra4+ 57.Kg3 f5 58.Kh4 Kf6 59.Rb7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "15"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -313,7 +300,6 @@ a2 58.Kb2 a1Q+ 59.Kxa1 Kc3 60.Rg7 h6 61.Rg6 Kd3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "17"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -333,7 +319,6 @@ Nxf4 20.Rb3 a6 21.g3 Ne6 22.a4 Bf6 23.Rd1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "21"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -356,7 +341,6 @@ Kf7 36.d4 Kf6 37.Re1 Bb4 38.Ra1 Rd2 39.Bc4 Rxd4 40.Be6 Rd8 0-1
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "23"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -382,7 +366,6 @@ e5 53.Rg7 Ke3 54.Rg3+ Kd4 55.h4 e4 56.h5 Rd1+ 57.Ke2 Rh1 58.Rg5 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "25"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -407,7 +390,6 @@ a4 0-1
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1935.??.??"]
 [Round "29"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -432,7 +414,6 @@ Kf6 41.Ra3 Rc4+ 42.Kd3 Rh4 43.Rb3 Kxf5 44.Rxb5+ Ke6 45.c4 Rxh3+
 
 [Event "It"]
 [Site "Oerebro (Sweden)"]
-[Date "1935.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -457,7 +438,6 @@ Ra2 47.a7 1/2-1/2
 
 [Event "Tournament"]
 [Site "Paris (France)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -485,7 +465,6 @@ gxf4+ 58.Kxf4 Rb2 59.Nd5 Kf7 60.Kg4 Kg6 61.Ne7+ Kf6 62.Nd5+ Ke5
 
 [Event ""]
 [Site "Riga (Latvia)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Klopotovsky"]
@@ -508,7 +487,6 @@ Bxe4 31.Rxe4 Qg6 32.g3 Qxe4 33.Rxd7 Qe1+ 34.Kg2 f3+ 35.Kxf3 Raf8+
 
 [Event "Olympiad"]
 [Site "Warsaw (Poland)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Boek Eero (FIN)"]
@@ -533,7 +511,6 @@ Kxa6 47.Rxe7 Rh5 48.Rxe6 Rxh2 49.Ke3 Rg2 50.Kf3 Rg1 51.Ke3 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Warsaw (Poland)"]
-[Date "1935.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Sacconi Antonio C (ITA)"]
@@ -558,7 +535,6 @@ Qc2+ 42.Kg1 Qb1+ 43.Kf2 Qb2+ 44.Kg1 Qc1+ 45.Kf2 Qc2+ 46.Kg1 h6
 
 [Event "Olympiad"]
 [Site "Warsaw (Poland)"]
-[Date "1935.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Steiner Lajos (HUN)"]
@@ -581,14 +557,12 @@ a5 20.Rde1 a4 21.g4 Nb3+ 22.Kb1 Rxe1+ 23.Rxe1 Nd4 24.Qd3 Nxf3
 
 [Event "Simul, 40b"]
 [Site "Riga LAT"]
-[Date "1935.09.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Eikstroem"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B15"]
-[EventDate "1935.09.12"]
 [PlyCount "48"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It (cat.9)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Janssen Ruud (NED)"]
@@ -27,7 +26,6 @@ Nb6 53.Kxe4 Na4 54.Kd4 Nb6 55.Rg5 Na4 56.Rh5 Nb6 57.Rh7 Kxb5
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.08"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Timman Jan H (NED)"]
@@ -52,7 +50,6 @@ Kh7 48.Kf3 Kh6 49.Ke4 g4 50.Kd5 a3 51.Kd6 g5 0-1
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.10"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Nataf Igor-Alexandre (FRA)"]
@@ -77,7 +74,6 @@ Rxb5 43.Qe4 Rd5 44.Qxd5 Qxg6+ 45.Kf1 Qb1+ 46.Kg2 Qf5 47.Bc3 Kh7
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.15"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Stefansson Hannes (ISL)"]
@@ -107,7 +103,6 @@ Kd6 76.Bf7 Bd5+ 77.Bxd5 cxd5 78.Nd3 Qa1+ 79.Kb3 Qb1+ 0-1
 
 [Event "It (blitz)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.17"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Nataf Igor-Alexandre (FRA)"]
@@ -127,7 +122,6 @@ Rg8 19.Rf2 Bf3 20.Qh3 Bg4 21.Qe3 Qe6 22.Raf1 Rg6 23.c3 Nc6 24.g3 0-1
 
 [Event "It (blitz)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.17"]
 [Round "14"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Short Nigel D (ENG)"]
@@ -149,7 +143,6 @@ Kh7 31.Re1 Qa4 32.Qb1+ f5 33.N5g6 Bxc3 34.Rxe6 Qb4 35.Qf1 0-1
 
 [Event "It (blitz)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.17"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Timman Jan H (NED)"]
@@ -173,7 +166,6 @@ Qg8 37.Qa7 Na4 38.Nd5 Nc3 39.Nf4 Qxa2 40.Qb8+ Kg7 41.Qc7+ Kh6
 
 [Event "It (cat.14)"]
 [Site "Malme (Sweden)/Copenhagen"]
-[Date "2004.05.01"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Hansen Curt (DEN)"]
@@ -197,7 +189,6 @@ Rf8 31.Nb5 Qe6 32.Rc4 Ng6 33.Nc7 Qg4+ 34.Kh1 Qe2 35.Bg2 Rxf2
 
 [Event "Ch Norway (team) 2003/04 (final)"]
 [Site "Trondheim (Norway)"]
-[Date "2004.05.23"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lie Kjetil A (NOR)"]
@@ -221,7 +212,6 @@ Ra5 41.Rd2 Bf6 42.Bd4 Bxd4 43.cxd4 Bd5 44.Bxh5 Bxa2 0-1
 
 [Event "Ch World FIDE (KO-system) (active)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.20"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Aronian Levon (GER)"]
@@ -252,7 +242,6 @@ Kf5 75.Rh5+ Ke6 76.Rh8 Ke5 77.Re8+ Kd4 78.Rd8+ Kc3 79.Rh8 Rd2
 
 [Event "Ch Norway"]
 [Site "Molde (Norway)"]
-[Date "2004.07.06"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Elsness Frode (NOR)"]
@@ -278,7 +267,6 @@ Nc3 49.Rf4 Qe5 50.Nxc6 Qd5+ 51.Kh2 Qxc6 52.Rh4 f5 53.Qh8+ Kf7
 
 [Event "Ch Norway"]
 [Site "Molde (Norway)"]
-[Date "2004.07.10"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lie Kjetil A (NOR)"]
@@ -310,7 +298,6 @@ Kh7 80.Qd7 Kg8 81.Qc8+ Kh7 82.Qe6 Kg7 83.Qf5 Ra4 84.Qf7+ Kh8
 
 [Event "It \"Politiken Cup\" (open)"]
 [Site "Copenhagen (Denmark)"]
-[Date "2004.07.26"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Dannevig Oystein (NOR)"]
@@ -332,7 +319,6 @@ cxd6 30.Re7 g6 31.Rf3 b5 32.Re4 g5 33.h4 Ng6 34.Rxf8+ Kxf8 35.Re6 1-0
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2004.09.17"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Papa Severin (SUI)"]
@@ -358,7 +344,6 @@ Kd7 54.Kg5 Rh1 55.Rg6 Rg1+ 56.Kf6 Rh1 57.h6 1-0
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2004.09.19"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lahno Kateryna (UKR)"]
@@ -384,7 +369,6 @@ Kf4 53.g5 Kf3 0-1
 
 [Event "It (young masters)"]
 [Site "Lausanne (Switzerland)"]
-[Date "2004.09.20"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lahno Kateryna (UKR)"]
@@ -406,7 +390,6 @@ Bf7 30.e6 1-0
 
 [Event "It (cat.10)"]
 [Site "Gausdal (Norway)"]
-[Date "2004.09.23"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "L'Ami Erwin (NED)"]
@@ -431,7 +414,6 @@ exd6 49.f6+ Kf8 0-1
 
 [Event "It (cat.10)"]
 [Site "Gausdal (Norway)"]
-[Date "2004.09.24"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lugovoi Aleksei (RUS)"]
@@ -455,7 +437,6 @@ Kf6 42.Rg6+ Ke7 43.Rg7+ Kd8 0-1
 
 [Event "It (cat.10)"]
 [Site "Gausdal (Norway)"]
-[Date "2004.09.28"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Bromberger Stefan (GER)"]
@@ -479,7 +460,6 @@ Kxc7 36.Bxh7 Bxf3+ 37.Kd2 Re8 38.g6 Bd5 39.f7 Rd8 40.Ke3 Kd6
 
 [Event "It (cat.15)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "2004.10.19"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Short Nigel D (ENG)"]
@@ -505,7 +485,6 @@ Rg1 48.Nb7+ Ke8 49.Nc5 Bf7 50.Ne4 Rxg7 51.Nd6+ Kf8 52.Ra8+ Ke7
 
 [Event "It (cat.15)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "2004.10.21"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Stellwagen Daniel (NED)"]
@@ -529,7 +508,6 @@ Rb5 43.Rc4 Rxh5 44.Rc7 Rxc7 45.dxc7 Rc5 0-1
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.25"]
 [Round "10"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ibraev Nurlan (KAZ)"]
@@ -548,7 +526,6 @@ e5 14.Nd6 Bxd6 15.Rxd6 h6 16.Qf5 Nc6 17.Rxf6 1-0
 
 [Event "Ch Spain (team)"]
 [Site "Sanxenxo (Spain)"]
-[Date "2004.11.25"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Bologan Viktor (MDA)"]
@@ -571,7 +548,6 @@ Qd8 32.Qe2 Nc4 33.Nxc4 Rxd1 34.Nxe5 Qa8+ 35.Qf3 Qxa4 36.Rb6 Ra1
 
 [Event "It (cat.9)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.01.22"]
 [Round "10"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Etmans Maarten D (NED)"]
@@ -580,7 +556,6 @@ Qd8 32.Qe2 Nc4 33.Nxc4 Rxd1 34.Nxe5 Qa8+ 35.Qf3 Qxa4 36.Rb6 Ra1
 [WhiteElo "2581"]
 [BlackElo "2176"]
 [PlyCount "49"]
-[EventDate "2004.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 Nd4 4. Bc4 e6 5. O-O d6 6. Nxd4 cxd4 7. Ne2 Nf6 8.
 d3 Qb6 9. c3 dxc3 10. Nxc3 Bd7 11. Be3 Qa5 12. d4 d5 13. exd5 exd5 14. Bb3 h6
@@ -590,7 +565,6 @@ d3 Qb6 9. c3 dxc3 10. Nxc3 Bd7 11. Be3 Qa5 12. d4 d5 13. exd5 exd5 14. Bb3 h6
 
 [Event "It \"]
 [Site "Copenhagen (Denmark)"]
-[Date "2004.07.25"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Willumsen Henrik (DEN)"]
@@ -599,7 +573,6 @@ d3 Qb6 9. c3 dxc3 10. Nxc3 Bd7 11. Be3 Qa5 12. d4 d5 13. exd5 exd5 14. Bb3 h6
 [WhiteElo "2581"]
 [BlackElo "2180"]
 [PlyCount "61"]
-[EventDate "2004.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
 h5 9. Qf4 cxd4 10. Bxf5 exf5 11. cxd4 Qa5+ 12. Bd2 Qb5 13. Ne2 Nc6 14. Qf3 Be6

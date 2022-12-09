@@ -1,6 +1,5 @@
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.15"]
 [Round "4.2"]
 [White "Rapport,R"]
 [Black "Giri,A"]
@@ -9,7 +8,6 @@
 [BlackFideId "24116068"]
 [BlackTitle "GM"]
 [ECO "D00"]
-[EventDate "2019.01.12"]
 [Opening "Queen's pawn"]
 [Variation "Chigorin variation"]
 [WhiteElo "2731"]
@@ -28,7 +26,6 @@
 
 [Event "Champions Showdown Rapid"]
 [Site "Saint Louis USA"]
-[Date "2019.02.22"]
 [Round "9.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -37,7 +34,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "D02"]
-[EventDate "2019.02.20"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -57,7 +53,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.23"]
 [Round "1.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -66,7 +61,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.02.23"]
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -85,7 +79,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.23"]
 [Round "7.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -94,7 +87,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A45"]
-[EventDate "2019.02.23"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -118,7 +110,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "17.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -127,7 +118,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "D01"]
-[EventDate "2019.02.23"]
 [Opening "Richter-Veresov attack"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -142,7 +132,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "19.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -151,7 +140,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "D01"]
-[EventDate "2019.02.23"]
 [Opening "Richter-Veresov attack"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -176,7 +164,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "21.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -185,7 +172,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "A00"]
-[EventDate "2019.02.23"]
 [Opening "Dunst (Sleipner, Heinrichsen) opening"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -205,7 +191,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "23.5"]
 [White "Rapport,R"]
 [Black "Shankland,S"]
@@ -214,7 +199,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "B20"]
-[EventDate "2019.02.23"]
 [Opening "Sicilian defence"]
 [WhiteElo "2735"]
 [WhiteFideId "738590"]
@@ -232,7 +216,6 @@
 
 [Event "1st Prague Masters 2019"]
 [Site "Prague CZE"]
-[Date "2019.03.06"]
 [Round "1.2"]
 [White "Rapport,R"]
 [Black "Duda,J"]
@@ -241,7 +224,6 @@
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "B08"]
-[EventDate "2019.03.06"]
 [Opening "Pirc"]
 [Variation "classical system, 5.Be2"]
 [WhiteElo "2738"]
@@ -269,7 +251,6 @@
 
 [Event "1st Prague Masters 2019"]
 [Site "Prague CZE"]
-[Date "2019.03.09"]
 [Round "4.1"]
 [White "Rapport,R"]
 [Black "Laznicka,V"]
@@ -278,7 +259,6 @@
 [BlackFideId "316385"]
 [BlackTitle "GM"]
 [ECO "C28"]
-[EventDate "2019.03.06"]
 [Opening "Vienna game"]
 [WhiteElo "2738"]
 [WhiteFideId "738590"]
@@ -295,7 +275,6 @@
 
 [Event "3rd Du Te Cup 2019"]
 [Site "Shenzhen CHN"]
-[Date "2019.04.25"]
 [Round "8.3"]
 [White "Rapport,R"]
 [Black "Harikrishna,P"]
@@ -308,7 +287,6 @@
 [Opening "Reti opening"]
 [WhiteFideId "738590"]
 [BlackFideId "5007003"]
-[EventDate "2019.04.17"]
 
 1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Bf4 b6 7. e4 dxe4 8. dxe4
 Bb7 9. e5 Qxd1 10. Rxd1 Nfd7 11. Nc3 a6 12. h4 h6 13. a4 Rd8 14. h5 Nf8 15. Rxd8
@@ -325,7 +303,6 @@ h7 Bg7 68. Kh5 1-0
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.17"]
 [Round "5.1"]
 [White "Rapport,R"]
 [Black "Bu Xiangzhi"]
@@ -339,7 +316,6 @@ h7 Bg7 68. Kh5 1-0
 [Variation "modern variation"]
 [WhiteFideId "738590"]
 [BlackFideId "8601445"]
-[EventDate "2019.05.17"]
 
 1. b3 e5 2. Bb2 Nc6 3. c4 g6 4. g3 Bg7 5. Bg2 Nge7 6. Nc3 O-O 7. d3 d6 8. e3 Be6
 9. Nd5 Qd7 10. Qd2 Nc8 11. Ne2 Nd8 12. h4 h5 13. d4 c6 14. Ndc3 f5 15. dxe5 dxe5
@@ -352,7 +328,6 @@ Nd3 41. Bf4+ Kg7 42. Kc3 Nc5 43. b4 Ne6 44. Be5+ Kh6 45. Nf6 1-0
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.17"]
 [Round "12.2"]
 [White "Rapport,R"]
 [Black "Yu Yangyi"]
@@ -366,7 +341,6 @@ Nd3 41. Bf4+ Kg7 42. Kc3 Nc5 43. b4 Ne6 44. Be5+ Kh6 45. Nf6 1-0
 [Variation "Indian variation"]
 [WhiteFideId "738590"]
 [BlackFideId "8603820"]
-[EventDate "2019.05.17"]
 
 1. b3 Nf6 2. Bb2 b6 3. e3 Bb7 4. d4 e6 5. Nf3 d5 6. Bd3 Be7 7. O-O O-O 8. c4
 dxc4 9. Bxc4 Nbd7 10. Qe2 c5 11. Rd1 Qb8 12. Nc3 cxd4 13. Rxd4 a6 14. Rad1 Qc7
@@ -380,7 +354,6 @@ Qa2 Ne4 41. Qe2 Nc5 42. Qe3 Qb2 43. Qd4 Qc2 44. Qd1 Qb2 45. Rb1 Qc3 46. Rb8+ Kg7
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.18"]
 [Round "13.2"]
 [White "Rapport,R"]
 [Black "Fedoseev,Vl3"]
@@ -394,7 +367,6 @@ Qa2 Ne4 41. Qe2 Nc5 42. Qe3 Qb2 43. Qd4 Qc2 44. Qd1 Qb2 45. Rb1 Qc3 46. Rb8+ Kg7
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteFideId "738590"]
 [BlackFideId "24130737"]
-[EventDate "2019.05.17"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. c4 c6 5. b3 Bg7 6. Bb2 O-O 7. O-O b6 8. d4 Bb7
 9. Nc3 e6 10. Qc2 Nbd7 11. Rad1 Qc8 12. e4 dxe4 13. Ng5 e3 14. fxe3 c5 15. Nce4
@@ -406,7 +378,6 @@ Qb8 29. Re6 Ne5 30. c6 Re8 31. c7 Qc8 32. Rxe8+ Qxe8 33. Qxe8+ Rxe8 34. Rc1 Rc8
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.18"]
 [Round "16.1"]
 [White "Rapport,R"]
 [Black "Gelfand,B"]
@@ -420,7 +391,6 @@ Qb8 29. Re6 Ne5 30. c6 Re8 31. c7 Qc8 32. Rxe8+ Qxe8 33. Qxe8+ Rxe8 34. Rc1 Rc8
 [Variation "modern variation"]
 [WhiteFideId "738590"]
 [BlackFideId "2805677"]
-[EventDate "2019.05.17"]
 
 1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. Nf3 e4 5. Nd4 Bc5 6. Nf5 O-O 7. e3 d5 8. cxd5
 Nb4 9. Ng3 Nfxd5 10. Qc1 Be7 11. Nc3 Nd3+ 12. Bxd3 exd3 13. Nxd5 Qxd5 14. Qxc7
@@ -441,7 +411,6 @@ Kf3 85. Rg5 Kf4 86. Rg1 Qd6+ 87. Kh7 Qc7+ 88. Rg7 Qc2+ 89. Kh6 Kf5 90. Rf7+ Ke6
 
 [Event "IMSA World Masters Blitz"]
 [Site "Hengshui CHN"]
-[Date "2019.05.18"]
 [Round "22.4"]
 [White "Rapport,R"]
 [Black "Le Quang Liem"]
@@ -455,7 +424,6 @@ Kf3 85. Rg5 Kf4 86. Rg1 Qd6+ 87. Kh7 Qc7+ 88. Rg7 Qc2+ 89. Kh6 Kf5 90. Rf7+ Ke6
 [Variation "modern variation"]
 [WhiteFideId "738590"]
 [BlackFideId "12401137"]
-[EventDate "2019.05.17"]
 
 1. b3 e5 2. Bb2 Nc6 3. c4 g6 4. g3 Bg7 5. Bg2 f5 6. Nc3 Nf6 7. e3 O-O 8. Nge2
 Ne7 9. d4 e4 10. d5 d6 11. h4 Ng4 12. Nf4 Ne5 13. Qc2 a6 14. a4 c5 15. h5 g5 16.
@@ -467,7 +435,6 @@ Qxc7 35. Qxh8+ Ka7 36. Qxa8+ 1-0
 
 [Event "10th Danzhou GM 2019"]
 [Site "Danzhou CHN"]
-[Date "2019.07.03"]
 [Round "4.3"]
 [White "Rapport,R"]
 [Black "Amin,B"]
@@ -480,7 +447,6 @@ Qxc7 35. Qxh8+ Ka7 36. Qxa8+ 1-0
 [Opening "Neo-Gruenfeld, 6.O-O c6"]
 [WhiteFideId "738590"]
 [BlackFideId "10601457"]
-[EventDate "2019.06.30"]
 
 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 O-O 5. O-O d5 6. c4 c6 7. Qb3 a5 8. cxd5 a4
 9. Qd1 cxd5 10. Nc3 Ne4 11. Ng5 Nxc3 12. bxc3 Nc6 13. e4 dxe4 14. Nxe4 Qa5 15.
@@ -493,7 +459,6 @@ Bxd5 Rxd5 42. Rb8+ Bf8 43. Bb4 Rxg5 44. Bxf8 1-0
 
 [Event "47th GM 2019"]
 [Site "Dortmund GER"]
-[Date "2019.07.13"]
 [Round "1.3"]
 [White "Rapport,R"]
 [Black "Nepomniachtchi,I"]
@@ -506,7 +471,6 @@ Bxd5 Rxd5 42. Rb8+ Bf8 43. Bb4 Rxg5 44. Bxf8 1-0
 [Opening "Reti opening"]
 [WhiteFideId "738590"]
 [BlackFideId "4168119"]
-[EventDate "2019.07.13"]
 
 1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 e5 6. Nb5 Bb4+ 7. Bd2 Bc5 8.
 N1c3 O-O 9. Bg2 a6 10. Na3 d6 11. O-O h6 12. Nc2 Be6 13. b3 d5 14. cxd5 Nxd5 15.
@@ -521,7 +485,6 @@ Ke7 54. Rf7+ Kd6 55. Rd7+ Kc6 56. Bd5+ 1-0
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.12"]
 [Round "8.2"]
 [White "Rapport,R"]
 [Black "Aronian,L"]
@@ -535,7 +498,6 @@ Ke7 54. Rf7+ Kd6 55. Rd7+ Kc6 56. Bd5+ 1-0
 [Variation "Berlin defence"]
 [WhiteFideId "738590"]
 [BlackFideId "13300474"]
-[EventDate "2019.08.10"]
 
 1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Na5 5. Bb3 Bb4 6. Nf3 Nxb3 7. axb3 d5 8.
 exd5 Nxd5 9. Bd2 Nxc3 10. Bxc3 Bxc3+ 11. bxc3 O-O 12. O-O Re8 13. Re1 f6 14. d4
@@ -555,7 +517,6 @@ Rh1 80. g7 Rg1 81. Rf6 Rd1+ 82. Kc7 Rc1+ 83. Kd6 Rd1+ 84. Ke5 Re1+ 85. Kf4 Rf1+
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "2.2"]
 [White "Rapport,R"]
 [Black "Vachier Lagrave,M"]
@@ -568,7 +529,6 @@ Rh1 80. g7 Rg1 81. Rf6 Rd1+ 82. Kc7 Rc1+ 83. Kd6 Rd1+ 84. Ke5 Re1+ 85. Kf4 Rf1+
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteFideId "738590"]
 [BlackFideId "623539"]
-[EventDate "2019.08.13"]
 
 1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. c3 Qb6 5. Qc2 Nc6 6. Nd2 e6 7. Ngf3 Be7 8. Bd3
 h6 9. Bh4 Bd7 10. a3 Rc8 11. Qb1 cxd4 12. exd4 O-O 13. O-O Nh5 14. Ne5 Nxe5 15.
@@ -580,7 +540,6 @@ Qg4+ Kf6 35. Qh5 Rh8 36. Nxe6 Be8 37. Qg4 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "4.2"]
 [White "Rapport,R"]
 [Black "Karjakin,Sergey"]
@@ -593,7 +552,6 @@ Qg4+ Kf6 35. Qh5 Rh8 36. Nxe6 Be8 37. Qg4 1-0
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteFideId "738590"]
 [BlackFideId "14109603"]
-[EventDate "2019.08.13"]
 
 1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. c3 Nc6 5. Nd2 cxd4 6. exd4 Bf5 7. Ngf3 e6 8. Nh4
 Bg6 9. Nxg6 hxg6 10. Bd3 Be7 11. g3 Nd7 12. Be3 Bg5 13. Qe2 Bxe3 14. Qxe3 Qa5
@@ -606,7 +564,6 @@ Kh6 41. Rxb7 Qe8 42. Kg1 g5 43. Qh1+ 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "6.2"]
 [White "Rapport,R"]
 [Black "Mamedyarov,S"]
@@ -620,7 +577,6 @@ Kh6 41. Rxb7 Qe8 42. Kg1 g5 43. Qh1+ 1-0
 [Variation "symmetrical (Austrian) defence"]
 [WhiteFideId "738590"]
 [BlackFideId "13401319"]
-[EventDate "2019.08.13"]
 
 1. d4 d5 2. c4 c5 3. cxd5 Qxd5 4. e3 e6 5. Nc3 Qd8 6. Nf3 Nf6 7. Bd3 a6 8. O-O
 Nc6 9. dxc5 Bxc5 10. Qe2 Qc7 11. b3 Nb4 12. Ne4 Nxd3 13. Nxf6+ gxf6 14. Qxd3 Qe7
@@ -632,7 +588,6 @@ Bxe5 Kg7 35. Bxf6+ 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "10.2"]
 [White "Rapport,R"]
 [Black "Caruana,F"]
@@ -645,7 +600,6 @@ Bxe5 Kg7 35. Bxf6+ 1-0
 [Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
 [WhiteFideId "738590"]
 [BlackFideId "2020009"]
-[EventDate "2019.08.13"]
 
 1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. c3 Nc6 5. Nd2 cxd4 6. exd4 Bf5 7. Ne2 e6 8. Nc1
 Be7 9. Bd3 Bg6 10. h4 Bxd3 11. Nxd3 h6 12. Bxf6 Bxf6 13. Nf3 O-O 14. g4 Re8 15.
@@ -661,7 +615,6 @@ a5 bxa5 62. bxa5 Ke6 63. Nb4 1-0
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "14.2"]
 [White "Rapport,R"]
 [Black "Dominguez Perez,L"]
@@ -675,7 +628,6 @@ a5 bxa5 62. bxa5 Ke6 63. Nb4 1-0
 [Variation "4.Bg5 Be7"]
 [WhiteFideId "738590"]
 [BlackFideId "3503240"]
-[EventDate "2019.08.13"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Rc1 Nbd7 8. cxd5
 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rxc7 Qb4+ 12. Qd2 Qb6 13. Rc2 Nf6 14. Bd3
@@ -690,7 +642,6 @@ Qe6 47. d5 Qxg4+ 48. Kf1 Qf4+ 49. Rf2 Qe5 50. d6 Rd7 51. Rd2 Qf4+ 52. Ke1 Qe5
 
 [Event "35th ECC Open 2019"]
 [Site "Budva MNE"]
-[Date "2019.11.12"]
 [Round "3.3"]
 [White "Rapport,R"]
 [Black "Hammer,J"]
@@ -700,7 +651,6 @@ Qe6 47. d5 Qxg4+ 48. Kf1 Qf4+ 49. Rf2 Qe5 50. d6 Rd7 51. Rd2 Qf4+ 52. Ke1 Qe5
 [BlackTeam "Koge SK"]
 [BlackTitle "GM"]
 [ECO "A07"]
-[EventDate "2019.11.10"]
 [Opening "Reti"]
 [Variation "King's Indian attack, Pachman system"]
 [WhiteElo "2752"]

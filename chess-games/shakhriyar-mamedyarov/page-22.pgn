@@ -1,6 +1,5 @@
 [Event "6th Sinquefield Cup 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.24"]
 [Round "6.2"]
 [White "Mamedyarov, S."]
 [Black "Vachier Lagrave, M."]
@@ -9,7 +8,6 @@
 [WhiteElo "2801"]
 [BlackElo "2779"]
 [PlyCount "87"]
-[EventDate "2018.08.18"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -26,7 +24,6 @@ Nc7 22. Rbb1 Nd5 23. Bg5 Rd7 24. Ne4 h6 25. Bd2 cxd4 26. cxd4 Rad8 27. g4 g5
 
 [Event "6th Sinquefield Cup 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.26"]
 [Round "8.2"]
 [White "Mamedyarov, S."]
 [Black "Carlsen, M."]
@@ -35,7 +32,6 @@ Nc7 22. Rbb1 Nd5 23. Bg5 Rd7 24. Ne4 h6 25. Bd2 cxd4 26. cxd4 Rad8 27. g4 g5
 [WhiteElo "2801"]
 [BlackElo "2842"]
 [PlyCount "116"]
-[EventDate "2018.08.18"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -55,7 +51,6 @@ Kg2 g4 41. h3 h5 42. hxg4 hxg4 43. Bc3 e5 44. Rg8 Kc4 45. Rc8+ Kd5 46. Rd8+ Kc5
 
 [Event "6th Sinquefield Cup 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.20"]
 [Round "3.2"]
 [White "Mamedyarov, S."]
 [Black "Caruana, F."]
@@ -64,7 +59,6 @@ Kg2 g4 41. h3 h5 42. hxg4 hxg4 43. Bc3 e5 44. Rg8 Kc4 45. Rc8+ Kd5 46. Rd8+ Kc5
 [WhiteElo "2801"]
 [BlackElo "2822"]
 [PlyCount "121"]
-[EventDate "2018.08.18"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -84,7 +78,6 @@ Qg2+ 53. Kd1 Qh1 54. Kc2 Qc6 55. Kd1 Bg3 56. Qd4 Qf3+ 57. Kc2 Be1 58. Qd3 Qc6
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.4"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -93,7 +86,6 @@ Qg2+ 53. Kd1 Qh1 54. Kc2 Qc6 55. Kd1 Bg3 56. Qd4 Qf3+ 57. Kc2 Be1 58. Qd3 Qc6
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "65"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -108,7 +100,6 @@ Rb8+ 1/2-1/2
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.32"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -117,7 +108,6 @@ Rb8+ 1/2-1/2
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "176"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -140,7 +130,6 @@ Bd7 86. Nf3 g4 87. Nh2 Ke5 88. Nxg4+ Bxg4 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.12"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -149,7 +138,6 @@ Bd7 86. Nf3 g4 87. Nh2 Ke5 88. Nxg4+ Bxg4 1/2-1/2
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "53"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -163,7 +151,6 @@ Qxe2 Bxg3 22. hxg3 Kf8 23. Qh2 Kg8 24. Qe2 Kf8 25. Qh2 Kg8 26. Qe2 Kf8 27. Qh2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.14"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -172,7 +159,6 @@ Qxe2 Bxg3 22. hxg3 Kf8 23. Qh2 Kg8 24. Qe2 Kf8 25. Qh2 Kg8 26. Qe2 Kf8 27. Qh2
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "109"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -190,7 +176,6 @@ Qf2+ 53. Kh1 Qf1+ 54. Kh2 Qf2+ 55. Kh1 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.16"]
 [White "Mamedyarov, S."]
 [Black "Giri, A."]
@@ -199,7 +184,6 @@ Qf2+ 53. Kh1 Qf1+ 54. Kh2 Qf2+ 55. Kh1 1/2-1/2
 [WhiteElo "2801"]
 [BlackElo "2782"]
 [PlyCount "78"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -215,7 +199,6 @@ Rc2 Rxc2 35. Qxc2 Qa7 36. Qc8+ Kh7 37. Qc2+ Kg8 38. Qc8+ Kh7 39. Qc2+ Kg8
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "1.3"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Karjakin, Sergey"]
@@ -223,7 +206,6 @@ Rc2 Rxc2 35. Qxc2 Qa7 36. Qc8+ Kh7 37. Qc2+ Kg8 38. Qc8+ Kh7 39. Qc2+ Kg8
 [WhiteElo "2817"]
 [BlackElo "2753"]
 [ECO "D30"]
-[EventDate "2018.11.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Nbd7 5. e3 h6 6. Bh4 Be7 7. Qc2 O-O 8.
  cxd5 Nxd5 9. Bxe7 Qxe7 10. Bc4 N5f6 11. Nc3 c5 12. O-O cxd4 13. Nxd4 Ne5 
@@ -234,7 +216,6 @@ Rc2 Rxc2 35. Qxc2 Qa7 36. Qc8+ Kh7 37. Qc2+ Kg8 38. Qc8+ Kh7 39. Qc2+ Kg8
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "15.2"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Harikrishna, Pendyala"]
@@ -242,7 +223,6 @@ Rc2 Rxc2 35. Qxc2 Qa7 36. Qc8+ Kh7 37. Qc2+ Kg8 38. Qc8+ Kh7 39. Qc2+ Kg8
 [WhiteElo "2817"]
 [BlackElo "2729"]
 [ECO "D30"]
-[EventDate "2018.11.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nbd2 dxc4 6. e4 Bxd2+ 7. Nxd2 
 Qxd4 8. Qc2 Nc6 9. Bxc4 h6 10. Be3 Qd6 11. Bb5 Bd7 12. O-O-O Nb4 13. Bxd7+
@@ -258,7 +238,6 @@ Ke5 55. Kc3 Na6 56. Nxh4 1/2-1/2
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "7.5"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Aronian, Levon"]
@@ -266,7 +245,6 @@ Ke5 55. Kc3 Na6 56. Nxh4 1/2-1/2
 [WhiteElo "2817"]
 [BlackElo "2765"]
 [ECO "E20"]
-[EventDate "2018.11.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Bg5 exd5 8. 
 cxd5 Nbd7 9. Bd3 Ne5 10. Ne2 c4 11. Bc2 Bc5 12. Qd2 h6 13. Be3 Qb6 14. 
@@ -284,7 +262,6 @@ Ke3 Rb6 56. Ra8+ Kf7 57. Ra7 Rxd6 58. Ra5 Bg4 59. Ra7+ Ke8 60. Ra8+ Kd7
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.26"]
 [Round "3.5"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Borisek, Jure"]
@@ -292,7 +269,6 @@ Ke3 Rb6 56. Ra8+ Kf7 57. Ra7 Rxd6 58. Ra5 Bg4 59. Ra7+ Ke8 60. Ra8+ Kd7
 [WhiteElo "2820"]
 [BlackElo "2578"]
 [ECO "D23"]
-[EventDate "2018.09.24"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Qa4+ c6 5. Qxc4 Bf5 6. g3 e6 7. Bg2 Be7 
 8. O-O O-O 9. Nc3 Nbd7 10. Re1 Rc8 11. e4 Bg4 12. Qb3 b5 13. h3 Bxf3 14. 
@@ -305,7 +281,6 @@ Qc2 Rfd8 21. Bf4 Nh5 22. Bxe5 Qxe5 23. Ne2 Rxd1+ 24. Rxd1 g5 25. Qc3 Qxc3
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.28"]
 [Round "15.2"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Dubov, Daniil"]
@@ -313,7 +288,6 @@ Qc2 Rfd8 21. Bf4 Nh5 22. Bxe5 Qxe5 23. Ne2 Rxd1+ 24. Rxd1 g5 25. Qc3 Qxc3
 [WhiteElo "2817"]
 [BlackElo "2703"]
 [ECO "D43"]
-[EventDate "2018.12.26"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. e3 Nd7 8.
  Be2 dxc4 9. O-O Bd6 10. Bxc4 Qe7 11. Rc1 O-O 12. Ne4 Bc7 13. Bb3 Kh8 14. 
@@ -323,7 +297,6 @@ Nc5 Nxc5 15. Rxc5 Rd8 16. Qc2 Bd7 17. Qe4 Bd6 18. Rc3 Rac8 19. Rfc1 Be8
 
 [Event "Tata Steel India Rapid"]
 [Site "Kolkata IND"]
-[Date "2018.11.10"]
 [Round "6.5"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Anand, Viswanathan"]
@@ -331,7 +304,6 @@ Nc5 Nxc5 15. Rxc5 Rd8 16. Qc2 Bd7 17. Qe4 Bd6 18. Rc3 Rac8 19. Rfc1 Be8
 [WhiteElo "2817"]
 [BlackElo "2773"]
 [ECO "D24"]
-[EventDate "2018.11.09"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. Nc3 a6 6. a4 Nc6 7. e4 Na5 8. 
 Qc2 Be7 9. Rd1 h6 10. Bxf6 Bxf6 11. e5 Be7 12. d5 O-O 13. dxe6 Qe8 14. 
@@ -346,7 +318,6 @@ Rxf6 44. Kf2 Ra6 45. Re4 Kg7 46. g4 hxg4 47. fxg4 Ra3 48. h5 gxh5 49. gxh5
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "17.6"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Jakovenko, Dmitry"]
@@ -354,7 +325,6 @@ Rxf6 44. Kf2 Ra6 45. Re4 Kg7 46. g4 hxg4 47. fxg4 Ra3 48. h5 gxh5 49. gxh5
 [WhiteElo "2817"]
 [BlackElo "2735"]
 [ECO "D30"]
-[EventDate "2018.12.29"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 h6 6. Bxf6 Bxf6 7. Qc2 O-O 
 8. Nc3 c5 9. dxc5 dxc4 10. Bxc4 Nd7 11. Rd1 Qa5 12. O-O Bxc3 13. bxc3 Qxc5
@@ -365,7 +335,6 @@ Ne5 27. Nxe5 Qxe5 28. Rd5 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "3.4"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Petrosian, Tigran L"]
@@ -373,7 +342,6 @@ Ne5 27. Nxe5 Qxe5 28. Rd5 1/2-1/2
 [WhiteElo "2817"]
 [BlackElo "2598"]
 [ECO "A41"]
-[EventDate "2018.12.26"]
 
 1. d4 d6 2. Nf3 Bg4 3. e3 Nf6 4. Be2 Nbd7 5. c4 e5 6. Nc3 c6 7. O-O Be7 8.
  h3 Bh5 9. b3 O-O 10. Bb2 e4 11. Nh2 Bxe2 12. Qxe2 d5 13. Rac1 a6 14. Ng4 
@@ -382,7 +350,6 @@ Re8 15. Rc2 Bd6 16. Nxf6+ 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "5.3"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Korobov, Anton"]
@@ -390,7 +357,6 @@ Re8 15. Rc2 Bd6 16. Nxf6+ 1/2-1/2
 [WhiteElo "2817"]
 [BlackElo "2698"]
 [ECO "E12"]
-[EventDate "2018.12.26"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Bf4 Be7 6. Nc3 Ne4 7. Nxe4 Bxe4 
 8. e3 d6 9. Nd2 Bb7 10. Bd3 Nd7 11. Qc2 h5 12. h4 c5 13. Be4 Qc8 14. O-O-O
@@ -399,7 +365,6 @@ cxd4 15. exd4 d5 16. cxd5 Nf6 17. Bd3 Nxd5 18. Be5 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.27"]
 [Round "9.4"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Giri, Anish"]
@@ -407,7 +372,6 @@ cxd4 15. exd4 d5 16. cxd5 Nf6 17. Bd3 Nxd5 18. Be5 1/2-1/2
 [WhiteElo "2817"]
 [BlackElo "2783"]
 [ECO "D30"]
-[EventDate "2018.12.26"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 h6 6. Bxf6 Bxf6 7. Qc2 O-O 
 8. Nc3 dxc4 9. O-O-O c5 10. dxc5 Qa5 11. Ne4 Qxa2 12. Nxf6+ gxf6 13. Bxc4 
@@ -417,7 +381,6 @@ Qc2+ 20. Ke1 Bxd3 21. Nd4 Qc4 22. Qg5+ Kh7 23. Qh5+ Kg7 24. Qg5+ 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.03"]
 [Round "9.2"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Ding, Liren"]
@@ -425,7 +388,6 @@ Qc2+ 20. Ke1 Bxd3 21. Nd4 Qc4 22. Qg5+ Kh7 23. Qh5+ Kg7 24. Qg5+ 1/2-1/2
 [WhiteElo "2820"]
 [BlackElo "2804"]
 [ECO "D41"]
-[EventDate "2018.09.24"]
 
 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 
 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. 
@@ -441,7 +403,6 @@ Kg2 Ra5 32. R1d2 Kh7 33. Rd7 Kg8 34. R2d5 Rxa2 35. Re7 Rf8 36. Rb5 Raa8
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "13.5"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Wang, Hao"]
@@ -449,7 +410,6 @@ Kg2 Ra5 32. R1d2 Kh7 33. Rd7 Kg8 34. R2d5 Rxa2 35. Re7 Rf8 36. Rb5 Raa8
 [WhiteElo "2817"]
 [BlackElo "2730"]
 [ECO "D05"]
-[EventDate "2018.12.29"]
 
 1. d4 Nf6 2. Nf3 d5 3. e3 e6 4. Nbd2 b6 5. b3 Bb7 6. Bb2 Nbd7 7. Bd3 Be7 
 8. O-O O-O 9. c4 c5 10. cxd5 Nxd5 11. Rc1 Rc8 12. Nc4 N5f6 13. Qe2 cxd4 
@@ -469,7 +429,6 @@ Kf8 80. Ra8+ Kxf7 1/2-1/2
 
 [Event "34. ECC Open 2018"]
 [Site "Porto Carras GRE"]
-[Date "2018.10.18"]
 [Round "7.3"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Wojtaszek, Radoslaw"]
@@ -477,7 +436,6 @@ Kf8 80. Ra8+ Kxf7 1/2-1/2
 [WhiteElo "2820"]
 [BlackElo "2727"]
 [ECO "E04"]
-[EventDate "2018.10.12"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8.
  dxc5 Bxc5 9. Qxc4 Be7 10. Rd1 O-O 11. Nc3 Qa5 12. Bd2 Rac8 13. Rac1 Rfd8 
@@ -488,7 +446,6 @@ Be7 26. Bd4 Bd8 27. Bc3 Be7 28. Bd4 Bd8 29. Bc3 1/2-1/2
 
 [Event "11. Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.02"]
 [Round "1.1"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Kramnik, Vladimir"]
@@ -496,7 +453,6 @@ Be7 26. Bd4 Bd8 27. Bc3 Be7 28. Bd4 Bd8 29. Bc3 1/2-1/2
 [WhiteElo "2809"]
 [BlackElo "2800"]
 [ECO "D00"]
-[EventDate "2018.03.02"]
 
 1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 c6 5. Bd3 Bd6 6. Nd2 O-O 7. Qf3 a5 
 8. Ne2 Na6 9. c3 Nc7 10. h4 Re8 11. g4 Ne6 12. O-O-O b5 13. Rdg1 g6 14. h5
@@ -509,7 +465,6 @@ Bf8 21. Rd1 a4 22. Ne2 a3 23. b3 Qd5 24. Qxd5 cxd5 25. Nd2 Bd6 26. Rc1 Rc7
 
 [Event "34. ECC Open 2018"]
 [Site "Porto Carras GRE"]
-[Date "2018.10.16"]
 [Round "5.2"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Carlsen, Magnus"]
@@ -517,7 +472,6 @@ Bf8 21. Rd1 a4 22. Ne2 a3 23. b3 Qd5 24. Qxd5 cxd5 25. Nd2 Bd6 26. Rc1 Rc7
 [WhiteElo "2820"]
 [BlackElo "2839"]
 [ECO "D38"]
-[EventDate "2018.10.12"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 
 8. e3 Bf5 9. Qb3 Bxc3+ 10. Qxc3 Nbd7 11. Be2 c6 12. Nd2 Ne4 13. Nxe4 Qxh4 
@@ -528,7 +482,6 @@ Bf8 21. Rd1 a4 22. Ne2 a3 23. b3 Qd5 24. Qxd5 cxd5 25. Nd2 Bd6 26. Rc1 Rc7
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.04"]
 [Round "10.6"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Ivanchuk, Vassily"]
@@ -536,7 +489,6 @@ Bf8 21. Rd1 a4 22. Ne2 a3 23. b3 Qd5 24. Qxd5 cxd5 25. Nd2 Bd6 26. Rc1 Rc7
 [WhiteElo "2820"]
 [BlackElo "2710"]
 [ECO "E12"]
-[EventDate "2018.09.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Bf4 Be7 6. Nc3 Ne4 7. Nxe4 Bxe4 
 8. e3 d6 9. Bd3 Bxd3 10. Qxd3 Nd7 11. O-O-O c5 12. Kb1 Rc8 13. Rc1 cxd4 
@@ -548,7 +500,6 @@ Bf8 21. Rd1 a4 22. Ne2 a3 23. b3 Qd5 24. Qxd5 cxd5 25. Nd2 Bd6 26. Rc1 Rc7
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "5.23"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Sarana, Alexey"]
@@ -556,7 +507,6 @@ Bf8 21. Rd1 a4 22. Ne2 a3 23. b3 Qd5 24. Qxd5 cxd5 25. Nd2 Bd6 26. Rc1 Rc7
 [WhiteElo "2817"]
 [BlackElo "2618"]
 [ECO "D30"]
-[EventDate "2018.12.29"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. Qa4+ Nbd7 6. e4 c6 7. Qxc4 Be7
 8. Bd3 O-O 9. O-O c5 10. dxc5 Nxc5 11. Bc2 b5 12. Qe2 b4 13. Rd1 Qc7 14. 

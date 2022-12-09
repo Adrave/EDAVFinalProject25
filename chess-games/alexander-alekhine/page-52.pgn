@@ -1,13 +1,11 @@
 [Event "Simul, 35b"]
 [Site "Rouen FRA"]
-[Date "1937.03.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Thierry"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D21"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -22,14 +20,12 @@
 
 [Event "Simul, 30b"]
 [Site "Arnhem NED"]
-[Date "1937.05.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Gerrit de Wolf"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Simul, 28b"]
 [Site "Newcastle ENG"]
-[Date "1938.09.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Louis Zollner"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Simul, 30b"]
 [Site "Glasgow SCO"]
-[Date "1938.09.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "James McGrouther"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -88,14 +80,12 @@
 
 [Event "Simul, 25b"]
 [Site "London ENG"]
-[Date "1938.09.28"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "G Fanshawe"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -111,14 +101,12 @@
 
 [Event "Simul, 35b"]
 [Site "Dublin IRL"]
-[Date "1938.09.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Charles J Barry"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E22"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -132,14 +120,12 @@
 
 [Event "Simul, 36b"]
 [Site "Leeds ENG"]
-[Date "1938.12.10"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "William Batley"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -153,14 +139,12 @@
 
 [Event "Simul"]
 [Site "Caracas VEN"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Carlos A Vidal"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -173,14 +157,12 @@
 
 [Event "Simul, 36b"]
 [Site "Leeds ENG"]
-[Date "1938.12.10"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "N Cunningham"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D15"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -194,14 +176,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.05.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Orlando Rocas"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -214,14 +194,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.05.26"]
 [Round "7"]
 [White "Alexander Alekhine"]
 [Black "Luiz Felippe Burlamaqui"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -235,14 +213,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Rio de Janeiro BRA"]
-[Date "1939.05.26"]
 [Round "11"]
 [White "Alexander Alekhine"]
 [Black "Miguel Pereira Filho"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "????.??.??"]
 [PlyCount "132"]
 [WhiteElo "?"]
 
@@ -262,14 +238,12 @@
 
 [Event "Simul, 40b"]
 [Site "Karlsruhe GER"]
-[Date "1934.11.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Emil Joseph Diemer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -283,14 +257,12 @@
 
 [Event "Simul, 40b"]
 [Site "Karlsruhe GER"]
-[Date "1934.11.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Max Eisinger Jr"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B74"]
-[EventDate "????.??.??"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -309,14 +281,12 @@
 
 [Event "Simul, 43b"]
 [Site "Barcelona ESP"]
-[Date "1935.01.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Claret"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -332,14 +302,12 @@
 
 [Event "Alcoy"]
 [Site "Alcoy ESP"]
-[Date "1935.02.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Botella"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E24"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -353,14 +321,12 @@
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1935.06.15"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Magazine Vue team"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -375,14 +341,12 @@
 
 [Event "Simul, 40b"]
 [Site "Riga LAT"]
-[Date "1935.09.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "K Kruza"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -397,14 +361,12 @@
 
 [Event "Simul, 40b"]
 [Site "Riga LAT"]
-[Date "1935.09.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "W Rosenberg"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -417,14 +379,12 @@
 
 [Event "Clock simul, 12b"]
 [Site "Riga LAT"]
-[Date "1935.09.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Arvids Kalnins"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -436,14 +396,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Liepaja LAT"]
-[Date "1935.09.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Geller"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -457,14 +415,12 @@
 
 [Event "Simul, 40b"]
 [Site "Riga LAT"]
-[Date "1935.09.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Alberts Melnbardis"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -479,14 +435,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sofia BUL"]
-[Date "1936.04.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Arshavir G Tanielian"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -500,14 +454,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sofia BUL"]
-[Date "1936.04.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Alexandar Tsvetkov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -524,14 +476,12 @@
 
 [Event "Simul, 27b"]
 [Site "Nagykoros HUN"]
-[Date "1936.04.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Szentkiralyi Toth Vince Lukas"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 

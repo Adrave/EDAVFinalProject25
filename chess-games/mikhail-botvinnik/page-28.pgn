@@ -1,13 +1,11 @@
 [Event "Training Game"]
 [Site "?"]
-[Date "1951.10.31"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C90"]
-[EventDate "????.??.??"]
 [PlyCount "128"]
 [WhiteElo "?"]
 
@@ -27,14 +25,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1951.03.16"]
 [Round "1"]
 [White "Mikhail Botvinnik"]
 [Black "David Bronstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A91"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -49,14 +45,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1951.03.20"]
 [Round "3"]
 [White "Mikhail Botvinnik"]
 [Black "David Bronstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "134"]
 [WhiteElo "?"]
 
@@ -77,14 +71,12 @@
 
 [Event "World Championship"]
 [Site "Moscow URS"]
-[Date "1963.04.03"]
 [Round "6"]
 [White "Mikhail Botvinnik"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D27"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 

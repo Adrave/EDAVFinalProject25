@@ -1,6 +1,5 @@
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Hamdouchi Hichem (MAR)"]
@@ -26,7 +25,6 @@ Bd7 53.Bd3 Bg4 54.Bf1 Bf5 55.Bg2 Bd7 56.b6 Kc6 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Zhu Chen (CHN)"]
@@ -76,7 +74,6 @@ Nd5 114.Ba2 Ne7 115.Ra6 Nd5 116.Rh6 Kd4 117.Bb3 Ke5 118.Rh4 Ne7
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.01.23"]
 [Round "11"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Stefanova Antoaneta (BUL)"]
@@ -102,7 +99,6 @@ Kd3 53.Bc5 e4 54.Nf4+ Kc4 55.b4 e3 56.Kg4 Rf1 57.Kg3 Rxf4 1/2-1/2
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2004.02.10"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Yudasin Leonid (ISR)"]
@@ -130,7 +126,6 @@ Kd5 61.a5 Kc6 62.Rhf3 Rc3 63.Rf6+ Kb7 64.Rf7+ Kb8 65.a6 Rxb3+
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.09"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Bu Xiangzhi (CHN)"]
@@ -153,7 +148,6 @@ c3 36.Rc7 Ra8 1/2-1/2
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.11"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Pogorelov Ruslan (UKR)"]
@@ -181,7 +175,6 @@ Kxd5 53.Kd3 Rb2 54.Ra5+ Kc6 55.e3 Kb6 56.Ra8 Kc5 57.Ra5+ Kb6
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.14"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Olafsson Helgi (ISL)"]
@@ -205,7 +198,6 @@ Kh8 36.Nf7+ Kg7 37.Rd7 Nc5 38.Re7 Bd4 39.Nd8+ Kf8 40.Rxh7 Rf6
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.16"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Hillarp Persson Tiger (SWE)"]
@@ -228,7 +220,6 @@ e3 36.Kh2 Rxf2+ 37.Rxf2 hxg3+ 0-1
 
 [Event "It \"Foxwoods Open\""]
 [Site "Connecticut (USA)"]
-[Date "2004.04.11"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Goldin Alexander (USA)"]
@@ -252,7 +243,6 @@ Qd4+ 36.Kh1 Kh7 37.Qf7 Qd5 38.Qf8 Qd3 39.Re7 Qd1+ 40.Kh2 Qd6+
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2004.05.18"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Stripunsky Alexander (USA)"]
@@ -272,7 +262,6 @@ Bxe4 20.Kg1 Nxf3+ 21.Rxf3 Bxf3 0-1
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "Tripoli (Libya)"]
-[Date "2004.06.26"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Adams Michael (ENG)"]
@@ -300,7 +289,6 @@ Qe5 65.Qb4 Qe4 66.Qd2 Qxg2+ 0-1
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2004.09.21"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Lenderman Alex (USA)"]
@@ -325,7 +313,6 @@ Kd8 48.Kb6 Kc8 49.d5 Re7 50.d6 1-0
 
 [Event "It (open)"]
 [Site "Port Erin (England)"]
-[Date "2004.09.25"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Pert Richard G (ENG)"]
@@ -349,7 +336,6 @@ Kf7 37.Rd6 Ra8 38.Nd4 a5 39.Nxf5 gxf5 40.bxa5 Rxa5 41.Rb6 f4
 
 [Event "It (open)"]
 [Site "Port Erin (England)"]
-[Date "2004.09.29"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ramesh R B (IND)"]
@@ -370,7 +356,6 @@ Bd7 26.f5 Ne5 27.Rxe5 dxe5 28.Qxg4+ Kh6 29.Be2 1-0
 
 [Event "It (open)"]
 [Site "Port Erin (England)"]
-[Date "2004.10.03"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Rowson Jonathan (SCO)"]
@@ -394,7 +379,6 @@ N4e5 26.b4 Ng6 27.g3 Nge5 28.Be3 Rbc8 29.Qa2 Nf3+ 30.Nxf3 gxf3
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2004.10.12"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Wojtkiewicz Aleksander (USA)"]
@@ -418,7 +402,6 @@ Qxd7 37.Qh8+ Ke7 38.Re1+ Qe6 39.Rxe6+ Kxe6 40.Qb2 h4 41.b6 d4
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2004.11.16"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Stripunsky Alexander (USA)"]
@@ -439,7 +422,6 @@ Nxe5 26.Bxe5 dxe5 27.fxg6 fxg6 28.Bxg6 Ng7 29.Bxh7+ Kxh7 30.Rf7 1-0
 
 [Event "Ch USA"]
 [Site "San Diego (USA)"]
-[Date "2004.11.24"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Muhammad Stephen A (USA)"]
@@ -460,7 +442,6 @@ Nxd1 19.Bxb5 Bd6 20.Rxd1 Kc7 21.Nd2 Bc6 22.Bd3 Rhe8 23.c4 dxc4
 
 [Event "Ch USA"]
 [Site "San Diego (USA)"]
-[Date "2004.12.04"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ibragimov Ildar (USA)"]
@@ -488,7 +469,6 @@ h3 66.a8Q 1-0
 
 [Event "Ch USA (play-off)"]
 [Site "San Diego (USA)"]
-[Date "2004.12.05"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Stripunsky Alexander (USA)"]
@@ -513,7 +493,6 @@ d5 48.Ra1 1-0
 
 [Event "Match"]
 [Site "Cuernavaca (Mexico)"]
-[Date "2004.12.09"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Karjakin Sergey (UKR)"]
@@ -536,7 +515,6 @@ Bb4 36.Qf5 Bc5 37.Rc7 Ba3 38.c5 Bxc5 39.Rxc5 g6 40.Nf6+ Kg7 41.Ne4 1-0
 
 [Event "Match"]
 [Site "Cuernavaca (Mexico)"]
-[Date "2004.12.11"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Karjakin Sergey (UKR)"]
@@ -559,7 +537,6 @@ Qb7 37.f3 Ra8 38.Kc1 Qb4 39.Nc3 Bxc3 0-1
 
 [Event "Match"]
 [Site "Cuernavaca (Mexico)"]
-[Date "2004.12.13"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Karjakin Sergey (UKR)"]
@@ -585,7 +562,6 @@ Ke5 46.Kf2 Kf6 47.Kg3 Ke6 48.h4 gxh4+ 49.Kxh4 Kf6 50.Kh5 Kg7
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2004.12.21"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Hess Robert L (USA)"]
@@ -609,7 +585,6 @@ axb5 42.Nxc7+ Ke7 43.a6 1-0
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2004.12.21"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Stripunsky Alexander (USA)"]

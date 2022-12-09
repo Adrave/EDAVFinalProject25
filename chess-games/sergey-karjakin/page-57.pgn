@@ -1,6 +1,5 @@
 [Event "Ukrainian Games"]
 [Site "Alushta (Ukraine)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kirichenko Vitaly IV (UKR)"]
@@ -22,7 +21,6 @@ bxc4 26.Kd2 Bxe5 27.Nxe5 Rxd4+ 28.Ke3 Rd8 29.Rc1 Kg7 30.g4 Bg6
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Graf Alexander (GER)"]
@@ -48,7 +46,6 @@ a4 54.Rb5+ Ka2 55.f7 Rd8 56.Rf5 1-0
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Hillarp Persson Tiger (SWE)"]
@@ -69,7 +66,6 @@ Qxc5 25.Qb3+ 1-0
 
 [Event "It (open)"]
 [Site "Biel (Switzerland)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Papa Severin (SUI)"]
@@ -93,7 +89,6 @@ c3 43.e6 Qc4+ 44.Kf2 Qa2 45.e7 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.19"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Zhang Zhong (CHN)"]
@@ -117,7 +112,6 @@ Rb3 42.Ne5 b5 43.g6 Rxf3+ 44.Kxf3 Kf8 45.Ke4 Kg7 46.Kd5 a5 47.Nxc4 1/2-1/2
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.21"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Andreikin Dmitry (RUS)"]
@@ -142,7 +136,6 @@ Ke6 47.c4 Kd6 48.c5+ Kc6 49.g3 1/2-1/2
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.25"]
 [Round "9"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Dvoirys Semen I (RUS)"]
@@ -166,7 +159,6 @@ Kh7 41.Rxf6 gxf6 42.Qf7+ Kh8 43.Qe8+ 1/2-1/2
 
 [Event "It (open)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2004.03.27"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Khamrakulov Ibragim S (ESP)"]
@@ -188,7 +180,6 @@ Nxd4 25.Rxe7 Bd5 26.bxa6 Nxb3 27.Nb6 Bc6 28.Rc7 Nd4 29.a7 Ne4
 
 [Event "It (open)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2004.04.01"]
 [Round "8"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Milov Vadim (SUI)"]
@@ -209,7 +200,6 @@ b6 25.b3 1/2-1/2
 
 [Event "It \"Canarias En Red\" (final)"]
 [Site "Internet"]
-[Date "2004.05.09"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Dreev Alexey (RUS)"]
@@ -234,7 +224,6 @@ Bxf5 36.Kb2 Ra5 37.Re2 Rb5+ 38.Kc1 Be6 39.Re5 Rxe5 40.Bxe5 Kg6
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "14"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Lputian Smbat G (ARM)"]
@@ -257,7 +246,6 @@ Bxf7 31.Rf3 Rh5 32.Rh3 Rxh3 33.gxh3 Be6 34.Kg2 Kf7 35.Kg3 Kf6
 
 [Event "It (blitz) (qual)"]
 [Site "Internet"]
-[Date "2004.06.02"]
 [Round "17"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Paehtz Elisabeth (GER)"]
@@ -284,7 +272,6 @@ Ke2 54.Na5 Rd4 55.Nc4 Rd1+ 56.Rxd1 Kxd1 57.Ne5 Kxc2 58.Nc6 Nd5
 
 [Event "It (blitz) (final)"]
 [Site "Internet"]
-[Date "2004.06.05"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Landa Konstantin (RUS)"]
@@ -313,7 +300,6 @@ Nxe4 59.Kg4 Nxf6+ 60.Kf3 Kf5 61.Ne3+ Ke6 62.Nc2 Kd6 63.Ke3 Kc5
 
 [Event "It (blitz) (octofinal)"]
 [Site "Internet"]
-[Date "2004.06.05"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Fressinet Laurent (FRA)"]
@@ -339,7 +325,6 @@ Qf4+ 53.Kh4 Qh6+ 54.Kg3 Qf4+ 1/2-1/2
 
 [Event "It (blitz) (octofinal)"]
 [Site "Internet"]
-[Date "2004.06.05"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Petrosian Tigran L (ARM)"]
@@ -361,7 +346,6 @@ Bf7 20.Nxf5 cxd5 21.cxd5 Kh8 22.Nd4 Bxd5 23.Qe3 Bf4 24.Qe7 Qxd4
 
 [Event "It (Gr.2)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.23"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Bologan Viktor (MDA)"]
@@ -389,7 +373,6 @@ h5 66.f4 b2 67.Bxb2 Kxb2 68.d6 Nxd6+ 1/2-1/2
 
 [Event "It (Gr.2)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.25"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -420,7 +403,6 @@ Rc3+ 77.Kd7 Rd3+ 78.Kc8 Rg3 79.Kd7 Rd3+ 80.Ke6 Rc3 81.Kd6 Rd3+
 
 [Event "It (Gr.2)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.26"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Leko Peter (HUN)"]
@@ -443,7 +425,6 @@ Rc1 37.Rd1 Rc7 38.Rd2 Rc1 1/2-1/2
 
 [Event "It (places)"]
 [Site "Dortmund (Germany)"]
-[Date "2004.07.31"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Bologan Viktor (MDA)"]
@@ -471,7 +452,6 @@ Rxh4 60.Rg7+ Kd8 61.Ka5 Rh3 62.Kxa6 Rxf3 63.c6 Kc8 64.Rf7 Rb3
 
 [Event "Olympiad"]
 [Site "Calvia (Spain)"]
-[Date "2004.10.25"]
 [Round "10"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kaidanov Gregory S (USA)"]
@@ -493,7 +473,6 @@ Bc3 31.Re3 Bd4 32.Re1 Bc3 33.Re3 1/2-1/2
 
 [Event "Match"]
 [Site "Cuernavaca (Mexico)"]
-[Date "2004.12.12"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Nakamura Hikaru (USA)"]
@@ -520,7 +499,6 @@ Rb3 58.Kd5 Re3 59.Rf2 Kf7 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Pamplona (Spain)"]
-[Date "2004.12.23"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Gelfand Boris (ISR)"]
@@ -541,7 +519,6 @@ Rf8 26.Nd5 Bxd5 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Pamplona (Spain)"]
-[Date "2004.12.29"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Naiditsch Arkadij (GER)"]
@@ -562,7 +539,6 @@ h5 20.Na2 Bh6 21.Qxb4 Qa7 22.Qxd6 Qe3+ 23.Kf1 Rxb2 24.Rb4 Ng4
 
 [Event "It (blitz) ACP (Prelim1)"]
 [Site "Internet"]
-[Date "2004.04.12"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Agababean Naira (MDA)"]
@@ -571,7 +547,6 @@ h5 20.Na2 Bh6 21.Qxb4 Qa7 22.Qxd6 Qe3+ 23.Kf1 Rxb2 24.Rb4 Ng4
 [WhiteElo "2576"]
 [BlackElo "2192"]
 [PlyCount "50"]
-[EventDate "2004.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
 Be7 9. c4 b4 10. Nc2 Rb8 11. Be2 Nf6 12. Nxf6+ gxf6 13. Bg4 Rg8 14. h3 a5 15.
@@ -581,7 +556,6 @@ O-O h5 16. Bf5 Bxf5 17. exf5 Rh8 18. b3 Qd7 19. Qd3 h4 20. Ne3 Nd4 21. Bb2 Nc6
 
 [Event "It \"]
 [Site "Bilbao (Spain)"]
-[Date "2004.10.09"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Computer \"]
@@ -589,7 +563,6 @@ O-O h5 16. Bf5 Bxf5 17. exf5 Rh8 18. b3 Qd7 19. Qd3 h4 20. Ne3 Nd4 21. Bb2 Nc6
 [ECO "B80"]
 [WhiteElo "2576"]
 [PlyCount "100"]
-[EventDate "2004.??.??"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. g4 h6
 9. Qd2 Nbd7 10. O-O-O Bb7 11. h4 b4 12. Na4 Qa5 13. b3 Nc5 14. a3 Rc8 15. axb4

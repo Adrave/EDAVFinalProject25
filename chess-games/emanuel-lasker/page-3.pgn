@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -25,7 +24,6 @@ Nc3 41.Rxc5 Rb5 42.Rc8+ Kg7 43.Rc7+ Kf6 44.Bxh7 Rd5 45.Rc4 Nxa2
 
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Euwe Max (NED)"]
@@ -53,7 +51,6 @@ Kb5 54.Nc1 Rf8 55.Kg7 Rf5 56.a3 Ka4 57.axb4 Kxb4 58.Na2+ Nxa2
 
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -78,7 +75,6 @@ Nf6 42.Bxf6 Rxf6 43.Re3 Rf8 44.Rce1 Rhh8 45.d7 Kb8 46.Re8+ Kc7
 
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -102,7 +98,6 @@ Ke5 41.a4 Kd4 42.Kf3 1-0
 
 [Event ""]
 [Site "Rotterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Reti Richard (CZE)"]
@@ -123,7 +118,6 @@ Qxa4 25.Qb3 Nb6 26.c3 Rc8 27.Rhe1 Qxb3 28.axb3 Rxc3 29.Re8+ Bf8 0-1
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bergsma KM"]
@@ -145,7 +139,6 @@ Kh7 31.Kg1 Rxb2 0-1
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "18"]
 [White "Lasker Emanuel (GER)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -167,7 +160,6 @@ Kf8 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "13"]
 [White "Lasker Emanuel (GER)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -194,7 +186,6 @@ Rh2 57.Ra7+ Ke8 58.Kg6 Rg2+ 59.Kf6 Rf2 60.Ra8+ Kd7 61.Ra3 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -216,7 +207,6 @@ Kd7 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "12"]
 [White "Lasker Emanuel (GER)"]
 [Black "Janowski Dawid M (POL)"]
@@ -247,7 +237,6 @@ Kc7 75.Re6 Rc2 76.Nxa6+ Kb7 77.Nac5+ Ka7 78.Re7+ Ka8 79.Na4 Rh2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "6"]
 [White "Lasker Emanuel (GER)"]
 [Black "Lasker Edward (GER)"]
@@ -281,7 +270,6 @@ Kf3 99.Ka3 Ke4 100.Kb4 Kd4 101.Nb2 Rh3 102.Na4 Kd3 103.Kxb3 Kd4+ 1/2-1/2
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "20"]
 [White "Lasker Emanuel (GER)"]
 [Black "Maroczy Geza (HUN)"]
@@ -306,7 +294,6 @@ Nc3 42.Qb6 Ne2+ 43.Kh2 Qe6 44.Qxb5 Qd6+ 45.Kg2 Nf4+ 46.Bxf4 Qxf4
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "22"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -330,7 +317,6 @@ Nh7 35.Nf4 Rxb2 36.Nd5+ Kd7 37.e6+ Kd6 38.e7 Kxd5 39.Re6 Rg2+
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "10"]
 [White "Lasker Emanuel (GER)"]
 [Black "Reti Richard (CZE)"]
@@ -352,7 +338,6 @@ Rcc8 30.Qg7+ Qxg7 31.fxg7+ Kg8 32.Ne7+ 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "5"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -373,7 +358,6 @@ Rb8 14.Nxc8 Rfxc8 15.a4 Qe7 16.axb5 axb5 17.Ra7 Rb7 18.Rxb7 Qxb7
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "11"]
 [White "Lasker Emanuel (GER)"]
 [Black "Yates Frederick"]
@@ -399,7 +383,6 @@ Rf7 54.Rh4 Rfe7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Kiel (Germany)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Merkl M"]
@@ -425,7 +408,6 @@ fxg4 52.hxg4 Rg6 53.Kf5 Rc6 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Gotthilf S"]
@@ -444,7 +426,6 @@ O-O 14.Rad1 Bxc3 15.Qxc3 Re8 16.Rfe1 Rc8 17.Bb2 Qg5 18.Qg3 Qxg3 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -471,7 +452,6 @@ f4 54.h5 f3 55.h6 e5 56.Re1 a3 57.Rxe5+ Kc4 58.Re1 a2 59.h7 Ra8
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Rabinovich Ilya L (RUS)"]
@@ -492,7 +472,6 @@ Nxd5 19.Nxd5 Bxd5 20.Kf2 Kf8 21.a3 Rxe1 22.Rxe1 Rd8 23.Re3 Be6
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -514,7 +493,6 @@ d5 25.cxd5 cxd5 26.Na2 Nb8 27.Ke2 Kd7 28.Kd3 Rxc1 29.Rxc1 Rc8
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Reti Richard (CZE)"]
@@ -536,14 +514,12 @@ Qd8 25.axb5 axb5 26.d4 Rfe6 27.c4 exd4 28.Qxd4 Qxd4 29.Bxd4 Rxe3
 
 [Event "Maehrisch-Ostrau"]
 [Site "Ostrava CSR"]
-[Date "1923.07.05"]
 [Round "4"]
 [White "Emanuel Lasker"]
 [Black "Efim Bogoljubov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C91"]
-[EventDate "1923.07.01"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -562,14 +538,12 @@ Qd8 25.axb5 axb5 26.d4 Rfe6 27.c4 exd4 28.Qxd4 Qxd4 29.Bxd4 Rxe3
 
 [Event "New York"]
 [Site "New York, NY USA"]
-[Date "1924.03.30"]
 [Round "11"]
 [White "Emanuel Lasker"]
 [Black "Fred Dewhirst Yates"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C87"]
-[EventDate "1924.03.16"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -587,14 +561,12 @@ Qd8 25.axb5 axb5 26.d4 Rfe6 27.c4 exd4 28.Qxd4 Qxd4 29.Bxd4 Rxe3
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1925.11.23"]
 [Round "11"]
 [White "Emanuel Lasker"]
 [Black "Richard Reti"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "1925.11.10"]
 [PlyCount "66"]
 [WhiteElo "?"]
 

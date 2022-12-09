@@ -1,6 +1,5 @@
 [Event "Ch Georgia"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Blagidze Alexander"]
@@ -23,7 +22,6 @@ g5 26.Nxh5 Bxh5 27.Ng3 Bg4 28.Bb2 gxf4 29.exf4 Ng7 30.Nf1 Qf6
 
 [Event "Ch Georgia"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -48,7 +46,6 @@ Rb2+ 48.Kc1 b4 49.h4 Rh2 50.d5 a2 0-1
 
 [Event "Ch Georgia"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -72,7 +69,6 @@ Kxb6 0-1
 
 [Event "Ch Georgia"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Nerzesov"]
@@ -91,7 +87,6 @@ Qxe2+ 8.Bxe2 Be7 9.Nc3 c6 10.O-O-O O-O 11.Rhe1 Bf5 12.Nd4 Bg6
 
 [Event "Ch Georgia"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Smorodsky Andrey Alexandrovic"]
@@ -114,7 +109,6 @@ Qf7 26.Rcd1 Qc7 27.Bf1 b6 28.Nc3 Nd4 29.Qd2 Rd8 30.Rxd8+ Qxd8
 
 [Event "Ch Georgia"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sorokin Nikolay"]
@@ -134,7 +128,6 @@ Qf6 19.Ne4 Qb6 20.g4 Rac8 21.Qd3 Nh4 22.Qh3 Nxg2 23.Rd6 1-0
 
 [Event "Ch Georgia"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tsintsadze Viacheslav (GEO)"]
@@ -154,7 +147,6 @@ Rfe8 14.Rae1 Rad8 15.Kh1 Bf8 16.Bc1 Kh8 17.Qh3 Qc4 18.Rd1 e5
 
 [Event "Tournament"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kopelevich Boris (ISR)"]
@@ -174,7 +166,6 @@ a4 20.a3 g6 21.Qd2 Ne8 22.Nf5 gxf5 23.exf5 Bd8 24.Rxe8+ 1-0
 
 [Event "Tournament"]
 [Site "Tbilisi (Georgia)"]
-[Date "1944.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lebedev Sergey F (RUS)"]
@@ -197,7 +188,6 @@ Kxf6 36.Kd4 Ra5 37.Rc2 Ra3 38.Kc4 Ra4+ 39.Kxc3 Rg4 40.Kb3 Ke5 1/2-1/2
 
 [Event "Ch Tbilisi"]
 [Site "Tbilisi (Georgia)"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Shishov Mikhail Vasilievich"]
@@ -222,7 +212,6 @@ dxe1Q 48.Qxe1 Qxa2 49.Qe4 Kf7 50.Qf3+ Kg8 51.Qe4 1/2-1/2
 
 [Event "Tournament"]
 [Site "Tbilisi (Georgia)"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Arnshtein"]
@@ -244,7 +233,6 @@ b6 19.Nb3 Bb7 20.Be4 Rfc8 21.Nd3 N5f6 22.Bf3 e5 23.dxe5 Nxe5
 
 [Event "Tournament"]
 [Site "Tbilisi (Georgia)"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bakhtadze Giorgi (GEO)"]
@@ -269,7 +257,6 @@ Bh2 48.Nb4 Nxc5 1/2-1/2
 
 [Event "Tournament"]
 [Site "Tbilisi (Georgia)"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Malashkhia"]
@@ -291,7 +278,6 @@ Qc3 30.Rd7 Qxd3 31.Qc6 Qc4 32.Rxd6 Qxc6 33.Rxc6 Kf8 34.Kg3 Re7 1/2-1/2
 
 [Event "Tournament"]
 [Site "Tbilisi (Georgia)"]
-[Date "1945.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Tsintsadze Viacheslav (GEO)"]
@@ -320,14 +306,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "Moscow Blitz"]
 [Site "Moscow URS"]
-[Date "1971.03.31"]
 [Round "7"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Anatoly Karpov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -343,14 +327,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1966.05.02"]
 [Round "10"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E63"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -364,14 +346,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "Petrosian - Spassky World Championship Match"]
 [Site "Moscow URS"]
-[Date "1966.06.03"]
 [Round "22"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Boris Spassky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -386,14 +366,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "Moscow Spartakiad"]
 [Site "Moscow"]
-[Date "1983.06.03"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "David Bronstein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A48"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -409,14 +387,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "USSR Tch Moscow"]
 [Site "USSR Tch Moscow"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Mark Taimanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -432,14 +408,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "9th Armenian Championship"]
 [Site "Yerevan"]
-[Date "1949.03.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Akob Arsenovich Mokatsian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E90"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -453,14 +427,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "Spartak vs. Dynamo"]
 [Site "Moscow"]
-[Date "1950.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Victor Davidovich Baturinsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E28"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -475,14 +447,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "Moscow"]
 [Site "It"]
-[Date "1951.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Oleg Leonidovich Moiseev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -498,14 +468,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "Tbilisi"]
 [Site "Tbilisi"]
-[Date "1942.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Salomon Flohr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A52"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -522,14 +490,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "GEO-ch"]
 [Site "Tbilisi (Georgia)"]
-[Date "1945.??.??"]
 [Round "14"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Albert Arutiunov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -545,14 +511,12 @@ Kxd4 70.Rf8 c3 71.Rc8 Kd3 72.f5 Re4+ 73.Kh5 Rc4 74.Rxc4 1/2-1/2
 
 [Event "URS-ch U18"]
 [Site "Leningrad URS"]
-[Date "1946.??.??"]
 [Round "?"]
 [White "Tigran Vartanovich Petrosian"]
 [Black "Yuri M Kotkov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E10"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 

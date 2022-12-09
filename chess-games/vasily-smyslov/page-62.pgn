@@ -1,13 +1,11 @@
 [Event "Bugojno"]
 [Site "Bugojno"]
-[Date "1984.05.??"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Svetozar Gligoric"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -23,14 +21,12 @@
 
 [Event "Bronshoj"]
 [Site "Bronshoj, Copenhagen DEN"]
-[Date "1985.03.??"]
 [Round "10"]
 [White "Vasily Smyslov"]
 [Black "Harold James Plaskett"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "????.??.??"]
 [PlyCount "145"]
 [WhiteElo "?"]
 
@@ -51,14 +47,12 @@
 
 [Event "6th Vidmar Memorial"]
 [Site "Portoroz"]
-[Date "1985.06.??"]
 [Round "3"]
 [White "Vasily Smyslov"]
 [Black "Predrag Nikolic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -70,14 +64,12 @@
 
 [Event "Lvov Zonal"]
 [Site "Lvov"]
-[Date "1978.04.??"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Boris Gulko"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E62"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -91,14 +83,12 @@
 
 [Event "Amsterdam IBM"]
 [Site "Amsterdam NED"]
-[Date "1981.05.21"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "Jan Hein Donner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E03"]
-[EventDate "????.??.??"]
 [PlyCount "111"]
 [WhiteElo "?"]
 
@@ -116,14 +106,12 @@
 
 [Event "ICC 120 5"]
 [Site "Internet Chess Club"]
-[Date "2000.04.15"]
 [Round "-"]
 [White "Vasily Smyslov"]
 [Black "REBEL (Computer)"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B22"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Denker Arnold S (USA)"]
@@ -22,7 +21,6 @@ Kg8 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -47,7 +45,6 @@ e3 47.Nb5 Kf4 48.Nc3 Kg3 49.c5 1-0
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -67,7 +64,6 @@ Nb6 20.Rd3 Rfd8 21.Ba3 Bd6 22.Bb2 Bc7 23.Ba3 Bd6 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "16"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Guimard Carlos E (ARG)"]
@@ -90,7 +86,6 @@ Kxf6 37.Bxh7 Nc6 38.Kf3 c4 39.bxc4 Ne5+ 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kotov Alexander A (RUS)"]
@@ -112,7 +107,6 @@ Kf8 30.g3 g6 31.Rd4 e5 32.Rd6 Qa5 33.Rd2 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kottnauer Cenek (ENG)"]
@@ -132,7 +126,6 @@ dxc5 19.Bf4 Bd6 20.Bxd6 Rb6 21.Qxd7+ 1-0
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "O'kelly De Galway Alberic (BEL)"]
@@ -155,7 +148,6 @@ Bxa2 37.a6 Ra5 38.a7 b3 39.a8Q+ Rxa8 40.Bxa8 b2 41.Be4 1-0
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Steiner Hermann (USA)"]
@@ -177,7 +169,6 @@ a6 19.Bd3 dxe5 20.Nxe5 Rd6 21.Nc4 Rh6 22.Ne3 Qh4 23.Qxc7 Rf6
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "18"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -200,7 +191,6 @@ Rxb6 36.Bc4 Rd6 37.Kf3 Rd2 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1946.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -224,7 +214,6 @@ Ke4 42.g6 c5 43.f5 1-0
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Alatortsev Vladimir A (RUS)"]
@@ -247,7 +236,6 @@ Nd6 37.Rxf7+ 1-0
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -275,7 +263,6 @@ Ra5+ 65.Kxf6 Ra6+ 66.Kg7 Re6 67.Qc5+ Kg4 68.Qc8 1-0
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Baturinsky Victor (RUS)"]
@@ -298,7 +285,6 @@ Rxg7 31.Rxg7 Qxd4 32.h3 Bc6 33.Kh2 Re8 34.h4 Qd2 35.Bf4 Qxc2
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bonch-Osmolovsky Mikhail (RUS)"]
@@ -319,7 +305,6 @@ Nd7 25.Nxd7 Qxd7 26.Rxc8 Qxc8 27.Rc1 Qd7 1/2-1/2
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Chistiakov Alexander N (RUS)"]
@@ -341,7 +326,6 @@ gxh2+ 25.Kh1 Bxd4 26.Qxd4 Qd8 27.Qxa7 b5 28.Qd4 Bd7 29.a4 Qh4
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kamyshov M (RUS)"]
@@ -365,7 +349,6 @@ g4 36.Qe7+ Rf7 37.Qe5+ Kg8 38.Qe8+ Kg7 39.Kd2 Nf5 40.Qe5+ Kg8
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kotov Alexander A (RUS)"]
@@ -388,7 +371,6 @@ Qf5 37.Rd8 Qc2 38.Nd3 Qd1+ 39.Bf1 Nh2 40.Kxh2 Qxf1 41.Qd6 1-0
 
 [Event "Ch Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Panov Vasily N (RUS)"]
@@ -415,7 +397,6 @@ Rc2+ 54.Kb1 Nxf5 55.Rf7+ Ke8 56.Nxf6+ Kd8 57.Nd5 Nd6 58.Ra7 Kc8
 
 [Event "Match \"Moscow-Prague\""]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kottnauer Cenek (ENG)"]
@@ -438,7 +419,6 @@ Ba4 36.Rd8 Rxd8 37.Bxd8 1-0
 
 [Event "Match \"Moscow-Prague\""]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Opocensky Karel (CZE)"]
@@ -461,7 +441,6 @@ exf5 37.Bb7+ Kd7 38.Qd5+ Qd6 1-0
 
 [Event "Match \"URS-USA\""]
 [Site "Moscow (Russia)"]
-[Date "1946.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Denker Arnold S (USA)"]
@@ -487,7 +466,6 @@ Qc7 1-0
 
 [Event "Match \"Moscow-Prague\""]
 [Site "Prague (Czech Republic)"]
-[Date "1946.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Zita Frantisek (CZE)"]
@@ -509,7 +487,6 @@ Rd8 25.d5 Rd6 26.Bd4 Bxd4 27.Rxd4 Rf6 28.Qe3 Re7 29.Qxe7 Qxd4
 
 [Event "Match \"England-URS\""]
 [Site "Radio"]
-[Date "1946.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Koenig Imre (ENG)"]
@@ -532,7 +509,6 @@ Rfd8 26.N1g3 Nf8 27.g6 Bxg6 28.Bc4 Nc2 29.Rf1 Ra7 30.Bg5 Rd7
 
 [Event "It"]
 [Site "Warsaw (Poland)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pytlakowski Andrzej (POL)"]
@@ -556,7 +532,6 @@ Ke6 41.Kxh5 Nd6 42.Kg4 Ke5 43.Kf3 1/2-1/2
 
 [Event "It"]
 [Site "Warsaw (Poland)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sajtar Jaroslav (CZE)"]

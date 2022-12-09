@@ -1,13 +1,11 @@
 [Event "Simul, 20b"]
 [Site "New York, NY USA"]
-[Date "1910.04.26"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Charles S Anderson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Simul, 30b"]
 [Site "Budapest AUH"]
-[Date "1911.01.26"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Gyula Breyer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -40,14 +36,12 @@
 
 [Event "Simul, 30b"]
 [Site "Budapest AUH"]
-[Date "1911.01.26"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Gyorgy Fluss"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -62,14 +56,12 @@
 
 [Event "Simul, 21b"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1911.11.11"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Rudolph L Sze"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A02"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -83,14 +75,12 @@
 
 [Event "Simul, 30b"]
 [Site "Berlin GER"]
-[Date "1912.11.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Max Victor Behnisch"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -104,14 +94,12 @@
 
 [Event "Simul, 25b"]
 [Site "Brooklyn CC, New York, NY USA"]
-[Date "1911.11.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Benjamin C Selover"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -126,14 +114,12 @@
 
 [Event "Simul, 41b"]
 [Site "Moscow RUE"]
-[Date "1914.03.30"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J Zabludowski"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -146,14 +132,12 @@
 
 [Event "Simul, 25b"]
 [Site "Zuerich SUI"]
-[Date "1916.04.07"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Walter Henneberger"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -166,14 +150,12 @@
 
 [Event "Simul, 25b"]
 [Site "Zuerich SUI"]
-[Date "1916.04.07"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Walter Preiswerk"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D33"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -189,14 +171,12 @@
 
 [Event "Simul, 30b"]
 [Site "Berlin GER"]
-[Date "1916.12.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "H Erdmannsdorffer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -211,14 +191,12 @@
 
 [Event "Simul, 32b"]
 [Site "Temesvar AUH"]
-[Date "1917.11.04"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "George Mayer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C43"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -233,14 +211,12 @@
 
 [Event "Simul, 23b"]
 [Site "Chicago, IL USA"]
-[Date "1902.12.12"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Anna Belle Lynn"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -253,14 +229,12 @@
 
 [Event "Simul, 30b"]
 [Site "Gyor HUN"]
-[Date "1917.11.09"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Ferenc Chalupetzky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -276,14 +250,12 @@
 
 [Event "Blindfold simul, 5b"]
 [Site "San Francisco, CA USA"]
-[Date "1902.12.27"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Benjamin Marshall"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -298,14 +270,12 @@
 
 [Event "Simul, 11b"]
 [Site "Mechanics' CC, San Francisco, CA USA"]
-[Date "1902.12.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Nathaniel J Manson"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C45"]
-[EventDate "????.??.??"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -320,14 +290,12 @@
 
 [Event "corr"]
 [Site "corr"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Ferenc Chalupetzky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -340,14 +308,12 @@
 
 [Event "Simul, 15b"]
 [Site "Germania Maennerchor CC, Chicago, IL USA"]
-[Date "1903.01.19"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Otto Schneider"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -364,14 +330,12 @@
 
 [Event "Simul, 20b"]
 [Site "City of London CC, London ENG"]
-[Date "1903.12.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Rudolf Johannes Loman"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -387,14 +351,12 @@
 
 [Event "Simul, 31b"]
 [Site "Hamburg GER"]
-[Date "1904.01.30"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Julius Dimer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "34"]
 [WhiteElo "?"]
 
@@ -406,14 +368,12 @@
 
 [Event "Simul, 30b"]
 [Site "Brighton ENG"]
-[Date "1904.02.13"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "A Trower"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "106"]
 [WhiteElo "?"]
 
@@ -431,14 +391,12 @@
 
 [Event "Simul, 19b"]
 [Site "Mercantile Library, Philadelphia, PA USA"]
-[Date "1905.04.29"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Sydney Thomas Sharp"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -454,14 +412,12 @@
 
 [Event "Simul, 37b"]
 [Site "Chicago, IL USA"]
-[Date "1905.05.06"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "C B Carr"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C20"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -475,14 +431,12 @@
 
 [Event "Simul"]
 [Site "Havana CUB"]
-[Date "1906.03.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Paredes"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -497,14 +451,12 @@
 
 [Event "Simul, 15b"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1905.12.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Walter Penn Shipley"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -517,14 +469,12 @@
 
 [Event "Simul, 30b"]
 [Site "Boston, MA USA"]
-[Date "1906.04.19"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "C C Lee"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A83"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 

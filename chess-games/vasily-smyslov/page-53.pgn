@@ -1,6 +1,5 @@
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1947.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bronstein David I (RUS)"]
@@ -21,7 +20,6 @@ d5 20.exd5 Qxe2 21.Nxe2 Nxd5 22.Bg3 Be6 23.Bc2 Nb6 24.Nf4 Bc4
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1947.??.??"]
 [Round "19"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -40,7 +38,6 @@ Rb8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1947.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Goldenov Boris"]
@@ -62,7 +59,6 @@ Bc6 26.Ng4 Qd4+ 27.Kh1 Nd7 28.Red1 Qg7 29.Qf2 Nf6 30.Nxf6+ Qxf6
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1947.??.??"]
 [Round "17"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Makogonov Vladimir (AZE)"]
@@ -95,7 +91,6 @@ f3 93.Kh2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Yudovich Mikhail M Sr (RUS)"]
@@ -118,7 +113,6 @@ Rd8 37.Qe4 Qc5+ 38.Kg2 Rd2+ 39.Re2 Rxe2+ 40.Qxe2 Qd4 41.Qc2 1/2-1/2
 
 [Event ""]
 [Site "London (England)"]
-[Date "1947.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Golombek Harry (ENG)"]
@@ -144,7 +138,6 @@ hxg4 48.hxg4 Nh6 49.Kg3 Nf7 50.g5 Bd8 51.Kg4 Bxf6 52.gxf6 Kd6
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -168,7 +161,6 @@ a4 36.Bf4 Qc5 37.bxa4 bxa4 38.Qe2 Qc6 39.Be5 Qd5 40.Bxd6 cxd6
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kotov Alexander A (RUS)"]
@@ -193,7 +185,6 @@ Kxg5 44.Rxf7 Bh6 45.Rc7 Re4 46.Rxc6 Re1+ 47.Kf2 Kxh5 48.Nb2 e4
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kottnauer Cenek (ENG)"]
@@ -220,7 +211,6 @@ Kd8 48.Bf3 Bc4 49.Ke3 Be6 50.Bc6 Bb3 51.Ke4 Be6 52.Bd5 Bxd5+
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pachman Ludek (GER)"]
@@ -242,7 +232,6 @@ Bb7 31.Rd3 Rxd3 32.Qxd3 Qc7 33.Qd4 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Plater Kazimierz (POL)"]
@@ -262,7 +251,6 @@ a5 14.Qd2 a4 15.Rad1 axb3 16.axb3 Nbd7 17.Bh6 Bh8 18.Nf5 Nc5
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -286,7 +274,6 @@ Rxe6 37.Rd8+ Bg8 38.Nb5 Re7 39.Ra8 Re5 40.Nxa7 Ra5 41.Bxb6 Rxa2
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sokolsky Alexey (BLR)"]
@@ -307,7 +294,6 @@ Rec8 26.h4 Qd8 27.Qg3 Kh7 28.Nd6 Rc7 29.Nxf7 Qe7 30.Nd6 Rg8 31.Qd3+ 1-0
 
 [Event "Memorial M.Chigorin"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Trifunovic Petar (YUG)"]
@@ -331,7 +317,6 @@ Rxg7 37.Rxf3 Rd4 38.Rf4 Rxd3+ 39.f3 Ke7 40.Rb3 Rxb3 41.axb3 Rg8
 
 [Event "Tournament"]
 [Site "Parnu (Estonia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -355,7 +340,6 @@ Rh3+ 42.Kf2 Kh7 1/2-1/2
 
 [Event "Tournament"]
 [Site "Parnu (Estonia)"]
-[Date "1947.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -380,7 +364,6 @@ Rd8 43.g4 fxg4 44.Bxg4 Rxd6 45.Re1 Bf7 46.Re7 Bg6 47.Rxh7 Bxh7
 
 [Event "Tournament"]
 [Site "Parnu (Estonia)"]
-[Date "1947.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -402,7 +385,6 @@ b6 25.Rxd8+ Rxd8 26.Rd1 Ne7 27.Rxd8+ Bxd8 28.Bc2 Nf5 29.Bf2 g6
 
 [Event "Tournament"]
 [Site "Parnu (Estonia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -425,7 +407,6 @@ Ke7 37.g4 Kd6 38.g5 Kc6 39.b7 Be6 40.Bxa6 Kc7 41.Rc3+ 1-0
 
 [Event "Tournament"]
 [Site "Parnu (Estonia)"]
-[Date "1947.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Randviir Yury (EST)"]
@@ -448,7 +429,6 @@ Kh8 36.Rxd7+ Kg8 37.Rg7+ Kh8 38.Rc7+ Kg8 39.Rxc4 1-0
 
 [Event "Tournament"]
 [Site "Parnu (Estonia)"]
-[Date "1947.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Renter R (EST)"]
@@ -469,7 +449,6 @@ Kh8 20.Bf4 Bd7 21.Ne6 Bxe6 22.Qxe6 Re8 23.Qf7 Qd7 24.Qxd7 Nxd7
 
 [Event "Tournament"]
 [Site "Parnu (Estonia)"]
-[Date "1947.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tolush Alexander (RUS)"]
@@ -499,7 +478,6 @@ Nc4 70.Bc1 d3 71.Nd6 Nxd6 72.Be3+ Ka5 73.exd6 d2 74.Rh1 Rxd6
 
 [Event "It"]
 [Site "Warsaw (Poland)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -525,7 +503,6 @@ Kf6 53.Re8 Rd2 54.Rf8+ Ke5 55.Re8+ 0-1
 
 [Event "It"]
 [Site "Warsaw (Poland)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Pachman Ludek (GER)"]
@@ -548,14 +525,12 @@ Nd6 36.Ke3 Ne4 37.Nd3 Kd6 38.Nf2 Ng5 39.h4 Nf7 40.Kf4 Ke7 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Leningrad URS"]
-[Date "1947.02.25"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Mikhail M Yudovich Sr."]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C61"]
-[EventDate "1947.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -571,14 +546,12 @@ Nd6 36.Ke3 Ne4 37.Nd3 Kd6 38.Nf2 Ng5 39.h4 Nf7 40.Kf4 Ke7 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Leningrad URS"]
-[Date "1947.02.07"]
 [Round "4"]
 [White "Vasily Smyslov"]
 [Black "Ilia Abramovich Kan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E03"]
-[EventDate "1947.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 

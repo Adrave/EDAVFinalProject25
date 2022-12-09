@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2006.04.26"]
 [Round "4"]
 [White "So Wesley (PHI)"]
 [Black "El Taher Fouad (EGY)"]
@@ -20,7 +19,6 @@ Kd8 19.Na4 Bf2+ 20.Kd2 Ke7 21.Qg7+ Ke8 22.Nh7 1-0
 
 [Event "It (open)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2006.04.28"]
 [Round "6"]
 [White "So Wesley (PHI)"]
 [Black "Sareen Vishal (IND)"]
@@ -46,7 +44,6 @@ Bc3 53.Qe7 Be5 54.c5 Qb2 55.c6 Qxh2 0-1
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.27"]
 [Round "6"]
 [White "So Wesley (PHI)"]
 [Black "Pazos Gambarrotti Plinio (ECU)"]
@@ -73,7 +70,6 @@ Kxg5 58.a6 Kf6 59.a7 Kg7 60.e5 1-0
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.30"]
 [Round "9"]
 [White "So Wesley (PHI)"]
 [Black "Vajda Levente (ROM)"]
@@ -100,7 +96,6 @@ Ng4 59.Ng2 Nh6 0-1
 
 [Event "2nd MAIG Team Standard"]
 [Site "Macau CHN"]
-[Date "2007.10.29"]
 [Round "3"]
 [White "So, W."]
 [Black "Al Modiahki, M."]
@@ -109,7 +104,6 @@ Ng4 59.Ng2 Nh6 0-1
 [WhiteElo "2531"]
 [BlackElo "2572"]
 [PlyCount "58"]
-[EventDate "2007.10.28"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
 Bg5 Bg7 9. Qd2 O-O 10. Bd3 a5 11. b3 a4 12. b4 Be6 13. Rc1 Rc8 14. Nd5 Bxd5 15.
@@ -120,7 +114,6 @@ exd5 b5 16. Bxf6 exf6 17. O-O bxc4 18. Bxc4 Qb6 19. a3 f5 20. g3 Rc7 21. Rc2 h5
 
 [Event "2nd MAIG Team Standard"]
 [Site "Macau CHN"]
-[Date "2007.10.30"]
 [Round "5"]
 [White "So, W."]
 [Black "Kazhgaleyev, M."]
@@ -129,7 +122,6 @@ exd5 b5 16. Bxf6 exf6 17. O-O bxc4 18. Bxc4 Qb6 19. a3 f5 20. g3 Rc7 21. Rc2 h5
 [WhiteElo "2531"]
 [BlackElo "2599"]
 [PlyCount "103"]
-[EventDate "2007.10.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
 8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Re8 12. h3 Rb8 13. Ne2 Be7 14. Nd4
@@ -144,7 +136,6 @@ c2 47. Rd7+ Kc3 48. Rc7+ Kd2 49. h7 Rh1 50. Rd7+ Ke2 51. Rc7 Kd2 52. Rd7+
 
 [Event "It Open"]
 [Site "San Marino"]
-[Date "2006.06.07"]
 [Round "4"]
 [White "So, Wesley"]
 [Black "Omeri, Silvan"]
@@ -164,7 +155,6 @@ Rf3 Bf4 33. Rb3 Qc7 34. Qxh5 Ba6 35. Rxf4 exf4 36. Ng4 Rxe4 37. Nxf6+ Kg7
 
 [Event "3. Dato Arthur Tan"]
 [Site "Kuala Lumpur MAS"]
-[Date "2006.08.22"]
 [Round "3"]
 [White "So, Wesley"]
 [Black "Mokal, Amruta Sunil"]
@@ -172,7 +162,6 @@ Rf3 Bf4 33. Rb3 Qc7 34. Qxh5 Ba6 35. Rxf4 exf4 36. Ng4 Rxe4 37. Nxf6+ Kg7
 [WhiteElo "2330"]
 [BlackElo "2146"]
 [ECO "B42"]
-[EventDate "2006.08.21"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 Nc6 
 8. Be3 d6 9. Nc3 Nf6 10. f4 Bxe3 11. Qxe3 e5 12. h3 exf4 13. Qxf4 Be6 14. 
@@ -183,7 +172,6 @@ Qxf6 Rb4 27. Nd5 Re4 28. Qf2 Re8 29. Bf3 1-0
 
 [Event "3. Dato Arthur Tan"]
 [Site "Kuala Lumpur MAS"]
-[Date "2006.08.23"]
 [Round "5"]
 [White "So, Wesley"]
 [Black "Bao, Khoa"]
@@ -191,7 +179,6 @@ Qxf6 Rb4 27. Nd5 Re4 28. Qf2 Re8 29. Bf3 1-0
 [WhiteElo "2330"]
 [BlackElo "2093"]
 [ECO "B33"]
-[EventDate "2006.08.21"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 Bb4 7. a3 
 Bxc3+ 8. Nxc3 O-O 9. Qd6 Nd4 10. Bd3 Re8 11. a4 Re6 12. Qa3 d5 13. Bg5 
@@ -203,7 +190,6 @@ Ng3 Ne7 20. Qb4 Rc4 21. Qd6 Qxd6 22. Rxd6 Be6 23. Nh5+ Kh8 24. Nxf6 Rf4
 
 [Event "2. Open"]
 [Site "San Marino SMR"]
-[Date "2006.06.07"]
 [Round "4"]
 [White "So, Wesley"]
 [Black "Omeri, Silvan"]
@@ -211,7 +197,6 @@ Ng3 Ne7 20. Qb4 Rc4 21. Qd6 Qxd6 22. Rxd6 Be6 23. Nh5+ Kh8 24. Nxf6 Rf4
 [WhiteElo "2254"]
 [BlackElo "2105"]
 [ECO "B42"]
-[EventDate "2006.06.03"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 d6 
 8. c4 Be7 9. Nc3 O-O 10. Kh1 Nc6 11. Nxc6 bxc6 12. f4 e5 13. f5 Bb7 14. 
@@ -224,7 +209,6 @@ Rf3 Bf4 33. Rb3 Qc7 34. Qxh5 Ba6 35. Rxf4 exf4 36. Ng4 Rxe4 37. Nxf6+ Kg7
 
 [Event "3. Dato Arthur Tan"]
 [Site "Kuala Lumpur MAS"]
-[Date "2006.08.25"]
 [Round "7"]
 [White "So, Wesley"]
 [Black "Rogers, Ian"]
@@ -232,7 +216,6 @@ Rf3 Bf4 33. Rb3 Qc7 34. Qxh5 Ba6 35. Rxf4 exf4 36. Ng4 Rxe4 37. Nxf6+ Kg7
 [WhiteElo "2330"]
 [BlackElo "2548"]
 [ECO "C10"]
-[EventDate "2006.08.21"]
 
 1. e4 Nc6 2. Nc3 e6 3. d4 d5 4. Nf3 Nf6 5. e5 Ne4 6. Ne2 f6 7. Ng3 f5 8. 
 c3 Be7 9. h4 O-O 10. Bd3 Nb8 11. Ne2 c5 12. g3 Nc6 13. O-O cxd4 14. cxd4 
@@ -247,7 +230,6 @@ Qxa2+ 50. Nc2 1-0
 
 [Event "3. Open"]
 [Site "Calvia ESP"]
-[Date "2006.10.25"]
 [Round "6"]
 [White "So, Wesley"]
 [Black "Guennoun, Anthony"]
@@ -255,7 +237,6 @@ Qxa2+ 50. Nc2 1-0
 [WhiteElo "2411"]
 [BlackElo "2122"]
 [ECO "B33"]
-[EventDate "2006.10.20"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 
 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. O-O Bg7 13. Qh5 f4 14. 
@@ -269,7 +250,6 @@ Ne3 Bb6 44. Nf5 Bc5 45. Ng3 1-0
 
 [Event "10. OIBM"]
 [Site "Bad Wiessee GER"]
-[Date "2006.11.08"]
 [Round "5"]
 [White "So, Wesley"]
 [Black "Prusikin, Michael"]
@@ -277,7 +257,6 @@ Ne3 Bb6 44. Nf5 Bc5 45. Ng3 1-0
 [WhiteElo "2411"]
 [BlackElo "2560"]
 [ECO "C14"]
-[EventDate "2006.11.04"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 
 8. Nf3 b6 9. Qd2 c5 10. Nd1 O-O 11. c3 f6 12. Bd3 a5 13. O-O Ba6 14. exf6 
@@ -288,7 +267,6 @@ Nxd5 Qf7 21. Re7 Qf5 22. Qxd4 Nf6 23. Re5 Qd7 24. Qd3 Nxd5 25. Qxg6+ Qg7
 
 [Event "10. OIBM"]
 [Site "Bad Wiessee GER"]
-[Date "2006.11.04"]
 [Round "1"]
 [White "So, Wesley"]
 [Black "Strasser, J GER."]
@@ -296,7 +274,6 @@ Nxd5 Qf7 21. Re7 Qf5 22. Qxd4 Nf6 23. Re5 Qd7 24. Qd3 Nxd5 25. Qxg6+ Qg7
 [WhiteElo "2411"]
 [BlackElo "2015"]
 [ECO "B01"]
-[EventDate "2006.11.04"]
 
 1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 Bg4 5. h3 Bxf3 6. Qxf3 c6 7. c3 e6 
 8. Bc4 Bd6 9. O-O O-O 10. Nd2 Nd7 11. Ne4 Be7 12. Bb3 N7f6 13. Ng3 Re8 14.
@@ -308,7 +285,6 @@ dxc5 Rxc5 27. Be3 Rf5 28. Qg4 Bc5 29. Rd1 Qc6 30. Rxe6 Nxe6 31. Qxf5 Bxe3
 
 [Event "Masters"]
 [Site "Singapore SIN"]
-[Date "2006.12.28"]
 [Round "6"]
 [White "So, Wesley"]
 [Black "Megaranto, Susanto"]
@@ -316,7 +292,6 @@ dxc5 Rxc5 27. Be3 Rf5 28. Qg4 Bc5 29. Rd1 Qc6 30. Rxe6 Nxe6 31. Qxf5 Bxe3
 [WhiteElo "2411"]
 [BlackElo "2492"]
 [ECO "B19"]
-[EventDate "2006.12.26"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 
 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Ne4 Nxe4 
@@ -330,7 +305,6 @@ Kf8 45. d6 Rxc6 46. d7 1-0
 
 [Event "Masters"]
 [Site "Singapore SIN"]
-[Date "2006.12.29"]
 [Round "7"]
 [White "So, Wesley"]
 [Black "Li Chao"]
@@ -338,7 +312,6 @@ Kf8 45. d6 Rxc6 46. d7 1-0
 [WhiteElo "2411"]
 [BlackElo "2320"]
 [ECO "C47"]
-[EventDate "2006.12.26"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 
 O-O 8. O-O Re8 9. Bg5 h6 10. Bh4 Rb8 11. f4 Be7 12. b3 Bc5+ 13. Kh1 Bd4 
@@ -348,7 +321,6 @@ O-O 8. O-O Re8 9. Bg5 h6 10. Bh4 Rb8 11. f4 Be7 12. b3 Bc5+ 13. Kh1 Bd4
 
 [Event "Zonal 3.3"]
 [Site "Phu Quoc VIE"]
-[Date "2007.01.17"]
 [Round "8"]
 [White "So, Wesley"]
 [Black "Dao, Thien Hai"]
@@ -356,7 +328,6 @@ O-O 8. O-O Re8 9. Bg5 h6 10. Bh4 Rb8 11. f4 Be7 12. b3 Bc5+ 13. Kh1 Bd4
 [WhiteElo "2451"]
 [BlackElo "2559"]
 [ECO "B09"]
-[EventDate "2007.01.11"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
  e5 dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bxf3 12. Qxf3 f6 13. exf6 
@@ -365,7 +336,6 @@ O-O 8. O-O Re8 9. Bg5 h6 10. Bh4 Rb8 11. f4 Be7 12. b3 Bc5+ 13. Kh1 Bd4
 
 [Event "Zonal 3.3"]
 [Site "Phu Quoc VIE"]
-[Date "2007.01.13"]
 [Round "3"]
 [White "So, Wesley"]
 [Black "Le, Quang Liem"]
@@ -373,7 +343,6 @@ O-O 8. O-O Re8 9. Bg5 h6 10. Bh4 Rb8 11. f4 Be7 12. b3 Bc5+ 13. Kh1 Bd4
 [WhiteElo "2451"]
 [BlackElo "2500"]
 [ECO "B82"]
-[EventDate "2007.01.11"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qb6 8.
  Nb3 Qc7 9. Bd3 b5 10. g4 Bb7 11. g5 Nfd7 12. Qh3 g6 13. Rf1 Bg7 14. f5 
@@ -385,7 +354,6 @@ exf5 15. exf5 O-O 16. Be3 Re8 17. O-O-O b4 18. fxg6 hxg6 19. Rxf7 Kxf7 20.
 
 [Event "Zonal 3.3"]
 [Site "Phu Quoc VIE"]
-[Date "2007.01.15"]
 [Round "6"]
 [White "So, Wesley"]
 [Black "Bui, Vinh"]
@@ -393,7 +361,6 @@ exf5 15. exf5 O-O 16. Be3 Re8 17. O-O-O b4 18. fxg6 hxg6 19. Rxf7 Kxf7 20.
 [WhiteElo "2451"]
 [BlackElo "2485"]
 [ECO "B60"]
-[EventDate "2007.01.11"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Be2 h6 
 8. Bxf6 gxf6 9. O-O e6 10. Ndb5 Qb8 11. a4 a6 12. Na3 Qc7 13. Nc4 Ne5 14. 
@@ -411,7 +378,6 @@ Be6 Rxe6 51. fxe6 Qxe6 52. Qxh4 Qc6 53. Qh8+ Kf7 54. Qh7+ Ke6 55. h4 Qc1
 
 [Event "Masters"]
 [Site "Singapore SIN"]
-[Date "2006.12.26"]
 [Round "2"]
 [White "So, Wesley"]
 [Black "Zinmar Min Than"]
@@ -419,7 +385,6 @@ Be6 Rxe6 51. fxe6 Qxe6 52. Qxh4 Qc6 53. Qh8+ Kf7 54. Qh7+ Ke6 55. h4 Qc1
 [WhiteElo "2411"]
 [BlackElo "2231"]
 [ECO "B33"]
-[EventDate "2006.12.26"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 
 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. O-O Bxd5 13. exd5 Ne7 
@@ -433,7 +398,6 @@ Kh2 h5 39. h4 Rg6 40. Bf5 Rh6 41. Qxa6 Qc3 42. Qc8+ Kg7 43. Qxc3+ Bxc3 44.
 
 [Event "Zonal 3.3"]
 [Site "Phu Quoc VIE"]
-[Date "2007.01.18"]
 [Round "9"]
 [White "So, Wesley"]
 [Black "Tu, Hoang Thong"]
@@ -441,7 +405,6 @@ Kh2 h5 39. h4 Rg6 40. Bf5 Rh6 41. Qxa6 Qc3 42. Qc8+ Kg7 43. Qxc3+ Bxc3 44.
 [WhiteElo "2451"]
 [BlackElo "2469"]
 [ECO "C47"]
-[EventDate "2007.01.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 
 d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Bd6 12. Na4 h6 13. Bxf6 Qxf6
@@ -452,13 +415,11 @@ Kf1 Bc5 26. Ke2 Ke7 27. f3 Kd6 28. Bg6 Ke7 29. Bd3 Kd6 30. Bg6 Ke7 1/2-1/2
 
 [Event "1st GMA Cup"]
 [Site "Manila PHI"]
-[Date "2006.11.17"]
 [Round "1"]
 [White "So,W"]
 [Black "Fernandez,Dandel"]
 [Result "1-0"]
 [WhiteElo "2411"]
-[EventDate "2006.11.17"]
 [ECO "C28"]
 
 1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Na5 5. Nge2 Nxc4 6. dxc4 d6 7. O-O Be7
@@ -473,14 +434,12 @@ Qg6 52. Qxg6+ fxg6 53. Rd1 Kf7 54. Rd6 g5 55. Kg1 1-0
 
 
 [Event "2nd PGMA CUP INTERNATIONAL OPE"]
-[Date "2007.11.28"]
 [Round "9.5"]
 [White "SO, Wesley"]
 [Black "SENADOR, Emmanuel"]
 [Result "1/2-1/2"]
 [BlackElo "2356"]
 [ECO "B38"]
-[EventDate "2007.11.22"]
 [PlyCount "63"]
 [WhiteElo "2531"]
 
@@ -495,14 +454,12 @@ Qg6 52. Qxg6+ fxg6 53. Rd1 Kf7 54. Rd6 g5 55. Kg1 1-0
 
 
 [Event "3rd Pichay Cup Intl Open"]
-[Date "2007.12.04"]
 [Round "5.1"]
 [White "So, Wesley"]
 [Black "Ni, Hua"]
 [Result "1/2-1/2"]
 [BlackElo "2641"]
 [ECO "C11"]
-[EventDate "2007.12.01"]
 [PlyCount "22"]
 [WhiteElo "2531"]
 
@@ -513,14 +470,12 @@ Qg6 52. Qxg6+ fxg6 53. Rd1 Kf7 54. Rd6 g5 55. Kg1 1-0
 
 
 [Event "3rd Pichay Cup Intl Open"]
-[Date "2007.12.05"]
 [Round "7.4"]
 [White "So, Wesley"]
 [Black "Dao, Thien Hai"]
 [Result "1/2-1/2"]
 [BlackElo "2530"]
 [ECO "C28"]
-[EventDate "2007.12.01"]
 [PlyCount "18"]
 [WhiteElo "2531"]
 

@@ -1,6 +1,5 @@
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2008.02.15"]
 [Round "2"]
 [White "Vachier Lagrave, M."]
 [Black "Zhigalko, A."]
@@ -9,7 +8,6 @@
 [WhiteElo "2637"]
 [BlackElo "2556"]
 [PlyCount "108"]
-[EventDate "2008.02.14"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
 O-O-O Bd7 9. f4 h6 10. Bxf6 Qxf6 11. Nf3 Qd8 12. g4 b5 13. Kb1 Qb6 14. Bg2
@@ -24,7 +22,6 @@ Kd2 b4 54. a4 Bh3 0-1
 
 [Event "IX EICC"]
 [Site "Plovdiv BUL"]
-[Date "2008.04.27"]
 [Round "7"]
 [White "Vachier Lagrave, M."]
 [Black "Kurnosov, I."]
@@ -33,7 +30,6 @@ Kd2 b4 54. a4 Bh3 0-1
 [WhiteElo "2632"]
 [BlackElo "2593"]
 [PlyCount "91"]
-[EventDate "2008.04.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
@@ -46,7 +42,6 @@ Nd4+ Kf6 42. d7 Ra1+ 43. Ke2 Ra2+ 44. Kd3 Ra3+ 45. Kc4 Ke7 46. Ne6 1-0
 
 [Event "IX EICC"]
 [Site "Plovdiv BUL"]
-[Date "2008.05.02"]
 [Round "11"]
 [White "Vachier Lagrave, M."]
 [Black "Vitiugov, N."]
@@ -55,7 +50,6 @@ Nd4+ Kf6 42. d7 Ra1+ 43. Ke2 Ra2+ 44. Kd3 Ra3+ 45. Kc4 Ke7 46. Ne6 1-0
 [WhiteElo "2632"]
 [BlackElo "2617"]
 [PlyCount "75"]
-[EventDate "2008.04.21"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
 O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Qe1 Be7 12. f4 Ng6 13. e5 Ng4 14. Ne4 O-O
@@ -67,7 +61,6 @@ Nd5 Qb7 34. Qc4 Kh8 35. b3 Rc8 36. Rde1 Rf8 37. Rxg6 hxg6 38. Qh4+ 1-0
 
 [Event "IX EICC T/B Medals"]
 [Site "Plovdiv BUL"]
-[Date "2008.05.03"]
 [Round "2.1"]
 [White "Vachier Lagrave, M."]
 [Black "L'Ami, E."]
@@ -76,7 +69,6 @@ Nd5 Qb7 34. Qc4 Kh8 35. b3 Rc8 36. Rde1 Rf8 37. Rxg6 hxg6 38. Qh4+ 1-0
 [WhiteElo "2632"]
 [BlackElo "2600"]
 [PlyCount "41"]
-[EventDate "2008.05.03"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. Nbd2 c5 8. dxc5
 Nc6 9. Nb3 Bg4 10. Nfd4 Bxe2 11. Qxe2 Nxc5 12. Be3 Nxb3 13. Nxc6 bxc6 14. axb3
@@ -86,7 +78,6 @@ Qc7 15. Qg4 g6 16. Ra6 Bg7 17. Qa4 Bxe5 18. Rxc6 Qd7 19. Bc5 Bf6 20. Re1 Be7
 
 [Event "TCh-FRA Top 16 Poule Haute"]
 [Site "Evry FRA"]
-[Date "2008.05.30"]
 [Round "9"]
 [White "Vachier Lagrave, M."]
 [Black "Wirig, A."]
@@ -95,7 +86,6 @@ Qc7 15. Qg4 g6 16. Ra6 Bg7 17. Qa4 Bxe5 18. Rxc6 Qd7 19. Bc5 Bf6 20. Re1 Be7
 [WhiteElo "2632"]
 [BlackElo "2477"]
 [PlyCount "53"]
-[EventDate "2008.05.29"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Ne7 4. Ngf3 Ng6 5. h4 h5 6. g3 c5 7. exd5 exd5 8. Bb5+
 Nc6 9. O-O a6 10. Re1+ Be7 11. Be2 c4 12. Nf1 Nf8 13. Ne5 g6 14. Ne3 f6 15.
@@ -105,7 +95,6 @@ Bxa5 22. Rxa5 Nxd5 23. Rc5 Ne7 24. d5 Qd6 25. Qc2 Rxb3 26. Bf3 Rb5 27. Rxc6 1-0
 
 [Event "ChInt Open"]
 [Site "Paris FRA"]
-[Date "2008.06.30"]
 [Round "3"]
 [White "Vachier Lagrave, M."]
 [Black "Romanov, E."]
@@ -114,7 +103,6 @@ Bxa5 22. Rxa5 Nxd5 23. Rc5 Ne7 24. d5 Qd6 25. Qc2 Rxb3 26. Bf3 Rb5 27. Rxc6 1-0
 [WhiteElo "2632"]
 [BlackElo "2547"]
 [PlyCount "67"]
-[EventDate "2008.06.28"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 d5 6. Nc3 dxe4 7. Nxe4 Be7 8.
 O-O Nf6 9. Re1 O-O 10. c3 Nbd7 11. Qf3 Re8 12. Ng5 Nf8 13. Bf4 Qb6 14. a4 Bd7
@@ -126,7 +114,6 @@ Rxd8 28. bxc5 Rd1 29. Rf1 g6 30. Qf4 Be7 31. Qc4 Bxc5 32. Bxc5 Qc7 33. Be3 Rd6
 
 [Event "ChInt Open"]
 [Site "Paris FRA"]
-[Date "2008.07.02"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Kosteniuk, A."]
@@ -135,7 +122,6 @@ Rxd8 28. bxc5 Rd1 29. Rf1 g6 30. Qf4 Be7 31. Qc4 Bxc5 32. Bxc5 Qc7 33. Be3 Rd6
 [WhiteElo "2632"]
 [BlackElo "2523"]
 [PlyCount "169"]
-[EventDate "2008.06.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
@@ -155,7 +141,6 @@ Qf5 85. Qg3+ 1-0
 
 [Event "VI Gyorgy Marx Mem"]
 [Site "Paks HUN"]
-[Date "2008.07.29"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Stellwagen, D."]
@@ -164,7 +149,6 @@ Qf5 85. Qg3+ 1-0
 [WhiteElo "2681"]
 [BlackElo "2616"]
 [PlyCount "73"]
-[EventDate "2008.07.25"]
 
 1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 Bxc6 8.
 Bxc6+ bxc6 9. c4 Bc5 10. Qa4 Ne7 11. exd5 exd5 12. Nb3 Bb6 13. c5 Bc7 14. O-O
@@ -176,7 +160,6 @@ Qxa2 34. c7 Nxc7 35. Qc8+ Kf7 36. Qxc7+ Kg6 37. Qc6+ 1-0
 
 [Event "83rd ch-FRA"]
 [Site "Pau FRA"]
-[Date "2008.08.13"]
 [Round "3"]
 [White "Vachier Lagrave, M."]
 [Black "Vaisser, A."]
@@ -185,7 +168,6 @@ Qxa2 34. c7 Nxc7 35. Qc8+ Kf7 36. Qxc7+ Kg6 37. Qc6+ 1-0
 [WhiteElo "2681"]
 [BlackElo "2542"]
 [PlyCount "137"]
-[EventDate "2008.08.11"]
 
 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8.
 Ne5 a6 9. Be3 cxd4 10. Bxd4 Bd6 11. Qa4+ Bd7 12. Nxd7 Qxd7 13. Qxd7+ Kxd7 14.
@@ -202,7 +184,6 @@ Rd5+ 66. Ke6 Rh5 67. g7+ Kg8 68. f7+ Kxg7 69. Rg1+ 1-0
 
 [Event "83rd ch-FRA"]
 [Site "Pau FRA"]
-[Date "2008.08.15"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Apicella, M."]
@@ -211,7 +192,6 @@ Rd5+ 66. Ke6 Rh5 67. g7+ Kg8 68. f7+ Kxg7 69. Rg1+ 1-0
 [WhiteElo "2681"]
 [BlackElo "2521"]
 [PlyCount "115"]
-[EventDate "2008.08.11"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
 f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 O-O 12. Bg5 Bd7 13. Nc3 Qe8 14. Bh4 Qh5 15.
@@ -226,7 +206,6 @@ g4 Rd2 41. a4 bxa4 42. bxa4 a5 43. Re4 Rd3+ 44. Kg2 Ra3 45. f5 Rc3 46. f6 Rc5
 
 [Event "83rd ch-FRA"]
 [Site "Pau FRA"]
-[Date "2008.08.18"]
 [Round "7"]
 [White "Vachier Lagrave, M."]
 [Black "Degraeve, JM."]
@@ -235,7 +214,6 @@ g4 Rd2 41. a4 bxa4 42. bxa4 a5 43. Re4 Rd3+ 44. Kg2 Ra3 45. f5 Rc3 46. f6 Rc5
 [WhiteElo "2681"]
 [BlackElo "2523"]
 [PlyCount "100"]
-[EventDate "2008.08.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6 Qg5
 8. Qe2 Nf6 9. f4 Qxf4 10. Ne5+ c6 11. d4 Qh4+ 12. g3 Qh3 13. Bc4 Be6 14. Bf4
@@ -249,7 +227,6 @@ Kg4 a5 46. Kxh4 Kf5 47. Kg3 Ke4 48. Kf2 a4 49. Nd2+ Kd4 50. Nb1 Kd5 1-0
 
 [Event "2nd Circuit Europe-Echecs"]
 [Site "Chalons FRA"]
-[Date "2008.09.04"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Guilleux, F."]
@@ -258,7 +235,6 @@ Kg4 a5 46. Kxh4 Kf5 47. Kg3 Ke4 48. Kf2 a4 49. Nd2+ Kd4 50. Nb1 Kd5 1-0
 [WhiteElo "2681"]
 [BlackElo "2397"]
 [PlyCount "47"]
-[EventDate "2008.09.04"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. b3 e6 8.
 Bb2 Be7 9. d4 cxd4 10. Nxd4 O-O 11. c4 a6 12. Nc3 b5 13. cxb5 Nxd4 14. Qxd4
@@ -268,7 +244,6 @@ Kf8 21. Nd6 Rc6 22. Bxc5 Rxc5 23. Nc4 f6 24. Nb6 1-0
 
 [Event "2nd Circuit Europe-Echecs"]
 [Site "Chalons FRA"]
-[Date "2008.09.04"]
 [Round "6"]
 [White "Vachier Lagrave, M."]
 [Black "Cossin, S."]
@@ -277,7 +252,6 @@ Kf8 21. Nd6 Rc6 22. Bxc5 Rxc5 23. Nc4 f6 24. Nb6 1-0
 [WhiteElo "2681"]
 [BlackElo "2466"]
 [PlyCount "112"]
-[EventDate "2008.09.04"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
 O-O 9. O-O Be6 10. Bxe6 fxe6 11. Na4 Ng4 12. Qd3 Nd7 13. Qb3 Nxe3 14. Qxe6+ Kh8
@@ -292,7 +266,6 @@ Ke5 54. g5 Kxe4 55. Kg4 Ra8 56. Rf4+ Kd5 1-0
 
 [Event "2nd Circuit Europe-Echecs"]
 [Site "Chalons FRA"]
-[Date "2008.09.04"]
 [Round "12"]
 [White "Vachier Lagrave, M."]
 [Black "Cossin, S."]
@@ -301,7 +274,6 @@ Ke5 54. g5 Kxe4 55. Kg4 Ra8 56. Rf4+ Kd5 1-0
 [WhiteElo "2681"]
 [BlackElo "2466"]
 [PlyCount "61"]
-[EventDate "2008.09.04"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
 O-O 9. O-O Be6 10. Qe2 Nc6 11. Rad1 b5 12. Bb3 Rc8 13. Bg5 Bg4 14. Qd3 b4 15.
@@ -312,7 +284,6 @@ bxc3 28. bxc3 Bxc3 29. Rc2 Nd4 30. Ndxe5+ Kf6 31. Ng4+ 1-0
 
 [Event "4th ch-EU"]
 [Site "Liverpool ENG"]
-[Date "2008.09.09"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Paulet, I."]
@@ -321,7 +292,6 @@ bxc3 28. bxc3 Bxc3 29. Rc2 Nd4 30. Ndxe5+ Kf6 31. Ng4+ 1-0
 [WhiteElo "2681"]
 [BlackElo "2275"]
 [PlyCount "109"]
-[EventDate "2008.09.09"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
 O-O 9. O-O Nc6 10. Bg5 b5 11. Bb3 Be6 12. Bxf6 Bxf6 13. Nd5 Bg5 14. Nxg5 Qxg5
@@ -336,7 +306,6 @@ Kg8 53. f5 Rb6 54. Kh5 Rf6 55. Re7 1-0
 
 [Event "4th ch-EU"]
 [Site "Liverpool ENG"]
-[Date "2008.09.11"]
 [Round "3"]
 [White "Vachier Lagrave, M."]
 [Black "Arkell, K."]
@@ -345,7 +314,6 @@ Kg8 53. f5 Rb6 54. Kh5 Rf6 55. Re7 1-0
 [WhiteElo "2681"]
 [BlackElo "2506"]
 [PlyCount "135"]
-[EventDate "2008.09.09"]
 
 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 Bxc5 6. Bd3 Nc6 7. O-O Nge7 8. Bf4
 Ng6 9. Bg3 O-O 10. Nbd2 f5 11. exf6 Qxf6 12. c4 Nb4 13. Bxg6 Qxg6 14. Ne5 Qc2
@@ -362,7 +330,6 @@ Qc3+ Bb3 67. Ne5 b1=Q 68. Nc4+ 1-0
 
 [Event "4th ch-EU"]
 [Site "Liverpool ENG"]
-[Date "2008.09.17"]
 [Round "9"]
 [White "Vachier Lagrave, M."]
 [Black "Wells, P."]
@@ -371,7 +338,6 @@ Qc3+ Bb3 67. Ne5 b1=Q 68. Nc4+ 1-0
 [WhiteElo "2681"]
 [BlackElo "2526"]
 [PlyCount "67"]
-[EventDate "2008.09.09"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6 8.
 Be2 d6 9. Na3 Nf6 10. Nc4 Nxe4 11. Bd3 Nf6 12. Nxd6+ Qxd6 13. dxe5 Qe6 14. exf6
@@ -383,7 +349,6 @@ Qc6+ 34. Kh2 1-0
 
 [Event "Bundesliga 2008-9"]
 [Site "Solingen GER"]
-[Date "2008.10.05"]
 [Round "2"]
 [White "Vachier Lagrave, M."]
 [Black "Macieja, B."]
@@ -392,7 +357,6 @@ Qc6+ 34. Kh2 1-0
 [WhiteElo "2716"]
 [BlackElo "2600"]
 [PlyCount "63"]
-[EventDate "2008.10.03"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
 O-O-O Be7 9. f3 h5 10. Qf2 d6 11. h3 b5 12. Nxc6 Qxc6 13. Bd3 b4 14. Ne2 e5 15.
@@ -403,7 +367,6 @@ Qxa8 28. Qd2 Ke6 29. f4 exf4 30. Qxf4 Be5 31. Bf5+ Kf6 32. g5+ 1-0
 
 [Event "24th ECC"]
 [Site "Kallithea GRE"]
-[Date "2008.10.20"]
 [Round "4"]
 [White "Vachier Lagrave, M."]
 [Black "Lagerman, R."]
@@ -412,7 +375,6 @@ Qxa8 28. Qd2 Ke6 29. f4 exf4 30. Qxf4 Be5 31. Bf5+ Kf6 32. g5+ 1-0
 [WhiteElo "2716"]
 [BlackElo "2363"]
 [PlyCount "101"]
-[EventDate "2008.10.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
 Be6 9. Be3 Bc5 10. Qe2 O-O 11. Rd1 Bxe3 12. Qxe3 Ne7 13. c3 Nf5 14. Qe2 c5 15.
@@ -426,7 +388,6 @@ hxg5 47. hxg5 Ra1 48. Kg6 Rb1 49. Rfe7 Rb2 50. Re3 Rb6+ 51. Kf7 1-0
 
 [Event "Trophee CCAS GpA"]
 [Site "Cap d'Agde FRA"]
-[Date "2008.10.27"]
 [Round "4"]
 [White "Vachier Lagrave, M."]
 [Black "Bu Xiangzhi"]
@@ -435,7 +396,6 @@ hxg5 47. hxg5 Ra1 48. Kg6 Rb1 49. Rfe7 Rb2 50. Re3 Rb6+ 51. Kf7 1-0
 [WhiteElo "2716"]
 [BlackElo "2714"]
 [PlyCount "147"]
-[EventDate "2008.10.26"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
 O-O 9. O-O Nc6 10. Bg5 Be6 11. Bb3 Nd7 12. Bxe7 Qxe7 13. Nd5 Qd8 14. Qe2 Nc5
@@ -453,7 +413,6 @@ Ne6+ Ke8 73. b7 Rd5+ 74. Kg6 1-0
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.16"]
 [Round "4"]
 [White "Vachier Lagrave, M."]
 [Black "Dominguez, JM."]
@@ -462,7 +421,6 @@ Ne6+ Ke8 73. b7 Rd5+ 74. Kg6 1-0
 [WhiteElo "2716"]
 [BlackElo "2345"]
 [PlyCount "67"]
-[EventDate "2008.11.13"]
 
 1. e4 e5 2. Nf3 Qe7 3. Bc4 d6 4. O-O Bg4 5. Re1 Nf6 6. h3 Bh5 7. d4 c6 8. c3
 Qc7 9. Nbd2 Nbd7 10. Nf1 O-O-O 11. Ng3 Bg6 12. Bb3 Nh5 13. Nxe5 dxe5 14. Nxh5
@@ -474,7 +432,6 @@ Qh3 Rd8 28. Ne3 b5 29. a4 a6 30. axb5 axb5 31. c4 b4 32. c5 Kb7 33. Nc4 Nxc5
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.20"]
 [Round "7"]
 [White "Vachier Lagrave, M."]
 [Black "Harikrishna, P."]
@@ -483,7 +440,6 @@ Qh3 Rd8 28. Ne3 b5 29. a4 a6 30. axb5 axb5 31. c4 b4 32. c5 Kb7 33. Nc4 Nxc5
 [WhiteElo "2716"]
 [BlackElo "2659"]
 [PlyCount "111"]
-[EventDate "2008.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
@@ -498,7 +454,6 @@ R7b6 Ra3 54. Rc6 Rxc6 55. dxc6 Rxc3 56. Rb8+ 1-0
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.23"]
 [Round "10"]
 [White "Vachier Lagrave, M."]
 [Black "Markos, J."]
@@ -507,7 +462,6 @@ R7b6 Ra3 54. Rc6 Rxc6 55. dxc6 Rxc3 56. Rb8+ 1-0
 [WhiteElo "2716"]
 [BlackElo "2557"]
 [PlyCount "119"]
-[EventDate "2008.11.13"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Ba4 b5 8. Bc2
 e5 9. h3 g6 10. d4 Bg7 11. dxc5 dxc5 12. a4 O-O 13. axb5 axb5 14. Rxa8 Qxa8 15.
@@ -523,7 +477,6 @@ Kb5 Be5 54. f4 Bf6 55. g4 hxg4 56. hxg4 Bg7 57. c6 Bb2 58. Bb6+ Kd6 59. e5+ Ke7
 
 [Event "Bundesliga 2008-9"]
 [Site "Emsdetten GER"]
-[Date "2008.11.30"]
 [Round "6"]
 [White "Vachier Lagrave, M."]
 [Black "Hector, J."]
@@ -532,7 +485,6 @@ Kb5 Be5 54. f4 Bf6 55. g4 hxg4 56. hxg4 Bg7 57. c6 Bb2 58. Bb6+ Kd6 59. e5+ Ke7
 [WhiteElo "2716"]
 [BlackElo "2551"]
 [PlyCount "83"]
-[EventDate "2008.10.03"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
 Nxd4 9. hxg4 Nxb3 10. axb3 hxg4 11. Ng5 Qd7 12. f4 d5 13. g3 exf4 14. Rxf4 f6
@@ -545,7 +497,6 @@ Nxb5 Kb7 41. Nd6+ Ka6 42. b4 1-0
 
 [Event "BL 0708 SV M?lheim Nord - OSC Baden Bad"]
 [Site "?"]
-[Date "2008.04.06"]
 [Round "13.2"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Nisipeanu, Liviu-Dieter"]
@@ -553,7 +504,6 @@ Nxb5 Kb7 41. Nd6+ Ka6 42. b4 1-0
 [WhiteElo "2634"]
 [BlackElo "2668"]
 [ECO "C67"]
-[EventDate "2008.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 
 Nf5 8. Qxd8+ Kxd8 9. Nc3 Bd7 10. h3 Kc8 11. g4 Ne7 12. Ng5 Be8 13. f4 h5 

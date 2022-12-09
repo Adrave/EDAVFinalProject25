@@ -1,13 +1,11 @@
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.10.17"]
 [Round "16"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.10.20"]
 [Round "18"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -43,14 +39,12 @@
 
 [Event "Simul, 30b"]
 [Site "Santiago CHI"]
-[Date "1927.12.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "T Parra"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Simul, 27b"]
 [Site "Lodz POL"]
-[Date "1928.12.15"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Achilles Frydman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E16"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -88,14 +80,12 @@
 
 [Event "World Championship"]
 [Site "Wiesbaden GER"]
-[Date "1929.11.11"]
 [Round "25"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "?"]
 
@@ -114,14 +104,12 @@
 
 [Event "Simul, 30b"]
 [Site "Berlin GER"]
-[Date "1930.10.07"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Wolfgang Heidenfeld"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A51"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -135,14 +123,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Zagreb YUG"]
-[Date "1930.12.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Leo Singer"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -157,14 +143,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Zagreb YUG"]
-[Date "1930.12.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Milan Filipcic"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -183,14 +167,12 @@
 
 [Event "World Championship"]
 [Site "Berlin GER"]
-[Date "1934.06.14"]
 [Round "26"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E64"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -205,14 +187,12 @@
 
 [Event "World Championship"]
 [Site "Stuttgart GER"]
-[Date "1934.05.02"]
 [Round "12"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D49"]
-[EventDate "????.??.??"]
 [PlyCount "149"]
 [WhiteElo "?"]
 
@@ -235,14 +215,12 @@
 
 [Event "World Championship"]
 [Site "Freiburg GER"]
-[Date "1934.04.18"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -262,14 +240,12 @@
 
 [Event "World Championship"]
 [Site "Berlin GER"]
-[Date "1929.10.17"]
 [Round "15"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D70"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -287,14 +263,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.10.24"]
 [Round "20"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -311,14 +285,12 @@
 
 [Event "World Championship"]
 [Site "Buenos Aires ARG"]
-[Date "1927.11.16"]
 [Round "30"]
 [White "Alexander Alekhine"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 

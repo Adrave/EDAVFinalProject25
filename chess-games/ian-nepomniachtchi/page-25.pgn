@@ -1,6 +1,5 @@
 [Event "Russia-China Match Men"]
 [Site "Moscow RUS"]
-[Date "2016.06.13"]
 [Round "3.2"]
 [White "Nepomniachtchi, I."]
 [Black "Lu Shanglei"]
@@ -9,7 +8,6 @@
 [WhiteElo "2719"]
 [BlackElo "2614"]
 [PlyCount "81"]
-[EventDate "2016.06.11"]
 [EventType "schev"]
 [EventRounds "5"]
 [EventCountry "RUS"]
@@ -29,7 +27,6 @@ Qf8 35. Rxc8 Qxc8 36. Rc3 Qf8 37. Rc7 a4 38. Qc3 axb3 39. cxb3 Bb7 40. Rxb7 a2+
 
 [Event "Eurasian Blitz Chess Cup"]
 [Site "Almaty KAZ"]
-[Date "2016.06.19"]
 [Round "19.2"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -38,7 +35,6 @@ Qf8 35. Rxc8 Qxc8 36. Rc3 Qf8 37. Rc7 a4 38. Qc3 axb3 39. cxb3 Bb7 40. Rxb7 a2+
 [WhiteElo "2719"]
 [BlackElo "2747"]
 [PlyCount "127"]
-[EventDate "2016.06.18"]
 [EventType "swiss (blitz)"]
 [EventRounds "22"]
 [EventCountry "KAZ"]
@@ -59,7 +55,6 @@ Na7 61. Bg2 d3 62. Kc3 Kc5 63. Kxd3 Kb4 64. Ke4 1-0
 
 [Event "Eurasian Blitz Chess Cup"]
 [Site "Almaty KAZ"]
-[Date "2016.06.19"]
 [Round "17.4"]
 [White "Nepomniachtchi, I."]
 [Black "Wang Hao"]
@@ -68,7 +63,6 @@ Na7 61. Bg2 d3 62. Kc3 Kc5 63. Kxd3 Kb4 64. Ke4 1-0
 [WhiteElo "2719"]
 [BlackElo "2734"]
 [PlyCount "61"]
-[EventDate "2016.06.18"]
 [EventType "swiss (blitz)"]
 [EventRounds "22"]
 [EventCountry "KAZ"]
@@ -84,7 +78,6 @@ Rxa7 Nb4 28. a4 Nd3 29. a5 Nxb2 30. a6 c4 31. Rc7 1-0
 
 [Event "Eurasian Blitz Chess Cup"]
 [Site "Almaty KAZ"]
-[Date "2016.06.19"]
 [Round "16.7"]
 [White "Nepomniachtchi, I."]
 [Black "Aleksandrov, A."]
@@ -93,7 +86,6 @@ Rxa7 Nb4 28. a4 Nd3 29. a5 Nxb2 30. a6 c4 31. Rc7 1-0
 [WhiteElo "2719"]
 [BlackElo "2577"]
 [PlyCount "43"]
-[EventDate "2016.06.18"]
 [EventType "swiss (blitz)"]
 [EventRounds "22"]
 [EventCountry "KAZ"]
@@ -108,7 +100,6 @@ Rxe4 Qxf3 21. Rde1 Rf8 22. Qxb8 1-0
 
 [Event "Eurasian Blitz Chess Cup"]
 [Site "Almaty KAZ"]
-[Date "2016.06.18"]
 [Round "14.8"]
 [White "Nepomniachtchi, I."]
 [Black "Kazhgaleyev, M."]
@@ -117,7 +108,6 @@ Rxe4 Qxf3 21. Rde1 Rf8 22. Qxb8 1-0
 [WhiteElo "2719"]
 [BlackElo "2582"]
 [PlyCount "101"]
-[EventDate "2016.06.18"]
 [EventType "swiss (blitz)"]
 [EventRounds "22"]
 [EventCountry "KAZ"]
@@ -136,7 +126,6 @@ Qe7 48. Nf2 Rb8 49. Qf4 Qc7 50. Ne4 Rb2 51. Rg8# 1-0
 
 [Event "Eurasian Blitz Chess Cup"]
 [Site "Almaty KAZ"]
-[Date "2016.06.18"]
 [Round "9.3"]
 [White "Nepomniachtchi, I."]
 [Black "Artemiev, V."]
@@ -145,7 +134,6 @@ Qe7 48. Nf2 Rb8 49. Qf4 Qc7 50. Ne4 Rb2 51. Rg8# 1-0
 [WhiteElo "2719"]
 [BlackElo "2653"]
 [PlyCount "89"]
-[EventDate "2016.06.18"]
 [EventType "swiss (blitz)"]
 [EventRounds "22"]
 [EventCountry "KAZ"]
@@ -163,7 +151,6 @@ Kf1 Rb4 41. c6 Nf3 42. b7 Nd2+ 43. Ke2 Rd8 44. c7 Re4+ 45. Kd1 1-0
 
 [Event "Eurasian Blitz Chess Cup"]
 [Site "Almaty KAZ"]
-[Date "2016.06.18"]
 [Round "8.7"]
 [White "Nepomniachtchi, I."]
 [Black "Sjugirov, S."]
@@ -172,7 +159,6 @@ Kf1 Rb4 41. c6 Nf3 42. b7 Nd2+ 43. Ke2 Rd8 44. c7 Re4+ 45. Kd1 1-0
 [WhiteElo "2719"]
 [BlackElo "2665"]
 [PlyCount "113"]
-[EventDate "2016.06.18"]
 [EventType "swiss (blitz)"]
 [EventRounds "22"]
 [EventCountry "KAZ"]
@@ -192,7 +178,6 @@ Rxd1 Rxd1 54. b8=Q Rd2 55. Qb1+ Kh8 56. Nc5 Bd4 57. Ne4 1-0
 
 [Event "Eurasian Blitz Chess Cup"]
 [Site "Almaty KAZ"]
-[Date "2016.06.18"]
 [Round "1.1"]
 [White "Nepomniachtchi, I."]
 [Black "Utegaliyev, A."]
@@ -201,7 +186,6 @@ Rxd1 Rxd1 54. b8=Q Rd2 55. Qb1+ Kh8 56. Nc5 Bd4 57. Ne4 1-0
 [WhiteElo "2719"]
 [BlackElo "2494"]
 [PlyCount "75"]
-[EventDate "2016.06.18"]
 [EventType "swiss (blitz)"]
 [EventRounds "22"]
 [EventCountry "KAZ"]
@@ -218,7 +202,6 @@ Re1 Rd6 28. Re3 Rcd8 29. Red3 h6 30. h4 b6 31. Rd4 a5 32. c4 axb4 33. axb4 Qe8
 
 [Event "TCh-RUS Men 2016"]
 [Site "Sochi RUS"]
-[Date "2016.05.07"]
 [Round "7.1"]
 [White "Nepomniachtchi, I."]
 [Black "Grischuk, A."]
@@ -227,7 +210,6 @@ Re1 Rd6 28. Re3 Rcd8 29. Red3 h6 30. h4 b6 31. Rd4 a5 32. c4 axb4 33. axb4 Qe8
 [WhiteElo "2703"]
 [BlackElo "2752"]
 [PlyCount "75"]
-[EventDate "2016.05.01"]
 [EventType "team"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -246,7 +228,6 @@ Qg3 34. Bxg6 Qc3 35. Qxd4 Rxd4 36. R6xd4 Rf8 37. Rh4+ Kg8 38. Rdh1 1-0
 
 [Event "TCh-RUS Men 2016"]
 [Site "Sochi RUS"]
-[Date "2016.05.05"]
 [Round "5.2"]
 [White "Nepomniachtchi, I."]
 [Black "Sjugirov, S."]
@@ -255,7 +236,6 @@ Qg3 34. Bxg6 Qc3 35. Qxd4 Rxd4 36. R6xd4 Rf8 37. Rh4+ Kg8 38. Rdh1 1-0
 [WhiteElo "2703"]
 [BlackElo "2674"]
 [PlyCount "63"]
-[EventDate "2016.05.01"]
 [EventType "team"]
 [EventRounds "10"]
 [EventCountry "RUS"]
@@ -273,7 +253,6 @@ axb6 21. Kf2 b5 22. a3 b4 23. axb4 Rab8 24. b5 c6 25. Rhe1 cxb5 26. Rxe8+ Rxe8
 
 [Event "Aeroflot Open A 2016"]
 [Site "Moscow RUS"]
-[Date "2016.03.06"]
 [Round "6.11"]
 [White "Nepomniachtchi, I."]
 [Black "Bok, B."]
@@ -282,7 +261,6 @@ axb6 21. Kf2 b5 22. a3 b4 23. axb4 Rab8 24. b5 c6 25. Rhe1 cxb5 26. Rxe8+ Rxe8
 [WhiteElo "2704"]
 [BlackElo "2611"]
 [PlyCount "93"]
-[EventDate "2016.03.01"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -301,7 +279,6 @@ Nxb5 47. Qc5+ 1-0
 
 [Event "7th Hainan Danzhou GM"]
 [Site "Danzhou CHN"]
-[Date "2016.07.08"]
 [Round "1.3"]
 [White "Nepomniachtchi, I."]
 [Black "Ding Liren"]
@@ -310,7 +287,6 @@ Nxb5 47. Qc5+ 1-0
 [WhiteElo "2725"]
 [BlackElo "2778"]
 [PlyCount "79"]
-[EventDate "2016.07.08"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "CHN"]
@@ -327,7 +303,6 @@ Bxa6 35. Qa8+ Qc8 36. Rxa6 Rb8 37. Bf2 Kg7 38. Qc6 Rb1+ 39. Kh2 Qf5 40. Qe4 1-0
 
 [Event "7th Hainan Danzhou GM"]
 [Site "Danzhou CHN"]
-[Date "2016.07.10"]
 [Round "3.2"]
 [White "Nepomniachtchi, I."]
 [Black "Wang Yue"]
@@ -336,7 +311,6 @@ Bxa6 35. Qa8+ Qc8 36. Rxa6 Rb8 37. Bf2 Kg7 38. Qc6 Rb1+ 39. Kh2 Qf5 40. Qe4 1-0
 [WhiteElo "2725"]
 [BlackElo "2730"]
 [PlyCount "169"]
-[EventDate "2016.07.08"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "CHN"]
@@ -360,7 +334,6 @@ Rg2 80. Re5 b4 81. axb4 Rxb2 82. Kg6 Rg2+ 83. Rg5 Rh2 84. h7 a3 85. Ra5 1-0
 
 [Event "7th Hainan Danzhou GM"]
 [Site "Danzhou CHN"]
-[Date "2016.07.12"]
 [Round "5.1"]
 [White "Nepomniachtchi, I."]
 [Black "Hou Yifan"]
@@ -369,7 +342,6 @@ Rg2 80. Re5 b4 81. axb4 Rxb2 82. Kg6 Rg2+ 83. Rg5 Rh2 84. h7 a3 85. Ra5 1-0
 [WhiteElo "2725"]
 [BlackElo "2653"]
 [PlyCount "137"]
-[EventDate "2016.07.08"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "CHN"]
@@ -391,7 +363,6 @@ Kg7 66. Kg5 Nd7 67. Nc4 f6+ 68. exf6+ Nxf6 69. Nd6 1-0
 
 [Event "7th Hainan Danzhou GM"]
 [Site "Danzhou CHN"]
-[Date "2016.07.16"]
 [Round "8.4"]
 [White "Nepomniachtchi, I."]
 [Black "Bu Xiangzhi"]
@@ -400,7 +371,6 @@ Kg7 66. Kg5 Nd7 67. Nc4 f6+ 68. exf6+ Nxf6 69. Nd6 1-0
 [WhiteElo "2725"]
 [BlackElo "2723"]
 [PlyCount "95"]
-[EventDate "2016.07.08"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "CHN"]
@@ -419,7 +389,6 @@ Qg1 1-0
 
 [Event "42nd Olympiad 2016"]
 [Site "Baku AZE"]
-[Date "2016.09.03"]
 [Round "2.1"]
 [White "Nepomniachtchi, I."]
 [Black "Atabayew, S."]
@@ -428,7 +397,6 @@ Qg1 1-0
 [WhiteElo "2740"]
 [BlackElo "2406"]
 [PlyCount "69"]
-[EventDate "2016.09.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -448,7 +416,6 @@ g5 34. Nf6+ Kg6 35. Rg4 1-0
 
 [Event "42nd Olympiad 2016"]
 [Site "Baku AZE"]
-[Date "2016.09.06"]
 [Round "5.8"]
 [White "Nepomniachtchi, I."]
 [Black "Fawzy, Adham"]
@@ -457,7 +424,6 @@ g5 34. Nf6+ Kg6 35. Rg4 1-0
 [WhiteElo "2740"]
 [BlackElo "2451"]
 [PlyCount "87"]
-[EventDate "2016.09.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -478,7 +444,6 @@ h5 Nc5 41. hxg6+ Kg5 42. gxh7 Nxd3 43. Ra5+ Kg6 44. Rh6+ 1-0
 
 [Event "42nd Olympiad 2016"]
 [Site "Baku AZE"]
-[Date "2016.09.09"]
 [Round "7.3"]
 [White "Nepomniachtchi, I."]
 [Black "Hracek, Z."]
@@ -487,7 +452,6 @@ h5 Nc5 41. hxg6+ Kg5 42. gxh7 Nxd3 43. Ra5+ Kg6 44. Rh6+ 1-0
 [WhiteElo "2740"]
 [BlackElo "2591"]
 [PlyCount "81"]
-[EventDate "2016.09.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -508,7 +472,6 @@ Bf4 40. Qf6 Qg5 41. Qf7 1-0
 
 [Event "42nd Olympiad 2016"]
 [Site "Baku AZE"]
-[Date "2016.09.08"]
 [Round "6.6"]
 [White "Nepomniachtchi, I."]
 [Black "Fridman, D."]
@@ -517,7 +480,6 @@ Bf4 40. Qf6 Qg5 41. Qf7 1-0
 [WhiteElo "2740"]
 [BlackElo "2618"]
 [PlyCount "105"]
-[EventDate "2016.09.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -539,7 +501,6 @@ Kf8 48. Be5 f6 49. Bg3 g5 50. Qc6 f5 51. Be5 Kf7 52. Qf3 Kg6 53. Rf1 1-0
 
 [Event "10th Tal Mem 2016"]
 [Site "Moscow RUS"]
-[Date "2016.09.26"]
 [Round "1.4"]
 [White "Nepomniachtchi, I."]
 [Black "Tomashevsky, E."]
@@ -548,7 +509,6 @@ Kf8 48. Be5 f6 49. Bg3 g5 50. Qc6 f5 51. Be5 Kf7 52. Qf3 Kg6 53. Rf1 1-0
 [WhiteElo "2740"]
 [BlackElo "2731"]
 [PlyCount "45"]
-[EventDate "2016.09.26"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -563,7 +523,6 @@ Rxd8 22. Bc4 Rd5 23. Qe2 1-0
 
 [Event "Tal Memorial Blitz 2016"]
 [Site "Moscow RUS"]
-[Date "2016.09.25"]
 [Round "4.3"]
 [White "Nepomniachtchi, I."]
 [Black "Giri, A."]
@@ -572,7 +531,6 @@ Rxd8 22. Bc4 Rd5 23. Qe2 1-0
 [WhiteElo "2740"]
 [BlackElo "2755"]
 [PlyCount "65"]
-[EventDate "2016.09.25"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -588,7 +546,6 @@ Rfd8 28. Bb6 Rd6 29. Ba5 Bb7 30. Qg3 Qd7 31. Ne4 Bxe4 32. dxe4 Rd1 33. Qb3+ 1-0
 
 [Event "10th Tal Mem 2016"]
 [Site "Moscow RUS"]
-[Date "2016.09.29"]
 [Round "3.2"]
 [White "Nepomniachtchi, I."]
 [Black "Kramnik, V."]
@@ -597,7 +554,6 @@ Rfd8 28. Bb6 Rd6 29. Ba5 Bb7 30. Qg3 Qd7 31. Ne4 Bxe4 32. dxe4 Rd1 33. Qb3+ 1-0
 [WhiteElo "2740"]
 [BlackElo "2808"]
 [PlyCount "93"]
-[EventDate "2016.09.26"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -616,7 +572,6 @@ f7 Ra8 47. Ng5 1-0
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.23"]
 [Round "1.5"]
 [White "Nepomniachtchi, Ian"]
 [Black "Aronian, Levon"]
@@ -624,7 +579,6 @@ f7 Ra8 47. Ng5 1-0
 [WhiteElo "2751"]
 [BlackElo "2789"]
 [ECO "A29"]
-[EventDate "2017.05.03"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O
 8. d3 Bb6 9. Bd2 Nxc3 10. Bxc3 Re8 11. b4 Bg4 12. h3 Bh5 13. a4 a5 14. 
@@ -638,7 +592,6 @@ Kf7 44. Ra8 g5 45. Ra4 Kg6 46. Kf2 Re8 47. Ra7 Re7 48. Ke2 e4 1/2-1/2
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.23"]
 [Round "1.17"]
 [White "Nepomniachtchi, Ian"]
 [Black "Aronian, Levon"]
@@ -646,7 +599,6 @@ Kf7 44. Ra8 g5 45. Ra4 Kg6 46. Kf2 Re8 47. Ra7 Re7 48. Ke2 e4 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2789"]
 [ECO "C84"]
-[EventDate "2017.05.03"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. 
 a3 O-O 9. Nc3 Na5 10. Ba2 Be6 11. b4 Bxa2 12. Nxa2 Nb7 13. c4 bxc4 14. 
@@ -664,7 +616,6 @@ Rf6+ 68. Kd5 Rf5+ 69. Kd6 Rf6+ 70. Kd5 1/2-1/2
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.23"]
 [Round "1.1"]
 [White "Nepomniachtchi, Ian"]
 [Black "Aronian, Levon"]
@@ -672,7 +623,6 @@ Rf6+ 68. Kd5 Rf5+ 69. Kd6 Rf6+ 70. Kd5 1/2-1/2
 [WhiteElo "2751"]
 [BlackElo "2789"]
 [ECO "A29"]
-[EventDate "2017.05.03"]
 
 1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3 
 8. bxc3 d5 9. d4 exd3 10. Nxd3 dxc4 11. Nc5 Qe7 12. Ba3 Qe5 13. Qc2 Re8 

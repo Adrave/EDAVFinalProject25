@@ -1,13 +1,11 @@
 [Event "Simul"]
 [Site "Portsmouth ENG"]
-[Date "1923.08.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Wilfred Henry Pratten"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "BCF Major Open"]
 [Site "Fratton ENG"]
-[Date "1923.08.13"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Edmund Tom Jesty"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -47,14 +43,12 @@
 
 [Event "BCF Major Open"]
 [Site "Fratton ENG"]
-[Date "1923.08.14"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Arpad Vajda"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -70,14 +64,12 @@
 
 [Event "BCF Major Open"]
 [Site "Fratton ENG"]
-[Date "1923.08.21"]
 [Round "8"]
 [White "Alexander Alekhine"]
 [Black "George W Moses"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A50"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -93,14 +85,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Birmingham ENG"]
-[Date "1923.10.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Arthur Percival Lacy-Hulbert"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -114,14 +104,12 @@
 
 [Event "Simul, 35b"]
 [Site "Glasgow SCO"]
-[Date "1923.10.02"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Dr. J Forrester"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -133,14 +121,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Birmingham ENG"]
-[Date "1923.10.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Owen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D11"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -155,14 +141,12 @@
 
 [Event "Simul, 31b"]
 [Site "Liverpool ENG"]
-[Date "1923.09.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Edmund Spencer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A55"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -179,14 +163,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Birmingham ENG"]
-[Date "1923.10.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E F Fardon"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -201,14 +183,12 @@
 
 [Event "Blindfold simul, 11b"]
 [Site "Cheltenham ENG"]
-[Date "1923.10.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Philip Stuart Milner-Barry"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -222,14 +202,12 @@
 
 [Event "Blindfold simul, 11b"]
 [Site "Cheltenham ENG"]
-[Date "1923.10.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "R Morton"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -243,14 +221,12 @@
 
 [Event "Simul, 32b"]
 [Site "Leeds ENG"]
-[Date "1923.10.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "John Harald Morrison"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -264,14 +240,12 @@
 
 [Event "Simul, 37b"]
 [Site "National Athletics Association, Montreal CAN"]
-[Date "1923.11.22"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Georges Marechal"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -287,14 +261,12 @@
 
 [Event "Blindfold simul, 21b"]
 [Site "National Athletics Association, Montreal CAN"]
-[Date "1923.12.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Schwartz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -310,14 +282,12 @@
 
 [Event "Blindfold simul, 21b"]
 [Site "National Athletics Association, Montreal CAN"]
-[Date "1923.12.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "William Winfrey"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -330,14 +300,12 @@
 
 [Event "Blindfold simul, 21b"]
 [Site "National Athletics Association, Montreal CAN"]
-[Date "1923.12.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Paquin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B23"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -350,14 +318,12 @@
 
 [Event "Blindfold simul, 21b"]
 [Site "National Athletics Association, Montreal CAN"]
-[Date "1923.12.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C Beaubien"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C40"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -372,14 +338,12 @@
 
 [Event "Simul, 33b"]
 [Site "New York, NY USA"]
-[Date "1923.12.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Francis J Le Count"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -392,14 +356,12 @@
 
 [Event "Blindfold simul, 21b"]
 [Site "National Athletics Association, Montreal CAN"]
-[Date "1923.12.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Camille Manseau"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -418,14 +380,12 @@
 
 [Event "Simul, 28b"]
 [Site "Providence, RI USA"]
-[Date "1923.12.15"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "T Lovewell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "22"]
 [WhiteElo "?"]
 
@@ -436,14 +396,12 @@
 
 [Event "Simul, 33b"]
 [Site "Brooklyn CC, New York, NY USA"]
-[Date "1923.12.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Thomas J Johnston"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -457,14 +415,12 @@
 
 [Event "Simul, 28b"]
 [Site "Providence, RI USA"]
-[Date "1923.12.15"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "H Kelley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -478,14 +434,12 @@
 
 [Event "Simul, 40b"]
 [Site "Boston, MA USA"]
-[Date "1923.12.17"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Menzel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -499,14 +453,12 @@
 
 [Event "Simul, 28b"]
 [Site "Providence, RI USA"]
-[Date "1923.12.15"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "L Blount"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -523,14 +475,12 @@
 
 [Event "Simul, 40b"]
 [Site "Boston, MA USA"]
-[Date "1923.12.17"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C M Bliss"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C23"]
-[EventDate "????.??.??"]
 [PlyCount "32"]
 [WhiteElo "?"]
 

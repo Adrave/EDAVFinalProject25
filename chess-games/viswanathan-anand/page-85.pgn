@@ -1,6 +1,5 @@
 [Event "Ch World (juniors) (under 20)"]
 [Site "Kiljava (Finland)"]
-[Date "1984.08.06"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hansen Curt (DEN)"]
@@ -20,7 +19,6 @@ Bxe2 8.Qxe2 Nxd4 9.Qc4 c5 10.c3 Nc6 11.Nxc6 bxc6 12.Qxc5 Qb6
 
 [Event "Ch World (juniors) (under 20)"]
 [Site "Kiljava (Finland)"]
-[Date "1984.08.16"]
 [Round "12"]
 [White "Anand Viswanathan (IND)"]
 [Black "Dreev Alexey (RUS)"]
@@ -44,14 +42,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "New Delhi"]
 [Site "New Delhi IND"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Gata Kamsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B42"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -67,14 +63,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Chess Olympiad"]
 [Site "Novi Sad YUG"]
-[Date "1990.11.24"]
 [Round "7"]
 [White "Viswanathan Anand"]
 [Black "Ivan Eduardo Morovic-Fernandez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -89,14 +83,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Chess Olympiad"]
 [Site "Novi Sad YUG"]
-[Date "1990.11.29"]
 [Round "11"]
 [White "Viswanathan Anand"]
 [Black "Gilberto Milos"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C97"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -110,14 +102,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Reggio Emilia 9192"]
 [Site "Reggio Emilia ITA"]
-[Date "1991.??.??"]
 [Round "5"]
 [White "Viswanathan Anand"]
 [Black "Lev Polugaevsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B90"]
-[EventDate "????.??.??"]
 [PlyCount "123"]
 [WhiteElo "?"]
 
@@ -136,14 +126,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Munich Blitz"]
 [Site "Munich DEU"]
-[Date "1991.05.05"]
 [Round "8"]
 [White "Viswanathan Anand"]
 [Black "Larry Mark Christiansen"]
 [Result "1-0"]
 [BlackElo "2625"]
 [ECO "B42"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "2630"]
 
@@ -160,14 +148,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Blind simul"]
 [Site "Amsterdam NED"]
-[Date "1991.09.01"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Dick Dolman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "2635"]
 
@@ -179,14 +165,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Hamburg (5')"]
 [Site "Hamburg (5')"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Fritz (Computer)"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B93"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -201,14 +185,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "India"]
 [Site "India"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "N Sudhakar Babu"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B72"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -223,14 +205,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Active Chess Championship"]
 [Site "Kuala Lumpur MAS"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Sam Sloan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C57"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -244,14 +224,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Reggio Emilia 1988/89"]
 [Site "Reggio Emilia ITA"]
-[Date "1988.12.29"]
 [Round "2"]
 [White "Viswanathan Anand"]
 [Black "Gyula Sax"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B81"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -269,14 +247,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "8th Asian Team-ch final"]
 [Site "Genting Highlands MAS"]
-[Date "1989.07.24"]
 [Round "6"]
 [White "Viswanathan Anand"]
 [Black "Ye Jiangchuan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B81"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -290,14 +266,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "GMA Baleares op"]
 [Site "Palma de Mallorca ESP"]
-[Date "1989.12.??"]
 [Round "9"]
 [White "Viswanathan Anand"]
 [Black "Mihai Suba"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -314,14 +288,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Manila"]
 [Site "Manila"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Eugenio Torre"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -338,14 +310,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Prestwich"]
 [Site "Prestwich"]
-[Date "1990.??.??"]
 [Round "4"]
 [White "Viswanathan Anand"]
 [Black "Alisa Mikhailovna Galliamova"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B56"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -361,14 +331,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "8th Lloyds Bank Masters Open"]
 [Site "London ENG"]
-[Date "1984.08.??"]
 [Round "9"]
 [White "Viswanathan Anand"]
 [Black "Alon Greenfeld"]
 [Result "1-0"]
 [BlackElo "2485"]
 [ECO "B43"]
-[EventDate "????.??.??"]
 [PlyCount "159"]
 [WhiteElo "2345"]
 
@@ -390,14 +358,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Asia-chT fin 06th"]
 [Site "Dubai"]
-[Date "1986.??.??"]
 [Round "8"]
 [White "Viswanathan Anand"]
 [Black "Chandra Sudarman S Pitigala"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B05"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "2788"]
 
@@ -412,14 +378,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Wch U20"]
 [Site "Gausdal NOR"]
-[Date "1986.08.??"]
 [Round "1"]
 [White "Viswanathan Anand"]
 [Black "Pacheco Vega"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B90"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -435,14 +399,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "10th Lloyds Bank Masters Open"]
 [Site "London ENG"]
-[Date "1986.08.26"]
 [Round "7"]
 [White "Viswanathan Anand"]
 [Black "Neil R McDonald"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -459,14 +421,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Frunze"]
 [Site "it"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Boris Kantsler"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -483,14 +443,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "Simul"]
 [Site "Bad Mergentheim GER"]
-[Date "1993.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B23"]
-[EventDate "????.??.??"]
 [PlyCount "13"]
 [WhiteElo "?"]
 
@@ -500,14 +458,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "3rd Principe de Asturias rapid"]
 [Site "Oviedo ESP"]
-[Date "1993.12.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Chess Genius (Computer)"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "????.??.??"]
 [PlyCount "150"]
 [WhiteElo "?"]
 
@@ -529,14 +485,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "London PCA/Intel-GP"]
 [Site "London ENG"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Chess Genius (Computer)"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -552,14 +506,12 @@ h6 42.Bd2 Na6 1/2-1/2
 
 [Event "90 min/player + 5 second/move"]
 [Site "ICC"]
-[Date "2007.04.15"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "David Ottosen"]
 [Result "1-0"]
 [BlackElo "2133"]
 [ECO "B76"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "2800"]
 

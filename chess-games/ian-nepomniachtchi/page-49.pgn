@@ -1,6 +1,5 @@
 [Event "8th ch-Euro"]
 [Site "Dresden GER"]
-[Date "2007.04.06"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Sulskis, S."]
@@ -9,7 +8,6 @@
 [WhiteElo "2602"]
 [BlackElo "2528"]
 [PlyCount "89"]
-[EventDate "2007.04.03"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nd2 Nd7 6. Ngf3 Ne7 7. Be2 h6 8. O-O
 Bh7 9. g4 h5 10. h3 c5 11. c3 Nc6 12. Kg2 Be7 13. a3 f6 14. exf6 gxf6 15. b4 c4
@@ -22,7 +20,6 @@ Rxf3+ 41. Kxf3 b6 42. Ke3 Bf5 43. Kd2 e5 44. dxe5 Be6 45. Ke3 1-0
 
 [Event "8th ch-Euro"]
 [Site "Dresden GER"]
-[Date "2007.04.12"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Baramidze, D."]
@@ -31,7 +28,6 @@ Rxf3+ 41. Kxf3 b6 42. Ke3 Bf5 43. Kd2 e5 44. dxe5 Be6 45. Ke3 1-0
 [WhiteElo "2602"]
 [BlackElo "2543"]
 [PlyCount "45"]
-[EventDate "2007.04.03"]
 
 1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. dxc3 Qxd1+ 7. Kxd1 g6
 8. Be3 b6 9. Bc4 e6 10. Ke2 Bb7 11. Bb5+ Bc6 12. a4 a6 13. Bxc6+ Nxc6 14. Nd2
@@ -41,7 +37,6 @@ Be7 15. Nc4 Rb8 16. Rhd1 O-O 17. Rd7 b5 18. axb5 axb5 19. Na5 Nxa5 20. Rxa5 Bd8
 
 [Event "TCh-RUS"]
 [Site "Sochi RUS"]
-[Date "2007.05.02"]
 [Round "1"]
 [White "Nepomniachtchi, I."]
 [Black "Kobalia, M."]
@@ -50,7 +45,6 @@ Be7 15. Nc4 Rb8 16. Rhd1 O-O 17. Rd7 b5 18. axb5 axb5 19. Na5 Nxa5 20. Rxa5 Bd8
 [WhiteElo "2602"]
 [BlackElo "2639"]
 [PlyCount "105"]
-[EventDate "2007.05.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. h3 d6 7. Bb3 Ba7 8. Nbd2
 O-O 9. Nf1 d5 10. Qe2 Re8 11. Ng3 h6 12. O-O Be6 13. Nh2 Na5 14. Bxd5 Bxd5 15.
@@ -65,7 +59,6 @@ Nxb4 47. Rxb4 Kxc5 48. Rb6 Rd6 49. Rxd6 Kxd6 50. Kg2 Kc5 51. f4 gxf4 52. g4 Kd5
 
 [Event "TCh-RUS"]
 [Site "Sochi RUS"]
-[Date "2007.05.04"]
 [Round "3"]
 [White "Nepomniachtchi, I."]
 [Black "Inarkiev, E."]
@@ -74,7 +67,6 @@ Nxb4 47. Rxb4 Kxc5 48. Rb6 Rd6 49. Rxd6 Kxd6 50. Kg2 Kc5 51. f4 gxf4 52. g4 Kd5
 [WhiteElo "2602"]
 [BlackElo "2669"]
 [PlyCount "164"]
-[EventDate "2007.05.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. h3 O-O 7. Nbd2 Re8 8. Bb3
 d6 9. Nf1 Be6 10. Ng3 h6 11. Nh2 Kh7 12. Qf3 Ng8 13. Ng4 Qd7 14. Nf5 Bxf5 15.
@@ -93,7 +85,6 @@ Bf5 Kc4 80. a5 Kb4 81. a6 Rc6 82. a7 Ra6 0-1
 
 [Event "TCh-RUS"]
 [Site "Sochi RUS"]
-[Date "2007.05.07"]
 [Round "6"]
 [White "Nepomniachtchi, I."]
 [Black "Kurnosov, I."]
@@ -102,7 +93,6 @@ Bf5 Kc4 80. a5 Kb4 81. a6 Rc6 82. a7 Ra6 0-1
 [WhiteElo "2602"]
 [BlackElo "2566"]
 [PlyCount "81"]
-[EventDate "2007.05.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. h3 O-O 7. Bb3 Ba7 8. Bg5
 d6 9. Nbd2 Ne7 10. Nh4 Kh8 11. Bxf6 gxf6 12. Qf3 Ng6 13. Nf5 c6 14. h4 d5 15.
@@ -115,7 +105,6 @@ Nh6+ Qxh6 41. Qxh6 1-0
 
 [Event "World's Youth Stars"]
 [Site "Kirishi RUS"]
-[Date "2007.05.20"]
 [Round "5"]
 [White "Nepomniachtchi, I."]
 [Black "Bindrich, F."]
@@ -124,7 +113,6 @@ Nh6+ Qxh6 41. Qxh6 1-0
 [WhiteElo "2602"]
 [BlackElo "2469"]
 [PlyCount "47"]
-[EventDate "2007.05.16"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. h3 O-O 7. Bb3 Ba7 8. Bg5
 h6 9. Bh4 d6 10. Nbd2 Qe7 11. g4 g5 12. Bg3 b5 13. h4 Bxg4 14. hxg5 hxg5 15.
@@ -134,7 +122,6 @@ Nde6 22. Rg3 Qh1+ 23. Rg1 Qh3 24. O-O-O 1-0
 
 [Event "World's Youth Stars"]
 [Site "Kirishi RUS"]
-[Date "2007.05.23"]
 [Round "7"]
 [White "Nepomniachtchi, I."]
 [Black "Negi, P."]
@@ -143,7 +130,6 @@ Nde6 22. Rg3 Qh1+ 23. Rg1 Qh3 24. O-O-O 1-0
 [WhiteElo "2602"]
 [BlackElo "2515"]
 [PlyCount "89"]
-[EventDate "2007.05.16"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. d4 cxd4 5. Nxd4 Bb4 6. g3 Ne4 7. Qd3 Bxc3+ 8.
 bxc3 Nc5 9. Qe3 b6 10. Bg2 Bb7 11. Bxb7 Nxb7 12. Ba3 Nc6 13. Nxc6 dxc6 14. Rd1
@@ -156,7 +142,6 @@ h5 41. Qb1 Qf6 42. Qb7+ Ke6 43. Qc8+ Rd7 44. Re8+ Kd6 45. Qb8+ 1-0
 
 [Event "MTO"]
 [Site "Biel SUI"]
-[Date "2007.07.24"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Hug, W."]
@@ -165,7 +150,6 @@ h5 41. Qb1 Qf6 42. Qb7+ Ke6 43. Qc8+ Rd7 44. Re8+ Kd6 45. Qb8+ 1-0
 [WhiteElo "2613"]
 [BlackElo "2440"]
 [PlyCount "83"]
-[EventDate "2007.07.23"]
 
 1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Nc6 7. Bf4 Nxc5 8. h4
 a6 9. a3 Be7 10. Rh3 Bd7 11. b4 Ne4 12. Nxe4 dxe4 13. Nd2 Qc7 14. Nc4 O-O 15.
@@ -178,7 +162,6 @@ Nf5 35. b6 Nxh4 36. b7 Nxg2+ 37. Ke2 e4 38. fxe3 Nxe3 39. Ra5 Ng4 40. Ra8 f3+
 
 [Event "MTO"]
 [Site "Biel SUI"]
-[Date "2007.07.26"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Pavlovic, Milos"]
@@ -187,7 +170,6 @@ Nf5 35. b6 Nxh4 36. b7 Nxg2+ 37. Ke2 e4 38. fxe3 Nxe3 39. Ra5 Ng4 40. Ra8 f3+
 [WhiteElo "2613"]
 [BlackElo "2541"]
 [PlyCount "65"]
-[EventDate "2007.07.23"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. g3 Bg5 14. h4 Bh6 15.
@@ -198,7 +180,6 @@ Be6 22. O-O Ra4 23. Bb1 Bd7 24. Nc3 Rd4 25. Rxd4 exd4 26. Ne2 Qb6 27. Bd3 Rb8
 
 [Event "MTO"]
 [Site "Biel SUI"]
-[Date "2007.08.02"]
 [Round "10"]
 [White "Nepomniachtchi, I."]
 [Black "Raetsky, A."]
@@ -207,7 +188,6 @@ Be6 22. O-O Ra4 23. Bb1 Bd7 24. Nc3 Rd4 25. Rxd4 exd4 26. Ne2 Qb6 27. Bd3 Rb8
 [WhiteElo "2613"]
 [BlackElo "2423"]
 [PlyCount "73"]
-[EventDate "2007.07.23"]
 
 1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8
 8. Qg3 Nxe4 9. Nxe4 Rxe4 10. c3 Bd6 11. f4 Bf8 12. Bd3 d5 13. Nf3 h6 14. Bxe4
@@ -219,7 +199,6 @@ c4 34. Qxb7 Ne5 35. Qxa7 Kg7 36. Kb1 Nd3 37. Rg1 1-0
 
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2008.02.19"]
 [Round "6"]
 [White "Nepomniachtchi, I."]
 [Black "Rodshtein, M."]
@@ -228,7 +207,6 @@ c4 34. Qxb7 Ne5 35. Qxa7 Kg7 36. Kb1 Nd3 37. Rg1 1-0
 [WhiteElo "2600"]
 [BlackElo "2614"]
 [PlyCount "87"]
-[EventDate "2008.02.14"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8.
 Qc2 Nc6 9. Bd3 Ba5 10. a3 Nxc3 11. bxc3 Nxd4 12. Nxd4 Qxd4 13. Bb5+ Bd7 14. O-O
@@ -241,7 +219,6 @@ Bf4 40. Rxb6 Rxh2+ 41. Kg1 Ra2 42. Rb3 Rxa4 43. Rc3 Ra5 44. Rc2 1/2-1/2
 
 [Event "Aeroflot Open"]
 [Site "Moscow RUS"]
-[Date "2008.02.22"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Volokitin, And"]
@@ -250,7 +227,6 @@ Bf4 40. Rxb6 Rxh2+ 41. Kg1 Ra2 42. Rb3 Rxa4 43. Rc3 Ra5 44. Rc2 1/2-1/2
 [WhiteElo "2600"]
 [BlackElo "2674"]
 [PlyCount "62"]
-[EventDate "2008.02.14"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nge2 Bg7 5. g3 O-O 6. Bg2 e5 7. O-O Nc6 8. dxe5
 dxe5 9. Nd5 Nxd5 10. exd5 Ne7 11. c4 Nf5 12. Bd2 Re8 13. Bc3 b6 14. b3 Nd6 15.
@@ -261,7 +237,6 @@ Nc1 h5 16. h4 Bf5 17. Re1 a5 18. Nd3 Bxd3 19. Qxd3 e4 20. Qc2 f5 21. Bxg7 Kxg7
 
 [Event "TCh-RUS"]
 [Site "Dagomys RUS"]
-[Date "2008.04.05"]
 [Round "4"]
 [White "Nepomniachtchi, I."]
 [Black "Eljanov, P."]
@@ -270,7 +245,6 @@ Nc1 h5 16. h4 Bf5 17. Re1 a5 18. Nd3 Bxd3 19. Qxd3 e4 20. Qc2 f5 21. Bxg7 Kxg7
 [WhiteElo "2634"]
 [BlackElo "2687"]
 [PlyCount "117"]
-[EventDate "2008.04.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. Be3 Bb6 7. a4 O-O 8. Bxc6
 bxc6 9. a5 Bxe3 10. fxe3 g6 11. Nc3 Ng4 12. Qe1 f5 13. exf5 gxf5 14. h3 Nf6 15.
@@ -286,7 +260,6 @@ Rf7+ 54. Nf6+ Kg7 55. Ra8 Rf8 56. Ra7+ Rf7 57. Ra8 Rf8 58. Ra7+ Rf7 59. Kxe4
 
 [Event "IX EICC"]
 [Site "Plovdiv BUL"]
-[Date "2008.04.22"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Nikolov, M."]
@@ -295,7 +268,6 @@ Rf7+ 54. Nf6+ Kg7 55. Ra8 Rf8 56. Ra7+ Rf7 57. Ra8 Rf8 58. Ra7+ Rf7 59. Kxe4
 [WhiteElo "2634"]
 [BlackElo "2488"]
 [PlyCount "68"]
-[EventDate "2008.04.21"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O b5 8. a3
 Bb7 9. Re1 d6 10. Qf3 Nbd7 11. Qg3 Be7 12. Nf3 O-O 13. Bh6 Ne8 14. Rad1 Kh8 15.
@@ -307,7 +279,6 @@ Bxe2 f5 1/2-1/2
 
 [Event "IX EICC"]
 [Site "Plovdiv BUL"]
-[Date "2008.05.01"]
 [Round "10"]
 [White "Nepomniachtchi, I."]
 [Black "Kharitonov, Alexandr"]
@@ -316,7 +287,6 @@ Bxe2 f5 1/2-1/2
 [WhiteElo "2634"]
 [BlackElo "2526"]
 [PlyCount "60"]
-[EventDate "2008.04.21"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8.
 Qc2 Nc6 9. Bd3 Ba5 10. a3 h6 11. O-O O-O 12. Rd1 Nce7 13. Ne5 Bd7 14. Ne4 Bc7
@@ -327,7 +297,6 @@ Rxf2 27. Rf1 Rxb2 28. Rc3 Rb1 29. Rcf3 Rxf1+ 30. Rxf1 Qd8 1/2-1/2
 
 [Event "Sparkassen"]
 [Site "Dortmund GER"]
-[Date "2008.06.29"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Mamedyarov, S."]
@@ -336,7 +305,6 @@ Rxf2 27. Rf1 Rxb2 28. Rc3 Rb1 29. Rcf3 Rxf1+ 30. Rxf1 Qd8 1/2-1/2
 [WhiteElo "2634"]
 [BlackElo "2752"]
 [PlyCount "79"]
-[EventDate "2008.06.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 Bg4 8. Nbd2
 Nd7 9. h3 Bh5 10. Re1 Nc5 11. Bc2 Ne6 12. Nf1 Bg5 13. Ng3 Bxf3 14. Qxf3 O-O 15.
@@ -349,7 +317,6 @@ Kf3 1/2-1/2
 
 [Event "Sparkassen"]
 [Site "Dortmund GER"]
-[Date "2008.07.06"]
 [Round "7"]
 [White "Nepomniachtchi, I."]
 [Black "Gustafsson, J."]
@@ -358,7 +325,6 @@ Kf3 1/2-1/2
 [WhiteElo "2634"]
 [BlackElo "2603"]
 [PlyCount "43"]
-[EventDate "2008.06.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 d6 8. Nd5
 h6 9. c3 Be6 10. Nxf6+ Qxf6 11. Be3 Bxb3 12. axb3 Bxe3 13. fxe3 O-O 14. O-O Qe6
@@ -368,7 +334,6 @@ c4 22. Rf3 1/2-1/2
 
 [Event "15th Ordix Open"]
 [Site "Mainz GER"]
-[Date "2008.08.03"]
 [Round "9"]
 [White "Nepomniachtchi, I."]
 [Black "Eljanov, P."]
@@ -377,7 +342,6 @@ c4 22. Rf3 1/2-1/2
 [WhiteElo "2602"]
 [BlackElo "2716"]
 [PlyCount "130"]
-[EventDate "2008.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. h3 O-O 7. Bb3 d5 8. exd5
 Nxd5 9. O-O Nb6 10. Re1 h6 11. Be3 Bxe3 12. Rxe3 Nd5 13. Bxd5 Qxd5 14. Nbd2 Bf5
@@ -393,7 +357,6 @@ Bf7 54. Ke2 Bb3 55. Ng4 Bc2 56. Nf2 Bb1 57. Kd2 Ke5 58. Nd3+ Kf5 59. Nf2 Ba2
 
 [Event "61st ch-RUS HL"]
 [Site "Novokuznetsk RUS"]
-[Date "2008.09.08"]
 [Round "6"]
 [White "Nepomniachtchi, I."]
 [Black "Vitiugov, N."]
@@ -402,7 +365,6 @@ Bf7 54. Ke2 Bb3 55. Ng4 Bc2 56. Nf2 Bb1 57. Kd2 Ke5 58. Nd3+ Kf5 59. Nf2 Ba2
 [WhiteElo "2602"]
 [BlackElo "2616"]
 [PlyCount "94"]
-[EventDate "2008.09.03"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
 O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Qe1 Be7 12. f4 Ng6 13. e5 Ng4 14. Ne4 O-O
@@ -416,7 +378,6 @@ Kc1 Qe3+ 47. Kb1 Qe4+ 1/2-1/2
 
 [Event "Russia Cup Final"]
 [Site "Serpuhov RUS"]
-[Date "2008.11.09"]
 [Round "3.1"]
 [White "Nepomniachtchi, I."]
 [Black "Zvjaginsev, V."]
@@ -425,7 +386,6 @@ Kc1 Qe3+ 47. Kb1 Qe4+ 1/2-1/2
 [WhiteElo "2616"]
 [BlackElo "2646"]
 [PlyCount "175"]
-[EventDate "2008.11.05"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be3 Nf6 7. Bc4 Be7 8.
 Qe2 O-O 9. O-O-O Bd7 10. Rhg1 Na5 11. Bd3 Rc8 12. g4 g6 13. g5 Nh5 14. Nb3 Rxc3
@@ -445,7 +405,6 @@ Rg1 Kh7 79. Kf6 Bb3 80. Ke7 Be6 81. Kf8 Bb3 82. Rg7+ Kh6 83. Kg8 Bc4 84. h4 f5+
 
 [Event "Magistral"]
 [Site "Pamplona ESP"]
-[Date "2008.12.23"]
 [Round "2"]
 [White "Nepomniachtchi, I."]
 [Black "Sasikiran, K."]
@@ -454,7 +413,6 @@ Rg1 Kh7 79. Kf6 Bb3 80. Ke7 Be6 81. Kf8 Bb3 82. Rg7+ Kh6 83. Kg8 Bc4 84. h4 f5+
 [WhiteElo "2616"]
 [BlackElo "2694"]
 [PlyCount "77"]
-[EventDate "2008.12.22"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8.
 Qc2 Nc6 9. Bd3 h6 10. a3 Bd6 11. O-O O-O 12. Re1 Bd7 13. Ne4 Be7 14. b4 Rc8 15.
@@ -466,7 +424,6 @@ a4 Bd6 29. Ra1 f6 30. Re6 Bb4 31. Bc1 Bd7 32. Bxf4 Rc2 33. Re3 Rfc8 34. Rb3 Bc3
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.19"]
 [Round "6"]
 [White "Nepomniachtchi, Ian"]
 [Black "Van Haastert, Edwin"]
@@ -474,7 +431,6 @@ a4 Bd6 29. Ra1 f6 30. Re6 Bb4 31. Bc1 Bd7 32. Bxf4 Rc2 33. Re3 Rfc8 34. Rb3 Bc3
 [WhiteElo "2587"]
 [BlackElo "2391"]
 [ECO "B23"]
-[EventDate "2007.01.13"]
 
 1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. O-O Nf6 7. d3 O-O 8. 
 Qe1 e6 9. f5 d5 10. e5 Nxe5 11. Nxe5 dxc4 12. fxg6 hxg6 13. Nxc4 b6 14. 
@@ -484,7 +440,6 @@ Bg3 Rf8 21. Rf4 Qg5 22. Qe4 e5 23. Rxf7 1-0
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.14"]
 [Round "2"]
 [White "Nepomniachtchi, Ian"]
 [Black "Van der Wiel, John T H"]
@@ -492,7 +447,6 @@ Bg3 Rf8 21. Rf4 Qg5 22. Qe4 e5 23. Rxf7 1-0
 [WhiteElo "2587"]
 [BlackElo "2511"]
 [ECO "C78"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8.
  Re1 O-O 9. Nbd2 d6 10. c3 Na5 11. Bc2 c5 12. Nf1 Re8 13. Ng3 g6 14. d4 
@@ -508,7 +462,6 @@ Qxe2+ 57. Bf2 Nxf2 58. Qxf2 Qxa6 59. Nd7 Qb5 60. Nf6+ Kf8 61. Qd2 1-0
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.26"]
 [Round "11"]
 [White "Nepomniachtchi, Ian"]
 [Black "Brynell, Stellan"]
@@ -516,7 +469,6 @@ Qxe2+ 57. Bf2 Nxf2 58. Qxf2 Qxa6 59. Nd7 Qb5 60. Nf6+ Kf8 61. Qd2 1-0
 [WhiteElo "2587"]
 [BlackElo "2501"]
 [ECO "C00"]
-[EventDate "2007.01.13"]
 
 1. e4 e6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. Ng3 Nf6 6. Bc4 Nc6 7. a3 Qc7 8. 
 d3 Bd6 9. O-O h6 10. c3 dxc3 11. bxc3 O-O 12. Qe2 Ne5 13. Ba2 Nxf3+ 14. 
@@ -529,7 +481,6 @@ Rad8 21. Rg3 Kh7 22. Rf1 Bc8 23. Bb1 Ne8 24. e5 g6 25. Bc1 Rh8 26. Rg4 Ng7
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.16"]
 [Round "4"]
 [White "Nepomniachtchi, Ian"]
 [Black "Bosboom, Manuel"]
@@ -537,7 +488,6 @@ Rad8 21. Rg3 Kh7 22. Rf1 Bc8 23. Bb1 Ne8 24. e5 g6 25. Bc1 Rh8 26. Rg4 Ng7
 [WhiteElo "2587"]
 [BlackElo "2375"]
 [ECO "B23"]
-[EventDate "2007.01.13"]
 
 1. e4 c5 2. Nc3 d6 3. f4 e6 4. Nf3 a6 5. a4 Nf6 6. g3 Nc6 7. Bg2 Rb8 8. 
 O-O Be7 9. h3 b5 10. axb5 axb5 11. d3 b4 12. Ne2 h5 13. b3 Bb7 14. Bb2 Qb6

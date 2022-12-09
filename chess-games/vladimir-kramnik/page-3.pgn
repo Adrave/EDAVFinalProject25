@@ -1,6 +1,5 @@
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.13"]
 [Round "1.3"]
 [White "Kramnik, V."]
 [Black "Wei Yi"]
@@ -9,7 +8,6 @@
 [WhiteElo "2787"]
 [BlackElo "2743"]
 [PlyCount "109"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -28,7 +26,6 @@ Nxa3 Nd6+ 54. Kc6 Nf7 55. Nb5+ 1-0
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.16"]
 [Round "4.3"]
 [White "Kramnik, V."]
 [Black "Svidler, P."]
@@ -37,7 +34,6 @@ Nxa3 Nd6+ 54. Kc6 Nf7 55. Nb5+ 1-0
 [WhiteElo "2787"]
 [BlackElo "2768"]
 [PlyCount "47"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -51,7 +47,6 @@ Nb5 Rxa7 22. Nxa7 Kf8 23. Rd7 Ra8 24. Bd4 1-0
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.24"]
 [Round "10.4"]
 [White "Kramnik, V."]
 [Black "Matlakov, M."]
@@ -60,7 +55,6 @@ Nb5 Rxa7 22. Nxa7 Kf8 23. Rd7 Ra8 24. Bd4 1-0
 [WhiteElo "2787"]
 [BlackElo "2718"]
 [PlyCount "77"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -76,7 +70,6 @@ Nb6 34. Rxb7 Rb5 35. Rxa7 Rd8 36. Qc3 Rc8 37. Rc7 Rd8 38. Qc6 Rb3 39. Rf7 1-0
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.27"]
 [Round "12.5"]
 [White "Kramnik, V."]
 [Black "Caruana, F."]
@@ -85,7 +78,6 @@ Nb6 34. Rxb7 Rb5 35. Rxa7 Rd8 36. Qc3 Rc8 37. Rc7 Rd8 38. Qc6 Rb3 39. Rf7 1-0
 [WhiteElo "2787"]
 [BlackElo "2811"]
 [PlyCount "103"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -104,7 +96,6 @@ Qe8 1-0
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "13.6"]
 [White "Kramnik, V."]
 [Black "Anand, V."]
@@ -113,7 +104,6 @@ Qe8 1-0
 [WhiteElo "2800"]
 [BlackElo "2776"]
 [PlyCount "49"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -127,7 +117,6 @@ d4 exd4 22. Bxd4 Rxe1+ 23. Nxe1 Qc6 24. Qxb6 Qxa4 25. Rb1 1-0
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "8.2"]
 [White "Kramnik, V."]
 [Black "Andreikin, D."]
@@ -136,7 +125,6 @@ d4 exd4 22. Bxd4 Rxe1+ 23. Nxe1 Qc6 24. Qxb6 Qxa4 25. Rb1 1-0
 [WhiteElo "2800"]
 [BlackElo "2712"]
 [PlyCount "65"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -152,7 +140,6 @@ exd5 cxd5 22. a4 Ne4 23. Rfe1 e5 24. a5 Qf6 25. a6 Nc3 26. a7 Ra8 27. Ra6 Qe7
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "2.5"]
 [White "Kramnik, V."]
 [Black "Karjakin, Sergey"]
@@ -161,7 +148,6 @@ exd5 cxd5 22. a4 Ne4 23. Rfe1 e5 24. a5 Qf6 25. a6 Nc3 26. a7 Ra8 27. Ra6 Qe7
 [WhiteElo "2800"]
 [BlackElo "2763"]
 [PlyCount "83"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -178,7 +164,6 @@ Kg8 41. Rb1 Rfb8 42. Rxb2 1-0
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "4.4"]
 [White "Kramnik, V."]
 [Black "Fedoseev, Vl3"]
@@ -187,7 +172,6 @@ Kg8 41. Rb1 Rfb8 42. Rxb2 1-0
 [WhiteElo "2800"]
 [BlackElo "2724"]
 [PlyCount "43"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -201,7 +185,6 @@ Nd5 22. e4 1-0
 
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.03"]
 [Round "6.1"]
 [White "Kramnik, V."]
 [Black "Dubov, Daniil"]
@@ -210,7 +193,6 @@ Nd5 22. e4 1-0
 [WhiteElo "2800"]
 [BlackElo "2701"]
 [PlyCount "55"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -225,7 +207,6 @@ e6 Qc8 22. Bh6 f5 23. Bxf8 Qxf8 24. Qxb7 Ne5 25. Qd5 Ng4 26. h3 Nf6 27. Qe5 Qh6
 
 [Event "FIDE Candidates 2018"]
 [Site "Berlin GER"]
-[Date "2018.03.10"]
 [Round "1.1"]
 [White "Kramnik, V."]
 [Black "Grischuk, A."]
@@ -234,7 +215,6 @@ e6 Qc8 22. Bh6 f5 23. Bxf8 Qxf8 24. Qxb7 Ne5 25. Qd5 Ng4 26. h3 Nf6 27. Qe5 Qh6
 [WhiteElo "2800"]
 [BlackElo "2767"]
 [PlyCount "95"]
-[EventDate "2018.03.10"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GER"]
@@ -252,7 +232,6 @@ Be8 47. a6 Nh5 48. Nd5 1-0
 
 [Event "FIDE Candidates 2018"]
 [Site "Berlin GER"]
-[Date "2018.03.22"]
 [Round "10.1"]
 [White "Kramnik, V."]
 [Black "Aronian, L."]
@@ -261,7 +240,6 @@ Be8 47. a6 Nh5 48. Nd5 1-0
 [WhiteElo "2800"]
 [BlackElo "2794"]
 [PlyCount "73"]
-[EventDate "2018.03.10"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GER"]
@@ -277,7 +255,6 @@ gxf6 28. Rxf6 d2 29. Qg3+ Kf8 30. Rf1 Ra7 31. Ng6+ Kg7 32. Nf4+ Kh8 33. Nh5 f6
 
 [Event "GCT Rapid Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.20"]
 [Round "3.2"]
 [White "Kramnik, V."]
 [Black "Mamedyarov, S."]
@@ -286,7 +263,6 @@ gxf6 28. Rxf6 d2 29. Qg3+ Kf8 30. Rf1 Ra7 31. Ng6+ Kg7 32. Nf4+ Kh8 33. Nh5 f6
 [WhiteElo "2792"]
 [BlackElo "2808"]
 [PlyCount "98"]
-[EventDate "2018.06.20"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -304,7 +280,6 @@ Kxf3 Rd8 41. Rb7 Rxd6 42. Rxb4 e5 43. a4 e4+ 44. Ke2 Ke5 45. a5 f4 46. Ra4 f3+
 
 [Event "GCT Blitz Paris 2018"]
 [Site "Paris FRA"]
-[Date "2018.06.24"]
 [Round "18.3"]
 [White "Kramnik, V."]
 [Black "Vachier Lagrave, M."]
@@ -313,7 +288,6 @@ Kxf3 Rd8 41. Rb7 Rxd6 42. Rxb4 e5 43. a4 e4+ 44. Ke2 Ke5 45. a5 f4 46. Ra4 f3+
 [WhiteElo "2792"]
 [BlackElo "2789"]
 [PlyCount "76"]
-[EventDate "2018.06.23"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -334,7 +308,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 [BlackFideId "4100107"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:08"]
 [BlackClock "0:00:31"]
 
@@ -349,7 +322,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 [BlackFideId "2016192"]
 [Result "1/2-1/2"]
 [Round "16"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:08"]
 [BlackClock "0:00:15"]
 
@@ -364,7 +336,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 [BlackFideId "4104226"]
 [Result "1/2-1/2"]
 [Round "10"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:02"]
 
@@ -374,7 +345,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.16"]
 [Round "5.4"]
 [White "Kramnik,V"]
 [Black "Mamedyarov,S"]
@@ -383,7 +353,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 [BlackFideId "13401319"]
 [BlackTitle "GM"]
 [ECO "C80"]
-[EventDate "2019.01.12"]
 [Opening "Ruy Lopez"]
 [Variation "open, Bernstein variation"]
 [WhiteElo "2777"]
@@ -400,7 +369,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.22"]
 [Round "9.6"]
 [White "Kramnik,V"]
 [Black "Ding Liren"]
@@ -409,7 +377,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 [BlackFideId "8603677"]
 [BlackTitle "GM"]
 [ECO "D02"]
-[EventDate "2019.01.12"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2777"]
 [WhiteFideId "4101588"]
@@ -428,7 +395,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 
 [Event "Armageddon: Chess for TV"]
 [Site "Moscow RUS"]
-[Date "2019.06.13"]
 [Round "2.1"]
 [White "Kramnik,V"]
 [Black "Radjabov,T"]
@@ -442,7 +408,6 @@ Nc5 Re7 35. a6 b5 36. cxb5 cxb5 37. Rxb5 Ra8 38. Rb7 Ree8 1-0
 [Variation "King's Indian attack"]
 [WhiteFideId "4101588"]
 [BlackFideId "13400924"]
-[EventDate "2019.06.10"]
 
 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d5 6. c3 c6 7. Nbd2 Bf5 8. Nh4
 Bg4 9. h3 Bc8 10. Kh2 Re8 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe4 Nd7 14. Bg2 e5 15.
@@ -459,7 +424,6 @@ Kg2 Rb2 68. Kf3 Rb3+ 69. Kg2 Rb2 70. Kf3 1/2-1/2
 
 [Event "Armageddon: Chess for TV"]
 [Site "Moscow RUS"]
-[Date "2019.06.16"]
 [Round "4.1"]
 [White "Kramnik,V"]
 [Black "Karjakin,Sergey"]
@@ -472,7 +436,6 @@ Kg2 Rb2 68. Kf3 Rb3+ 69. Kg2 Rb2 70. Kf3 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "4101588"]
 [BlackFideId "14109603"]
-[EventDate "2019.06.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. Bb3 O-O 8. Re1
 Ba7 9. h3 Re8 10. Nbd2 Be6 11. Nf1 h6 12. Be3 Bxe3 13. Nxe3 Bxb3 14. Qxb3 Qd7
@@ -488,7 +451,6 @@ Kg1 1/2-1/2
 
 [Event "Armageddon: Chess for TV"]
 [Site "Moscow RUS"]
-[Date "2019.06.15"]
 [Round "3.1"]
 [White "Kramnik,V"]
 [Black "Nepomniachtchi,I"]
@@ -502,7 +464,6 @@ Kg1 1/2-1/2
 [Variation "fianchetto without c4"]
 [WhiteFideId "4101588"]
 [BlackFideId "4168119"]
-[EventDate "2019.06.10"]
 
 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d5 5. O-O O-O 6. a4 a5 7. b3 c6 8. Nbd2 Bf5
 9. Ba3 Re8 10. e3 Qc8 11. c4 Bh3 12. cxd5 Bxg2 13. Kxg2 Nxd5 14. Rc1 Nd7 15. e4
@@ -517,7 +478,6 @@ f4 55. gxf4 gxf4 56. f3 Rd2+ 57. Kf1 Rb2 58. Rb6 0-1
 
 [Event "Levitov Chess Week Blitz"]
 [Site "Amsterdam NED"]
-[Date "2019.08.03"]
 [Round "1.4"]
 [White "Kramnik,V"]
 [Black "Nepomniachtchi,I"]
@@ -531,7 +491,6 @@ f4 55. gxf4 gxf4 56. f3 Rd2+ 57. Kf1 Rb2 58. Rb6 0-1
 [Variation "East Indian defence"]
 [WhiteFideId "4101588"]
 [BlackFideId "4168119"]
-[EventDate "2019.08.03"]
 
 1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Be2 O-O 5. O-O d5 6. b3 c5 7. Bb2 cxd4 8. Nxd4
 b6 9. Nd2 Bb7 10. c4 Nbd7 11. Rc1 Rc8 12. N2f3 a6 13. cxd5 Nxd5 14. Rxc8 Qxc8
@@ -543,7 +502,6 @@ Rxc1 35. Qxc1 Qc6 36. Qxc6 Bxc6 37. Nc4 Bxa4 38. Nxa5 Nc6 39. Nxc6 1/2-1/2
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.05"]
 [Round "3.4"]
 [White "Kramnik,V"]
 [Black "Nepomniachtchi,I"]
@@ -556,7 +514,6 @@ Rxc1 35. Qxc1 Qc6 36. Qxc6 Bxc6 37. Nc4 Bxa4 38. Nxa5 Nc6 39. Nxc6 1/2-1/2
 [Opening "Queen's pawn game"]
 [WhiteFideId "4101588"]
 [BlackFideId "4168119"]
-[EventDate "2019.08.04"]
 
 1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 Nc6 5. cxd5 exd5 6. Bf4 Bd6 7. Bg3 Nf6 8. e3
 Ne7 9. Bh4 Ne4 10. Bd3 c6 11. Qc2 Qa5 12. Bxe7 Bxe7 13. O-O Nxc3 14. Bxf5 Nb5
@@ -568,7 +525,6 @@ c3 35. Rxc3 Rd1+ 36. Kf2 Qd8 37. Kg3 Rd2 38. Qb3 Rg7+ 39. Kh3 Rgxg2 40. Qf7 f5 0
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.05"]
 [Round "5.3"]
 [White "Kramnik,V"]
 [Black "Gelfand,B"]
@@ -582,7 +538,6 @@ c3 35. Rxc3 Rd1+ 36. Kf2 Qd8 37. Kg3 Rd2 38. Qb3 Rg7+ 39. Kh3 Rgxg2 40. Qf7 f5 0
 [Variation "ultra-symmetrical variation"]
 [WhiteFideId "4101588"]
 [BlackFideId "2805677"]
-[EventDate "2019.08.04"]
 
 1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. h4 Nf6 6. a3 O-O 7. d3 b6 8. Rb1 Bb7
 9. b4 d6 10. Nh3 Qd7 11. Nf4 Ne5 12. Kf1 e6 13. h5 Rad8 14. bxc5 dxc5 15. hxg6
@@ -593,7 +548,6 @@ Bxd4 Qg3+ 29. Kf1 Ba6+ 0-1
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.06"]
 [Round "7.2"]
 [White "Kramnik,V"]
 [Black "Grischuk,A"]
@@ -607,7 +561,6 @@ Bxd4 Qg3+ 29. Kf1 Ba6+ 0-1
 [Variation "four knights, Capablanca variation"]
 [WhiteFideId "4101588"]
 [BlackFideId "4126025"]
-[EventDate "2019.08.04"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. e4 Nf6 7. Be2 Bc5 8. Be3
 Bb6 9. h3 Nh5 10. Qd2 Bxe3 11. fxe3 Ng3 12. Rg1 O-O 13. Bd1 Be6 14. Ba4 Nb4 15.

@@ -5,7 +5,6 @@
 [BlackFideId "8603677"]
 [Result "1-0"]
 [Round "2-6"]
-[Date "Sun Dec 08 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:00"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "8603677"]
 [Result "1-0"]
 [Round "2-8"]
-[Date "Sun Dec 08 2019"]
 [WhiteClock "0:01:27"]
 [BlackClock "0:00:04"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "2900084"]
 [Result "1-0"]
 [Round "1-03"]
-[Date "Fri Dec 13 2019"]
 [WhiteClock "0:14:22"]
 [BlackClock "0:03:40"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "316385"]
 [Result "1-0"]
 [Round "04"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:05:28"]
 [BlackClock "0:00:31"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "4130804"]
 [Result "1-0"]
 [Round "06"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:01:38"]
 [BlackClock "0:00:00"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "4162080"]
 [Result "1-0"]
 [Round "04"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:54"]
 [BlackClock "0:00:08"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "14"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:22"]
 [BlackClock "0:00:04"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "2285525"]
 [Result "1-0"]
 [Round "12"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:03"]
 [BlackClock "0:00:00"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "13401319"]
 [Result "1-0"]
 [Round "09"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:09:10"]
 [BlackClock "0:01:43"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "25092340"]
 [Result "1-0"]
 [Round "17"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:01:52"]
 [BlackClock "0:00:00"]
 
@@ -150,7 +140,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.10"]
 [Round "1"]
 [White "Vachier Lagrave,M"]
 [Black "Ducarmon,Q"]
@@ -160,7 +149,6 @@
 [BlackTeam "Amsterdam Mosquitoes"]
 [BlackTitle "IM"]
 [ECO "B11"]
-[EventDate "2019.01.08"]
 [Opening "Caro-Kann"]
 [Variation "two knights, 3...Bg4"]
 [WhiteElo "2780"]
@@ -177,7 +165,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.10"]
 [Round "1"]
 [White "Vachier Lagrave,M"]
 [Black "Klein,Da"]
@@ -187,7 +174,6 @@
 [BlackTeam "Amsterdam Mosquitoes"]
 [BlackTitle "GM"]
 [ECO "C67"]
-[EventDate "2019.01.08"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence, open variation"]
 [WhiteElo "2780"]
@@ -208,7 +194,6 @@
 
 [Event "Gibraltar Masters 2019"]
 [Site "Caleta ENG"]
-[Date "2019.01.24"]
 [Round "3.17"]
 [White "Vachier Lagrave,M"]
 [Black "Onabogun,K"]
@@ -216,7 +201,6 @@
 [BlackElo "2189"]
 [BlackFideId "8500410"]
 [ECO "A07"]
-[EventDate "2019.01.22"]
 [Opening "Reti"]
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteElo "2780"]
@@ -237,7 +221,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.17"]
 [Round "2"]
 [White "Vachier Lagrave,M"]
 [Black "Kollars,Dmitrij"]
@@ -247,7 +230,6 @@
 [BlackTeam "Baden-Baden Snowballs"]
 [BlackTitle "GM"]
 [ECO "C55"]
-[EventDate "2019.01.08"]
 [Opening "Two knights defence (Modern bishop's opening)"]
 [WhiteElo "2780"]
 [WhiteFideId "623539"]
@@ -280,7 +262,6 @@
 [BlackElo "2787"]
 [Result "1/2-1/2"]
 [Round "01"]
-[Date "Tue Mar 17 2020"]
 [WhiteClock "0:05:20"]
 [BlackClock "0:01:29"]
 
@@ -297,7 +278,6 @@
 [BlackElo "2747"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Sat Mar 21 2020"]
 [WhiteClock "0:19:07"]
 [BlackClock "0:06:09"]
 
@@ -314,7 +294,6 @@
 [BlackElo "2770"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:07:53"]
 [BlackClock "0:06:32"]
 
@@ -332,7 +311,6 @@
 [BlackElo "2770"]
 [Result "1/2-1/2"]
 [Round "02-04"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:01:14"]
 [BlackClock "0:01:24"]
 
@@ -350,7 +328,6 @@
 [BlackElo "2770"]
 [Result "1/2-1/2"]
 [Round "01-03"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:11:53"]
 [BlackClock "0:09:09"]
 
@@ -368,7 +345,6 @@
 [BlackElo "2770"]
 [Result "1/2-1/2"]
 [Round "02-02"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:04:00"]
 [BlackClock "0:04:20"]
 
@@ -386,7 +362,6 @@
 [BlackElo "2770"]
 [Result "1/2-1/2"]
 [Round "01-01"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:09:45"]
 [BlackClock "0:08:37"]
 
@@ -404,7 +379,6 @@
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "10"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:00:10"]
 [BlackClock "0:01:06"]
 
@@ -422,7 +396,6 @@
 [BlackElo "2736"]
 [Result "1/2-1/2"]
 [Round "02"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:02:07"]
 [BlackClock "0:03:45"]
 
@@ -440,7 +413,6 @@
 [BlackElo "2767"]
 [Result "1/2-1/2"]
 [Round "06"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:00:09"]
 [BlackClock "0:01:40"]
 
@@ -458,7 +430,6 @@
 [BlackElo "2767"]
 [Result "1/2-1/2"]
 [Round "04-03"]
-[Date "Thu Dec 31 2020"]
 [WhiteClock "0:06:52"]
 [BlackClock "0:00:58"]
 

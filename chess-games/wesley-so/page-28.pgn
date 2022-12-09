@@ -1,6 +1,5 @@
 [Event "6th Sinquefield Cup 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.27"]
 [Round "9.1"]
 [White "So, W."]
 [Black "Caruana, F."]
@@ -9,7 +8,6 @@
 [WhiteElo "2780"]
 [BlackElo "2822"]
 [PlyCount "70"]
-[EventDate "2018.08.18"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -25,7 +23,6 @@ Re4 Kd7 28. Kc2 Bd6 29. a4 a6 30. Bc3 b5 31. Bb2 Re6 32. Bc3 Re8 33. Bb2 Re6
 
 [Event "Sinquefield GCT TB 2018"]
 [Site "Saint Louis USA"]
-[Date "2018.08.28"]
 [Round "1"]
 [White "So, W."]
 [Black "Caruana, F."]
@@ -34,7 +31,6 @@ Re4 Kd7 28. Kc2 Bd6 29. a4 a6 30. Bc3 b5 31. Bb2 Re6 32. Bc3 Re8 33. Bb2 Re6
 [WhiteElo "2780"]
 [BlackElo "2822"]
 [PlyCount "66"]
-[EventDate "2018.08.28"]
 [EventType "match (rapid)"]
 [EventRounds "2"]
 [EventCountry "USA"]
@@ -49,7 +45,6 @@ Nxa2 21. Ra1 Nb4 22. Rxa7 Nc6 23. Ra1 bxc5 24. e3 h6 25. Bf1 Bxf1 26. Kxf1 Rb5
 
 [Event "Tata Steel India Rapid"]
 [Site "Kolkata IND"]
-[Date "2018.11.09"]
 [Round "3.3"]
 [White "So, Wesley"]
 [Black "Karjakin, Sergey"]
@@ -57,7 +52,6 @@ Nxa2 21. Ra1 Nb4 22. Rxa7 Nc6 23. Ra1 bxc5 24. e3 h6 25. Bf1 Bxf1 26. Kxf1 Rb5
 [WhiteElo "2765"]
 [BlackElo "2753"]
 [ECO "C65"]
-[EventDate "2018.11.09"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Qe7 7. Bg5 h6
 8. Bh4 Bg4 9. h3 Bxf3 10. Qxf3 g5 11. Bg3 O-O-O 12. Nd2 Nd7 13. Qf5 f6 14.
@@ -74,7 +68,6 @@ Rxb2 Rxb2 57. Kxb2 Ke5 58. c5 Kxe4 59. Kc3 Kd5 60. Kd3 Kxc5 61. Kc3
 
 [Event "Tata Steel India Rapid"]
 [Site "Kolkata IND"]
-[Date "2018.11.11"]
 [Round "7.5"]
 [White "So, Wesley"]
 [Black "Mamedyarov, Shakhriyar"]
@@ -82,7 +75,6 @@ Rxb2 Rxb2 57. Kxb2 Ke5 58. c5 Kxe4 59. Kc3 Kd5 60. Kd3 Kxc5 61. Kc3
 [WhiteElo "2765"]
 [BlackElo "2817"]
 [ECO "A27"]
-[EventDate "2018.11.09"]
 
 1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Nxc6 bxc6 7. g3 
 Ne7 8. Bg2 O-O 9. O-O d6 10. Bg5 Be6 11. Qd3 Rb8 12. b3 c5 13. Rad1 h6 14.
@@ -94,7 +86,6 @@ Nd7 27. Ne4 Nxe5 28. Nxc5 Bxh3 29. Bxe5 Bxe5 30. Qxf7+ Kh6 31. Rxe5 Rxe5
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "1.2"]
 [White "So, Wesley"]
 [Black "Anand, Viswanathan"]
@@ -102,7 +93,6 @@ Nd7 27. Ne4 Nxe5 28. Nxc5 Bxh3 29. Bxe5 Bxe5 30. Qxf7+ Kh6 31. Rxe5 Rxe5
 [WhiteElo "2765"]
 [BlackElo "2773"]
 [ECO "C83"]
-[EventDate "2018.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
  dxe5 Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nb3 Qd7 13. Qe1 Bf7 14. 
@@ -115,7 +105,6 @@ Ra1 Be7 39. Ra5 Bd8 40. Ra1 Be7 1/2-1/2
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "13.2"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -123,7 +112,6 @@ Ra1 Be7 39. Ra5 Bd8 40. Ra1 Be7 1/2-1/2
 [WhiteElo "2765"]
 [BlackElo "2746"]
 [ECO "C67"]
-[EventDate "2018.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Rxe8+ Nxe8 12. d5 b6 13. Nd2 
@@ -133,7 +121,6 @@ Bb7 14. Ne4 Be7 15. c3 Nd6 16. Ng3 Bg5 17. c4 Rc8 18. b3 Qf6 19. Bxg5 Qxg5
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "3.1"]
 [White "So, Wesley"]
 [Black "Praggnanandhaa, R"]
@@ -141,7 +128,6 @@ Bb7 14. Ne4 Be7 15. c3 Nd6 16. Ng3 Bg5 17. c4 Rc8 18. b3 Qf6 19. Bxg5 Qxg5
 [WhiteElo "2765"]
 [BlackElo "2530"]
 [ECO "A21"]
-[EventDate "2018.11.13"]
 
 1. c4 e5 2. Nc3 Bb4 3. Nd5 Bc5 4. Nf3 c6 5. Nc3 d6 6. g3 Nf6 7. d4 exd4 8.
  Nxd4 O-O 9. Bg2 h6 10. O-O Nbd7 11. b3 Ne5 12. Bb2 Bb6 13. Qd2 Re8 14. 
@@ -156,7 +142,6 @@ Rd2 b6 33. cxb6 Bxb6 34. Kg2 Be3 35. Rd1 Rxd1 36. Nxd1 Ba7 37. Bc4 N8d7
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "18.5"]
 [White "So, Wesley"]
 [Black "Karjakin, Sergey"]
@@ -164,7 +149,6 @@ Rd2 b6 33. cxb6 Bxb6 34. Kg2 Be3 35. Rd1 Rxd1 36. Nxd1 Ba7 37. Bc4 N8d7
 [WhiteElo "2765"]
 [BlackElo "2753"]
 [ECO "A28"]
-[EventDate "2018.11.13"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 Bxc3 6. Qxc3 Qe7 7. b3 d5 
 8. d4 Ne4 9. Qb2 Be6 10. Be2 Qb4+ 11. Nd2 exd4 12. exd4 Qc3 13. f3 Qxb2 
@@ -179,7 +163,6 @@ Ng3 51. Be5 Nxe2 52. Kxe2 1/2-1/2
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "15.3"]
 [White "So, Wesley"]
 [Black "Aronian, Levon"]
@@ -187,7 +170,6 @@ Ng3 51. Be5 Nxe2 52. Kxe2 1/2-1/2
 [WhiteElo "2765"]
 [BlackElo "2765"]
 [ECO "A28"]
-[EventDate "2018.11.13"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 Bxc3 6. Qxc3 Qe7 7. d4 Ne4
 8. Qd3 exd4 9. Nxd4 O-O 10. Be2 Qb4+ 11. Kf1 Qe7 12. f3 Nc5 13. Qd2 d6 14.
@@ -206,7 +188,6 @@ Qd8 27. Bc3 Be6 28. h4 f6 29. g4 Bf7 30. h5 Ne6 31. Qg3 Qb8 32. Qxb8+ Rxb8
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "11.1"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -214,7 +195,6 @@ Qd8 27. Bc3 Be6 28. h4 f6 29. g4 Bf7 30. h5 Ne6 31. Qg3 Qb8 32. Qxb8+ Rxb8
 [WhiteElo "2765"]
 [BlackElo "2702"]
 [ECO "A35"]
-[EventDate "2018.11.13"]
 
 1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. d4 cxd4 6. Nxd4 dxc4 7. Nxc6 
 Qxd1+ 8. Nxd1 bxc6 9. Bg2 Nd5 10. Ne3 e6 11. Nxc4 Ba6 12. Na5 Rc8 13. Bd2 
@@ -230,7 +210,6 @@ Kf3 56. Re7 1/2-1/2
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.24"]
 [Round "5.7"]
 [White "So, Wesley"]
 [Black "Melkumyan, Hrant"]
@@ -238,7 +217,6 @@ Kf3 56. Re7 1/2-1/2
 [WhiteElo "2776"]
 [BlackElo "2660"]
 [ECO "A28"]
-[EventDate "2018.10.20"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 Re8 7. Qf5 Be7 
 8. Nxe5 Nb4 9. Nxb4 Bxb4 10. Nf3 d5 11. Qd3 Bf8 12. Be2 c5 13. O-O b6 14. 
@@ -249,7 +227,6 @@ Qc3 Qf6 21. Qxf6 gxf6 22. Nh4 Nc2 23. Bc4 Ree8 24. Bb5 Re6 25. Bc4 Ree8
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.26"]
 [Round "7.10"]
 [White "So, Wesley"]
 [Black "Sevian, Samuel"]
@@ -257,7 +234,6 @@ Qc3 Qf6 21. Qxf6 gxf6 22. Nh4 Nc2 23. Bc4 Ree8 24. Bb5 Re6 25. Bc4 Ree8
 [WhiteElo "2776"]
 [BlackElo "2634"]
 [ECO "A28"]
-[EventDate "2018.10.20"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 Bxc3 6. bxc3 d6 7. e4 O-O 
 8. g3 h6 9. Bg2 Be6 10. d3 Qc8 11. h3 Ne7 12. Nh4 Ng6 13. Nf5 Bxf5 14. 
@@ -268,7 +244,6 @@ Qg6+ 26. Kh2 Qd6+ 27. Kg2 Qg6+ 28. Kh2 1/2-1/2
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.27"]
 [Round "8.10"]
 [White "So, Wesley"]
 [Black "Shirov, Alexei"]
@@ -276,7 +251,6 @@ Qg6+ 26. Kh2 Qd6+ 27. Kg2 Qg6+ 28. Kh2 1/2-1/2
 [WhiteElo "2776"]
 [BlackElo "2636"]
 [ECO "D13"]
-[EventDate "2018.10.20"]
 
 1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 a6 7. Rc1 Nh5 
 8. Bd2 Nf6 9. a3 Ne4 10. Bf4 e6 11. e3 g5 12. Nxe4 gxf4 13. Nc5 fxe3 14. 
@@ -288,7 +262,6 @@ Rg2+ 32. Kd1 Rxd2+ 33. Kxd2 Bxc4 34. Rxc4 Bxa3 35. bxa3 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.13"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -296,7 +269,6 @@ Rg2+ 32. Kd1 Rxd2+ 33. Kxd2 Bxc4 34. Rxc4 Bxa3 35. bxa3 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "B13"]
-[EventDate "2018.07.24"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bb5 e6 6. Ne5 Bd7 7. Nxd7 
 Qxd7 8. O-O a6 9. Be2 Bd6 10. c3 Nf6 11. Nd2 O-O 12. a4 e5 13. dxe5 Nxe5 
@@ -312,7 +284,6 @@ Qxd7 8. O-O a6 9. Be2 Bd6 10. c3 Nf6 11. Nd2 O-O 12. a4 e5 13. dxe5 Nxe5
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.1"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -320,7 +291,6 @@ Qxd7 8. O-O a6 9. Be2 Bd6 10. c3 Nf6 11. Nd2 O-O 12. a4 e5 13. dxe5 Nxe5
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "C83"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
  dxe5 Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nb3 Qd7 13. a4 b4 14. Nbd4
@@ -332,7 +302,6 @@ Rc1 Nc5 21. Ba3 Nxa4 22. Qxa4 c5 23. Qxd7 Bxd7 24. e6 Bb5 25. Nxf5 Bg5 26.
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.15"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -340,7 +309,6 @@ Rc1 Nc5 21. Ba3 Nxa4 22. Qxa4 c5 23. Qxd7 Bxd7 24. e6 Bb5 25. Nxf5 Bg5 26.
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "E04"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. dxc5 Qxd1 
 8. Rxd1 Bxc5 9. Nfd2 Na5 10. Na3 Bxa3 11. bxa3 Bd7 12. Bb2 Rc8 13. Bc3 b6 
@@ -353,7 +321,6 @@ Bxc6 38. Nxc6 g4 1/2-1/2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.09"]
 [Round "2.5"]
 [White "So, Wesley"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -361,7 +328,6 @@ Bxc6 38. Nxc6 g4 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2718"]
 [ECO "E04"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. dxc5 Qxd1 
 8. Rxd1 Bxc5 9. Nbd2 c3 10. bxc3 O-O 11. Nb3 Be7 12. Nfd4 Bd7 13. Nxc6 
@@ -376,7 +342,6 @@ Ka3 Kxg5 50. Kxa4 Kf4 51. Kb5 Ke3 52. Kxc5 Kxd3 1/2-1/2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.1"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -384,7 +349,6 @@ Ka3 Kxg5 50. Kxa4 Kf4 51. Kb5 Ke3 52. Kxc5 Kxd3 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "B52"]
-[EventDate "2018.07.24"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 g6 7. d4 
 cxd4 8. Nxd4 Bg7 9. Nde2 Nf6 10. O-O Qe6 11. Nd5 Qxe4 12. Nc7+ Kd7 13. 
@@ -404,7 +368,6 @@ Kxd5 Nxh6 79. Kxc4 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.10"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -412,7 +375,6 @@ Kxd5 Nxh6 79. Kxc4 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "B80"]
-[EventDate "2018.07.24"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f3 O-O 
 8. Qd2 Nc6 9. O-O-O d5 10. Be2 dxe4 11. Nxc6 bxc6 12. Qxd8 Rxd8 13. Rxd8+ 
@@ -429,7 +391,6 @@ Ke2 Bf7 45. Bd2 Bb3 46. Be3 Bxe3 47. Kxe3 Ba4 48. Kd2 Bb5 49. Bxb5 cxb5
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.7"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -437,7 +398,6 @@ Ke2 Bf7 45. Bd2 Bb3 46. Be3 Bxe3 47. Kxe3 Ba4 48. Kd2 Bb5 49. Bxb5 cxb5
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "E04"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Bd7 8. 
 Qe2 b5 9. b3 cxb3 10. axb3 Be7 11. Bd2 O-O 12. Rc1 Nb4 13. Ne5 Nfd5 14. 
@@ -447,7 +407,6 @@ Ra1 Qd7 21. Ra5 Qc7 22. Ra1 Qd7 1/2-1/2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.11.30"]
 [Round "3.5"]
 [White "So, Wesley"]
 [Black "Duda, Jan-Krzysztof"]
@@ -455,7 +414,6 @@ Ra1 Qd7 21. Ra5 Qc7 22. Ra1 Qd7 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2737"]
 [ECO "B80"]
-[EventDate "2018.07.24"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f3 O-O 
 8. Qd2 Nc6 9. O-O-O d5 10. Be2 dxe4 11. Nxc6 bxc6 12. Qxd8 Rxd8 13. Rxd8+ 
@@ -472,7 +430,6 @@ Kb4 Rc1 57. Ka5 Ra1+ 58. Kb4 Rb1+ 59. Kc5 Rc1+ 60. Kb4 Rb1+ 61. Kc5 Rc1+
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.20"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -480,7 +437,6 @@ Kb4 Rc1 57. Ka5 Ra1+ 58. Kb4 Rb1+ 59. Kc5 Rc1+ 60. Kb4 Rb1+ 61. Kc5 Rc1+
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 h6 8. 
 Nbd2 a5 9. Nf1 Ne7 10. Bb3 Ng6 11. d4 Bb6 12. Ng3 Re8 13. h3 c6 14. Bc2 
@@ -496,7 +452,6 @@ Kc3 56. Ra8 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.18"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -504,7 +459,6 @@ Kc3 56. Ra8 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 h6 8. 
 Nbd2 a5 9. Nf1 Ne7 10. Ng3 Ng6 11. d4 exd4 12. cxd4 Bb4 13. Re2 d5 14. 
@@ -517,7 +471,6 @@ Qf4+ 38. Kh1 Qf1+ 39. Kh2 Qf4+ 40. Kh1 1/2-1/2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.2"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -525,7 +478,6 @@ Qf4+ 38. Kh1 Qf1+ 39. Kh2 Qf4+ 40. Kh1 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 O-O 8. 
 h3 Be6 9. Bxe6 fxe6 10. b4 Ba7 11. Re1 Qd7 12. Be3 Bxe3 13. Rxe3 Ne7 14. 
@@ -537,7 +489,6 @@ b5 axb5 21. axb5 Rf7 22. Qb3 Nf4 23. dxe5 dxe5 24. Kh2 Qe6 25. Qxe6 Rxe6
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.02"]
 [Round "4.22"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -545,7 +496,6 @@ b5 axb5 21. axb5 Rf7 22. Qb3 Nf4 23. dxe5 dxe5 24. Kh2 Qe6 25. Qxe6 Rxe6
 [WhiteElo "2780"]
 [BlackElo "2777"]
 [ECO "C54"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 h6 8. 
 Nbd2 Be6 9. b4 Bb6 10. Bxe6 fxe6 11. Nc4 Ne7 12. h3 c6 13. a4 Bc7 14. Ne3 

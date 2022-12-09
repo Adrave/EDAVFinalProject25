@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Costagliola Marina (FRA)"]
@@ -21,7 +20,6 @@ Bh5 14.Re1 f6 15.Bb3+ Kh8 16.Ba3 Qd7 17.Qd3 Bf7 18.Bxf7 Rxf7
 
 [Event "It (cat.19)"]
 [Site "Dortmund (Germany)"]
-[Date "1999.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -42,7 +40,6 @@ Bf8 25.Bh3 Nd4 26.Nxd4 Rxd4 27.R3e2 Rdc4 28.Bf1 Rc2 29.Qa6 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dortmund (Germany)"]
-[Date "1999.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -63,7 +60,6 @@ Bc7 25.Rd1 Ng5 26.Nf1 Rxd1 27.Qxd1 Qc4 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dortmund (Germany)"]
-[Date "1999.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -87,7 +83,6 @@ dxc4 37.Rd5 Rb2 38.Kf1 Ra6 39.Rxb5 Raa2 40.Rb7+ Kg8 41.Rc7 Rxc2
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1999.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -112,7 +107,6 @@ Qf6 42.Qe4 Kg7 43.Rd1 Rxd1 44.Bxd1 Qa1 45.Qc2 Qd4 46.Bf3 Bc4
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1999.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -136,7 +130,6 @@ a3 1/2-1/2
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1999.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -159,7 +152,6 @@ bxc5 32.bxc5 Ba6 33.Qa4 Ra8 34.Qc2 Rfb8 35.Na2 Bb5 36.Nc3 Ba6
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -183,7 +175,6 @@ Rc8 36.Be3 Kf6 37.Rb7 Be5 38.hxg4 hxg4 39.f3 gxf3+ 40.Kxf3 Kg6
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -204,7 +195,6 @@ Rd8 25.Qe2 Rd6 26.Qf3 Rd8 1/2-1/2
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -227,7 +217,6 @@ Qxf3 31.Rxf3 fxe5 32.dxe5 Rg6 33.Rf5 g4 34.Rd7 Rc8 35.Bd4 Rc2
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -251,7 +240,6 @@ Kg6 43.Bf4 Bg7 44.Bd6 f5 45.g4 Bh6 46.Bf4 Bg7 47.Be5 Bh6 48.Bf4 1/2-1/2
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -270,7 +258,6 @@ Nxc5 14.b4 Nce4 15.Nxe4 Bxe4 16.Qd2 Be7 17.Bb2 Rc8 18.Qxd8 1/2-1/2
 
 [Event "It (active) (cat.21)"]
 [Site "Frankfurt (Germany)"]
-[Date "1999.??.??"]
 [Round "12"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -294,7 +281,6 @@ Bh4+ 42.Kf1 Bf6 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -317,7 +303,6 @@ Qa2+ 36.Kc1 Qa3+ 37.Kc2 Qa4+ 38.Kc1 Qa1+ 39.Kc2 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sadvakasov Darmen (KAZ)"]
@@ -347,7 +332,6 @@ g3 75.Kh6 Rf6+ 76.Kh7 Rf7+ 1/2-1/2
 
 [Event "Match"]
 [Site "Leon (Spain)"]
-[Date "1999.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -371,7 +355,6 @@ Rg1+ 37.Rf1 Rxf1+ 38.Kxf1 Rd8 39.Ke1 Kh7 40.Kf2 Rd3 41.Ke2 Rxe3+
 
 [Event "Match"]
 [Site "Leon (Spain)"]
-[Date "1999.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -393,7 +376,6 @@ Qd5 25.Rad1 a5 26.Qxd5 R4xd5 27.Re4 Re8 28.Bc3 f6 29.e6 Rxf5
 
 [Event "Match"]
 [Site "Leon (Spain)"]
-[Date "1999.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -417,7 +399,6 @@ Bxd4 43.Bf1 Qe5 44.Bxc4 Bxf2+ 45.Kg2 h3+ 46.Kf1 0-1
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -439,7 +420,6 @@ Rb5 20.Ne3 Re8 21.Ba4 Rxe5 22.Qxe5 Nxd5 23.Qe4 Nxe3 24.Qxe3 Ra5
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bellaiche Anthony (FRA)"]
@@ -448,7 +428,6 @@ Rb5 20.Ne3 Re8 21.Ba4 Rxe5 22.Qxe5 Nxd5 23.Qe4 Nxe3 24.Qxe3 Ra5
 [WhiteElo "2700"]
 [BlackElo "2099"]
 [PlyCount "73"]
-[EventDate "1999.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. Qd2
 Nbd7 9. d5 cxd5 10. cxd5 a6 11. O-O-O b5 12. b3 Nb6 13. Kb2 Bd7 14. g4 Qc7 15.
@@ -460,7 +439,6 @@ Rc8+ Rxc8 35. Qxc8+ Bf8 36. g6 Kg7 37. gxh7 1-0
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Desportes Gerard (FRA)"]
@@ -469,7 +447,6 @@ Rc8+ Rxc8 35. Qxc8+ Bf8 36. g6 Kg7 37. gxh7 1-0
 [WhiteElo "2700"]
 [BlackElo "2037"]
 [PlyCount "41"]
-[EventDate "1999.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 a5 6. Bg2 Bb7 7. O-O O-O 8. Bg5
 d5 9. c5 a4 10. a3 Ba5 11. Qxa4 bxc5 12. dxc5 h6 13. Bxf6 Qxf6 14. Qc2 c6 15.
@@ -479,7 +456,6 @@ Nbd2 Nd7 16. Rfd1 Bc7 17. b4 Ba6 18. Bf1 Ne5 19. a4 Ng4 20. Rab1 Rab8 21. e4
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Grandmougin Olivier (FRA)"]
@@ -488,7 +464,6 @@ Nbd2 Nd7 16. Rfd1 Bc7 17. b4 Ba6 18. Bf1 Ne5 19. a4 Ng4 20. Rab1 Rab8 21. e4
 [WhiteElo "2700"]
 [BlackElo "2130"]
 [PlyCount "70"]
-[EventDate "1999.??.??"]
 
 1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. e3 e5 5. d4 d6 6. d5 Ne7 7. e4 g6 8. Bd3 Bg7
 9. h3 a6 10. Be3 Bd7 11. a4 O-O 12. g4 Ne8 13. a5 f5 14. g5 b5 15. axb6 Qxb6
@@ -500,7 +475,6 @@ Rxf5 29. Ng3 Rf7 30. Nxh5 Nc7 31. Ng3 e4 32. Nxe4 Be5 33. Rh4 Raf8 34. Ra3 Ne8
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Mallet Lionel (FRA)"]
@@ -509,7 +483,6 @@ Rxf5 29. Ng3 Rf7 30. Nxh5 Nc7 31. Ng3 e4 32. Nxe4 Be5 33. Rh4 Raf8 34. Ra3 Ne8
 [WhiteElo "2700"]
 [BlackElo "2051"]
 [PlyCount "109"]
-[EventDate "1999.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. Nf3 Ne7 7. Bg5 Ba6 8. Bxa6
 Nxa6 9. O-O h6 10. Bxe7 Qxe7 11. a3 g6 12. Qf4 Bg7 13. Ne2 O-O 14. Qe3 c5 15.
@@ -524,7 +497,6 @@ Kxf2 Bxb4 54. hxg4 Kf7 55. Rc6 1-0
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Pellaton Bernard (FRA)"]
@@ -533,7 +505,6 @@ Kxf2 Bxb4 54. hxg4 Kf7 55. Rc6 1-0
 [WhiteElo "2700"]
 [BlackElo "2144"]
 [PlyCount "45"]
-[EventDate "1999.??.??"]
 
 1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3 b6 7. b3 Bb7 8.
 Bb2 d6 9. e3 c5 10. Be2 Nbd7 11. Rg1 e5 12. g4 Ne4 13. Qc2 Ng5 14. Nxg5 Qxg5
@@ -543,7 +514,6 @@ Nf8 22. Bh5 Ng6 23. Bxg6 1-0
 
 [Event "Simultan"]
 [Site "Besancon (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vanobbergh Gregory (FRA)"]
@@ -552,7 +522,6 @@ Nf8 22. Bh5 Ng6 23. Bxg6 1-0
 [WhiteElo "2700"]
 [BlackElo "2098"]
 [PlyCount "47"]
-[EventDate "1999.??.??"]
 
 1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
 cxd4 Bb4+ 9. Bd2 Qa5 10. Rb1 Bxd2+ 11. Qxd2 Qxd2+ 12. Kxd2 b6 13. Bb5+ Bd7 14.

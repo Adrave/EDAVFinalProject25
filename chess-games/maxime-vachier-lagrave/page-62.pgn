@@ -1,6 +1,5 @@
 [Event "Ch France (team) 2006"]
 [Site "France"]
-[Date "2006.02.03"]
 [Round "1"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Edouard Romain (FRA)"]
@@ -27,7 +26,6 @@ Rh5 60.Kf4 Kxa6 61.Kg4 Rh8 62.h5 Kb6 63.h6 1-0
 
 [Event "Ch France (team) 2006"]
 [Site "France"]
-[Date "2006.02.05"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Moracchini Fabrice (FRA)"]
@@ -49,7 +47,6 @@ Bc5 31.Rh3+ Kg8 32.Qh4 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2006.02.09"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Akobian Varuzhan (USA)"]
@@ -75,7 +72,6 @@ Rc6 49.Qe8 Qd1+ 50.Rf3 Rc2 51.Qd8 Ka7 52.Nc5 Nxc5 53.dxc5 Rxc5
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2006.02.16"]
 [Round "9"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Timofeev Artyom (RUS)"]
@@ -100,7 +96,6 @@ fxe6 41.Nxe6+ Kg4 42.c4 Bxh4 43.c5 Kf5 44.Nd4+ Kg4 45.c6 Bg3
 
 [Event "Ch France (team) 2006"]
 [Site "France"]
-[Date "2006.05.05"]
 [Round "9"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Vallin Guillaume (FRA)"]
@@ -121,7 +116,6 @@ Ne6 20.Bd2 Ng7 21.Bh3 O-O 22.Kf2 f6 23.Re1 fxe5 24.dxe5 Bh4+
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.06.04"]
 [Round "13"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Spasov Vasil (BUL)"]
@@ -143,7 +137,6 @@ Qb7 31.Bxd4 Bxe4+ 0-1
 
 [Event "Ch Paris (open)"]
 [Site "Paris (France)"]
-[Date "2006.07.16"]
 [Round "9"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Fridman Daniel (LAT)"]
@@ -169,7 +162,6 @@ Rxe4+ 42.Kd3 Rb4 43.Rf8 Rxb2 44.Ne2 e4+ 45.Ke3 Kd5 46.Rd8+ Ke5
 
 [Event "Ch France"]
 [Site "Besancon (France)"]
-[Date "2006.08.18"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Sokolov Andrei (FRA)"]
@@ -191,7 +183,6 @@ Rc5 25.Bb4 Rxd5 26.Rxd5 Bxd5 27.Re1 a5 28.Ba3 Kd8 29.Qd4 Qb7
 
 [Event "Ch France"]
 [Site "Besancon (France)"]
-[Date "2006.08.23"]
 [Round "9"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Colin Vincent (FRA)"]
@@ -216,7 +207,6 @@ Qf5 49.a6 Bxd2 50.a7 1-0
 
 [Event "Match \"France-China\""]
 [Site "Paris (France)"]
-[Date "2006.09.05"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Yu Shaoteng (CHN)"]
@@ -239,7 +229,6 @@ Ng4+ 20.Qxg4 hxg4 21.Bxc7 Ba7 22.Re4 gxh3 23.g3 Rc8 24.Be5 f6
 
 [Event "Match \"France-China\""]
 [Site "Paris (France)"]
-[Date "2006.09.07"]
 [Round "4"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Zhang Pengxiang (CHN)"]
@@ -264,7 +253,6 @@ Rc1+ 42.Kf2 Ba2 43.g5+ Kg6 44.c6 h6 45.Re6+ Kh5 46.gxh6 gxh6
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2006.09.16"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Gashimov Vugar (AZE)"]
@@ -289,7 +277,6 @@ Rxh6 48.Rxf2 Kd4 49.d6 Kc5 50.d7 Rh8 51.Rd2 Rd8 52.a7 1-0
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2006.09.18"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Wang Yue (CHN)"]
@@ -311,7 +298,6 @@ Rf1+ 31.Kg2 R8f2+ 32.Kg3 Rf3+ 33.Kh4 Rh1 34.g5 Rfxh3+ 0-1
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2006.09.18"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Wang Yue (CHN)"]
@@ -334,7 +320,6 @@ Re7 37.g4 Rd7 38.g5 1-0
 
 [Event "Ch France (team) 2006"]
 [Site "France"]
-[Date "2006.04.02"]
 [Round "7"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Clement Olivier (FRA)"]
@@ -343,7 +328,6 @@ Re7 37.g4 Rd7 38.g5 1-0
 [WhiteElo "2576"]
 [BlackElo "2101"]
 [PlyCount "68"]
-[EventDate "2006.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. Nd5 Nf6 6. Nxe7 Qxe7 7. d3 d6 8. c3
 O-O 9. Bg5 Be6 10. Bb5 Rfc8 11. O-O a6 12. Ba4 b5 13. Bc2 Bg4 14. h3 Bh5 15.
@@ -355,7 +339,6 @@ a4 Nc7 1-0
 
 [Event "ch-FRA"]
 [Site "Aix-les-Bains FRA"]
-[Date "2007.08.22"]
 [Round "9"]
 [White "Vachier Lagrave, M."]
 [Black "Nataf, IA."]
@@ -364,7 +347,6 @@ a4 Nc7 1-0
 [WhiteElo "2595"]
 [BlackElo "2588"]
 [PlyCount "43"]
-[EventDate "2007.08.13"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
 Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Bxf6 Bxf6 12. c3 O-O 13. Nc2 Rb8 14. a4 bxa4
@@ -374,7 +356,6 @@ Rxb2 21. O-O Qb7 22. Rxd6 1/2-1/2
 
 [Event "ch-FRA"]
 [Site "Aix-les-Bains FRA"]
-[Date "2007.08.24"]
 [Round "11"]
 [White "Vachier Lagrave, M."]
 [Black "Dorfman, J."]
@@ -383,14 +364,12 @@ Rxb2 21. O-O Qb7 22. Rxd6 1/2-1/2
 [WhiteElo "2595"]
 [BlackElo "2584"]
 [PlyCount "13"]
-[EventDate "2007.08.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. c3 1/2-1/2
 
 
 [Event "ch-FRA Playoff"]
 [Site "Aix-les-Bains FRA"]
-[Date "2007.08.25"]
 [Round "2"]
 [White "Vachier Lagrave, M."]
 [Black "Tkachiev, V."]
@@ -399,7 +378,6 @@ Rxb2 21. O-O Qb7 22. Rxd6 1/2-1/2
 [WhiteElo "2595"]
 [BlackElo "2655"]
 [PlyCount "51"]
-[EventDate "2007.08.25"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
 Nxd4 Be7 9. Bxe7 Nxe7 10. Nc3 Bd7 11. Nb3 O-O-O 12. Qh5 Ng6 13. Rad1 Qe7 14.
@@ -410,7 +388,6 @@ Nc6 21. Rxd6 cxd6 22. Nd5 b5 23. Nf4 Kd7 24. Ke3 Nb4 25. Kd2 g5 26. Nxe6
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.01"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Areshchenko, A."]
@@ -419,7 +396,6 @@ Nc6 21. Rxd6 cxd6 22. Nd5 b5 23. Nf4 Kd7 24. Ke3 Nb4 25. Kd2 g5 26. Nxe6
 [WhiteElo "2634"]
 [BlackElo "2638"]
 [PlyCount "65"]
-[EventDate "2007.10.28"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
 O-O 9. O-O Nc6 10. Re1 h6 11. Nd5 Nxd5 12. Bxd5 Nb4 13. Bb3 Be6 14. c3 Nc6 15.
@@ -430,7 +406,6 @@ d5 22. Nf3 Bf6 23. Bc5 Rfe8 24. b4 Qc8 25. Rb6 Rxb6 26. Bxb6 Qb7 27. Bc5 Nd8
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.06"]
 [Round "9"]
 [White "Vachier Lagrave, M."]
 [Black "Gashimov, V."]
@@ -439,7 +414,6 @@ d5 22. Nf3 Bf6 23. Bc5 Rfe8 24. b4 Qc8 25. Rb6 Rxb6 26. Bxb6 Qb7 27. Bc5 Nd8
 [WhiteElo "2634"]
 [BlackElo "2664"]
 [PlyCount "47"]
-[EventDate "2007.10.28"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nc6
 8. Qd2 Bg4 9. Be2 Qd7 10. h3 Be6 11. O-O-O a6 12. Ng5 Bxg5 13. Bxg5 f6 14. Be3
@@ -449,7 +423,6 @@ O-O-O 15. b3 Rhe8 16. Rhe1 Bf5 17. g4 Be4 18. f3 Bg6 19. Bf2 Re7 20. Bf1 Rde8
 
 [Event "TCh-FRA Top 16 GpA"]
 [Site "Marseille FRA"]
-[Date "2007.02.09"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Acher, M."]
@@ -458,7 +431,6 @@ O-O-O 15. b3 Rhe8 16. Rhe1 Bf5 17. g4 Be4 18. f3 Bg6 19. Bf2 Re7 20. Bf1 Rde8
 [WhiteElo "2573"]
 [BlackElo "2358"]
 [PlyCount "148"]
-[EventDate "2007.02.09"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. O-O O-O 8. Nbd2
 b5 9. Bb3 Na5 10. Bc2 c5 11. d4 Nd7 12. Re1 exd4 13. cxd4 Nc6 14. d5 Nce5 15.
@@ -476,7 +448,6 @@ Rg7 Kc3 73. Rc7+ Kd4 74. Rg7 Kc3 1/2-1/2
 
 [Event "GpB"]
 [Site "Cap d'Agde FRA"]
-[Date "2006.10.28"]
 [Round "5"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Skripchenko, Almira"]
@@ -484,7 +455,6 @@ Rg7 Kc3 73. Rc7+ Kd4 74. Rg7 Kc3 1/2-1/2
 [WhiteElo "2579"]
 [BlackElo "2427"]
 [ECO "B30"]
-[EventDate "2006.10.27"]
 
 1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d6 5. Bg2 Nf6 6. O-O Be7 7. Re1 O-O 8. 
 Nbd2 Bd7 9. c3 Rc8 10. a3 b5 11. b4 a5 12. bxc5 dxc5 13. e5 Nd5 14. Ne4 b4
@@ -495,7 +465,6 @@ Kf7 27. Bg6+ 1-0
 
 [Event "GpB"]
 [Site "Cap d'Agde FRA"]
-[Date "2006.10.29"]
 [Round "7"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Zhao, Xue"]
@@ -503,7 +472,6 @@ Kf7 27. Bg6+ 1-0
 [WhiteElo "2579"]
 [BlackElo "2467"]
 [ECO "C69"]
-[EventDate "2006.10.27"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 
 8. Be3 Qe7 9. Nbd2 O-O-O 10. Qc2 Re8 11. dxe5 fxe5 12. c4 Bxf3 13. Nxf3 c5
@@ -519,7 +487,6 @@ b3 56. a7 Kb7 57. a8=Q+ Kxa8 58. Kd7 Rf7 59. Kc8 1-0
 
 [Event "Corus B"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.14"]
 [Round "2"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Sargissian, Gabriel"]
@@ -527,7 +494,6 @@ b3 56. a7 Kb7 57. a8=Q+ Kxa8 58. Kd7 Rf7 59. Kc8 1-0
 [WhiteElo "2573"]
 [BlackElo "2658"]
 [ECO "C69"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 
 8. Be3 Ne7 9. Nbd2 O-O 10. Qc2 Kh8 11. h3 Be6 12. c4 Ng6 13. c5 Be7 14. 
@@ -538,7 +504,6 @@ Qxe4 Rxe4 27. Ng3 Re8 28. Rd7 Re7 29. Rd8 Re8 30. Rd7 Re7 31. Rd8 1/2-1/2
 
 [Event "Corus B"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.28"]
 [Round "13"]
 [White "Vachier-Lagrave, Maxime"]
 [Black "Georgiev, Vladimir"]
@@ -546,7 +511,6 @@ Qxe4 Rxe4 27. Ng3 Re8 28. Rd7 Re7 29. Rd8 Re8 30. Rd7 Re7 31. Rd8 1/2-1/2
 [WhiteElo "2573"]
 [BlackElo "2525"]
 [ECO "C78"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bb3 d6 8. 
 a4 Bg4 9. h3 Bxf3 10. Qxf3 Na5 11. Bc2 b4 12. d3 Rb8 13. Nd2 O-O 14. Re1 

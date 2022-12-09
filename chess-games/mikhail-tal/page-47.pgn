@@ -1,6 +1,5 @@
 [Event "Match \"BRD-URS\""]
 [Site "Hamburg (Germany)"]
-[Date "1960.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Darga Klaus (GER)"]
@@ -21,7 +20,6 @@ Nxe5 20.Bxb7 Rab8 21.Bd5 Rb6 22.Rae1 Nd7 23.Qe7 c4 24.Kh1 Rxb2
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -42,7 +40,6 @@ Nxe5 20.Bxb7 Rab8 21.Bd5 Rb6 22.Rae1 Nd7 23.Qe7 c4 24.Kh1 Rxb2
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -66,7 +63,6 @@ Qd3+ 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bronstein David I (RUS)"]
@@ -89,7 +85,6 @@ Rxc3 31.Qxa7 Rxe3 32.Rxe3 Ra8 33.Rc3 Qe4 34.Qc7 Rxa2 35.Rc1 Qxd4
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kots Yu (UKR)"]
@@ -119,7 +114,6 @@ Kb6 70.Rb4 Rh2+ 71.Kd3 Rh3+ 72.Ke2 Ka5 73.Rc4 Rb3 74.Kd2 Rh3
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lein Anatoly (USA)"]
@@ -149,7 +143,6 @@ f5 77.gxf5 Nxf5 78.Bc6 Nh4 79.Kd3 Kf4 80.Ke2 Ng6 81.Kf2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -171,7 +164,6 @@ cxd3 31.Rxd3 Qg5 1/2-1/2
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "11"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -194,7 +186,6 @@ Qf2 1/2-1/2
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -213,7 +204,6 @@ Qxg4+ 14.Kh2 Qh5+ 15.Kg2 Qg4+ 16.Kh2 1/2-1/2
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Trifunovic Petar (YUG)"]
@@ -234,7 +224,6 @@ Bxd5 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "4"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -258,7 +247,6 @@ Kd7 36.Nc5+ Ke7 37.Re1 Ra3+ 38.Kc4 Rc3+ 39.Kb5 Re3 40.Ra1 Bxh2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -279,7 +267,6 @@ Qxc4 20.Nd4 Be7 21.Rhd3 Qc7 22.Qe2 Qb6 23.Qg4 Qc7 24.Qe2 Qb6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -302,7 +289,6 @@ Kd6 38.Ne5 Bf5 39.Nf7+ Kd7 40.Nxg5 Ne7 41.f4 Nc6 42.Nf3 Kd6 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "14"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -324,7 +310,6 @@ bxc6 24.Ra3 Rd7 25.Ra6 Rb8 26.Ng3 Rxb2 27.Nf5+ Kf6 28.Nxh6 Rdd2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "16"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -356,7 +341,6 @@ Qb1 76.a6+ Kxa6 77.Qc6+ Ka7 78.Qd7+ Kb8 79.Qxe6 Qa1+ 80.Kb3 Qd1+
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "18"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -379,7 +363,6 @@ Rc8 32.g5 hxg5+ 33.Kxg5 exf5 34.Bxf5 Rc6 35.Kf4 Rh6 36.Bg4 Rc6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "20"]
 [White "Tal Mikhail (LAT)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -417,7 +400,6 @@ Kc8 119.Kd2 Rf3 120.Kc2 Kd8 121.Rf8+ Kc7 1/2-1/2
 
 [Event "Tournament"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -438,7 +420,6 @@ f5 25.Nc5 Nxc5 26.Bxc5+ Kd8 27.Re1 Rd5 28.b4 Kd7 1/2-1/2
 
 [Event "Tournament"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -463,7 +444,6 @@ Nxc4 42.Kxg4 Nxe5+ 43.Kxh3 Kd5 44.Kh4 Kc4 45.Bd6 Nf7 46.Bc7 g6
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Filip Miroslav (CZE)"]
@@ -485,7 +465,6 @@ Bg4 31.Bb3+ Kh8 32.Re1 Rd8 33.Qh6 Be6 34.Qe3 a5 35.Qe2 c6 36.Rd1 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Schmid Wolfgang (GER)"]
@@ -507,7 +486,6 @@ Rd8 31.b4 Rf7 32.Kg2 1/2-1/2
 
 [Event "It"]
 [Site "Stockholm (Sweden)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Johannessen Svein (NOR)"]
@@ -531,7 +509,6 @@ Kf8 1/2-1/2
 
 [Event ""]
 [Site "URS"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Barstatis Reinhardas (LTU)"]
@@ -555,14 +532,12 @@ Nb5 42.Rg3 Kb4 43.Rxb3+ Kxb3 0-1
 
 [Event "Bled"]
 [Site "Bled YUG"]
-[Date "1961.09.05"]
 [Round "3"]
 [White "Mikhail Tal"]
 [Black "Fridrik Olafsson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B48"]
-[EventDate "1961.09.03"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -578,14 +553,12 @@ Nb5 42.Rg3 Kb4 43.Rxb3+ Kxb3 0-1
 
 [Event "Bled"]
 [Site "Bled YUG"]
-[Date "1961.09.23"]
 [Round "13"]
 [White "Mikhail Tal"]
 [Black "Bruno Parma"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B36"]
-[EventDate "1961.09.03"]
 [PlyCount "57"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1928.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -25,7 +24,6 @@ Nb2 48.e6 Rxf4+ 49.Kxf4 Nd3+ 50.Kf5 Nxe1 51.f7+ Ke7 52.Kg6 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1928.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -47,7 +45,6 @@ Kh7 31.e7 Re8 32.Rc1 Kh6 33.Ne6 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1928.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -67,7 +64,6 @@ Kxg7 20.f6+ Nxf6 21.exf6+ Kxf6 22.Nh5# 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1928.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -90,7 +86,6 @@ Rxc8 37.Rxd6 Rc5 38.Rc6 Rxc6 39.bxc6 Ke7 40.c5 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -111,7 +106,6 @@ Ke8 25.Qg8+ 1-0
 
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Mieses Jacques (GER)"]
@@ -134,7 +128,6 @@ Kf8 37.h3 1-0
 
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -160,7 +153,6 @@ Kf5 47.Rc4 g5 48.hxg5 fxg5 49.Rxa4 Rb5 50.Rb4 Ra5 51.Rxb7 h4
 
 [Event "Ch World (amateurs)"]
 [Site "Hague (Netherlands)"]
-[Date "1928.??.??"]
 [Round "14"]
 [White "Euwe Max (NED)"]
 [Black "Carls Carl J M (GER)"]
@@ -182,7 +174,6 @@ Kh8 30.Qg5 1-0
 
 [Event "Ch Netherlands"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Davidson Jacques"]
@@ -205,7 +196,6 @@ Rc8 36.a6 Nc4 37.Bd4 Na5 38.Rxf7 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1929.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -228,7 +218,6 @@ Qa7 32.Ng3 Qxc5 33.f5 h4 34.Rxh4 Rxh4 35.f6 Rh2+ 36.Kxh2 Qf2+
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Canal Esteban (PER)"]
@@ -250,7 +239,6 @@ g6 19.Qf2 Rf7 20.Qg3 Ne8 21.Re2 Ba6 22.Rxe6 Bxc4 23.Bxc4 Qxc4
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -276,7 +264,6 @@ Ra8 53.Kf6 Ra6+ 54.Kf5 Ra8 1/2-1/2
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Colle Edgard (BEL)"]
@@ -294,7 +281,6 @@ d6 8.O-O O-O 9.Re1 Nbd7 10.Qc2 e5 11.Nxe5 Bxg2 12.Nxd7 Bh3 13.Nxf8 1-0
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -316,7 +302,6 @@ Kf7 31.Nd6+ Ke7 32.Nc8+ Kf7 33.Nxb6 axb6 34.Ne2 Ke7 35.Nd4 e5 1/2-1/2
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Menchik Vera"]
@@ -340,7 +325,6 @@ Qh8+ 43.Kg3 Qg7+ 44.Kh4 Qh7+ 45.Kg5 Qg7+ 46.Kxf5 Qh7+ 47.Kg4 1-0
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -362,7 +346,6 @@ Ne6 20.Qc3 Ng5 21.Be2 h5 22.Nxg5 Qxg5 23.Qc5 Rde6 24.b5 axb5
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -386,7 +369,6 @@ Qd3 37.Nc1 Qxc4 38.Qb8+ Kh7 39.Qxa7 Nd4 40.Qa3 Qf1 41.Qd3+ Qxd3
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -408,7 +390,6 @@ Red8 30.Ke3 Re8+ 31.Kf4 Red8 32.Ke3 Re8+ 33.Kf4 1/2-1/2
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -433,7 +414,6 @@ Be4 48.Kh5 Ke6 49.Kxh6 Kxe5 50.b7 Bxb7 51.Kxh7 1/2-1/2
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Treybal Karel (CZE)"]
@@ -455,7 +435,6 @@ c5 31.d5 Bxe5 32.dxe6 Re7 33.Qc2 Rxf3 34.gxf3 1-0
 
 [Event "It"]
 [Site "Netherlands"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -478,7 +457,6 @@ Re4 35.Rb3 Rcxc4 36.Rh3+ 1-0
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1930.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Bosch Johannes (NED)"]
@@ -500,7 +478,6 @@ Kg8 30.Qh7+ Kf7 31.Qh5+ Ke7 32.Qxc5+ Qd6 33.Qg5+ Qf6 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -521,14 +498,12 @@ Qd5 25.Qxd5 1/2-1/2
 
 [Event "Hastings 1930/31"]
 [Site "Hastings ENG"]
-[Date "1931.01.01"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "Jose Raul Capablanca"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "1930.12.29"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -541,14 +516,12 @@ Qd5 25.Qxd5 1/2-1/2
 
 [Event "Hastings 1930/31"]
 [Site "Hastings ENG"]
-[Date "1931.01.07"]
 [Round "9"]
 [White "Max Euwe"]
 [Black "George Alan Thomas"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "1930.12.29"]
 [PlyCount "34"]
 [WhiteElo "?"]
 

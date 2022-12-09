@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -26,7 +25,6 @@ Kc3 54.Kxc6 Kxb3 55.Kb5 1-0
 
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "3"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -50,7 +48,6 @@ Qc2+ 42.Ke3 Qd3+ 43.Kf4 g5+ 44.Kxg5 Nf7+ 0-1
 
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "5"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -73,7 +70,6 @@ f5 26.exf6+ Bxf6 27.fxg5 hxg5 28.Be5 d3+ 29.Kh1 Ng6 30.Qxg5 Bf7
 
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "7"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -103,7 +99,6 @@ Rg8 75.Rb5 Re8 76.h7 1-0
 
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "11"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -124,7 +119,6 @@ Rc8 25.Qd6 f6 26.Bh5+ Rg6 27.Bxg6+ hxg6 28.Rxe6+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "13"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -148,7 +142,6 @@ Re3 36.Rf1 Re6 37.Rxf4 Qd1+ 38.Kg2 b6 39.Qd7 Qe2+ 40.Rf2 Qh5
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Meiners W"]
@@ -172,7 +165,6 @@ Bc4 43.Rc6 h3 44.Rxc4 h2 0-1
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Van Kooij"]
@@ -194,7 +186,6 @@ b5 25.Bf1 Nh5 26.Rxe4 Rxe4 27.Rxe4 Ng3 28.Rf4 Nxf1 29.Rxf1 Rg8
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Blijdensteijn W"]
@@ -214,7 +205,6 @@ Nxf6 19.Rxf8+ Ne8 20.g7 1-0
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Broderson"]
@@ -236,7 +226,6 @@ Rg8 30.Rd8 1-0
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Oskam Gerard"]
@@ -256,7 +245,6 @@ h5 19.Nb5 c5 20.Rxc5 1-0
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steffelaar M"]
@@ -278,7 +266,6 @@ hxg2 20.Nc3 Qe5 21.Bf3 Qxe3 22.Nxd5 Qe6 23.Re2 Qh3 24.Be5 Rde8
 
 [Event "Ch World (match)"]
 [Site "Paris (France)"]
-[Date "1909.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Janowski Dawid M (POL)"]
@@ -302,7 +289,6 @@ Kd5 36.Ke2 Kc4 37.Ra3 Rg8 38.Kf3 Rg4 39.Ra4 Nd2+ 40.Kf2 Ne4+
 
 [Event "Match"]
 [Site "Paris (France)"]
-[Date "1909.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Janowski Dawid M (POL)"]
@@ -332,7 +318,6 @@ Ke8 77.Rxd6 Nd4 0-1
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Forgacs Leo (HUN)"]
@@ -355,7 +340,6 @@ Qxe4 37.Qd3 Qd5 38.Qxg6 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "4"]
 [White "Lasker Emanuel (GER)"]
 [Black "Freiman Sergey Nikolaevich"]
@@ -381,7 +365,6 @@ Qf2 52.Qd6+ Kg7 53.Qd4+ Qxd4+ 54.Kxd4 g5 55.Kc5 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "6"]
 [White "Lasker Emanuel (GER)"]
 [Black "Salwe Georg"]
@@ -409,7 +392,6 @@ Rff2 59.Rb7+ Kg6 60.Rc6+ Rf6 61.Rxc5 Ra6 62.a4 Rf6 63.Rc3 a6
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "19"]
 [White "Lasker Emanuel (GER)"]
 [Black "Teichmann Richard (GER)"]
@@ -430,7 +412,6 @@ Qh6 26.e7 Bxe7 27.Bxf4 Qe6 28.Rxg7+ 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "11"]
 [White "Lasker Emanuel (GER)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -450,7 +431,6 @@ Nc4 14.Bxc4 bxc4 15.h5 c6 16.Bxg7 Kxg7 17.hxg6 fxg6 18.Nde2 Rf7
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1909.??.??"]
 [Round "8"]
 [White "Lasker Emanuel (GER)"]
 [Black "Znosko-Borovsky Eugene"]
@@ -474,14 +454,12 @@ Nxc4 42.Rb4 1-0
 
 [Event "Lasker - Janowski"]
 [Site "Paris FRA"]
-[Date "1909.10.19"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "David Janowski"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C87"]
-[EventDate "1909.05.12"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -497,14 +475,12 @@ Nxc4 42.Rb4 1-0
 
 [Event "Lasker - Janowski"]
 [Site "Paris FRA"]
-[Date "1909.05.20"]
 [Round "4"]
 [White "Emanuel Lasker"]
 [Black "David Janowski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "1909.05.12"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -520,14 +496,12 @@ Nxc4 42.Rb4 1-0
 
 [Event "Lasker - Janowski"]
 [Site "Paris FRA"]
-[Date "1909.10.22"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "David Janowski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "1909.05.12"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -542,14 +516,12 @@ Nxc4 42.Rb4 1-0
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg RUE"]
-[Date "1909.02.25"]
 [Round "8"]
 [White "Emanuel Lasker"]
 [Black "Eugene Aleksandrovich Znosko-Borovsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "1909.02.15"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -565,14 +537,12 @@ Nxc4 42.Rb4 1-0
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg RUE"]
-[Date "1909.03.12"]
 [Round "19"]
 [White "Emanuel Lasker"]
 [Black "Richard Teichmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C86"]
-[EventDate "1909.02.15"]
 [PlyCount "54"]
 [WhiteElo "?"]
 

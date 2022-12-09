@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "14"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Castillo Larenas Mariano (CHI)"]
@@ -28,7 +27,6 @@ Qh4 48.Qf3 Nf6 49.Nxe8 Ng4+ 50.Kg2 Rxe8 51.Bxg4 fxg4 52.Qg3 Qxh5
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Cordova H"]
@@ -48,7 +46,6 @@ Qb7 19.h4 b5 20.Qb3 f6 21.Bh6 Kf7 22.Rc1 Rg8 23.Bf4 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Eliskases Erich G (AUT)"]
@@ -73,7 +70,6 @@ Rfc8 19.Rxc7 Rxc7 20.Qb5 Nd7 21.Nxd7 Rxd7 22.Re8+ Kh7 23.h4 a6
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lopez Arce Alberto"]
@@ -94,7 +90,6 @@ Rde8 19.Bf4 Qd4 20.Bg3 Ncd5 21.axb5 Nb4 22.Qc3 Nfd5 23.Qxd4 cxd4
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Amores A"]
@@ -118,7 +113,6 @@ Rd8 42.Kd3 Rd6 43.Rxg3+ Kf6 1-0
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Araujo Pereira A"]
@@ -140,7 +134,6 @@ Qxe5 31.Qxd2+ Qe3+ 32.Qxe3+ dxe3 33.Re1 Re6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Arrais"]
@@ -166,7 +159,6 @@ Re5 54.Rf8 Nc7 55.a4 b4 56.Rf7 Rc5 57.Rf4+ Ke3 58.Re4+ Kd2 59.Re2+ 1-0
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Batoreu"]
@@ -187,7 +179,6 @@ Qf8 19.Nh6+ gxh6 20.Qxf6 Qg7 21.Qh4 Qg5 22.Re4 Qxh4 23.Rxh4 Bxc4
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Braumann P"]
@@ -215,7 +206,6 @@ Kxe5 63.b8Q+ Ke4 64.Qf8 Qa6+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Cruz Abdou JM"]
@@ -239,7 +229,6 @@ fxg5 31.Bxc5 Bxg2 32.Kxg2 Rxc5 33.Ne4 Re5 34.Nd6 Rf8 35.f4 gxf4
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "De Carvalho A"]
@@ -260,7 +249,6 @@ Bxd5 20.Rxd5 f6 21.Qg4 Rfd8 22.Bh6 Bf8 23.Ne3 Kh8 24.Rxd8 Qxd8
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Ferreira"]
@@ -282,7 +270,6 @@ Nxc1 25.Rxc1 f6 26.Kh2 Kf7 27.Qe6+ Kg7 28.Rg1 Rg8 29.Be4 Kh6
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fuchs"]
@@ -305,7 +292,6 @@ gxf5 31.Nd6 Ng6 32.Nxf5+ Kh8 33.h4 Qb8 34.h5 N6e7 35.Nd6 Nd5
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kaldeira"]
@@ -326,7 +312,6 @@ Nxc4 25.Qxc4+ Rc6 26.Qb3 b6 27.a5 Bg5 28.axb6 axb6 29.Nxb6+ 1-0
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Macedo"]
@@ -349,7 +334,6 @@ Ra7 37.Rd1 1-0
 
 [Event "Simultan"]
 [Site "Lisbon (Portugal)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Pires AM"]
@@ -375,7 +359,6 @@ Rb1 47.Nxg6+ Kxd4 48.Ne5 a5 49.Nf3+ Kc3 50.Ne5 a4 51.Re8 Ra5
 
 [Event "It"]
 [Site "Krakow (Poland)"]
-[Date "1941.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Carls Carl J M (GER)"]
@@ -399,7 +382,6 @@ Ke7 42.Kf1 Kd6 43.Ke2 Ra3 1/2-1/2
 
 [Event "It"]
 [Site "Krakow (Poland)"]
-[Date "1941.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nowarra Heinz"]
@@ -429,7 +411,6 @@ Kb6 69.Kf6 Re8 70.Kf5 Red8 71.Qg6+ Kc5 72.Qf7 Kb6 73.Qe6+ Kb7
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "12"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fuster Geza (CAN)"]
@@ -453,7 +434,6 @@ Rc2 36.Rxc6 Rxc4 37.Ra6 Rc1 38.Kf4 c4 39.Ke5 c3 40.Rxa7+ Kg6
 
 [Event "It"]
 [Site "Munich (Germany)"]
-[Date "1941.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lundin Erik (SWE)"]
@@ -480,14 +460,12 @@ Rxf4 58.Rxh6 Kd7 59.Rg6 Rf1 60.Ra6 1/2-1/2
 
 [Event "Blindfold simul, 8b"]
 [Site "Estoril POR"]
-[Date "1940.01.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Goncalves"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "1940.01.24"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -501,14 +479,12 @@ Rxf4 58.Rxh6 Kd7 59.Rg6 Rf1 60.Ra6 1/2-1/2
 
 [Event "Blindfold simul, 8b"]
 [Site "Estoril POR"]
-[Date "1940.01.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Francisco Lupi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E34"]
-[EventDate "1940.01.24"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -523,14 +499,12 @@ Rxf4 58.Rxh6 Kd7 59.Rg6 Rf1 60.Ra6 1/2-1/2
 
 [Event "Blindfold simul, 8b"]
 [Site "Estoril POR"]
-[Date "1940.01.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Joao Mario Ribeiro"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B73"]
-[EventDate "1940.01.24"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -542,14 +516,12 @@ Rxf4 58.Rxh6 Kd7 59.Rg6 Rf1 60.Ra6 1/2-1/2
 
 [Event "Munich"]
 [Site "Munich GER"]
-[Date "1941.09.19"]
 [Round "14"]
 [White "Alexander Alekhine"]
 [Black "Bjorn Nielsen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C86"]
-[EventDate "1941.09.08"]
 [PlyCount "140"]
 [WhiteElo "?"]
 
@@ -570,14 +542,12 @@ Rxf4 58.Rxh6 Kd7 59.Rg6 Rf1 60.Ra6 1/2-1/2
 
 [Event "2nd General Government"]
 [Site "Krakow POL"]
-[Date "1941.10.17"]
 [Round "10"]
 [White "Alexander Alekhine"]
 [Black "Heinz Nowarra"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E08"]
-[EventDate "1941.10.06"]
 [PlyCount "154"]
 [WhiteElo "?"]
 

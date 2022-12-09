@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -23,7 +22,6 @@ Kg2 36.Kf5 Kf3 37.e6 1-0
 
 [Event ""]
 [Site "Dubna (Russia)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Mista Ladislav (CZE)"]
@@ -45,7 +43,6 @@ Nxh5 31.Qh6 a5 32.Rg1 a4 33.d5 exd5 34.Rxg6+ fxg6 35.Bxd5+ 1-0
 
 [Event "It"]
 [Site "Halle (Germany)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fichtl Jiri (CZE)"]
@@ -68,7 +65,6 @@ Ng6 26.Ne2 Ra8 27.Rc3 Nf4 28.Nxf4 Bxf4 29.Rc7 Bg5 30.f4 Bxf4
 
 [Event "It"]
 [Site "Halle (Germany)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Knaak Rainer (GER)"]
@@ -88,7 +84,6 @@ g6 19.g4 Qc6 20.f6 d5 21.Re7 h6 22.Qe5 d4 23.Ne2 Rd5 24.Nxd4 1-0
 
 [Event "It"]
 [Site "Halle (Germany)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Liebert Heinz (GER)"]
@@ -117,7 +112,6 @@ c3 69.Qf4+ Kxe2 70.f7 c2 71.f8Q Qe6+ 72.Kg3 Qg6+ 73.Qg4+ 1-0
 
 [Event "It"]
 [Site "Halle (Germany)"]
-[Date "1974.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Paehtz Thomas (GER)"]
@@ -137,7 +131,6 @@ Kxf8 19.Bf3 d5 20.Bxd5 Rb8 21.Re1 Be6 22.Rxe6 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1974.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hartston William R (ENG)"]
@@ -158,7 +151,6 @@ Rd7 20.Bb6 Qc8 21.Ne4 Bxe4 22.Bxe4 h5 23.Qh6 Ng7 24.Rxf7 Rxf7
 
 [Event "It"]
 [Site "Milan (Italy)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -180,7 +172,6 @@ Be6 30.a3 1/2-1/2
 
 [Event ""]
 [Site "Milan (Italy)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -201,7 +192,6 @@ Qc7 20.Rea1 Rab8 21.Qe3 Nfd7 22.Bh6 Bh8 23.Nh2 Bc8 24.axb5 axb5
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -228,7 +218,6 @@ Kh7 59.Kc4 Kh8 60.h6 Kh7 61.Rh2 Kxh6 62.h5 Kg7 63.h6+ Kh7 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Byrne Robert E (USA)"]
@@ -249,7 +238,6 @@ Qxb7 25.Qxc4 Rd8 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hort Vlastimil (GER)"]
@@ -270,7 +258,6 @@ bxc6 8.h3 Bxf3 9.Qxf3 Qd7 10.e5 Nh6 11.O-O-O O-O 12.Rhe1 Kh8
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -291,7 +278,6 @@ Qc7 25.axb6 axb6 26.Red1 Nh7 27.Qb3 Bc8 28.f3 Nf6 29.Qc3 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "5"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -310,7 +296,6 @@ Re8 14.Ng3 Bf8 15.b4 Ncd7 16.Bb3 h6 17.Nh4 1/2-1/2
 
 [Event "Memorial A.Alekhine"]
 [Site "Moscow (Russia)"]
-[Date "1975.??.??"]
 [Round "7"]
 [White "Tal Mikhail (LAT)"]
 [Black "Planinec Albin (SLO)"]
@@ -329,7 +314,6 @@ Nb4 14.Nxd4 Nxa2 15.Nf5 Nxc1 16.Nxe7+ Rxe7 17.Qxc1 Re6 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -349,7 +333,6 @@ Rad8 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "19"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -369,7 +352,6 @@ Bb7 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Spassky Boris V (FRA)"]
@@ -393,7 +375,6 @@ Rc4 36.Kd3 Rc3+ 37.Kd2 Rc4 38.Rb6 Bd4 39.Rb8+ Kf7 40.Rb7+ Kf6
 
 [Event "Olympiad URS"]
 [Site "Riga (Latvia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -415,7 +396,6 @@ Red8 25.Rxa7 Qd7 26.Na4 Nd5 27.Qg3 Qc7 28.Nc5 Bc8 29.Ne5 Rf6
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Alburt Lev O (USA)"]
@@ -437,7 +417,6 @@ g6 25.Bxb7 Rb8 26.Bd5 Rb1 27.Ree1 Rb2 28.Bxe6 fxe6 29.a3 Rb3
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -458,7 +437,6 @@ h6 25.Rcd2 Bg5 26.Rc2 Bf6 27.Rcd2 Bg5 28.Rc2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Geller Efim P (RUS)"]
@@ -480,7 +458,6 @@ Bxf1 31.Bxf1 Qxd5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -502,7 +479,6 @@ Qxg2+ 31.Kxg2 Bxf6 32.Ra1 Ra8 33.Rxa8 Nxa8 34.Nf3 Nb6 35.Kf1 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -524,7 +500,6 @@ Ra1 25.Bxb7 Re8 26.Rf1 Be4 27.Bxe4 Rxe4 28.Rxe4 Nxe4 29.Be3 Ra4
 
 [Event "Ch URS"]
 [Site "Yerevan (Armenia)"]
-[Date "1975.??.??"]
 [Round "15"]
 [White "Tal Mikhail (LAT)"]
 [Black "Vaganian Rafael A (ARM)"]

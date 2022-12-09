@@ -1,6 +1,5 @@
 [Event "VIII Dos Hermanas Internet"]
 [Site "ICC INT"]
-[Date "2007.03.23"]
 [Round "1.2"]
 [White "Mamedyarov, S."]
 [Black "Babujian, L."]
@@ -9,7 +8,6 @@
 [WhiteElo "2754"]
 [BlackElo "2416"]
 [PlyCount "113"]
-[EventDate "2007.03.23"]
 
 1. d4 Nf6 2. Bg5 e6 3. Nf3 b6 4. e4 h6 5. Bxf6 Qxf6 6. Bd3 Bb7 7. Qe2 Nc6 8. c3
 g6 9. Nbd2 Bg7 10. h4 Qe7 11. Ba6 Bxa6 12. Qxa6 O-O 13. Qe2 d5 14. exd5 exd5
@@ -25,7 +23,6 @@ Rc1+ 52. Kd5 Rd1+ 53. Ke6 Re1+ 54. Kf7 Rf1+ 55. Ke8 Re1+ 56. Re7 Rd1 57. d7+
 
 [Event "VIII Dos Hermanas Internet"]
 [Site "ICC INT"]
-[Date "2007.03.23"]
 [Round "2.2"]
 [White "Mamedyarov, S."]
 [Black "Smeets, J."]
@@ -34,7 +31,6 @@ Rc1+ 52. Kd5 Rd1+ 53. Ke6 Re1+ 54. Kf7 Rf1+ 55. Ke8 Re1+ 56. Re7 Rd1 57. d7+
 [WhiteElo "2754"]
 [BlackElo "2538"]
 [PlyCount "93"]
-[EventDate "2007.03.23"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. dxc5 Nxc5 13. Nxc5 Bxc5 14. O-O h6 15.
@@ -48,7 +44,6 @@ Qd7+ Kc5 47. Qxe6 1-0
 
 [Event "VIII Dos Hermanas Internet"]
 [Site "ICC INT"]
-[Date "2007.03.24"]
 [Round "3.4"]
 [White "Mamedyarov, S."]
 [Black "Petrosian, TL."]
@@ -57,7 +52,6 @@ Qd7+ Kc5 47. Qxe6 1-0
 [WhiteElo "2754"]
 [BlackElo "2592"]
 [PlyCount "133"]
-[EventDate "2007.03.23"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
 O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Rc1 Bf8 13. Qa4 Bd7 14. Rfd1 Nb4
@@ -74,7 +68,6 @@ Re1 60. Rb7 Re6 61. f5 gxf5 62. Rb6 Rxb6 63. e8=Q Rf6 64. Qd8 Re6 65. Qxa5 Kg5
 
 [Event "II Rapid"]
 [Site "Canada de Calatrava ESP"]
-[Date "2007.04.06"]
 [Round "2"]
 [White "Mamedyarov, S."]
 [Black "Panelo, M."]
@@ -83,7 +76,6 @@ Re1 60. Rb7 Re6 61. f5 gxf5 62. Rb6 Rxb6 63. e8=Q Rf6 64. Qd8 Re6 65. Qxa5 Kg5
 [WhiteElo "2757"]
 [BlackElo "2392"]
 [PlyCount "152"]
-[EventDate "2007.04.06"]
 
 1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nc3 d6 6. Qd2 c6 7. f4 e5 8. dxe5
 dxe5 9. f5 Bb4 10. Nf3 Nd7 11. a3 Ba5 12. Bd3 Qe7 13. b4 Bb6 14. Na4 O-O 15. g4
@@ -101,7 +93,6 @@ Be4 66. Rc5+ Kf4 67. Nc4 Ra2+ 68. Kb4 h4 69. Nd6 Rb2+ 70. Ka5 Ra2+ 71. Kb5 Rb2+
 
 [Event "II Rapid"]
 [Site "Canada de Calatrava ESP"]
-[Date "2007.04.07"]
 [Round "4"]
 [White "Mamedyarov, S."]
 [Black "Malakhatko, V."]
@@ -110,7 +101,6 @@ Be4 66. Rc5+ Kf4 67. Nc4 Ra2+ 68. Kb4 h4 69. Nd6 Rb2+ 70. Ka5 Ra2+ 71. Kb5 Rb2+
 [WhiteElo "2757"]
 [BlackElo "2598"]
 [PlyCount "89"]
-[EventDate "2007.04.06"]
 
 1. d4 d5 2. Nf3 Nf6 3. Bg5 c6 4. e3 Bf5 5. Bxf6 exf6 6. Bd3 Be6 7. O-O f5 8.
 Nbd2 g6 9. c4 Bg7 10. Qb3 Qb6 11. Qa3 Bf8 12. Qa4 Nd7 13. c5 Qc7 14. b4 Bg7 15.
@@ -123,7 +113,6 @@ Nc5 Bg6 41. Rfb2 h4 42. Rb6 Qe7 43. Re6 Qc7 44. Rxf6 Bf7 45. Rxf7 1-0
 
 [Event "MTel"]
 [Site "Sofia BUL"]
-[Date "2007.05.10"]
 [Round "1"]
 [White "Mamedyarov, S."]
 [Black "Kamsky, G."]
@@ -132,7 +121,6 @@ Nc5 Bg6 41. Rfb2 h4 42. Rb6 Qe7 43. Re6 Qc7 44. Rxf6 Bf7 45. Rxf7 1-0
 [WhiteElo "2757"]
 [BlackElo "2705"]
 [PlyCount "75"]
-[EventDate "2007.05.10"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bg4 5. f3 Be6 6. Nge2 dxc4 7. Nf4 Qc8 8. e4
 g6 9. g4 Bg7 10. h4 h6 11. b3 cxb3 12. axb3 Nbd7 13. Nxe6 fxe6 14. e5 Qc7 15.
@@ -144,7 +132,6 @@ Qb6 28. Bg2 Rc5 29. Rc4 Rb5 30. f5 gxf5 31. gxf5 Rd6 32. Kc2 Qa7 33. Kb2 Re5
 
 [Event "MTel"]
 [Site "Sofia BUL"]
-[Date "2007.05.12"]
 [Round "3"]
 [White "Mamedyarov, S."]
 [Black "Topalov, V."]
@@ -153,7 +140,6 @@ Qb6 28. Bg2 Rc5 29. Rc4 Rb5 30. f5 gxf5 31. gxf5 Rd6 32. Kc2 Qa7 33. Kb2 Re5
 [WhiteElo "2757"]
 [BlackElo "2772"]
 [PlyCount "59"]
-[EventDate "2007.05.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 Nd7 8. e4
 dxe4 9. Nxe4 Qf4 10. Bd3 e5 11. O-O exd4 12. Nxd4 Nc5 13. Nxc5 Bxc5 14. Rae1+
@@ -164,7 +150,6 @@ Bd6 28. Rd3 Bxh2+ 29. Kxh2 Qxf1 30. Rd7 1-0
 
 [Event "TCh-FRA Top 16"]
 [Site "Montpellier FRA"]
-[Date "2007.05.01"]
 [Round "7"]
 [White "Mamedyarov, S."]
 [Black "Doettling, F."]
@@ -173,7 +158,6 @@ Bd6 28. Rd3 Bxh2+ 29. Kxh2 Qxf1 30. Rd7 1-0
 [WhiteElo "2757"]
 [BlackElo "2539"]
 [PlyCount "51"]
-[EventDate "2007.04.28"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8. Nf3
 Bd6 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Nf6 12. Bd2 Qc7 13. Ne5 c5 14. O-O-O cxd4
@@ -183,7 +167,6 @@ Ne4 Nxe4 22. Qxe4 Rxd2 23. Rxd2 Bb4 24. Rd3 Bxe1 25. Qxe1 Rd8 26. Qe2 1-0
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2008.08.27"]
 [Round "9"]
 [White "Mamedyarov, S."]
 [Black "Kramnik, V."]
@@ -192,7 +175,6 @@ Ne4 Nxe4 22. Qxe4 Rxd2 23. Rxd2 Bb4 24. Rd3 Bxe1 25. Qxe1 Rd8 26. Qe2 1-0
 [WhiteElo "2742"]
 [BlackElo "2788"]
 [PlyCount "43"]
-[EventDate "2008.08.18"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
@@ -202,7 +184,6 @@ d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.29"]
 [Round "6"]
 [White "Mamedyarov, S."]
 [Black "Movsesian, S."]
@@ -211,7 +192,6 @@ d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
 [WhiteElo "2742"]
 [BlackElo "2723"]
 [PlyCount "106"]
-[EventDate "2008.08.29"]
 
 1. d4 e6 2. c4 Bb4+ 3. Nc3 c5 4. Nf3 d5 5. cxd5 exd5 6. dxc5 Nc6 7. Bg5 Nge7 8.
 e3 O-O 9. Be2 Qa5 10. O-O Bxc3 11. bxc3 Qxc5 12. Rc1 Be6 13. Nd4 Ng6 14. Qb3 h6
@@ -226,7 +206,6 @@ Bf3 1/2-1/2
 
 [Event "Tal Memorial Blitz"]
 [Site "Moscow RUS"]
-[Date "2008.08.30"]
 [Round "24"]
 [White "Mamedyarov, S."]
 [Black "Gelfand, B."]
@@ -235,7 +214,6 @@ Bf3 1/2-1/2
 [WhiteElo "2742"]
 [BlackElo "2720"]
 [PlyCount "80"]
-[EventDate "2008.08.29"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 dxc4 8.
 Bxf6 Nxf6 9. Nxc4 Qc7 10. e4 Be7 11. Bd3 O-O 12. O-O b5 13. Ne3 e5 14. d5 b4
@@ -248,7 +226,6 @@ bxa3 Bxa3 1/2-1/2
 
 [Event "24th ECC"]
 [Site "Kallithea GRE"]
-[Date "2008.10.19"]
 [Round "3"]
 [White "Mamedyarov, S."]
 [Black "Gashimov, V."]
@@ -257,7 +234,6 @@ bxa3 Bxa3 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2703"]
 [PlyCount "53"]
-[EventDate "2008.10.17"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Bd6 8.
 Nc3 Nxc3 9. bxc3 O-O 10. Qh5 f5 11. Re1 c6 12. Bg5 Qc7 13. c4 Be8 14. Qh3 dxc4
@@ -268,7 +244,6 @@ Nc3 Nxc3 9. bxc3 O-O 10. Qh5 f5 11. Re1 c6 12. Bg5 Qc7 13. c4 Be8 14. Qh3 dxc4
 
 [Event "24th ECC"]
 [Site "Kallithea GRE"]
-[Date "2008.10.22"]
 [Round "6"]
 [White "Mamedyarov, S."]
 [Black "Huzman, A."]
@@ -277,7 +252,6 @@ Nc3 Nxc3 9. bxc3 O-O 10. Qh5 f5 11. Re1 c6 12. Bg5 Qc7 13. c4 Be8 14. Qh3 dxc4
 [WhiteElo "2731"]
 [BlackElo "2590"]
 [PlyCount "130"]
-[EventDate "2008.10.17"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
 Ne5 a5 9. Rg1 g6 10. g4 Be6 11. e4 Bg7 12. f4 O-O 13. Be3 Ne8 14. f5 Bc8 15.
@@ -294,7 +268,6 @@ Kb3 1/2-1/2
 
 [Event "24th ECC"]
 [Site "Kallithea GRE"]
-[Date "2008.10.23"]
 [Round "7"]
 [White "Mamedyarov, S."]
 [Black "Hammer, J."]
@@ -303,7 +276,6 @@ Kb3 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2522"]
 [PlyCount "27"]
-[EventDate "2008.10.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. Rc1
 d5 9. cxd5 Nxd5 10. Nxd5 exd5 11. Bg2 c5 12. O-O Nc6 13. Bc3 Rc8 14. dxc5
@@ -312,7 +284,6 @@ d5 9. cxd5 Nxd5 10. Nxd5 exd5 11. Bg2 c5 12. O-O Nc6 13. Bc3 Rc8 14. dxc5
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.15"]
 [Round "3"]
 [White "Mamedyarov, S."]
 [Black "Smeets, J."]
@@ -321,7 +292,6 @@ d5 9. cxd5 Nxd5 10. Nxd5 exd5 11. Bg2 c5 12. O-O Nc6 13. Bc3 Rc8 14. dxc5
 [WhiteElo "2731"]
 [BlackElo "2604"]
 [PlyCount "95"]
-[EventDate "2008.11.13"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
 g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O 14. Qc2
@@ -335,7 +305,6 @@ Nd5+ Ka8 46. Nc7+ Kb8 47. Nd5+ Ka8 48. Nc7+ 1/2-1/2
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.22"]
 [Round "9"]
 [White "Mamedyarov, S."]
 [Black "Solak, D."]
@@ -344,7 +313,6 @@ Nd5+ Ka8 46. Nc7+ Kb8 47. Nd5+ Ka8 48. Nc7+ 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2595"]
 [PlyCount "120"]
-[EventDate "2008.11.13"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. Nxc4
 O-O 9. Bg5 h6 10. Bh4 c5 11. dxc5 Qxd1+ 12. Kxd1 Nc6 13. e4 Bh7 14. Bf2 Rfd8+
@@ -360,7 +328,6 @@ Kxb7 58. a5 Ka8 59. a6 Ka7 60. Kb3 Kxa6 1/2-1/2
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.25"]
 [Round "11"]
 [White "Mamedyarov, S."]
 [Black "Vachier Lagrave, M."]
@@ -369,7 +336,6 @@ Kxb7 58. a5 Ka8 59. a6 Ka7 60. Kb3 Kxa6 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2716"]
 [PlyCount "80"]
-[EventDate "2008.11.13"]
 
 1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 Bg7 5. e4 d6 6. Nc3 O-O 7. Bg5 h6 8. Be3 e6
 9. Qd2 exd5 10. cxd5 Nbd7 11. Nh3 Nh7 12. Be2 Ne5 13. Nf2 h5 14. O-O f5 15.
@@ -382,7 +348,6 @@ Bxd3 22. Qxd3 Ne5 23. Qc2 h4 24. Nh5 Qd7 25. f4 gxf4 26. Bxf4 Rae8 27. h3 Qf7
 
 [Event "Bundesliga 2008-9"]
 [Site "Emsdetten GER"]
-[Date "2008.11.30"]
 [Round "6"]
 [White "Mamedyarov, S."]
 [Black "Halkias, S."]
@@ -391,7 +356,6 @@ Bxd3 22. Qxd3 Ne5 23. Qc2 h4 24. Nh5 Qd7 25. f4 gxf4 26. Bxf4 Rae8 27. h3 Qf7
 [WhiteElo "2731"]
 [BlackElo "2584"]
 [PlyCount "65"]
-[EventDate "2008.10.03"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bd6 7. Qf3 Ne7 8. Bd3
 O-O 9. Nge2 Bf5 10. Bxf5 Nxf5 11. g4 Nh4 12. Qg3 Be7 13. O-O-O g5 14. Bxb8 Rxb8
@@ -403,7 +367,6 @@ Bxa3 28. Qe6+ Rf7 29. Nxf6+ Kg7 30. Ne8+ Kg8 31. Nf6+ Kg7 32. Nh5+ Kf8 33. Nf6
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.14"]
 [Round "1"]
 [White "Mamedyarov, S."]
 [Black "Grischuk, A."]
@@ -412,7 +375,6 @@ Bxa3 28. Qe6+ Rf7 29. Nxf6+ Kg7 30. Ne8+ Kg8 31. Nf6+ Kg7 32. Nh5+ Kf8 33. Nf6
 [WhiteElo "2731"]
 [BlackElo "2719"]
 [PlyCount "55"]
-[EventDate "2008.12.14"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
 Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Bg5 h6 14. Bh4
@@ -423,7 +385,6 @@ Qd3 Rc3 28. Qe4 1/2-1/2
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.16"]
 [Round "3"]
 [White "Mamedyarov, S."]
 [Black "Bacrot, E."]
@@ -432,7 +393,6 @@ Qd3 Rc3 28. Qe4 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2705"]
 [PlyCount "125"]
-[EventDate "2008.12.14"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
 Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 Qd5+ 14.
@@ -448,7 +408,6 @@ h4 59. b6 h3 60. b7 Kg2 61. b8=Q h2 62. Qg8+ Kh1 63. Qg3 1/2-1/2
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.18"]
 [Round "5"]
 [White "Mamedyarov, S."]
 [Black "Kasimdzhanov, R."]
@@ -457,7 +416,6 @@ h4 59. b6 h3 60. b7 Kg2 61. b8=Q h2 62. Qg8+ Kh1 63. Qg3 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2672"]
 [PlyCount "61"]
-[EventDate "2008.12.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
 cxd5 Nxd5 9. Bd2 Nxc3 10. bxc3 Be7 11. Rb1 Nd7 12. Rxb7 Bxb7 13. Bxb7 Bf6 14.
@@ -468,7 +426,6 @@ Bc1 Kf7 28. Qf3 Kg6 29. Qd3+ Kf7 30. Qf3 Kg6 31. Qd3+ 1/2-1/2
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.20"]
 [Round "6"]
 [White "Mamedyarov, S."]
 [Black "Leko, P."]
@@ -477,7 +434,6 @@ Bc1 Kf7 28. Qf3 Kg6 29. Qd3+ Kf7 30. Qf3 Kg6 31. Qd3+ 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2747"]
 [PlyCount "219"]
-[EventDate "2008.12.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
 Bb7 9. Nd2 Bxc3 10. bxc3 Nxg3 11. hxg3 Qe7 12. e4 d6 13. Bd3 Nd7 14. Nf1 O-O-O
@@ -500,7 +456,6 @@ Bd3 Nc5 106. Be4 Na4 107. Kd2 Kg5 108. Bc2 Nc5 109. Ke3 Nd7 110. Ke4 1/2-1/2
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.22"]
 [Round "8"]
 [White "Mamedyarov, S."]
 [Black "Inarkiev, E."]
@@ -509,7 +464,6 @@ Bd3 Nc5 106. Be4 Na4 107. Kd2 Kg5 108. Bc2 Nc5 109. Ke3 Nd7 110. Ke4 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2669"]
 [PlyCount "102"]
-[EventDate "2008.12.14"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 Nbd7 7. Bd3 g6 8. b4 Qc7
 9. a4 Bb7 10. Bb2 Bg7 11. Ne2 O-O 12. O-O e5 13. Nxe5 Nxe5 14. dxe5 Ng4 15. Nd4
@@ -523,7 +477,6 @@ Re7 35. Kf2 Rf7 36. Qd6 Kg7 37. Kg1 Rf6 38. Qc7 Kh6 39. e4 gxf3 40. gxf3 Rf4
 
 [Event "FIDE Grand Prix"]
 [Site "Elista RUS"]
-[Date "2008.12.27"]
 [Round "12"]
 [White "Mamedyarov, S."]
 [Black "Wang Yue"]
@@ -532,7 +485,6 @@ Re7 35. Kf2 Rf7 36. Qd6 Kg7 37. Kg1 Rf6 38. Qc7 Kh6 39. e4 gxf3 40. gxf3 Rf4
 [WhiteElo "2731"]
 [BlackElo "2736"]
 [PlyCount "70"]
-[EventDate "2008.12.14"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. cxd5 exd5 8. Be2
 Nc6 9. Ne5 Qc7 10. Nxc6 Qxc6 11. O-O cxd4 12. exd4 Bb4 13. Bf4 Bxc3 14. Qxc3
@@ -544,7 +496,6 @@ Nc6 34. Rxa6 Nxd4 35. Bxd4 Rxd4 1/2-1/2
 
 [Event "BL 0809 SF Katernberg - Werder Bremen"]
 [Site "?"]
-[Date "2008.11.30"]
 [Round "6.1"]
 [White "Mamedyarov, Shakhriyar"]
 [Black "Halkias, Stelios"]
@@ -552,7 +503,6 @@ Nc6 34. Rxa6 Nxd4 35. Bxd4 Rxd4 1/2-1/2
 [WhiteElo "2731"]
 [BlackElo "2584"]
 [ECO "D31"]
-[EventDate "2008.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bd6 7. Qf3 Ne7 
 8. Bd3 O-O 9. Nge2 Bf5 10. Bxf5 Nxf5 11. g4 Nh4 12. Qg3 Be7 13. O-O-O g5 

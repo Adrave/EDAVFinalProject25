@@ -1,6 +1,5 @@
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.06.28"]
 [Round "1.4"]
 [White "Vachier Lagrave, M."]
 [Black "Ivanchuk, V."]
@@ -9,7 +8,6 @@
 [WhiteElo "2796"]
 [BlackElo "2738"]
 [PlyCount "75"]
-[EventDate "2017.06.28"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -25,7 +23,6 @@ gxh4 35. g5 Rg8 36. Rh7 Rxg5 37. Rxf7+ Kd8 38. e6 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.02"]
 [Round "13.3"]
 [White "Vachier Lagrave, M."]
 [Black "So, W."]
@@ -34,7 +31,6 @@ gxh4 35. g5 Rg8 36. Rh7 Rxg5 37. Rxf7+ Kd8 38. e6 1-0
 [WhiteElo "2796"]
 [BlackElo "2812"]
 [PlyCount "115"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -53,7 +49,6 @@ Rxc8+ Nxc8 54. b5 Kf8 55. Bb4+ Ke8 56. Bc5 Kd7 57. Bf8 Nd6 58. Bxg7 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.02"]
 [Round "18.2"]
 [White "Vachier Lagrave, M."]
 [Black "Nepomniachtchi, I."]
@@ -62,7 +57,6 @@ Rxc8+ Nxc8 54. b5 Kf8 55. Bb4+ Ke8 56. Bc5 Kd7 57. Bf8 Nd6 58. Bxg7 1-0
 [WhiteElo "2796"]
 [BlackElo "2732"]
 [PlyCount "107"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -81,7 +75,6 @@ Kg7 53. Rf2 Qh5+ 54. Kg2 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.01"]
 [Round "8.3"]
 [White "Vachier Lagrave, M."]
 [Black "Ivanchuk, V."]
@@ -90,7 +83,6 @@ Kg7 53. Rf2 Qh5+ 54. Kg2 1-0
 [WhiteElo "2796"]
 [BlackElo "2738"]
 [PlyCount "107"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -109,7 +101,6 @@ Ba4+ Kb7 54. Bd7 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2017.07.01"]
 [Round "7.2"]
 [White "Vachier Lagrave, M."]
 [Black "Jobava, Ba"]
@@ -118,7 +109,6 @@ Ba4+ Kb7 54. Bd7 1-0
 [WhiteElo "2796"]
 [BlackElo "2707"]
 [PlyCount "122"]
-[EventDate "2017.07.01"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -138,7 +128,6 @@ Bxh4 60. Kc6 Bf2 61. d6 Kd8 1-0
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.04"]
 [Round "1.2"]
 [White "Vachier Lagrave, M."]
 [Black "Khusenkhojaev, Muhammad"]
@@ -147,7 +136,6 @@ Bxh4 60. Kc6 Bf2 61. d6 Kd8 1-0
 [WhiteElo "2804"]
 [BlackElo "2455"]
 [PlyCount "65"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -162,7 +150,6 @@ Rxe2 28. Qg5 Rd5 29. Be4 Bxf2+ 30. Kf1 Be3 31. Kxe2 Bxg5 32. Bxd5 cxd5 33. Rd1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.30"]
 [Round "1.26"]
 [White "Vachier Lagrave, M."]
 [Black "Xiong, Jeffery"]
@@ -171,7 +158,6 @@ Rxe2 28. Qg5 Rd5 29. Be4 Bxf2+ 30. Kf1 Be3 31. Kxe2 Bxg5 32. Bxd5 cxd5 33. Rd1
 [WhiteElo "2795"]
 [BlackElo "2652"]
 [PlyCount "121"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -190,7 +176,6 @@ Ne5 53. Rf4 Rg3 54. Nd4 Rd3 55. Kxg2 Rd2+ 56. Kg3 Rxa2 57. Nf5 Rd2 58. b4 Rd3+
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.30"]
 [Round "1.2"]
 [White "Vachier Lagrave, M."]
 [Black "Xiong, Jeffery"]
@@ -199,7 +184,6 @@ Ne5 53. Rf4 Rg3 54. Nd4 Rd3 55. Kxg2 Rd2+ 56. Kg3 Rxa2 57. Nf5 Rd2 58. b4 Rd3+
 [WhiteElo "2795"]
 [BlackElo "2652"]
 [PlyCount "51"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -212,7 +196,6 @@ f6 22. O-O Kf7 23. f4 Nxc5 24. f5 Ne5 25. fxe6+ Nxe6 26. Qxe5 1-0
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.30"]
 [Round "1.6"]
 [White "Vachier Lagrave, M."]
 [Black "Xiong, Jeffery"]
@@ -221,7 +204,6 @@ f6 22. O-O Kf7 23. f4 Nxc5 24. f5 Ne5 25. fxe6+ Nxe6 26. Qxe5 1-0
 [WhiteElo "2795"]
 [BlackElo "2652"]
 [PlyCount "101"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -239,7 +221,6 @@ Qb1+ 1-0
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.30"]
 [Round "1.16"]
 [White "Vachier Lagrave, M."]
 [Black "Xiong, Jeffery"]
@@ -248,7 +229,6 @@ Qb1+ 1-0
 [WhiteElo "2795"]
 [BlackElo "2652"]
 [PlyCount "119"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -267,7 +247,6 @@ Rc5 53. Ke2 Kd6 54. Kd3 Ke5 55. Rh4 Rc8 56. Re4+ Kd6 57. Rd4+ Ke5 58. h4 Rg8
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.30"]
 [Round "1.18"]
 [White "Vachier Lagrave, M."]
 [Black "Xiong, Jeffery"]
@@ -276,7 +255,6 @@ Rc5 53. Ke2 Kd6 54. Kd3 Ke5 55. Rh4 Rc8 56. Re4+ Kd6 57. Rd4+ Ke5 58. h4 Rg8
 [WhiteElo "2795"]
 [BlackElo "2652"]
 [PlyCount "71"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -291,7 +269,6 @@ fxg5 34. hxg5 e4 35. Kc3 Re5 36. Ra5 1-0
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.08.30"]
 [Round "1.22"]
 [White "Vachier Lagrave, M."]
 [Black "Xiong, Jeffery"]
@@ -300,7 +277,6 @@ fxg5 34. hxg5 e4 35. Kc3 Re5 36. Ra5 1-0
 [WhiteElo "2795"]
 [BlackElo "2652"]
 [PlyCount "53"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -313,7 +289,6 @@ Qc7 22. Nf5 Nc5 23. Bf4 Qc6 24. Nd6+ Kf8 25. Rc1 a5 26. Bb5 Qb6 27. Be3 1-0
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.06"]
 [Round "2.1"]
 [White "Vachier Lagrave, M."]
 [Black "Grachev, B."]
@@ -322,7 +297,6 @@ Qc7 22. Nf5 Nc5 23. Bf4 Qc6 24. Nd6+ Kf8 25. Rc1 a5 26. Bb5 Qb6 27. Be3 1-0
 [WhiteElo "2804"]
 [BlackElo "2654"]
 [PlyCount "79"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -338,7 +312,6 @@ Be5 Kf3 40. Bxf4 1-0
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.14"]
 [Round "4.5"]
 [White "Vachier Lagrave, M."]
 [Black "Grischuk, A."]
@@ -347,7 +320,6 @@ Be5 Kf3 40. Bxf4 1-0
 [WhiteElo "2804"]
 [BlackElo "2788"]
 [PlyCount "87"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -363,7 +335,6 @@ Re7 35. c4 Nc7 36. e6 fxe6 37. Ng6 Rd7 38. fxe6 Rdd8 39. Ne7+ Kf8 40. Nxc6 Rxd6
 
 [Event "FIDE World Cup 2017"]
 [Site "Tbilisi GEO"]
-[Date "2017.09.21"]
 [Round "6.3"]
 [White "Vachier Lagrave, M."]
 [Black "Aronian, L."]
@@ -372,7 +343,6 @@ Re7 35. c4 Nc7 36. e6 fxe6 37. Ng6 Rd7 38. fxe6 Rdd8 39. Ne7+ Kf8 40. Nxc6 Rxd6
 [WhiteElo "2804"]
 [BlackElo "2802"]
 [PlyCount "127"]
-[EventDate "2017.09.03"]
 [EventType "k.o."]
 [EventRounds "7"]
 [EventCountry "GEO"]
@@ -391,7 +361,6 @@ Qb7 55. Kg2 Qc8 56. Qe2 Qb7 57. Kg1 Qd5 58. Ne5 Bxe5 59. Rxe5 Qd6 60. Kg2 Rd8
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.23"]
 [Round "2.26"]
 [White "Vachier Lagrave, M."]
 [Black "Grischuk, A."]
@@ -400,7 +369,6 @@ Qb7 55. Kg2 Qc8 56. Qe2 Qb7 57. Kg1 Qd5 58. Ne5 Bxe5 59. Rxe5 Qd6 60. Kg2 Rd8
 [WhiteElo "2795"]
 [BlackElo "2750"]
 [PlyCount "103"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -418,7 +386,6 @@ Ke7 40. Kg6 Ke6 41. Kh7 Ke5 42. g6 Kd4 43. g7 Kc3 44. g8=Q Kxb3 45. Qe8 Kxc4
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.23"]
 [Round "2.24"]
 [White "Vachier Lagrave, M."]
 [Black "Grischuk, A."]
@@ -427,7 +394,6 @@ Ke7 40. Kg6 Ke6 41. Kh7 Ke5 42. g6 Kd4 43. g7 Kc3 44. g8=Q Kxb3 45. Qe8 Kxc4
 [WhiteElo "2795"]
 [BlackElo "2750"]
 [PlyCount "127"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -446,7 +412,6 @@ Kc4 59. Bb3+ Kb4 60. Ke2 Ka3 61. Kd2 Kb2 62. Qc3+ Ka3 63. Bc2+ Ka2 64. Qb3+ 1-0
 
 [Event "chess.com Speed 5m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.10.23"]
 [Round "2.2"]
 [White "Vachier Lagrave, M."]
 [Black "Grischuk, A."]
@@ -455,7 +420,6 @@ Kc4 59. Bb3+ Kb4 60. Ke2 Ka3 61. Kd2 Kb2 62. Qc3+ Ka3 63. Bc2+ Ka2 64. Qb3+ 1-0
 [WhiteElo "2795"]
 [BlackElo "2750"]
 [PlyCount "65"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -469,7 +433,6 @@ Nd2 28. Kg2 f5 29. Rxc7 f4 30. Bf2 e4 31. fxe4 Rg5+ 32. Kh1 Nf3 33. Rd1 1-0
 
 [Event "Palma De Mallorca GP 2017"]
 [Site "Palma de Mallorca ESP"]
-[Date "2017.11.16"]
 [Round "1.2"]
 [White "Vachier Lagrave, M."]
 [Black "Gelfand, B."]
@@ -478,7 +441,6 @@ Nd2 28. Kg2 f5 29. Rxc7 f4 30. Bf2 e4 31. fxe4 Rg5+ 32. Kh1 Nf3 33. Rd1 1-0
 [WhiteElo "2796"]
 [BlackElo "2719"]
 [PlyCount "67"]
-[EventDate "2017.11.16"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ESP"]
@@ -493,7 +455,6 @@ Qc4 1-0
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.26"]
 [Round "2.42"]
 [White "Vachier Lagrave, M."]
 [Black "Tissir, M."]
@@ -502,7 +463,6 @@ Qc4 1-0
 [WhiteElo "2789"]
 [BlackElo "2381"]
 [PlyCount "75"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -517,7 +477,6 @@ Rf8 28. Rf6 Rbe8 29. e6 Rxe6 30. Rxe6 fxe6 31. Rxb7 b5 32. Re7 Rc8 33. Rxe6 Kf7
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.27"]
 [Round "7.44"]
 [White "Vachier Lagrave, M."]
 [Black "Zhao Jun"]
@@ -526,7 +485,6 @@ Rf8 28. Rf6 Rbe8 29. e6 Rxe6 30. Rxe6 fxe6 31. Rxb7 b5 32. Re7 Rc8 33. Rxe6 Kf7
 [WhiteElo "2789"]
 [BlackElo "2604"]
 [PlyCount "115"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -544,7 +502,6 @@ Rc5 48. Rxb5 Rxb5 49. Nxb5 Ke5 50. Nc3 f6 51. Nxa4 g5 52. Nc5 Kd5 53. Ne4 gxh4
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.28"]
 [Round "12.15"]
 [White "Vachier Lagrave, M."]
 [Black "McShane, L."]
@@ -553,7 +510,6 @@ Rc5 48. Rxb5 Rxb5 49. Nxb5 Ke5 50. Nc3 f6 51. Nxa4 g5 52. Nc5 Kd5 53. Ne4 gxh4
 [WhiteElo "2789"]
 [BlackElo "2640"]
 [PlyCount "79"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -569,7 +525,6 @@ Bc7 22. c4 Ba5 23. d5 Qd7 24. Bd2 Bxd2 25. Nxd2 Rb8 26. Nf5 Nf4 27. Rxb8 Rxb8
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "4.6"]
 [White "Vachier Lagrave, M."]
 [Black "Kravtsiv, M."]
@@ -578,7 +533,6 @@ Bc7 22. c4 Ba5 23. d5 Qd7 24. Bd2 Bxd2 25. Nxd2 Rb8 26. Nf5 Nf4 27. Rxb8 Rxb8
 [WhiteElo "2789"]
 [BlackElo "2672"]
 [PlyCount "67"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
@@ -591,7 +545,6 @@ Kf6 34. Rxc7 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "2.28"]
 [White "Vachier Lagrave, M."]
 [Black "Fressinet, L."]
@@ -600,7 +553,6 @@ Kf6 34. Rxc7 1-0
 [WhiteElo "2789"]
 [BlackElo "2662"]
 [PlyCount "73"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. c3
@@ -613,7 +565,6 @@ Bxf5 34. Qxf5 Qe8 35. Bh5 Qe7 36. Bg6 Qd8 37. Qe6+ 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "9.4"]
 [White "Vachier Lagrave, M."]
 [Black "Korobov, A."]
@@ -622,7 +573,6 @@ Bxf5 34. Qxf5 Qe8 35. Bh5 Qe7 36. Bg6 Qd8 37. Qe6+ 1-0
 [WhiteElo "2789"]
 [BlackElo "2652"]
 [PlyCount "95"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h6 8. Nd2

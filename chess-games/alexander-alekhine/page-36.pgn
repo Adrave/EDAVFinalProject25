@@ -1,13 +1,11 @@
 [Event "Simul, 34b"]
 [Site "Philadelphia, PA USA"]
-[Date "1924.01.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F Casciato"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Simul, 35b"]
 [Site "New York, NY USA"]
-[Date "1923.12.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Horace Ransom Bigelow"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B13"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -43,14 +39,12 @@
 
 [Event "Simul, 40b"]
 [Site "Boston, MA USA"]
-[Date "1923.12.17"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "D Stone"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -68,14 +62,12 @@
 
 [Event "Simul, 35b"]
 [Site "New York, NY USA"]
-[Date "1923.12.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Lester Samuels"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -91,14 +83,12 @@
 
 [Event "Simul, 18b"]
 [Site "Newspaper Club, New York, NY USA"]
-[Date "1924.01.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Leon Kussman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D40"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -111,14 +101,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1924.01.19"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Morris A Schapiro"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -133,14 +121,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1924.01.19"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Mario Schroeder"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -152,14 +138,12 @@
 
 [Event "Simul, 40b"]
 [Site "Chicago, IL USA"]
-[Date "1924.02.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Starr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -172,14 +156,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1924.01.19"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Harold Meyer Phillips"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -194,14 +176,12 @@
 
 [Event "Simul, 36b"]
 [Site "YMCA, Toronto CAN"]
-[Date "1924.01.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "John Stuart Morrison"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -218,14 +198,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Hermitage Hotel, Louisville, KY USA"]
-[Date "1924.02.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Russell Wingate McRery"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -239,14 +217,12 @@
 
 [Event "Simul, 40b"]
 [Site "Denver CC, Denver, CO USA"]
-[Date "1924.02.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Anema"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -259,14 +235,12 @@
 
 [Event "Simul, 37b"]
 [Site "St. Louis, MO USA"]
-[Date "1924.02.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "R O'Malley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -280,14 +254,12 @@
 
 [Event "Simul, 37b"]
 [Site "St. Louis, MO USA"]
-[Date "1924.02.18"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Yates Downman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D40"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -303,14 +275,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Hermitage Hotel, Louisville, KY USA"]
-[Date "1924.02.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "O Theiss"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -327,14 +297,12 @@
 
 [Event "Simul, 44b"]
 [Site "Chess and Checkers Club, Los Angeles, CA USA"]
-[Date "1924.02.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Donald Henry Mugridge"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A56"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -347,14 +315,12 @@
 
 [Event "Simul, 28b"]
 [Site "Davenport, IA USA"]
-[Date "1924.02.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Harold A Weld"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -367,14 +333,12 @@
 
 [Event "Simul, 34b"]
 [Site "Portland, OR USA"]
-[Date "1924.03.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jake Wark"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -388,14 +352,12 @@
 
 [Event "Simul, 34b"]
 [Site "Portland, OR USA"]
-[Date "1924.03.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J van Zante"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D46"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -411,14 +373,12 @@
 
 [Event "Odessa"]
 [Site "Odessa"]
-[Date "1918.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Boris Verlinsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -434,14 +394,12 @@
 
 [Event "Simul, 42b"]
 [Site "Pittsburgh, PA USA"]
-[Date "1924.03.07"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "R E Long"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -457,14 +415,12 @@
 
 [Event "Odessa"]
 [Site "Odessa"]
-[Date "1918.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Arthur Kaufmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "15"]
 [WhiteElo "?"]
 
@@ -475,14 +431,12 @@
 
 [Event "Odessa"]
 [Site "Odessa"]
-[Date "1918.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Boris Verlinsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -495,14 +449,12 @@
 
 [Event "Odessa"]
 [Site "Odessa"]
-[Date "1918.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Boris Verlinsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -516,14 +468,12 @@
 
 [Event "Simul, 31b"]
 [Site "Odessa"]
-[Date "1918.12.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Pen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 

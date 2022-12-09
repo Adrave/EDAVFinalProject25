@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Keres Paul (EST)"]
@@ -21,7 +20,6 @@ Rh5 26.Bg4 Nxf4 27.Bxh5 N4xh5 28.Kg2 Ng4 29.Nd2 Ne3+ 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "22"]
 [White "Fischer Robert J (USA)"]
 [Black "Keres Paul (EST)"]
@@ -47,7 +45,6 @@ Ne3+ 48.Kc1 Rxc2+ 49.Kb1 Rh2 50.Rd7+ Ke5 51.Re7+ Kf4 52.Rd7 Nd1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -75,7 +72,6 @@ Ne6 66.Qa8 a2 67.Qa5 Qa4 68.Rxd2+ Ka3 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "21"]
 [White "Fischer Robert J (USA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -100,7 +96,6 @@ e3 48.Re4 f5 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "13"]
 [White "Fischer Robert J (USA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -122,7 +117,6 @@ Qa7+ 31.Kxg2 Rg8+ 32.Kh3 Qg7 33.Bd1 Re6 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "27"]
 [White "Fischer Robert J (USA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -148,7 +142,6 @@ Bxb2 47.Rd8+ Kc6 48.Rb8 Rf3+ 49.Kc4 Rc3+ 50.Kb4 Kc7 51.Rb5 Ba1
 
 [Event ""]
 [Site "Mar del Plata (Argentina)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Shocron Ruben (USA)"]
@@ -171,7 +164,6 @@ Qxb5 32.Rhb1 Qc6 33.Rb6 Qc7 34.Rba6 Rxa6 35.Rxa6 Rc8 36.Qg4 Ne6
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1959.??.??"]
 [Round "5"]
 [White "Fischer Robert J (USA)"]
 [Black "Ault Robin"]
@@ -193,7 +185,6 @@ Ng6 31.f6 Qh8 32.Rxg6+ 1-0
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1959.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Benko Pal C (USA)"]
@@ -221,7 +212,6 @@ Rb2+ 65.Kc8 Ra2 66.Kb8 Rb2+ 67.Rb7 Rh2 68.a8Q Rh8+ 69.Ka7 1-0
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1959.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Bernstein Sidney"]
@@ -244,7 +234,6 @@ Rb8 31.a6 dxc4 32.a7 Ra8 33.Bc6 h5+ 34.Kg5 Rxb1 35.Rxb1 Rxa7
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1959.??.??"]
 [Round "1"]
 [White "Fischer Robert J (USA)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -271,7 +260,6 @@ Kf5 47.Kd4 Kxg5 48.Kxc4 Kf4 49.Kb4 Ke3 50.Kxa4 Kd2 51.Kb3 Kd3
 
 [Event "Ch USA"]
 [Site "New York (USA)"]
-[Date "1959.??.??"]
 [Round "7"]
 [White "Fischer Robert J (USA)"]
 [Black "Seidman Herbert"]
@@ -290,7 +278,6 @@ Ne4 14.Rxa6 Rxd2 15.Qa1 Nxc3 16.bxc3 Rd6 17.O-O 1-0
 
 [Event ""]
 [Site "Santiago (Chile)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Letelier Rene (CHI)"]
@@ -313,7 +300,6 @@ Nc7 36.Ra7 Bd6 37.Rb7 Kf8 38.Rb6 Ne8 39.Ba4 1-0
 
 [Event ""]
 [Site "Santiago (Chile)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Pilnik Herman (ARG)"]
@@ -335,7 +321,6 @@ Rg8 31.hxg6 fxg6 32.f6 Qxd5 33.Qxh7+ 1-0
 
 [Event ""]
 [Site "Santiago (Chile)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Sanchez Lombardo"]
@@ -360,7 +345,6 @@ Bxb4 49.bxc7 Rc8 50.Nf5 Bf8 51.g4 Na5 52.b4 Bxb4 53.Bd2 1-0
 
 [Event ""]
 [Site "Santiago (Chile)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Stekel-Grunberg Moises (CHI)"]
@@ -382,7 +366,6 @@ h4 31.Rxd7 Qxd7 32.Qg4 Qd8 33.Rd1 Qf6 34.gxh4 Bxh4 35.Be7 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Bhend Edwin (SUI)"]
@@ -406,7 +389,6 @@ Rc8 40.Kg1 Kg5 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Keres Paul (EST)"]
@@ -437,7 +419,6 @@ Bc4 80.Bg6+ Kg8 81.f6 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Kupper Josef (SUI)"]
@@ -458,7 +439,6 @@ Rc4 25.Qf5+ 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Nievergelt Erwin"]
@@ -481,7 +461,6 @@ Bd5 37.b6 e3 38.b7 Bxb7 39.Qf8+ Kh7 40.Bd3+ g6 41.Qf7+ Kh8 42.Qxg6 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -509,14 +488,12 @@ gxh4 60.Bc4 Ne8 61.Kf4 Kd8 62.Kg4 Kc7 63.Bf7 Ng7 64.Kxh4 Kxc6
 
 [Event "Zurich"]
 [Site "Zurich SUI"]
-[Date "1959.06.03"]
 [Round "12"]
 [White "Robert James Fischer"]
 [Black "Paul Keres"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C99"]
-[EventDate "1959.05.19"]
 [PlyCount "161"]
 [WhiteElo "?"]
 
@@ -539,14 +516,12 @@ gxh4 60.Bc4 Ne8 61.Kf4 Kd8 62.Kg4 Kc7 63.Bf7 Ng7 64.Kxh4 Kxc6
 
 [Event "?"]
 [Site "?"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B56"]
-[EventDate "????.??.??"]
 [PlyCount "25"]
 [WhiteElo "?"]
 
@@ -557,14 +532,12 @@ gxh4 60.Bc4 Ne8 61.Kf4 Kd8 62.Kg4 Kc7 63.Bf7 Ng7 64.Kxh4 Kxc6
 
 [Event "Mar del Plata"]
 [Site "Mar del Plata ARG"]
-[Date "1959.04.05"]
 [Round "12"]
 [White "Robert James Fischer"]
 [Black "Hector Decio Rossetto"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B41"]
-[EventDate "1959.03.23"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -579,14 +552,12 @@ gxh4 60.Bc4 Ne8 61.Kf4 Kd8 62.Kg4 Kc7 63.Bf7 Ng7 64.Kxh4 Kxc6
 
 [Event "Bled-Zagreb-Belgrade Candidates"]
 [Site "Bled, Zagreb & Belgrade YUG"]
-[Date "1959.10.21"]
 [Round "24"]
 [White "Robert James Fischer"]
 [Black "Pal Benko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "1959.09.07"]
 [PlyCount "77"]
 [WhiteElo "?"]
 

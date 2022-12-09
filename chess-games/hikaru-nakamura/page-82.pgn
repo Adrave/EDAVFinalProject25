@@ -1,6 +1,5 @@
 [Event "It (open) \"Gibraltar Masters\""]
 [Site "Caleta (England)"]
-[Date "2005.01.01"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ward Christopher (ENG)"]
@@ -29,7 +28,6 @@ Qg2+ 69.Ne2 1-0
 
 [Event "It (open) \"Gibraltar Masters\""]
 [Site "Caleta (England)"]
-[Date "2005.01.03"]
 [Round "10"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Pert Nicholas (ENG)"]
@@ -54,7 +52,6 @@ g1Q 47.Qe6+ Rf7 48.Nbc2 1-0
 
 [Event "Tournament \"New York Masters\""]
 [Site "New York (USA)"]
-[Date "2005.01.04"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Wojtkiewicz Aleksander (USA)"]
@@ -79,7 +76,6 @@ Kg7 42.Qd7+ Kh8 43.Qd6 Qc2 44.Qd5 Kg7 45.Qb7+ Kh6 46.Qf7 Qxe4+
 
 [Event "It (open) \"Gibraltar Masters\""]
 [Site "Caleta (England)"]
-[Date "2005.01.25"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Hennigan Michael (ENG)"]
@@ -106,7 +102,6 @@ Ke5 58.h6 Kf6 59.h7 Kg7 60.Be4 1-0
 
 [Event "It (open) \"Gibraltar Masters\""]
 [Site "Caleta (England)"]
-[Date "2005.01.27"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Cmilyte Viktorija (LTU)"]
@@ -131,7 +126,6 @@ Kd4 47.Nxg5 Na3 48.Rb7 Kc3 49.Rd7 Nc4 50.Nf7 1-0
 
 [Event "It (open) \"Gibraltar Masters\""]
 [Site "Caleta (England)"]
-[Date "2005.01.29"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Del Rio Angelis Salvador G (ESP)"]
@@ -153,7 +147,6 @@ Qxb6 26.Nxa5 Qxa5 27.Bxb7 Bb4 28.Bc6 Re7 29.Re2 Bg4 30.f3 Bc8
 
 [Event "Ch Amateur Team (East)"]
 [Site "Parsippany (USA)"]
-[Date "2005.03.21"]
 [Round "6"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Radomskyj Peter (USA)"]
@@ -176,7 +169,6 @@ g5 37.Rxg5+ Kh8 38.Rg7 Qh5 39.R2g6 Qxe5+ 40.Kg1 1-0
 
 [Event "It \"Foxwoods Open\""]
 [Site "Connecticut (USA)"]
-[Date "2005.03.23"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Casella Michael (USA)"]
@@ -197,7 +189,6 @@ Bf6 14.Nd2 Re8 15.Nb3 Nd4 16.Bxd4 exd4 17.Bxb7 Rb8 18.Bf3 Be6
 
 [Event "It (cat.16)"]
 [Site "Cuernavaca (Mexico)"]
-[Date "2006.02.06"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -222,7 +213,6 @@ a6 43.Qc2 Qh3 44.Be2 Qh1 45.Kd2 Nd8 46.Qd1 Qxd1+ 47.Kxd1 Nf7
 
 [Event "Ch USA (Gr A)"]
 [Site "San Diego (USA)"]
-[Date "2006.03.02"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Friedel Joshua E (USA)"]
@@ -247,7 +237,6 @@ Rxe4 47.Qd5 Rfe2 48.Qxb7 Kg1 0-1
 
 [Event "Dos Hermanas Internet Final"]
 [Site "Internet"]
-[Date "2006.03.24"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ganguly Surya Shekhar (IND)"]
@@ -272,7 +261,6 @@ Qd2 42.Qe4 c2 43.Qe8+ Kh7 44.Qe4+ Kh8 45.Qe8+ Kh7 46.Qe4+ Kh8
 
 [Event "Dos Hermanas Internet Final"]
 [Site "Internet"]
-[Date "2006.03.24"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Laxman R R (IND)"]
@@ -296,7 +284,6 @@ Qh3+ 42.Kg1 Qxg3+ 43.Rg2 Qxg2+ 44.Kxg2 Rxd8 0-1
 
 [Event "It (open)"]
 [Site "Foxwoods (USA)"]
-[Date "2006.04.14"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Bercys Salvijus (USA)"]
@@ -323,7 +310,6 @@ Ra4 59.Re3 Kb4 0-1
 
 [Event "It (open)"]
 [Site "Foxwoods (USA)"]
-[Date "2006.04.15"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Zapata Alonso (COL)"]
@@ -349,7 +335,6 @@ Ke6 0-1
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.22"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Hamdouchi Hichem (MAR)"]
@@ -371,7 +356,6 @@ b6 31.Qf3 Bxg2 32.Kxg2 Qg5+ 33.Qg3 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.28"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Agrest Evgenij (SWE)"]
@@ -399,7 +383,6 @@ Ne4 65.Kc4 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.30"]
 [Round "9"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Laznicka Viktor (CZE)"]
@@ -436,7 +419,6 @@ Qxc1 113.Nxc1 1/2-1/2
 
 [Event "It \"World Open\""]
 [Site "Philadelphia (USA)"]
-[Date "2006.07.01"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Benjamin Joel (USA)"]
@@ -459,7 +441,6 @@ Kxb7 36.Bc5+ Kc7 1-0
 
 [Event "It \"World Open\""]
 [Site "Philadelphia (USA)"]
-[Date "2006.07.03"]
 [Round "6"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Kunte Abhijit (IND)"]
@@ -485,7 +466,6 @@ Kc7 53.Nb5+ Kd7 54.a5 1-0
 
 [Event "It \"World Open\""]
 [Site "Philadelphia (USA)"]
-[Date "2006.07.04"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Kacheishvili Giorgi (GEO)"]
@@ -514,7 +494,6 @@ Rxa7 70.Rd8+ Ke1 71.Rb8 Rg7+ 0-1
 
 [Event "Ch USA (Gr A)"]
 [Site "San Diego (USA)"]
-[Date "2006.03.06"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Epstein Esther (USA)"]
@@ -523,7 +502,6 @@ Rxa7 70.Rd8+ Ke1 71.Rb8 Rg7+ 0-1
 [WhiteElo "2644"]
 [BlackElo "2178"]
 [PlyCount "65"]
-[EventDate "2006.??.??"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
 Be7 9. b3 O-O 10. Bb2 Re8 11. Nd2 Nc6 12. Nxc6 Qxc6 13. f4 Qc5+ 14. Kh1 Qh5 15.
@@ -534,7 +512,6 @@ Nf5 22. Kh2 Nh4 23. Nxh4 Bxh4 24. Re4 Bg5 25. Rg4 Rab8 26. Bc3 g6 27. Qf2 Rf8
 
 [Event "37. National Chess Congress"]
 [Site "Philadelphia, PA USA"]
-[Date "2006.11.24"]
 [Round "1"]
 [White "Nakamura, Hikaru"]
 [Black "Kis, Lorand Bela"]
@@ -542,7 +519,6 @@ Nf5 22. Kh2 Nh4 23. Nxh4 Bxh4 24. Re4 Bg5 25. Rg4 Rab8 26. Bc3 g6 27. Qf2 Rf8
 [WhiteElo "2640"]
 [BlackElo "2190"]
 [ECO "B06"]
-[EventDate "2006.11.24"]
 
 1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Bg5 c6 5. Qd2 Qa5 6. f4 b5 7. Nf3 Bg4 8. 
 Be2 b4 9. Nd1 d5 10. e5 e6 11. a3 Bf8 12. O-O h6 13. Bh4 c5 14. Ne3 Bxf3 
@@ -552,7 +528,6 @@ Be2 b4 9. Nd1 d5 10. e5 e6 11. a3 Bf8 12. O-O h6 13. Bh4 c5 14. Ne3 Bxf3
 
 [Event "37. National Chess Congress"]
 [Site "Philadelphia, PA USA"]
-[Date "2006.11.25"]
 [Round "3"]
 [White "Nakamura, Hikaru"]
 [Black "Sarkar, Justin"]
@@ -560,7 +535,6 @@ Be2 b4 9. Nd1 d5 10. e5 e6 11. a3 Bf8 12. O-O h6 13. Bh4 c5 14. Ne3 Bxf3
 [WhiteElo "2640"]
 [BlackElo "2380"]
 [ECO "D23"]
-[EventDate "2006.11.24"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Qa4+ Nc6 5. Nc3 Nd5 6. Ne5 Nb6 7. Nxc6 
 Qd6 8. Qc2 Qxc6 9. e4 e5 10. dxe5 Bc5 11. Be2 O-O 12. O-O Re8 13. Bf4 Bd4 
@@ -576,7 +550,6 @@ Qxg7 Kb5 50. h6 Qd6+ 51. Kh3 Qe6+ 52. Kh4 Qe1+ 53. Kg4 Qe4+ 54. Kh5 Qe8+
 
 [Event "16. North American Open"]
 [Site "Las Vegas, NV USA"]
-[Date "2006.12.29"]
 [Round "6"]
 [White "Nakamura, Hikaru"]
 [Black "Milov, Vadim"]
@@ -584,7 +557,6 @@ Qxg7 Kb5 50. h6 Qd6+ 51. Kh3 Qe6+ 52. Kh4 Qe1+ 53. Kg4 Qe4+ 54. Kh5 Qe8+
 [WhiteElo "2640"]
 [BlackElo "2657"]
 [ECO "B42"]
-[EventDate "2006.12.26"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. O-O Nbc6 7. Nxc6 
 Nxc6 8. f4 d6 9. Nd2 g6 10. Nf3 Bg7 11. c3 O-O 12. Qe2 Re8 13. Qf2 Qc7 14.
@@ -595,7 +567,6 @@ Nd8 21. f5 Bf8 22. Nh4 Bc6 23. a3 Qb7 24. Ba2 g5 25. Ng6 Bxe4 26. Nxf8 d5
 
 [Event "16. North American Open"]
 [Site "Las Vegas, NV USA"]
-[Date "2006.12.28"]
 [Round "4"]
 [White "Nakamura, Hikaru"]
 [Black "Sharavdorj, Dashzegve"]
@@ -603,7 +574,6 @@ Nd8 21. f5 Bf8 22. Nh4 Bc6 23. a3 Qb7 24. Ba2 g5 25. Ng6 Bxe4 26. Nxf8 d5
 [WhiteElo "2640"]
 [BlackElo "2463"]
 [ECO "E00"]
-[EventDate "2006.12.26"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Nbd2 O-O 6. Bg2 b6 7. a3 Be7 8.
  b4 Bb7 9. c5 a5 10. Bb2 axb4 11. axb4 Rxa1 12. Bxa1 Ba6 13. O-O Bb5 14. 

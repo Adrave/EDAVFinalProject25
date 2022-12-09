@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Benko Pal C (USA)"]
@@ -21,7 +20,6 @@ g5 14.Nxc6 Bxc6 15.h4 gxf4 16.Qxf4 O-O-O 17.Bg3 Rdg8 18.Bh3 Rh7
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "18"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Benko Pal C (USA)"]
@@ -47,7 +45,6 @@ Rxe7 53.Kg2 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Fischer Robert J (USA)"]
@@ -71,7 +68,6 @@ fxe3 42.Rb6 a4 43.Rxg6 a3 44.Ra6 Nb3 45.Rxa3 e2 46.Ra1 1/2-1/2
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "28"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Fischer Robert J (USA)"]
@@ -97,7 +93,6 @@ g5 53.Rc2 Rd6 54.Kc5 Re6 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "26"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -116,7 +111,6 @@ Be6 14.Nd5 Nxd5 15.cxd5 Bd7 16.Rc3 Ra2 17.Qb1 Qa8 18.Rc1 Bf5 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -143,7 +137,6 @@ Ke4 59.Rh5 h3 0-1
 
 [Event "Tournament (candidates)"]
 [Site "Bled (Slovenia)"]
-[Date "1959.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -171,7 +164,6 @@ Kh6 64.Bf5 Kg5 65.Bg4 1-0
 
 [Event "Match \"Leningrad-Moscow\""]
 [Site "Leningrad (Russia)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -191,7 +183,6 @@ Nxd4 20.Bxd4 Nc6 21.fxe6 Bxe6 22.Bxe6 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -214,7 +205,6 @@ Kf8 36.Nxe8 Nxe8 37.Qa3+ 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -239,7 +229,6 @@ Bd5 49.e6 Bxe6 50.c6 Rc4 51.Rxc4 Qxc4 52.Qe5+ 1-0
 
 [Event "Match \"Moscow-Belarus\""]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -260,7 +249,6 @@ Ba6 25.Rc2 Rad8 26.Nf2 Rb3 27.Ra1 f6 0-1
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -287,7 +275,6 @@ Qb7 53.Re3 Qb8 54.Bf5 Rc7 55.Re7+ Rxe7 56.Qxe7+ Kh6 57.Qxf6 Qg3+
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Karadzhaev"]
@@ -310,7 +297,6 @@ Nc8 31.Ne2 Ra5 32.Nc1 Nh7 33.Bd2 Ra7 34.Nc3 Rxa2 35.Qxa2 Qxa2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -331,7 +317,6 @@ Bxc4 25.Ne5 Bd5+ 26.Kg3 Red8 27.d7 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -354,7 +339,6 @@ Qh5+ 36.Rh3 Qg5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -375,7 +359,6 @@ Rxd8 25.Ng5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gufeld Eduard (USA)"]
@@ -398,7 +381,6 @@ e5 30.Be3 Qxc3 31.Bd2 Qxg3 32.Rb6 Qd3 33.Bxa5 Qd4+ 34.Rb2 fxg5
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -432,7 +414,6 @@ f5 102.exf5 Rxf5 103.Reg2 Rf1+ 104.Rg1 Rf2 105.R1g2 Rf1+ 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -457,7 +438,6 @@ Rb4 49.Re8+ Kd5 50.Rd8+ Kc4 51.Rd4+ Kb5 52.Kd3 Rbc4 53.Rd6 f4 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -482,7 +462,6 @@ Re3 48.Kf2 Re4 49.h3 g5 50.Rd3 Kd7 51.Re3 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -505,14 +484,12 @@ Qb4 31.Re2 Qxf4 32.Re4 Qd2 33.Bxb6 Qd5 34.Rfe1 Qc6 35.Qa2+ e6
 
 [Event "Leningrad-Moscow Match"]
 [Site "Leningrad RUS"]
-[Date "1960.01.16"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "1960.01.16"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -525,14 +502,12 @@ Qb4 31.Re2 Qxf4 32.Re4 Qd2 33.Bxb6 Qd5 34.Rfe1 Qc6 35.Qa2+ e6
 
 [Event "Bled-Zagreb-Belgrade Candidates"]
 [Site "Bled, Zagreb & Belgrade YUG"]
-[Date "1959.09.08"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Paul Keres"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C99"]
-[EventDate "1959.09.07"]
 [PlyCount "118"]
 [WhiteElo "?"]
 
@@ -551,14 +526,12 @@ Qb4 31.Re2 Qxf4 32.Re4 Qd2 33.Bxb6 Qd5 34.Rfe1 Qc6 35.Qa2+ e6
 
 [Event "USSR Championship 1961b"]
 [Site "Baku URS"]
-[Date "1961.12.03"]
 [Round "11"]
 [White "Vasily Smyslov"]
 [Black "Vladimir Bagirov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A36"]
-[EventDate "1960.??.??"]
 [PlyCount "102"]
 [WhiteElo "?"]
 
@@ -576,14 +549,12 @@ Qb4 31.Re2 Qxf4 32.Re4 Qd2 33.Bxb6 Qd5 34.Rfe1 Qc6 35.Qa2+ e6
 
 [Event "USSR Championship"]
 [Site "Leningrad URS"]
-[Date "1960.02.11"]
 [Round "11"]
 [White "Vasily Smyslov"]
 [Black "Vladimir Bagirov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B39"]
-[EventDate "1960.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 

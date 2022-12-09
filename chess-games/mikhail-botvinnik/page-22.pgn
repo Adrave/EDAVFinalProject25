@@ -1,6 +1,5 @@
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kagan Moisey"]
@@ -24,7 +23,6 @@ Ra8 42.e6 1-0
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1926.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ostrowski P Sr"]
@@ -48,7 +46,6 @@ Kd6 42.c8Q Bxc8 43.Bxc8 Kxd5 44.Ke2 Kd4 45.Kf3 1-0
 
 [Event "Match \"Moscow-Leningrad\""]
 [Site "Leningrad (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Grigoriev Nikolai D (RUS)"]
@@ -70,7 +67,6 @@ f4 25.Nf5 Rxf5 26.Bxf5 Nf6 27.Qh6 Kh8 28.Rxe5 dxe5 29.d6 Qd8
 
 [Event "Match \"Moscow-Leningrad\""]
 [Site "Leningrad (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Panchenko Nil"]
@@ -95,7 +91,6 @@ Kf7 42.Qxb6 Qd1+ 43.Kg2 Qxa4 44.Qb7+ Ke8 45.b5 Qd4 46.b6 Qd7
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -117,7 +112,6 @@ hxg6 30.Qxg6+ Kf8 31.Qg7+ Ke8 32.Re1+ Kd8 33.Qe7+ Kc8 34.Rc1+ 1-0
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rokhlin Yakov (RUS)"]
@@ -138,7 +132,6 @@ Nxc6 25.Qe4 Qa6 26.Nf5 Nd4 27.Rxd4 cxd4 28.Nxh6+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1927.??.??"]
 [Round "14"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kholodkevich Khrisogon"]
@@ -161,7 +154,6 @@ Kxe6 36.Bc8+ 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Model Abram (RUS)"]
@@ -185,7 +177,6 @@ Nd7 43.Kf2 e3+ 44.Kf3 g4+ 45.hxg4+ hxg4+ 46.Ke2 Ke4 47.Bg7 f3+ 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Nenarokov Vladimir I (RUS)"]
@@ -208,7 +199,6 @@ Be5 36.Nd3 Bd6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Pavlov Pianov N"]
@@ -230,7 +220,6 @@ Bxc7 26.Rxc7 Rd8 27.Re1 Rd7 28.Rxd7 Bxd7 29.e6 Bc6 30.exf7 Qxf7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1927.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Romanovsky Peter A (RUS)"]
@@ -255,7 +244,6 @@ exf4 1/2-1/2
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Yuriev B"]
@@ -277,7 +265,6 @@ Rxb8 31.Ra1 1-0
 
 [Event "Ch URS"]
 [Site "Odessa (Ukraine)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Nenarokov Vladimir I (RUS)"]
@@ -299,7 +286,6 @@ Qb7 26.Re2 Nc7 27.Bf1 Ra8 28.Rea2 Rxa2 29.Rxa2 Ra8 30.Qa1 Rxa2
 
 [Event "Ch URS"]
 [Site "Odessa (Ukraine)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Poliak Abram (RUS)"]
@@ -322,7 +308,6 @@ Nd6 37.Kd2 1-0
 
 [Event "Ch URS"]
 [Site "Odessa (Ukraine)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rauzer Vsevolod A (RUS)"]
@@ -344,7 +329,6 @@ Bc8 25.Ng3 Qd6 26.Rf1 Bd7 27.b3 b5 28.axb5 axb5 29.Nxb5 Bxb5
 
 [Event "Ch URS"]
 [Site "Odessa (Ukraine)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Rjumin N (RUS)"]
@@ -369,7 +353,6 @@ Rd6 43.Rc3 g5 44.Nd3 Ra6 45.Nc5 Rc6 46.Ne4 Rxc3+ 47.Nxc3 Nb6
 
 [Event "Ch URS"]
 [Site "Odessa (Ukraine)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Silic Vladislav (BLR)"]
@@ -390,7 +373,6 @@ Qh4+ 25.Qxh4 Rxh4 26.Bf4 Rf8 27.Bd6 Rg8 28.Rxf7 Kd8 29.Re1 1-0
 
 [Event "Ch URS"]
 [Site "Odessa (Ukraine)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Vigodchikov K"]
@@ -410,7 +392,6 @@ bxc5 1/2-1/2
 
 [Event "Match"]
 [Site "URS"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Sozin Veniamin I (RUS)"]
@@ -437,7 +418,6 @@ Kg6 58.Ke8 Be6 59.Kf8 Bf5 60.Ke7 Bc2 61.Kd6 Bd3 62.Ke6 Bc4+ 63.Ke7 1/2-1/2
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Miasoedov"]
@@ -459,7 +439,6 @@ Qh6+ 19.Kd3 d5 20.Qc1 dxc4+ 21.Qxc4 Rd8+ 22.Kc2 Bb7 23.Qxg4 Nxb4+
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Model Abram (RUS)"]
@@ -486,7 +465,6 @@ Bd1 0-1
 
 [Event "Ch Leningrad"]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Vilner Yakov S (RUS)"]
@@ -510,7 +488,6 @@ Nd8 37.Rd6 Nf7 38.Rb6 Nd8 39.Rcb1 Rd7 40.Bxb7 Nxb7 41.Rxb7 Rxb7
 
 [Event "Match \"Moscow-Leningrad\""]
 [Site "Leningrad (Russia)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kan Ilya A (RUS)"]
@@ -532,14 +509,12 @@ Kh8 30.c7 Rf6 31.Bb7 1-0
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1927.10.02"]
 [Round "6"]
 [White "Mikhail Botvinnik"]
 [Black "Peter Arsenievich Romanovsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "1927.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -556,14 +531,12 @@ Kh8 30.c7 Rf6 31.Bb7 1-0
 
 [Event "USSR Championship"]
 [Site "Odessa URS"]
-[Date "1929.09.04"]
 [Round "4"]
 [White "Mikhail Botvinnik"]
 [Black "Nikolai Nikolaevich Riumin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D60"]
-[EventDate "1929.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 

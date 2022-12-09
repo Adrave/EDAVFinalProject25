@@ -1,6 +1,5 @@
 [Event "Match \"Grandmasters-young masters\""]
 [Site "Moscow (Russia)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Efimov Igor (ITA)"]
@@ -21,7 +20,6 @@ Ne3 19.Rxe3 Qxe3 20.Nf6+ Kh8 21.Nxh7 Rd8 22.Ng5 Kg8 23.Qh5 Rd7
 
 [Event "Match \"Grandmasters-young masters\""]
 [Site "Moscow (Russia)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ulmanis I"]
@@ -41,7 +39,6 @@ Be4 20.Qh2 Bxh1 21.Rxh1 1-0
 
 [Event "Match \"Grandmasters-young masters\""]
 [Site "Moscow (Russia)"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zaichik Gennadi (USA)"]
@@ -64,7 +61,6 @@ Kb7 37.h6 Na6 38.Re6 Ka7 39.Rxf6 Rc7 40.Rc1 Qf2 41.Nxd6 1-0
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -83,7 +79,6 @@ Re8 14.d5 g6 15.Be3 Bf8 16.N1h2 Bg7 17.Ng4 Nxg4 18.hxg4 Nf6 1/2-1/2
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -103,7 +98,6 @@ Nxd3 20.Qxd3 Nd5 21.Bg3 Rac8 22.Be5 Rf7 23.Rfe1 Qb6 24.Re2 Qc5 1/2-1/2
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Andersson Ulf (SWE)"]
@@ -124,7 +118,6 @@ Kb7 26.Qd3 Rh7 1/2-1/2
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Dueball Juergen (GER)"]
@@ -146,7 +139,6 @@ Qf6 20.f4 exd5 21.Nxd5 Qb2 22.Ne7+ Kh8 23.Qxb2 Bxb2 24.Rc7 Rfd8
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kunsztowicz Uwe (GER)"]
@@ -167,7 +159,6 @@ Qxg4 26.hxg4 g5 27.Bg3 e6 28.Kf2 Kf7 29.Ke2 Ke7 1/2-1/2
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Paoli Enrico (ITA)"]
@@ -191,7 +182,6 @@ Kd7 41.b4 Ke6 1/2-1/2
 
 [Event "It"]
 [Site "Dortmund (Germany)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Parma Bruno (SLO)"]
@@ -211,7 +201,6 @@ a6 14.Na4 Qxd2+ 15.Kxd2 Nd7 16.f4 Rab8 17.Ba7 Ra8 18.Be3 Rab8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Keres Paul (EST)"]
@@ -232,7 +221,6 @@ Qd7 20.Rbd1 Bxd5 21.Qxd5 Qe6 22.Bxe5 Qxe5 23.Qc6 Qe7 24.Re3 Rb6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -253,7 +241,6 @@ O-O 8.f4 Nc6 9.Be3 Bd7 10.Nb3 a6 11.a4 b6 12.Bf3 Qc7 13.Qe2 Be8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -273,7 +260,6 @@ Nxe4 19.Nxe4 Rc8 20.Nc3 Rcd8 21.Rac1 Nc6 22.f4 1/2-1/2
 
 [Event "Match-Tournament (3 teams URS)"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -293,7 +279,6 @@ axb5 1/2-1/2
 
 [Event "Match-Tournament (3 teams URS)"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -314,7 +299,6 @@ Bd5 25.Qe2 Bb7 26.Qb2 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1973.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -334,7 +318,6 @@ Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 d5 11.Bf4 c6 12.O-O-O Be6
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Rashkovsky Nukhim N (RUS)"]
@@ -354,7 +337,6 @@ Qc7 20.Qd2 Rb7 21.g4 Ne5 22.Nxe5 1/2-1/2
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smejkal Jan (CZE)"]
@@ -376,7 +358,6 @@ Kf8 25.Ne3 b4 26.cxb4 Qxb4 27.Bd5 Bxd5 28.Nxd5 Qd6 29.Qc2 f5
 
 [Event "It"]
 [Site "Sochi (Russia)"]
-[Date "1973.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Suetin Alexei S (RUS)"]
@@ -395,7 +376,6 @@ Rxc6 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -414,7 +394,6 @@ Nd7 14.Bd2 Qb6+ 15.Kh1 Nc5 16.Rab1 Nxd3 17.cxd3 e6 18.Be3 Qa5 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1973.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Karner Hillar (EST)"]
@@ -438,7 +417,6 @@ Ng4+ 41.Ke2 1/2-1/2
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Keres Paul (EST)"]
@@ -459,7 +437,6 @@ Qxd4 20.exd4 Nd6 21.Bg2 Rfd8 22.Rad1 Kf8 23.Rfe1 Ke7 24.Kf1 g6
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1973.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Popov Luben (BUL)"]
@@ -485,7 +462,6 @@ gxf4 49.Bd2 a5 50.bxa5 bxa5 51.Be1 Bc7 52.Bh4 Bb6 53.Be7 Bc7
 
 [Event "It (cat.11)"]
 [Site "Tallinn (Estonia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -508,14 +484,12 @@ Rd8 37.a4 Kf6 38.Kg3 Kg5 39.Rd2 Rd6 40.Be4 Rh6 1/2-1/2
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1973.10.26"]
 [Round "17"]
 [White "Boris Spassky"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B83"]
-[EventDate "1973.10.02"]
 [PlyCount "49"]
 [WhiteElo "?"]
 

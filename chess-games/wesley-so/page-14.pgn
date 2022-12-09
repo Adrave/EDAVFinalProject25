@@ -5,7 +5,6 @@
 [BlackFideId "5000017"]
 [Result "1-0"]
 [Round "02"]
-[Date "Sun Jan 12 2020"]
 [WhiteClock "0:53:26"]
 [BlackClock "0:26:42"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "12573981"]
 [Result "1-0"]
 [Round "04"]
-[Date "Tue Jan 14 2020"]
 [WhiteClock "0:38:57"]
 [BlackClock "0:37:42"]
 
@@ -30,7 +28,6 @@
 
 [Event "82nd Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2020.01.14"]
 [Round "4.4"]
 [White "So,W"]
 [Black "Firouzja,Alireza"]
@@ -39,7 +36,6 @@
 [BlackFideId "12573981"]
 [BlackTitle "GM"]
 [ECO "D27"]
-[EventDate "2020.01.11"]
 [Opening "QGA"]
 [Variation "classical, 6...a6"]
 [WhiteElo "2765"]
@@ -59,7 +55,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.20"]
 [Round "3"]
 [White "So,W"]
 [Black "Nyzhnyk,I"]
@@ -69,7 +64,6 @@
 [BlackTeam "Chicago Wind"]
 [BlackTitle "GM"]
 [ECO "D31"]
-[EventDate "2020.01.06"]
 [Opening "QGD"]
 [Variation "3.Nc3"]
 [WhiteElo "2765"]
@@ -93,7 +87,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.13"]
 [Round "2"]
 [White "So,W"]
 [Black "Speelman,J"]
@@ -103,7 +96,6 @@
 [BlackTeam "U.K. Lions"]
 [BlackTitle "GM"]
 [ECO "A40"]
-[EventDate "2020.01.06"]
 [Opening "Queen's pawn"]
 [Variation "Keres defence"]
 [WhiteElo "2765"]
@@ -120,7 +112,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "So,W"]
 [Black "Guseinov,G"]
@@ -130,7 +121,6 @@
 [BlackTeam "New York Marshalls"]
 [BlackTitle "GM"]
 [ECO "B36"]
-[EventDate "2020.01.06"]
 [Opening "Sicilian"]
 [Variation "accelerated fianchetto, Gurgenidze variation"]
 [WhiteElo "2765"]
@@ -155,7 +145,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "So,W"]
 [Black "Sevian,Samuel"]
@@ -165,7 +154,6 @@
 [BlackTeam "New York Marshalls"]
 [BlackTitle "GM"]
 [ECO "A61"]
-[EventDate "2020.01.06"]
 [Opening "Benoni defence"]
 [WhiteElo "2765"]
 [WhiteFideId "5202213"]
@@ -184,7 +172,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "So,W"]
 [Black "Oparin,G"]
@@ -194,7 +181,6 @@
 [BlackTeam "California Unicorns"]
 [BlackTitle "GM"]
 [ECO "C84"]
-[EventDate "2020.01.06"]
 [Opening "Ruy Lopez"]
 [Variation "closed defence"]
 [WhiteElo "2765"]
@@ -212,7 +198,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "So,W"]
 [Black "Zierk,S"]
@@ -222,7 +207,6 @@
 [BlackTeam "California Unicorns"]
 [BlackTitle "GM"]
 [ECO "C15"]
-[EventDate "2020.01.06"]
 [Opening "French"]
 [Variation "Winawer (Nimzovich) variation"]
 [WhiteElo "2765"]
@@ -242,7 +226,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.02.03"]
 [Round "5"]
 [White "So,W"]
 [Black "Firouzja,Alireza"]
@@ -252,7 +235,6 @@
 [BlackTeam "Canada Chessbrahs"]
 [BlackTitle "GM"]
 [ECO "E09"]
-[EventDate "2020.01.06"]
 [Opening "Catalan"]
 [Variation "closed, main line"]
 [WhiteElo "2770"]
@@ -282,7 +264,6 @@
 [BlackElo "2784"]
 [Result "1-0"]
 [Round "03-02"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:01:49"]
 [BlackClock "0:01:34"]
 
@@ -300,7 +281,6 @@
 [BlackElo "2784"]
 [Result "1-0"]
 [Round "02-01"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:00:25"]
 [BlackClock "0:01:28"]
 
@@ -318,7 +298,6 @@
 [BlackElo "2699"]
 [Result "1-0"]
 [Round "11"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:02:09"]
 [BlackClock "0:01:16"]
 
@@ -337,7 +316,6 @@
 [Result "1/2-1/2"]
 [Round "06"]
 [TimeControl "5400+30"]
-[Date "2021.10.12"]
 [WhiteClock "0:49:03"]
 [BlackClock "0:39:27"]
 
@@ -357,7 +335,6 @@
 [Result "1/2-1/2"]
 [Round "09"]
 [TimeControl "5400+30"]
-[Date "2021.10.16"]
 [WhiteClock "0:01:26"]
 [BlackClock "0:17:30"]
 
@@ -377,7 +354,6 @@
 [Result "1/2-1/2"]
 [Round "11"]
 [TimeControl "5400+30"]
-[Date "2021.10.18"]
 [WhiteClock "1:07:56"]
 [BlackClock "0:31:50"]
 
@@ -397,7 +373,6 @@
 [Result "1/2-1/2"]
 [Round "20-01"]
 [TimeControl "300+1"]
-[Date "2021.11.15"]
 [WhiteClock "0:01:28"]
 [BlackClock "0:01:16"]
 
@@ -417,7 +392,6 @@
 [Result "1/2-1/2"]
 [Round "21-01"]
 [TimeControl "180+1"]
-[Date "2021.11.15"]
 [WhiteClock "0:00:12"]
 [BlackClock "0:00:05"]
 
@@ -437,7 +411,6 @@
 [Result "1/2-1/2"]
 [Round "21-11"]
 [TimeControl "180+1"]
-[Date "2021.11.15"]
 [WhiteClock "0:00:36"]
 [BlackClock "0:00:42"]
 
@@ -457,7 +430,6 @@
 [Result "1/2-1/2"]
 [Round "22-04"]
 [TimeControl "60+1"]
-[Date "2021.11.15"]
 [WhiteClock "0:00:20"]
 [BlackClock "0:00:29"]
 
@@ -477,7 +449,6 @@
 [Result "1/2-1/2"]
 [Round "35-07"]
 [TimeControl "300+1"]
-[Date "2021.12.09"]
 [WhiteClock "0:00:09"]
 [BlackClock "0:00:16"]
 
@@ -497,7 +468,6 @@
 [Result "1/2-1/2"]
 [Round "36-08"]
 [TimeControl "180+1"]
-[Date "2021.12.09"]
 [WhiteClock "0:00:44"]
 [BlackClock "0:00:06"]
 
@@ -517,7 +487,6 @@
 [Result "1/2-1/2"]
 [Round "37-03"]
 [TimeControl "60+1"]
-[Date "2021.12.09"]
 [WhiteClock "0:00:15"]
 [BlackClock "0:00:10"]
 
@@ -537,7 +506,6 @@
 [Result "1/2-1/2"]
 [Round "35-05"]
 [TimeControl "300+1"]
-[Date "2021.12.09"]
 [WhiteClock "0:01:41"]
 [BlackClock "0:01:14"]
 
@@ -557,7 +525,6 @@
 [Result "1/2-1/2"]
 [Round "35-09"]
 [TimeControl "300+1"]
-[Date "2021.12.09"]
 [WhiteClock "0:00:08"]
 [BlackClock "0:00:09"]
 

@@ -1,6 +1,5 @@
 [Event "It (cat.20)"]
 [Site "Morelia (Mexico)"]
-[Date "2006.02.25"]
 [Round "6"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -26,7 +25,6 @@ Ke6 49.Rb5 Kd7 50.Nf4 Bd4 51.Rd5 Ba7 52.Rxd6+ Kxd6 53.Ng2 Ke5
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2006.03.10"]
 [Round "13"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Svidler Peter (RUS)"]
@@ -50,7 +48,6 @@ Qf8 36.Qg6+ Qg7 37.Qxf5 Rc5 38.Qe4 Nc6 39.Nd5 Qxb2 40.Qf5 Rc1
 
 [Event "Ch Russia (club)"]
 [Site "Sochi (Russia)"]
-[Date "2006.04.26"]
 [Round "7"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Zvjaginsev Vadim (RUS)"]
@@ -80,7 +77,6 @@ Bc4+ 78.Bd3 Bxd3+ 79.Kxd3 1-0
 
 [Event "Ch Russia (club)"]
 [Site "Sochi (Russia)"]
-[Date "2006.04.28"]
 [Round "9"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Miton Kamil (POL)"]
@@ -103,7 +99,6 @@ Bd8 31.Bf3 Rf2 32.Bh5 Rg2 33.Rf7+ Kg8 34.Rb7 Bb6 35.Bf7+ Kh8
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.05.30"]
 [Round "9"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Shirov Alexei (ESP)"]
@@ -126,7 +121,6 @@ Rhe8 32.Ne6+ Kh6 33.Nxc7 Bd8 34.d6 Bxc7 35.dxc7 Re7 36.Rd6 a3
 
 [Event "Olympiad"]
 [Site "Turin (Italy)"]
-[Date "2006.06.03"]
 [Round "12"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Dao Thien Hai (VIE)"]
@@ -149,7 +143,6 @@ Qh6 36.Kg3 g6 37.hxg6 Qxg6+ 38.Rg4 1-0
 
 [Event "It (cat.17)"]
 [Site "Biel (Switzerland)"]
-[Date "2006.07.24"]
 [Round "1"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Volokitin Andrei (UKR)"]
@@ -172,7 +165,6 @@ Qa5 36.Qg5+ Kf8 37.Rxc5 dxc5 38.Qxe5 Qd2 39.Bc2 Bd3 1-0
 
 [Event "It (cat.17)"]
 [Site "Biel (Switzerland)"]
-[Date "2006.07.28"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Bruzon Lazaro (CUB)"]
@@ -196,7 +188,6 @@ Be1 42.d6 Rd8 43.Rb7 1-0
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2006.08.17"]
 [Round "2"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Anand Viswanathan (IND)"]
@@ -220,7 +211,6 @@ Nf2 30.Rxg7+ Kf8 31.Bf6 Nd3+ 32.Nxd3 cxd3 33.Kd2 c5 34.Rh7 Ke8
 
 [Event "Ch World (blitz)"]
 [Site "Rishon le Zion (Israel)"]
-[Date "2006.09.07"]
 [Round "5"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Anand Viswanathan (IND)"]
@@ -239,7 +229,6 @@ Qa4 14.Be2 Nc6 15.Nxe6 g5 16.Nf6+ 1-0
 
 [Event "Ch World (blitz)"]
 [Site "Rishon le Zion (Israel)"]
-[Date "2006.09.07"]
 [Round "12"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Erenburg Sergey (ISR)"]
@@ -264,7 +253,6 @@ fxe6 47.Bc7 1-0
 
 [Event "Ch World (blitz)"]
 [Site "Rishon le Zion (Israel)"]
-[Date "2006.09.07"]
 [Round "11"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Gagunashvili Merab (GEO)"]
@@ -288,7 +276,6 @@ Kh7 37.Qc7 Kg8 38.Qc8 Kg7 39.Bh6+ Kxh6 40.Qxf8+ Kg5 41.Qxf7 Qb3
 
 [Event "Ch World (blitz)"]
 [Site "Rishon le Zion (Israel)"]
-[Date "2006.09.07"]
 [Round "7"]
 [White "Radjabov Teimour (AZE)"]
 [Black "Gurevich Dmitry (USA)"]
@@ -309,7 +296,6 @@ Ba8 25.Rxc3 1-0
 
 [Event "GM"]
 [Site "Biel SUI"]
-[Date "2007.07.24"]
 [Round "2"]
 [White "Radjabov, T."]
 [Black "Bu Xiangzhi"]
@@ -318,7 +304,6 @@ Ba8 25.Rxc3 1-0
 [WhiteElo "2746"]
 [BlackElo "2685"]
 [PlyCount "29"]
-[EventDate "2007.07.23"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
 Nc6 9. Nxc6 bxc6 10. Be2 Rb8 11. a3 d5 12. b4 c5 13. Bxf6 gxf6 14. Na4 Qc6 15.
@@ -327,7 +312,6 @@ Nxc5 1/2-1/2
 
 [Event "GM"]
 [Site "Biel SUI"]
-[Date "2007.07.27"]
 [Round "4"]
 [White "Radjabov, T."]
 [Black "Polgar, Ju"]
@@ -336,7 +320,6 @@ Nxc5 1/2-1/2
 [WhiteElo "2746"]
 [BlackElo "2707"]
 [PlyCount "87"]
-[EventDate "2007.07.23"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 d5 6. Bg2 Nc6 7. O-O dxc4 8. dxc5
 Qxd1 9. Rxd1 Bxc5 10. Nd2 Na5 11. Nde4 Nxe4 12. Nxe4 Be7 13. Bd2 Nc6 14. Bc3 f6
@@ -349,7 +332,6 @@ Kg3 h5 35. Bb5 Ke7 36. Bb4+ Kf7 37. Bc4 Ke6 38. Bd6 Ba4 39. Ba6 Kd7 40. Bb8 Bc6
 
 [Event "GM"]
 [Site "Biel SUI"]
-[Date "2007.08.01"]
 [Round "8"]
 [White "Radjabov, T."]
 [Black "Motylev, A."]
@@ -358,7 +340,6 @@ Kg3 h5 35. Bb5 Ke7 36. Bb4+ Kf7 37. Bc4 Ke6 38. Bd6 Ba4 39. Ba6 Kd7 40. Bb8 Bc6
 [WhiteElo "2746"]
 [BlackElo "2648"]
 [PlyCount "31"]
-[EventDate "2007.07.23"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nd2 Qxf3
 8. gxf3 d5 9. Rg1 Ne7 10. Nb3 Bd6 11. Rxg7 Ng6 12. Bh6 Bxh2 13. O-O-O Bd6 14.
@@ -367,7 +348,6 @@ Bg5 h5 15. c4 dxe4 16. fxe4 1/2-1/2
 
 [Event "23rd ECC Men"]
 [Site "Kemer TUR"]
-[Date "2007.10.07"]
 [Round "5"]
 [White "Radjabov, T."]
 [Black "Eljanov, P."]
@@ -376,7 +356,6 @@ Bg5 h5 15. c4 dxe4 16. fxe4 1/2-1/2
 [WhiteElo "2742"]
 [BlackElo "2681"]
 [PlyCount "67"]
-[EventDate "2007.10.03"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nd2 d6 8.
 Nb3 Bb6 9. Bd3 Qxf3 10. gxf3 Ne7 11. a4 a5 12. Be3 f5 13. Bxb6 cxb6 14. Rg1
@@ -388,7 +367,6 @@ Bc4 Bd7 34. Bd3 1/2-1/2
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.10.29"]
 [Round "2"]
 [White "Radjabov, T."]
 [Black "Cheparinov, I."]
@@ -397,7 +375,6 @@ Bc4 Bd7 34. Bd3 1/2-1/2
 [WhiteElo "2742"]
 [BlackElo "2670"]
 [PlyCount "67"]
-[EventDate "2007.10.28"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Bxg5+ 14. Kb1 O-O
@@ -409,7 +386,6 @@ Kf7 34. Rxd4 1/2-1/2
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.03"]
 [Round "6"]
 [White "Radjabov, T."]
 [Black "Pavasovic, D."]
@@ -418,7 +394,6 @@ Kf7 34. Rxd4 1/2-1/2
 [WhiteElo "2742"]
 [BlackElo "2597"]
 [PlyCount "121"]
-[EventDate "2007.10.28"]
 
 1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. g3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 Nd5 8. a4
 Bb7 9. e4 Nf6 10. d5 Nbd7 11. Nc6 Bxc6 12. dxc6 Ne5 13. Bf4 Bd6 14. axb5 axb5
@@ -434,7 +409,6 @@ Nb6+ Kd4 60. Nd7 c4 61. Ne5 1/2-1/2
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.04"]
 [Round "7"]
 [White "Radjabov, T."]
 [Black "Karjakin, Sergey"]
@@ -443,7 +417,6 @@ Nb6+ Kd4 60. Nd7 c4 61. Ne5 1/2-1/2
 [WhiteElo "2742"]
 [BlackElo "2694"]
 [PlyCount "85"]
-[EventDate "2007.10.28"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
 Qc7 9. O-O-O b5 10. a3 Bb7 11. g4 Be7 12. Bg2 O-O 13. Bh4 g6 14. Rhf1 Nb6 15.
@@ -456,7 +429,6 @@ Kd3 Rec6 41. Kc2 Re4 42. Kb3 Rce6 43. a4 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.19"]
 [Round "6"]
 [White "Radjabov, Teimour"]
 [Black "Ponomariov, Ruslan"]
@@ -464,7 +436,6 @@ Kd3 Rec6 41. Kc2 Re4 42. Kb3 Rce6 43. a4 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2723"]
 [ECO "E15"]
-[EventDate "2007.01.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Ba6 7. b3 d5 
 8. cxd5 exd5 9. Nc3 c5 10. Bg2 Nc6 11. Ne5 Nxd4 12. e3 Ne6 13. Nxd5 O-O 
@@ -473,7 +444,6 @@ Kd3 Rec6 41. Kc2 Re4 42. Kb3 Rce6 43. a4 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.24"]
 [Round "10"]
 [White "Radjabov, Teimour"]
 [Black "Svidler, Peter"]
@@ -481,7 +451,6 @@ Kd3 Rec6 41. Kc2 Re4 42. Kb3 Rce6 43. a4 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2728"]
 [ECO "B41"]
-[EventDate "2007.01.13"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 
 8. a3 Bxc3+ 9. bxc3 Ne5 10. O-O d6 11. f4 Nxd3 12. Qxd3 e5 13. fxe5 dxe5 
@@ -491,7 +460,6 @@ Kd3 Rec6 41. Kc2 Re4 42. Kb3 Rce6 43. a4 1/2-1/2
 
 [Event "1. ACP World Rapid Cup"]
 [Site "Odessa UKR"]
-[Date "2007.01.07"]
 [Round "2.2"]
 [White "Radjabov, Teimour"]
 [Black "Morozevich, Alexander"]
@@ -499,7 +467,6 @@ Kd3 Rec6 41. Kc2 Re4 42. Kb3 Rce6 43. a4 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2741"]
 [ECO "E91"]
-[EventDate "2007.01.05"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Na6 7. O-O c6 8. 
 Be3 Qe8 9. e5 Ng4 10. Bf4 dxe5 11. dxe5 Nc5 12. h3 Ne6 13. Bg3 Nh6 14. Bd3
@@ -514,7 +481,6 @@ Qxf5 Rxf5 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.14"]
 [Round "2"]
 [White "Radjabov, Teimour"]
 [Black "Karjakin, Sergey"]
@@ -522,7 +488,6 @@ Qxf5 Rxf5 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2678"]
 [ECO "E15"]
-[EventDate "2007.01.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. 
 Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 b5 14. Re1
@@ -542,7 +507,6 @@ Kf3 Rh6 62. Qf5+ Kg7 63. Qe5+ Kh7 64. Qe4+ Kg7 65. Qd4+ Kh7 66. Kg4 Re6
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.28"]
 [Round "13"]
 [White "Radjabov, Teimour"]
 [Black "Topalov, Veselin"]
@@ -550,7 +514,6 @@ Kf3 Rh6 62. Qf5+ Kg7 63. Qe5+ Kh7 64. Qe4+ Kg7 65. Qd4+ Kh7 66. Kg4 Re6
 [WhiteElo "2729"]
 [BlackElo "2783"]
 [ECO "E08"]
-[EventDate "2007.01.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
  Bf4 Nbd7 9. Qc2 a5 10. Rd1 Nh5 11. Bc1 b5 12. cxd5 cxd5 13. e4 dxe4 14. 

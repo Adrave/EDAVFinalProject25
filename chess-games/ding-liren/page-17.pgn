@@ -1,6 +1,5 @@
 [Event "Ding vs So Match 2016"]
 [Site "Shanghai CHN"]
-[Date "2016.05.07"]
 [Round "3"]
 [White "Ding Liren"]
 [Black "So, W."]
@@ -9,7 +8,6 @@
 [WhiteElo "2778"]
 [BlackElo "2775"]
 [PlyCount "75"]
-[EventDate "2016.05.04"]
 [EventType "match"]
 [EventRounds "4"]
 [EventCountry "CHN"]
@@ -26,7 +24,6 @@ Qxc7 f3+ 35. Kh2 Rd2 36. Rxc2 Rxc2 37. exf7+ Kg7 38. Qxc2 1-0
 
 [Event "78th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2016.01.21"]
 [Round "5.5"]
 [White "Ding Liren"]
 [Black "Karjakin, Sergey"]
@@ -35,7 +32,6 @@ Qxc7 f3+ 35. Kh2 Rd2 36. Rxc2 Rxc2 37. exf7+ Kg7 38. Qxc2 1-0
 [WhiteElo "2766"]
 [BlackElo "2769"]
 [PlyCount "109"]
-[EventDate "2016.01.16"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -56,7 +52,6 @@ Kc5 47. Be3+ Kb5 48. Ke2 Nh4 49. Bd2 Nf5 50. Kf3 Nd4+ 51. Kf4 Nc6 52. Be3 Ka6
 
 [Event "78th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2016.01.16"]
 [Round "1.4"]
 [White "Ding Liren"]
 [Black "Adams, Mi"]
@@ -65,7 +60,6 @@ Kc5 47. Be3+ Kb5 48. Ke2 Nh4 49. Bd2 Nf5 50. Kf3 Nd4+ 51. Kf4 Nc6 52. Be3 Ka6
 [WhiteElo "2766"]
 [BlackElo "2744"]
 [PlyCount "121"]
-[EventDate "2016.01.16"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -87,7 +81,6 @@ Kh7 60. Rxd8 Re4 61. Rh8+ 1-0
 
 [Event "Palma De Mallorca GP 2017"]
 [Site "Palma de Mallorca ESP"]
-[Date "2017.11.16"]
 [Round "1.4"]
 [White "Ding Liren"]
 [Black "Vallejo Pons, F."]
@@ -96,7 +89,6 @@ Kh7 60. Rxd8 Re4 61. Rh8+ 1-0
 [WhiteElo "2774"]
 [BlackElo "2705"]
 [PlyCount "40"]
-[EventDate "2017.11.16"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ESP"]
@@ -109,7 +101,6 @@ Qxd5 15. c3 Rd8 16. Bf4 c5 17. dxc5 Qxc5 18. Qf3 Qd5 19. Qxd5 Rxd5 20. a4 O-O
 
 [Event "Palma De Mallorca GP 2017"]
 [Site "Palma de Mallorca ESP"]
-[Date "2017.11.23"]
 [Round "7.5"]
 [White "Ding Liren"]
 [Black "Giri, A."]
@@ -118,7 +109,6 @@ Qxd5 15. c3 Rd8 16. Bf4 c5 17. dxc5 Qxc5 18. Qf3 Qd5 19. Qxd5 Rxd5 20. a4 O-O
 [WhiteElo "2774"]
 [BlackElo "2762"]
 [PlyCount "83"]
-[EventDate "2017.11.16"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ESP"]
@@ -134,7 +124,6 @@ Rxc8 Bxc8 28. Bb3 Kf6 29. Ke3 Bd7 30. a4 Nf7 31. Kd4 h6 32. a5 b6 33. axb6 axb6
 
 [Event "TCh-CHN 2017"]
 [Site "China CHN"]
-[Date "2017.12.04"]
 [Round "21.5"]
 [White "Ding Liren"]
 [Black "Zhao Zong Yuan"]
@@ -143,7 +132,6 @@ Rxc8 Bxc8 28. Bb3 Kf6 29. Ke3 Bd7 30. a4 Nf7 31. Kd4 h6 32. a5 b6 33. axb6 axb6
 [WhiteElo "2777"]
 [BlackElo "2543"]
 [PlyCount "296"]
-[EventDate "2017.04.18"]
 [EventType "team"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -178,7 +166,6 @@ Kc5 Ra4 146. Re5 Kd7 147. f6 Ra6 148. f7 Rf6 1/2-1/2
 
 [Event "TCh-CHN 2017"]
 [Site "China CHN"]
-[Date "2017.12.02"]
 [Round "19.4"]
 [White "Ding Liren"]
 [Black "Zhou Jianchao"]
@@ -187,7 +174,6 @@ Kc5 Ra4 146. Re5 Kd7 147. f6 Ra6 148. f7 Rf6 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2597"]
 [PlyCount "97"]
-[EventDate "2017.04.18"]
 [EventType "team"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -206,7 +192,6 @@ Rc8 47. Bf4 Re8 48. Bg3 Rc8 49. Bf4 1/2-1/2
 
 [Event "2nd IMSA Rapid 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.11"]
 [Round "7.4"]
 [White "Ding Liren"]
 [Black "Ivanchuk, V."]
@@ -215,7 +200,6 @@ Rc8 47. Bf4 Re8 48. Bg3 Rc8 49. Bf4 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2726"]
 [PlyCount "76"]
-[EventDate "2017.12.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -230,7 +214,6 @@ Kd7 35. Bf4 Bxf4 36. Kxf4 Ke8 37. Kg5 Kf8 38. Kh6 Kg8 1/2-1/2
 
 [Event "2nd IMSA Basque 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.15"]
 [Round "4.2"]
 [White "Ding Liren"]
 [Black "Harikrishna, P."]
@@ -239,7 +222,6 @@ Kd7 35. Bf4 Bxf4 36. Kxf4 Ke8 37. Kg5 Kf8 38. Kh6 Kg8 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2744"]
 [PlyCount "77"]
-[EventDate "2017.12.14"]
 [EventType "swiss"]
 [EventRounds "5"]
 [EventCountry "CHN"]
@@ -255,7 +237,6 @@ Nd5 34. Nd7 Qa5 35. Rd1 Re8 36. Ne5 Qxb6 37. Qxb6 Nxb6 38. Rb1 Nd5 39. Rxb7
 
 [Event "2nd IMSA Basque 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.14"]
 [Round "2.1"]
 [White "Ding Liren"]
 [Black "Mamedyarov, S."]
@@ -264,7 +245,6 @@ Nd5 34. Nd7 Qa5 35. Rd1 Re8 36. Ne5 Qxb6 37. Qxb6 Nxb6 38. Rb1 Nd5 39. Rxb7
 [WhiteElo "2777"]
 [BlackElo "2799"]
 [PlyCount "109"]
-[EventDate "2017.12.14"]
 [EventType "swiss"]
 [EventRounds "5"]
 [EventCountry "CHN"]
@@ -282,7 +262,6 @@ Bc2 Kg5 54. Bd1 Kh4 55. Bc2 1/2-1/2
 
 [Event "2nd IMSA Basque 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.14"]
 [Round "3.1"]
 [White "Ding Liren"]
 [Black "Wang Hao"]
@@ -291,7 +270,6 @@ Bc2 Kg5 54. Bd1 Kh4 55. Bc2 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2709"]
 [PlyCount "70"]
-[EventDate "2017.12.14"]
 [EventType "swiss"]
 [EventRounds "5"]
 [EventCountry "CHN"]
@@ -306,7 +284,6 @@ Nd7 35. Nd3 Nf6 1/2-1/2
 
 [Event "2nd IMSA Blitz 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.13"]
 [Round "22.3"]
 [White "Ding Liren"]
 [Black "Korobov, A."]
@@ -315,7 +292,6 @@ Nd7 35. Nd3 Nf6 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2652"]
 [PlyCount "107"]
-[EventDate "2017.12.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -334,7 +310,6 @@ Rc4+ 53. Rc5 Rxc5+ 54. Kxc5 1/2-1/2
 
 [Event "2nd IMSA Blitz 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.13"]
 [Round "13.4"]
 [White "Ding Liren"]
 [Black "Artemiev, V."]
@@ -343,7 +318,6 @@ Rc4+ 53. Rc5 Rxc5+ 54. Kxc5 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2691"]
 [PlyCount "76"]
-[EventDate "2017.12.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -359,7 +333,6 @@ hxg5 hxg5 34. Re4 Kd6 35. Rb4 Kc6 36. Re4 Kd6 37. Rb4 Kc6 38. Re4 Kd6 1/2-1/2
 
 [Event "2nd IMSA Blitz 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.12"]
 [Round "3.3"]
 [White "Ding Liren"]
 [Black "Harikrishna, P."]
@@ -368,7 +341,6 @@ hxg5 hxg5 34. Re4 Kd6 35. Rb4 Kc6 36. Re4 Kd6 37. Rb4 Kc6 38. Re4 Kd6 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2744"]
 [PlyCount "72"]
-[EventDate "2017.12.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -384,7 +356,6 @@ Nc7+ Kd7 34. Nb5 Ke6 35. Nc7+ Kd7 36. Nb5 Ke6 1/2-1/2
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.27"]
 [Round "10.8"]
 [White "Ding Liren"]
 [Black "Saric, Iv"]
@@ -393,7 +364,6 @@ Nc7+ Kd7 34. Nb5 Ke6 35. Nc7+ Kd7 36. Nb5 Ke6 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2669"]
 [PlyCount "69"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -408,7 +378,6 @@ Kd5 28. Ke3 a5 29. Rf7 axb4 30. axb4 Ra8 31. Kf4 Kxd4 32. Rd7+ Kc4 33. Rxb7 e3
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.27"]
 [Round "6.10"]
 [White "Ding Liren"]
 [Black "Leko, P."]
@@ -417,7 +386,6 @@ Kd5 28. Ke3 a5 29. Rf7 axb4 30. axb4 Ra8 31. Kf4 Kxd4 32. Rd7+ Kc4 33. Rxb7 e3
 [WhiteElo "2777"]
 [BlackElo "2691"]
 [PlyCount "69"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -432,7 +400,6 @@ f6 34. Nd3 a5 35. bxa5 1/2-1/2
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.26"]
 [Round "4.19"]
 [White "Ding Liren"]
 [Black "Li Chao2"]
@@ -441,7 +408,6 @@ f6 34. Nd3 a5 35. bxa5 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2732"]
 [PlyCount "54"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -455,7 +421,6 @@ bxc3 Bxc3 1/2-1/2
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.28"]
 [Round "15.8"]
 [White "Ding Liren"]
 [Black "Harikrishna, P."]
@@ -464,7 +429,6 @@ bxc3 Bxc3 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2744"]
 [PlyCount "39"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -477,7 +441,6 @@ Bd6 15. Rd1 Qe5 16. g3 Qf5 17. Kg2 Rab8 18. Qf3 Qxf3+ 19. Kxf3 Be5 20. Rd3
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.28"]
 [Round "13.4"]
 [White "Ding Liren"]
 [Black "Svidler, P."]
@@ -486,7 +449,6 @@ Bd6 15. Rd1 Qe5 16. g3 Qf5 17. Kg2 Rab8 18. Qf3 Qxf3+ 19. Kxf3 Be5 20. Rd3
 [WhiteElo "2777"]
 [BlackElo "2765"]
 [PlyCount "93"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -503,7 +465,6 @@ Ra5 Bb3 41. Kd4 Kf6 42. Re5 Bd5 43. Kc5 Ke7 44. Re3 Kf6 45. Re5 Ke7 46. Rg5 Be4
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "1.5"]
 [White "Ding Liren"]
 [Black "Ponkratov, P."]
@@ -512,7 +473,6 @@ Ra5 Bb3 41. Kd4 Kf6 42. Re5 Bd5 43. Kc5 Ke7 44. Re3 Kf6 45. Re5 Ke7 46. Rg5 Be4
 [WhiteElo "2777"]
 [BlackElo "2613"]
 [PlyCount "89"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 c5 7. O-O O-O 8. Bxb4
@@ -526,7 +486,6 @@ Nc6 40. Ne3 Nb4 41. h4 f5+ 42. Ke5 Kf7 43. Kd6 Nd3 44. f4 Nf2 45. Kxc5 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "14.3"]
 [White "Ding Liren"]
 [Black "Vachier Lagrave, M."]
@@ -535,7 +494,6 @@ Nc6 40. Ne3 Nb4 41. h4 f5+ 42. Ke5 Kf7 43. Kd6 Nd3 44. f4 Nf2 45. Kxc5 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2789"]
 [PlyCount "29"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c5 6. d5 d6 7. Nc3 e6 8. O-O
@@ -545,7 +503,6 @@ Nf3 1/2-1/2
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "13.2"]
 [White "Ding Liren"]
 [Black "Karjakin, Sergey"]
@@ -554,7 +511,6 @@ Nf3 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2760"]
 [PlyCount "34"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nd2 O-O 6. Ngf3 b6 7. O-O Bb7 8. b3
@@ -564,7 +520,6 @@ c5 9. Bb2 Nc6 10. cxd5 Nxd5 11. Ne4 cxd4 12. Nxd4 Re8 13. Rc1 Nxd4 14. Qxd4 Bf8
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "21.6"]
 [White "Ding Liren"]
 [Black "Melkumyan, H."]
@@ -573,7 +528,6 @@ c5 9. Bb2 Nc6 10. cxd5 Nxd5 11. Ne4 cxd4 12. Nxd4 Re8 13. Rc1 Nxd4 14. Qxd4 Bf8
 [WhiteElo "2777"]
 [BlackElo "2633"]
 [PlyCount "41"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 8.
@@ -584,7 +538,6 @@ Rd1 1/2-1/2
 
 [Event "TCh-CHN 2017"]
 [Site "China CHN"]
-[Date "2017.08.21"]
 [Round "15.2"]
 [White "Ding, Liren"]
 [Black "Xu, Zhihang"]
@@ -592,7 +545,6 @@ Rd1 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2369"]
 [ECO "B36"]
-[EventDate "2017.04.18"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
 8. f3 Bg7 9. Be3 O-O 10. Qd2 a5 11. b3 a4 12. b4 Be6 13. Rc1 Nd7 14. Be2 
@@ -606,7 +558,6 @@ Ra1 44. Kxe2 a2 45. h6 Rh1 46. h7 Rxh7 47. Kd3 Ke5 1/2-1/2
 
 [Event "Ding Liren vs Giri Match"]
 [Site "Wenzhou CHN"]
-[Date "2017.08.11"]
 [Round "4"]
 [White "Ding, Liren"]
 [Black "Giri, Anish"]
@@ -614,7 +565,6 @@ Ra1 44. Kxe2 a2 45. h6 Rh1 46. h7 Rxh7 47. Kd3 Ke5 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2772"]
 [ECO "A09"]
-[EventDate "2017.08.08"]
 
 1. Nf3 d5 2. c4 d4 3. b4 f6 4. d3 e5 5. a3 a5 6. b5 Ne7 7. e3 dxe3 8. fxe3
 Nf5 9. g4 Nd6 10. Rg1 Be6 11. Qc2 Nd7 12. d4 e4 13. Nh4 f5 14. Ng2 fxg4 

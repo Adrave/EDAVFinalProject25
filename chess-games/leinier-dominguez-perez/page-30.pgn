@@ -1,6 +1,5 @@
 [Event "GMA"]
 [Site "Sarajevo BIH"]
-[Date "2008.05.23"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Predojevic, B."]
@@ -9,7 +8,6 @@
 [WhiteElo "2695"]
 [BlackElo "2651"]
 [PlyCount "114"]
-[EventDate "2008.05.23"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
 Nbd7 9. f3 b5 10. O-O-O Be7 11. g4 b4 12. Nd5 Bxd5 13. exd5 Nb6 14. Na5 Nbxd5
@@ -24,7 +22,6 @@ Rg6+ Ke5 54. Kb4 Rd6 55. Kb5 Rd2 56. Bc4 Rc2 57. Rg2 e3 1-0
 
 [Event "GMA"]
 [Site "Sarajevo BIH"]
-[Date "2008.05.24"]
 [Round "2"]
 [White "Dominguez Perez, L."]
 [Black "Timofeev, Arty"]
@@ -33,7 +30,6 @@ Rg6+ Ke5 54. Kb4 Rd6 55. Kb5 Rd2 56. Bc4 Rc2 57. Rg2 e3 1-0
 [WhiteElo "2695"]
 [BlackElo "2664"]
 [PlyCount "60"]
-[EventDate "2008.05.23"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. Qd2 Be7 8. f3
 O-O 9. O-O-O d5 10. Bb5 Nxd4 11. Qxd4 a6 12. Ba4 dxe4 13. Qe5 Bd7 14. Bxd7 Nxd7
@@ -44,7 +40,6 @@ Qc4 Bf4 22. Bxf4 Qxc4 23. Nxc4 Nxf4 24. Ne3 g5 25. c4 f5 26. Kc2 h5 27. b4 Kg7
 
 [Event "GMA"]
 [Site "Sarajevo BIH"]
-[Date "2008.05.26"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Morozevich, A."]
@@ -53,7 +48,6 @@ Qc4 Bf4 22. Bxf4 Qxc4 23. Nxc4 Nxf4 24. Ne3 g5 25. c4 f5 26. Kc2 h5 27. b4 Kg7
 [WhiteElo "2695"]
 [BlackElo "2774"]
 [PlyCount "48"]
-[EventDate "2008.05.23"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
 O-O-O Be7 9. f3 O-O 10. g4 b5 11. g5 Ne8 12. h4 Ne5 13. h5 Bb7 14. g6 Rc8 15.
@@ -63,7 +57,6 @@ Rxd7 Bxh1 22. gxh7+ Kxh7 23. Bd3+ Kg8 24. Rxe7 Nf6 1/2-1/2
 
 [Event "43rd Capablanca Memorial"]
 [Site "Havana CUB"]
-[Date "2008.05.08"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Wojtaszek, R."]
@@ -72,7 +65,6 @@ Rxd7 Bxh1 22. gxh7+ Kxh7 23. Bd3+ Kg8 24. Rxe7 Nf6 1/2-1/2
 [WhiteElo "2695"]
 [BlackElo "2625"]
 [PlyCount "63"]
-[EventDate "2008.05.08"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
 Be6 9. Qd2 O-O 10. O-O-O a5 11. a4 Na6 12. g4 Nb4 13. Kb1 Qc7 14. g5 Nd7 15. f4
@@ -83,7 +75,6 @@ Bf3 28. Qxf3 Ne5 29. Qf2 g6 30. Rg1 Qd8 31. Qc5 Nf3 32. Qc3 1-0
 
 [Event "43rd Capablanca Memorial"]
 [Site "Havana CUB"]
-[Date "2008.05.13"]
 [Round "5"]
 [White "Dominguez Perez, L."]
 [Black "Nogueiras Santiago, J."]
@@ -92,7 +83,6 @@ Bf3 28. Qxf3 Ne5 29. Qf2 g6 30. Rg1 Qd8 31. Qc5 Nf3 32. Qc3 1-0
 [WhiteElo "2695"]
 [BlackElo "2559"]
 [PlyCount "122"]
-[EventDate "2008.05.08"]
 
 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8.
 Ne5 a6 9. Be3 Qc7 10. Qa4+ Nd7 11. Bb5 cxd4 12. Bxd7+ Bxd7 13. Qxd4 f6 14. Nxd7
@@ -108,7 +98,6 @@ Kxe4 Ke6 59. Rh4 Ra1 60. Kf3 Rf1+ 61. Ke2 Ra1 1-0
 
 [Event "43rd Capablanca Memorial"]
 [Site "Havana CUB"]
-[Date "2008.05.17"]
 [Round "9"]
 [White "Dominguez Perez, L."]
 [Black "Arencibia Rodriguez, W."]
@@ -117,7 +106,6 @@ Kxe4 Ke6 59. Rh4 Ra1 60. Kf3 Rf1+ 61. Ke2 Ra1 1-0
 [WhiteElo "2695"]
 [BlackElo "2534"]
 [PlyCount "91"]
-[EventDate "2008.05.08"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qg4
 g6 9. Qf4 Qxc2 10. Nf3 c4 11. Be2 h6 12. O-O Nc6 13. Rfe1 g5 14. Qg4 Qg6 15.
@@ -131,7 +119,6 @@ Bg6 41. Qe5 Rxf4 42. Qe6+ Kb8 43. Qxg6 R4f6 44. Re8+ Kc7 45. Rh7+ Kb6 46. Re6+
 
 [Event "41st Festival GM"]
 [Site "Biel SUI"]
-[Date "2008.07.24"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Bacrot, E."]
@@ -140,7 +127,6 @@ Bg6 41. Qe5 Rxf4 42. Qe6+ Kb8 43. Qxg6 R4f6 44. Re8+ Kc7 45. Rh7+ Kb6 46. Re6+
 [WhiteElo "2708"]
 [BlackElo "2691"]
 [PlyCount "97"]
-[EventDate "2008.07.20"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
 Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Bc8 14. c3 Be6 15. Bxe6
@@ -154,7 +140,6 @@ Ng6 47. Qf5 Kh7 48. h4 Qe1 49. Re4 1-0
 
 [Event "41st Festival GM"]
 [Site "Biel SUI"]
-[Date "2008.07.28"]
 [Round "7"]
 [White "Dominguez Perez, L."]
 [Black "Pelletier, Y."]
@@ -163,7 +148,6 @@ Ng6 47. Qf5 Kh7 48. h4 Qe1 49. Re4 1-0
 [WhiteElo "2708"]
 [BlackElo "2569"]
 [PlyCount "111"]
-[EventDate "2008.07.20"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 Rb8 12. c3 bxc3 13. bxc3 c5 14. d4 cxd4 15.
@@ -178,7 +162,6 @@ Nb3 47. Rc4 g5 48. g4+ Ke6 49. Rc6+ Ke7 50. Ng6+ Kf7 51. Rc7+ Ke6 52. f5+ Kd5
 
 [Event "41st Festival GM Playoff"]
 [Site "Biel SUI"]
-[Date "2008.07.31"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Alekseev, Evgeny"]
@@ -187,7 +170,6 @@ Nb3 47. Rc4 g5 48. g4+ Ke6 49. Rc6+ Ke7 50. Ng6+ Kf7 51. Rc7+ Ke6 52. f5+ Kd5
 [WhiteElo "2708"]
 [BlackElo "2708"]
 [PlyCount "88"]
-[EventDate "2008.07.31"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Re1 Bb6 8. h3
 Ne7 9. Nbd2 c6 10. Ba4 Ng6 11. Nf1 h6 12. Ng3 Re8 13. d4 Qc7 14. Bc2 Be6 15.
@@ -200,7 +182,6 @@ Qe6+ 40. Kf2 Qxf6 41. Re1 Qb6+ 42. Kg3 Qxb2 43. Re7 Kg7 44. Re3 Qxa2 0-1
 
 [Event "TCh-ESP Hon Gp2"]
 [Site "Sabadell ESP"]
-[Date "2008.09.04"]
 [Round "2"]
 [White "Dominguez Perez, L."]
 [Black "Dreev, A."]
@@ -209,7 +190,6 @@ Qe6+ 40. Kf2 Qxf6 41. Re1 Qb6+ 42. Kg3 Qxb2 43. Re7 Kg7 44. Re3 Qxa2 0-1
 [WhiteElo "2708"]
 [BlackElo "2657"]
 [PlyCount "58"]
-[EventDate "2008.09.03"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
 O-O-O Nxd4 9. Qxd4 a6 10. f3 O-O 11. h4 b5 12. Kb1 Bb7 13. g4 Rc8 14. Bd3 Nd7
@@ -220,7 +200,6 @@ O-O-O Nxd4 9. Qxd4 a6 10. f3 O-O 11. h4 b5 12. Kb1 Bb7 13. g4 Rc8 14. Bd3 Nd7
 
 [Event "IV World Blitz"]
 [Site "Almaty KAZ"]
-[Date "2008.11.08"]
 [Round "1"]
 [White "Dominguez Perez, L."]
 [Black "Polgar, Ju"]
@@ -229,7 +208,6 @@ O-O-O Nxd4 9. Qxd4 a6 10. f3 O-O 11. h4 b5 12. Kb1 Bb7 13. g4 Rc8 14. Bd3 Nd7
 [WhiteElo "2719"]
 [BlackElo "2711"]
 [PlyCount "92"]
-[EventDate "2008.11.08"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. a3 Bc5 8. Be3
 b6 9. b4 Be7 10. f3 Bb7 11. Qd2 d6 12. Be2 Nbd7 13. O-O O-O 14. Rfc1 Rac8 15.
@@ -242,7 +220,6 @@ Be5 41. g3 Nxg3+ 42. Kg2 Nh5 43. Qg5 Nf4+ 44. Kh1 h6 45. Qh4 Ne2 46. Be4 f6 1-0
 
 [Event "IV World Blitz"]
 [Site "Almaty KAZ"]
-[Date "2008.11.08"]
 [Round "3"]
 [White "Dominguez Perez, L."]
 [Black "Mamedyarov, S."]
@@ -251,7 +228,6 @@ Be5 41. g3 Nxg3+ 42. Kg2 Nh5 43. Qg5 Nf4+ 44. Kh1 h6 45. Qh4 Ne2 46. Be4 f6 1-0
 [WhiteElo "2719"]
 [BlackElo "2731"]
 [PlyCount "74"]
-[EventDate "2008.11.08"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. O-O O-O 7. Re1 Ba7 8. Bb3
 d6 9. h3 h6 10. Nbd2 Be6 11. Nf1 Qd7 12. Ng3 Rfe8 13. Bc2 d5 14. Qe2 Rad8 15.
@@ -263,7 +239,6 @@ Qe7 35. g5 Qxe4 36. g6 Kf8 37. gxf7 Re5 1-0
 
 [Event "IV World Blitz"]
 [Site "Almaty KAZ"]
-[Date "2008.11.08"]
 [Round "6"]
 [White "Dominguez Perez, L."]
 [Black "Morozevich, A."]
@@ -272,7 +247,6 @@ Qe7 35. g5 Qxe4 36. g6 Kf8 37. gxf7 Re5 1-0
 [WhiteElo "2719"]
 [BlackElo "2787"]
 [PlyCount "63"]
-[EventDate "2008.11.08"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 exd4 8. Qxd4
 Ne7 9. Qd3 c5 10. c4 Be6 11. Nbd2 Nxb3 12. axb3 b4 13. Rd1 Nc6 14. Nf1 Bg4 15.
@@ -283,7 +257,6 @@ Rf8 28. Nh5 Qa5 29. Nf6+ Kd8 30. Nxd7 Kxd7 31. Qxd3+ Kc8 32. Qf5+ 1-0
 
 [Event "IV World Blitz"]
 [Site "Almaty KAZ"]
-[Date "2008.11.08"]
 [Round "10"]
 [White "Dominguez Perez, L."]
 [Black "Grischuk, A."]
@@ -292,7 +265,6 @@ Rf8 28. Nh5 Qa5 29. Nf6+ Kd8 30. Nxd7 Kxd7 31. Qxd3+ Kc8 32. Qf5+ 1-0
 [WhiteElo "2719"]
 [BlackElo "2719"]
 [PlyCount "105"]
-[EventDate "2008.11.08"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
 Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 d4 14. g3
@@ -307,7 +279,6 @@ fxe5 Nxe5 28. Qxf6 Qd5+ 29. Kg1 Nf3+ 30. Kf2 Rxe2+ 31. Kxe2 Qe4+ 32. Kf1 Nxh2+
 
 [Event "IV World Blitz"]
 [Site "Almaty KAZ"]
-[Date "2008.11.08"]
 [Round "12"]
 [White "Dominguez Perez, L."]
 [Black "Kazhgaleyev, M."]
@@ -316,7 +287,6 @@ fxe5 Nxe5 28. Qxf6 Qd5+ 29. Kg1 Nf3+ 30. Kf2 Rxe2+ 31. Kxe2 Qe4+ 32. Kf1 Nxh2+
 [WhiteElo "2719"]
 [BlackElo "2640"]
 [PlyCount "44"]
-[EventDate "2008.11.08"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
 d6 9. d4 Bb6 10. axb5 axb5 11. Na3 O-O 12. Nxb5 Bg4 13. Be3 Nxe4 14. Qc2 Qe8
@@ -326,7 +296,6 @@ Qf5 Ne6 22. Rad1 g6 1-0
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.16"]
 [Round "4"]
 [White "Dominguez Perez, L."]
 [Black "Iturrizaga, E."]
@@ -335,7 +304,6 @@ Qf5 Ne6 22. Rad1 g6 1-0
 [WhiteElo "2719"]
 [BlackElo "2538"]
 [PlyCount "45"]
-[EventDate "2008.11.13"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
 Bb3 a5 9. O-O d6 10. Ndb5 b6 11. Qe2 Ba6 12. Rad1 Nd7 13. f4 Bxc3 14. bxc3 a4
@@ -345,7 +313,6 @@ Rxf1 Nxe5 22. Bh6 Rc5 23. Qf2 1-0
 
 [Event "38th Olympiad"]
 [Site "Dresden GER"]
-[Date "2008.11.20"]
 [Round "7"]
 [White "Dominguez Perez, L."]
 [Black "Buhmann, R."]
@@ -354,7 +321,6 @@ Rxf1 Nxe5 22. Bh6 Rc5 23. Qf2 1-0
 [WhiteElo "2719"]
 [BlackElo "2541"]
 [PlyCount "83"]
-[EventDate "2008.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 a6 8. Ba4
 Ba7 9. h3 h6 10. Re1 Ne7 11. Nf1 Ng6 12. Ng3 c6 13. d4 Re8 14. Bc2 Qc7 15. Be3
@@ -367,7 +333,6 @@ Kh7 41. Rb7 Rd7 42. Nf3 1-0
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.21"]
 [Round "1.1"]
 [White "Dominguez Perez, L."]
 [Black "Smerdon, D."]
@@ -376,7 +341,6 @@ Kh7 41. Rb7 Rd7 42. Nf3 1-0
 [WhiteElo "2719"]
 [BlackElo "2525"]
 [PlyCount "68"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -392,7 +356,6 @@ Qe3 Qa1 34. Qe7 Qa5 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.23"]
 [Round "1.4"]
 [White "Dominguez Perez, L."]
 [Black "Smerdon, D."]
@@ -401,7 +364,6 @@ Qe3 Qa1 34. Qe7 Qa5 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2525"]
 [PlyCount "73"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -417,7 +379,6 @@ Rd1 Rd8 35. Rh1 Rh8 36. Rd1 Rd8 37. Rh1 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "15"]
 [White "Dominguez Perez, L."]
 [Black "Aronian, L."]
@@ -426,7 +387,6 @@ Rd1 Rd8 35. Rh1 Rh8 36. Rd1 Rd8 37. Rh1 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2786"]
 [PlyCount "131"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -449,7 +409,6 @@ R8g7 65. Qf5 Kh6 66. Qf4+ 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.17"]
 [Round "17"]
 [White "Dominguez Perez, L."]
 [Black "Leko, P."]
@@ -458,7 +417,6 @@ R8g7 65. Qf5 Kh6 66. Qf4+ 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2752"]
 [PlyCount "64"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -475,7 +433,6 @@ Ra4 22. Bf1 Qa7 23. Rxa4 Nxa4 24. Ra1 b5 25. Qd2 Ra8 26. Nd1 Qb7 27. Ra3 Nb6
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "29"]
 [White "Dominguez Perez, L."]
 [Black "Gelfand, B."]
@@ -484,7 +441,6 @@ Ra4 22. Bf1 Qa7 23. Rxa4 Nxa4 24. Ra1 b5 25. Qd2 Ra8 26. Nd1 Qb7 27. Ra3 Nb6
 [WhiteElo "2719"]
 [BlackElo "2758"]
 [PlyCount "123"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -506,7 +462,6 @@ Rg6+ Kf7 60. Rg5 Re3 61. Rxh5 Rxg3 62. Rh7+ 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "31"]
 [White "Dominguez Perez, L."]
 [Black "Karpov, Ana"]
@@ -515,7 +470,6 @@ Rg6+ Kf7 60. Rg5 Re3 61. Rxh5 Rxg3 62. Rh7+ 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2619"]
 [PlyCount "63"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -532,7 +486,6 @@ Rh8 28. Kf2 Kc6 29. Bg5 Kd7 30. Ra5 Kc6 31. Ra1 Kd7 32. Ra5 1/2-1/2
 
 [Event "World Blitz"]
 [Site "Moscow RUS"]
-[Date "2009.11.18"]
 [Round "33"]
 [White "Dominguez Perez, L."]
 [Black "Carlsen, M."]
@@ -541,7 +494,6 @@ Rh8 28. Kf2 Kc6 29. Bg5 Kd7 30. Ra5 Kc6 31. Ra1 Kd7 32. Ra5 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2801"]
 [PlyCount "111"]
-[EventDate "2009.11.16"]
 [EventType "blitz"]
 [EventRounds "42"]
 [EventCountry "RUS"]
@@ -562,7 +514,6 @@ Qxa3+ 54. Kb1 Qb3+ 55. Ka1 Qa3+ 56. Kb1 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.25"]
 [Round "2.2"]
 [White "Dominguez Perez, L."]
 [Black "Caruana, F."]
@@ -571,7 +522,6 @@ Qxa3+ 54. Kb1 Qb3+ 55. Ka1 Qa3+ 56. Kb1 1/2-1/2
 [WhiteElo "2719"]
 [BlackElo "2652"]
 [PlyCount "50"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]

@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Didier M"]
@@ -22,7 +21,6 @@ Ne7 30.Ba6 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marco Georg (AUT)"]
@@ -53,7 +51,6 @@ Kg7 83.g6 Bd3 84.Kg5 Bc2 85.Ne5 Bb3 86.h6+ Kg8 87.Kf6 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Maroczy Geza (HUN)"]
@@ -75,7 +72,6 @@ Qg5+ 30.Kh3 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mason James (ENG)"]
@@ -97,7 +93,6 @@ Rg7 25.Bf5 Be7 26.Qxh6 c5 27.Re4 Rd8 28.Rd7 Rxd7 29.exd7 Qf8
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mieses Jacques (GER)"]
@@ -119,7 +114,6 @@ Re8+ 29.Kf1 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Mortimer James (USA)"]
@@ -141,7 +135,6 @@ Ke6 29.Qxd8 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Pillsbury Harry N (USA)"]
@@ -168,7 +161,6 @@ Rd7 59.Nc6 Be4 60.Nxa7 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1900.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Showalter Jackson W (USA)"]
@@ -192,7 +184,6 @@ Rd8 41.Rc6+ Kf5 42.Rf6+ Kg4 43.Rxf7 Rh8 44.Kf2 1-0
 
 [Event "Match"]
 [Site "Brighton (England)"]
-[Date "1903.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -213,7 +204,6 @@ Qc2 25.Bxf7+ Kf8 0-1
 
 [Event ""]
 [Site "Brighton (England)"]
-[Date "1903.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -235,7 +225,6 @@ Rxe6 31.dxe6 Re8 32.e7 h6 33.Qd4 Qxd4 34.cxd4 1-0
 
 [Event ""]
 [Site "Brighton (England)"]
-[Date "1903.??.??"]
 [Round "3"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -256,7 +245,6 @@ Qf7 20.Re5 Be6 21.Ne4 Bc4 22.Bxc4 Qxc4 23.Nd6 Qf1 24.Re7 Nd7
 
 [Event ""]
 [Site "Brighton (England)"]
-[Date "1903.??.??"]
 [Round "4"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -278,7 +266,6 @@ Qxe5 31.Rf1 g3 32.Qg5 Qxg5 33.hxg5 Kg7 34.Bf3 Bd3 0-1
 
 [Event ""]
 [Site "Brighton (England)"]
-[Date "1903.??.??"]
 [Round "5"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -301,7 +288,6 @@ Kh8 31.Bxg2 fxg2 32.Qf6+ Kg8 33.Qg5+ Kf8 34.Kf2 Rd6 35.Qc5 Qh2
 
 [Event ""]
 [Site "Manchester (England)"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "NN (ITA)"]
@@ -320,7 +306,6 @@ Ke5 14.d3 g5 15.g3 Bh6 16.c3 g4 17.Bf4+ Bxf4 18.gxf4# 1-0
 
 [Event "It"]
 [Site "Cambridge Springs (USA)"]
-[Date "1904.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -344,7 +329,6 @@ Bd3 36.b5 Bxb5 37.Nxb5 cxb5 38.Kd4 Qc2 39.c6 Qa4+ 40.Ke3 Qa7+
 
 [Event "It"]
 [Site "Cambridge Springs (USA)"]
-[Date "1904.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Napier William E (ENG)"]
@@ -367,7 +351,6 @@ Bf8 36.Bd4+ Bg7 37.g6 1-0
 
 [Event "It"]
 [Site "Cambridge Springs (USA)"]
-[Date "1904.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Showalter Jackson W (USA)"]
@@ -391,7 +374,6 @@ Bxb3 42.axb5 axb5 43.cxb5 Ba4 44.Kxc5 Bxb5 45.Kxb5 Kg6 1/2-1/2
 
 [Event "It"]
 [Site "Cambridge Springs (USA)"]
-[Date "1904.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Teichmann Richard (GER)"]
@@ -414,14 +396,12 @@ Kf8 36.Kd2 Ke7 37.Ne4 Ke6 38.c4 1-0
 
 [Event "Cambridge Springs"]
 [Site "Cambridge Springs, PA USA"]
-[Date "1904.04.28"]
 [Round "3.3"]
 [White "Emanuel Lasker"]
 [Black "William Ewart Napier"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B25"]
-[EventDate "1904.04.25"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -436,14 +416,12 @@ Kf8 36.Kd2 Ke7 37.Ne4 Ke6 38.c4 1-0
 
 [Event "unknown cg"]
 [Site "unknown cg"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Geza Maroczy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1902.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -456,14 +434,12 @@ Kf8 36.Kd2 Ke7 37.Ne4 Ke6 38.c4 1-0
 
 [Event "Simul, 24b"]
 [Site "Manhattan CC, New York, NY USA"]
-[Date "1902.10.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "William M De Visser"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "1902.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -478,14 +454,12 @@ Kf8 36.Kd2 Ke7 37.Ne4 Ke6 38.c4 1-0
 
 [Event "Simul, 21b"]
 [Site "Philadelphia, PA USA"]
-[Date "1902.11.08"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Samuel Warren Bampton"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1902.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -499,14 +473,12 @@ Kf8 36.Kd2 Ke7 37.Ne4 Ke6 38.c4 1-0
 
 [Event "Simul, 23b"]
 [Site "Chicago, IL USA"]
-[Date "1902.11.15"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Anna Belle Lynn"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1902.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -519,14 +491,12 @@ Kf8 36.Kd2 Ke7 37.Ne4 Ke6 38.c4 1-0
 
 [Event "Simul, 23b"]
 [Site "Chicago, IL USA"]
-[Date "1902.11.15"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Lee W Parke"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1902.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -540,14 +510,12 @@ Kf8 36.Kd2 Ke7 37.Ne4 Ke6 38.c4 1-0
 
 [Event "Exhibition game"]
 [Site "St. Louis CC, St. Louis, MO USA"]
-[Date "1902.11.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Edward Friederich Schrader"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1902.??.??"]
 [PlyCount "32"]
 [WhiteElo "?"]
 

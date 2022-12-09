@@ -1,6 +1,5 @@
 [Event "It (cat.16)"]
 [Site "Dortmund (Germany)"]
-[Date "2000.??.??"]
 [Round "8"]
 [White "Anand Viswanathan (IND)"]
 [Black "Leko Peter (HUN)"]
@@ -20,7 +19,6 @@ Qxe7 20.Nd5 Qa7 21.f3 Bf4 22.Bd3 Bf5 23.Qe2 e4 24.Bxb5 exf3 1/2-1/2
 
 [Event "It \"Fujitsu-Siemens Giants\""]
 [Site "Frankfurt (Germany)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -42,7 +40,6 @@ Bf8 20.Raf1 Bg7 21.Bd4 e5 22.fxe5 Nxe5 23.Bxe5 Rxe5 24.Rxf7 Re7
 
 [Event "It \"Fujitsu-Siemens Giants\""]
 [Site "Frankfurt (Germany)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -63,7 +60,6 @@ d5 20.Qg5 Ng6 21.Qxd8 Raxd8 22.Nexd5 Nxf4 23.Nxf4 b4 24.Ne6 Bxe6
 
 [Event "It (active)"]
 [Site "Haifa (Israel)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Svidler Peter (RUS)"]
@@ -86,7 +82,6 @@ a5 37.Kh1 e4 38.fxe4 Qg3 39.Kg1 Be5 40.Rc1 Qh2+ 41.Kf2 Bg3+ 0-1
 
 [Event "It (active) (final) (blitz)"]
 [Site "Kopavogur (Iceland)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -107,7 +102,6 @@ Bxg7 26.Qf7+ Qd7 27.Qxd7+ Nxd7 28.fxg7 Rxg7+ 29.Kf2 d5 0-1
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Kasparov Garry (RUS)"]
@@ -129,7 +123,6 @@ Qxc4 31.Rxc4 Rxd2 32.f4 Rxd5 0-1
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -152,7 +145,6 @@ Bc5 37.Bb3 Kg7 38.Rc2 Bd4 39.a6 Kf6 40.Ra2 Ke5 41.h4 Ke4 0-1
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -175,7 +167,6 @@ Bf2 36.Kc1 b4 37.Kd1 Rc3 38.Rxc3 bxc3 39.Ke2 Bxd4 0-1
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Topalov Veselin (BUL)"]
@@ -199,7 +190,6 @@ Rxh6 43.Qf1 Rd6 44.Rxf3 gxf3 45.h4+ Kh6 46.Qd1 d2 47.Kh2 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Van Wely Loek (NED)"]
@@ -221,7 +211,6 @@ Bc3 31.Ba3 Ba6 32.e7 1-0
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Adams Michael (ENG)"]
@@ -243,7 +232,6 @@ Qe6 31.Qg5 h6 32.Qg3 Qf6 33.Nf4 Ne7 34.Kg2 Ng8 35.Nd5 Qe6 36.Bd1 1-0
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bologan Viktor (MDA)"]
@@ -266,7 +254,6 @@ c3 37.Nf6 Re5 38.g6 fxg6 39.Nd7 Be7 40.Nxe5 dxe5 41.Qf7 h6 42.Qe8+ 1-0
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Lputian Smbat G (ARM)"]
@@ -290,7 +277,6 @@ Rxb5 30.axb5 dxc3 31.Bc5 Bf5 32.Ra4 Nd2 33.Bd4 Be6 34.Ra8+ Kf7
 
 [Event "Ch World FIDE (KO-system)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Macieja Bartlomiej (POL)"]
@@ -313,7 +299,6 @@ Qc2 35.Rd4 1-0
 
 [Event "Ch World FIDE (KO-system) (play-off)"]
 [Site "New Delhi (India)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -337,7 +322,6 @@ Rf8 36.Nb5 Rdd8 37.Rxa7 Nd2+ 38.Kc1 Nc4 39.Re2 Ne5 40.Rc7 Rc8
 
 [Event "Cup FIDE (Gr D)"]
 [Site "Shenyang (China)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -360,7 +344,6 @@ Qxc7 30.Qxc7 Rd7 31.Qb8+ Ke7 32.Qe5+ Ne6 33.Rg1 Kf7 34.Nb6 Rhd8
 
 [Event "Cup FIDE (Gr D)"]
 [Site "Shenyang (China)"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Tissir Mohamed (MAR)"]
@@ -380,7 +363,6 @@ Nd7 20.Rh2 d5 21.e5 Bc5 22.h5 Bxd4 23.Rxd4 Nf8 24.Bd3 Rd7 25.g6 1-0
 
 [Event "Cup FIDE (KO system)"]
 [Site "Shenyang (China)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Anand Viswanathan (IND)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -403,7 +385,6 @@ e3 36.Nxg7 Re8 37.Nxe8 e2 38.Rf6+ 1-0
 
 [Event "Cup FIDE (KO system)"]
 [Site "Shenyang (China)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -426,7 +407,6 @@ Ba6 25.Rb6 Bxd3 26.exd3 h6 27.Ra6 Rb8 28.Bh3 Rb1+ 29.Kg2 Rc1
 
 [Event "Ch World FIDE (final)"]
 [Site "Teheran (Iran)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -454,7 +434,6 @@ Rg8 64.Kb3 1-0
 
 [Event "Ch World FIDE (final)"]
 [Site "Teheran (Iran)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Anand Viswanathan (IND)"]
 [Black "Shirov Alexei (ESP)"]
@@ -477,7 +456,6 @@ Rc8 38.Kd3 g4 39.Be5 Rc1 40.Rh1 Rxg2 41.Nh4 1-0
 
 [Event "It (cat.18)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Anand Viswanathan (IND)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -497,7 +475,6 @@ c5 14.dxc5 Qc7 15.Rhe1 Bxg2 16.Re2 Kh8 17.Rg1 Bd5 18.Qf4 Qxc5
 
 [Event "It (cat.18)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2000.??.??"]
 [Round "13"]
 [White "Anand Viswanathan (IND)"]
 [Black "Lputian Smbat G (ARM)"]
@@ -524,7 +501,6 @@ Rb8 54.Rb4 Rcc8 55.Rbb5 Ke7 56.Rc5 Kd7 57.Rxc8 Rxc8 58.Ra7 Rb8
 
 [Event "It (cat.18)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -547,7 +523,6 @@ Re7 31.Qd2 Qc7 32.Rd3 Re8 33.Rd6 c5 34.Ng4 Rff8 35.Nxh6+ Kh8
 
 [Event "Match"]
 [Site "Frankfurt (Germany)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Anand Viswanathan (IND)"]
 [Black "Computer \"]
@@ -555,7 +530,6 @@ Re7 31.Qd2 Qc7 32.Rd3 Re8 33.Rd6 c5 34.Ng4 Rff8 35.Nxh6+ Kh8
 [ECO "A81"]
 [WhiteElo "2762"]
 [PlyCount "88"]
-[EventDate "2000.??.??"]
 
 1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c3 Bg7 5. Qb3 Nc6 6. Nf3 d6 7. O-O e5 8. d5 Ne7
 9. c4 O-O 10. Rd1 Ne4 11. Nc3 Nxc3 12. Qxc3 a5 13. Qc2 a4 14. Rb1 f4 15. Ng5

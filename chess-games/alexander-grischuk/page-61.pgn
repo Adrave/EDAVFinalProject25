@@ -1,6 +1,5 @@
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2005.01.15"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -20,7 +19,6 @@ d4 19.Ba3 g6 20.Bb4 Bg7 21.a4 d3 22.axb5 1/2-1/2
 
 [Event "Ch France (team) 2005"]
 [Site "France"]
-[Date "2005.04.02"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Prie Eric (FRA)"]
@@ -43,7 +41,6 @@ Rc6 36.Nxc6 bxc6 37.Rxh6+ 1-0
 
 [Event "Ch Russia (club)"]
 [Site "Sochi (Russia)"]
-[Date "2005.04.25"]
 [Round "7"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Sorokin Maxim (RUS)"]
@@ -72,7 +69,6 @@ h5 70.b5 h4+ 71.Kh3 g5 72.b6 Rb4 73.b7 Kg7 74.g3 hxg3 75.Kxg3 1-0
 
 [Event "Ch Russia (club)"]
 [Site "Sochi (Russia)"]
-[Date "2005.04.29"]
 [Round "11"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Moiseenko Alexander (UKR)"]
@@ -102,7 +98,6 @@ Qh3+ 0-1
 
 [Event "Ch France (team) 2005"]
 [Site "France"]
-[Date "2005.05.05"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Payen Arnaud (FRA)"]
@@ -123,7 +118,6 @@ Ra6 26.f4 exf4 27.Qxf4 h5 28.Nf3 Be8 29.Nd4 Rb6 30.Ngf5 1-0
 
 [Event "Ch France (team) 2005"]
 [Site "France"]
-[Date "2005.05.07"]
 [Round "11"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Bauer Christian (FRA)"]
@@ -146,7 +140,6 @@ Qxb7 37.Bxb7+ Kxb7 38.Qd6 Rc6 39.Qb4+ Kc8 40.f4 1-0
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2005.08.11"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -169,7 +162,6 @@ Qd1+ 31.Bf1 dxc3 32.Rxa5 h6 33.Rh4 Qd4+ 34.Bf2 Qd7 35.Qxd7 Nxd7
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2005.08.12"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -193,7 +185,6 @@ Bg7 32.Bc2 a5 33.bxa5 c5 34.dxc5 d4 35.Bf4 Nxg5 36.Bxg5 Qxc5
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.13"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Kolev Atanas (BUL)"]
@@ -222,7 +213,6 @@ Ke6 72.Bg5 Kd5 73.Bd8 Bb5 74.f5 Ke5 75.f6 Ke6 76.Kd4 1-0
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.13"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Lorenz Roger (GER)"]
@@ -243,7 +233,6 @@ Rc7 26.Bxh7+ Kxh7 27.Rh1+ Kg8 28.Rd2 1-0
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.14"]
 [Round "8"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Dreev Alexey (RUS)"]
@@ -267,7 +256,6 @@ Qxg3+ 0-1
 
 [Event "It (open) (active) \"Ordix\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.14"]
 [Round "10"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Zvjaginsev Vadim (RUS)"]
@@ -289,7 +277,6 @@ Qa3 14.Nb5 Qxa2 15.Nd6+ Ke7 16.Rc1 Qb2 17.Be2 Nc5 18.O-O Nb3
 
 [Event "Match (active)"]
 [Site "Mainz (Germany)"]
-[Date "2005.08.14"]
 [Round "8"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -313,7 +300,6 @@ Rhf8 36.Ba2 Rac8 37.Rxb7 Rc1+ 38.Kd2 Rf1 39.Rxa7 Ng3 40.Bd5 Rf2+
 
 [Event "Cup European Club (final)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2005.09.18"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Godena Michele (ITA)"]
@@ -336,7 +322,6 @@ Qe5 31.Qb5 b6 32.axb6 axb6 33.c4 Ne6 34.Rxd5 Rxd5 35.Rxd5 Rxd5
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.02"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Smirin Ilia (ISR)"]
@@ -358,7 +343,6 @@ Rxf1+ 31.Kxf1 Qa6+ 0-1
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.04"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Volokitin Andrei (UKR)"]
@@ -380,7 +364,6 @@ c5 26.Qxb7 Qxd4 27.Qf3 Qxb2 28.Kf2 Rad8 29.gxh5 Rd2+ 30.Kg3 g5
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.09"]
 [Round "8"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Zhao Xue (CHN)"]
@@ -405,7 +388,6 @@ Qa3 48.Nc6 Qd6 49.Nxd4 Rxd4 50.a7 1-0
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.10"]
 [Round "9"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Zhang Pengxiang (CHN)"]
@@ -429,7 +411,6 @@ d2 43.Nxd2 1-0
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.27"]
 [Round "1"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Needleman Gaston (ARG)"]
@@ -450,7 +431,6 @@ Nxe5 26.Rhe1 d6 27.Nxe6 Ke7 28.Nxg5 Rhf8 29.Ne4 Rxf5 30.Nxd6 1-0
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.30"]
 [Round "2"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Istratescu Andrei (ROM)"]
@@ -471,7 +451,6 @@ Ke7 25.fxe6 f6 1-0
 
 [Event "Cup World FIDE (active)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.05"]
 [Round "3"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Shulman Yuri (USA)"]
@@ -493,7 +472,6 @@ Kh6 30.Bf4+ 1-0
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.06"]
 [Round "4"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -515,7 +493,6 @@ g4 31.Rf6 Re7 32.h6 Qd7 33.Qg6 1-0
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.10"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -542,7 +519,6 @@ f3 54.gxf3 Bxf3 55.Rg5 Be4 56.Rg3+ Kf4 57.Rf2+ Kxe5 58.Re3 Kd4
 
 [Event "Cup World FIDE (blitz)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.11"]
 [Round "5"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -567,7 +543,6 @@ Bf7 48.Qd7 Ne3 49.Bxf4 Nd5 50.Be5 1-0
 
 [Event "Cup World FIDE (active)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.14"]
 [Round "6"]
 [White "Grischuk Alexander (RUS)"]
 [Black "Ponomariov Ruslan (UKR)"]

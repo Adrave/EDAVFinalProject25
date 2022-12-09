@@ -1,6 +1,5 @@
 [Event "Bundesliga 1982/83"]
 [Site "Hamburg (Germany)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -23,7 +22,6 @@ axb5 37.axb5 e5 38.Bxd5+ 1-0
 
 [Event "Bundesliga 1982/83"]
 [Site "Hamburg (Germany)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -44,7 +42,6 @@ Nxd4 25.Nf4 Qxc4 26.Rc1 Qxa4 27.Rxc7+ Re7 28.Rxe7+ Kxe7 29.Nxg6+ 1-0
 
 [Event "Bundesliga 1982/83"]
 [Site "Hamburg (Germany)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -70,7 +67,6 @@ Kxf6 48.Ra7 Rc8 49.Ra8 Rc7 50.R5a7 Rxa7 51.Rxa7 g5 52.Bd5 Ke5
 
 [Event "It (cat.14)"]
 [Site "London (England)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Mestel A Jonathan (ENG)"]
@@ -93,7 +89,6 @@ Kg7 30.Re8 Bc3+ 31.Kd1 Bd4 32.Rf3 Rf7 33.Rxf7+ Kxf7 34.Rc8 e5
 
 [Event "It (cat.14)"]
 [Site "London (England)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Miles Anthony J (ENG)"]
@@ -116,7 +111,6 @@ Rxb5 36.Rxb5 f3 37.Rb8 f2 38.Rxd8+ 1-0
 
 [Event ""]
 [Site "Bath (England)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Miles Anthony J (ENG)"]
@@ -139,7 +133,6 @@ Qc6 30.Rxf7 Rxc5 31.Qg4+ f5 32.Qg7 Re8 33.h4 Ne3 34.Bf2 Rc1+
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -160,7 +153,6 @@ Bxb2 19.Qxb2 Nb8 20.Qc2 Nc6 21.Qe4 h6 22.Nf4 Rxd2 23.Rxd2 Rd8
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hartmann Gerald (GER)"]
@@ -184,7 +176,6 @@ h1Q+ 0-1
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ostermeyer Peter Dr (GER)"]
@@ -214,7 +205,6 @@ Kg6 70.Rg8+ Kh5 71.Rh8+ Kg6 72.h5+ Kg5 73.Kxe3 Nh4 74.Ke4 g3
 
 [Event "It (cat.9)"]
 [Site "Hannover (Germany)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Quinteros Miguel A (ARG)"]
@@ -236,7 +226,6 @@ Kg8 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Linares (Spain)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -260,7 +249,6 @@ gxh5 37.Rxe6 R8d7 38.gxh5 Rf5 39.Rd1 Rxh5 40.Qe4 Nd5 41.Bc5 Rh2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -284,7 +272,6 @@ Kxd5 36.Kxf4 Kc4 37.Re1 Rxc3 38.Re7 Kxb4 39.Rxh7 d5 40.Ke5 c6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -310,7 +297,6 @@ Kxd8 53.Kd5 Kd7 54.f4 Ke7 55.g4 Kd7 56.h4 Ke7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -329,7 +315,6 @@ O-O 8.a4 Bb7 9.d3 d6 10.Nc3 Na5 11.Ba2 b4 12.Ne2 c5 13.Ng3 b3
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Giorgadze Tamaz (GEO)"]
@@ -352,7 +337,6 @@ Rxe2 36.Rxe2 Nxa8 37.Rc2 1-0
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -378,7 +362,6 @@ Bc6 53.Nd6 Rg8 54.e8Q Bxe8 55.Nxe8 Rxg3 56.Nf6 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Plovdiv (Bulgaria)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -397,7 +380,6 @@ Nf6 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Plovdiv (Bulgaria)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -427,7 +409,6 @@ Rg3 75.Kb2 Rf3 76.Kc2 Rg3 77.Rh6 Rf3 78.b5 Rg3 79.Rc6+ Kd7 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -446,7 +427,6 @@ Qc7 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1983.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -472,7 +452,6 @@ Kc6 48.Nb3 Nb4+ 49.Ke2 Kb5 50.Kf3 Nc6 51.Bb8 Nc4 52.Bc7 N4xa5
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1983.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -493,7 +472,6 @@ Rfd8 25.Qb2 Bc6 26.Nb4 Nxb4 27.Rxb4 Bxf3 28.Bxf3 Bd4 29.Rb7 Bxb2 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1983.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -517,7 +495,6 @@ Kf6 41.b4 g5 42.b5 Ra7 43.Rb6+ 1-0
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1983.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -543,14 +520,12 @@ Bxe5 55.Rf2 Qe4 56.Rxf7+ Kg8 57.Qe7 1-0
 
 [Event "Linares"]
 [Site "Linares ESP"]
-[Date "1983.02.17"]
 [Round "5"]
 [White "Anatoly Karpov"]
 [Black "Artur Yusupov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "1983.02.12"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -567,14 +542,12 @@ Bxe5 55.Rf2 Qe4 56.Rxf7+ Kg8 57.Qe7 1-0
 
 [Event "Linares"]
 [Site "Linares ESP"]
-[Date "1983.02.25"]
 [Round "11"]
 [White "Anatoly Karpov"]
 [Black "Yasser Seirawan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "1983.02.12"]
 [PlyCount "91"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -30,7 +29,6 @@ Ne3 75.f7+ Kf8 76.Kh7 Nf5 77.g4 Nd4 78.Kg6 Nf3 79.Kf6 Nh2 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1988.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -53,7 +51,6 @@ Ne4 36.Rf5 Nd6 37.Rh5 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1988.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -79,7 +76,6 @@ a5 53.Rc6+ Kf5 54.Rc5+ Ke4 55.Rg5 Ra2+ 56.Kh3 a4 57.Rxg6 a3 58.Ra6 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1988.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -99,7 +95,6 @@ Nd4 19.Bd1 c6 20.g3 Bf8 21.Kg2 Bb4 22.Nb1 Bxd2 23.Nxd2 Kf8 24.c3 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1988.??.??"]
 [Round "10"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -123,7 +118,6 @@ Kc6 37.Bf2 Bf8 38.Be3 Be7 39.f5 gxf5+ 40.gxf5 exf5+ 41.Kxf5 Kd7
 
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -153,7 +147,6 @@ Kb2 76.Rf2+ Ka3 77.Rxa2+ Kxa2 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -177,7 +170,6 @@ Ke5 42.Re6+ Kd4 43.d6 Rh2+ 44.Ke1 Ke3 45.Kf1 Kf3 1/2-1/2
 
 [Event "Cup World (cat.15)"]
 [Site "Belfort (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -201,7 +193,6 @@ Bg5 43.Nf3 Rc1 44.Ng1 Rc3 45.Nf3 Rc1 46.Ng1 Rc3 47.Nf3 1/2-1/2
 
 [Event "It \"S.W.I.F.T. World Cup\""]
 [Site "Brussels (Belgium)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -228,7 +219,6 @@ Rb6 54.Rg7+ Kd8 55.Rg8+ Be8 56.Nc2 Rxb3 57.Ke4 Ke7 58.Ne1 Kd6
 
 [Event "It \"S.W.I.F.T. World Cup\""]
 [Site "Brussels (Belgium)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Portisch Lajos (HUN)"]
@@ -255,7 +245,6 @@ Qg6 47.Nd3 Bc6 48.Nf4 Qb1+ 49.Rd1 Qe4 50.Rd2 Qb1+ 51.Rd1 Qa2
 
 [Event "It (active)"]
 [Site "Mazatlan (Mexico)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -274,7 +263,6 @@ Qe8 14.f3 exf3 15.exf3 e5 16.dxe5 Nxe5 17.Nd3 Bd6 1/2-1/2
 
 [Event "It (active)"]
 [Site "Mazatlan (Mexico)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -297,7 +285,6 @@ gxf5 36.h5 Kd7 37.Ra4 Kc6 38.Ra7 Rd5 39.Rd7 1/2-1/2
 
 [Event "It (active)"]
 [Site "Mazatlan (Mexico)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -319,7 +306,6 @@ c5 31.Rc4 Rc6 32.d7 1/2-1/2
 
 [Event "It (active)"]
 [Site "Mazatlan (Mexico)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gavrikov Viktor (LTU)"]
@@ -340,7 +326,6 @@ Qb8 25.Qd3 R5c6 26.Na2 Qb7 1/2-1/2
 
 [Event "It (active)"]
 [Site "Mazatlan (Mexico)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gavrikov Viktor (LTU)"]
@@ -363,7 +348,6 @@ Rb4 26.Rxb4 cxb4 27.Nb5 b3 28.Qd2 Bd7 29.Nbxd6 Bg5 30.f4 Bh6
 
 [Event "It (active)"]
 [Site "Mazatlan (Mexico)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gavrikov Viktor (LTU)"]
@@ -385,7 +369,6 @@ Rac8 26.Qd3 Red8 27.Qd4 Rc5 28.Rfd2 h5 29.Ng2 Qe7 30.Nf4 Rd7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -406,7 +389,6 @@ Qf4 20.Bf1 Rfd8 21.Qxf4 Nxf4 22.Ra4 Nd5 23.Nd2 Rc7 24.Raa1 Nb8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Salov Valery (RUS)"]
@@ -431,7 +413,6 @@ Bc2 48.f4 f6 49.fxe5 fxe5 50.Qc1 Qc4 51.Qg5 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -455,7 +436,6 @@ g5 37.Ne2 Bxb3 38.Rc1 Qg4 39.Nc3 Rd2 40.Nxb5 Rxg2+ 41.Kxg2 Bd5+
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Liardet Fabrice (SUI)"]
@@ -477,7 +457,6 @@ Ne7 25.Qd6 O-O 26.Qxe7 Re8 27.Qxb7 Qg1+ 28.Kc2 Qe1 29.Qxa6 Ne4
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Maeser Fabian (SUI)"]
@@ -503,7 +482,6 @@ g6 55.f3 exf3+ 56.Kxf3 Kg7 57.Rxe2 Ra1 58.Rb2 1-0
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Von Allmen Alain (SUI)"]
@@ -523,7 +501,6 @@ Qe5 19.Ra2 Rxh2 20.Bb2 Bg4 21.Qxg4 f5 22.Qxg7+ 1-0
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vucenovic Dragomir (SUI)"]
@@ -545,7 +522,6 @@ c5 31.Ne4 Qe7 32.Bxg4 Rxg4 33.Rxh6 Qf8 34.Nxd6+ Ke7 1-0
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gallati Marcel (SUI)"]
@@ -554,7 +530,6 @@ c5 31.Ne4 Qe7 32.Bxg4 Rxg4 33.Rxh6 Qf8 34.Nxd6+ Ke7 1-0
 [WhiteElo "2725"]
 [BlackElo "2161"]
 [PlyCount "55"]
-[EventDate "1988.??.??"]
 
 1. c4 g6 2. d4 Bg7 3. Nc3 Nf6 4. e4 d6 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8. Qxd8
 Rxd8 9. Bxc5 Nc6 10. Nd5 Nd7 11. Bxe7 Nxe7 12. Nxe7+ Kf8 13. Nd5 Bxb2 14. Rb1
@@ -565,7 +540,6 @@ Na7 Kd7 28. g4 1-0
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Weder Hanspeter (SUI)"]
@@ -574,7 +548,6 @@ Na7 Kd7 28. g4 1-0
 [WhiteElo "2725"]
 [BlackElo "2012"]
 [PlyCount "75"]
-[EventDate "1988.??.??"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Re1 Bg4 8. Bg5
 Bxf3 9. Bxf3 e5 10. dxe5 dxe5 11. Qc1 Qc7 12. Be3 Nbd7 13. a4 b6 14. Nb1 Rfd8

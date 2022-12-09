@@ -1,6 +1,5 @@
 [Event "It (active) (knockout system) \"Corsica Masters\""]
 [Site "Bastia (France)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -27,7 +26,6 @@ Re2+ 58.Kd4 b2 59.Bc4+ 1-0
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Chtcherbine Andrei (ARG)"]
@@ -48,7 +46,6 @@ Kf8 26.Nxd6 Nc8 27.Ne8 Kxe8 28.Bxg7 Nce7 29.b3 Rd8 30.Be5 1-0
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Felgaer Ruben (ARG)"]
@@ -72,7 +69,6 @@ cxd5 41.Rxg6 Rh8 42.Rg5 Rxh4 43.Rxf5 d4 44.Rf4 1-0
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Moreda Lucas (ARG)"]
@@ -95,7 +91,6 @@ Nd4 37.Rxd4 Bxd4 38.Qxd4 Qf4 39.Be6 R4h7 40.g5 1-0
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2003.??.??"]
 [Round "?"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Real De Azua Ernesto (ARG)"]
@@ -119,7 +114,6 @@ Kh7 43.f5 1-0
 
 [Event "Ch Spain (team)"]
 [Site "Lanzarote (Spain)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -142,7 +136,6 @@ Nxe5 20.Rxd8+ Rxd8 21.Nd4 Bd3 22.Qd2 Ne4 23.Qd1 Qa6 24.Nxe5 Bxe5
 
 [Event "Ch Spain (team)"]
 [Site "Lanzarote (Spain)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korneev Oleg (RUS)"]
@@ -170,7 +163,6 @@ Bb7 65.f3 Ba8 66.Nf5 Ke2 67.e4 Kf2 68.Nd4 1-0
 
 [Event "It (active)"]
 [Site "Lindsborg (USA)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Charbonneau Pascal (CAN)"]
@@ -197,7 +189,6 @@ Re1+ 53.Kd4 Kf5 54.Nc6 Rb1 55.Kc5 Rc1+ 56.Kd6 Rc3 57.Nd4+ Kg6
 
 [Event "Match \"Basque Country vs. World\" (active)"]
 [Site "Santurtzi (Spain)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Izeta Txabarri Felix (ESP)"]
@@ -221,7 +212,6 @@ Nf6 37.Na4 Nd7 38.Ra6 Rh8 39.Kg2 e4 40.fxe4 Ne5 41.Nxc5 Bxc4
 
 [Event "It (blitz)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.17"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -243,7 +233,6 @@ Kf8 30.Kf3 Ke8 31.e5 a5 32.Bh4 Kd7 33.Be1 a4 34.Bh4 Bb6 35.h3 1/2-1/2
 
 [Event "It (active)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.18"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Stefansson Hannes (ISL)"]
@@ -268,7 +257,6 @@ Nd4 47.c6 a5 48.c7 Rc1 49.d6 Ne6 50.d7 1-0
 
 [Event "It (active)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.19"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dreev Alexey (RUS)"]
@@ -290,7 +278,6 @@ Kxe7 31.Rd1 Raf8 32.Rdd2 Rg4 33.Kh3 Rfg8 34.Rg2 Bf1 0-1
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.21"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -310,7 +297,6 @@ Rac8 19.Qb3 Be8 20.Rxd8 Nxd8 21.Rd1 Nc6 22.Qc3 Qf6 23.Qxf6 gxf6 1/2-1/2
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.21"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Morovic Fernandez Ivan (CRO)"]
@@ -329,7 +315,6 @@ cxd4 14.cxd4 Rac8 15.Qe2 Qxe2 16.Rxe2 d5 17.e5 1/2-1/2
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.22"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Vescovi Giovanni (BRA)"]
@@ -353,7 +338,6 @@ e5 42.Kh4 Kf7 1/2-1/2
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.23"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Leitao Rafael (BRA)"]
@@ -380,7 +364,6 @@ Rd2 59.Rg1 Rd1 60.Rg2+ 1/2-1/2
 
 [Event "It (active)"]
 [Site "Sao Paulo (Brazil)"]
-[Date "2004.08.24"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Milos Gilberto (BRA)"]
@@ -405,7 +388,6 @@ Kc4 47.a5 1/2-1/2
 
 [Event "Match (active)"]
 [Site "Lindsborg (USA)"]
-[Date "2004.09.18"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polgar Zsuzsa (USA)"]
@@ -428,7 +410,6 @@ fxe4 25.Nxe4 Kg7 26.Rc5 Ne7 27.Rxa5 Nd5 28.Ra7+ Kg8 29.Ra6 Re8
 
 [Event "Match (active)"]
 [Site "Lindsborg (USA)"]
-[Date "2004.09.19"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Polgar Zsuzsa (USA)"]
@@ -449,7 +430,6 @@ Kd8 24.Nb4 Nb6 25.Nc6+ Kd7 26.Bc5 Nfd5 27.Ne5+ Ke8 28.h3 Bb7 1/2-1/2
 
 [Event "Match"]
 [Site "Astana (Kazakhstan)"]
-[Date "2004.11.10"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sadvakasov Darmen (KAZ)"]
@@ -477,7 +457,6 @@ Bf5 66.Bb2 Kd5 67.Ke3 Bg6 68.Bf6 c1Q+ 0-1
 
 [Event "It \"Grand Prix\""]
 [Site "Aix-En-Provence (France)"]
-[Date "2004.12.09"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Flear Glenn C (ENG)"]
@@ -501,7 +480,6 @@ Ke6 41.Rc5 Kd6 42.Rd5+ Ke6 1/2-1/2
 
 [Event "It \"Grand Prix\""]
 [Site "Aix-En-Provence (France)"]
-[Date "2004.12.10"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kazhgaleyev Murtas (KAZ)"]
@@ -522,7 +500,6 @@ Qe8 14.Qe2 Qg6 15.O-O Ng4 16.Qxa6 Rad8 17.Ne2 Bd6 18.Nf4 Qh6
 
 [Event "It \"Grand Prix\""]
 [Site "Aix-En-Provence (France)"]
-[Date "2004.12.11"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Istratescu Andrei (ROM)"]
@@ -549,7 +526,6 @@ Ne3+ 58.Ke4 Ng4 59.Kf4 Nf2 60.Kf5 Nd3 61.g6+ Ke7 62.h7 Nb4 63.h8Q 1-0
 
 [Event "Clash of the Titans Rapid"]
 [Site "Lindsborg USA"]
-[Date "2004.09.18"]
 [Round "2"]
 [White "Karpov, Anatoly"]
 [Black "Polgar, Z."]
@@ -557,7 +533,6 @@ Ne3+ 58.Ke4 Ng4 59.Kf4 Nf2 60.Kf5 Nd3 61.g6+ Ke7 62.h7 Nb4 63.h8Q 1-0
 [WhiteElo "2682"]
 [BlackElo "2567"]
 [ECO "E71"]
-[EventDate "2004.09.18"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 c5 7. dxc5 dxc5 8.
  Qxd8 Rxd8 9. Bxc5 Nc6 10. Nf3 b6 11. Be3 Nd7 12. O-O-O Bxc3 13. bxc3 Ba6 
@@ -570,14 +545,12 @@ c4 20. Rb7 Rc8 21. g3 a5 22. a4 h6 23. Rb5 f5 24. Nd2 fxe4 25. Nxe4 Kg7
 
 [Event "Reykjavik Rapid"]
 [Site "Reykjavik ISL"]
-[Date "2004.03.18"]
 [Round "1.2"]
 [White "Anatoly Karpov"]
 [Black "Hannes Hlifar Stefansson"]
 [Result "1-0"]
 [BlackElo "2572"]
 [ECO "A22"]
-[EventDate "2004.03.18"]
 [PlyCount "79"]
 [WhiteElo "2682"]
 

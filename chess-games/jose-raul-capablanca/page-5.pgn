@@ -1,6 +1,5 @@
 [Event "Blindfold"]
 [Site "Hollywood (USA)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bain Mary"]
@@ -18,7 +17,6 @@ Bd4 8.Ne2 Rxe4 9.Nxd4 Nxd4 10.Ba4 Ne2+ 11.Kh1 Nxc1 0-1
 
 [Event "Simultan"]
 [Site "Los Angeles (USA)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Steiner B Sr"]
@@ -39,7 +37,6 @@ Qb6 24.Rxc6+ Qxc6 25.Qb4# 1-0
 
 [Event ""]
 [Site "Mexico"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Duhalt O"]
@@ -63,7 +60,6 @@ Bf1 36.Rxh7 Rb2 37.Kg3 Rxg2+ 38.Kf4 a5 39.Rh1 Bc4 40.Re1+ Re2
 
 [Event ""]
 [Site "Mexico"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Friedmann I"]
@@ -85,7 +81,6 @@ Qb6 31.g4 hxg4 32.h5 Be8 33.Re3 Rc7 34.Nxe6+ Qxe6 35.Qxc7+ 1-0
 
 [Event ""]
 [Site "Mexico"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Glicco"]
@@ -107,7 +102,6 @@ Kxg6 19.dxe5 Ng8 20.Rc3 Ndf6 21.Qe2 Ne8 22.N3h4+ Kh7 23.Qh5 Bxf5
 
 [Event ""]
 [Site "Panama"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Farrugia L"]
@@ -132,7 +126,6 @@ Ke5 47.Kxg5 Kxe4 48.Kf6 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -155,7 +148,6 @@ Rg7 37.Rg2 Rfg8 38.Rag1 Rf8 39.Rh1 Kg8 40.h5 Rg5 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -177,7 +169,6 @@ Rad8 25.h4 h5 26.Rxd5 Rxd5 27.Qc3+ Kg8 28.Qc4 Rd2 29.b4 cxb4
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Michell Reginald P (ENG)"]
@@ -199,7 +190,6 @@ Bg6 26.Re1 Bf5 27.Bg2 a5 28.bxa5 Bxa3 29.Ra1 Bb4 30.axb6 Rcc8
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Milner Barry Philip S (ENG)"]
@@ -224,7 +214,6 @@ bxc6 48.Rxc6 g5+ 49.fxg6 hxg6 50.Rxf6+ Kg7 51.Rxa6 Rg2 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Thomas George A (ENG)"]
@@ -249,7 +238,6 @@ Bc8 49.Rxc6 Rxc6 50.Rxe4 Kf7 51.Ra4 Ra6 52.Rf4+ Ke7 53.Re4+ Kf6 0-1
 
 [Event ""]
 [Site "San Juan (Puerto Rico)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Cintron Rafael"]
@@ -270,7 +258,6 @@ Qa7+ 25.c5 Nb7 26.Bxb8 1-0
 
 [Event ""]
 [Site "San Juan (Puerto Rico)"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Gotay P A"]
@@ -297,7 +284,6 @@ Kf8 58.Nh7+ 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1935.??.??"]
 [Round "1"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Fairhurst William A (SCO)"]
@@ -319,7 +305,6 @@ e5 30.g4 g6 31.gxh5 gxh5 32.f4 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1935.??.??"]
 [Round "10"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bohatirchuk Fedor P (UKR)"]
@@ -349,7 +334,6 @@ Kd6 77.Ba4 Kc5 78.Bd7 Kd6 79.Bc8 Kc7 1/2-1/2
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -370,7 +354,6 @@ c5 8.e3 O-O 9.Be2 Nd7 10.O-O Qc7 11.a4 b6 12.a5 bxa5 13.Qa3 Bb7
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Goglidze Victor (GEO)"]
@@ -392,7 +375,6 @@ Rc8 24.Rxc8+ Nxc8 25.Bd3 Nd6 26.f3 e5 27.Nf5 Nxf5 28.Bxf5 Bb7
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -413,7 +395,6 @@ Rc8 24.Rxc8+ Nxc8 25.Bd3 Nd6 26.f3 e5 27.Nf5 Nxf5 28.Bxf5 Bb7
 
 [Event "It"]
 [Site "Moscow (Russia)"]
-[Date "1935.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rabinovich Ilya L (RUS)"]
@@ -431,14 +412,12 @@ Nc6 8.e4 O-O-O+ 9.Bd2 Nd4 10.Rc1 Nb3 11.Rc2 1/2-1/2
 
 [Event "Karlsbad"]
 [Site "Cuernavaca MEX"]
-[Date "1933.05.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Isaac Friedmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "Simultaneous"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -451,14 +430,12 @@ Nc6 8.e4 O-O-O+ 9.Bd2 Nd4 10.Rc1 Nb3 11.Rc2 1/2-1/2
 
 [Event "Hastings 1934/35"]
 [Site "Hastings ENG"]
-[Date "1935.01.02"]
 [Round "6"]
 [White "Jose Raul Capablanca"]
 [Black "Reginald Pryce Michell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D52"]
-[EventDate "1934.12.27"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -473,14 +450,12 @@ Nc6 8.e4 O-O-O+ 9.Bd2 Nd4 10.Rc1 Nb3 11.Rc2 1/2-1/2
 
 [Event "Hastings 1934/35"]
 [Site "Hastings ENG"]
-[Date "1934.12.31"]
 [Round "4"]
 [White "Jose Raul Capablanca"]
 [Black "Philip Stuart Milner-Barry"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E33"]
-[EventDate "1934.12.27"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -498,14 +473,12 @@ Nc6 8.e4 O-O-O+ 9.Bd2 Nd4 10.Rc1 Nb3 11.Rc2 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1935.03.14"]
 [Round "19"]
 [White "Jose Raul Capablanca"]
 [Black "Grigory Levenfish"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D49"]
-[EventDate "1935.02.15"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -519,14 +492,12 @@ Nc6 8.e4 O-O-O+ 9.Bd2 Nd4 10.Rc1 Nb3 11.Rc2 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1935.03.06"]
 [Round "14"]
 [White "Jose Raul Capablanca"]
 [Black "Ilya Leontievich Rabinovich"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D20"]
-[EventDate "1935.02.15"]
 [PlyCount "24"]
 [WhiteElo "?"]
 
@@ -537,14 +508,12 @@ Nc6 8.e4 O-O-O+ 9.Bd2 Nd4 10.Rc1 Nb3 11.Rc2 1/2-1/2
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1935.02.28"]
 [Round "10"]
 [White "Jose Raul Capablanca"]
 [Black "Fedor Parfenovich Bohatirchuk"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "1935.02.15"]
 [PlyCount "158"]
 [WhiteElo "?"]
 

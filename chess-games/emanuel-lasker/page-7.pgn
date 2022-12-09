@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Cambridge Springs (USA)"]
-[Date "1904.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -21,7 +20,6 @@ b4 25.Nf5 Qc4 26.Bxf6 Rd7 27.Nh6+ Kh7 28.e5 Qe6 29.Qh4 g5 30.Qxg5 1-0
 
 [Event "It"]
 [Site "Cambridge Springs (USA)"]
-[Date "1904.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Delmar Eugene (USA)"]
@@ -44,7 +42,6 @@ cxd5 36.exd5 Bf5 37.Rb8+ Kh7 38.Rxa8 Bxb1 39.d6 Bf5 40.Bd3 1-0
 
 [Event "It"]
 [Site "Cambridge Springs (USA)"]
-[Date "1904.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Lawrence T"]
@@ -70,7 +67,6 @@ gxh5 42.gxh5 Kf6 43.Ra1 Rc4 44.Rb1 Rxa4 45.Rb6+ Kg7 46.e5 Ra1
 
 [Event "Ch World (match)"]
 [Site "New York (USA)"]
-[Date "1907.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -96,7 +92,6 @@ a5 52.Ne7+ 1-0
 
 [Event "Ch World (match)"]
 [Site "New York (USA)"]
-[Date "1907.??.??"]
 [Round "4"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -119,7 +114,6 @@ b5 31.Rb4 Kb6 32.a3 Rfd8 33.c4 Nd3+ 34.Bxd3 Rxd3 35.Rxd3 Rxd3
 
 [Event "Ch World (match)"]
 [Site "New York (USA)"]
-[Date "1907.??.??"]
 [Round "6"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -139,7 +133,6 @@ Bxc3 8.Qxc3 Nc6 9.Nf3 Rg8 10.O-O-O Qxa2 11.d5 exd5 12.Bb5 Kf8
 
 [Event "Ch World (match)"]
 [Site "New York (USA)"]
-[Date "1907.??.??"]
 [Round "8"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -167,7 +160,6 @@ Rf4 64.Ne5 Rf1 65.Rxg4 Ra1 66.c5 Kc7 67.Rg7+ Kc8 68.Nc4 Ra2 1-0
 
 [Event "Ch World (match)"]
 [Site "New York (USA)"]
-[Date "1907.??.??"]
 [Round "10"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -192,7 +184,6 @@ Kb7 41.Rh6 b4 42.Rh7+ Kc6 43.Rh6+ Rd6 44.Rh8 Kb5 45.Rb8+ Rb6
 
 [Event "Ch World (match)"]
 [Site "New York (USA)"]
-[Date "1907.??.??"]
 [Round "12"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -216,7 +207,6 @@ R8g6 42.c4 Kd6 43.c5+ Kd5 44.Nf3 Rf6 45.Rd4+ Kc6 46.Ne5+ 1-0
 
 [Event "Ch World (match)"]
 [Site "New York (USA)"]
-[Date "1907.??.??"]
 [Round "14"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marshall Frank J (USA)"]
@@ -236,7 +226,6 @@ Ng4+ 14.Kg1 g5 15.Be5 Rg8 16.Bxg4 hxg4 17.Ne4 Nd7 18.Qxg4 Nxe5
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1908.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Speyer Abraham"]
@@ -258,7 +247,6 @@ Re8 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "9"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -287,7 +275,6 @@ fxe4 71.Bxe4 Bxa6 72.Kf3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Dusseldorf/Munich (Germany)"]
-[Date "1908.??.??"]
 [Round "15"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -313,7 +300,6 @@ Rc1+ 1/2-1/2
 
 [Event "It"]
 [Site "Hague (Netherlands)"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Te Kolste Jan Willem (NED)"]
@@ -333,7 +319,6 @@ Bd4 20.Bb2 Bxb2 21.Rb1 Bc3+ 22.Kf2 Bd4+ 0-1
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Garshagen"]
@@ -355,7 +340,6 @@ h4 31.gxh4 Qxf4 32.b4 Qxf2+ 33.Rxf2 Rxg1+ 0-1
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Gouwentak"]
@@ -378,7 +362,6 @@ Qh1+ 30.Kg3 Qe1+ 31.Kf4 Qd2 32.Rf7 e2+ 33.Kf5 Re5+ 34.Kxe5 e1Q+
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Leussen Benjamin (NED)"]
@@ -400,7 +383,6 @@ Ne5 25.Nc1 Rf8 26.h3 g4 27.hxg4 hxg4 28.Ke2 Re8 29.fxg4 Nxg4+
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Pastor"]
@@ -421,7 +403,6 @@ Qd7 25.Kf2 Qxd4+ 26.Qxd4 Rxd4 27.Ke3 Ne6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Schroder F"]
@@ -444,7 +425,6 @@ Bc8 0-1
 
 [Event "Simultan"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Wijers"]
@@ -466,7 +446,6 @@ Bxf2+ 31.Kh1 Re5 32.g3 Rh5+ 33.Kg2 Rh2+ 34.Kf1 Ne3+ 35.Bxe3 Qh3+ 0-1
 
 [Event ""]
 [Site "Rotterdam (Netherlands)"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Hartong"]
@@ -486,14 +465,12 @@ Nxe3 19.Rd8+ Ke7 20.Rd7+ Kf8 1/2-1/2
 
 [Event "Lasker - Marshall World Championship Match"]
 [Site "USA"]
-[Date "1907.02.19"]
 [Round "8"]
 [White "Emanuel Lasker"]
 [Black "Frank James Marshall"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "1907.01.26"]
 [PlyCount "137"]
 [WhiteElo "?"]
 
@@ -513,14 +490,12 @@ Nxe3 19.Rd8+ Ke7 20.Rd7+ Kf8 1/2-1/2
 
 [Event "Lasker - Marshall World Championship Match"]
 [Site "USA"]
-[Date "1907.03.23"]
 [Round "14"]
 [White "Emanuel Lasker"]
 [Black "Frank James Marshall"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "1907.01.26"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -533,14 +508,12 @@ Nxe3 19.Rd8+ Ke7 20.Rd7+ Kf8 1/2-1/2
 
 [Event "Simul, 20b"]
 [Site "Mercantile Library, Philadelphia, PA USA"]
-[Date "1907.11.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "William Harold Hughes"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1907.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -556,14 +529,12 @@ Nxe3 19.Rd8+ Ke7 20.Rd7+ Kf8 1/2-1/2
 
 [Event "Simul, 23b"]
 [Site "Totnes ENG"]
-[Date "1908.03.05"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "James Eccles Dimond Moysey"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "1908.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 

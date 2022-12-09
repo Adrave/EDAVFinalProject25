@@ -1,13 +1,11 @@
 [Event "10th Soviet Team-ch qual group 1"]
 [Site "Moscow URS"]
-[Date "1967.07.24"]
 [Round "2"]
 [White "Mikhail Botvinnik"]
 [Black "Kurban Khanov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "111"]
 [WhiteElo "?"]
 
@@ -26,14 +24,12 @@
 
 [Event "Moscow tt"]
 [Site "URS 45/46"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Anatoly Vasilievich Alexeev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A23"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -50,14 +46,12 @@
 
 [Event "Simultaneous Display"]
 [Site "?"]
-[Date "1967.01.23"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Julian Hardinge"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D14"]
-[EventDate "2008.09.29"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Hoogovens"]
 [Site "Wijk aan Zee NED"]
-[Date "1969.01.17"]
 [Round "4"]
 [White "Mikhail Botvinnik"]
 [Black "Theo Daniel van Scheltinga"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E48"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -94,14 +86,12 @@
 
 [Event "Hoogovens"]
 [Site "Wijk aan Zee NED"]
-[Date "1969.01.20"]
 [Round "6"]
 [White "Mikhail Botvinnik"]
 [Black "William James Lombardy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -117,14 +107,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1970.03.19"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Yuri Balashov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -137,14 +125,12 @@
 
 [Event "Belgrade"]
 [Site "Belgrade YUG"]
-[Date "1969.12.??"]
 [Round "4"]
 [White "Mikhail Botvinnik"]
 [Black "Bojan Kurajica"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -164,14 +150,12 @@
 
 [Event "Clock simul, 8b"]
 [Site "London ENG"]
-[Date "1981.04.08"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Alan M Byron"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -186,14 +170,12 @@
 
 [Event "Simultaan Duitsland"]
 [Site "simultaan Duitsland"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "MK V S S (Computer)"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B51"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -207,14 +189,12 @@
 
 [Event "Hamburg"]
 [Site "Hamburg"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Sargon (Computer)"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A21"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -229,14 +209,12 @@
 
 [Event "13th olm qual. group 1"]
 [Site "Munich FRG"]
-[Date "1958.10.05"]
 [Round "5.1"]
 [White "Mikhail Botvinnik"]
 [Black "Maurice Raizman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D39"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -252,14 +230,12 @@
 
 [Event "13th olm final A"]
 [Site "Munich FRG"]
-[Date "1958.10.21"]
 [Round "10.1"]
 [White "Mikhail Botvinnik"]
 [Black "Andreas Dueckstein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A22"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 
@@ -275,14 +251,12 @@
 
 [Event "Botvinnik - Tal World Championship Match"]
 [Site "Moscow URS"]
-[Date "1960.03.31"]
 [Round "8"]
 [White "Mikhail Botvinnik"]
 [Black "Mikhail Tal"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A70"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -298,14 +272,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1960.10.09"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Semyon Abramovich Furman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -319,14 +291,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1961.02.17"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Semyon Abramovich Furman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B21"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -340,14 +310,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1961.02.24"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Semyon Abramovich Furman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -361,14 +329,12 @@
 
 [Event "EUR-chT (Men) 2nd"]
 [Site "Oberhausen FRG"]
-[Date "1961.07.02"]
 [Round "10.1"]
 [White "Mikhail Botvinnik"]
 [Black "Wolfgang Unzicker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -387,14 +353,12 @@
 
 [Event "Stockholm"]
 [Site "Stockholm SWE"]
-[Date "1962.01.??"]
 [Round "3"]
 [White "Mikhail Botvinnik"]
 [Black "Zandor Nilsson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -412,14 +376,12 @@
 
 [Event "Stockholm"]
 [Site "Stockholm SWE"]
-[Date "1962.01.??"]
 [Round "9"]
 [White "Mikhail Botvinnik"]
 [Black "Berndt Soderborg"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -436,14 +398,12 @@
 
 [Event "9th Soviet Team-ch final A"]
 [Site "Moscow URS"]
-[Date "1963.08.15"]
 [Round "4.2"]
 [White "Mikhail Botvinnik"]
 [Black "Gavriil Veresov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B31"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -457,14 +417,12 @@
 
 [Event "9th Soviet Team-ch qual group 1"]
 [Site "Moscow URS"]
-[Date "1963.08.08"]
 [Round "2"]
 [White "Mikhail Botvinnik"]
 [Black "Alexander Buslaev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -479,14 +437,12 @@
 
 [Event "4th Soviet Team Cup"]
 [Site "Moscow URS"]
-[Date "1964.10.12"]
 [Round "2"]
 [White "Mikhail Botvinnik"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -505,14 +461,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1953.05.23"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E54"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -528,14 +482,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1954.01.26"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E29"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -548,14 +500,12 @@
 
 [Event "Training"]
 [Site "Training"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D38"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "GCT Blitz Paris 2016"]
 [Site "Paris FRA"]
-[Date "2016.06.12"]
 [Round "18.1"]
 [White "So, W."]
 [Black "Kramnik, V."]
@@ -9,7 +8,6 @@
 [WhiteElo "2770"]
 [BlackElo "2812"]
 [PlyCount "93"]
-[EventDate "2016.06.11"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -29,7 +27,6 @@ Qxd3+ 35. Nxd3 Ke6 36. Ke2 Kf5 37. b3 a5 38. Nc5 Kf4 39. Kf2 b6 40. Nd3+ Kf5
 
 [Event "GCT Blitz Paris 2016"]
 [Site "Paris FRA"]
-[Date "2016.06.12"]
 [Round "12.1"]
 [White "So, W."]
 [Black "Caruana, F."]
@@ -38,7 +35,6 @@ Qxd3+ 35. Nxd3 Ke6 36. Ke2 Kf5 37. b3 a5 38. Nc5 Kf4 39. Kf2 b6 40. Nd3+ Kf5
 [WhiteElo "2770"]
 [BlackElo "2804"]
 [PlyCount "123"]
-[EventDate "2016.06.11"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -60,7 +56,6 @@ a3 Re6 53. Ng4 Ng3+ 54. Kh2 Nf1+ 55. Kg1 Re1 56. Kf2 Rb1 57. Rd7 Kf8 58. b4 Ke8
 
 [Event "GCT Rapid Paris 2016"]
 [Site "Paris FRA"]
-[Date "2016.06.10"]
 [Round "9.4"]
 [White "So, W."]
 [Black "Fressinet, L."]
@@ -69,7 +64,6 @@ a3 Re6 53. Ng4 Ng3+ 54. Kh2 Nf1+ 55. Kg1 Re1 56. Kf2 Rb1 57. Rd7 Kf8 58. b4 Ke8
 [WhiteElo "2770"]
 [BlackElo "2687"]
 [PlyCount "61"]
-[EventDate "2016.06.09"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -86,7 +80,6 @@ Bxe4 dxe4 16. Qxd8+ Qxd8 17. Rxd8+ Rxd8 18. Nxa7 f6 19. Nec6 Rd7 20. Be3 Bxe3
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2016.06.19"]
 [Round "7.4"]
 [White "So, W."]
 [Black "Topalov, V."]
@@ -95,7 +88,6 @@ Bxe4 dxe4 16. Qxd8+ Qxd8 17. Rxd8+ Rxd8 18. Nxa7 f6 19. Nec6 Rd7 20. Be3 Bxe3
 [WhiteElo "2770"]
 [BlackElo "2761"]
 [PlyCount "76"]
-[EventDate "2016.06.19"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -113,7 +105,6 @@ Nc4 Kd7 35. Bf4 Ne6 36. Be5 Nd4+ 37. Bxd4 cxd4 38. Rxa6 Bc5 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2016.06.19"]
 [Round "9.3"]
 [White "So, W."]
 [Black "Vachier Lagrave, M."]
@@ -122,7 +113,6 @@ Nc4 Kd7 35. Bf4 Ne6 36. Be5 Nd4+ 37. Bxd4 cxd4 38. Rxa6 Bc5 1-0
 [WhiteElo "2770"]
 [BlackElo "2789"]
 [PlyCount "151"]
-[EventDate "2016.06.19"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -146,7 +136,6 @@ Rg4 72. Kd5 Rg8 73. e5 Rd8+ 74. Kc5 Re8 75. Kd6 Rd8+ 76. Ke7 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2016.06.19"]
 [Round "5.5"]
 [White "So, W."]
 [Black "Nakamura, Hi"]
@@ -155,7 +144,6 @@ Rg4 72. Kd5 Rg8 73. e5 Rd8+ 74. Kc5 Re8 75. Kd6 Rd8+ 76. Ke7 1-0
 [WhiteElo "2770"]
 [BlackElo "2787"]
 [PlyCount "141"]
-[EventDate "2016.06.19"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -178,7 +166,6 @@ Ka7 Rb3 60. Rb8 Rxg3 61. Rb5 Kh6 62. Kb6 h4 63. a7 Rg8 64. Kb7 Rg7+ 65. Ka6 Rg8
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2016.06.19"]
 [Round "2.2"]
 [White "So, W."]
 [Black "Caruana, F."]
@@ -187,7 +174,6 @@ Ka7 Rb3 60. Rb8 Rxg3 61. Rb5 Kh6 62. Kb6 h4 63. a7 Rg8 64. Kb7 Rg7+ 65. Ka6 Rg8
 [WhiteElo "2770"]
 [BlackElo "2804"]
 [PlyCount "147"]
-[EventDate "2016.06.19"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -211,7 +197,6 @@ Ke4 a4 72. Rxa4 Rxf2 73. Nc4+ Kc5 74. Ne5 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.28"]
 [Round "3.2"]
 [White "So, W."]
 [Black "Nakamura, Hi"]
@@ -220,7 +205,6 @@ Ke4 a4 72. Rxa4 Rxf2 73. Nc4+ Kc5 74. Ne5 1-0
 [WhiteElo "2773"]
 [BlackElo "2787"]
 [PlyCount "41"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -236,7 +220,6 @@ Qxg3 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.28"]
 [Round "4.2"]
 [White "So, W."]
 [Black "Kasparov, G."]
@@ -245,7 +228,6 @@ Qxg3 1-0
 [WhiteElo "2773"]
 [BlackElo "2812"]
 [PlyCount "51"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -261,7 +243,6 @@ Rb1 O-O 9. Be2 b6 10. O-O Bb7 11. Qd3 Ba6 12. Qe3 Qd7 13. h4 Qa4 14. h5 Qxa2
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.29"]
 [Round "17.1"]
 [White "So, W."]
 [Black "Caruana, F."]
@@ -270,7 +251,6 @@ Rb1 O-O 9. Be2 b6 10. O-O Bb7 11. Qd3 Ba6 12. Qe3 Qd7 13. h4 Qa4 14. h5 Qxa2
 [WhiteElo "2773"]
 [BlackElo "2795"]
 [PlyCount "87"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -289,7 +269,6 @@ Kg6 41. f5+ exf5 42. Rb6+ f6 43. Rcb7 fxg4+ 44. hxg4 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.29"]
 [Round "10.2"]
 [White "So, W."]
 [Black "Kasparov, G."]
@@ -298,7 +277,6 @@ Kg6 41. f5+ exf5 42. Rb6+ f6 43. Rcb7 fxg4+ 44. hxg4 1-0
 [WhiteElo "2773"]
 [BlackElo "2812"]
 [PlyCount "49"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -314,7 +292,6 @@ Qb7 22. Rxc6 Nxc6 23. Qe6+ N8e7 24. Bc5 Rc8 25. Bxe7 1-0
 
 [Event "Ultimate Blitz Challenge"]
 [Site "Saint Louis USA"]
-[Date "2016.04.29"]
 [Round "11.1"]
 [White "So, W."]
 [Black "Caruana, F."]
@@ -323,7 +300,6 @@ Qb7 22. Rxc6 Nxc6 23. Qe6+ N8e7 24. Bc5 Rc8 25. Bxe7 1-0
 [WhiteElo "2773"]
 [BlackElo "2795"]
 [PlyCount "97"]
-[EventDate "2016.04.28"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "USA"]
@@ -343,7 +319,6 @@ Bc2+ 47. Ne5 a4 48. Kf6 Kd8 49. Nf7+ 1-0
 
 [Event "ch-USA 2016"]
 [Site "Saint Louis USA"]
-[Date "2016.04.14"]
 [Round "1.3"]
 [White "So, W."]
 [Black "Kamsky, G."]
@@ -352,7 +327,6 @@ Bc2+ 47. Ne5 a4 48. Kf6 Kd8 49. Nf7+ 1-0
 [WhiteElo "2773"]
 [BlackElo "2678"]
 [PlyCount "55"]
-[EventDate "2016.04.14"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "USA"]
@@ -369,7 +343,6 @@ Re7 28. g4 1-0
 
 [Event "78th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2016.01.16"]
 [Round "1.2"]
 [White "So, W."]
 [Black "Giri, A."]
@@ -378,7 +351,6 @@ Re7 28. g4 1-0
 [WhiteElo "2773"]
 [BlackElo "2798"]
 [PlyCount "73"]
-[EventDate "2016.01.16"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -396,7 +368,6 @@ h5 23. Nb3 a4 24. Na1 b4 25. axb4 cxb4 26. Qxa4 Nac6 27. Qd1 Nd4 28. Nc2 Nxc2
 
 [Event "Chess Supersite Launch"]
 [Site "Chess Supersite INT"]
-[Date "2016.03.26"]
 [Round "1.1"]
 [White "So, W."]
 [Black "Bareev, E."]
@@ -405,7 +376,6 @@ h5 23. Nb3 a4 24. Na1 b4 25. axb4 cxb4 26. Qxa4 Nac6 27. Qd1 Nd4 28. Nc2 Nxc2
 [WhiteElo "2773"]
 [BlackElo "2675"]
 [PlyCount "73"]
-[EventDate "2016.03.26"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "USA"]
@@ -422,7 +392,6 @@ Bc6 33. Bd3 a6 34. c4 bxc4 35. Bxc4 Bxg2 36. Bxa6 Kd6 37. Kb5 1-0
 
 [Event "ch-USA 2016"]
 [Site "Saint Louis USA"]
-[Date "2016.04.18"]
 [Round "5.2"]
 [White "So, W."]
 [Black "Akobian, V."]
@@ -431,7 +400,6 @@ Bc6 33. Bd3 a6 34. c4 bxc4 35. Bxc4 Bxg2 36. Bxa6 Kd6 37. Kb5 1-0
 [WhiteElo "2773"]
 [BlackElo "2615"]
 [PlyCount "47"]
-[EventDate "2016.04.14"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "USA"]
@@ -447,7 +415,6 @@ Bd7 15. Qe2 Bc6 16. Rhe1 Bd5 17. c4 Bxg2 18. Bc3 Qb6 19. Rg1 Bc6 20. Nxf7 Kxf7
 
 [Event "9th Masters Final 2016"]
 [Site "Bilbao ESP"]
-[Date "2016.07.21"]
 [Round "8.1"]
 [White "So, W."]
 [Black "Giri, A."]
@@ -456,7 +423,6 @@ Bd7 15. Qe2 Bc6 16. Rhe1 Bd5 17. c4 Bxg2 18. Bc3 Qb6 19. Rg1 Bc6 20. Nxf7 Kxf7
 [WhiteElo "2770"]
 [BlackElo "2785"]
 [PlyCount "113"]
-[EventDate "2016.07.13"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "ESP"]
@@ -476,7 +442,6 @@ g5+ Kg6 55. Re7 Rh8 56. Kg4 h5+ 57. Kf4 1-0
 
 [Event "4th Sinquefield Cup 2016"]
 [Site "Saint Louis USA"]
-[Date "2016.08.05"]
 [Round "1.3"]
 [White "So, W."]
 [Black "Nakamura, Hi"]
@@ -485,7 +450,6 @@ g5+ Kg6 55. Re7 Rh8 56. Kg4 h5+ 57. Kf4 1-0
 [WhiteElo "2771"]
 [BlackElo "2791"]
 [PlyCount "75"]
-[EventDate "2016.08.05"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -502,7 +466,6 @@ exd5 34. a5 b4+ 35. Kd2 Bf1 36. Rc8 c4 37. Rb8 b3 38. Kc3 1-0
 
 [Event "4th Sinquefield Cup 2016"]
 [Site "Saint Louis USA"]
-[Date "2016.08.11"]
 [Round "6.1"]
 [White "So, W."]
 [Black "Topalov, V."]
@@ -511,7 +474,6 @@ exd5 34. a5 b4+ 35. Kd2 Bf1 36. Rc8 c4 37. Rb8 b3 38. Kc3 1-0
 [WhiteElo "2771"]
 [BlackElo "2761"]
 [PlyCount "81"]
-[EventDate "2016.08.05"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -529,7 +491,6 @@ Qd4+ 1-0
 
 [Event "42nd Olympiad 2016"]
 [Site "Baku AZE"]
-[Date "2016.09.04"]
 [Round "3.8"]
 [White "So, W."]
 [Black "Perez Ponsa, F."]
@@ -538,7 +499,6 @@ Qd4+ 1-0
 [WhiteElo "2782"]
 [BlackElo "2585"]
 [PlyCount "87"]
-[EventDate "2016.09.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -558,7 +518,6 @@ bxc3 Ke5 41. Rb1 Nc6 42. Rb7 f3 43. gxf3 gxf3 44. Rc7 1-0
 
 [Event "42nd Olympiad 2016"]
 [Site "Baku AZE"]
-[Date "2016.09.13"]
 [Round "11.1"]
 [White "So, W."]
 [Black "Lesiege, A."]
@@ -567,7 +526,6 @@ bxc3 Ke5 41. Rb1 Nc6 42. Rb7 f3 43. gxf3 gxf3 44. Rc7 1-0
 [WhiteElo "2782"]
 [BlackElo "2512"]
 [PlyCount "71"]
-[EventDate "2016.09.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -586,7 +544,6 @@ h6 34. d5 Qe5 35. fxe3 Qg3 36. Qa1+ 1-0
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2016.10.03"]
 [Round "3.8"]
 [White "So, W."]
 [Black "Merry, Alan B"]
@@ -595,7 +552,6 @@ h6 34. d5 Qe5 35. fxe3 Qg3 36. Qa1+ 1-0
 [WhiteElo "2794"]
 [BlackElo "2388"]
 [PlyCount "79"]
-[EventDate "2016.10.01"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -612,7 +568,6 @@ Qh6 Kf7 29. Rb3 b5 30. Nb2 Nb6 31. a4 b4 32. a5 Nd7 33. Nd3 Qc7 34. Qe3 bxc3
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2016.10.07"]
 [Round "7.3"]
 [White "So, W."]
 [Black "Salem, AR."]
@@ -621,7 +576,6 @@ Qh6 Kf7 29. Rb3 b5 30. Nb2 Nb6 31. a4 b4 32. a5 Nd7 33. Nd3 Qc7 34. Qe3 bxc3
 [WhiteElo "2794"]
 [BlackElo "2650"]
 [PlyCount "115"]
-[EventDate "2016.10.01"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -640,7 +594,6 @@ Nc6 Nd6 53. Ke3 Nb5 54. Kd3 Ke8 55. f4 Kd7 56. e5 fxe5 57. fxe5 Nc7 58. Kc4 1-0
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.04"]
 [Round "3.4"]
 [White "So, Wesley"]
 [Black "Nakamura, Hikaru"]
@@ -648,7 +601,6 @@ Nc6 Nd6 53. Ke3 Nb5 54. Kd3 Ke8 55. f4 Kd7 56. e5 fxe5 57. fxe5 Nc7 58. Kc4 1-0
 [WhiteElo "2810"]
 [BlackElo "2792"]
 [ECO "C50"]
-[EventDate "2017.08.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. a4 a6 7. c3 O-O 8. 
 Re1 Ba7 9. h3 b5 10. Bb3 h6 11. axb5 axb5 12. Be3 Bd7 13. Bxa7 Rxa7 14. 
@@ -666,7 +618,6 @@ Bxh3 68. Kxg5 Bxg4 69. Kxg4 1/2-1/2
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.11"]
 [Round "9.3"]
 [White "So, Wesley"]
 [Black "Anand, Viswanathan"]
@@ -674,7 +625,6 @@ Bxh3 68. Kxg5 Bxg4 69. Kxg4 1/2-1/2
 [WhiteElo "2810"]
 [BlackElo "2783"]
 [ECO "E36"]
-[EventDate "2017.08.02"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 
 dxc4 8. Qxc4 b6 9. Bg5 Ba6 10. Qa4 h6 11. Bh4 c5 12. dxc5 bxc5 13. Rc1 Qb6

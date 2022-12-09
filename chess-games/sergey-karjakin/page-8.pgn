@@ -1,6 +1,5 @@
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.20"]
 [Round "7.4"]
 [White "Karjakin, Sergey"]
 [Black "Caruana, F."]
@@ -9,7 +8,6 @@
 [WhiteElo "2753"]
 [BlackElo "2811"]
 [PlyCount "91"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -27,7 +25,6 @@ Qa3 1-0
 
 [Event "80th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2018.01.26"]
 [Round "11.3"]
 [White "Karjakin, Sergey"]
 [Black "Kramnik, V."]
@@ -36,7 +33,6 @@ Qa3 1-0
 [WhiteElo "2753"]
 [BlackElo "2787"]
 [PlyCount "117"]
-[EventDate "2018.01.13"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -56,7 +52,6 @@ Bc3 47. e5 Kd8 48. Kf3 Bd2 49. Ke4 Ke7 50. f5 exf5+ 51. Kxf5 Bc1 52. a5 Bxa3
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "12.5"]
 [White "Karjakin, Sergey"]
 [Black "Gelfand, B."]
@@ -65,7 +60,6 @@ Bc3 47. e5 Kd8 48. Kf3 Bd2 49. Ke4 Ke7 50. f5 exf5+ 51. Kxf5 Bc1 52. a5 Bxa3
 [WhiteElo "2763"]
 [BlackElo "2695"]
 [PlyCount "49"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -79,7 +73,6 @@ e4 Qxd2 23. Bxd2 Bd7 24. c5 dxc5 25. b5 1-0
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "7.1"]
 [White "Karjakin, Sergey"]
 [Black "Nakamura, Hi"]
@@ -88,7 +81,6 @@ e4 Qxd2 23. Bxd2 Bd7 24. c5 dxc5 25. b5 1-0
 [WhiteElo "2763"]
 [BlackElo "2787"]
 [PlyCount "85"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -105,7 +97,6 @@ Re8 41. Rcc7 Rf8 42. Qb3 b6 43. Rxa7 1-0
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "8.7"]
 [White "Karjakin, Sergey"]
 [Black "Nepomniachtchi, I."]
@@ -114,7 +105,6 @@ Re8 41. Rcc7 Rf8 42. Qb3 b6 43. Rxa7 1-0
 [WhiteElo "2763"]
 [BlackElo "2751"]
 [PlyCount "99"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -132,7 +122,6 @@ Ne6 47. Bf3+ Kd6 48. Ke4 Ke7 49. Ke5 Nd8 50. Bd5 1-0
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "3.3"]
 [White "Karjakin, Sergey"]
 [Black "Artemiev, V."]
@@ -141,7 +130,6 @@ Ne6 47. Bf3+ Kd6 48. Ke4 Ke7 49. Ke5 Nd8 50. Bd5 1-0
 [WhiteElo "2763"]
 [BlackElo "2697"]
 [PlyCount "89"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -158,7 +146,6 @@ Qf8+ Kh5 41. Rxa5+ e5 42. g4+ Kg5 43. Nxe5 Ne2+ 44. Kh2 fxe5 45. Rxe5+ 1-0
 
 [Event "11th Tal Mem Rapid 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.04"]
 [Round "9.1"]
 [White "Karjakin, Sergey"]
 [Black "Kramnik, V."]
@@ -167,7 +154,6 @@ Qf8+ Kh5 41. Rxa5+ e5 42. g4+ Kg5 43. Nxe5 Ne2+ 44. Kh2 fxe5 45. Rxe5+ 1-0
 [WhiteElo "2763"]
 [BlackElo "2800"]
 [PlyCount "79"]
-[EventDate "2018.03.02"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "RUS"]
@@ -184,7 +170,6 @@ Qc8 Qc5 35. Qd8 Qc3 36. Be4 Qa1+ 37. Kh2 Kg7 38. Nf5+ Kg8 39. Bd4 Qc1 40. Nh6+
 
 [Event "Eurasia Blitz Match"]
 [Site "Yekaterinburg RUS"]
-[Date "2019.07.31"]
 [Round "4"]
 [White "Karjakin,Sergey"]
 [Black "Harikrishna,P"]
@@ -198,7 +183,6 @@ Qc8 Qc5 35. Qd8 Qc3 36. Be4 Qa1+ 37. Kh2 Kg7 38. Nf5+ Kg8 39. Bd4 Qc1 40. Nh6+
 [Variation "Nimzovich variation (exaggerated fianchetto)"]
 [WhiteFideId "14109603"]
 [BlackFideId "5007003"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8. cxd5
 exd5 9. O-O O-O 10. Nc3 Re8 11. a3 Nbd7 12. b4 Bb7 13. Qb3 Bd6 14. Bg5 h6 15.
@@ -212,7 +196,6 @@ Kh7 1/2-1/2
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.10"]
 [Round "1.4"]
 [White "Karjakin,Sergey"]
 [Black "Caruana,F"]
@@ -225,7 +208,6 @@ Kh7 1/2-1/2
 [Opening "Neo-Gruenfeld, 6.O-O"]
 [WhiteFideId "14109603"]
 [BlackFideId "2020009"]
-[EventDate "2019.08.10"]
 
 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 dxc4 7. Na3 c5 8. dxc5
 c3 9. Nb5 Na6 10. Nxc3 Nxc5 11. Be3 Nce4 12. Nxe4 Nxe4 13. Bd4 Bxd4 14. Qxd4
@@ -238,7 +220,6 @@ Ke3 Nxd4 28. Kxd4 h6 29. e5 b6 30. g5 hxg5 31. fxg5 e6 32. Kc4 Kd8 33. h4 Kc7
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.11"]
 [Round "5.5"]
 [White "Karjakin,Sergey"]
 [Black "Rapport,R"]
@@ -251,7 +232,6 @@ Ke3 Nxd4 28. Kxd4 h6 29. e5 b6 30. g5 hxg5 31. fxg5 e6 32. Kc4 Kd8 33. h4 Kc7
 [Opening "Two knights defence (Modern bishop's opening)"]
 [WhiteFideId "14109603"]
 [BlackFideId "738590"]
-[EventDate "2019.08.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. c3 g6 7. a4 Bg7 8. Re1 O-O
 9. Nbd2 Re8 10. Nf1 Be6 11. Ng3 d5 12. Bb5 Nd7 13. Bd2 a6 14. Bxc6 bxc6 15. d4
@@ -264,7 +244,6 @@ Ra8+ Ke7 41. Ra7+ 1/2-1/2
 
 [Event "Saint Louis Rapid 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.10"]
 [Round "3.3"]
 [White "Karjakin,Sergey"]
 [Black "Yu Yangyi"]
@@ -277,7 +256,6 @@ Ra8+ Ke7 41. Ra7+ 1/2-1/2
 [Opening "Queen's pawn game, Rubinstein (Colle-Zukertort) variation"]
 [WhiteFideId "14109603"]
 [BlackFideId "8603820"]
-[EventDate "2019.08.10"]
 
 1. Nf3 d5 2. d4 Nf6 3. e3 e6 4. b3 c5 5. Bd3 Nc6 6. O-O cxd4 7. exd4 g6 8. Re1
 Bg7 9. Ba3 Ne7 10. Nbd2 O-O 11. Ne5 b6 12. Qe2 Bb7 13. Rad1 Qc7 14. Ndf3 Nf5 15.
@@ -290,7 +268,6 @@ Kh2 Qh4+ 42. Kg1 Qf2+ 43. Kh2 Qh4+ 44. Kg1 Qf2+ 1/2-1/2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.18"]
 [Round "2.3"]
 [White "Karjakin,Sergey"]
 [Black "Ding Liren"]
@@ -304,7 +281,6 @@ Kh2 Qh4+ 42. Kg1 Qf2+ 43. Kh2 Qh4+ 44. Kg1 Qf2+ 1/2-1/2
 [Variation "Marshall counter-attack, 11...c6"]
 [WhiteFideId "14109603"]
 [BlackFideId "8603677"]
-[EventDate "2019.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 15.
@@ -316,7 +292,6 @@ Rxe8 Rxe8 29. h5 Be2 30. Kg2 Bd6 31. Rd7 Re6 32. Bc5 Be5 33. Bd4 Bd6 34. Bc5 Be5
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.17"]
 [Round "1.6"]
 [White "Karjakin,Sergey"]
 [Black "Mamedyarov,S"]
@@ -329,7 +304,6 @@ Rxe8 Rxe8 29. h5 Be2 30. Kg2 Bd6 31. Rd7 Re6 32. Bc5 Be5 33. Bd4 Bd6 34. Bc5 Be5
 [Opening "Scandinavian defence"]
 [WhiteFideId "14109603"]
 [BlackFideId "13401319"]
-[EventDate "2019.08.17"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bd2 e6 7. Bc4 Bb4 8. a3
 Bxc3 9. Bxc3 Qb6 10. d5 exd5 11. Bxd5 Be6 12. Bxe6 Qxe6+ 13. Qe2 Qxe2+ 14. Kxe2
@@ -340,7 +314,6 @@ Rxe8 21. Nxf7 Ng4 22. f3 Ne3+ 23. Kf2 Nxc2 24. Rc1 Re7 25. Rxc2 Rxf7 26. Ke3 Kd7
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.23"]
 [Round "6.6"]
 [White "Karjakin,Sergey"]
 [Black "Aronian,L"]
@@ -354,7 +327,6 @@ Rxe8 21. Nxf7 Ng4 22. f3 Ne3+ 23. Kf2 Nxc2 24. Rc1 Re7 25. Rxc2 Rxf7 26. Ke3 Kd7
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "14109603"]
 [BlackFideId "13300474"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c5 8. cxd5
 Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be5 Bg4 12. Be2 Bxf3 13. Bxf3 Bf6 14. Bxf6
@@ -366,7 +338,6 @@ Qxb7 Qc4 34. Qxa7 Qd5+ 35. Kg1 Qd1+ 36. Kg2 Qd5+ 37. Kg1 Qd1+ 38. Kg2 Qd5+ 1/2-1
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.20"]
 [Round "4.6"]
 [White "Karjakin,Sergey"]
 [Black "Nepomniachtchi,I"]
@@ -380,7 +351,6 @@ Qxb7 Qc4 34. Qxa7 Qd5+ 35. Kg1 Qd1+ 36. Kg2 Qd5+ 37. Kg1 Qd1+ 38. Kg2 Qd5+ 1/2-1
 [Variation "3.g3"]
 [WhiteFideId "14109603"]
 [BlackFideId "4168119"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Nf3 Bg7 6. Qb3 O-O 7. Nc3 Qb6 8. O-O
 Rd8 9. Bd2 dxc4 10. Qxc4 Be6 11. Qa4 Bf5 12. Rfd1 a5 13. Nh4 Bd7 14. Qc2 Qxd4
@@ -389,7 +359,6 @@ Rd8 9. Bd2 dxc4 10. Qxc4 Be6 11. Qa4 Bf5 12. Rfd1 a5 13. Nh4 Bd7 14. Qc2 Qxd4
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.27"]
 [Round "10.3"]
 [White "Karjakin,Sergey"]
 [Black "Anand,V"]
@@ -403,7 +372,6 @@ Rd8 9. Bd2 dxc4 10. Qxc4 Be6 11. Qa4 Bf5 12. Rfd1 a5 13. Nh4 Bd7 14. Qc2 Qxd4
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "14109603"]
 [BlackFideId "5000017"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Be2 Ba6 8. cxd5
 Nxd5 9. Nxd5 Qxd5 10. Bxc7 Qa5+ 11. Kf1 Bxe2+ 12. Qxe2 Nd7 13. h3 Rac8 14. Bg3
@@ -415,7 +383,6 @@ Qe3+ 34. Kh1 Qh6+ 35. Kg1 Qe3+ 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.11"]
 [Round "1.2"]
 [White "Karjakin,Sergey"]
 [Black "Megaranto,S"]
@@ -428,7 +395,6 @@ Qe3+ 34. Kh1 Qh6+ 35. Kg1 Qe3+ 1/2-1/2
 [Opening "Pirc defence"]
 [WhiteFideId "14109603"]
 [BlackFideId "7101384"]
-[EventDate "2019.09.10"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. f3 b5 7. O-O-O Qa5 8. Kb1
 Nbd7 9. Nd5 Qxd2 10. Nxf6+ Nxf6 11. Bxd2 d5 12. e5 Nd7 13. h4 h5 14. Ba5 Bh6 15.
@@ -440,7 +406,6 @@ Bd2 Rfg8 29. c3 f5 30. exf6 Bxf6 31. Rh6 Rf8 32. f5 exf5 33. R6h5 f4 34. Rf5 Be7
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.17"]
 [Round "3.2"]
 [White "Karjakin,Sergey"]
 [Black "Vitiugov,N"]
@@ -453,7 +418,6 @@ Bd2 Rfg8 29. c3 f5 30. exf6 Bxf6 31. Rh6 Rf8 32. f5 exf5 33. R6h5 f4 34. Rf5 Be7
 [Opening "Giuoco Piano"]
 [WhiteFideId "14109603"]
 [BlackFideId "4152956"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 O-O
 9. h3 Kh8 10. b4 Ng8 11. Nbd2 f5 12. b5 Nce7 13. bxa6 bxa6 14. Ba2 Nf6 15. exf5
@@ -464,7 +428,6 @@ Nxf5 16. Ng5 Qe8 17. d4 h6 18. Ngf3 Bb7 19. dxe5 dxe5 20. Rxe5 Qg6 21. Qc2 Nh5
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.11"]
 [Round "2.16"]
 [White "Karjakin,Sergey"]
 [Black "Sadhwani,Raunak"]
@@ -478,7 +441,6 @@ Nxf5 16. Ng5 Qe8 17. d4 h6 18. Ngf3 Bb7 19. dxe5 dxe5 20. Rxe5 Qg6 21. Qc2 Nh5
 [Variation "advance variation"]
 [WhiteFideId "14109603"]
 [BlackFideId "35093487"]
-[EventDate "2019.10.10"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. Na4
 Qa5+ 9. c3 c4 10. O-O b5 11. Nc5 Bxc5 12. dxc5 Nge7 13. b4 Qa3 14. Qc1 Qxc1 15.
@@ -489,7 +451,6 @@ Nxd4 28. cxd4 Be4 29. Bf3 Bxf3 30. Kxf3 Kb7 31. Ke3 1/2-1/2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.15"]
 [Round "6.5"]
 [White "Karjakin,Sergey"]
 [Black "Kryvoruchko,Y"]
@@ -502,7 +463,6 @@ Nxd4 28. cxd4 Be4 29. Bf3 Bxf3 30. Kxf3 Kb7 31. Ke3 1/2-1/2
 [Opening "Two knights defence (Modern bishop's opening)"]
 [WhiteFideId "14109603"]
 [BlackFideId "14109182"]
-[EventDate "2019.10.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Na5 8. Ba2
 c5 9. c3 Nc6 10. Na3 a6 11. Bd2 Be6 12. Bxe6 fxe6 13. b4 cxb4 14. cxb4 b5 15.
@@ -516,7 +476,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 
 [Event "Superbet TB 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.10"]
 [Round "1"]
 [White "Karjakin,Sergey"]
 [Black "Aronian,L"]
@@ -525,7 +484,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 [BlackFideId "13300474"]
 [BlackTitle "GM"]
 [ECO "C65"]
-[EventDate "2019.11.10"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence"]
 [WhiteElo "2754"]
@@ -540,7 +498,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 
 [Event "Superbet Rapid 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.07"]
 [Round "6.5"]
 [White "Karjakin,Sergey"]
 [Black "Le,Quang Liem"]
@@ -549,7 +506,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 [BlackFideId "12401137"]
 [BlackTitle "GM"]
 [ECO "D05"]
-[EventDate "2019.11.06"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2754"]
 [WhiteFideId "14109603"]
@@ -564,7 +520,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 
 [Event "Superbet Blitz 2019"]
 [Site "Bucharest ROU"]
-[Date "2019.11.10"]
 [Round "12.2"]
 [White "Karjakin,Sergey"]
 [Black "Giri,A"]
@@ -573,7 +528,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 [BlackFideId "24116068"]
 [BlackTitle "GM"]
 [ECO "D12"]
-[EventDate "2019.11.09"]
 [Opening "QGD Slav"]
 [Variation "4.e3 Bf5"]
 [WhiteElo "2754"]
@@ -596,7 +550,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 
 [Event "Jerusalem FIDE Grand Prix"]
 [Site "Jerusalem ISR"]
-[Date "2019.12.13"]
 [Round "1.8"]
 [White "Karjakin,Sergey"]
 [Black "Harikrishna,P"]
@@ -605,7 +558,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 [BlackFideId "5007003"]
 [BlackTitle "GM"]
 [ECO "C50"]
-[EventDate "2019.12.11"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2754"]
 [WhiteFideId "14109603"]
@@ -622,7 +574,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 
 [Event "World Blitz 2019"]
 [Site "Moscow RUS"]
-[Date "2019.12.29"]
 [Round "3.3"]
 [White "Karjakin,Sergey"]
 [Black "Petrosian,TL"]
@@ -631,7 +582,6 @@ Ke7 46. Qc7+ Kf6 47. Qf4+ Ke6 48. Qg4+ Kf6 1/2-1/2
 [BlackFideId "13301616"]
 [BlackTitle "GM"]
 [ECO "B09"]
-[EventDate "2019.12.29"]
 [Opening "Pirc"]
 [Variation "Austrian attack, 6.Bd3"]
 [WhiteElo "2754"]

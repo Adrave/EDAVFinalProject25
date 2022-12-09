@@ -1,6 +1,5 @@
 [Event "Aker CC Rapid"]
 [Site "Gjovik NOR"]
-[Date "2009.01.02"]
 [Round "2"]
 [White "Nakamura, Hi"]
 [Black "Lie, K."]
@@ -9,7 +8,6 @@
 [WhiteElo "2699"]
 [BlackElo "2539"]
 [PlyCount "67"]
-[EventDate "2009.01.02"]
 
 1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. a3 d6 6. b4 cxb4 7. axb4 Nxb4 8.
 Qa4+ Nc6 9. Rb1 Nf6 10. Bb2 O-O 11. Nf3 Bd7 12. O-O a6 13. Ba1 Rb8 14. d3 Nd4
@@ -21,7 +19,6 @@ cxd5 Bc5 22. Kg2 Qd8 23. Qb2 f6 24. Bg4 b5 25. h4 Ne5 26. Be6+ Kg7 27. Qe2 Qb6
 
 [Event "Aker CC Rapid Bronze"]
 [Site "Gjovik NOR"]
-[Date "2009.01.05"]
 [Round "1"]
 [White "Nakamura, Hi"]
 [Black "Lie, K."]
@@ -30,7 +27,6 @@ cxd5 Bc5 22. Kg2 Qd8 23. Qb2 f6 24. Bg4 b5 25. h4 Ne5 26. Be6+ Kg7 27. Qe2 Qb6
 [WhiteElo "2699"]
 [BlackElo "2539"]
 [PlyCount "71"]
-[EventDate "2009.01.05"]
 
 1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. d5 Qb6 7. Bc1 g6 8. e4
 d6 9. c4 e6 10. Ne2 exd5 11. cxd5 Bg7 12. Nec3 O-O 13. Be2 a6 14. a4 Nbd7 15.
@@ -42,7 +38,6 @@ Na3 Qd8 16. O-O Rb8 17. Be3 Ne8 18. Qd2 Nc7 19. Rab1 Qe7 20. b4 Re8 21. Bf2 b6
 
 [Event "7th Gibtelecom Masters"]
 [Site "Caleta ENG"]
-[Date "2009.01.28"]
 [Round "2"]
 [White "Nakamura, Hi"]
 [Black "Carlsson, P."]
@@ -51,7 +46,6 @@ Na3 Qd8 16. O-O Rb8 17. Be3 Ne8 18. Qd2 Nc7 19. Rab1 Qe7 20. b4 Re8 21. Bf2 b6
 [WhiteElo "2699"]
 [BlackElo "2509"]
 [PlyCount "81"]
-[EventDate "2009.01.27"]
 
 1. d4 e6 2. c4 f5 3. d5 Bb4+ 4. Nd2 Nf6 5. a3 Bxd2+ 6. Qxd2 O-O 7. dxe6 d6 8.
 Nh3 Bxe6 9. e3 Nc6 10. b3 Qe7 11. Nf4 Ne5 12. Be2 Rae8 13. Bb2 Bf7 14. O-O Ne4
@@ -64,7 +58,6 @@ Ke3 Kb6 41. f6 1-0
 
 [Event "7th Gibtelecom Masters"]
 [Site "Caleta ENG"]
-[Date "2009.01.30"]
 [Round "4"]
 [White "Nakamura, Hi"]
 [Black "Capo Vidal, U."]
@@ -73,7 +66,6 @@ Ke3 Kb6 41. f6 1-0
 [WhiteElo "2699"]
 [BlackElo "2336"]
 [PlyCount "147"]
-[EventDate "2009.01.27"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Bf5 7. e3 Nbd7 8.
 Nge2 Bd6 9. f3 Qe7 10. O-O O-O-O 11. Re1 h5 12. e4 dxe4 13. fxe4 Bg4 14. Bg5 h4
@@ -91,7 +83,6 @@ Ka7 72. Ne5 Rf6 73. Kc7 Ka8 74. Nd7 1-0
 
 [Event "7th Gibtelecom Masters"]
 [Site "Caleta ENG"]
-[Date "2009.02.01"]
 [Round "6"]
 [White "Nakamura, Hi"]
 [Black "Bok, B."]
@@ -100,7 +91,6 @@ Ka7 72. Ne5 Rf6 73. Kc7 Ka8 74. Nd7 1-0
 [WhiteElo "2699"]
 [BlackElo "2277"]
 [PlyCount "103"]
-[EventDate "2009.01.27"]
 
 1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 e5 5. Bg2 Nb6 6. d3 Be7 7. Be3 O-O 8.
 Rc1 f6 9. a4 a5 10. d4 exd4 11. Bxd4 Bb4 12. Nf3 c5 13. Qb3+ Kh8 14. Be3 Qe7
@@ -114,7 +104,6 @@ Rc5 b6 48. Rc6 Rb8 49. Ke4 Kd7 50. Bb5 Kd8 51. f4 Bc7 52. Re6 1-0
 
 [Event "7th Gibtelecom Masters"]
 [Site "Caleta ENG"]
-[Date "2009.02.03"]
 [Round "8"]
 [White "Nakamura, Hi"]
 [Black "Golod, V."]
@@ -123,7 +112,6 @@ Rc5 b6 48. Rc6 Rb8 49. Ke4 Kd7 50. Bb5 Kd8 51. f4 Bc7 52. Re6 1-0
 [WhiteElo "2699"]
 [BlackElo "2575"]
 [PlyCount "95"]
-[EventDate "2009.01.27"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
@@ -137,7 +125,6 @@ c6 Rc5 47. Nc8 Kf7 48. Na7 1-0
 
 [Event "TCh-AUT 1st Bundesliga 2008-9"]
 [Site "Ansfelden AUT"]
-[Date "2009.03.19"]
 [Round "8"]
 [White "Nakamura, Hi"]
 [Black "Gyimesi, Z."]
@@ -146,7 +133,6 @@ c6 Rc5 47. Nc8 Kf7 48. Na7 1-0
 [WhiteElo "2699"]
 [BlackElo "2582"]
 [PlyCount "61"]
-[EventDate "2009.01.22"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
 cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Rc1 Nc6 12. Bb5 Bd7 13. O-O Ne5 14. Be2
@@ -157,7 +143,6 @@ Bd5 Qe1+ 28. Kh2 hxg4 29. Qf6 g3+ 30. Kxg3 Qg1+ 31. Kh4 1-0
 
 [Event "10th Dos Hermanas Internet"]
 [Site "ICC INT"]
-[Date "2009.03.20"]
 [Round "1.1"]
 [White "Nakamura, Hi"]
 [Black "Nureev, G."]
@@ -166,7 +151,6 @@ Bd5 Qe1+ 28. Kh2 hxg4 29. Qf6 g3+ 30. Kxg3 Qg1+ 31. Kh4 1-0
 [WhiteElo "2699"]
 [BlackElo "2340"]
 [PlyCount "99"]
-[EventDate "2009.03.20"]
 
 1. b3 d5 2. Bb2 Bf5 3. g3 e6 4. d3 Nf6 5. Bg2 h6 6. Nd2 Bh7 7. e4 dxe4 8. dxe4
 Bb4 9. c3 Bc5 10. Qe2 Nc6 11. Ngf3 O-O 12. O-O a5 13. a3 Qe7 14. b4 Bb6 15. Ne1
@@ -180,7 +164,6 @@ Nf3 Kf6 48. Nxh4 Ne7+ 49. Kd6 Nc6 50. Nf3 1-0
 
 [Event "Dos Hermanas Blitz Final"]
 [Site "ICC INT"]
-[Date "2010.03.20"]
 [Round "4.4"]
 [White "Nakamura, Hi"]
 [Black "Vasquez Schroeder, R."]
@@ -189,7 +172,6 @@ Nf3 Kf6 48. Nxh4 Ne7+ 49. Kd6 Nc6 50. Nf3 1-0
 [WhiteElo "2735"]
 [BlackElo "2506"]
 [PlyCount "118"]
-[EventDate "2010.03.19"]
 [EventType "blitz"]
 [EventRounds "5"]
 [Source "Mark Crowther"]
@@ -209,7 +191,6 @@ Ba3 54. Nf3 Bc5 55. Ke2 Kd7 56. Ng5 Be7 57. Nf3 Bc5 58. Ng5 Be7 59. Nf3 Bc5
 
 [Event "ch-USA"]
 [Site "Saint Louis USA"]
-[Date "2010.05.17"]
 [Round "4"]
 [White "Nakamura, Hi"]
 [Black "Onischuk, Al"]
@@ -218,7 +199,6 @@ Ba3 54. Nf3 Bc5 55. Ke2 Kd7 56. Ng5 Be7 57. Nf3 Bc5 58. Ng5 Be7 59. Nf3 Bc5
 [WhiteElo "2733"]
 [BlackElo "2699"]
 [PlyCount "59"]
-[EventDate "2010.05.14"]
 [EventRounds "9"]
 [EventCountry "USA"]
 [Source "Mark Crowther"]
@@ -233,7 +213,6 @@ Ba3 54. Nf3 Bc5 55. Ke2 Kd7 56. Ng5 Be7 57. Nf3 Bc5 58. Ng5 Be7 59. Nf3 Bc5
 
 [Event "ch-USA Quads"]
 [Site "Saint Louis USA"]
-[Date "2010.05.22"]
 [Round "1"]
 [White "Nakamura, Hi"]
 [Black "Kamsky, G."]
@@ -242,7 +221,6 @@ Ba3 54. Nf3 Bc5 55. Ke2 Kd7 56. Ng5 Be7 57. Nf3 Bc5 58. Ng5 Be7 59. Nf3 Bc5
 [WhiteElo "2733"]
 [BlackElo "2702"]
 [PlyCount "65"]
-[EventDate "2010.05.22"]
 [EventRounds "3"]
 [EventCountry "USA"]
 [EventCategory "18"]
@@ -259,7 +237,6 @@ Rg6 28. Bf1 Ng5 29. Rd3 Re8 30. Rg3 Re1 31. Re2 Ne4 32. Rxg6+ fxg6 33. Qe7
 
 [Event "5th NH Chess Tournament"]
 [Site "Amsterdam NED"]
-[Date "2010.08.21"]
 [Round "9"]
 [White "Nakamura, Hi"]
 [Black "Svidler, P."]
@@ -268,7 +245,6 @@ Rg6 28. Bf1 Ng5 29. Rd3 Re8 30. Rg3 Re1 31. Re2 Ne4 32. Rxg6+ fxg6 33. Qe7
 [WhiteElo "2729"]
 [BlackElo "2734"]
 [PlyCount "98"]
-[EventDate "2010.08.12"]
 [EventRounds "10"]
 [EventCountry "NED"]
 [Source "Mark Crowther"]
@@ -286,7 +262,6 @@ Ra3 47. Rd2 Rg5 48. Rc2 a4 49. Rd2 Ra1 1/2-1/2
 
 [Event "USCL"]
 [Site "ICC INT"]
-[Date "2010.09.13"]
 [Round "4"]
 [White "Nakamura, Hi"]
 [Black "Becerra Rivero, J."]
@@ -295,7 +270,6 @@ Ra3 47. Rd2 Rg5 48. Rc2 a4 49. Rd2 Ra1 1/2-1/2
 [WhiteElo "2729"]
 [BlackElo "2557"]
 [PlyCount "189"]
-[EventDate "2010.08.23"]
 [EventRounds "10"]
 [Source "Mark Crowther"]
 [SourceDate "2010.09.06"]
@@ -319,7 +293,6 @@ Kg1 Ke4 92. Ra4+ Kd3 93. Ra3+ Kc4 94. Ra4+ Kb3 95. Ra8 1/2-1/2
 
 [Event "39th Olympiad Men"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2010.10.01"]
 [Round "10.3"]
 [White "Nakamura, Hi"]
 [Black "Gelfand, B."]
@@ -328,7 +301,6 @@ Kg1 Ke4 92. Ra4+ Kd3 93. Ra3+ Kc4 94. Ra4+ Kb3 95. Ra8 1/2-1/2
 [WhiteElo "2733"]
 [BlackElo "2751"]
 [PlyCount "157"]
-[EventDate "2010.09.21"]
 [EventRounds "11"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -354,7 +326,6 @@ Bxc5 73. dxc5 Ke6 74. Kd4 Nb4 75. Bd1 Kf6 76. Bb3 Na6 77. Bd1 Nb4 78. Bf3 Ke6
 
 [Event "Trophee CCAS KO"]
 [Site "Cap d'Agde FRA"]
-[Date "2010.10.31"]
 [Round "3.2"]
 [White "Nakamura, Hi"]
 [Black "Ivanchuk, V."]
@@ -363,7 +334,6 @@ Bxc5 73. dxc5 Ke6 74. Kd4 Nb4 75. Bd1 Kf6 76. Bb3 Na6 77. Bd1 Nb4 78. Bf3 Ke6
 [WhiteElo "2733"]
 [BlackElo "2754"]
 [PlyCount "38"]
-[EventDate "2010.10.29"]
 [EventType "rapid"]
 [EventRounds "3"]
 [EventCountry "FRA"]
@@ -377,7 +347,6 @@ Nd3 Bd6 16. Qh5 Bg4 17. Bxf7+ Kf8 18. Qg6 Qh2+ 19. Kf2 Qg3+ 1/2-1/2
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2010.11.08"]
 [Round "4"]
 [White "Nakamura, Hi"]
 [Black "Kramnik, V."]
@@ -386,7 +355,6 @@ Nd3 Bd6 16. Qh5 Bg4 17. Bxf7+ Kf8 18. Qg6 Qh2+ 19. Kf2 Qg3+ 1/2-1/2
 [WhiteElo "2741"]
 [BlackElo "2791"]
 [PlyCount "66"]
-[EventDate "2010.11.05"]
 [EventRounds "9"]
 [EventCountry "RUS"]
 [EventCategory "21"]
@@ -403,7 +371,6 @@ Qb1+ 1/2-1/2
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2010.11.11"]
 [Round "6"]
 [White "Nakamura, Hi"]
 [Black "Wang Hao"]
@@ -412,7 +379,6 @@ Qb1+ 1/2-1/2
 [WhiteElo "2741"]
 [BlackElo "2727"]
 [PlyCount "50"]
-[EventDate "2010.11.05"]
 [EventRounds "9"]
 [EventCountry "RUS"]
 [EventCategory "21"]
@@ -427,7 +393,6 @@ Bd7 16. Ng5 g6 17. Rf3 Na5 18. Rh3 Nbc4 19. Nxc4 Nxc4 20. Bc1 Ba4 21. Qe1 Qb6
 
 [Event "Tal Memorial"]
 [Site "Moscow RUS"]
-[Date "2010.11.13"]
 [Round "8"]
 [White "Nakamura, Hi"]
 [Black "Gelfand, B."]
@@ -436,7 +401,6 @@ Bd7 16. Ng5 g6 17. Rf3 Na5 18. Rh3 Nbc4 19. Nxc4 Nxc4 20. Bc1 Ba4 21. Qe1 Qb6
 [WhiteElo "2741"]
 [BlackElo "2741"]
 [PlyCount "88"]
-[EventDate "2010.11.05"]
 [EventRounds "9"]
 [EventCountry "RUS"]
 [EventCategory "21"]
@@ -454,7 +418,6 @@ Bc3 40. Nd4 Ne4 41. Nd3 Kf8 42. Ne2 Bf6 43. f4 Ke7 44. Nf2 Nxf2 1/2-1/2
 
 [Event "VI World Blitz"]
 [Site "Moscow RUS"]
-[Date "2010.11.16"]
 [Round "6.8"]
 [White "Nakamura, Hi"]
 [Black "Svidler, P."]
@@ -463,7 +426,6 @@ Bc3 40. Nd4 Ne4 41. Nd3 Kf8 42. Ne2 Bf6 43. f4 Ke7 44. Nf2 Nxf2 1/2-1/2
 [WhiteElo "2741"]
 [BlackElo "2722"]
 [PlyCount "74"]
-[EventDate "2010.11.16"]
 [EventType "blitz"]
 [EventRounds "38"]
 [EventCountry "RUS"]
@@ -480,7 +442,6 @@ Rc4 22. Nd3 fxe5 23. dxe5 a5 24. Ne1 Be4 25. Bh3 h5 26. a3 Qb6 27. axb4 Rxf4
 
 [Event "VI World Blitz"]
 [Site "Moscow RUS"]
-[Date "2010.11.17"]
 [Round "24.3"]
 [White "Nakamura, Hi"]
 [Black "Karjakin, Sergey"]
@@ -489,7 +450,6 @@ Rc4 22. Nd3 fxe5 23. dxe5 a5 24. Ne1 Be4 25. Bh3 h5 26. a3 Qb6 27. axb4 Rxf4
 [WhiteElo "2741"]
 [BlackElo "2760"]
 [PlyCount "140"]
-[EventDate "2010.11.16"]
 [EventType "blitz"]
 [EventRounds "38"]
 [EventCountry "RUS"]
@@ -511,7 +471,6 @@ e6 Nc6 61. Ke2 Kb6 62. Nf7 Kc7 63. Kf3 Ne7 64. Ke2 Nc6 65. Kd2 Ne7 66. Kc2 Nc6
 
 [Event "VI World Blitz"]
 [Site "Moscow RUS"]
-[Date "2010.11.17"]
 [Round "26.4"]
 [White "Nakamura, Hi"]
 [Black "Radjabov, T."]
@@ -520,7 +479,6 @@ e6 Nc6 61. Ke2 Kb6 62. Nf7 Kc7 63. Kf3 Ne7 64. Ke2 Nc6 65. Kd2 Ne7 66. Kc2 Nc6
 [WhiteElo "2741"]
 [BlackElo "2744"]
 [PlyCount "186"]
-[EventDate "2010.11.16"]
 [EventType "blitz"]
 [EventRounds "38"]
 [EventCountry "RUS"]
@@ -546,7 +504,6 @@ Rg5 86. Kf4 Rxg6 87. Rh8+ Rh6 88. g4+ Kg6 89. Rc8 Kg7 90. Rc7+ Kg8 91. Kf5 c5
 
 [Event "VI World Blitz"]
 [Site "Moscow RUS"]
-[Date "2010.11.18"]
 [Round "38"]
 [White "Nakamura, Hi"]
 [Black "Nepomniachtchi, I."]
@@ -555,7 +512,6 @@ Rg5 86. Kf4 Rxg6 87. Rh8+ Rh6 88. g4+ Kg6 89. Rc8 Kg7 90. Rc7+ Kg8 91. Kf5 c5
 [WhiteElo "2741"]
 [BlackElo "2720"]
 [PlyCount "165"]
-[EventDate "2010.11.16"]
 [EventType "blitz"]
 [EventRounds "38"]
 [EventCountry "RUS"]
@@ -580,7 +536,6 @@ Qc3+ 72. g3 Qa5 73. Qe7+ Kg6 74. Qe8+ Kf6 75. Qe2 Qf5+ 76. Kh2 a5 77. Qa6+ Ke7
 
 [Event "2nd London Chess Classic"]
 [Site "London ENG"]
-[Date "2010.12.10"]
 [Round "3"]
 [White "Nakamura, Hi"]
 [Black "Howell, D."]
@@ -589,7 +544,6 @@ Qc3+ 72. g3 Qa5 73. Qe7+ Kg6 74. Qe8+ Kf6 75. Qe2 Qf5+ 76. Kh2 a5 77. Qa6+ Ke7
 [WhiteElo "2741"]
 [BlackElo "2611"]
 [PlyCount "83"]
-[EventDate "2010.12.06"]
 [EventRounds "7"]
 [EventCountry "ENG"]
 [EventCategory "19"]
@@ -607,7 +561,6 @@ Qc7 Kg8 41. Qc8+ Kg7 42. Qc7 1/2-1/2
 
 [Event "2nd London Chess Classic"]
 [Site "London ENG"]
-[Date "2010.12.15"]
 [Round "7"]
 [White "Nakamura, Hi"]
 [Black "Adams, Mi"]
@@ -616,7 +569,6 @@ Qc7 Kg8 41. Qc8+ Kg7 42. Qc7 1/2-1/2
 [WhiteElo "2741"]
 [BlackElo "2723"]
 [PlyCount "125"]
-[EventDate "2010.12.06"]
 [EventRounds "7"]
 [EventCountry "ENG"]
 [EventCategory "19"]
@@ -637,7 +589,6 @@ fxg5 60. Ke4 Kxb6 61. Kf5 g4 62. hxg4 hxg4 63. Kxg4 1/2-1/2
 
 [Event "5. Tal Memorial"]
 [Site "Moscow, Russia"]
-[Date "2010.11.08"]
 [Round "4"]
 [White "Nakamura, Hikaru"]
 [Black "Kramnik, Vladimir"]
@@ -645,7 +596,6 @@ fxg5 60. Ke4 Kxb6 61. Kf5 g4 62. hxg4 hxg4 63. Kxg4 1/2-1/2
 [WhiteElo "2741"]
 [BlackElo "2790"]
 [ECO "C42"]
-[EventDate "2010.11.04"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 
 O-O 8. Qd2 Nd7 9. O-O-O Re8 10. h4 c6 11. Bd3 Nf6 12. Rde1 d5 13. Bd4 c5 

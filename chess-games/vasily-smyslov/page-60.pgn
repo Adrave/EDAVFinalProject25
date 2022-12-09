@@ -1,13 +1,11 @@
 [Event "Training Match Tournament"]
 [Site "URS"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "David Bronstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D71"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -25,14 +23,12 @@
 
 [Event "Soviet Union"]
 [Site "?"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "David Bronstein"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C63"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Moscow Alekhine Mem"]
 [Site "Moscow Alekhine mem"]
-[Date "1956.??.??"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Mark Taimanov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E62"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1952.02.14"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Botvinnik"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A82"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -87,14 +79,12 @@
 
 [Event "Spartakiad"]
 [Site "Moscow URS"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Botvinnik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A30"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -107,14 +97,12 @@
 
 [Event "Botvinnik - Smyslov World Championship Match"]
 [Site "Moscow URS"]
-[Date "1954.03.25"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Botvinnik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -130,14 +118,12 @@
 
 [Event "Botvinnik - Smyslov World Championship Match"]
 [Site "Moscow URS"]
-[Date "1954.05.06"]
 [Round "21"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Botvinnik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C15"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -153,14 +139,12 @@
 
 [Event "Botvinnik - Smyslov World Championship Match"]
 [Site "Moscow URS"]
-[Date "1957.04.11"]
 [Round "16"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Botvinnik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C98"]
-[EventDate "????.??.??"]
 [PlyCount "110"]
 [WhiteElo "?"]
 
@@ -178,14 +162,12 @@
 
 [Event "4th Soviet Team Cup"]
 [Site "Moscow URS"]
-[Date "1964.10.15"]
 [Round "3"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Tal"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A36"]
-[EventDate "????.??.??"]
 [PlyCount "144"]
 [WhiteElo "?"]
 
@@ -206,14 +188,12 @@
 
 [Event "Subotica Interzonal"]
 [Site "Subotica YUG"]
-[Date "1987.06.??"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Tal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D38"]
-[EventDate "????.??.??"]
 [PlyCount "25"]
 [WhiteElo "?"]
 
@@ -224,14 +204,12 @@
 
 [Event "3rd Soviet Team Cup"]
 [Site "Moscow URS"]
-[Date "1961.12.??"]
 [Round "4"]
 [White "Vasily Smyslov"]
 [Black "Efim Geller"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -247,14 +225,12 @@
 
 [Event "Columbus simul"]
 [Site "Columbus"]
-[Date "1976.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Fred Kohn"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C15"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 
@@ -266,14 +242,12 @@
 
 [Event "Hastings 1988/89"]
 [Site "Hastings ENG"]
-[Date "1988.??.??"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Anthony Cornelis Kosten"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -289,14 +263,12 @@
 
 [Event "Candidates Final"]
 [Site "Vilnius"]
-[Date "1984.04.07"]
 [Round "12"]
 [White "Vasily Smyslov"]
 [Black "Garry Kasparov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -312,14 +284,12 @@
 
 [Event "Bugojno"]
 [Site "Bugojno BIH"]
-[Date "1984.06.??"]
 [Round "11"]
 [White "Vasily Smyslov"]
 [Black "Eugenio Torre"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D49"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -335,14 +305,12 @@
 
 [Event "Bronshoj"]
 [Site "Bronshoj, Copenhagen DEN"]
-[Date "1985.03.??"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Helgi Olafsson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A33"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -360,14 +328,12 @@
 
 [Event "Lvov Zonal"]
 [Site "Lvov"]
-[Date "1978.04.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Vladimir Bagirov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "????.??.??"]
 [PlyCount "163"]
 [WhiteElo "?"]
 
@@ -390,14 +356,12 @@
 
 [Event "Sao Paulo"]
 [Site "Sao Paulo BRA"]
-[Date "1978.05.??"]
 [Round "4"]
 [White "Vasily Smyslov"]
 [Black "Oscar Humberto Castro Rojas"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D07"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -411,14 +375,12 @@
 
 [Event "Sao Paulo"]
 [Site "Sao Paulo BRA"]
-[Date "1978.05.??"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Rubens A Filguth"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A17"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -434,14 +396,12 @@
 
 [Event "Bar"]
 [Site "Bar"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Bojan Kurajica"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -455,14 +415,12 @@
 
 [Event "Linz op"]
 [Site "Linz op"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Piet van der Weide"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A85"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -475,14 +433,12 @@
 
 [Event "Los Polvorines Open"]
 [Site "Los Polvorines ARG"]
-[Date "1980.05.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Petrelli"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A05"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -496,14 +452,12 @@
 
 [Event "Bar"]
 [Site "Bar YUG"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Slavoljub Marjanovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A49"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -521,14 +475,12 @@
 
 [Event "Bar"]
 [Site "Bar YUG"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Vukovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A62"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -544,14 +496,12 @@
 
 [Event "Los Polvorines Open"]
 [Site "Los Polvorines ARG"]
-[Date "1980.05.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Koch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E06"]
-[EventDate "????.??.??"]
 [PlyCount "85"]
 [WhiteElo "?"]
 

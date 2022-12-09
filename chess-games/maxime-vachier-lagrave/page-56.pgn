@@ -1,6 +1,5 @@
 [Event "7th Gibtelecom Masters"]
 [Site "Caleta ENG"]
-[Date "2009.01.27"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Kharous, E."]
@@ -9,7 +8,6 @@
 [WhiteElo "2696"]
 [BlackElo "2400"]
 [PlyCount "59"]
-[EventDate "2009.01.27"]
 
 1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Be6 7. Qxc5 dxc5 8.
 Bxd8 Kxd8 9. Nbd2 Nd7 10. O-O-O Ke7 11. Ng5 g6 12. f4 Bh6 13. h4 Rad8 14. Be2
@@ -20,7 +18,6 @@ fxg5 28. Rh2 Bg7 29. Ne4+ Kc6 30. Nxg5 1-0
 
 [Event "7th Gibtelecom Masters"]
 [Site "Caleta ENG"]
-[Date "2009.01.31"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Dittmar, P."]
@@ -29,7 +26,6 @@ fxg5 28. Rh2 Bg7 29. Ne4+ Kc6 30. Nxg5 1-0
 [WhiteElo "2696"]
 [BlackElo "2382"]
 [PlyCount "79"]
-[EventDate "2009.01.27"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. Nbd2 c5 8. c4
 Nc6 9. cxd5 exd5 10. dxc5 Nxc5 11. Nb3 Nxb3 12. Qxb3 Qd7 13. Rd1 Be6 14. Nd4
@@ -42,7 +38,6 @@ Bxh3 34. Rxh4 Be6 35. a4 Rb6 36. a5 Rbxc6 37. bxc6 Rxc6 38. Ra4 Bc8 39. Ra3 Rh6
 
 [Event "7th Gibtelecom Masters"]
 [Site "Caleta ENG"]
-[Date "2009.02.02"]
 [Round "7"]
 [White "Vachier Lagrave, M."]
 [Black "Zatonskih, A."]
@@ -51,7 +46,6 @@ Bxh3 34. Rxh4 Be6 35. a4 Rb6 36. a5 Rbxc6 37. bxc6 Rxc6 38. Ra4 Bc8 39. Ra3 Rh6
 [WhiteElo "2696"]
 [BlackElo "2462"]
 [PlyCount "43"]
-[EventDate "2009.01.27"]
 
 1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 b6 5. Be3 Ba6 6. Bxa6 Nxa6 7. Nge2 Bb4 8. Qd3
 Nc7 9. O-O-O Bxc3 10. Qxc3 Qd7 11. Qd3 Ne7 12. Kb1 Nb5 13. Nf4 Ng6 14. Nh5 f6
@@ -61,7 +55,6 @@ Rg1 Raf8 22. Nh5 1-0
 
 [Event "Bundesliga 2008-9"]
 [Site "Tegernsee GER"]
-[Date "2009.03.01"]
 [Round "13"]
 [White "Vachier Lagrave, M."]
 [Black "Renner, Christo"]
@@ -70,7 +63,6 @@ Rg1 Raf8 22. Nh5 1-0
 [WhiteElo "2716"]
 [BlackElo "2422"]
 [PlyCount "126"]
-[EventDate "2008.10.03"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
 d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 Re8 13. a4 b4 14. Ne3 Bf8 15. Nd5
@@ -86,7 +78,6 @@ Rxb7 Rd6+ 62. Ke2 h2 63. Rh7 Rd2+ 1-0
 
 [Event "TOP 16 GpA"]
 [Site "Mulhouse FRA"]
-[Date "2009.03.20"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Landenbergue, C."]
@@ -95,7 +86,6 @@ Rxb7 Rd6+ 62. Ke2 h2 63. Rh7 Rd2+ 1-0
 [WhiteElo "2696"]
 [BlackElo "2410"]
 [PlyCount "39"]
-[EventDate "2009.03.20"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Nc3 Nxd4 8.
 Bxd7+ Qxd7 9. Qxd4 Nc6 10. Qd3 Be7 11. Qg3 O-O-O 12. Be3 g6 13. Nd5 f5 14. b4
@@ -105,7 +95,6 @@ Rde8 15. b5 Ne5 16. Bxa7 Qxb5 17. Bd4 Qc4 18. Rfd1 fxe4 19. Bxe5 dxe5 20. Nxe7+
 
 [Event "TOP 16 GpA"]
 [Site "Mulhouse FRA"]
-[Date "2009.04.30"]
 [Round "4"]
 [White "Vachier Lagrave, M."]
 [Black "Pira, D."]
@@ -114,7 +103,6 @@ Rde8 15. b5 Ne5 16. Bxa7 Qxb5 17. Bd4 Qc4 18. Rfd1 fxe4 19. Bxe5 dxe5 20. Nxe7+
 [WhiteElo "2684"]
 [BlackElo "2388"]
 [PlyCount "75"]
-[EventDate "2009.03.20"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. a4 b6 6. Nf3 e6 7. Bd3 Nd7 8. O-O Ne7
 9. Ne2 Bb7 10. Ng3 c5 11. c3 Qc7 12. Re1 h6 13. Qd2 Rd8 14. h3 Qc8 15. b4 Kf8
@@ -126,7 +114,6 @@ Qh1+ 35. Ke2 Qxg2 36. Qc6 Qxg4+ 37. Qf3 Qxa4 38. Qxa8 1-0
 
 [Event "TOP 16 GpA"]
 [Site "Mulhouse FRA"]
-[Date "2009.05.01"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Magem Badals, J."]
@@ -135,7 +122,6 @@ Qh1+ 35. Ke2 Qxg2 36. Qc6 Qxg4+ 37. Qf3 Qxa4 38. Qxa8 1-0
 [WhiteElo "2684"]
 [BlackElo "2531"]
 [PlyCount "73"]
-[EventDate "2009.03.20"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Ke8 7. Nf3 Bd6
 8. Bg5 Nbd7 9. O-O-O a6 10. a4 h6 11. Bh4 g6 12. Nd5 Nxe4 13. Rhe1 f5 14. g4 b5
@@ -147,7 +133,6 @@ Bf7+ Kd7 28. Bd5+ Kc8 29. Bxf3 e4 30. Be2 Rb8 31. Nf6 Rb7 32. Rg6 f4 33. Nd5 f3
 
 [Event "Rapid"]
 [Site "Livry-Gargan FRA"]
-[Date "2009.05.10"]
 [Round "5"]
 [White "Vachier Lagrave, M."]
 [Black "Goldsztejn, Gi"]
@@ -156,7 +141,6 @@ Bf7+ Kd7 28. Bd5+ Kc8 29. Bxf3 e4 30. Be2 Rb8 31. Nf6 Rb7 32. Rg6 f4 33. Nd5 f3
 [WhiteElo "2684"]
 [BlackElo "2407"]
 [PlyCount "95"]
-[EventDate "2009.05.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
 axb5 9. d3 h6 10. Be3 d6 11. h3 O-O 12. Nc3 Bxe3 13. fxe3 Be6 14. Bxe6 fxe6 15.
@@ -170,7 +154,6 @@ Kh8 47. Qxf8+ Kh7 48. Qf5+ 1-0
 
 [Event "Rapid"]
 [Site "Livry-Gargan FRA"]
-[Date "2009.05.10"]
 [Round "6"]
 [White "Vachier Lagrave, M."]
 [Black "Edouard, R."]
@@ -179,7 +162,6 @@ Kh8 47. Qxf8+ Kh7 48. Qf5+ 1-0
 [WhiteElo "2684"]
 [BlackElo "2594"]
 [PlyCount "77"]
-[EventDate "2009.05.10"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
 g5 9. Bg3 Bg7 10. h3 Ne5 11. Nf5 Bxf5 12. exf5 Nbc6 13. Nd5 e6 14. fxe6 fxe6
@@ -192,7 +174,6 @@ Bxe4 1-0
 
 [Event "TOP 16 Poule Haute"]
 [Site "Le Port Marly FRA"]
-[Date "2009.05.31"]
 [Round "11"]
 [White "Vachier Lagrave, M."]
 [Black "Kosten, A."]
@@ -201,7 +182,6 @@ Bxe4 1-0
 [WhiteElo "2684"]
 [BlackElo "2513"]
 [PlyCount "55"]
-[EventDate "2009.05.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
 dxe5 Nf5 9. c4 O-O 10. Nc3 d5 11. Rd1 Be6 12. g4 Nh4 13. Nxh4 Bxh4 14. f4 f5
@@ -212,7 +192,6 @@ Rb8 22. Rd2 a6 23. Bc5 f2+ 24. Rxf2 Rxf2 25. Qxf2 Qh5 26. Qf4 h6 27. gxh6 gxh6
 
 [Event "City of Culture GM"]
 [Site "Donostia ESP"]
-[Date "2009.07.07"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Kasimdzhanov, R."]
@@ -221,7 +200,6 @@ Rb8 22. Rd2 a6 23. Bc5 f2+ 24. Rxf2 Rxf2 25. Qxf2 Qh5 26. Qf4 h6 27. gxh6 gxh6
 [WhiteElo "2703"]
 [BlackElo "2672"]
 [PlyCount "91"]
-[EventDate "2009.07.07"]
 [EventRounds "9"]
 [EventCountry "ESP"]
 [EventCategory "18"]
@@ -239,7 +217,6 @@ Rxe4 41. Qd5 Qe2 42. Bb2+ Kh6 43. Rg1 Qf3 44. Bd4 b5 45. Bf6 bxc4 46. Qxf7 1-0
 
 [Event "City of Culture GM"]
 [Site "Donostia ESP"]
-[Date "2009.07.09"]
 [Round "3"]
 [White "Vachier Lagrave, M."]
 [Black "Karpov, Ana"]
@@ -248,7 +225,6 @@ Rxe4 41. Qd5 Qe2 42. Bb2+ Kh6 43. Rg1 Qf3 44. Bd4 b5 45. Bf6 bxc4 46. Qxf7 1-0
 [WhiteElo "2703"]
 [BlackElo "2644"]
 [PlyCount "73"]
-[EventDate "2009.07.07"]
 [EventRounds "9"]
 [EventCountry "ESP"]
 [EventCategory "18"]
@@ -265,7 +241,6 @@ Rxc6 35. Nhxg7 Rc4 36. Nh5 Nh7 37. a3 1-0
 
 [Event "City of Culture GM"]
 [Site "Donostia ESP"]
-[Date "2009.07.13"]
 [Round "6"]
 [White "Vachier Lagrave, M."]
 [Black "San Segundo Carrillo, P."]
@@ -274,7 +249,6 @@ Rxc6 35. Nhxg7 Rc4 36. Nh5 Nh7 37. a3 1-0
 [WhiteElo "2703"]
 [BlackElo "2570"]
 [PlyCount "69"]
-[EventDate "2009.07.07"]
 [EventRounds "9"]
 [EventCountry "ESP"]
 [EventCategory "18"]
@@ -291,7 +265,6 @@ Bd1 1-0
 
 [Event "City of Culture GM"]
 [Site "Donostia ESP"]
-[Date "2009.07.13"]
 [Round "6"]
 [White "Vachier Lagrave, M."]
 [Black "San Segundo Carrillo, P."]
@@ -300,7 +273,6 @@ Bd1 1-0
 [WhiteElo "2703"]
 [BlackElo "2570"]
 [PlyCount "81"]
-[EventDate "2009.07.07"]
 [EventRounds "9"]
 [EventCountry "ESP"]
 [EventCategory "18"]
@@ -318,7 +290,6 @@ Bd1 h4 36. g3 h3 37. Re3 Kf8 38. Bg4 Na6 39. Nxa6 Rxa2 40. Nc7 Rxh2 41. Re8+
 
 [Event "GM"]
 [Site "Biel SUI"]
-[Date "2009.07.27"]
 [Round "7"]
 [White "Vachier Lagrave, M."]
 [Black "Caruana, F."]
@@ -327,7 +298,6 @@ Bd1 h4 36. g3 h3 37. Re3 Kf8 38. Bg4 Na6 39. Nxa6 Rxa2 40. Nc7 Rxh2 41. Re8+
 [WhiteElo "2703"]
 [BlackElo "2670"]
 [PlyCount "75"]
-[EventDate "2009.07.19"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "19"]
@@ -344,7 +314,6 @@ Re5 gxf2+ 34. Kxf2 Nd6 35. Bb4 Nc8 36. Rxb7 Rh4 37. Bxe7 Rxf4+ 38. Ke3 1-0
 
 [Event "ch-FRA National A"]
 [Site "Nimes FRA"]
-[Date "2009.08.11"]
 [Round "2"]
 [White "Vachier Lagrave, M."]
 [Black "Degraeve, JM."]
@@ -353,7 +322,6 @@ Re5 gxf2+ 34. Kxf2 Nd6 35. Bb4 Nc8 36. Rxb7 Rh4 37. Bxe7 Rxf4+ 38. Ke3 1-0
 [WhiteElo "2703"]
 [BlackElo "2559"]
 [PlyCount "40"]
-[EventDate "2009.08.10"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "14"]
@@ -367,7 +335,6 @@ Ra7 16. Bg5 Nh6 17. Qf3 Rh7 18. Rad1 Ng4 19. Qf4 Bc5 20. f3 Ne3 1-0
 
 [Event "ch-FRA National A"]
 [Site "Nimes FRA"]
-[Date "2009.08.13"]
 [Round "4"]
 [White "Vachier Lagrave, M."]
 [Black "Maze, S."]
@@ -376,7 +343,6 @@ Ra7 16. Bg5 Nh6 17. Qf3 Rh7 18. Rad1 Ng4 19. Qf4 Bc5 20. f3 Ne3 1-0
 [WhiteElo "2703"]
 [BlackElo "2546"]
 [PlyCount "45"]
-[EventDate "2009.08.10"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "14"]
@@ -391,7 +357,6 @@ Bxe7 Bxe7 15. Nd4 Bd7 16. Rd3 g6 17. Rad1 Rd8 18. f4 b5 19. f5 b4 20. Ne4 c5
 
 [Event "ch-FRA National A"]
 [Site "Nimes FRA"]
-[Date "2009.08.19"]
 [Round "9"]
 [White "Vachier Lagrave, M."]
 [Black "Cossin, S."]
@@ -400,7 +365,6 @@ Bxe7 Bxe7 15. Nd4 Bd7 16. Rd3 g6 17. Rad1 Rd8 18. f4 b5 19. f5 b4 20. Ne4 c5
 [WhiteElo "2703"]
 [BlackElo "2486"]
 [PlyCount "101"]
-[EventDate "2009.08.10"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "14"]
@@ -419,7 +383,6 @@ Kb4 dxe4 48. Kb3 Kc7 49. Kc2 Kd6 50. Kd2 h5 51. h3 1-0
 
 [Event "ch-FRA National A"]
 [Site "Nimes FRA"]
-[Date "2009.08.21"]
 [Round "11"]
 [White "Vachier Lagrave, M."]
 [Black "Fressinet, L."]
@@ -428,7 +391,6 @@ Kb4 dxe4 48. Kb3 Kc7 49. Kc2 Kd6 50. Kd2 h5 51. h3 1-0
 [WhiteElo "2703"]
 [BlackElo "2667"]
 [PlyCount "89"]
-[EventDate "2009.08.10"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "14"]
@@ -446,7 +408,6 @@ Qf7 28. a3 Rb8 29. Re1 Rxe1 30. Nxe1 c6 31. Qa4 Qe8 32. Nf3 Bf8 33. Ra6 bxa3
 
 [Event "WJun"]
 [Site "Puerto Madryn ARG"]
-[Date "2009.10.22"]
 [Round "1"]
 [White "Vachier Lagrave, M."]
 [Black "Macias Murillo, B."]
@@ -455,7 +416,6 @@ Qf7 28. a3 Rb8 29. Re1 Rxe1 30. Nxe1 c6 31. Qa4 Qe8 32. Nf3 Bf8 33. Ra6 bxa3
 [WhiteElo "2718"]
 [BlackElo "2363"]
 [PlyCount "120"]
-[EventDate "2009.10.22"]
 [EventRounds "13"]
 [EventCountry "ARG"]
 [Source "Mark Crowther"]
@@ -475,7 +435,6 @@ Rg4+ 59. Kh3 Kg7 60. Nd7 Rg5 1-0
 
 [Event "VI World Blitz"]
 [Site "Moscow RUS"]
-[Date "2010.11.17"]
 [Round "23.10"]
 [White "Vachier Lagrave, M."]
 [Black "Kramnik, V."]
@@ -484,7 +443,6 @@ Rg4+ 59. Kh3 Kg7 60. Nd7 Rg5 1-0
 [WhiteElo "2703"]
 [BlackElo "2791"]
 [PlyCount "71"]
-[EventDate "2010.11.16"]
 [EventType "blitz"]
 [EventRounds "38"]
 [EventCountry "RUS"]
@@ -501,7 +459,6 @@ h4 f5 28. Rxe3 Rxe3 29. Kg3 fxg4 30. Kxg4 Kf6 31. Kf4 a4 32. a3 h5 33. Rd2 c6
 
 [Event "VI World Blitz"]
 [Site "Moscow RUS"]
-[Date "2010.11.17"]
 [Round "26.2"]
 [White "Vachier Lagrave, M."]
 [Black "Karjakin, Sergey"]
@@ -510,7 +467,6 @@ h4 f5 28. Rxe3 Rxe3 29. Kg3 fxg4 30. Kxg4 Kf6 31. Kf4 a4 32. a3 h5 33. Rd2 c6
 [WhiteElo "2703"]
 [BlackElo "2760"]
 [PlyCount "132"]
-[EventDate "2010.11.16"]
 [EventType "blitz"]
 [EventRounds "38"]
 [EventCountry "RUS"]
@@ -532,7 +488,6 @@ Kg8 66. Qd8+ Kg7 1/2-1/2
 
 [Event "VI World Blitz"]
 [Site "Moscow RUS"]
-[Date "2010.11.18"]
 [Round "36"]
 [White "Vachier Lagrave, M."]
 [Black "Mamedov, Rau"]
@@ -541,7 +496,6 @@ Kg8 66. Qd8+ Kg7 1/2-1/2
 [WhiteElo "2703"]
 [BlackElo "2660"]
 [PlyCount "192"]
-[EventDate "2010.11.16"]
 [EventType "blitz"]
 [EventRounds "38"]
 [EventCountry "RUS"]
@@ -568,7 +522,6 @@ g2 91. Kd3 Ra2 92. Ke4 Kh2 93. Kf3 g1=N+ 94. Ke4 Nh3 95. Nf1+ Kh1 96. Rg3 Ra4+
 
 [Event "European Rapid Championship"]
 [Site "Warsaw POL"]
-[Date "2010.12.18"]
 [Round "4"]
 [White "Vachier Lagrave, M."]
 [Black "Shimanov, A."]
@@ -577,7 +530,6 @@ g2 91. Kd3 Ra2 92. Ke4 Kh2 93. Kf3 g1=N+ 94. Ke4 Nh3 95. Nf1+ Kh1 96. Rg3 Ra4+
 [WhiteElo "2703"]
 [BlackElo "2516"]
 [PlyCount "93"]
-[EventDate "2010.12.18"]
 [EventType "rapid"]
 [EventRounds "13"]
 [EventCountry "POL"]
@@ -595,7 +547,6 @@ Kd1 Be7 43. Kc2 Bf6 44. Kb3 Be7 45. Be1 Bf6 46. Kb4 Be7 47. Rg2 1/2-1/2
 
 [Event "29th European Blitz"]
 [Site "Warsaw POL"]
-[Date "2010.12.17"]
 [Round "10"]
 [White "Vachier Lagrave, M."]
 [Black "Ivanchuk, V."]
@@ -604,7 +555,6 @@ Kd1 Be7 43. Kc2 Bf6 44. Kb3 Be7 45. Be1 Bf6 46. Kb4 Be7 47. Rg2 1/2-1/2
 [WhiteElo "2703"]
 [BlackElo "2764"]
 [PlyCount "63"]
-[EventDate "2010.12.18"]
 [EventType "blitz"]
 [EventRounds "13"]
 [EventCountry "POL"]

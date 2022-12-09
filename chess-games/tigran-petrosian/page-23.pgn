@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Alvarez Ibarra Rafael (ESP)"]
@@ -20,7 +19,6 @@ a3 20.bxa3 Nc4 21.Nxc4 bxc4 22.Bc2 Rxa3 23.Bc1 Ra5 24.Kh1 Rfa8 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -44,7 +42,6 @@ Bg4 41.a4 Rg2 42.a5 Rxg3+ 43.Kb4 Rg1 44.Re7 Be2 45.Rxe5 h5 46.Re8+ 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Geller Efim P (RUS)"]
@@ -65,7 +62,6 @@ b6 24.Bc3 Kf7 25.Rad1 Rxd1 26.Rxd1 Be6 27.a3 Rc8 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Keres Paul (EST)"]
@@ -87,7 +83,6 @@ Qd6 20.Qb5 Red8 21.a4 Be8 22.Qf5 Ne7 23.Qf4 Qxf4 24.Nxf4 Bxa4
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -107,7 +102,6 @@ b6 19.Nc3 Ba6 20.Qa4 Qxa4+ 21.Nxa4 Rc8 22.Nc3 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -125,7 +119,6 @@ c6 8.O-O Nbd7 9.Qb3 Qb6 10.h3 Rfe8 11.Bf4 Ne4 12.Rad1 Qxb3 13.axb3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "2"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -150,7 +143,6 @@ Rb7 48.Rf2 Rd7 49.Rd2 Rb7 50.h4 f6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -174,7 +166,6 @@ Qxc6 42.Rxc6 Rxb4 43.Kf1 Rxd4 44.Ke2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -194,7 +185,6 @@ Nb6 14.Bb3 Qe7 15.Ne4 Bd7 16.Rfd1 Bc6 17.Nxf6+ Qxf6 18.Rd2 Rad8
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "8"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -214,7 +204,6 @@ Qb8 14.Nf3 Rfd8 15.Bd3 Be8 16.Qe2 d5 17.cxd5 Nxd5 18.Nxd5 Rxd5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -237,7 +226,6 @@ gxf5 27.g4 e4 28.gxh5 f4 29.Rxg7 Qxg7 30.Rg1 Qe5 31.Nf3 exd3
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "14"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -263,7 +251,6 @@ Rxa5 48.Kg3 Rg5+ 49.Kf2 a5 50.Ra1 Kxh6 51.Bh1 Rxh5 52.Ke3 Bc2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "16"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -288,7 +275,6 @@ Rg8 43.Qe3 Kh7 44.Qd2 Rgg7 45.Qe3 Kg8 46.Rd2 Kh7 47.Rdf2 Rf8
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "18"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -310,7 +296,6 @@ Nxd5 31.Bb5 Nxc3 32.Bxe8 Nxd1 33.Kxd1 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "24"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]
@@ -340,7 +325,6 @@ f5 71.Be1 Nxc5 72.Bf2 Rb3 73.Rxb3 Nxb3 74.Ra3 Nc5 75.Bxd4 exd4
 
 [Event "Olympiad Moscow"]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Liberzon Vladimir M (ISR)"]
@@ -363,7 +347,6 @@ Be1 37.b3 Bd2 38.Bf7 Rxd4 39.Bxg6 Rb4 1/2-1/2
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -385,7 +368,6 @@ Qxd3 26.Rxd3 Rc8 27.Kf2 Kf7 28.Red1 Ke7 29.R1d2 Nd7 30.Rc2 Rxc2+
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "14"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -411,7 +393,6 @@ Qe7 53.Qf3 Qd6 54.Rf8+ Rd8 55.Rf6 1-0
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fischer Robert J (USA)"]
@@ -432,7 +413,6 @@ Nxd5 20.Nb4 Be6 21.Nxd5 Bxd5 22.Bb4 Bxa2 23.Rc6 Bg8 24.Bxd6 Re8
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -453,7 +433,6 @@ Ned7 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "16"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Larsen Bent (DEN)"]
@@ -480,7 +459,6 @@ Nhxg3 0-1
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "8"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Najdorf Miguel (POL)"]
@@ -511,7 +489,6 @@ Kg7 82.f6+ Kh7 83.Rb7+ Kh8 84.Rc7 Rb5 85.Rc8 Kh7 86.Kd6 1-0
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "12"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Portisch Lajos (HUN)"]
@@ -540,7 +517,6 @@ Kc7 71.Ne4 Kc6 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -563,7 +539,6 @@ Qd6 37.Qc3 Rf7 38.Ba2 Rc7 39.Nc5 Re7 40.Bb1 Rc7 41.Qb4 Qe7 1/2-1/2
 
 [Event "It"]
 [Site "Santa Monica (USA)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Spassky Boris V (FRA)"]

@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Cannes (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -23,7 +22,6 @@ h5 37.Bc3 Rc2 0-1
 
 [Event "Simultan"]
 [Site "Cologne (Germany)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Holzke Frank (GER)"]
@@ -45,7 +43,6 @@ Qe7 25.Rg1 Rd8 26.Nf3 Qc5 27.Rff1 Qe3 28.Nxe5 Nxe4 29.Rf3 h3
 
 [Event "It (active)"]
 [Site "Madrid (Spain)"]
-[Date "1988.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -67,7 +64,6 @@ Re6 25.Qg5 Qg7 26.Rxd5 Bxd5 27.Qxd5 Qxb2 28.Rd1 c4 29.Qg5 c3
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -88,7 +84,6 @@ Bxd5 25.Re8+ Bg8 26.f7 Nxf7 27.Nxf7# 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kharitonov Andrei V (RUS)"]
@@ -110,7 +105,6 @@ Rxb2 31.c4 Re8 32.c5 Bd8 33.Rxa7 Ree2 34.Rxd5 Be7 35.Rxb7 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Salov Valery (RUS)"]
@@ -136,7 +130,6 @@ Nh5 53.Bc5 f4 54.Bf2 Ke7 55.Ke4 Ke6 56.Bd4 Kd6 57.Kf3 Kd5 58.b6 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Smirin Ilia (ISR)"]
@@ -159,7 +152,6 @@ Bxb5 32.Rxb5 Rxa4 33.Bg2 h6 34.Bh4 Qe8 35.Bxf6 Rxf6 36.Rxf6 Qxb5
 
 [Event "Simultan"]
 [Site "New York (USA)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gurevich Ilya (USA)"]
@@ -184,7 +176,6 @@ c4 48.Rc6 d3 49.Rxc4 1-0
 
 [Event "Simultan"]
 [Site "New York (USA)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Rachels Stuart (USA)"]
@@ -208,7 +199,6 @@ Rxf7 42.Qb8+ 1-0
 
 [Event "Simultan"]
 [Site "New York (USA)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Wolff Patrick G (USA)"]
@@ -229,7 +219,6 @@ Qh6 14.h4 g5 15.Nxd5 Bd8 16.Rac1 gxh4 17.Rxc8 hxg3 18.Nf3 Nh2
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -253,7 +242,6 @@ Ne6 19.Rhc1 Rhe8 20.Qb3 Qd6 21.Nf1 Ka8 22.Nd2 Nc7 23.Bf1 Ne6
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -279,7 +267,6 @@ Kh7 43.Nxd7 exd4 44.Re2 Rc3 45.Qe1 Nh4 46.Nf8+ Kh8 47.Ng6+ Qxg6
 
 [Event "Cup World (cat.15)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sax Gyula (HUN)"]
@@ -302,7 +289,6 @@ Re3+ 37.Kxe3 Qxg3+ 38.Kd2 1-0
 
 [Event "Ch World (blitz)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dlugy Maxim (USA)"]
@@ -323,7 +309,6 @@ b5 14.Bxf6 Bxf6 15.Ne4 Qd8 16.d5 exd5 17.Bxd5 Bd7 18.Rc1 Rc8
 
 [Event "Ch World (blitz)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Thorsteins Karl (ISL)"]
@@ -346,7 +331,6 @@ Ne6 31.Qxd7 Rxd7 32.Rxd7 Nd8 33.Nf4 Kh6 34.Rxd8 g5 35.Nfd3 Kg7
 
 [Event "Ch World (blitz)"]
 [Site "Saint John (Canada)"]
-[Date "1988.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Thorsteins Karl (ISL)"]
@@ -372,7 +356,6 @@ Rb2 53.e6 Rd2+ 54.Ke5 h4 55.gxh4 Bb4 56.e7 Re2+ 57.Kf6 Bc3+ 58.Kg6 1-0
 
 [Event "Olympiad"]
 [Site "Salonika (Greece)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Campora Daniel H (ARG)"]
@@ -395,7 +378,6 @@ Rg7 36.Qh6 1-0
 
 [Event "Olympiad"]
 [Site "Salonika (Greece)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -422,7 +404,6 @@ Rg6+ 53.Kb7 h4 54.Kxa7 Rg3 55.Rxg3 hxg3 56.Bd5 Kc7 57.Bg2 Kd6
 
 [Event "Olympiad"]
 [Site "Salonika (Greece)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -445,7 +426,6 @@ gxh4 36.gxh4 Nc5 37.a6 Kc7 38.a7 Nb7 1-0
 
 [Event "Olympiad"]
 [Site "Salonika (Greece)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -465,7 +445,6 @@ f5 20.Rae1 g5 21.gxf5 Bf7 22.Ng4 Bh5 23.Ng3 1-0
 
 [Event "Simultan"]
 [Site "Cannes (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gonda Gentaro (JPN)"]
@@ -474,7 +453,6 @@ f5 20.Rae1 g5 21.gxf5 Bf7 22.Ng4 Bh5 23.Ng3 1-0
 [WhiteElo "2760"]
 [BlackElo "2174"]
 [PlyCount "75"]
-[EventDate "1988.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 Nc6 5. e3 d5 6. cxd5 Nxd5 7. Bc4 Nxc3 8.
 bxc3 cxd4 9. exd4 Be7 10. O-O O-O 11. Re1 b6 12. Bd3 Bb7 13. h4 Bxh4 14. Nxh4
@@ -486,7 +464,6 @@ Qc4+ Kf8 34. Qc8+ Qe8 35. Be7+ Kf7 36. Qc4+ Kg7 37. Qe6 g5 38. Bf6+ 1-0
 
 [Event "Simultan"]
 [Site "Cannes (France)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Jones Lee (AUS)"]
@@ -495,7 +472,6 @@ Qc4+ Kf8 34. Qc8+ Qe8 35. Be7+ Kf7 36. Qc4+ Kg7 37. Qe6 g5 38. Bf6+ 1-0
 [WhiteElo "2760"]
 [BlackElo "2164"]
 [PlyCount "75"]
-[EventDate "1988.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d6 5. Bd3 Nc6 6. Nge2 Bxc3+ 7. Nxc3 O-O 8.
 O-O e5 9. d5 Ne7 10. Qc2 Ng6 11. f4 exf4 12. exf4 c6 13. dxc6 bxc6 14. h3 d5
@@ -507,7 +483,6 @@ Kxg2 Nb6 35. a5 Nc4 36. a6 Rb8 37. Bxa7 Rxb4 38. Rd8 1-0
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hirzel Rene (SUI)"]
@@ -516,7 +491,6 @@ Kxg2 Nb6 35. a5 Nc4 36. a6 Rb8 37. Bxa7 Rxb4 38. Rd8 1-0
 [WhiteElo "2760"]
 [BlackElo "2158"]
 [PlyCount "53"]
-[EventDate "1988.??.??"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nd7 5. f4 e5 6. dxe5 dxe5 7. f5 Ngf6 8. g4
 c6 9. Qf3 b5 10. Bd3 Qa5 11. Nge2 b4 12. Nd1 Nc5 13. O-O gxf5 14. gxf5 Nxd3 15.
@@ -527,7 +501,6 @@ h5 22. Bc5 Ng4 23. Bxe7 Nxf2+ 24. Qxf2 Bxd3 25. Nc5 Qb6 26. Nxd3 Rxd3 27. Qxb6
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Schweizer Wolfgang"]
@@ -536,7 +509,6 @@ h5 22. Bc5 Ng4 23. Bxe7 Nxf2+ 24. Qxf2 Bxd3 25. Nc5 Qb6 26. Nxd3 Rxd3 27. Qxb6
 [WhiteElo "2760"]
 [BlackElo "2025"]
 [PlyCount "55"]
-[EventDate "1988.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
 Ne2 Nc6 9. Be3 O-O 10. O-O cxd4 11. cxd4 Bg4 12. f3 Na5 13. Bd3 Be6 14. d5 Bxa1
@@ -547,14 +519,12 @@ f5 22. Bxe8 Qxe8 23. Rxd5 exd5 24. e6 d4 25. Qxd4 Qe7 26. Nd5 Qc5 27. Qxc5 bxc5
 
 [Event "55th USSR Championship"]
 [Site "Moscow URS"]
-[Date "1988.07.??"]
 [Round "2"]
 [White "Garry Kasparov"]
 [Black "Vassily Ivanchuk"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A29"]
-[EventDate "1988.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 

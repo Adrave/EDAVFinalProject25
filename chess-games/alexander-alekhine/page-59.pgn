@@ -1,13 +1,11 @@
 [Event "Simul, 40b"]
 [Site "Sofia BUL"]
-[Date "1936.04.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Radoslavov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B14"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "Simul, 40b"]
 [Site "Sofia BUL"]
-[Date "1936.04.13"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Naiden Voinov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -48,14 +44,12 @@
 
 [Event "ASB Jubilee Congress"]
 [Site "Amsterdam NED"]
-[Date "1936.10.06"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Salo Landau"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -69,14 +63,12 @@
 
 [Event "Simul, 43b"]
 [Site "Bridgeport, CT USA"]
-[Date "1932.11.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "John G Williams"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -92,14 +84,12 @@
 
 [Event "Simul, 39b"]
 [Site "Baltimore, MD USA"]
-[Date "1932.11.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F Bowie Smith"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -116,14 +106,12 @@
 
 [Event "Simul, 22b"]
 [Site "Monterrey MEX"]
-[Date "1932.10.23"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E Gaja"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -139,14 +127,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Flatbush Chess Club"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -160,14 +146,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Park Avenue Chess Club"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -183,14 +167,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "New York University"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -203,14 +185,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "City College"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B03"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -226,14 +206,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Brooklyn College"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -247,14 +225,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "El Paso Chess Club"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -273,14 +249,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Manhattan Chess Club"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -294,14 +268,12 @@
 
 [Event "Simul, 42b"]
 [Site "Eaton's Auditorium, Toronto CAN"]
-[Date "1932.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "B M Anderson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -316,14 +288,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Correspondence Chess League of America"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -337,14 +307,12 @@
 
 [Event "Simul, 42b"]
 [Site "Eaton's Auditorium, Toronto CAN"]
-[Date "1932.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Kenneth Whitfield"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -361,14 +329,12 @@
 
 [Event "Simul, 38b"]
 [Site "Buffalo Athletic Club, Buffalo, New York"]
-[Date "1932.11.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Reuben Hollis Fleet"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -384,14 +350,12 @@
 
 [Event "Simul, 32b"]
 [Site "Chicago, IL USA"]
-[Date "1932.11.22"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Charles F Elison"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -405,14 +369,12 @@
 
 [Event "Simul, 32b"]
 [Site "Chicago, IL  USA"]
-[Date "1932.11.22"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Leo Zalucha"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -430,14 +392,12 @@
 
 [Event "Simul, 25b"]
 [Site "Cincinnati, OH USA"]
-[Date "1932.11.19"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Howard Landis Marks"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C50"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -454,14 +414,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Hong Kong"]
-[Date "1933.02.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Ridlington+3 players"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E85"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -479,14 +437,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "H Pollock"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -504,14 +460,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Flavio De Carvalho"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -527,14 +481,12 @@
 
 [Event "Simul, 50b"]
 [Site "Jakarta"]
-[Date "1933.03.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C J van Hasselt"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -547,14 +499,12 @@
 
 [Event "Simul, 51b"]
 [Site "Djokjakarta INA"]
-[Date "1933.03.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "D Koene"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B44"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 

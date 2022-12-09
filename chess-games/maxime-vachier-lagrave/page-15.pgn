@@ -5,7 +5,6 @@
 [BlackFideId "1503014"]
 [Result "1/2-1/2"]
 [Round "1-10"]
-[Date "Wed Dec 04 2019"]
 [WhiteClock "0:03:26"]
 [BlackClock "0:05:16"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "8603677"]
 [Result "1/2-1/2"]
 [Round "2-4"]
-[Date "Sun Dec 08 2019"]
 [WhiteClock "0:10:58"]
 [BlackClock "0:06:23"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "8603677"]
 [Result "1/2-1/2"]
 [Round "2-1"]
-[Date "Fri Dec 06 2019"]
 [WhiteClock "0:04:10"]
 [BlackClock "0:03:04"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "2900084"]
 [Result "1/2-1/2"]
 [Round "1-02"]
-[Date "Thu Dec 12 2019"]
 [WhiteClock "0:55:21"]
 [BlackClock "0:28:59"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "4158814"]
 [Result "1/2-1/2"]
 [Round "2-01"]
-[Date "Sat Dec 14 2019"]
 [WhiteClock "1:04:06"]
 [BlackClock "0:57:14"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "4158814"]
 [Result "1/2-1/2"]
 [Round "2-04"]
-[Date "Mon Dec 16 2019"]
 [WhiteClock "0:05:46"]
 [BlackClock "0:00:30"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "4168119"]
 [Result "1/2-1/2"]
 [Round "3-02"]
-[Date "Wed Dec 18 2019"]
 [WhiteClock "0:33:51"]
 [BlackClock "0:42:01"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "2209390"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Fri Dec 27 2019"]
 [WhiteClock "0:04:14"]
 [BlackClock "0:02:16"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "2801990"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:01:15"]
 [BlackClock "0:00:30"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "1107038"]
 [Result "1/2-1/2"]
 [Round "02"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:02"]
 [BlackClock "0:00:07"]
 
@@ -155,7 +145,6 @@
 [BlackFideId "1503014"]
 [Result "1/2-1/2"]
 [Round "15"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:41"]
 [BlackClock "0:00:03"]
 
@@ -170,7 +159,6 @@
 [BlackFideId "13300857"]
 [Result "1/2-1/2"]
 [Round "10"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:02"]
 [BlackClock "0:00:38"]
 
@@ -185,7 +173,6 @@
 [BlackFideId "1170546"]
 [Result "1/2-1/2"]
 [Round "13"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:02:27"]
 [BlackClock "0:00:44"]
 
@@ -200,7 +187,6 @@
 [BlackFideId "4157800"]
 [Result "1/2-1/2"]
 [Round "15"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:07:15"]
 [BlackClock "0:06:45"]
 
@@ -215,7 +201,6 @@
 [BlackFideId "1503014"]
 [Result "1/2-1/2"]
 [Round "11"]
-[Date "Sat Dec 28 2019"]
 [WhiteClock "0:04:57"]
 [BlackClock "0:07:12"]
 
@@ -230,7 +215,6 @@
 [BlackFideId "4101588"]
 [Result "1/2-1/2"]
 [Round "21"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:04"]
 [BlackClock "0:00:22"]
 
@@ -245,7 +229,6 @@
 [BlackFideId "8602883"]
 [Result "1/2-1/2"]
 [Round "19"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:16"]
 
@@ -255,7 +238,6 @@
 
 [Event "Gibraltar Masters 2019"]
 [Site "Caleta ENG"]
-[Date "2019.01.23"]
 [Round "2.1"]
 [White "Vachier Lagrave,M"]
 [Black "Puranik,A"]
@@ -264,7 +246,6 @@
 [BlackFideId "5061245"]
 [BlackTitle "GM"]
 [ECO "A38"]
-[EventDate "2019.01.22"]
 [Opening "English"]
 [Variation "symmetrical variation"]
 [WhiteElo "2780"]
@@ -286,7 +267,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.17"]
 [Round "2"]
 [White "Vachier Lagrave,M"]
 [Black "Meier,Geo"]
@@ -296,7 +276,6 @@
 [BlackTeam "Baden-Baden Snowballs"]
 [BlackTitle "GM"]
 [ECO "C10"]
-[EventDate "2019.01.08"]
 [Opening "French"]
 [Variation "Rubinstein variation"]
 [WhiteElo "2780"]
@@ -315,7 +294,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.21"]
 [Round "3"]
 [White "Vachier Lagrave,M"]
 [Black "Skoberne,J"]
@@ -325,7 +303,6 @@
 [BlackTeam "Ljubljana Turtles"]
 [BlackTitle "GM"]
 [ECO "C11"]
-[EventDate "2019.01.08"]
 [Opening "French"]
 [Variation "Burn variation"]
 [WhiteElo "2780"]
@@ -347,7 +324,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.21"]
 [Round "3"]
 [White "Vachier Lagrave,M"]
 [Black "Sebenik,M"]
@@ -357,7 +333,6 @@
 [BlackTeam "Ljubljana Turtles"]
 [BlackTitle "GM"]
 [ECO "B35"]
-[EventDate "2019.01.08"]
 [Opening "Sicilian"]
 [Variation "accelerated fianchetto, modern variation with Bc4"]
 [WhiteElo "2780"]
@@ -374,7 +349,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.07"]
 [Round "5"]
 [White "Vachier Lagrave,M"]
 [Black "Maze,S"]
@@ -384,7 +358,6 @@
 [BlackTeam "Cannes Blitzstreams"]
 [BlackTitle "GM"]
 [ECO "B20"]
-[EventDate "2019.01.08"]
 [Opening "Sicilian defence"]
 [WhiteElo "2780"]
 [WhiteFideId "623539"]
@@ -407,7 +380,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.19"]
 [Round "7"]
 [White "Vachier Lagrave,M"]
 [Black "Vallejo Pons,F"]
@@ -417,7 +389,6 @@
 [BlackTeam "Barcelona Raptors"]
 [BlackTitle "GM"]
 [ECO "D31"]
-[EventDate "2019.01.08"]
 [Opening "QGD"]
 [Variation "Janowski variation"]
 [WhiteElo "2780"]
@@ -445,7 +416,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.19"]
 [Round "7"]
 [White "Vachier Lagrave,M"]
 [Black "Andreikin,D"]
@@ -455,7 +425,6 @@
 [BlackTeam "Volga Stormbringers"]
 [BlackTitle "GM"]
 [ECO "B06"]
-[EventDate "2019.01.08"]
 [Opening "Robatsch defence"]
 [Variation "two knights, Suttles variation"]
 [WhiteElo "2780"]
@@ -474,7 +443,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.03.07"]
 [Round "9"]
 [White "Vachier Lagrave,M"]
 [Black "Braun,A"]
@@ -484,7 +452,6 @@
 [BlackTeam "Berlin Bears"]
 [BlackTitle "GM"]
 [ECO "B12"]
-[EventDate "2019.01.08"]
 [Opening "Caro-Kann"]
 [Variation "advance variation"]
 [WhiteElo "2780"]

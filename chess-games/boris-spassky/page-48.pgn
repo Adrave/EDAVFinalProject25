@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1956.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -25,7 +24,6 @@ Nd3 42.Re7 Nxf4 43.Rxh7+ Kg5 44.Qe7+ Kg4 45.Qe3 Kg5 46.h4+ Kg4
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -49,7 +47,6 @@ e3+ 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lisitsyn Georgy (RUS)"]
@@ -73,7 +70,6 @@ Nh5 37.Ra5 Nf6 38.Rg5 Ne8 39.Nxf4 Rb2+ 40.Ke3 Ra2 41.Rg6 Nc7
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -97,7 +93,6 @@ Qxc8 1-0
 
 [Event "Match \"URS-Hungary\""]
 [Site "Budapest (Hungary)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Barcza Gedeon (HUN)"]
@@ -119,7 +114,6 @@ Rd7 29.Rxd7 Kxd7 30.Kd3 Nd5 31.Bc5 b6 32.Bf8 c5 33.Ke4 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1957.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cherepkov Alexander V (RUS)"]
@@ -139,7 +133,6 @@ Ne5 20.Qd2 Bd7 21.Rfe1 Qb6 22.Nc2 Bxe3 23.Nxe3 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1957.??.??"]
 [Round "17"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nikitin Aleksander S (RUS)"]
@@ -158,7 +151,6 @@ Nd7 14.exd5 Bxd5 15.Nfxd5 Nxd5 16.Nxd5 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1957.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ravinsky Grigory (RUS)"]
@@ -180,7 +172,6 @@ a5 31.Rb3 Rc4 32.Qf6 Rc6 33.Qg5 Rc5 34.Rd3 d4 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1957.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -198,7 +189,6 @@ a5 31.Rb3 Rc4 32.Qf6 Rc6 33.Qg5 Rc5 34.Rd3 d4 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Leningrad (Russia)"]
-[Date "1957.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zilber Israel (USA)"]
@@ -218,7 +208,6 @@ Bxe3 14.fxe3 e5 15.Bxc6 Bxc6 16.Nxe5 Qg5 17.Rf4 Bd5 18.e4 Be6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "14"]
 [White "Spassky Boris V (FRA)"]
 [Black "Antoshin Vladimir S (RUS)"]
@@ -241,7 +230,6 @@ Qf7 31.f6 Qg6 32.Qxg6 Bxg6 33.fxg7 Bxg7 34.Kf2 Bf8 35.Ke3 Kf7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "19"]
 [White "Spassky Boris V (FRA)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -264,7 +252,6 @@ Rc8 37.Qg5+ Qxg5 38.hxg5 axb3 39.axb3 e4 40.Rxd6 Rc5 41.Rd8+ 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -288,7 +275,6 @@ h5 42.h3 Qb7 43.Qf2 Kg7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "16"]
 [White "Spassky Boris V (FRA)"]
 [Black "Khasin Abram (RUS)"]
@@ -313,7 +299,6 @@ Qe6 47.Qc7+ Qd7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -337,7 +322,6 @@ Rd8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -359,7 +343,6 @@ Rdb8 30.Nh5+ Kf8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1957.??.??"]
 [Round "21"]
 [White "Spassky Boris V (FRA)"]
 [Black "Stoliar Efim Samoilovich (RUS)"]
@@ -382,7 +365,6 @@ Ng5 37.Bf4 Ne4 38.Qh4 Qxa4 39.f6 Qb4 40.Rb3 Qf8 41.Bh6 Nxe5 42.Bxf8 1-0
 
 [Event "Olympiad (students) (team)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Drimer Dolfi (ROM)"]
@@ -404,7 +386,6 @@ Rff2 30.Rb3 Kf7 31.c5 bxc5 32.dxc5 Rc2 1/2-1/2
 
 [Event "Olympiad (students) (team)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -424,7 +405,6 @@ Qxf6 14.b3 e5 15.dxe5 Qf4 16.Nd4 Bxe5 17.Rxe5 Qxe5 18.Nxc6 Qg5
 
 [Event "Olympiad (students) (team)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1957.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Soderborg Berndt (SWE)"]
@@ -446,7 +426,6 @@ Ke7 31.Qxe6+ 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Vienna (Austria)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fuderer Andrija (YUG)"]
@@ -466,7 +445,6 @@ Ne7 14.Ng5 Ng6 15.Nxh7 Kxh7 16.Qh5+ Kg8 17.Qxg6 b4 18.Bc4 Nb6
 
 [Event "Ch Europe (team)"]
 [Site "Vienna (Austria)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kozma Julius (CSR)"]
@@ -488,7 +466,6 @@ Nd4 26.Nxd4 cxd4 27.d6 Qe2 28.Bd2 Qxf1+ 29.Kxf1 Rab8 30.b3 Bf5
 
 [Event "Ch Europe (team)"]
 [Site "Vienna (Austria)"]
-[Date "1957.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lehmann Heinz G (GER)"]
@@ -509,7 +486,6 @@ Ne4 25.Nxd5 Rc1 26.Nf4 Bc8 27.Nd3 1-0
 
 [Event "Ch World (team) (under 26)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1957.07.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Soderborg Berndt (SWE)"]
@@ -531,7 +507,6 @@ Ke7 31.Qxe6+ 1-0
 
 [Event "Olympiad (students) (team)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1957.07.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Mednis Edmar J (USA)"]

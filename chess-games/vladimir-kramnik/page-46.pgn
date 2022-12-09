@@ -1,6 +1,5 @@
 [Event "Match (TV)"]
 [Site "Cologne (Germany)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Adams Michael (ENG)"]
@@ -25,7 +24,6 @@ b5 46.a3 a5 47.Bd4 a4 48.Kg5 Kf7 49.Kh6 Kg8 50.g4 Kf7 51.Kxh7 1-0
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Jussupow Artur (GER)"]
@@ -48,7 +46,6 @@ fxe6 31.Qxe6+ Kg7 32.Ba4 c3 33.Bc2 Rb2 34.Qe7+ Kg8 35.Qe2 Nxf4
 
 [Event "It (cat.18)"]
 [Site "Dortmund (Germany)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -69,7 +66,6 @@ Rc3 25.Rd3 Rac8 26.d6 b5 27.Rxc3 dxc3 28.e6 Kf8 29.e7+ Ke8 30.Bxf7+ 1-0
 
 [Event "It (cat.22) (active)"]
 [Site "Frankfurt (Germany)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -94,7 +90,6 @@ Qxd5 37.Qxd5 Rxd5 38.fxe5 fxe5 39.Rxe5 Rd7 40.f4 Kg8 41.Re3 Rd1+
 
 [Event "It (cat.21)"]
 [Site "Linares (Spain)"]
-[Date "1998.??.??"]
 [Round "12"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Svidler Peter (RUS)"]
@@ -115,7 +110,6 @@ Bh4 25.Rcd1 Rb6 26.R5d4 Rxc6 27.Bxc6 Qxe5 28.Bd7 Rd8 29.Rxh4 1-0
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -138,7 +132,6 @@ Ra2 36.a6 Nd3+ 37.Ke3 Nc5 38.Kd4 Rc2 39.Re8 Nb3+ 40.Ke3 Ra2 41.Rxe6 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -162,7 +155,6 @@ Qf1 43.f6 Qh1+ 44.Kg3 Qe1+ 45.Kf3 Qf1+ 46.Ke3 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -188,7 +180,6 @@ Ke5 54.Bf3 Kf4 55.Ke2 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -213,7 +204,6 @@ a5 48.g6 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -237,7 +227,6 @@ Ra3+ 42.Kf4 Rf1 43.Rb8+ Ke7 44.Rgg8 Rxf2+ 45.Kg4 Rb3 46.Rb7# 1-0
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -260,7 +249,6 @@ Kf8 37.Rg1 Ke7 38.g3 f3 39.Rc1 Kd8 40.Rc3 h5 41.Rh1 Ke7 42.Rd1 1-0
 
 [Event "Match (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -282,7 +270,6 @@ Ba5 25.Re2 Ba6 26.Rc2 Bb6 27.Rcd2 d4 28.exd4 cxd4 29.Bxd4 Bxd4
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "1999.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -304,7 +291,6 @@ bxc6 31.Rxe5 f4 32.gxf4 Rxb6 33.Ne6 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -330,7 +316,6 @@ Qh1+ 53.Kg3 Qg1+ 54.Kf3 Qh1+ 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -351,7 +336,6 @@ Qxc5 25.Rxc5 Rd8 26.f3 Kf8 27.Kf2 Ke7 28.Ke1 Kd6 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -371,7 +355,6 @@ Bb7 14.dxc5 Bxc3 15.Rfc1 Bf6 16.h4 Qd7 17.Ng5 Ne5 18.Rd1 Qc7
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "11"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -392,7 +375,6 @@ Kh8 19.Qh5+ Kg8 20.Qg6+ Kh8 21.Rd3 Bxg5 22.Rh3+ Bh4 23.Qh6+ Kg8
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -412,7 +394,6 @@ Qxb5 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "1999.??.??"]
 [Round "5"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -436,7 +417,6 @@ Rf7 41.Rxb6 Nxf2 42.Bc4 Rc7 43.Kxf2 1/2-1/2
 
 [Event "It (blitz)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "13"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -457,7 +437,6 @@ Bb4 20.Nd1 Bxf5 21.exf5 Rae8 22.Nf2 Bd2 23.Qf3 Qxe5 24.e4 Ba5
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "13"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -478,7 +457,6 @@ Rfd8 25.Rhd1 c2 26.Rdc1 Rd4 27.Rxc2 Rxb4 28.a5 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Reinderman Dimitri (NED)"]
@@ -500,7 +478,6 @@ Bh3 30.Qe3 Rd7 31.Kg3 Bxg2 32.Kxg2 Re7 33.Qd2 Re6 34.Re1 1/2-1/2
 
 [Event "It (cat.17)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1999.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Sokolov Ivan (NED)"]
@@ -519,7 +496,6 @@ Na5 14.Be2 Rfc8 15.f4 e5 16.fxe5 Qxe5 17.Bd3 Qe7 18.Nb3 1/2-1/2
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gallagher Joseph G (SUI)"]
@@ -546,14 +522,12 @@ Kf3 58.Nd5 Ke4 59.Nf6+ Kf3 60.Kd4 Bxc4 61.Kxc4 Kg2 62.h4 1/2-1/2
 
 [Event "Paris Arthur Andersen sim 30'"]
 [Site "Paris"]
-[Date "1999.03.14"]
 [Round "?"]
 [White "Vladimir Kramnik"]
 [Black "Jean-Philippe Karr"]
 [Result "1/2-1/2"]
 [BlackElo "2347"]
 [ECO "A35"]
-[EventDate "1999.03.14"]
 [PlyCount "46"]
 [WhiteElo "2751"]
 

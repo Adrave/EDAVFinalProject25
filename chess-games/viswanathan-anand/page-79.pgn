@@ -1,6 +1,5 @@
 [Event "It (open)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1988.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Epishin Vladimir (GER)"]
@@ -21,7 +20,6 @@ axb5 20.exf5 b4 21.Ne2 Ra8 22.Rxa8 Bxa8 23.Bd4 Qd8 24.Nf4 Bc6
 
 [Event "It (open)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1988.??.??"]
 [Round "1"]
 [White "Anand Viswanathan (IND)"]
 [Black "Khasin Alexander (RUS)"]
@@ -45,7 +43,6 @@ Bd8 43.Qxe4 Nxe4 44.Be1 1-0
 
 [Event "It (open)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1988.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Krnic Zdenko (SCG)"]
@@ -69,7 +66,6 @@ Qh6 42.Rg3+ Kh7 43.Qg4 Kh8 44.Qf5 f6 45.a7 c5 46.Qd7 Qh7 47.Qc6 1-0
 
 [Event "It (cat.8)"]
 [Site "Biel (Switzerland)"]
-[Date "1988.??.??"]
 [Round "7"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gerber Richard (SUI)"]
@@ -94,7 +90,6 @@ Kd8 42.Rc6 Rxc6 43.dxc6 a5 44.Ke1 Bg7 45.c7+ Kd7 46.Nd6 Kxc7
 
 [Event "It (cat.8)"]
 [Site "Biel (Switzerland)"]
-[Date "1988.??.??"]
 [Round "10"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hickl Joerg (GER)"]
@@ -118,7 +113,6 @@ Nxc5 42.f6 e4 43.Be2 Nd7 44.Rh5 1-0
 
 [Event "Ch Great Britain"]
 [Site "Great Britain"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Cooper Lawrence (ENG)"]
@@ -139,7 +133,6 @@ Nh5 26.Nf1 Qd5 27.Re1 Qxf3 28.Qxc5+ 1-0
 
 [Event "Ch Great Britain"]
 [Site "Great Britain"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Morris Philip (ENG)"]
@@ -160,7 +153,6 @@ Qxe4 26.Rxe4 Bxe4 27.Nh2 Bf5 28.Nf1 1-0
 
 [Event "Ch India"]
 [Site "India"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Babu N Sudhakar (IND)"]
@@ -182,7 +174,6 @@ Be5 25.Rh3 Nc5 26.Qe1 Nd7 27.Qh4 Nf8 28.fxg6 hxg6 29.Bh6 Qd7
 
 [Event "Ch India"]
 [Site "India"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ganesan Sankar (IND)"]
@@ -202,7 +193,6 @@ Bd7 20.Qe2 a4 21.Bc4 a3 22.Bxe6 Bb5 23.Nd3 axb2 24.Rf5 1-0
 
 [Event "Ch India"]
 [Site "India"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gupta R S (IND)"]
@@ -226,7 +216,6 @@ Rd7 42.Be5 Kg8 43.a3 Rf8 44.axb4 Nd1 45.Ra2 Rd3 46.b5 Ne3 47.Rae2 1-0
 
 [Event "Ch India"]
 [Site "India"]
-[Date "1988.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Koshy Varugeese (IND)"]
@@ -249,7 +238,6 @@ Qc7 37.Rxa6 Ng5 38.Nfe6 Nxe6 39.Qxe6+ 1-0
 
 [Event "Match \"Seniors-Juniors\""]
 [Site "Cannes (France)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Miles Anthony J (ENG)"]
@@ -267,7 +255,6 @@ Bxf3 8.Qxf3 g6 9.O-O Bg7 10.Re1 O-O 11.a4 c6 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Azmaiparashvili Zurab (GEO)"]
@@ -288,7 +275,6 @@ Nd7 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Rogers Ian (AUS)"]
@@ -309,7 +295,6 @@ exd5 20.h4 Nc5 21.Bxc5 Rxc5 22.Bd3 Nf8 23.Nb3 Rcc8 24.Ra3 b6
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -329,7 +314,6 @@ Bf8 19.Rxe8 Rxe8 20.Bxf8 Rxf8 1/2-1/2
 
 [Event "It"]
 [Site "Groningen (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Spasov Vasil (BUL)"]
@@ -352,7 +336,6 @@ Bxf8 37.b5 Kg7 1/2-1/2
 
 [Event "Cup World (open)"]
 [Site "Moscow (Russia)"]
-[Date "1989.??.??"]
 [Round "5"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gelfand Boris (ISR)"]
@@ -372,7 +355,6 @@ Nxb6 14.f5 Bc4 15.Kh1 Rfc8 16.Bxb6 Qxb6 17.Ra4 Bb5 18.Nxb5 axb5
 
 [Event "Cup World (open)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Hector Jonny (SWE)"]
@@ -399,7 +381,6 @@ Qd6 52.Kh3 Qe6+ 53.Kh4 a3 54.Ra5 a2 55.Rxh5+ Qh6 56.Rxh6+ Kxh6
 
 [Event "Cup World (open)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Mohr Stefan (GER)"]
@@ -419,7 +400,6 @@ Qa5 14.Bf2 Ba6 15.Ne3 c5 16.Rfd1 Rfc8 17.Bxa6 Qxa6 18.Qa2 Rb7
 
 [Event "Cup World (open)"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Wojtkiewicz Aleksander (USA)"]
@@ -446,7 +426,6 @@ Bc1 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Reggio Emilia (Italy)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Andersson Ulf (SWE)"]
@@ -469,7 +448,6 @@ bxa6 37.Rxa6 Rg2+ 38.Kh1 Rg6 39.Rxg6 Kxg6 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Reggio Emilia (Italy)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -490,7 +468,6 @@ Rxg5 20.hxg5 Bxc3 21.Rxh1 Bb5 22.Qd1 Qe3+ 23.Kb1 Bg7 24.Nh4 Be2
 
 [Event "It (cat.14)"]
 [Site "Reggio Emilia (Italy)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -509,7 +486,6 @@ Bd7 14.f4 exf4 15.Bxf4 f5 16.exf5 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -528,7 +504,6 @@ Na5 14.Nxa5 Qxa5 15.Qd3 Red8 16.Qd2 Bc6 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "1989.??.??"]
 [Round "?"]
 [White "Anand Viswanathan (IND)"]
 [Black "Sax Gyula (HUN)"]

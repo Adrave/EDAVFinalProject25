@@ -1,6 +1,5 @@
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -21,7 +20,6 @@ f4 25.g4 Bd8 1/2-1/2
 
 [Event "Ch URS (juniors)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gorelov Sergey G (RUS)"]
@@ -47,7 +45,6 @@ c3 54.h7 Rg6+ 55.Kh2 Rxg7 56.Rxg7 a1Q 57.h8Q Qa6 58.Rg3 1-0
 
 [Event "Ch URS (juniors)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kengis Edvins (LAT)"]
@@ -68,7 +65,6 @@ Qa5 14.Rfd1 a6 15.Rac1 b5 16.Nxc6 Rxc6 17.Nd5 Qxd2 18.Rxd2 Nxd5
 
 [Event "Ch URS (juniors)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Yermolinsky Alex (USA)"]
@@ -93,7 +89,6 @@ fxe5 42.Nxd2 Nd3+ 43.Ke3 Nc5 44.Bxe5 Kd7 45.Nf3 Re8 46.Kd4 Nb3+
 
 [Event "Ch URS (juniors)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Yurtaev Leonid (KGZ)"]
@@ -117,14 +112,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Simul"]
 [Site "URS"]
-[Date "1986.??.??"]
 [Round "?"]
 [White "Garry Kasparov"]
 [Black "Alexey Shirov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A34"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -141,14 +134,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Amsterdam Optiebeurs"]
 [Site "Amsterdam NED"]
-[Date "1988.05.27"]
 [Round "11"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "125"]
 [WhiteElo "?"]
 
@@ -167,14 +158,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.08.04"]
 [Round "4"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E21"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -190,14 +179,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.09.08"]
 [Round "14"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -214,14 +201,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.08.11"]
 [Round "6"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -237,14 +222,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Rematch"]
 [Site "London ENG / Leningrad URS"]
-[Date "1986.10.03"]
 [Round "22"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D55"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -261,14 +244,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "Seville ESP"]
-[Date "1987.10.14"]
 [Round "2"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A29"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -282,14 +263,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "Seville ESP"]
-[Date "1987.10.26"]
 [Round "6"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A25"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -303,14 +282,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "Seville ESP"]
-[Date "1987.12.11"]
 [Round "22"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -322,14 +299,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Karpov - Kasparov World Championship Match"]
 [Site "Moscow URS"]
-[Date "1985.10.31"]
 [Round "21"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -346,14 +321,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "New York, NY USA"]
-[Date "1990.10.10"]
 [Round "2"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -369,14 +342,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "New York, NY USA"]
-[Date "1990.10.29"]
 [Round "8"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "167"]
 [WhiteElo "?"]
 
@@ -399,14 +370,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Kasparov - Karpov World Championship Match"]
 [Site "Lyon FRA"]
-[Date "1990.12.08"]
 [Round "18"]
 [White "Garry Kasparov"]
 [Black "Anatoly Karpov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C92"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -424,14 +393,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Chess Olympiad"]
 [Site "Dubai UAE"]
-[Date "1986.11.24"]
 [Round "9"]
 [White "Garry Kasparov"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E21"]
-[EventDate "????.??.??"]
 [PlyCount "22"]
 [WhiteElo "?"]
 
@@ -442,14 +409,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "KRO Match"]
 [Site "Hilversum NED"]
-[Date "1985.12.22"]
 [Round "6"]
 [White "Garry Kasparov"]
 [Black "Jan Timman"]
 [Result "1-0"]
 [BlackElo "2569"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "2812"]
 
@@ -465,14 +430,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Bugojno 3rd"]
 [Site "Bugojno"]
-[Date "1982.05.??"]
 [Round "3"]
 [White "Garry Kasparov"]
 [Black "Miguel Najdorf"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -485,14 +448,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Moscow"]
 [Site "Moscow URS"]
-[Date "1981.04.14"]
 [Round "8"]
 [White "Garry Kasparov"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -508,14 +469,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Team GM/Young Pioneers"]
 [Site "Leningrad RUS"]
-[Date "1975.??.??"]
 [Round "?"]
 [White "Garry Kasparov"]
 [Black "Vasily Smyslov"]
 [Result "0-1"]
 [BlackElo "2605"]
 [ECO "C60"]
-[EventDate "1975.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -529,14 +488,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Herceg Novi"]
 [Site "Herceg Novi YUG"]
-[Date "1983.??.??"]
 [Round "?"]
 [White "Garry Kasparov"]
 [Black "Viktor Korchnoi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E28"]
-[EventDate "????.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -550,14 +507,12 @@ Kg7 30.Be6 Rf8 31.Rg4+ Kh8 32.Rcg1 h5 33.Rg5 Qf4+ 34.Kd3 Qxf3+
 
 [Event "Novgorod"]
 [Site "Novgorod RUS"]
-[Date "1994.08.??"]
 [Round "4"]
 [White "Garry Kasparov"]
 [Black "Vladimir Kramnik"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B33"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 

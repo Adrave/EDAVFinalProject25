@@ -1,6 +1,5 @@
 [Event "It (cat.7)"]
 [Site "Budapest (Hungary)"]
-[Date "2006.02.06"]
 [Round "2"]
 [White "Caruana Fabiano (USA)"]
 [Black "Vajda Levente (ROM)"]
@@ -23,7 +22,6 @@ Qg5 38.Kg3 Rhf8 39.hxg6 h5 0-1
 
 [Event "It (cat.7)"]
 [Site "Budapest (Hungary)"]
-[Date "2006.02.08"]
 [Round "4"]
 [White "Caruana Fabiano (USA)"]
 [Black "Bellia Fabrizio (ITA)"]
@@ -49,7 +47,6 @@ Rh1+ 53.Kg3 Qg6+ 54.Kf2 Qf5+ 55.Ke2 Qe4+ 0-1
 
 [Event "It (cat.7)"]
 [Site "Budapest (Hungary)"]
-[Date "2006.02.10"]
 [Round "6"]
 [White "Caruana Fabiano (USA)"]
 [Black "Jakab Attila (HUN)"]
@@ -71,7 +68,6 @@ Qf5 31.f7 Rh8 32.Nf6 Qxe5 33.Ng8 Qg7 0-1
 
 [Event "It (cat.7)"]
 [Site "Budapest (Hungary)"]
-[Date "2006.02.14"]
 [Round "10"]
 [White "Caruana Fabiano (USA)"]
 [Black "Antic Dejan (SCG)"]
@@ -98,7 +94,6 @@ Nxe3 54.Kxe3 Nd4 55.Nd7 Nc2+ 56.Kf4 e3 57.Nf6+ Ke6 58.c6 Kd6
 
 [Event "Ch Madrid (final)"]
 [Site "Madrid (Spain)"]
-[Date "2006.03.10"]
 [Round "7"]
 [White "Caruana Fabiano (USA)"]
 [Black "Franco Alonso Alejandro (ESP)"]
@@ -121,7 +116,6 @@ fxe4 31.Rc1 Rd8 32.h4 Rd1+ 33.Kh2 Rxc1 34.Bxc1 Kh7 35.g4 hxg4
 
 [Event "Ch Madrid (final)"]
 [Site "Madrid (Spain)"]
-[Date "2006.03.17"]
 [Round "11"]
 [White "Caruana Fabiano (USA)"]
 [Black "Almagro Llanas Pablo (ESP)"]
@@ -146,7 +140,6 @@ h3 42.Re4 Qf6 43.Rxe5+ Kd8 44.Re6 Re7 45.Qd3 Rxe6 46.Bxe6+ Kc7
 
 [Event "It (open)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2006.04.02"]
 [Round "4"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Cheparinov Ivan (BUL)"]
@@ -170,7 +163,6 @@ Ng5 42.Rh5 Nxe3+ 43.Kf2 Ng4+ 44.Kg3 Ne6 45.Nxe6 Rxg6 46.Nf4 Rg8 1/2-1/2
 
 [Event "It (open)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2006.04.05"]
 [Round "7"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Neelotpal Das (IND)"]
@@ -192,7 +184,6 @@ Rxd3 25.Qxd3 Qxa2 26.c6 Nf6 27.Nc4 Ne4 28.Qd4 Nxf2 29.c7 Ne4+
 
 [Event "It (open)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2006.04.06"]
 [Round "8"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Epishin Vladimir (GER)"]
@@ -215,7 +206,6 @@ Rxe4 30.Qxe4 Qd1+ 31.Kf2 Qd2+ 32.Ne2 Ne5 33.Qh4 Re8 34.Qh7+ Kf6
 
 [Event "It \"Young Stars of the World\" (cat.7)"]
 [Site "Kirishi (Russia)"]
-[Date "2006.05.09"]
 [Round "1"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Safarli Eltaj (AZE)"]
@@ -235,7 +225,6 @@ O-O 8.h3 d6 9.c3 Nb8 10.d4 Nbd7 11.Bg5 Bb7 12.Nbd2 c5 13.a4 Re8
 
 [Event "It \"Young Stars of the World\" (cat.7)"]
 [Site "Kirishi (Russia)"]
-[Date "2006.05.11"]
 [Round "3"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Nepomniachtchi Ian (RUS)"]
@@ -258,7 +247,6 @@ Rd5 36.Qxa4 Nxe5 37.Qf4 Qd6 1/2-1/2
 
 [Event "It \"Young Stars of the World\" (cat.7)"]
 [Site "Kirishi (Russia)"]
-[Date "2006.05.13"]
 [Round "5"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Hovhannisyan Robert (ARM)"]
@@ -281,7 +269,6 @@ e4 30.f4 Rxb2 31.h5 Rb5 32.Qg3 Rxd5 33.Rxd5 Qxd5 34.hxg6 Qd1+
 
 [Event "It (open)"]
 [Site "Salou (Spain)"]
-[Date "2006.06.09"]
 [Round "3"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Korneev Oleg (AND)"]
@@ -301,7 +288,6 @@ Ng6 14.Bg3 Nge5 15.f4 Nxb2 16.Kxb2 Rc8 17.fxe5 Qxc3+ 18.Kb1 Qxc2+
 
 [Event "It (open)"]
 [Site "Salou (Spain)"]
-[Date "2006.06.14"]
 [Round "8"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Spraggett Kevin (CAN)"]
@@ -328,7 +314,6 @@ Kd3 1/2-1/2
 
 [Event "It (open)"]
 [Site "Andorra la Vella (Andorra)"]
-[Date "2006.07.13"]
 [Round "6"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Gonzalez Arribas Vidal Alejandr (ESP)"]
@@ -355,7 +340,6 @@ g4 54.Re2 gxf3 55.Kxf3 e4+ 56.Kf2 Kg4 57.Ke3 Kxg3 58.Rb2 Kg4
 
 [Event "It (open)"]
 [Site "Badalona (Spain)"]
-[Date "2006.08.??"]
 [Round "7"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Almeida Omar (CUB)"]
@@ -381,7 +365,6 @@ Ke6 53.Rb6+ Kd7 54.Nf6+ Kc8 55.Ncd5 Ree2 56.Ng4 h5 0-1
 
 [Event "It (open)"]
 [Site "Badalona (Spain)"]
-[Date "2006.08.??"]
 [Round "8"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Peralta Fernando (ARG)"]
@@ -403,7 +386,6 @@ Qa5 31.Nb4 c5 32.Qd6+ Qc7 0-1
 
 [Event "Ch Italy (juniors) (under 20)"]
 [Site "Bratto (Italy)"]
-[Date "2006.08.25"]
 [Round "7"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Ronchetti Niccolo' (ITA)"]
@@ -440,7 +422,6 @@ Be7 111.Kg8 Ke6 112.Kg7 Bd6 113.Kg8 Kf6 114.Kh7 Be7 115.Kh6 Bf8+
 
 [Event "Cup Mitropa"]
 [Site "Brno (Czech Republic)"]
-[Date "2006.09.??"]
 [Round "4"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Cvek Robert (CZE)"]
@@ -461,7 +442,6 @@ hxg5 25.Qd4 Nc6 26.Qc5 Qe7 27.Nd6 h6 28.Rab1 Ka8 29.Qa3 gxh4 0-1
 
 [Event "Cup Mitropa"]
 [Site "Brno (Czech Republic)"]
-[Date "2006.09.??"]
 [Round "2"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Le Roux Jean-Pierre (FRA)"]
@@ -488,7 +468,6 @@ Qd4+ 0-1
 
 [Event "Cup Mitropa"]
 [Site "Brno (Czech Republic)"]
-[Date "2006.09.??"]
 [Round "7"]
 [White "Caruana Fabiano (ITA)"]
 [Black "Petrik Tomas (SVK)"]
@@ -512,7 +491,6 @@ Qa6 30.Rad1 Rf4 31.Qb3 e4 32.fxe4 Rf2+ 33.Ke3 Qf6 34.Rd5 Rf3+
 
 [Event "3. Open"]
 [Site "Calvia ESP"]
-[Date "2006.10.22"]
 [Round "3"]
 [White "Caruana, Fabiano"]
 [Black "Strikovic, Aleksa"]
@@ -520,7 +498,6 @@ Qa6 30.Rad1 Rf4 31.Qb3 e4 32.fxe4 Rf2+ 33.Ke3 Qf6 34.Rd5 Rf3+
 [WhiteElo "2474"]
 [BlackElo "2535"]
 [ECO "B43"]
-[EventDate "2006.10.20"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nf3 Qc7 
 8. O-O d6 9. a4 b4 10. Na2 Nc6 11. Bd2 Rb8 12. c3 bxc3 13. Bxc3 Nf6 14. 
@@ -534,7 +511,6 @@ bxc6 Rfc8 33. Rd7 Bf8 34. c7 Ra8 35. Nb4 Rxa1+ 36. Bxa1 Be6 37. Rd8 Rxc7
 
 [Event "66. ch-ITA playoff"]
 [Site "Cremona ITA"]
-[Date "2006.12.03"]
 [Round "4"]
 [White "Caruana, Fabiano"]
 [Black "Godena, Michele"]
@@ -542,7 +518,6 @@ bxc6 Rfc8 33. Rd7 Bf8 34. c7 Ra8 35. Nb4 Rxa1+ 36. Bxa1 Be6 37. Rd8 Rxc7
 [WhiteElo "2474"]
 [BlackElo "2522"]
 [ECO "C78"]
-[EventDate "2006.12.04"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Bb7 8.
  c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bxf6 Qxf6 12. Bd5 O-O 13. Na3 exd4 14. 
@@ -558,14 +533,12 @@ Re7+ Kf8 45. Rc7 Ke8 46. Re7+ Kf8 47. Rc7 Kg8 48. Rc8+ Kh7 49. Rf8 g5+ 50.
 
 [Event "19th Moratalaz Open"]
 [Site "Madrid ESP"]
-[Date "2006.09.19"]
 [Round "2"]
 [White "Caruana,F"]
 [Black "Alvarez Escudero,M"]
 [Result "1-0"]
 [WhiteElo "2444"]
 [BlackElo "1988"]
-[EventDate "2006.09.18"]
 [ECO "C62"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 exd4 6. Nxd4 Ne5 7. Be2 Nf6
@@ -577,14 +550,12 @@ Rf8 26. Rxf4 Bxf4 27. Nh5+ Kg8 28. Qf6 Bxe5 29. Qxe5 1-0
 
 [Event "I Patrimonio de la Humanidad Open"]
 [Site "Alcala de Henares ESP"]
-[Date "2006.10.07"]
 [Round "1"]
 [White "Caruana,F"]
 [Black "Camarero Izquierdo,J"]
 [Result "1-0"]
 [WhiteElo "2474"]
 [BlackElo "1982"]
-[EventDate "2006.10.07"]
 [ECO "B99"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.

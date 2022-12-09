@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "11"]
 [White "Lasker Emanuel (GER)"]
 [Black "Gunsberg Isidor A (HUN)"]
@@ -22,7 +21,6 @@ h5 31.Nf7+ 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "6"]
 [White "Lasker Emanuel (GER)"]
 [Black "Janowski Dawid M (POL)"]
@@ -44,7 +42,6 @@ Bg7 26.Nd4 Rf8 27.Rxc8 Qxc8 28.Qd2 Rf7 29.Rc1 Qe8 30.h4 gxh4
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "1"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marco Georg (AUT)"]
@@ -65,7 +62,6 @@ Bxe5 26.Bxe5 Nc6 27.bxc5 Qxc5 28.Bxd4 Nxd4 29.Rxd4 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "12"]
 [White "Lasker Emanuel (GER)"]
 [Black "Pillsbury Harry N (USA)"]
@@ -88,7 +84,6 @@ e4 31.a5 d5 32.a6 Qe7 33.Qg3 e3 34.Ra1 Qf6 35.Re1 d4 36.a7 Qd8
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "9"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -111,7 +106,6 @@ Kg8 31.Bd1 Bh3+ 32.Kg1 Nxd5 33.Bxd8 Nf4 34.Bf6 Qd2 35.Re2 Nxe2+
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "14"]
 [White "Lasker Emanuel (GER)"]
 [Black "Teichmann Richard (GER)"]
@@ -136,7 +130,6 @@ Rd4+ 47.Kf3 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "2"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -159,7 +152,6 @@ Kd6 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "4"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -187,7 +179,6 @@ Ba2 64.Ne4 Bb3 65.a5 Bc2 66.Rg4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "6"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -214,7 +205,6 @@ Rc8 48.Kb2 Rb8 49.e4 Rdd8 50.Rf2 Rf8 51.Rdf1 Bh7 52.Rxf6 Rxf6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "8"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -240,7 +230,6 @@ Ra2+ 53.Kh3 Rac2 54.Rb6 R2c3 55.Bg6 Rd8 56.Rb7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "10"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -263,7 +252,6 @@ Be7 36.Rc2 Qxh5 37.Rxc6 Rd8 38.Rxa6 Qe8 39.Ra7 h5 40.f5 h4 41.Qg4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "12"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -285,7 +273,6 @@ Nf4+ 25.Kd1 Rd7+ 26.Kc2 Ne3+ 27.Kb2 Nxf1 28.Bg5 Ne3 29.Bxf4 exf4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "14"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -315,7 +302,6 @@ Ke4 75.Kf6 Ra1 76.g6 Ra7 77.Re5+ Kf4 78.Re7 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "16"]
 [White "Lasker Emanuel (GER)"]
 [Black "Steinitz Wilhelm (CZE)"]
@@ -339,7 +325,6 @@ Bb2 42.Ra8 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Albin Adolf (ROM)"]
@@ -363,7 +348,6 @@ Bh5 43.Nxe4 Qg6 44.Qxh4 Kh7 45.Bf7 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -388,7 +372,6 @@ Rd4 48.Bd3 Bg4 49.b5 Kh6 50.Qc1+ g5 51.Qc6 Bh5 52.b6 Rf4 53.Qc7 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -414,7 +397,6 @@ Qxf2 48.Qxg6 Qg3+ 49.Ke3 Qg4 50.e6 Nd6 51.Qf6+ Ke8 52.Qh8+ Ke7
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Marco Georg (AUT)"]
@@ -437,7 +419,6 @@ Qc7 37.Nxg3 Rxe6 38.Bxe6 Qc1+ 39.Nf1 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Schallopp Emil (GER)"]
@@ -461,7 +442,6 @@ Qb5+ 41.Ke1 Qb4+ 42.Kf1 Qb5+ 43.Kf2 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Schiffers Emanuel S (RUS)"]
@@ -487,7 +467,6 @@ Kc8 52.Nd6+ Kd8 53.Ke6 Ra7 54.Rxa7 b3 55.Ra8+ 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Showalter Jackson W (USA)"]
@@ -514,7 +493,6 @@ Rb1 61.Nf6 Rh1 62.Qb7 Ng7 63.Qf7 Rg1+ 64.Kf3 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -537,7 +515,6 @@ Kd8 36.d5 Kd7 37.Kd4 Kc7 38.b4 Kd7 39.Kc5 Kc7 40.d6+ Kd7 41.Kd5 1-0
 
 [Event "It"]
 [Site "Nuernberg (Germany)"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Lasker Emanuel (GER)"]
 [Black "Walbrodt Carl"]
@@ -559,14 +536,12 @@ Ne7 25.Re6 Nf5 26.Rde1 Rxe6 27.Rxe6 Qf7 28.Re1 Qg6 29.Qe2 Bd5
 
 [Event "Simul, 28b"]
 [Site "Criterion Restaurant, London ENG"]
-[Date "1896.04.17"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "George Alan Thomas"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C52"]
-[EventDate "1896.04.14"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -580,14 +555,12 @@ Ne7 25.Re6 Nf5 26.Rde1 Rxe6 27.Rxe6 Qf7 28.Re1 Qg6 29.Qe2 Bd5
 
 [Event "Nuremberg"]
 [Site "Nuremberg GER"]
-[Date "1896.07.21"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "Emmanuel Schiffers"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "1896.07.20"]
 [PlyCount "98"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1946.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -20,7 +19,6 @@ Nd7 14.Nfe5 Kh8 15.f3 Nd6 16.e4 Nf7 17.cxd5 Ndxe5 18.dxe5 cxd5
 
 [Event "Tournament"]
 [Site "Leningrad (Russia)"]
-[Date "1946.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Krogius Nikolai V (RUS)"]
@@ -43,7 +41,6 @@ g5 30.fxg5 Bxg5 31.Qg4 Qb3 32.Qxg5 Rxe4 33.Qf6+ Kg8 34.Rf1 Re2+
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1946.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kotkov Yuri M (RUS)"]
@@ -63,7 +60,6 @@ b5 14.Bxf6 Bxf6 15.Rad1 Bd7 16.Bh7+ Kh8 17.Be4 Nxb4 18.axb4 Rc8
 
 [Event ""]
 [Site "Leningrad (Russia)"]
-[Date "1946.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Petrovsky"]
@@ -84,7 +80,6 @@ Qg7 26.Qe4 Ra8 27.axb5 cxb5 28.Qxb7 1-0
 
 [Event "Ch Georgia (open)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1946.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Keres Paul (EST)"]
@@ -108,7 +103,6 @@ Kg8 37.Rxb7 Bxb2 38.Bxb5 Bxa3 39.Bc4+ Kh8 40.h3 Bc5 41.Kg2 Rc8
 
 [Event "Ch Armenia"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "4"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Akopdzhanian G"]
@@ -129,7 +123,6 @@ Kf8 25.Qg7+ 1-0
 
 [Event "Ch Armenia"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Allakhverdov"]
@@ -148,7 +141,6 @@ Qxg4 14.Rg1 Qd7 15.O-O-O Be5 1-0
 
 [Event "Ch Armenia"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Arustamian Artur (ARM)"]
@@ -168,7 +160,6 @@ axb5 20.Rxa8 Nc5 21.Rxd8 Rxd8 22.bxc5 1-0
 
 [Event "Ch Armenia"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "6"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kalashian Loris (RUS)"]
@@ -190,7 +181,6 @@ Bc8 26.Rfc1 c5 27.dxc6 d5 28.c7 Rd6 29.exd5 Qe3 30.Qxe3 Rxe3
 
 [Event "Ch Armenia"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Sarkisian L"]
@@ -214,7 +204,6 @@ Kxc4 41.Bxe5 1-0
 
 [Event "Ch Armenia (match)"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "1"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -237,7 +226,6 @@ Nxb1 30.Rxb1 Qxb1 31.Qxa7 Qb5 32.Ba5 Re8 33.a4 Qa6 34.Qc5 Kd7
 
 [Event "Ch Armenia (match)"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "3"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -262,7 +250,6 @@ Rxd7 49.Rd3 Rde7 50.Qc3 Qb8 51.Nxg5 Kg6 52.Ne4 1-0
 
 [Event "Ch Armenia (match)"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "5"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -293,7 +280,6 @@ Rf4 80.Ke3 Rf1 81.Rf8 Ke7 82.Rh8 Re1+ 1/2-1/2
 
 [Event "Ch Armenia (match)"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "7"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -316,7 +302,6 @@ Qxe7 37.f4 Qc7 38.Re3 Rc8 39.g4 hxg3+ 40.Rxg3 Rh8 41.Rcg1 1-0
 
 [Event "Ch Armenia (match)"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "9"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -340,7 +325,6 @@ Qb8 42.b7 1-0
 
 [Event "Ch Armenia (match)"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "11"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -364,7 +348,6 @@ Kf7 42.Rc8 Rc3 43.g5 1/2-1/2
 
 [Event "Ch Armenia (match)"]
 [Site "Yerevan (Armenia)"]
-[Date "1946.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Kasparian Genrikh (ARM)"]
@@ -387,7 +370,6 @@ Qxc3 37.Ne6 Rg8 38.Nxg7 Qe3+ 39.Kh1 Rxg7 40.Be6 Qe4+ 41.Kh2 Qe2+ 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "13"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -410,7 +392,6 @@ cxb5 37.b3 f6 38.Nd4 Ree1 39.Rxa6 Rxc1 40.Nxb5 Rxf5 0-1
 
 [Event "Ch URS (1/2 final)"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Fridstein Grigory (RUS)"]
@@ -433,7 +414,6 @@ Rc2 26.Rxc2 Qxc2 27.Re2 Qd3 28.Kf2 Re6 29.Qf5 Qb3 30.Qc2 Rxe3
 
 [Event "Ch URS (1/2 final)"]
 [Site "Moscow (Russia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Veresov Gavriil (BLR)"]
@@ -456,7 +436,6 @@ Nf3+ 31.Kh1 Ng5 32.f4 Ne6 33.Ra8 Rxa8 34.Qxa8+ Kh7 35.Qe4+ g6
 
 [Event "Tournament"]
 [Site "Tbilisi (Georgia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Pirtskhlava (GEO)"]
@@ -479,7 +458,6 @@ Qe8 36.Rf7+ 1-0
 
 [Event ""]
 [Site "Tbilisi (Georgia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Buslaev Aleksander (GEO)"]
@@ -503,7 +481,6 @@ Kg7 37.Nxh5+ Kf8 38.Rxg4 Be2 39.Rgh4 d3 40.Ne4 Rb4 41.Nhf6 Rxh4
 
 [Event ""]
 [Site "Tbilisi (Georgia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Gongadze"]
@@ -525,7 +502,6 @@ Nf6 30.Qe2 1-0
 
 [Event ""]
 [Site "Tbilisi (Georgia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Lipnitsky Isaak (UKR)"]
@@ -547,7 +523,6 @@ Re6 25.Nd6 Rxd6 26.exd6 Ra8 27.Bxd5 Rxa7 28.Bg2 Ra6 29.f5 Qb6
 
 [Event "Ch Armenia"]
 [Site "Yerevan (Armenia)"]
-[Date "1947.??.??"]
 [Round "?"]
 [White "Petrosian Tigran V (ARM)"]
 [Black "Bondarevsky Igor Z (RUS)"]

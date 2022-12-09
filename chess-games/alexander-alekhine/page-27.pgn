@@ -1,6 +1,5 @@
 [Event "Game (consultation)"]
 [Site "France"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Boruchovitz/Knappels"]
@@ -28,7 +27,6 @@ Ba4 54.Rd2 Rxc2+ 55.Rxc2 Bxc2 56.Kxc2 Kg6 57.Kc3 Kg5 58.Kb4 Kg4
 
 [Event "Simultan (blindfold)"]
 [Site "France"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tackels A"]
@@ -50,7 +48,6 @@ Qxg2+ 31.Kxg2 Nd7 32.Rc3 Kg7 1/2-1/2
 
 [Event "Simultan (blindfold)"]
 [Site "France"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Verschueren E"]
@@ -76,7 +73,6 @@ Bxe8 54.Rxe8 Ra1+ 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -95,7 +91,6 @@ Nge7 13.Bb5 O-O 14.O-O Be6 15.Nd4 Nxd4 16.Bxd4 Nc6 17.Bxc6 bxc6 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Yates Frederick"]
@@ -121,7 +116,6 @@ Ke3 52.Kd1 Kd3 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -140,7 +134,6 @@ c6 8.Qc2 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Qxc3 b6
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Maroczy Geza (HUN)"]
@@ -162,7 +155,6 @@ Be5 25.Nd3 Bxd4 26.exd4 Rb7 27.Re1 Qg5 28.Rce2 Bd7 29.Nc5 Bxh3
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reti Richard (CZE)"]
@@ -186,7 +178,6 @@ Ne7 36.Bc2 h5 37.Kf3 hxg4+ 38.Kxg4 Nf5 39.Re1 Be5 40.Re4 Rxe4
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -205,7 +196,6 @@ c5 14.c3 Bxd3 15.Qxd3 Rac8 16.e3 Ne4 17.Bxe4 fxe4 18.Qb5 1/2-1/2
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -225,7 +215,6 @@ Be7 8.Bb5+ Nc6 9.Ne5 Rc8 10.Qa4 cxd4 11.Qxd4 O-O 12.Bxc6 bxc6
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -249,7 +238,6 @@ Qxa4 26.f4 exf4 27.Bxf4 Qb5 28.Bxh6 c3 29.Qg4 Qd7 30.Qxd7 Rxd7
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "19"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reti Richard (CZE)"]
@@ -270,7 +258,6 @@ Be6 19.Be3 c5 20.Bxd4 cxd4 21.Qf2 Rc8 22.Rxd4 Rc2 23.Qxc2 Qxd4
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "17"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -289,7 +276,6 @@ Qxd2+ 14.Bxd2 1/2-1/2
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -311,7 +297,6 @@ Rg6 26.d5 exd5 27.Re1 Bc6 28.Qa6 Qg4 29.Qxa7 dxc4 30.Qxb6 Rg8
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "11"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Von Balla Zoltan (HUN)"]
@@ -336,7 +321,6 @@ Rc1+ 48.Kd2 Rc8 1/2-1/2
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -362,7 +346,6 @@ Qf3 55.Kh2 Qf2+ 0-1
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Wolf Heinrich (AUT)"]
@@ -392,7 +375,6 @@ Kf6 69.Nd5+ Ke5 70.Ne3 Kf4 71.Nd5+ Kg4 72.Ne3+ Kh3 73.Ng2 Bd1
 
 [Event "Simultan"]
 [Site "Zurich (Switzerland)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Muller E Dr"]
@@ -416,14 +398,12 @@ Kf7 31.Ne1 Rfd8 32.Nc2 Bc5 33.Kg2 Bxd4 34.Nxd4 Rxd4 35.Rc7+ Kg6
 
 [Event "Blindfold simul, 12b"]
 [Site "Prague CSR"]
-[Date "1922.05.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Zajicek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D38"]
-[EventDate "1922.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -439,14 +419,12 @@ Kf7 31.Ne1 Rfd8 32.Nc2 Bc5 33.Kg2 Bxd4 34.Nxd4 Rxd4 35.Rc7+ Kg6
 
 [Event "Simul, 28b"]
 [Site "Seville ESP"]
-[Date "1922.06.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Joaquin Torres Caravaca"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C37"]
-[EventDate "1922.06.05"]
 [PlyCount "68"]
 [WhiteElo "?"]
 
@@ -461,14 +439,12 @@ Kf7 31.Ne1 Rfd8 32.Nc2 Bc5 33.Kg2 Bxd4 34.Nxd4 Rxd4 35.Rc7+ Kg6
 
 [Event "London"]
 [Site "London ENG"]
-[Date "1922.08.04"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "1922.07.31"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -486,14 +462,12 @@ Kf7 31.Ne1 Rfd8 32.Nc2 Bc5 33.Kg2 Bxd4 34.Nxd4 Rxd4 35.Rc7+ Kg6
 
 [Event "Hastings"]
 [Site "Hastings ENG"]
-[Date "1922.09.14"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1922.09.10"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -511,14 +485,12 @@ Kf7 31.Ne1 Rfd8 32.Nc2 Bc5 33.Kg2 Bxd4 34.Nxd4 Rxd4 35.Rc7+ Kg6
 
 [Event "Vienna"]
 [Site "Vienna AUT"]
-[Date "1922.11.15"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Friedrich Saemisch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "1922.11.13"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -531,14 +503,12 @@ Kf7 31.Ne1 Rfd8 32.Nc2 Bc5 33.Kg2 Bxd4 34.Nxd4 Rxd4 35.Rc7+ Kg6
 
 [Event "Blindfold simul"]
 [Site "Barcelona ESP"]
-[Date "1922.12.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Cortes"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "1922.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -552,14 +522,12 @@ Kf7 31.Ne1 Rfd8 32.Nc2 Bc5 33.Kg2 Bxd4 34.Nxd4 Rxd4 35.Rc7+ Kg6
 
 [Event "Vienna"]
 [Site "Vienna AUT"]
-[Date "1922.11.21"]
 [Round "7"]
 [White "Alexander Alekhine"]
 [Black "Siegbert Tarrasch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A25"]
-[EventDate "1922.11.13"]
 [PlyCount "113"]
 [WhiteElo "?"]
 

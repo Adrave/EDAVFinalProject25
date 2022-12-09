@@ -1,6 +1,5 @@
 [Event "It (blitz)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.17"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -22,7 +21,6 @@ Qf7 25.Nxe6 Qxe6 26.Nf4 Qe5 27.Qxe5 fxe5 28.Nxd5 Kf8 29.h4 Nc6
 
 [Event "It (active)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.18"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Stefansson Hannes (ISL)"]
@@ -45,7 +43,6 @@ Rxa4 31.Bxd5 Ra3+ 32.Ke4 Nb6 33.Bxb7 Na4 34.Rc1 Nc3+ 35.Ke5 Nxb5
 
 [Event "Memorial P.Keres (active)"]
 [Site "Tallinn (Estonia)"]
-[Date "2005.01.08"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -71,7 +68,6 @@ fxe5+ 49.fxe5 Nxe4 50.Bxe4 Kd7 51.Kc3 Bd1 52.Nc4 Be2 53.Bd3 Bxd3
 
 [Event "Memorial P.Keres (active)"]
 [Site "Tallinn (Estonia)"]
-[Date "2005.01.08"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Brodsky Michail (UKR)"]
@@ -92,7 +88,6 @@ Qd7 25.Qb3 Rc8 1/2-1/2
 
 [Event "Memorial P.Keres (active)"]
 [Site "Tallinn (Estonia)"]
-[Date "2005.01.09"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Malaniuk Vladimir P (UKR)"]
@@ -112,7 +107,6 @@ e5 20.a5 Bd7 21.fxe5 Bxe5 22.Kh1 Ne8 1/2-1/2
 
 [Event "Memorial P.Keres (active)"]
 [Site "Tallinn (Estonia)"]
-[Date "2005.01.09"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -134,7 +128,6 @@ fxe4 30.Rxe4 Qxa4+ 31.Kb1 Qd7 32.Rh4 g6 33.Qh3 Qf7 0-1
 
 [Event "Match (active)"]
 [Site "Bucharest (Romania)"]
-[Date "2005.03.26"]
 [Round "8"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Istratescu Andrei (ROM)"]
@@ -160,7 +153,6 @@ c5 43.Qc4 Qa7 44.Ra2 Rd6 45.Nf2 Rgg6 46.Nd3 Rxa6 47.Nxe5 Rxa2
 
 [Event "It \"Grand Prix\""]
 [Site "Bordeaux (France)"]
-[Date "2005.04.29"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Sebag Marie (FRA)"]
@@ -187,7 +179,6 @@ Ra8 60.Rc2 Rag8 61.Rc3 Ra8 62.Rc1 Rag8 1/2-1/2
 
 [Event "Match"]
 [Site "Prague (Czech Republic)"]
-[Date "2005.07.16"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Navara David (CZE)"]
@@ -212,7 +203,6 @@ Ra3 42.Ra7 g5 43.Ra5 Kg7 44.Rxf5 Rxa4 45.Rxg5+ Kf6 46.Rb5 Ra3
 
 [Event "It \"Unzicker-80\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.09"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -236,7 +226,6 @@ Kd5 41.Rb4 Rd3 42.a5 Ra3 43.Rb5+ Kxd4 1/2-1/2
 
 [Event "It \"Unzicker-80\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.10"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -260,7 +249,6 @@ Ra1 1/2-1/2
 
 [Event "It \"Unzicker-80\""]
 [Site "Mainz (Germany)"]
-[Date "2005.08.10"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -281,7 +269,6 @@ bxc5 14.Rab1 cxd4 15.Nxd4 Nc5 16.Bf3 Rc8 17.Rfd1 Re8 18.h3 Ne4
 
 [Event "Simultan"]
 [Site "Villa Martelli (Argentina)"]
-[Date "2005.09.17"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "De Dovitiis Alejo (ARG)"]
@@ -303,7 +290,6 @@ Nxc3 25.Rxc3 Qe6 26.Rg3 Rd5 27.Be3 Nc8 28.Rf1 Ne7 29.Qe2 Rad8
 
 [Event "Simultan"]
 [Site "Villa Martelli (Argentina)"]
-[Date "2005.09.17"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Slipak Sergio (ARG)"]
@@ -326,7 +312,6 @@ Rxb1+ 1/2-1/2
 
 [Event "Simultan"]
 [Site "Villa Martelli (Argentina)"]
-[Date "2005.09.17"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Valerga Diego (ARG)"]
@@ -349,7 +334,6 @@ gxf6 37.Rxd5 Bxd5 38.Qxd5+ 1-0
 
 [Event "Simultan"]
 [Site "Villa Martelli (Argentina)"]
-[Date "2005.09.17"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zuriel Marisa (ARG)"]
@@ -374,7 +358,6 @@ Be2 48.Rxa7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2005.09.20"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Della Morte Pablo (ARG)"]
@@ -401,7 +384,6 @@ Rb1 60.Rc7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2005.09.20"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Flores Diego (ARG)"]
@@ -424,7 +406,6 @@ Qa5 37.Qxa5 Nxa5 38.Bxb4 Nxb3 39.Ba6 Nc4 40.Kf2 1-0
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2005.09.20"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Hungaski Robert Andrew (USA)"]
@@ -451,7 +432,6 @@ Kxe7 59.Kb5 1-0
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2005.09.20"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Kovaliov Anton (ARG)"]
@@ -476,7 +456,6 @@ c4 47.Kg3 1/2-1/2
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2005.09.20"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Needleman Gaston (ARG)"]
@@ -508,7 +487,6 @@ Kb5 82.Rg5+ Ka4 83.Rg4+ Rb4 84.Rg8 Rc4 85.Ra8+ Kb4 86.Rb8+ Kc3
 
 [Event "TCh-RUS High League"]
 [Site "Sochi RUS"]
-[Date "2005.04.20"]
 [Round "2"]
 [White "Karpov, Anatoly"]
 [Black "Miroshnichenko, Evgenij"]
@@ -516,7 +494,6 @@ Kb5 82.Rg5+ Ka4 83.Rg4+ Rb4 84.Rg8 Rc4 85.Ra8+ Kb4 86.Rb8+ Kc3
 [WhiteElo "2674"]
 [BlackElo "2628"]
 [ECO "E71"]
-[EventDate "2005.04.19"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. h3 e5 7. d5 a5 8. c5 
 Na6 9. cxd6 Qxd6 10. Nf3 c6 11. dxc6 Qe7 12. Bc4 bxc6 13. O-O Nc5 14. Qc2 
@@ -527,7 +504,6 @@ Ng5 Bxg5 21. Bxg5 f6 22. Be3 Nf8 23. Rd6 Qxa2 24. Rxf6 Be6 25. Nc5 Reb8
 
 [Event "Karpov Simul"]
 [Site "Buenos Aires ARG"]
-[Date "2005.09.20"]
 [Round "1"]
 [White "Karpov, Anatoly"]
 [Black "Needleman, Gaston"]
@@ -535,7 +511,6 @@ Ng5 Bxg5 21. Bxg5 f6 22. Be3 Nf8 23. Rd6 Qxa2 24. Rxf6 Be6 25. Nc5 Reb8
 [WhiteElo "2672"]
 [BlackElo "2242"]
 [ECO "E69"]
-[EventDate "2005.09.20"]
 
 1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 c6 7. Nc3 Qa5 8. 
 e4 e5 9. h3 Nbd7 10. Re1 exd4 11. Nxd4 Ne5 12. Bf1 Be6 13. Nxe6 fxe6 14. 
@@ -558,13 +533,11 @@ Ra8+ Kb4 86. Rb8+ Kc3 87. Ra8 Kc2 88. Rc8 Kd3 89. Rd8+ Kc3 90. Rg8 Rc5 91.
 
 [Event "Karpov Simul"]
 [Site "Buenos Aires ARG"]
-[Date "2005.09.20"]
 [Round "1"]
 [White "Karpov,Ana"]
 [Black "Massaferro,Cristian"]
 [Result "1-0"]
 [WhiteElo "2672"]
-[EventDate "2005.09.20"]
 [ECO "D12"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8.
@@ -576,14 +549,12 @@ Bb4 Nd3 21. Rc4 Nf6 22. Bxf8 Kxf8 23. Bc2 Nd5 24. Bxd3 Nxe3 25. Rd4 Nxf1
 
 [Event "5th Grand Prix d'Echecs de Bordeaux"]
 [Site "Bordeaux FRA"]
-[Date "2005.05.01"]
 [Round "3.2"]
 [White "Anatoly Karpov"]
 [Black "Hichem Hamdouchi"]
 [Result "1-0"]
 [BlackElo "2559"]
 [ECO "A40"]
-[EventDate "2005.04.29"]
 [PlyCount "79"]
 [WhiteElo "2674"]
 

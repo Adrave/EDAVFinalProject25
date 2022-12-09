@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1982.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Speelman Jonathan S (ENG)"]
@@ -26,7 +25,6 @@ Qe4 55.c6 Rxa7 56.b5 Rc7 57.Qd6 Rg7 58.b6 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1982.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -49,7 +47,6 @@ Rd3 37.Rxd3 exd3 38.Qe5+ Qg7 39.Qb8+ Qg8 40.Qd6 Na6 41.Nf4 Nb4 1-0
 
 [Event "Izt"]
 [Site "Las Palmas (Spain)"]
-[Date "1982.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Karlsson Lars (SWE)"]
@@ -75,7 +72,6 @@ Kg7 49.Ne5 Rd8 50.Rh6 Rd6 51.Ke2 Nc3+ 52.Ke1 Rd1+ 53.Kf2 Rd4
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -103,7 +99,6 @@ Rh1+ 65.Kg3 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -122,7 +117,6 @@ e5 14.c4 Nd4 15.Qe1 Qb6 16.f4 e4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -146,7 +140,6 @@ Nf7 40.fxe5+ Ke6 41.Qc4+ 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -170,7 +163,6 @@ Qf1+ 42.Rg2 Qh1+ 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "9"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -191,7 +183,6 @@ Rhe8 25.Kf2 Ba6 26.Nc1 Bb5 27.Ne2 Nd6 28.Rbc1 Bxd3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "London (England)"]
-[Date "1983.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -214,7 +205,6 @@ d4 37.f4 Ne4 38.Bxe4 Ng4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Velden (Austria)"]
-[Date "1983.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -238,7 +228,6 @@ Rxd6 37.Rxd6 Kxd6 38.Ne4+ Kc6 39.h5 gxh5 40.Nf6 Nd7 41.Nxh5 Kd6
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Velden (Austria)"]
-[Date "1983.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -263,7 +252,6 @@ Kh7 41.Qe4+ Kg7 42.Rf1 Qa7+ 43.Rf2 Qc5 44.Kf1 c3 45.bxc3 bxc3
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Velden (Austria)"]
-[Date "1983.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -288,7 +276,6 @@ Bg6 47.Bd6 Bh5 48.Be7 Kc3 49.Bf6+ Kb4 50.Bd8 Ka4 51.Kd2 b4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Velden (Austria)"]
-[Date "1983.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -313,7 +300,6 @@ Kb7 48.Kf4 Bd5 49.Kg5 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Velden (Austria)"]
-[Date "1983.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -338,7 +324,6 @@ Rxe6 47.Rd3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Velden (Austria)"]
-[Date "1983.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -367,7 +352,6 @@ Kh8 71.Qe5 Kg8 72.Ke4 Rg6 73.Kf5 Rg4 74.Qe3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Velden (Austria)"]
-[Date "1983.??.??"]
 [Round "13"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -394,7 +378,6 @@ Kf5 53.Ra5+ Ke6 54.Ra6+ Kf7 55.Ra5 Kg6 56.Ra6 Rd7 57.Kg4 Rd4+
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1984.??.??"]
 [Round "15"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -414,7 +397,6 @@ Rac8 19.Rcd1 Ne6 20.h3 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1984.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -436,7 +418,6 @@ Qa5 25.e4 Qxa3 26.Qxa3 Rxa3 27.Kg2 Ncb5 28.exd5 Rc3 29.Nd3 e5
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1984.??.??"]
 [Round "27"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -458,7 +439,6 @@ c5 31.bxc5 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1984.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -481,7 +461,6 @@ Rxa3 36.Kh2 Nc4 37.g4 Ra7 38.Bh1 Ne5 39.g5 Nh5 40.Re1 Ra5 41.Nd6 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1984.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -505,7 +484,6 @@ Bc4 42.Ke3 Ke7 43.h4 Bb3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1984.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -526,7 +504,6 @@ Bxc3 26.bxc3 Qa6 27.Red2 Na4 28.Qb3 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Vilnius (Lithuania)"]
-[Date "1984.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -549,14 +526,12 @@ Rxf3 31.Be2 Re3 32.Bxh5 Bxh5 33.Rxh5 g5 34.Nc3 Rd8 35.Rc2 Kg7
 
 [Event "Smyslov - Huebner Candidates Quarterfinal"]
 [Site "Velden AUT"]
-[Date "1983.04.17"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Robert Huebner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D23"]
-[EventDate "1983.03.24"]
 [PlyCount "120"]
 [WhiteElo "?"]
 
@@ -575,14 +550,12 @@ Rxf3 31.Be2 Re3 32.Bxh5 Bxh5 33.Rxh5 g5 34.Nc3 Rd8 35.Rc2 Kg7
 
 [Event "Smyslov - Huebner Candidates Quarterfinal"]
 [Site "Velden AUT"]
-[Date "1983.04.13"]
 [Round "11"]
 [White "Vasily Smyslov"]
 [Black "Robert Huebner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E39"]
-[EventDate "1983.03.24"]
 [PlyCount "147"]
 [WhiteElo "?"]
 

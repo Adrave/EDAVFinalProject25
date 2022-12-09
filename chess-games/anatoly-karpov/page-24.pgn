@@ -1,6 +1,5 @@
 [Event "It (cat.16)"]
 [Site "Bali (Indonesia)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Adianto Utut (INA)"]
@@ -24,7 +23,6 @@ Qd3 36.Red1 Qe2 37.Bc6 g6 38.Re1 Qd2 39.Rcd1 Qc2 40.Rd6+ Kf7
 
 [Event "It (cat.16)"]
 [Site "Bali (Indonesia)"]
-[Date "2000.??.??"]
 [Round "7"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ehlvest Jaan (EST)"]
@@ -55,7 +53,6 @@ Qh2+ 70.Kd1 Qg1+ 71.Kc2 Qa1 72.Rd8 Qb2+ 73.Kd1 Qa1+ 74.Ke2 Qb2+
 
 [Event "It (cat.16)"]
 [Site "Bali (Indonesia)"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gunawan Ruben (INA)"]
@@ -79,7 +76,6 @@ Be7 37.Rc4 Rc8 38.Rxc8+ Bxc8 39.Bd4 Kd8 40.Kf2 Ke8 41.Bd3 Bb4
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Milos Gilberto (BRA)"]
@@ -102,7 +98,6 @@ Re1+ 30.Kg2 Rxd1 31.Qxd1 Rb8 32.Qf3 Be7 33.b5 axb5 34.a6 Bc5
 
 [Event "It"]
 [Site "Buenos Aires (Argentina)"]
-[Date "2000.??.??"]
 [Round "9"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ricardi Pablo (ARG)"]
@@ -125,7 +120,6 @@ Bc6 31.Rd2 Ra4 32.Nd5 Bxd5 33.Rxd5 Nd7 34.Red1 Ne5 35.Rxd6 Nxc4
 
 [Event "Match (active)"]
 [Site "Cannes (France)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -153,7 +147,6 @@ Be5 59.Bxe5 fxe5 60.Bb7 Nc6 61.Bxc6 Kf7 62.a5 e4 63.Bxe4 Ke7
 
 [Event "Match (blitz)"]
 [Site "Cannes (France)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -177,7 +170,6 @@ Kf5 37.Bc3 Bc7 38.Bb4 Bb8 39.Kd2 Ng5 40.Rb7 Nxh3 41.Rxb8 Ng5
 
 [Event "It (Gr.1)"]
 [Site "Cap d'Agde (France)"]
-[Date "2000.??.??"]
 [Round "6"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Bologan Viktor (MDA)"]
@@ -205,7 +197,6 @@ Kf6 54.Kxf3 Ke7 55.Nc4 Nc3 56.b6 cxb6 57.Nxb6 Nb5 58.Nd5+ Kd8
 
 [Event "It (Gr.1)"]
 [Site "Cap d'Agde (France)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -231,7 +222,6 @@ fxe4 37.Rxe4 Rb1 38.Nd5 Kg7 39.Re6 Bg5 40.Ne5 Rd1 41.Rxg6+ Kh7
 
 [Event "It (KO-system)"]
 [Site "Cap d'Agde (France)"]
-[Date "2000.??.??"]
 [Round "2"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Dreev Alexey (RUS)"]
@@ -256,7 +246,6 @@ Ne7 48.Rc7 1-0
 
 [Event "It (KO-system)"]
 [Site "Cap d'Agde (France)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -281,7 +270,6 @@ Qxd4 42.Bf6+ Kg8 43.Bf3+ Kf8 44.h3 Qd3 45.Kg2 Ba6 46.Kg3 Bc4
 
 [Event "It (KO-system)"]
 [Site "Cap d'Agde (France)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Gurevich Mikhail (TUR)"]
@@ -302,7 +290,6 @@ Rd8 14.Nf5 Qe8 15.f4 exd4 16.exd4 Nf8 17.Rae1 Be6 18.d5 Nxd5
 
 [Event "It (KO-system)"]
 [Site "Cap d'Agde (France)"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zhang Zhong (CHN)"]
@@ -324,7 +311,6 @@ Nb8 32.Ne1 Qg5 33.Ne6 Qh4 34.Nxg7 Qxh3+ 35.Rxh3 1-0
 
 [Event "Match"]
 [Site "Guanzhou (China)"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Xie Jun (CHN)"]
@@ -347,7 +333,6 @@ Rg8 36.Be2 Ke7 37.e5 Nxd5 38.Kxd5 Re3 39.Kd4 1-0
 
 [Event "Match (active)"]
 [Site "Guanzhou (China)"]
-[Date "2000.??.??"]
 [Round "5"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Xie Jun (CHN)"]
@@ -370,7 +355,6 @@ Nc8 31.Bc5+ Ke8 32.e5 Kd7 33.Bd4 Bxc4 34.Rxc4 Rxa5 35.Bxc6+ Kd8
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monaco"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -396,7 +380,6 @@ f6+ 0-1
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2000.??.??"]
 [Round "3"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -428,7 +411,6 @@ Re4 88.Kd6 Rd4+ 89.Ke7 Rxb4 90.e6 Kc7 91.Kf8+ Kd6 92.e7 Rh4 93.Rf6+ 1-0
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monaco"]
-[Date "2000.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Van Wely Loek (NED)"]
@@ -453,7 +435,6 @@ fxe3 48.Qxe3 Qa6+ 49.Qd3 Qa5 50.Qc4 Kg5 51.h4+ Kh5 52.Qxe6 1-0
 
 [Event "Match (active)"]
 [Site "Shenyang (China)"]
-[Date "2000.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Ye Jiangchuan (CHN)"]
@@ -479,7 +460,6 @@ Bd6 54.Kf3 1-0
 
 [Event "Simultan"]
 [Site "Seixal (Portugal)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Galego Luis (POR)"]
@@ -501,7 +481,6 @@ Bc2 31.Bxd4 Bxd3 32.c5 bxc5 33.bxc5 Be4 34.c6 Bxc6 35.Bxa7 Kf7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Seixal (Portugal)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Santos Carlos P (POR)"]
@@ -523,7 +502,6 @@ Nf6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Rethymno (Greece)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Papadopoulou Vera (GRE)"]
@@ -532,7 +510,6 @@ Nf6 1/2-1/2
 [WhiteElo "2692"]
 [BlackElo "2151"]
 [PlyCount "66"]
-[EventDate "2001.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Nh3 e5 8. d5 a5
 9. g4 Nc5 10. Nf2 h5 11. Rg1 Bd7 12. Be2 b6 13. b3 Qe7 14. Qd2 Na6 15. Bg5 hxg4
@@ -543,7 +520,6 @@ Ra3 23. Rg3 Rca8 24. Kf1 Ra1 25. Rxa1 Rxa1+ 26. Kg2 Qa8 27. Qb2 Qa3 28. Bc1 Qa8
 
 [Event "Simultan"]
 [Site "Rethymno (Greece)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Staikopoulos Anastasios (GRE)"]
@@ -552,7 +528,6 @@ Ra3 23. Rg3 Rca8 24. Kf1 Ra1 25. Rxa1 Rxa1+ 26. Kg2 Qa8 27. Qb2 Qa3 28. Bc1 Qa8
 [WhiteElo "2692"]
 [BlackElo "2131"]
 [PlyCount "50"]
-[EventDate "2001.??.??"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8. Bg2
 Bg7 9. Nf3 O-O 10. Qc2 Nbd7 11. O-O Ra7 12. Rd1 Qa8 13. Nh4 Rb8 14. Rb1 Ng4 15.
@@ -562,7 +537,6 @@ h3 Nge5 16. b3 Nf6 17. g4 Ned7 18. a4 Rab7 19. Ba3 Qa7 20. Nf3 Ne8 21. e3 Qb6
 
 [Event "Simultan"]
 [Site "Rethymno (Greece)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Karpov Anatoly (RUS)"]
 [Black "Zournatsidis Evgenios (GRE)"]
@@ -571,7 +545,6 @@ h3 Nge5 16. b3 Nf6 17. g4 Ned7 18. a4 Rab7 19. Ba3 Qa7 20. Nf3 Ne8 21. e3 Qb6
 [WhiteElo "2692"]
 [BlackElo "2091"]
 [PlyCount "94"]
-[EventDate "2001.??.??"]
 
 1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 a6 7. Bd3 Nbd7 8. Nge2
 c5 9. O-O Nh5 10. Qd2 e6 11. Rad1 Qc7 12. b3 Rb8 13. Kh1 b6 14. Bb1 Rd8 15. Bg5
@@ -585,7 +558,6 @@ g4 Nc2 1/2-1/2
 
 [Event "SuperGM"]
 [Site "Linares ESP"]
-[Date "2001.02.27"]
 [Round "4"]
 [White "Karpov, Anatoly"]
 [Black "Leko, Peter"]
@@ -593,7 +565,6 @@ g4 Nc2 1/2-1/2
 [WhiteElo "2679"]
 [BlackElo "2745"]
 [ECO "E15"]
-[EventDate "2001.02.23"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. 
 Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Nf6 13. e4 b5 14. Re1

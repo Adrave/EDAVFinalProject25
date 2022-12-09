@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bad Nauheim (Germany)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -22,7 +21,6 @@ Qb4 1/2-1/2
 
 [Event "Game (exhibition)"]
 [Site "Hague (Netherlands)"]
-[Date "1937.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -44,7 +42,6 @@ bxc6 25.Qxc6 Rd8 26.Qg2 exf4 27.exf4 Qe7 28.Qf3 Qa7 29.Qe3 Qxa4
 
 [Event "It"]
 [Site "Kemeri (Latvia)"]
-[Date "1937.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -72,7 +69,6 @@ Rxc6 57.bxc6 Ke6 58.Rb5 Rxb5 59.axb5 Kd6 60.Kc4 Kc7 61.Kb3 Kb6
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1937.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Foltys Jan (CZE)"]
@@ -95,7 +91,6 @@ Qc4 20.Ree2 Be8 21.Bxe8 Raxe8 22.Qc1 Ng5 23.h3 Kh7 24.Kh1 Rg8
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1937.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Menchik Vera"]
@@ -117,7 +112,6 @@ Rxd4 31.Rf3 Qd6 32.Ne6+ fxe6 33.Qxf6+ Kh7 34.gxh5 Rd3 35.Rxd3 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1937.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tylor Theodore (ENG)"]
@@ -141,7 +135,6 @@ Kh8 42.Qxf6+ Rxf6 43.Rg8+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -165,7 +158,6 @@ Ne7 35.Bb1 Ke8 36.Kh5 Kf7 37.Ba2+ Kf8 38.Kxh6 Rd2 39.Be6 Rd3
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -185,7 +177,6 @@ Rb5 19.Bd6 Bb6 20.b4 Rd8 21.Rad1 c5 22.bxc5 Bxc5 23.Rd5 1-0
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -206,7 +197,6 @@ f6 25.Rc7 Kd8 26.Rxa7 1-0
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -229,7 +219,6 @@ Nxe5 25.dxe5 Nh5 26.gxh5 Rxc4 27.Qf3 Rf8 28.h6 f5 29.Qg3 Qxg3+
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "14"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -255,7 +244,6 @@ Ne7 47.Be4 Kg7 48.Re6 Kf7 49.Rh6 Rxa2 50.Rxh7+ Kf6 51.Rh6+ Kf7
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "22"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -282,7 +270,6 @@ Bg1+ 53.Kg3 Bf2+ 54.Kf3 Bxd4+ 55.Ke4 Rd1 56.Qd5 Ke7 57.g4 h5
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "24"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -306,7 +293,6 @@ g5 30.Rd6+ Ke5 31.Red1 g4 32.R1d5+ Ke4 33.Rd4+ Ke5 34.Ke3 Re6
 
 [Event "Game (exhibition)"]
 [Site "Nice (France)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reilly Brian"]
@@ -326,7 +312,6 @@ Qd5 19.Rh4 fxg6 20.Qxg6 Ke7 21.Qxg7+ Kd8 22.dxc5 Bd7 23.Rd1 1-0
 
 [Event "Simultan"]
 [Site "Paris (France)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Girad"]
@@ -349,7 +334,6 @@ e1Q 37.Bxe1 Qxe1 0-1
 
 [Event "Simultan"]
 [Site "Paris (France)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Joinaux / Prost"]
@@ -374,7 +358,6 @@ Rg3 48.Bb7 Rg5 49.f4 Rg3 50.Bc6 Rxa3 51.Bxb5 Rb3 0-1
 
 [Event "Simultan"]
 [Site "Paris (France)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Pavard"]
@@ -399,7 +382,6 @@ Ke6 47.c4 Ke7 48.Bf3 Bd7 49.Bd5 1-0
 
 [Event "Game (exhibition)"]
 [Site "Rotterdam (Netherlands)"]
-[Date "1937.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -423,14 +405,12 @@ Rb8 30.Rb2 Rh8 31.Rb7 Rxh7 32.Rc7+ Kb5 33.Kc3 Rxh2 34.Rxf7 Bd5
 
 [Event "Simul, 35b"]
 [Site "Crlton Hotel, Amsterdam NED"]
-[Date "1937.01.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Cohen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B18"]
-[EventDate "1937.01.26"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -444,14 +424,12 @@ Rb8 30.Rb2 Rh8 31.Rb7 Rxh7 32.Rc7+ Kb5 33.Kc3 Rxh2 34.Rxf7 Bd5
 
 [Event "Margate"]
 [Site "Margate ENG"]
-[Date "1937.04.02"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Theodore Tylor"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C86"]
-[EventDate "1937.03.31"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -468,14 +446,12 @@ Rb8 30.Rb2 Rh8 31.Rb7 Rxh7 32.Rc7+ Kb5 33.Kc3 Rxh2 34.Rxf7 Bd5
 
 [Event "Kemeri"]
 [Site "Kemeri LAT"]
-[Date "1937.06.20"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Vladas Mikenas"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D74"]
-[EventDate "1937.06.16"]
 [PlyCount "128"]
 [WhiteElo "?"]
 
@@ -495,14 +471,12 @@ Rb8 30.Rb2 Rh8 31.Rb7 Rxh7 32.Rc7+ Kb5 33.Kc3 Rxh2 34.Rxf7 Bd5
 
 [Event "Kemeri"]
 [Site "Kemeri LAT"]
-[Date "1937.06.16"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Endre Steiner"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "1937.06.16"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -519,14 +493,12 @@ Rb8 30.Rb2 Rh8 31.Rb7 Rxh7 32.Rc7+ Kb5 33.Kc3 Rxh2 34.Rxf7 Bd5
 
 [Event "Kemeri"]
 [Site "Kemeri LAT"]
-[Date "1937.06.22"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Movsa Feigin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "1937.06.16"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -543,14 +515,12 @@ Rb8 30.Rb2 Rh8 31.Rb7 Rxh7 32.Rc7+ Kb5 33.Kc3 Rxh2 34.Rxf7 Bd5
 
 [Event "Bad Nauheim-Stuttgart-Garmisch"]
 [Site "Bad Nauheim - Stuttgart - Garmisch   GER"]
-[Date "1937.07.18"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Efim Bogoljubov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D58"]
-[EventDate "1937.07.18"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -569,14 +539,12 @@ Rb8 30.Rb2 Rh8 31.Rb7 Rxh7 32.Rc7+ Kb5 33.Kc3 Rxh2 34.Rxf7 Bd5
 
 [Event "Kemeri"]
 [Site "Kemeri LAT"]
-[Date "1937.06.25"]
 [Round "8"]
 [White "Alexander Alekhine"]
 [Black "Samuel Reshevsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "1937.06.16"]
 [PlyCount "71"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1992.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ricardi Pablo (ARG)"]
@@ -23,7 +22,6 @@ e4 31.Bxe4 Bxc4 32.Bxh7 Bxa2 33.h5 Rb8 34.h6 Rb2+ 35.Kg1 Bb1
 
 [Event "Simultan"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1992.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Spangenberg Hugo (ARG)"]
@@ -47,7 +45,6 @@ Bf6 37.Rb6 Rc8 38.Ne5 Ra8 39.Nd7 Nxd7 40.exd7 Rd8 41.Bg6+ Kg8
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bazan Osvaldo (ARG)"]
@@ -69,7 +66,6 @@ Rd8 19.Kf2 Nd5 20.Kf3 Nxc3 21.Nxc3 Ke6 22.Rd1 Rxd1 23.Nxd1 Bb7
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bertona Fernando (ARG)"]
@@ -93,7 +89,6 @@ axb5 36.cxb5 Nf6 37.Bd4 Kd7 38.a5 Nd5 39.Bxg7 Nxf4 40.a6 Nd5
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Burijovich Liliana (ARG)"]
@@ -115,7 +110,6 @@ Bd7 32.Rxa8 Qxa8 33.Qc3 Qa2 34.Bc4 Ba4 35.b5 Nf7 36.Bh4 Qa3 37.Bxb3 1-0
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Diani Jose Angel (ARG)"]
@@ -140,7 +134,6 @@ Nf5 42.Nd5 Rg3+ 43.Ke4 Nd6+ 44.Ke5 Nc4+ 45.Kd4 Na3 46.Kc5 Rxh3
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Fernandez Jorge (ARG)"]
@@ -166,7 +159,6 @@ Ne5 54.Be2 Nf7 55.Kc5 Nh6 56.Bd3 Ng4 57.Kxb4 1-0
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Garrido Fernandez Daniel (ESP)"]
@@ -187,7 +179,6 @@ Be7 8.d3 O-O 9.O-O Qc7 10.Na4 a5 11.c4 Re8 12.b3 Nd7 13.e5 f6
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Halac Matias (ARG)"]
@@ -210,7 +201,6 @@ Kd6 37.Ba6 1-0
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Monier Raul (ARG)"]
@@ -240,7 +230,6 @@ Kh7 77.Nd6 Kg6 78.Ke4 1-0
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Porro Fernando (ARG)"]
@@ -267,7 +256,6 @@ Rcc7 59.Rb7 Rc8 60.Kd6 Rd8+ 61.Rd7 Rdxd7+ 62.cxd7 Rxd7+ 63.Kxd7 1-0
 
 [Event "Simultan"]
 [Site "Cordoba (Spain)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Yosifides Aris (ARG)"]
@@ -288,7 +276,6 @@ Ba8 25.Rxa7 b4 26.Ree7 bxa3 27.Rxf7 Bc6 28.Rg7+ Kh8 29.h6 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Debrecen (Hungary)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -313,7 +300,6 @@ Rh6 49.Rd7 Rh2+ 50.Kc1 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Debrecen (Hungary)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Rozentalis Eduardas (LTU)"]
@@ -333,7 +319,6 @@ Kg7 20.fxg5 hxg5 21.Rf2 Rh8 22.Ref1 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Debrecen (Hungary)"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Vaganian Rafael A (ARM)"]
@@ -353,7 +338,6 @@ f5 14.Rxe5 Nxe5 15.Bxe5 Ra7 16.Nd5 b6 17.Bd3 Bd7 18.b4 Qxa3+
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1992.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -372,7 +356,6 @@ Nd5 14.Na2 Bf8 15.e4 Bg6 16.Qe1 f5 17.exd5 1-0
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1992.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -395,7 +378,6 @@ Nxd4 25.Rxd4 g6 26.Be4 Be6 27.Kc2 Be7 28.Ra1 Rxa1 29.Bxa1 Ra8
 
 [Event "It (cat.17)"]
 [Site "Dortmund (Germany)"]
-[Date "1992.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Salov Valery (RUS)"]
@@ -421,7 +403,6 @@ Qc1+ 53.Kh2 Qxc4 54.Qb8 1-0
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -443,7 +424,6 @@ O-O 25.Nf6+ gxf6 26.gxf6 Bc5 27.Be4 Rfb8 28.Kxh4 Kf8 29.Rg2 Qxc4
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -466,7 +446,6 @@ Qxg5 31.Rh5 Qf6 32.Ra5 Bc6 33.Nc5 Bxb7 34.Nxb7 Kxb7 35.Qa6+ Kc6
 
 [Event "It"]
 [Site "Linares (Spain)"]
-[Date "1992.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -491,7 +470,6 @@ Ne5 47.Rxb7 Nxc4 48.b3 1-0
 
 [Event "Olympiad"]
 [Site "Manila (Philippines)"]
-[Date "1992.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Cebalo Miso (CRO)"]
@@ -514,7 +492,6 @@ Nd1 37.exf7+ Qxf7 38.Qe2 Kf8 1-0
 
 [Event "Olympiad"]
 [Site "Manila (Philippines)"]
-[Date "1992.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hjartarson Johann (ISL)"]
@@ -536,7 +513,6 @@ Rd8 31.h4 Rdd2 32.Bf3 Rxa3 33.h5 h6 34.Kh2 1-0
 
 [Event "Olympiad"]
 [Site "Manila (Philippines)"]
-[Date "1992.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -560,7 +536,6 @@ Nxe4 43.Bxb6 Nc3 44.Rg8 Nxb5 45.Bd8+ 1-0
 
 [Event "Olympiad"]
 [Site "Manila (Philippines)"]
-[Date "1992.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Loginov Valery A (RUS)"]

@@ -1,6 +1,5 @@
 [Event "It (open) \"Gibraltar Masters\""]
 [Site "Caleta (England)"]
-[Date "2005.01.30"]
 [Round "6"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Aronian Levon (GER)"]
@@ -23,7 +22,6 @@ Nh5+ 1/2-1/2
 
 [Event "It (open)"]
 [Site "Virginia Beach (USA)"]
-[Date "2005.02.26"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Wojtkiewicz Aleksander (USA)"]
@@ -44,7 +42,6 @@ Kd8 24.exd5 Bxb5 1/2-1/2
 
 [Event "It \"Foxwoods Open\""]
 [Site "Connecticut (USA)"]
-[Date "2005.03.24"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Shabalov Alexander (USA)"]
@@ -66,7 +63,6 @@ cxd5 25.exd5 Bb4 26.Rf1 Rge8 27.a3 Bd6 28.Qf5 N6h5 29.Rgg1 Kg7
 
 [Event "It \"Foxwoods Open\""]
 [Site "Connecticut (USA)"]
-[Date "2005.03.25"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Smirin Ilia (ISR)"]
@@ -86,7 +82,6 @@ cxb2 14.Bxb2 Qa5+ 15.Kf1 Kxf7 16.Qh5+ Kg8 17.Bd3 Qb4 18.Rb1 Bd7
 
 [Event "Dos Hermanas Internet Final"]
 [Site "Internet"]
-[Date "2005.03.26"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Fridman Daniel (LAT)"]
@@ -117,7 +112,6 @@ Kf7 76.Kh4 Nd7 77.Kg5 Nxf6 78.Kh6 Ng8+ 79.Kh7 Nf6+ 80.Kh8 Kg6
 
 [Event "It (cat.13)"]
 [Site "Copenhagen/Malmoe (Denmark)"]
-[Date "2005.04.15"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Hansen Curt (DEN)"]
@@ -140,7 +134,6 @@ Kh7 36.Kh2 g6 37.f6 Rf2 38.f7 Kg7 39.Kg3 Rf6 40.Kh3 Rf4 41.Kg3 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Copenhagen/Malmoe (Denmark)"]
-[Date "2005.04.17"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Hillarp Persson Tiger (SWE)"]
@@ -173,7 +166,6 @@ Bb3 96.f6 Kg6 97.f7 Bxf7 98.h7 Kxh7 99.Kxf7 Kh8 100.Kg6 1-0
 
 [Event "It (cat.13)"]
 [Site "Copenhagen/Malmoe (Denmark)"]
-[Date "2005.04.20"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Iordachescu Viorel (MDA)"]
@@ -197,7 +189,6 @@ b6 42.Rxe8 Rxe8 43.Nb3 Nc4 44.Ke2 f5 45.Kd3 Nb2+ 46.Kc2 Nc4 47.Kd3 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Copenhagen/Malmoe (Denmark)"]
-[Date "2005.04.22"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Sasikiran Krishnan (IND)"]
@@ -229,7 +220,6 @@ Bb5 87.g7 b1Q 0-1
 
 [Event "It (cat.13)"]
 [Site "Copenhagen/Malmoe (Denmark)"]
-[Date "2005.04.23"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Timman Jan H (NED)"]
@@ -257,7 +247,6 @@ Kd8 59.Bd3 Bxd5 60.Kxd5 Nxe5 61.Kxe5 Kc7 62.Kd5 b6 63.axb6+ Kxb6
 
 [Event "It (open)"]
 [Site "Minneapolis (USA)"]
-[Date "2005.05.19"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Zarnicki Pablo (ARG)"]
@@ -277,7 +266,6 @@ e4 20.Bf4 Rd7 21.Qa7 Re7 22.Ne1 1-0
 
 [Event "It (open)"]
 [Site "Minneapolis (USA)"]
-[Date "2005.05.21"]
 [Round "6"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -300,7 +288,6 @@ e4 0-1
 
 [Event "It \"World Open\""]
 [Site "Philadelphia (USA)"]
-[Date "2005.06.02"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Benjamin Joel (USA)"]
@@ -329,7 +316,6 @@ a5 69.a4 1-0
 
 [Event "It \"World Open\""]
 [Site "Philadelphia (USA)"]
-[Date "2005.07.03"]
 [Round "7"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ibragimov Ildar (USA)"]
@@ -355,7 +341,6 @@ Qd5 47.Qe3 Qc6 48.Qc1 Qb6+ 49.Ke2 Qb1 50.Kd2 Qxc1+ 51.Kxc1 Kg6
 
 [Event "It (cat.16)"]
 [Site "Biel (Switzerland)"]
-[Date "2005.07.19"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Bauer Christian (FRA)"]
@@ -385,7 +370,6 @@ f5 65.Bxf5 Nc6 66.Qh2+ Kg7 67.Qh7+ Kf6 68.Qg6+ Ke7 69.Qe6+ Kf8
 
 [Event "It (cat.16)"]
 [Site "Biel (Switzerland)"]
-[Date "2005.07.21"]
 [Round "5"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Pelletier Yannick (SUI)"]
@@ -410,7 +394,6 @@ Nb8 43.Bxg5 hxg5 44.Ne3 Nbc6 45.Rh2 Ne7 46.Rf3 Rc6 47.Nf6 Qxh3
 
 [Event "It (cat.16)"]
 [Site "Biel (Switzerland)"]
-[Date "2005.07.27"]
 [Round "10"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Gelfand Boris (ISR)"]
@@ -433,7 +416,6 @@ Rxa2+ 35.Kb1 Rh2 36.Re3 h4 37.Kc1 Kxd6 38.f5 Rf2 39.Kd1 Rf3 0-1
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2005.09.14"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Dzagnidze Nana (GEO)"]
@@ -454,7 +436,6 @@ Kf7 26.Nxf6 Qxg3+ 27.Qxg3 Nxg3 28.Ng4+ 1-0
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2005.09.16"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Mamedyarov Shakhriyar (AZE)"]
@@ -477,7 +458,6 @@ b6 14.Nxe5 Nxe5 15.Qe4 Bd7 16.Qxe5 Qxe5 17.dxe5 Rae8 18.f4 f6
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2005.09.17"]
 [Round "2"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Mamedyarov Shakhriyar (AZE)"]
@@ -502,7 +482,6 @@ Bc7 43.Qg5 Ba5 44.Ra1 Ra8 45.Kh2 Kg8 46.Nb7 Qc3 47.Rxa5 Rxa5
 
 [Event "It \"Lausanne Young Masters\""]
 [Site "Lausanne (Switzerland)"]
-[Date "2005.09.19"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Volokitin Andrei (UKR)"]
@@ -522,7 +501,6 @@ exf3 20.Kf2 Bg5 21.Nxf3 g6 22.Bxg5 Qf5 23.Qxh3 Qxf3+ 0-1
 
 [Event "It (cat.17)"]
 [Site "Stepanakert (Armenia)"]
-[Date "2005.10.05"]
 [Round "4"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Bologan Viktor (MDA)"]
@@ -547,7 +525,6 @@ Rb8 32.Nf3 Qf6 33.cxd6 Nd5 34.d7 Bf7 35.Nc5 Rxb6 36.Rxb6 Nxb6
 
 [Event "It (cat.17)"]
 [Site "Stepanakert (Armenia)"]
-[Date "2005.10.10"]
 [Round "8"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Dreev Alexey (RUS)"]
@@ -573,7 +550,6 @@ Be4 52.Rfd7+ Kc5 53.f5 c3 54.Rac7+ 1-0
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.11.27"]
 [Round "1"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Ganguly Surya Shekhar (IND)"]
@@ -598,7 +574,6 @@ Kf6 48.Nb5 Ke5 49.Nxc7 Be4 50.Nb5 Bd3 51.b3 Ke4 52.Nc7 Bxc4 0-1
 
 [Event "It \"]
 [Site "Philadelphia (USA)"]
-[Date "2005.07.01"]
 [Round "3"]
 [White "Nakamura Hikaru (USA)"]
 [Black "Dejmek Mark W (USA)"]
@@ -607,7 +582,6 @@ Kf6 48.Nb5 Ke5 49.Nxc7 Be4 50.Nb5 Bd3 51.b3 Ke4 52.Nc7 Bxc4 0-1
 [WhiteElo "2662"]
 [BlackElo "2184"]
 [PlyCount "58"]
-[EventDate "2005.??.??"]
 
 1. e4 c5 2. Qh5 d6 3. f4 Nc6 4. c3 Nf6 5. Qf3 e5 6. f5 d5 7. d3 b6 8. g4 Bb7 9.
 g5 dxe4 10. dxe4 Nd7 11. Be3 Qc7 12. Nd2 Nd4 13. cxd4 cxd4 14. Bf2 Qc2 15. Bd3

@@ -1,13 +1,11 @@
 [Event "Match series"]
 [Site "New York, NY USA"]
-[Date "1892.10.13"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Charles B Isaacson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "105"]
 [WhiteElo "?"]
 
@@ -25,14 +23,12 @@
 
 [Event "Match series"]
 [Site "New York, NY USA"]
-[Date "1892.10.24"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "James Moore Hanham"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -47,14 +43,12 @@
 
 [Event "Match series"]
 [Site "New York, NY USA"]
-[Date "1892.10.28"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "John Washington Baird"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C77"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Match series"]
 [Site "New York, NY USA"]
-[Date "1892.11.09"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Eugene Delmar"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -94,14 +86,12 @@
 
 [Event "Exhibition game"]
 [Site "Brooklyn CC, New York, NY USA"]
-[Date "1892.11.18"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "William M De Visser"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -114,14 +104,12 @@
 
 [Event "Exhibition game"]
 [Site "Brooklyn CC, New York, NY USA"]
-[Date "1892.11.11"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Abel Edward Blackmar"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "121"]
 [WhiteElo "?"]
 
@@ -140,14 +128,12 @@
 
 [Event "Simul, 24b"]
 [Site "Montreal CAN"]
-[Date "1892.11.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J Pelletier"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -161,14 +147,12 @@
 
 [Event "Casual Game"]
 [Site "Montreal CAN"]
-[Date "1892.11.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "D C Robertson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -183,14 +167,12 @@
 
 [Event "Casual Game"]
 [Site "Montreal CAN"]
-[Date "1892.11.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Joseph P Cooke"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -204,14 +186,12 @@
 
 [Event "Simul, 26b"]
 [Site "Montreal CAN"]
-[Date "1892.11.24"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Robert Short"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -224,14 +204,12 @@
 
 [Event "Double blindfold game"]
 [Site "Baltimore, MD USA"]
-[Date "1892.11.29"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "William Henry Krause Pollock"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -247,14 +225,12 @@
 
 [Event "Simul, 24b"]
 [Site "Baltimore, MD USA"]
-[Date "1892.11.28"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "A W Schofield"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -270,14 +246,12 @@
 
 [Event "Consultation simul, 6b"]
 [Site "Baltimore, MD USA"]
-[Date "1892.11.30"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "William Henry Krause Pollock"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -291,14 +265,12 @@
 
 [Event "Match series"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1892.12.20"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Dionisio M Martinez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C27"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -310,14 +282,12 @@
 
 [Event "Simul, 14b"]
 [Site "New York, NY USA"]
-[Date "1892.12.10"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Albert Hodges"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B32"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -333,14 +303,12 @@
 
 [Event "Simul, 14b"]
 [Site "Logansport, IN USA"]
-[Date "1892.12.13"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "T F Leech"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -354,14 +322,12 @@
 
 [Event "Havana m1"]
 [Site "Havana CUB"]
-[Date "1893.01.22"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Celso Golmayo Zupide"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B27"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -373,14 +339,12 @@
 
 [Event "Match series"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1892.12.27"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Hermann G Voigt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -397,14 +361,12 @@
 
 [Event "Match series"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1893.01.03"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "Alfred K Robinson"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -419,14 +381,12 @@
 
 [Event "Match series"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1892.12.31"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "Gustavus Charles Reichhelm"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -443,14 +403,12 @@
 
 [Event "New York game"]
 [Site "New York, NY USA"]
-[Date "1893.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "37"]
 [WhiteElo "?"]
 
@@ -462,14 +420,12 @@
 
 [Event "Havana m1"]
 [Site "Havana"]
-[Date "1893.01.24"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Celso Golmayo Zupide"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D46"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -487,14 +443,12 @@
 
 [Event "Havana m3"]
 [Site "Havana"]
-[Date "1893.01.31"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "A Ponce"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "????.??.??"]
 [PlyCount "133"]
 [WhiteElo "?"]
 
@@ -514,14 +468,12 @@
 
 [Event "Havana m2"]
 [Site "Havana"]
-[Date "1893.01.26"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Andres Clemente Vazquez"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -539,14 +491,12 @@
 
 [Event "Simul, 16b"]
 [Site "New Orleans, LA USA"]
-[Date "1893.02.21"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Otto M Tennison"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 

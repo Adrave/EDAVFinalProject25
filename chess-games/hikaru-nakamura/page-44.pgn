@@ -1,6 +1,5 @@
 [Event "Gibraltar Masters 2017"]
 [Site "Caleta ENG"]
-[Date "2017.01.26"]
 [Round "3.1"]
 [White "Nakamura, Hi"]
 [Black "Gopal, G."]
@@ -9,7 +8,6 @@
 [WhiteElo "2785"]
 [BlackElo "2579"]
 [PlyCount "85"]
-[EventDate "2017.01.24"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -26,7 +24,6 @@ Bxf4 35. gxf4 Kf6 36. Kc3 Rc8 37. Kd4 Be8 38. Bd1 Bf7 39. Bb3 Rc7 40. Ba2 Rc8
 
 [Event "PRO League Atlantic 2017"]
 [Site "chess.com INT"]
-[Date "2017.01.18"]
 [Round "2"]
 [White "Nakamura, Hi"]
 [Black "Paragua, M."]
@@ -35,7 +32,6 @@ Bxf4 35. gxf4 Kf6 36. Kc3 Rc8 37. Kd4 Be8 38. Bd1 Bf7 39. Bb3 Rc7 40. Ba2 Rc8
 [WhiteElo "2785"]
 [BlackElo "2492"]
 [PlyCount "74"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -53,7 +49,6 @@ Rxe6 hxg4 35. Re8+ Kf7 36. Qe2 Qc1+ 37. Kh2 Qf4+ 1/2-1/2
 
 [Event "Gibraltar Masters TB"]
 [Site "Caleta ENG"]
-[Date "2017.02.02"]
 [Round "1.2"]
 [White "Nakamura, Hi"]
 [Black "Yu Yangyi"]
@@ -62,7 +57,6 @@ Rxe6 hxg4 35. Re8+ Kf7 36. Qe2 Qc1+ 37. Kh2 Qf4+ 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2738"]
 [PlyCount "130"]
-[EventDate "2017.02.02"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -83,7 +77,6 @@ Ke5 1/2-1/2
 
 [Event "Gibraltar Masters 2017"]
 [Site "Caleta ENG"]
-[Date "2017.02.01"]
 [Round "9.3"]
 [White "Nakamura, Hi"]
 [Black "Caruana, F."]
@@ -92,7 +85,6 @@ Ke5 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2827"]
 [PlyCount "90"]
-[EventDate "2017.01.24"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -110,7 +102,6 @@ Rxc1 Ra8 28. Rc6 Nd7 29. Rc1 Ra3 30. Bc4 Nf6 31. Ke2 g5 32. Rc2 h5 33. f3 b5
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.18"]
 [Round "1.3"]
 [White "Nakamura, Hi"]
 [Black "Jakovenko, D."]
@@ -119,7 +110,6 @@ Rxc1 Ra8 28. Rc6 Nd7 29. Rc1 Ra3 30. Bc4 Nf6 31. Ke2 g5 32. Rc2 h5 33. f3 b5
 [WhiteElo "2785"]
 [BlackElo "2709"]
 [PlyCount "120"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -139,7 +129,6 @@ Kh7 60. Rf8 Kg7 1/2-1/2
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.27"]
 [Round "9.2"]
 [White "Nakamura, Hi"]
 [Black "Adams, Mi"]
@@ -148,7 +137,6 @@ Kh7 60. Rf8 Kg7 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2751"]
 [PlyCount "111"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -167,7 +155,6 @@ Kd3 Kd6 54. Kc3 Kc6 55. b4 Kd6 56. b5 1/2-1/2
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.24"]
 [Round "6.3"]
 [White "Nakamura, Hi"]
 [Black "Grischuk, A."]
@@ -176,7 +163,6 @@ Kd3 Kd6 54. Kc3 Kc6 55. b4 Kd6 56. b5 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2742"]
 [PlyCount "123"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -196,7 +182,6 @@ Qf5+ 58. Kh4 Kd6 59. Qg3+ Kd7 60. Qg7+ Kd6 61. Qg3+ Kd7 62. Qg7+ 1/2-1/2
 
 [Event "Sharjah Grand Prix 2017"]
 [Site "Sharjah UAE"]
-[Date "2017.02.21"]
 [Round "4.1"]
 [White "Nakamura, Hi"]
 [Black "Vachier Lagrave, M."]
@@ -205,7 +190,6 @@ Qf5+ 58. Kh4 Kd6 59. Qg3+ Kd7 60. Qg7+ Kd6 61. Qg3+ Kd7 62. Qg7+ 1/2-1/2
 [WhiteElo "2785"]
 [BlackElo "2796"]
 [PlyCount "35"]
-[EventDate "2017.02.18"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -218,7 +202,6 @@ Nbd2 Rfb8 16. Qa5 Bd8 17. Qxc7 Bxc7 18. b4 1/2-1/2
 
 [Event "ch-USA 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.03.31"]
 [Round "3.2"]
 [White "Nakamura, Hi"]
 [Black "Xiong, Jeffery"]
@@ -227,7 +210,6 @@ Nbd2 Rfb8 16. Qa5 Bd8 17. Qxc7 Bxc7 18. b4 1/2-1/2
 [WhiteElo "2793"]
 [BlackElo "2674"]
 [PlyCount "61"]
-[EventDate "2017.03.29"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "USA"]
@@ -243,7 +225,6 @@ Rab8 28. Qc2 Qd6 29. Red1 Qc5 30. Kh2 Ne6 31. h4 1/2-1/2
 
 [Event "ch-USA 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.04.02"]
 [Round "5.2"]
 [White "Nakamura, Hi"]
 [Black "Naroditsky, D."]
@@ -252,7 +233,6 @@ Rab8 28. Qc2 Qd6 29. Red1 Qc5 30. Kh2 Ne6 31. h4 1/2-1/2
 [WhiteElo "2793"]
 [BlackElo "2646"]
 [PlyCount "61"]
-[EventDate "2017.03.29"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "USA"]
@@ -268,7 +248,6 @@ Qxb2 28. Qd5+ Rf7 29. Kg2 b6 30. Re7 Qf6 31. Rxa7 1/2-1/2
 
 [Event "ch-USA 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.04.05"]
 [Round "7.3"]
 [White "Nakamura, Hi"]
 [Black "Shankland, S."]
@@ -277,7 +256,6 @@ Qxb2 28. Qd5+ Rf7 29. Kg2 b6 30. Re7 Qf6 31. Rxa7 1/2-1/2
 [WhiteElo "2793"]
 [BlackElo "2666"]
 [PlyCount "101"]
-[EventDate "2017.03.29"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "USA"]
@@ -296,7 +274,6 @@ Qxc5 41. dxc5 Rd4 42. c6 bxc6 43. Rxc6 Rxb4 44. Rxa6 Kf7 45. Rb6 Ra4 46. a6 Kg6
 
 [Event "Zurich Korchnoi CC Blitz"]
 [Site "Zurich SUI"]
-[Date "2017.04.17"]
 [Round "6.4"]
 [White "Nakamura, Hi"]
 [Black "Gelfand, B."]
@@ -305,7 +282,6 @@ Qxc5 41. dxc5 Rd4 42. c6 bxc6 43. Rxc6 Rxb4 44. Rxa6 Kf7 45. Rb6 Ra4 46. a6 Kg6
 [WhiteElo "2793"]
 [BlackElo "2724"]
 [PlyCount "81"]
-[EventDate "2017.04.17"]
 [EventType "tourn (blitz)"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -323,7 +299,6 @@ Kf2 Nh1+ 41. Ke2 1/2-1/2
 
 [Event "Zurich Korchnoi CC 2017"]
 [Site "Zurich SUI"]
-[Date "2017.04.16"]
 [Round "7.1"]
 [White "Nakamura, Hi"]
 [Black "Anand, V."]
@@ -332,7 +307,6 @@ Kf2 Nh1+ 41. Ke2 1/2-1/2
 [WhiteElo "2793"]
 [BlackElo "2786"]
 [PlyCount "60"]
-[EventDate "2017.04.13"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -348,7 +322,6 @@ Ncxd4 15. Bd2 Re8 16. Kh1 Re6 17. Rc1 Rd6 18. Nc3 Ne2 19. Qxe2 Rxd2 20. Qb5 Nd6
 
 [Event "6th Zurich Opening Blitz"]
 [Site "Zurich SUI"]
-[Date "2017.04.12"]
 [Round "6.3"]
 [White "Nakamura, Hi"]
 [Black "Svidler, P."]
@@ -357,7 +330,6 @@ Ncxd4 15. Bd2 Re8 16. Kh1 Re6 17. Rc1 Rd6 18. Nc3 Ne2 19. Qxe2 Rxd2 20. Qb5 Nd6
 [WhiteElo "2793"]
 [BlackElo "2747"]
 [PlyCount "94"]
-[EventDate "2017.04.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -376,7 +348,6 @@ Bd6 41. Nd3 Rf5 42. Nf2 Kg6 43. Ne4 Be7 44. Rc3 Kf7 45. Rf3 Ke6 46. Rxf5 Kxf5
 
 [Event "6th Zurich Opening Blitz"]
 [Site "Zurich SUI"]
-[Date "2017.04.12"]
 [Round "4.4"]
 [White "Nakamura, Hi"]
 [Black "Oparin, G."]
@@ -385,7 +356,6 @@ Bd6 41. Nd3 Rf5 42. Nf2 Kg6 43. Ne4 Be7 44. Rc3 Kf7 45. Rf3 Ke6 46. Rxf5 Kxf5
 [WhiteElo "2793"]
 [BlackElo "2604"]
 [PlyCount "124"]
-[EventDate "2017.04.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "7"]
 [EventCountry "SUI"]
@@ -406,7 +376,6 @@ Rh8 g3+ 53. Kg1 Kg4 54. Rg8+ Kh3 55. Rg5 Bf5 56. Rg8 Bg4 57. Rg5 g2 58. Re5 Kg3
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.25"]
 [Round "10.5"]
 [White "Nakamura, Hi"]
 [Black "Vachier Lagrave, M."]
@@ -415,7 +384,6 @@ Rh8 g3+ 53. Kg1 Kg4 54. Rg8+ Kh3 55. Rg5 Bf5 56. Rg8 Bg4 57. Rg5 g2 58. Re5 Kg3
 [WhiteElo "2785"]
 [BlackElo "2796"]
 [PlyCount "88"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -432,7 +400,6 @@ Bf1 Ne3 41. Kf2 Nxf1 42. Rb2 Ra1 43. g4 b3 44. g5 Ra2 0-1
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.20"]
 [White "Nakamura, Hi"]
 [Black "Caruana, F."]
@@ -441,7 +408,6 @@ Bf1 Ne3 41. Kf2 Nxf1 42. Rb2 Ra1 43. g4 b3 44. g5 Ra2 0-1
 [WhiteElo "2786"]
 [BlackElo "2802"]
 [PlyCount "78"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -457,7 +423,6 @@ Kxg4 h5+ 34. Kh3 Kh6 35. b4 fxe6 36. b5 g5 37. Rf7 g4+ 38. Kg3 Kg6 39. Rf4 Qe1#
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.26"]
 [White "Nakamura, Hi"]
 [Black "Caruana, F."]
@@ -466,7 +431,6 @@ Kxg4 h5+ 34. Kh3 Kh6 35. b4 fxe6 36. b5 g5 37. Rf7 g4+ 38. Kg3 Kg6 39. Rf4 Qe1#
 [WhiteElo "2786"]
 [BlackElo "2802"]
 [PlyCount "94"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -483,7 +447,6 @@ Bxg5 a5 41. Bxh4 a4 42. Bf6 Rb7 43. h4 b3 44. axb3 cxb3 45. Rc5 a3 46. Bd4 b2
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.11.02"]
 [Round "2.24"]
 [White "Nakamura, Hi"]
 [Black "Caruana, F."]
@@ -492,7 +455,6 @@ Bxg5 a5 41. Bxh4 a4 42. Bf6 Rb7 43. h4 b3 44. axb3 cxb3 45. Rc5 a3 46. Bd4 b2
 [WhiteElo "2786"]
 [BlackElo "2802"]
 [PlyCount "150"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -513,7 +475,6 @@ c2 54. Qe7 Qd1 55. Qf6+ Kf8 56. Qh8+ Ke7 57. Qf6+ Ke8 58. Qh8+ Kd7 59. Qf8 c1=Q
 
 [Event "Champions Showdown G10"]
 [Site "Saint Louis USA"]
-[Date "2017.11.11"]
 [Round "4.1"]
 [White "Nakamura, Hi"]
 [Black "Topalov, V."]
@@ -522,7 +483,6 @@ c2 54. Qe7 Qd1 55. Qf6+ Kf8 56. Qh8+ Ke7 57. Qf6+ Ke8 58. Qh8+ Kd7 59. Qf8 c1=Q
 [WhiteElo "2780"]
 [BlackElo "2749"]
 [PlyCount "110"]
-[EventDate "2017.11.11"]
 [EventType "match (blitz)"]
 [EventRounds "8"]
 [EventCountry "USA"]
@@ -540,7 +500,6 @@ Kf8 53. g4 b5 54. Rf7+ Ke8 55. Rxg7 a3 0-1
 
 [Event "Champions Showdown G10"]
 [Site "Saint Louis USA"]
-[Date "2017.11.11"]
 [Round "2.1"]
 [White "Nakamura, Hi"]
 [Black "Topalov, V."]
@@ -549,7 +508,6 @@ Kf8 53. g4 b5 54. Rf7+ Ke8 55. Rxg7 a3 0-1
 [WhiteElo "2780"]
 [BlackElo "2749"]
 [PlyCount "54"]
-[EventDate "2017.11.11"]
 [EventType "match (blitz)"]
 [EventRounds "8"]
 [EventCountry "USA"]
@@ -563,7 +521,6 @@ f5 0-1
 
 [Event "chess.com Speed 3m+2spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.12.16"]
 [Round "3.14"]
 [White "Nakamura, Hi"]
 [Black "Karjakin, Sergey"]
@@ -572,7 +529,6 @@ f5 0-1
 [WhiteElo "2786"]
 [BlackElo "2783"]
 [PlyCount "68"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -587,7 +543,6 @@ Bxg5 29. Bxg5 Qxg5 30. Rg3 Qf6 31. Rf1 Nd6 32. Rg4 Qh6 33. Rf3 Re4 34. Rh3 Qc1+
 
 [Event "chess.com Speed 1m+1spm 2017"]
 [Site "chess.com INT"]
-[Date "2017.12.16"]
 [Round "3.24"]
 [White "Nakamura, Hi"]
 [Black "Karjakin, Sergey"]
@@ -596,7 +551,6 @@ Bxg5 29. Bxg5 Qxg5 30. Rg3 Qf6 31. Rf1 Nd6 32. Rg4 Qh6 33. Rf3 Re4 34. Rh3 Qc1+
 [WhiteElo "2786"]
 [BlackElo "2783"]
 [PlyCount "63"]
-[EventDate "2017.05.03"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -610,7 +564,6 @@ Qd3+ 28. Kg1 Qd1+ 29. Qf1 Qc2 30. Qxf3 Qxc1+ 31. Kg2 Qc2+ 32. Kf1 0-1
 
 [Event "5. Sinquefield Cup 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.09"]
 [Round "7.3"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -618,7 +571,6 @@ Qd3+ 28. Kg1 Qd1+ 29. Qf1 Qc2 30. Qxf3 Qxc1+ 31. Kg2 Qc2+ 32. Kf1 0-1
 [WhiteElo "2792"]
 [BlackElo "2809"]
 [ECO "A29"]
-[EventDate "2017.08.02"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 
 8. bxc3 Re8 9. f3 e3 10. d3 d5 11. Qa4 h6 12. cxd5 Nxd5 13. Ne4 f5 14. Nc5
@@ -633,7 +585,6 @@ Nd3 Kd5 50. Nf2 Bd7 51. Ke3 Ke5 52. Ne4 Bc6 53. Ng3 Bd5 54. Kd3 Kf4 0-1
 
 [Event "Saint Louis Blitz 2017"]
 [Site "Saint Louis USA"]
-[Date "2017.08.18"]
 [Round "14.1"]
 [White "Nakamura, Hikaru"]
 [Black "Dominguez Perez, Leinier"]
@@ -641,7 +592,6 @@ Nd3 Kd5 50. Nf2 Bd7 51. Ke3 Ke5 52. Ne4 Bc6 53. Ng3 Bd5 54. Kd3 Kf4 0-1
 [WhiteElo "2792"]
 [BlackElo "2739"]
 [ECO "E06"]
-[EventDate "2017.08.17"]
 
 1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. d4 O-O 6. Qc2 c5 7. O-O Nc6 8. 
 dxc5 d4 9. Rd1 e5 10. Bg5 Nd7 11. Bxe7 Qxe7 12. a3 a5 13. Nbd2 Nxc5 14. 

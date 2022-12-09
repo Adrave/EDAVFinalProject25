@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "5"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Mieses Jacques (GER)"]
@@ -22,7 +21,6 @@ a5 31.Rxb6 axb4 32.Rxb7 Rxb7 33.Rxb4 1-0
 
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "6"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Spielmann Rudolf (AUT)"]
@@ -45,7 +43,6 @@ Bc4 37.e4 Qe7 38.exd5 Bxd5 39.a5 Qe4 0-1
 
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "1"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -68,7 +65,6 @@ a4 36.f5 Kc6 37.h7 Bg7 38.f6 c3 39.Ke2 Bh8 40.f7 1-0
 
 [Event "It"]
 [Site "Bad Kissingen (Germany)"]
-[Date "1928.??.??"]
 [Round "8"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Yates Frederick"]
@@ -91,7 +87,6 @@ Qh4 36.Qf6 Bc5+ 37.Kh2 1-0
 
 [Event "It \"Tageblatt\""]
 [Site "Berlin (Germany)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -115,7 +110,6 @@ Rh1 42.h5 Rh4+ 43.Kg5 Bg3 44.Kg6 Ke8 45.h6 Rh2 46.h7 1-0
 
 [Event "It \"Tageblatt\""]
 [Site "Berlin (Germany)"]
-[Date "1928.??.??"]
 [Round "10"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Reti Richard (CZE)"]
@@ -139,7 +133,6 @@ Rf7+ 42.Ke2 1-0
 
 [Event "It \"Tageblatt\""]
 [Site "Berlin (Germany)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -163,7 +156,6 @@ Kf7 43.Nc5 Nd8 44.Nb3 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Havasi Kornel (HUN)"]
@@ -184,7 +176,6 @@ Nc4 24.h3 Nxb6 25.Rxf8 Nfd7 26.Rf7 Rxb2 27.Nd5 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Steiner Lajos (HUN)"]
@@ -207,7 +198,6 @@ f5 36.Kd2 Kf7 37.Kc3 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Von Balla Zoltan (HUN)"]
@@ -230,7 +220,6 @@ Kh8 36.Re4 Rd1 37.Rxd1 Rxd1+ 38.Kg2 1-0
 
 [Event "Simultan"]
 [Site "Stockholm (Sweden)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lundin Erik (SWE)"]
@@ -251,7 +240,6 @@ gxf5 26.gxf5 Rg8 27.Qh5 Be8 28.Ng6 Bd8 29.Kf3 1-0
 
 [Event ""]
 [Site "Stockholm (Sweden)"]
-[Date "1928.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Nyholm Gustaf (SWE)"]
@@ -273,7 +261,6 @@ Ne4 26.Rg4 Rf8 27.Nxe4 dxe4 28.Kh2 Rg6 29.Rxg6 hxg6 30.Qg5 Qxf4+
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1929.??.??"]
 [Round "7"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Monticelli Mario (ITA)"]
@@ -296,7 +283,6 @@ b3 31.Rb6 Bxe2+ 32.Kxe2 Ra8 33.a6 b2 34.Ke3 Rxa6 35.Rxb2 Ra7
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1929.??.??"]
 [Round "9"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -319,7 +305,6 @@ Rf7 37.R8d7 Rxd7 38.Rxd7 Re7 1/2-1/2
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1929.??.??"]
 [Round "11"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -342,7 +327,6 @@ Kxg4 36.Re7 Rb5 37.Kc4 Kg3 1/2-1/2
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -365,7 +349,6 @@ Qh1+ 36.Kg4 Qe4+ 37.Kh3 Qh1+ 1/2-1/2
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Thomas George A (ENG)"]
@@ -390,7 +373,6 @@ Rxa2 42.Re7 Ra6 43.Rc7+ Rc6 44.Rb7 Rb6 45.Rc7+ Rc6 46.Rxg7 b3
 
 [Event "It"]
 [Site "Carlsbad (Czech Republic)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -410,7 +392,6 @@ fxe5 14.Be3 Bc5 15.Bxc5 Nxc5 16.b4 Nb3 17.Ra3 Rd8 18.Qc2 Nd4
 
 [Event ""]
 [Site "London (England)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Wreford Brown C"]
@@ -432,7 +413,6 @@ Rxc3 1-0
 
 [Event "It"]
 [Site "Ramsgate (England)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Micheli"]
@@ -459,7 +439,6 @@ h4 60.Rh6 Rg7 61.Rxh4 1-0
 
 [Event "It"]
 [Site "Ramsgate (England)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Sergeant Edward"]
@@ -480,7 +459,6 @@ c4 19.Re1 Qc7 20.e4 fxe4 21.Ng5 Nf6 22.Qh3+ Kg8 23.Ndxe4 Qf4
 
 [Event ""]
 [Site "Ramsgate (England)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Thomas George A (ENG)"]
@@ -506,7 +484,6 @@ Kf8 52.f6 Be1 53.g6 Bg3 54.Rh8# 1-0
 
 [Event ""]
 [Site "Ramsgate (England)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tylor Theodore (ENG)"]
@@ -533,14 +510,12 @@ Qd7+ 58.Ke4 Qg4+ 59.Kd3 Qd1+ 1/2-1/2
 
 [Event "Karlsbad"]
 [Site "Karlsbad CSR"]
-[Date "1929.08.26"]
 [Round "21"]
 [White "Jose Raul Capablanca"]
 [Black "Geza Maroczy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D63"]
-[EventDate "1929.07.31"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -554,14 +529,12 @@ Qd7+ 58.Ke4 Qg4+ 59.Kd3 Qd1+ 1/2-1/2
 
 [Event "Simul, 40b"]
 [Site "London ENG"]
-[Date "1929.04.10"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Eric Sigmund Bensinger"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B11"]
-[EventDate "1929.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 

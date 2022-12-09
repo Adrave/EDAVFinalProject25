@@ -1,6 +1,5 @@
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "18.2"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -9,7 +8,6 @@
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "D11"]
-[EventDate "2019.02.23"]
 [Opening "QGD Slav"]
 [Variation "4.e3"]
 [WhiteElo "2749"]
@@ -28,7 +26,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "22.2"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -37,7 +34,6 @@
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "D11"]
-[EventDate "2019.02.23"]
 [Opening "QGD Slav"]
 [Variation "4.e3"]
 [WhiteElo "2749"]
@@ -55,7 +51,6 @@
 
 [Event "Champions Showdown Blitz"]
 [Site "Saint Louis USA"]
-[Date "2019.02.24"]
 [Round "20.2"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -64,7 +59,6 @@
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "D11"]
-[EventDate "2019.02.23"]
 [Opening "QGD Slav"]
 [Variation "4.e3"]
 [WhiteElo "2749"]
@@ -86,7 +80,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.20"]
 [Round "7"]
 [White "Nakamura,Hi"]
 [Black "Adly,A"]
@@ -96,7 +89,6 @@
 [BlackTeam "Delhi Dynamite"]
 [BlackTitle "GM"]
 [ECO "B29"]
-[EventDate "2019.01.08"]
 [Opening "Sicilian"]
 [Variation "Nimzovich-Rubinstein variation"]
 [WhiteElo "2749"]
@@ -124,7 +116,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.20"]
 [Round "7"]
 [White "Nakamura,Hi"]
 [Black "Smirnov,Ant"]
@@ -134,7 +125,6 @@
 [BlackTeam "Australia Kangaroos"]
 [BlackTitle "GM"]
 [ECO "A03"]
-[EventDate "2019.01.08"]
 [Opening "Bird's opening"]
 [WhiteElo "2749"]
 [WhiteFideId "2016192"]
@@ -153,7 +143,6 @@
 
 [Event "63rd ch-USA 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.03.22"]
 [Round "3.2"]
 [White "Nakamura,Hi"]
 [Black "Sevian,Samuel"]
@@ -162,7 +151,6 @@
 [BlackFideId "2040506"]
 [BlackTitle "GM"]
 [ECO "A28"]
-[EventDate "2019.03.20"]
 [Opening "English"]
 [Variation "four knights, Nimzovich variation"]
 [WhiteElo "2746"]
@@ -182,7 +170,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.03.13"]
 [Round "10"]
 [White "Nakamura,Hi"]
 [Black "Sarana,A"]
@@ -192,7 +179,6 @@
 [BlackTeam "Australia Kangaroos"]
 [BlackTitle "GM"]
 [ECO "A00"]
-[EventDate "2019.01.08"]
 [Opening "Grob's attack"]
 [WhiteElo "2749"]
 [WhiteFideId "2016192"]
@@ -213,7 +199,6 @@
 
 [Event "63rd ch-USA 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.03.25"]
 [Round "6.3"]
 [White "Nakamura,Hi"]
 [Black "Gareev,T"]
@@ -222,7 +207,6 @@
 [BlackFideId "14200937"]
 [BlackTitle "GM"]
 [ECO "A04"]
-[EventDate "2019.03.20"]
 [Opening "Reti opening"]
 [WhiteElo "2746"]
 [WhiteFideId "2016192"]
@@ -239,7 +223,6 @@
 
 [Event "Cote d'Ivoire Rapid 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.08"]
 [Round "1.2"]
 [White "Nakamura,Hi"]
 [Black "Vachier Lagrave,M"]
@@ -253,7 +236,6 @@
 [Variation "closed"]
 [WhiteFideId "2016192"]
 [BlackFideId "623539"]
-[EventDate "2019.05.08"]
 
 1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 Nf6 6. b3 e6 7. Bb2 d5 8. exd5
 exd5 9. O-O-O Be6 10. Kb1 Qa5 11. Nb5 Qxd2 12. Rxd2 Ne4 13. Re2 O-O-O 14. f3 a6
@@ -267,7 +249,6 @@ Rf8 48. Kd5 Rh8 49. Re1 Kg5 50. d7 Rd8 51. Kc6 Kh4 52. Re8 1-0
 
 [Event "Cote d'Ivoire Rapid 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.09"]
 [Round "6.1"]
 [White "Nakamura,Hi"]
 [Black "Ding Liren"]
@@ -281,7 +262,6 @@ Rf8 48. Kd5 Rh8 49. Re1 Kg5 50. d7 Rd8 51. Kc6 Kh4 52. Re8 1-0
 [Variation "closed, anti-Marshall 8.a4"]
 [WhiteFideId "2016192"]
 [BlackFideId "8603677"]
-[EventDate "2019.05.08"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. d4 d6 10. dxe5 Nxe5 11. Nbd2 Nfd7 12. Nd4 Nc5 13. Bd5 Rb8 14. Nc4 Bg4 15.
@@ -293,7 +273,6 @@ Qf4 Be4 29. Rxe4 Nxe4 30. Qxe4 Rfe8 31. Nxc6 Rxe4 32. Rxd8+ Qxd8 33. Nxd8 Re1
 
 [Event "Cote d'Ivoire Rapid 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.09"]
 [Round "4.3"]
 [White "Nakamura,Hi"]
 [Black "Topalov,V"]
@@ -306,7 +285,6 @@ Qf4 Be4 29. Rxe4 Nxe4 30. Qxe4 Rfe8 31. Nxc6 Rxe4 32. Rxd8+ Qxd8 33. Nxd8 Re1
 [Opening "Reti opening"]
 [WhiteFideId "2016192"]
 [BlackFideId "2900084"]
-[EventDate "2019.05.08"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 c6 4. Nc3 Nbd7 5. Qc2 e5 6. cxd5 Nxd5 7. a3 Bd6 8. d4
 O-O 9. Bd3 h6 10. O-O exd4 11. Nxd5 cxd5 12. Nxd4 Nc5 13. Be2 Re8 14. Bd2 Bd7
@@ -319,7 +297,6 @@ Rd1 41. a6 Ra1 42. a7 Kf7 43. b4 Ra2 44. b5 1-0
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "4.5"]
 [White "Nakamura,Hi"]
 [Black "Ding Liren"]
@@ -333,7 +310,6 @@ Rd1 41. a6 Ra1 42. a7 Kf7 43. b4 Ra2 44. b5 1-0
 [Variation "Wimpey system"]
 [WhiteFideId "2016192"]
 [BlackFideId "8603677"]
-[EventDate "2019.05.11"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 c5 5. Bb2 Nc6 6. cxd5 exd5 7. Be2 d4 8. Bb5
 Bd6 9. O-O O-O 10. Bxc6 bxc6 11. h3 Rb8 12. Na3 dxe3 13. dxe3 Ba6 14. Re1 Nd5
@@ -347,7 +323,6 @@ Rd8+ Kf7 48. a7 1-0
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.11"]
 [Round "8.1"]
 [White "Nakamura,Hi"]
 [Black "So,W"]
@@ -360,7 +335,6 @@ Rd8+ Kf7 48. a7 1-0
 [Opening "Reti opening"]
 [WhiteFideId "2016192"]
 [BlackFideId "5202213"]
-[EventDate "2019.05.11"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 Be7 5. Bb2 O-O 6. Nc3 c5 7. cxd5 Nxd5 8. Nxd5
 exd5 9. d4 Nc6 10. Be2 cxd4 11. Nxd4 Qa5+ 12. Kf1 Nxd4 13. Bxd4 Bf5 14. Bd3 Be4
@@ -374,7 +348,6 @@ b4 Rg1 47. b5 Qg2 48. b6 Rh1 49. b7 1-0
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.12"]
 [Round "12.1"]
 [White "Nakamura,Hi"]
 [Black "Vachier Lagrave,M"]
@@ -388,7 +361,6 @@ b4 Rg1 47. b5 Qg2 48. b6 Rh1 49. b7 1-0
 [Variation "closed"]
 [WhiteFideId "2016192"]
 [BlackFideId "623539"]
-[EventDate "2019.05.11"]
 
 1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. h3 g6 5. d4 cxd4 6. Nxd4 Bg7 7. g3 Nc6 8. Be3
 O-O 9. Bg2 Nxd4 10. Bxd4 Be6 11. O-O a6 12. Re1 Rc8 13. Nd5 Bxd5 14. exd5 Nd7
@@ -400,7 +372,6 @@ Rd1 Rc4 22. Qg5 h6 23. Qd2 Rc7 24. Rde1 Qb5 25. f4 Nc4 26. Qd4+ Kg8 27. b3 Nb6
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.12"]
 [Round "14.1"]
 [White "Nakamura,Hi"]
 [Black "Topalov,V"]
@@ -413,7 +384,6 @@ Rd1 Rc4 22. Qg5 h6 23. Qd2 Rc7 24. Rde1 Qb5 25. f4 Nc4 26. Qd4+ Kg8 27. b3 Nb6
 [Opening "Reti opening"]
 [WhiteFideId "2016192"]
 [BlackFideId "2900084"]
-[EventDate "2019.05.11"]
 
 1. Nf3 d5 2. e3 c6 3. c4 Nf6 4. Nc3 a6 5. d4 Bf5 6. Nh4 Be6 7. c5 g6 8. Bd3 Bg7
 9. O-O O-O 10. b4 Bc8 11. f4 Ne8 12. Qe1 a5 13. Na4 axb4 14. Nb6 Ra7 15. Qxb4
@@ -428,7 +398,6 @@ e4 d4 55. Ra5+ 1-0
 
 [Event "Cote d'Ivoire Blitz 2019"]
 [Site "Abidjan CIV"]
-[Date "2019.05.12"]
 [Round "16.3"]
 [White "Nakamura,Hi"]
 [Black "Nepomniachtchi,I"]
@@ -442,7 +411,6 @@ e4 d4 55. Ra5+ 1-0
 [Variation "fianchetto (Smyslov/Barnes) defence"]
 [WhiteFideId "2016192"]
 [BlackFideId "4168119"]
-[EventDate "2019.05.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 a6 5. Ba4 Bg7 6. d4 exd4 7. cxd4 b5 8. Bb3
 Nge7 9. O-O d6 10. d5 Na5 11. Bc2 c5 12. Nc3 O-O 13. h3 h6 14. Re1 g5 15. e5
@@ -462,7 +430,6 @@ Kf6 Ra1 86. Rb7 1-0
 
 [Event "Moscow FIDE Grand Prix"]
 [Site "Moscow RUS"]
-[Date "2019.05.19"]
 [Round "1.3"]
 [White "Nakamura,Hi"]
 [Black "Radjabov,T"]
@@ -476,7 +443,6 @@ Kf6 Ra1 86. Rb7 1-0
 [Variation "4.Nf3"]
 [WhiteFideId "2016192"]
 [BlackFideId "13400924"]
-[EventDate "2019.05.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 dxc4 7. e3 c5 8. Bxc4
 cxd4 9. Nxd4 O-O 10. O-O Bd7 11. Qe2 Nc6 12. Rfd1 Qb6 13. Nf3 Rfd8 14. e4 Be8
@@ -489,7 +455,6 @@ Ke8 35. f5 e5 36. Qd5 Qe3 37. Ng6 Nxg6 38. hxg6 Qf4+ 39. Kh3 Qf1+ 40. Kh4 Qe1+
 
 [Event "GCT Rapid Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.27"]
 [Round "3.3"]
 [White "Nakamura,Hi"]
 [Black "Mamedyarov,S"]
@@ -502,7 +467,6 @@ Ke8 35. f5 e5 36. Qd5 Qe3 37. Ng6 Nxg6 38. hxg6 Qf4+ 39. Kh3 Qf1+ 40. Kh4 Qe1+
 [Opening "Reti opening"]
 [WhiteFideId "2016192"]
 [BlackFideId "13401319"]
-[EventDate "2019.07.27"]
 
 1. Nf3 Nf6 2. e3 g6 3. b3 Bg7 4. Bb2 O-O 5. d4 b6 6. Bd3 Bb7 7. Nbd2 c5 8. dxc5
 bxc5 9. O-O Qc7 10. Re1 Nc6 11. e4 e5 12. Nf1 d6 13. Ne3 Nb4 14. Nd2 a5 15. a3
@@ -518,7 +482,6 @@ Ne8 1-0
 
 [Event "GCT Rapid Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.28"]
 [Round "6.5"]
 [White "Nakamura,Hi"]
 [Black "Dubov,Daniil"]
@@ -532,7 +495,6 @@ Ne8 1-0
 [Variation "Tarrasch, Prague variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "24126055"]
-[EventDate "2019.07.27"]
 
 1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 d5 5. cxd5 exd5 6. d4 Nc6 7. Bg2 cxd4 8.
 Nxd4 Bc5 9. Nxc6 bxc6 10. O-O O-O 11. Na4 Bb6 12. Nxb6 axb6 13. Qc2 c5 14. Bg5
@@ -545,7 +507,6 @@ Kh6 35. h3 gxh3 36. Rh2 Rb8 37. Ke4 Bd5+ 38. Kxd5 d2 39. Rxh3+ Kg5 40. Rg7+ Kxf5
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "1.2"]
 [White "Nakamura,Hi"]
 [Black "Grischuk,A"]
@@ -558,7 +519,6 @@ Kh6 35. h3 gxh3 36. Rh2 Rb8 37. Ke4 Bd5+ 38. Kxd5 d2 39. Rxh3+ Kg5 40. Rg7+ Kxf5
 [Opening "Reti opening"]
 [WhiteFideId "2016192"]
 [BlackFideId "4126025"]
-[EventDate "2019.07.31"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 c5 5. cxd5 exd5 6. Bb2 Nc6 7. Be2 Bd6 8. O-O
 O-O 9. d4 cxd4 10. Nxd4 Re8 11. Nd2 Bc7 12. Rc1 Qd6 13. N2f3 Nxd4 14. Qxd4 Bg4
@@ -577,7 +537,6 @@ Bd8 Ne4 68. Ke2 Bc3 69. Bb6 Be5 70. Ba5 Bc3 71. Bd8 Kd7 72. Bb6 Kc6 73. Bd4 Kd6
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "4.3"]
 [White "Nakamura,Hi"]
 [Black "Vachier Lagrave,M"]
@@ -590,7 +549,6 @@ Bd8 Ne4 68. Ke2 Bc3 69. Bb6 Be5 70. Ba5 Bc3 71. Bd8 Kd7 72. Bb6 Kc6 73. Bd4 Kd6
 [Opening "Sicilian"]
 [WhiteFideId "2016192"]
 [BlackFideId "623539"]
-[EventDate "2019.07.31"]
 
 1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. h3 Nc6 5. d4 cxd4 6. Nxd4 g6 7. Nxc6 bxc6 8.
 Bc4 Bg7 9. e5 Nd7 10. exd6 Ne5 11. Bb3 Ba6 12. Bg5 Qxd6 13. Qxd6 exd6 14. O-O-O
@@ -605,7 +563,6 @@ Be5 Kb5 54. Bd3+ Ka5 55. f4 Bg8 56. Bc2 Kb5 57. f5 Kc6 58. Be4+ Kd7 59. Kc2 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "8.2"]
 [White "Nakamura,Hi"]
 [Black "Mamedyarov,S"]
@@ -619,7 +576,6 @@ Be5 Kb5 54. Bd3+ Ka5 55. f4 Bg8 56. Bc2 Kb5 57. f5 Kc6 58. Be4+ Kd7 59. Kc2 1-0
 [Variation "exchange variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "13401319"]
-[EventDate "2019.07.31"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8.
 Ba4 O-O 9. Nf3 c5 10. O-O Qa5 11. Rb1 a6 12. Bb3 Bg4 13. Bd5 cxd4 14. Bxb7 Ra7
@@ -634,7 +590,6 @@ Rb6 54. Rxg4+ Kf8 55. Bxf1 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "11.4"]
 [White "Nakamura,Hi"]
 [Black "Caruana,F"]
@@ -648,7 +603,6 @@ Rb6 54. Rxg4+ Kf8 55. Bxf1 1-0
 [Variation "Moeller defence"]
 [WhiteFideId "2016192"]
 [BlackFideId "2020009"]
-[EventDate "2019.07.31"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. d3 b5 7. Bb3 O-O 8. a4 b4
 9. a5 d6 10. h3 Be6 11. Nbd2 Rb8 12. Nc4 Ne7 13. Ng5 Bd7 14. Be3 Bxe3 15. Nxe3
@@ -665,7 +619,6 @@ Ke6 Nd5 67. g6 Nf4+ 68. Kf5 Kh6 69. Rh7# 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "14.5"]
 [White "Nakamura,Hi"]
 [Black "Giri,A"]
@@ -678,7 +631,6 @@ Ke6 Nd5 67. g6 Nf4+ 68. Kf5 Kh6 69. Rh7# 1-0
 [Opening "Sicilian"]
 [WhiteFideId "2016192"]
 [BlackFideId "24116068"]
-[EventDate "2019.07.31"]
 
 1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. h3 Nc6 5. d4 cxd4 6. Nxd4 e5 7. Nxc6 bxc6 8.
 Bc4 Be7 9. O-O O-O 10. Qe2 Nd7 11. Rd1 Nb6 12. Bb3 a5 13. Be3 Ba6 14. Qg4 Kh8
@@ -690,7 +642,6 @@ b3 Be2 35. e6 Rb2 36. Rb7 Ra8 37. Rxf7+ Kg6 38. Rf2 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "18.2"]
 [White "Nakamura,Hi"]
 [Black "Dubov,Daniil"]
@@ -704,7 +655,6 @@ b3 Be2 35. e6 Rb2 36. Rb7 Ra8 37. Rxf7+ Kg6 38. Rf2 1-0
 [Variation "3.Nc3"]
 [WhiteFideId "2016192"]
 [BlackFideId "24126055"]
-[EventDate "2019.07.31"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Bb4 4. cxd5 exd5 5. Bf4 Nf6 6. e3 c5 7. Bd3 Nc6 8. Ne2
 c4 9. Bc2 O-O 10. Bg5 h6 11. Bh4 Be7 12. O-O Nd7 13. Bg3 Nf6 14. f3 Re8 15. e4

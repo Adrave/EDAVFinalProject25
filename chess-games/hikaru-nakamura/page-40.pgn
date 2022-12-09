@@ -1,6 +1,5 @@
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.01"]
 [Round "3.7"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -8,7 +7,6 @@
 [WhiteElo "2777"]
 [BlackElo "2767"]
 [ECO "C67"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Be7 13. c4 Nc7 
@@ -22,7 +20,6 @@ f3 44. Rc5 Kg7 45. Rg5+ 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.01"]
 [Round "3.19"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -30,7 +27,6 @@ f3 44. Rc5 Kg7 45. Rg5+ 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2767"]
 [ECO "C42"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 Be7 7. d4 
 O-O 8. Bd3 Nd7 9. O-O Nf6 10. Ne3 d5 11. Nf5 Bxf5 12. Bxf5 Re8 13. Re1 c6 
@@ -45,7 +41,6 @@ O-O 8. Bd3 Nd7 9. O-O Nf6 10. Ne3 d5 11. Nf5 Bxf5 12. Bxf5 Re8 13. Re1 c6
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.01"]
 [Round "3.11"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -53,7 +48,6 @@ O-O 8. Bd3 Nd7 9. O-O Nf6 10. Ne3 d5 11. Nf5 Bxf5 12. Bxf5 Re8 13. Re1 c6
 [WhiteElo "2777"]
 [BlackElo "2767"]
 [ECO "C68"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Be7 6. Nxe5 Qd4 7. Qh5 
 Be6 8. d3 Qc5 9. Be3 Qxc2 10. Nc3 Nf6 11. Qf3 Qxb2 12. Rfc1 Qa3 13. Rab1 
@@ -69,7 +63,6 @@ f4+ Kh6 55. g4 fxg4+ 56. Kxg4 Rb4 57. Kxh4 1/2-1/2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.12.01"]
 [Round "3.9"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -77,7 +70,6 @@ f4+ Kh6 55. g4 fxg4+ 56. Kxg4 Rb4 57. Kxh4 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2767"]
 [ECO "C67"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. d4 Ne8 10. d5 Bc5 11. Nd2 d6 12. Re1 Nf6 13. Nb3 Bb6 
@@ -94,7 +86,6 @@ Nd2 Bg6 27. Nb3 Ne4 28. cxd5 cxd5 29. Nc5 Nxc5 30. Bxc5 Bh2+ 31. Kh1 Bf4
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.17"]
 [Round "2.4"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -102,7 +93,6 @@ Nd2 Bg6 27. Nb3 Ne4 28. cxd5 cxd5 29. Nc5 Nxc5 30. Bxc5 Bh2+ 31. Kh1 Bf4
 [WhiteElo "2746"]
 [BlackElo "2781"]
 [ECO "A34"]
-[EventDate "2018.12.11"]
 
 1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. bxc3 g6 7. Bb5+ 
 Bd7 8. Be2 Bg7 9. O-O O-O 10. d4 Bc6 11. Ba3 cxd4 12. cxd4 Re8 13. Ne5 Qa5
@@ -119,7 +109,6 @@ Rh8+ 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.05"]
 [Round "11.1"]
 [White "Nakamura, Hikaru"]
 [Black "Bu, Xiangzhi"]
@@ -127,7 +116,6 @@ Rh8+ 1/2-1/2
 [WhiteElo "2763"]
 [BlackElo "2712"]
 [ECO "D17"]
-[EventDate "2018.09.24"]
 
 1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
 8. Ne5 a5 9. h4 e6 10. f3 h6 11. e4 Bh7 12. Be3 Nfd7 13. Nd3 Bd6 14. Ne2 
@@ -140,7 +128,6 @@ Kg3 Qb4 27. Qxb4 axb4 28. Rd4 Rxa4 29. Bb5 Ra7 30. Rxb4 Rb7 31. Rb3 Na7
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.28"]
 [Round "11.10"]
 [White "Nakamura, Hikaru"]
 [Black "Duda, Jan-Krzysztof"]
@@ -148,7 +135,6 @@ Kg3 Qb4 27. Qxb4 axb4 28. Rd4 Rxa4 29. Bb5 Ra7 30. Rxb4 Rb7 31. Rb3 Na7
 [WhiteElo "2746"]
 [BlackElo "2738"]
 [ECO "A05"]
-[EventDate "2018.12.26"]
 
 1. Nf3 Nf6 2. b3 b6 3. Bb2 Bb7 4. g3 g6 5. Bg2 Bg7 6. d4 O-O 7. c4 c5 8. 
 dxc5 bxc5 9. O-O d6 10. Nc3 Nbd7 11. Qc2 Rb8 12. Rad1 Ne4 13. Na4 Bxb2 14.
@@ -168,7 +154,6 @@ Kg7 Rxh6 81. Rxc2+ Kxc2 82. Kxh6 1/2-1/2
 
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.11"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -176,7 +161,6 @@ Kg7 Rxh6 81. Rxc2+ Kxc2 82. Kxh6 1/2-1/2
 [WhiteElo "2777"]
 [BlackElo "2779"]
 [ECO "D85"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 c5
 8. Rc1 cxd4 9. cxd4 Nc6 10. d5 Nd4 11. Be3 e5 12. Bc4 O-O 13. Ne2 Qh4 14. 
@@ -198,7 +182,6 @@ Kf3 Ke7 38. Bc4 Rbg6 39. Bf1 Rxd5 40. Rxb5 Rd4 41. Re5+ Kf6 42. Re4 Rxe4
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.17"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -206,7 +189,6 @@ Kf3 Ke7 38. Bc4 Rbg6 39. Bf1 Rxd5 40. Rxb5 Rd4 41. Re5+ Kf6 42. Re4 Rxe4
 [WhiteElo "2777"]
 [BlackElo "2779"]
 [ECO "D85"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 c5
 8. Rc1 cxd4 9. cxd4 Nc6 10. d5 Nd4 11. Be3 e5 12. Bc4 O-O 13. Ne2 Re8 14. 
@@ -219,7 +201,6 @@ Qh4 Qb2 27. Qd8+ Kg7 28. f5 Qxd2 29. f6+ Kh6 30. Qxd7 Rc1 31. Qh3+ Kg5 32.
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.10.11"]
 [Round "2.15"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -227,7 +208,6 @@ Qh4 Qb2 27. Qd8+ Kg7 28. f5 Qxd2 29. f6+ Kh6 30. Qxd7 Rc1 31. Qh3+ Kg5 32.
 [WhiteElo "2777"]
 [BlackElo "2779"]
 [ECO "D85"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bg5 c5
 8. Rc1 cxd4 9. cxd4 Nc6 10. d5 Nd4 11. Be3 e5 12. Bc4 O-O 13. Ne2 Re8 14. 
@@ -240,7 +220,6 @@ fxe5 39. fxe5 Bh6+ 40. Kxd3 Bf4 41. Kc4 Rxc3+ 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.02"]
 [Round "8.1"]
 [White "Nakamura, Hikaru"]
 [Black "Naiditsch, Arkadij"]
@@ -248,7 +227,6 @@ fxe5 39. fxe5 Bh6+ 40. Kxd3 Bf4 41. Kc4 Rxc3+ 1/2-1/2
 [WhiteElo "2763"]
 [BlackElo "2721"]
 [ECO "A29"]
-[EventDate "2018.09.24"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 
 8. bxc3 Re8 9. f3 e3 10. d3 d5 11. Qb3 Na5 12. Qa4 c6 13. cxd5 cxd5 14. f4
@@ -260,7 +238,6 @@ Kxh3 Re6 33. Rf1 Rg8 34. h5 h6 35. Rxg8+ Kxg8 36. Kh4 Ba4 37. Bc1 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "2.2"]
 [White "Nakamura, Hikaru"]
 [Black "Sarana, Alexey"]
@@ -268,7 +245,6 @@ Kxh3 Re6 33. Rf1 Rg8 34. h5 h6 35. Rxg8+ Kxg8 36. Kh4 Ba4 37. Bc1 1/2-1/2
 [WhiteElo "2746"]
 [BlackElo "2618"]
 [ECO "A06"]
-[EventDate "2018.12.29"]
 
 1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. Bxf6 exf6 5. e3 Bg7 6. g3 Nd7 7. Bg2 f5 
 8. d4 Nf6 9. O-O h5 10. c4 c6 11. Nc3 Ne4 12. Rc1 Be6 13. Ne2 g5 14. cxd5 
@@ -282,7 +258,6 @@ Re7+ Kf6 1/2-1/2
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.13"]
 [Round "1.3"]
 [White "Nakamura, Hikaru"]
 [Black "Caruana, Fabiano"]
@@ -290,7 +265,6 @@ Re7+ Kf6 1/2-1/2
 [WhiteElo "2746"]
 [BlackElo "2832"]
 [ECO "A20"]
-[EventDate "2018.12.11"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. Nf3 e4 5. Nd4 Qb6 6. Nc2 d5 7. O-O dxc4 8.
  Nc3 Na6 9. d3 exd3 10. exd3 Be7 11. Re1 Be6 12. dxc4 O-O 13. Be3 Qa5 14. 
@@ -307,7 +281,6 @@ Nd3 Rg2+ 56. Kf5 Bg3 57. Nf4 Rf2 58. Kg4 Bxf4 59. Rxf4 Rxa2 60. Kxh4 Ra6
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "8.5"]
 [White "Nakamura, Hikaru"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -315,7 +288,6 @@ Nd3 Rg2+ 56. Kf5 Bg3 57. Nf4 Rf2 58. Kg4 Bxf4 59. Rxf4 Rxa2 60. Kxh4 Ra6
 [WhiteElo "2746"]
 [BlackElo "2702"]
 [ECO "A06"]
-[EventDate "2018.11.13"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 Bd6 5. Bb2 b6 6. Nc3 a6 7. cxd5 exd5 8.
  d4 O-O 9. g3 Ne4 10. Nxe4 dxe4 11. Nd2 Bb7 12. Bg2 f5 13. O-O Nd7 14. f3 
@@ -328,7 +300,6 @@ e3 38. Qh5+ Kg8 39. Qe8+ Kh7 40. Qh5+ Kg8 41. Qe8+ 1/2-1/2
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.13"]
 [Round "6.1"]
 [White "Nakamura, Hikaru"]
 [Black "Karjakin, Sergey"]
@@ -336,7 +307,6 @@ e3 38. Qh5+ Kg8 39. Qe8+ Kh7 40. Qh5+ Kg8 41. Qe8+ 1/2-1/2
 [WhiteElo "2746"]
 [BlackElo "2753"]
 [ECO "A06"]
-[EventDate "2018.11.13"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 Be7 5. Bb2 O-O 6. Nc3 b6 7. cxd5 Nxd5 
 8. Nxd5 exd5 9. d4 a5 10. Bd3 Ba6 11. O-O Nd7 12. Rc1 Bd6 13. Ne5 Nf6 14. 
@@ -348,7 +318,6 @@ Rcd1 Qb7 21. exd5 Be3+ 22. Kh1 Nxd5 23. Ne5 Rae8 24. Qf5 f6 25. Nc4 Qc6
 
 [Event "Tata Steel India Blitz TB"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "2"]
 [White "Nakamura, Hikaru"]
 [Black "Anand, Viswanathan"]
@@ -356,7 +325,6 @@ Rcd1 Qb7 21. exd5 Be3+ 22. Kh1 Nxd5 23. Ne5 Rae8 24. Qf5 f6 25. Nc4 Qc6
 [WhiteElo "2746"]
 [BlackElo "2773"]
 [ECO "A13"]
-[EventDate "2018.11.14"]
 
 1. Nf3 d5 2. b3 Nf6 3. e3 c5 4. Bb2 e6 5. c4 Nc6 6. cxd5 exd5 7. Be2 Bd6 
 8. O-O O-O 9. d4 cxd4 10. Nxd4 Re8 11. Nd2 Bd7 12. Nxc6 bxc6 13. Rc1 a5 
@@ -374,7 +342,6 @@ Re2 68. Bf4 Re4 69. Rxe4 Bd5 70. e6+ Ke8 71. Kxh2 Bxe4 72. e7 Kxe7 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.28"]
 [Round "15.1"]
 [White "Nakamura, Hikaru"]
 [Black "Carlsen, Magnus"]
@@ -382,7 +349,6 @@ Re2 68. Bf4 Re4 69. Rxe4 Bd5 70. e6+ Ke8 71. Kxh2 Bxe4 72. e7 Kxe7 1/2-1/2
 [WhiteElo "2746"]
 [BlackElo "2835"]
 [ECO "D30"]
-[EventDate "2018.12.26"]
 
 1. d4 d5 2. c4 e6 3. Nf3 a6 4. Bg5 Be7 5. Bxe7 Nxe7 6. e3 O-O 7. Nc3 Nd7 
 8. Rc1 dxc4 9. Bxc4 c5 10. dxc5 Nxc5 11. b4 Qxd1+ 12. Rxd1 Nd7 13. O-O b5 
@@ -398,7 +364,6 @@ Kg3 56. Kf1 h4 57. Kg1 h3 58. Kh1 h2 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "21.3"]
 [White "Nakamura, Hikaru"]
 [Black "Nepomniachtchi, Ian"]
@@ -406,7 +371,6 @@ Kg3 56. Kf1 h4 57. Kg1 h3 58. Kh1 h2 1/2-1/2
 [WhiteElo "2746"]
 [BlackElo "2763"]
 [ECO "A14"]
-[EventDate "2018.12.29"]
 
 1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. c4 O-O 8. 
 cxd5 Nxd5 9. d4 Nd7 10. a3 c5 11. Nbd2 Rc8 12. Re1 cxd4 13. Nxd4 Nc3 14. 
@@ -416,7 +380,6 @@ Bxc3 Bxg2 15. Kxg2 Rxc3 16. Ne4 Rc8 17. a4 Nc5 18. Nxc5 Bxc5 19. Nf3 Qe7
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "12.5"]
 [White "Nakamura, Hikaru"]
 [Black "Aronian, Levon"]
@@ -424,7 +387,6 @@ Bxc3 Bxg2 15. Kxg2 Rxc3 16. Ne4 Rc8 17. a4 Nc5 18. Nxc5 Bxc5 19. Nf3 Qe7
 [WhiteElo "2746"]
 [BlackElo "2765"]
 [ECO "C68"]
-[EventDate "2018.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Be7 6. Nxe5 Qd4 7. Qh5 
 Be6 8. d3 Nf6 9. Nf3 Qxf2+ 10. Kxf2 Nxh5 11. h3 Nf6 12. Bf4 O-O-O 13. Nbd2
@@ -439,7 +401,6 @@ Re1 44. Kg2 Ra1 45. Ne2 Ke4 46. Ng3+ Kd5 47. bxa4 bxa4 48. Ne2 Kc4 49. c3
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "16.2"]
 [White "Nakamura, Hikaru"]
 [Black "Anand, Viswanathan"]
@@ -447,7 +408,6 @@ Re1 44. Kg2 Ra1 45. Ne2 Ke4 46. Ng3+ Kd5 47. bxa4 bxa4 48. Ne2 Kc4 49. c3
 [WhiteElo "2746"]
 [BlackElo "2773"]
 [ECO "C69"]
-[EventDate "2018.11.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5
 8. Ne2 Qxd1 9. Rxd1 Bd7 10. Nbc3 O-O-O 11. Be3 Re8 12. Rd2 Bc6 13. Rad1 b6
@@ -459,7 +419,6 @@ Nge2 Rd8 21. Nf4 Rxd2 22. Rxd2 Nd7 23. Ncd5 Bd8 24. Ne6 Re8 25. Nxd8 Bxd5
 
 [Event "Tata Steel India Blitz"]
 [Site "Kolkata IND"]
-[Date "2018.11.14"]
 [Round "18.3"]
 [White "Nakamura, Hikaru"]
 [Black "Praggnanandhaa, R"]
@@ -467,7 +426,6 @@ Nge2 Rd8 21. Nf4 Rxd2 22. Rxd2 Nd7 23. Ncd5 Bd8 24. Ne6 Re8 25. Nxd8 Bxd5
 [WhiteElo "2746"]
 [BlackElo "2530"]
 [ECO "A05"]
-[EventDate "2018.11.13"]
 
 1. Nf3 Nf6 2. e3 e6 3. b3 b6 4. Bb2 Bb7 5. g3 Be7 6. Bg2 O-O 7. c4 c5 8. 
 O-O d5 9. Qe2 Nc6 10. cxd5 Nxd5 11. Rd1 Bf6 12. d4 cxd4 13. Nxd4 Nxd4 14. 
@@ -485,7 +443,6 @@ Kd4 Ke7 69. Kc5 Na8 70. Kc6 Kd8 71. Kb7 Kd7 72. Kxa8 Kc7 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.27"]
 [Round "4.3"]
 [White "Nakamura, Hikaru"]
 [Black "Vidit, Santosh Gujrathi"]
@@ -493,7 +450,6 @@ Kd4 Ke7 69. Kc5 Na8 70. Kc6 Kd8 71. Kb7 Kd7 72. Kxa8 Kc7 1/2-1/2
 [WhiteElo "2763"]
 [BlackElo "2711"]
 [ECO "D38"]
-[EventDate "2018.09.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6
 8. e3 O-O 9. Be2 dxc4 10. O-O Bd7 11. Bxc4 Bxc3 12. bxc3 Rfd8 13. Be2 Be8 
@@ -505,7 +461,6 @@ Rfe1 bxc4 21. Qc3 Qc7 22. Rad1 Nb7 23. Bxc4 Qa5 24. Rc1 Qxc3 25. Rxc3 Na5
 
 [Event "10. London Classic 2018"]
 [Site "London ENG"]
-[Date "2018.12.15"]
 [Round "2.1"]
 [White "Nakamura, Hikaru"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -513,7 +468,6 @@ Rfe1 bxc4 21. Qc3 Qc7 22. Rad1 Nb7 23. Bxc4 Qa5 24. Rc1 Qxc3 25. Rxc3 Na5
 [WhiteElo "2746"]
 [BlackElo "2781"]
 [ECO "D87"]
-[EventDate "2018.12.11"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
 8. Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. Rc1 Bb7 12. Qd2 e6 13. Rfd1 Rc8 14. 
@@ -528,7 +482,6 @@ Bb5 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.28"]
 [Round "5.4"]
 [White "Nakamura, Hikaru"]
 [Black "Nabaty, Tamir"]
@@ -536,7 +489,6 @@ Bb5 1/2-1/2
 [WhiteElo "2763"]
 [BlackElo "2692"]
 [ECO "A13"]
-[EventDate "2018.09.24"]
 
 1. c4 e6 2. g3 d5 3. Bg2 dxc4 4. Qa4+ Qd7 5. Qxc4 c5 6. Qc2 Nc6 7. Nf3 Nf6
 8. O-O Be7 9. d3 O-O 10. Be3 Qc7 11. Nc3 Bd7 12. Rac1 Rac8 13. Rfd1 e5 14.
@@ -549,7 +501,6 @@ Re5 1/2-1/2
 
 [Event "PRO League All Stars St2"]
 [Site "chess.com INT"]
-[Date "2018.09.08"]
 [Round "3.7"]
 [White "Nakamura, Hikaru"]
 [Black "Le, Quang Liem"]
@@ -557,7 +508,6 @@ Re5 1/2-1/2
 [WhiteElo "2763"]
 [BlackElo "2715"]
 [ECO "B27"]
-[EventDate "2018.09.08"]
 
 1. Nf3 g6 2. e4 c5 3. c3 d5 4. e5 Nc6 5. Bb5 Qb6 6. Bxc6+ Qxc6 7. d4 Bg4 
 8. O-O Nh6 9. Nbd2 Nf5 10. h3 Bxf3 11. Nxf3 h5 12. dxc5 Qxc5 13. e6 fxe6 

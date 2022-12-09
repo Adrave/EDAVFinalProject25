@@ -1,6 +1,5 @@
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Benko Pal C (USA)"]
@@ -22,7 +21,6 @@ Ke8 30.Qb5+ Kf8 31.Rf3 Qd8 32.Qb4+ Ke8 33.Rg3 Rc5 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Barcza Gedeon (HUN)"]
@@ -43,7 +41,6 @@ Kh7 24.Rg3 Qe5 25.f4 Qe2 26.Kxb2 a5 27.Rd7 1-0
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gunsberger (ROM)"]
@@ -65,7 +62,6 @@ Bxe6 31.Qxe6 Qxe6 32.Rxe6 Rh8 33.Rae1 Rad8 34.d7+ 1-0
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Trifunovic Miroljub (SCG)"]
@@ -86,7 +82,6 @@ Rxa2+ 25.Kg1 Qxf1+ 26.Kxf1 g5 0-1
 
 [Event "Memorial J.Capablanca"]
 [Site "Habana (Cuba)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Wade Robert G (ENG)"]
@@ -109,7 +104,6 @@ Qf6 36.Rxe5 1-0
 
 [Event "Memorial L.Asztalos"]
 [Site "Miskolc (Hungary)"]
-[Date "1963.??.??"]
 [Round "14"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bilek Istvan (HUN)"]
@@ -130,7 +124,6 @@ Qe7 25.h5 h6 26.Qg3 a4 27.Rxf6 Rxf6 28.Qxe5 axb3 29.axb3 b6 30.b4 1-0
 
 [Event "Memorial L.Asztalos"]
 [Site "Miskolc (Hungary)"]
-[Date "1963.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Dely Peter (HUN)"]
@@ -155,7 +148,6 @@ Kd6 46.Kf2 1-0
 
 [Event "Memorial L.Asztalos"]
 [Site "Miskolc (Hungary)"]
-[Date "1963.??.??"]
 [Round "2"]
 [White "Tal Mikhail (LAT)"]
 [Black "Filip Miroslav (CZE)"]
@@ -178,7 +170,6 @@ Bxc5 32.Rd3 Bxd4 33.Rxd4 Qc5 34.Rf3 Ra8 35.Rxd5 Ra1+ 36.Kh2 Qg1+
 
 [Event "Memorial L.Asztalos"]
 [Site "Miskolc (Hungary)"]
-[Date "1963.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Forintos Gyozo V (HUN)"]
@@ -200,7 +191,6 @@ Nd3 25.Rd5 Nf4 26.Rd7 Ne2+ 27.Kf1 Nxc3 28.bxc3 Nf6 29.Rb7 a4
 
 [Event "Memorial L.Asztalos"]
 [Site "Miskolc (Hungary)"]
-[Date "1963.??.??"]
 [Round "4"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ghitescu Theodor (ROM)"]
@@ -223,7 +213,6 @@ Bd4+ 37.Rxd4 Rxe1+ 38.Qxe1 Qxf7 39.Qe5+ Qg7 40.Qxc5 Bc6 41.Rd2 1-0
 
 [Event "Memorial L.Asztalos"]
 [Site "Miskolc (Hungary)"]
-[Date "1963.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lengyel Laszlo (HUN)"]
@@ -255,7 +244,6 @@ Ra1 88.Kg3 Rg1+ 89.Kh3 Rg6 90.Bf4 Rg8 1/2-1/2
 
 [Event "Memorial L.Asztalos"]
 [Site "Miskolc (Hungary)"]
-[Date "1963.??.??"]
 [Round "6"]
 [White "Tal Mikhail (LAT)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -275,7 +263,6 @@ Nxe4 14.Nf5 Bc5 15.Be3 Bxe3 16.Nxe3 Nxe5 17.Nxd5 f5 18.Qd4 Nc6
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Grushevsky Aleksander (UZB)"]
@@ -295,7 +282,6 @@ Qxd7 1-0
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Hetman"]
@@ -316,7 +302,6 @@ Qc4 20.Bxe5 Rxe5 21.Qf7+ Kd7 22.Qg7 Rg5 23.Rd4 Qc5 24.Na4 Qa7
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -336,7 +321,6 @@ Nc5 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -359,7 +343,6 @@ Kc6 36.Be4+ Qxe4 37.Qa8+ Nb7 0-1
 
 [Event "Ch URS (team)"]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ustinov Georgy I (RUS)"]
@@ -381,7 +364,6 @@ Qc6 31.Re6 Rf8 32.Qxh7+ Ng7 33.Ne4 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -405,7 +387,6 @@ bxc4 36.bxc4 Rh3 37.Kd2 Bc3+ 38.Kc2 Bd4 39.f5 Rxa3 40.c5 dxc5
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "8"]
 [White "Tal Mikhail (LAT)"]
 [Black "Jimenez Eleazar (CUB)"]
@@ -426,7 +407,6 @@ Rb4 26.a3 Rb6 27.Ng5 Ne6 28.Nd5 Bxd5 29.exd5 Ng7 30.Ne4 Nh5 31.Nxd6 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Keres Paul (EST)"]
@@ -451,7 +431,6 @@ hxg6 42.Rxa5 Rb1 43.g3 e3 44.fxe3 Ne4 45.Ra8+ Kg7 46.Kg2 Rb2+
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "1"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kuijpers Frans A (NED)"]
@@ -474,7 +453,6 @@ Kh7 30.Qg6+ Kg8 31.Qf7+ Kh7 32.dxc5 Qxc5 33.Nd7 Qd4 34.Bxd6 Qxd6
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "14"]
 [White "Tal Mikhail (LAT)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -496,7 +474,6 @@ Rc8 20.Rc1 h6 21.dxe5 dxe5 22.Nd5 Nxd5 23.exd5 Nb7 24.Nxf7 Rxf7
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Padevsky Nikola (BUL)"]
@@ -517,7 +494,6 @@ Nxe5 25.dxe5 d4 26.e6 dxc3 27.exd7 Bg7 28.Nxc7 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "4"]
 [White "Tal Mikhail (LAT)"]
 [Black "Simagin Vladimir P (RUS)"]
@@ -539,7 +515,6 @@ Bb4 19.Bd2 Bxd2 20.Rxd2 Qa5 21.Red1 b5 22.d5 bxc4 23.dxc6 Rac8
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1963.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Vladimirov Boris T (RUS)"]

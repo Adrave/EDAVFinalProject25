@@ -8,7 +8,6 @@
 [Result "0-1"]
 [Round "10"]
 [TimeControl "900+10"]
-[Date "2022.07.12"]
 [WhiteClock "0:00:06"]
 [BlackClock "0:03:16"]
 
@@ -28,7 +27,6 @@
 [Result "0-1"]
 [Round "14"]
 [TimeControl "900+10"]
-[Date "2022.07.13"]
 [WhiteClock "0:00:12"]
 [BlackClock "0:00:27"]
 
@@ -48,7 +46,6 @@
 [Result "0-1"]
 [Round "10"]
 [TimeControl "5400+30"]
-[Date "2022.08.08"]
 [WhiteClock "0:29:09"]
 [BlackClock "0:11:06"]
 
@@ -68,7 +65,6 @@
 [Result "0-1"]
 [Round "04"]
 [TimeControl "180+1"]
-[Date "2022.08.23"]
 [WhiteClock "0:00:16"]
 [BlackClock "0:00:05"]
 
@@ -88,7 +84,6 @@
 [Result "0-1"]
 [Round "12"]
 [TimeControl "180+2"]
-[Date "2022.08.29"]
 [WhiteClock "0:00:14"]
 [BlackClock "0:00:24"]
 
@@ -108,7 +103,6 @@
 [Result "0-1"]
 [Round "16"]
 [TimeControl "180+2"]
-[Date "2022.08.29"]
 [WhiteClock "0:00:05"]
 [BlackClock "0:00:24"]
 
@@ -128,7 +122,6 @@
 [Result "0-1"]
 [Round "22"]
 [TimeControl "180+2"]
-[Date "2022.08.30"]
 [WhiteClock "0:00:54"]
 [BlackClock "0:00:36"]
 
@@ -148,7 +141,6 @@
 [Result "0-1"]
 [Round "01-03"]
 [TimeControl "900+2"]
-[Date "2022.09.16"]
 [WhiteClock "0:02:18"]
 [BlackClock "0:00:11"]
 
@@ -168,7 +160,6 @@
 [Result "0-1"]
 [Round "02-01"]
 [TimeControl "900+2"]
-[Date "2022.09.23"]
 [WhiteClock "0:00:05"]
 [BlackClock "0:00:17"]
 
@@ -188,7 +179,6 @@
 [Result "1-0"]
 [Round "06"]
 [TimeControl "900+10"]
-[Date "2022.10.15"]
 [WhiteClock "0:01:38"]
 [BlackClock "0:00:36"]
 
@@ -208,7 +198,6 @@
 [Result "1-0"]
 [Round "08"]
 [TimeControl "900+10"]
-[Date "2022.10.15"]
 [WhiteClock "0:03:13"]
 [BlackClock "0:00:14"]
 
@@ -228,7 +217,6 @@
 [Result "1-0"]
 [Round "12"]
 [TimeControl "900+10"]
-[Date "2022.10.16"]
 [WhiteClock "0:04:59"]
 [BlackClock "0:00:36"]
 
@@ -248,7 +236,6 @@
 [Result "1-0"]
 [Round "14"]
 [TimeControl "900+10"]
-[Date "2022.10.17"]
 [WhiteClock "0:01:57"]
 [BlackClock "0:00:09"]
 
@@ -268,7 +255,6 @@
 [Result "1-0"]
 [Round "02-04"]
 [TimeControl "900+10"]
-[Date "2022.10.19"]
 [WhiteClock "0:06:11"]
 [BlackClock "0:00:14"]
 
@@ -288,7 +274,6 @@
 [Result "1-0"]
 [Round "04-02"]
 [TimeControl "900+10"]
-[Date "2022.10.21"]
 [WhiteClock "0:00:49"]
 [BlackClock "0:00:11"]
 
@@ -308,7 +293,6 @@
 [Result "1-0"]
 [Round "06"]
 [TimeControl "180+1"]
-[Date "2022.11.10"]
 [WhiteClock "0:00:44"]
 [BlackClock "0:00:05"]
 
@@ -328,7 +312,6 @@
 [Result "1-0"]
 [Round "01"]
 [TimeControl "180+1"]
-[Date "2022.11.10"]
 [WhiteClock "0:01:54"]
 [BlackClock "0:01:20"]
 
@@ -348,7 +331,6 @@
 [Result "1-0"]
 [Round "01-04"]
 [TimeControl "900+10"]
-[Date "2022.11.14"]
 [WhiteClock "0:05:48"]
 [BlackClock "0:01:52"]
 
@@ -368,7 +350,6 @@
 [Result "1-0"]
 [Round "01"]
 [TimeControl "45m + 10s"]
-[Date "2022.11.20"]
 [WhiteClock "0:11:50"]
 [BlackClock "0:00:21"]
 
@@ -388,7 +369,6 @@
 [Result "1-0"]
 [Round "07-03"]
 [TimeControl "900+10"]
-[Date "2022.11.20"]
 [WhiteClock "0:17:25"]
 [BlackClock "0:02:28"]
 
@@ -408,7 +388,6 @@
 [Result "1-0"]
 [Round "05"]
 [TimeControl "45m + 10s"]
-[Date "2022.11.22"]
 [WhiteClock "0:04:18"]
 [BlackClock "0:00:22"]
 
@@ -428,7 +407,6 @@
 [Result "1-0"]
 [Round "02"]
 [TimeControl "1500+10"]
-[Date "2022.11.29"]
 [WhiteClock "0:06:40"]
 [BlackClock "0:00:44"]
 
@@ -448,7 +426,6 @@
 [Result "1-0"]
 [Round "02"]
 [TimeControl "180+2"]
-[Date "2022.12.03"]
 [WhiteClock "0:00:08"]
 [BlackClock "0:00:04"]
 
@@ -468,7 +445,6 @@
 [Result "1-0"]
 [Round "07"]
 [TimeControl "180+2"]
-[Date "2022.12.03"]
 [WhiteClock "0:01:37"]
 [BlackClock "0:00:05"]
 
@@ -488,7 +464,6 @@
 [Result "1-0"]
 [Round "10"]
 [TimeControl "180+2"]
-[Date "2022.12.04"]
 [WhiteClock "0:00:46"]
 [BlackClock "0:00:11"]
 

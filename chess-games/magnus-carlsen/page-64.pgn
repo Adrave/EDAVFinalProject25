@@ -1,6 +1,5 @@
 [Event "It (cat.9)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Peng Zhaoqin (NED)"]
@@ -24,7 +23,6 @@ Be3 42.Rg2 Re6 43.Rg7+ Kc8 44.Rg6 1-0
 
 [Event "It (cat.9)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Popov Valerij (RUS)"]
@@ -45,7 +43,6 @@ Rf8 19.c4 dxc4 20.Rxf8+ Kxf8 21.Qf4+ Ke8 22.Rf1 Ra7 23.Qf7+ Kd7
 
 [Event "It (cat.9)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Werle Jan (NED)"]
@@ -68,7 +65,6 @@ Rc6 36.exd5 Rc7 37.Bc3 1-0
 
 [Event "It (cat.9)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2004.01.24"]
 [Round "12"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ernst Sipke (NED)"]
@@ -89,7 +85,6 @@ Qa5 14.Kb1 O-O 15.Nxf6+ Nxf6 16.Ne5 Rad8 17.Qe2 c5 18.Ng6 fxg6
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.19"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Dolmatov Sergey (RUS)"]
@@ -108,7 +103,6 @@ Kd8 14.Rxe7 Qxe7 15.Qf4 Bd7 16.Ne4 d5 17.Nxf6 h6 18.Bh4 g5 19.Qd4 1-0
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.20"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Shaposhnikov Evgeny (RUS)"]
@@ -130,7 +124,6 @@ Rh8 24.Qg6 Rh1+ 25.Kb2 Rg1 26.Bg5 Rxg5 27.fxg5 Ne5 28.Qf6 Qd6
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2004.02.22"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Yakovich Yuri (RUS)"]
@@ -153,7 +146,6 @@ Qe4 31.Nb6 Qe2 32.Nxc8 Qxd1+ 33.Kg2 Nd6 34.Qd7 Qd3 35.Nxd6 a4
 
 [Event "It (open)"]
 [Site "Reykjavik (Iceland)"]
-[Date "2004.03.12"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Sedlak Nikola (SCG)"]
@@ -177,7 +169,6 @@ Qxa4 37.Qd5 Qb4 38.Ra2 Qb1 39.Rxa7 Qb2+ 40.Kd3 Qb1+ 41.Kc4 Qc1+
 
 [Event "It (open)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2004.04.20"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Deepan Chakkravarthy J (IND)"]
@@ -197,7 +188,6 @@ Qd4+ 19.Kh1 Qb4 20.Qe3 1-0
 
 [Event "It (open)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2004.04.22"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Vladimirov Evgeny (KAZ)"]
@@ -219,7 +209,6 @@ Bc8 26.Qd4 Rd7 27.Nxg7+ Bxg7 28.Qxg7 Rf8 29.Qxh6 b3 30.axb3 axb3
 
 [Event "It (open)"]
 [Site "Dubai (United Arab Emirates)"]
-[Date "2004.04.25"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ganguly Surya Shekhar (IND)"]
@@ -243,7 +232,6 @@ Nc7 36.Rd4+ Kc6 37.Bb4 Rf2 38.Rd6+ Kb7 39.Ba5 Rf1+ 40.Kd2 Rf2+
 
 [Event "It (cat.14)"]
 [Site "Malme (Sweden)/Copenhagen"]
-[Date "2004.05.06"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Nielsen Peter Heine (DEN)"]
@@ -266,7 +254,6 @@ Kxc8 37.Qe7 Qc7 38.Qe8+ Kb7 39.Qxa4 Rc4 40.Qd1 1-0
 
 [Event "It (cat.14)"]
 [Site "Malme (Sweden)/Copenhagen"]
-[Date "2004.05.09"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Agrest Evgenij (SWE)"]
@@ -292,7 +279,6 @@ f5 42.Rg7 f4 43.exf4 gxf4 44.Bxf4 Rxf2 45.Be5 Rf7 46.Rxf7 Kxf7
 
 [Event "Ch Norway (team) 2003/04 (final)"]
 [Site "Trondheim (Norway)"]
-[Date "2004.05.20"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Madsen Dag (NOR)"]
@@ -314,7 +300,6 @@ Kg8 26.Nxf6+ Rxf6 27.b5 Kh8 28.c6 bxc6 29.bxc6 a5 30.Qg5 Qf7
 
 [Event "Ch Norway"]
 [Site "Molde (Norway)"]
-[Date "2004.07.03"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Dannevig Oystein (NOR)"]
@@ -334,7 +319,6 @@ Nxe7 19.Re6+ Kb5 20.Bxf6 Rhd8 21.Rxd8 Rxd8 22.Re1 1-0
 
 [Event "Ch Norway"]
 [Site "Molde (Norway)"]
-[Date "2004.07.05"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Agdestein Simen (NOR)"]
@@ -357,7 +341,6 @@ Rgc7 36.R1b6 Qg7 37.Qf4 g5 38.Qd6 Rc1+ 1-0
 
 [Event "It (cat.16)"]
 [Site "Skanderborg (Denmark)"]
-[Date "2005.10.20"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -379,7 +362,6 @@ Qb5+ 31.Qc4 Qa5 32.Qc7 Qb5+ 33.Qc4 1/2-1/2
 
 [Event "It (cat.16)"]
 [Site "Skanderborg (Denmark)"]
-[Date "2005.10.23"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Hansen Curt (DEN)"]
@@ -404,7 +386,6 @@ Nb5 48.g3 1/2-1/2
 
 [Event "Ch Norway (play-off)"]
 [Site "Oslo (Norway)"]
-[Date "2005.11.09"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Agdestein Simen (NOR)"]
@@ -427,7 +408,6 @@ h5 31.Rf3 Rc8 32.Rb8 f6 33.Rxf6 Nxf6 34.Rxc8+ Qxc8 35.Qxf6 Qe8
 
 [Event "Ch Norway (play-off)"]
 [Site "Oslo (Norway)"]
-[Date "2005.11.10"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Agdestein Simen (NOR)"]
@@ -449,7 +429,6 @@ Rd6 31.Kh2 b6 32.Kg3 Rc8 33.Rxc8+ Bxc8 34.h4 Rd3 35.Rd1 1/2-1/2
 
 [Event "Cup World FIDE"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.07"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -471,7 +450,6 @@ g6 25.f5 Qh4+ 26.Qg3 Qxg3+ 27.Kxg3 gxf5 28.Rc8+ Kg7 29.Rxh8 Kxh8
 
 [Event "Cup World FIDE (places 9-16)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.09"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lautier Joel (FRA)"]
@@ -493,7 +471,6 @@ Rfd8 25.Rxc5 Rxc5 26.Bxc5 Rc8 27.Qe3 Bxc5 28.Rc1 g6 29.Rxc5 Qd1+
 
 [Event "Cup World FIDE (places 9-12)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.13"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Malakhov Vladimir (RUS)"]
@@ -519,7 +496,6 @@ Qxg6 54.Qxf4 Qg1+ 55.Kd2 Rg2+ 56.Rxg2+ Qxg2+ 57.Kd3 Qb2 1/2-1/2
 
 [Event "Cup World FIDE (places 9-12)"]
 [Site "Khanty Mansyisk (Russia)"]
-[Date "2005.12.14"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Malakhov Vladimir (RUS)"]
@@ -544,7 +520,6 @@ d4 42.exd4 exd4 43.Bf5 Bd5 44.Kd3 Bxf3 45.Kxd4 Kb7 46.Be4+ Bxe4
 
 [Event "2. Samba Cup"]
 [Site "Skanderborg DEN"]
-[Date "2005.10.23"]
 [Round "9"]
 [White "Carlsen, Magnus"]
 [Black "Hansen, Curt"]
@@ -552,7 +527,6 @@ d4 42.exd4 exd4 43.Bf5 Bd5 44.Kd3 Bxf3 45.Kxd4 Kb7 46.Be4+ Bxe4
 [WhiteElo "2570"]
 [BlackElo "2607"]
 [ECO "D61"]
-[EventDate "2005.10.14"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 h6 8.
  Bh4 c5 9. Rd1 Qa5 10. cxd5 Nxd5 11. Bxe7 Nxe7 12. Be2 Nd5 13. O-O Nxc3 

@@ -1,6 +1,5 @@
 [Event "Showdown Blitz 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.11.15"]
 [Round "8"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -9,7 +8,6 @@
 [WhiteElo "2787"]
 [BlackElo "2793"]
 [PlyCount "102"]
-[EventDate "2015.11.15"]
 [EventType "match (blitz)"]
 [EventRounds "8"]
 [EventCountry "USA"]
@@ -30,7 +28,6 @@ Qxc3+ 47. Kxc3 Kf6 48. g4 Kg5 49. Kxb3 Kf4 50. Kb4 Ke4 51. Kc5 g5 0-1
 
 [Event "Showdown Blitz 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.11.15"]
 [Round "6"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -39,7 +36,6 @@ Qxc3+ 47. Kxc3 Kf6 48. g4 Kg5 49. Kxb3 Kf4 50. Kb4 Ke4 51. Kc5 g5 0-1
 [WhiteElo "2787"]
 [BlackElo "2793"]
 [PlyCount "73"]
-[EventDate "2015.11.15"]
 [EventType "match (blitz)"]
 [EventRounds "8"]
 [EventCountry "USA"]
@@ -58,7 +54,6 @@ Kg6 29. Nf5 Qc7 30. Rc2 Qa7 31. Qe3 Bxf5 32. gxf5+ Kh7 33. Rdc1 Qb8 34. Rc7 Rc8
 
 [Event "Showdown Blitz 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.11.15"]
 [Round "4"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -67,7 +62,6 @@ Kg6 29. Nf5 Qc7 30. Rc2 Qa7 31. Qe3 Bxf5 32. gxf5+ Kh7 33. Rdc1 Qb8 34. Rc7 Rc8
 [WhiteElo "2787"]
 [BlackElo "2793"]
 [PlyCount "108"]
-[EventDate "2015.11.15"]
 [EventType "match (blitz)"]
 [EventRounds "8"]
 [EventCountry "USA"]
@@ -89,7 +83,6 @@ Ng6 54. Kh3 Nxf4+ 0-1
 
 [Event "Showdown Rapid 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.11.14"]
 [Round "4"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -98,7 +91,6 @@ Ng6 54. Kh3 Nxf4+ 0-1
 [WhiteElo "2787"]
 [BlackElo "2793"]
 [PlyCount "99"]
-[EventDate "2015.11.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -119,7 +111,6 @@ Kd4 41. Nc6+ Ke3 42. Rf3+ Ke2 43. Nd4+ Ke1 44. Rg3 Be4 45. Re3+ Kf1 46. Rxe4 d2
 
 [Event "Showdown Rapid 2015"]
 [Site "Saint Louis USA"]
-[Date "2015.11.14"]
 [Round "2"]
 [White "Caruana, F."]
 [Black "Nakamura, Hi"]
@@ -128,7 +119,6 @@ Kd4 41. Nc6+ Ke3 42. Rf3+ Ke2 43. Nd4+ Ke1 44. Rg3 Be4 45. Re3+ Kf1 46. Rxe4 d2
 [WhiteElo "2787"]
 [BlackElo "2793"]
 [PlyCount "41"]
-[EventDate "2015.11.14"]
 [EventType "swiss (rapid)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -145,7 +135,6 @@ Bxe5 1-0
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.11"]
 [Round "2.3"]
 [White "Caruana, F."]
 [Black "Saric, Iv"]
@@ -154,7 +143,6 @@ Bxe5 1-0
 [WhiteElo "2820"]
 [BlackElo "2666"]
 [PlyCount "85"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -173,7 +161,6 @@ Qh6 41. Qe1 Bxf5 42. gxf5 Rxd5 43. Nxe4 1-0
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.16"]
 [Round "6.4"]
 [White "Caruana, F."]
 [Black "Carlsen, M."]
@@ -182,7 +169,6 @@ Qh6 41. Qe1 Bxf5 42. gxf5 Rxd5 43. Nxe4 1-0
 [WhiteElo "2820"]
 [BlackElo "2862"]
 [PlyCount "78"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -200,7 +186,6 @@ Ke1 Rxe4+ 35. Kd1 c5 36. Kc2 cxd4 37. Kd3 Re2 38. c4 Rxf2 39. Rd1 Re2 0-1
 
 [Event "77th Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2015.01.25"]
 [Round "13.2"]
 [White "Caruana, F."]
 [Black "Vachier Lagrave, M."]
@@ -209,7 +194,6 @@ Ke1 Rxe4+ 35. Kd1 c5 36. Kc2 cxd4 37. Kd3 Re2 38. c4 Rxf2 39. Rd1 Re2 0-1
 [WhiteElo "2820"]
 [BlackElo "2757"]
 [PlyCount "70"]
-[EventDate "2015.01.10"]
 [EventType "tourn"]
 [EventRounds "13"]
 [EventCountry "NED"]
@@ -227,7 +211,6 @@ Rfe1 Bd3+ 35. Re4 Bf6 0-1
 
 [Event "4th Zurich CC Rapid"]
 [Site "Zurich SUI"]
-[Date "2015.02.19"]
 [Round "2.2"]
 [White "Caruana, F."]
 [Black "Karjakin, Sergey"]
@@ -236,7 +219,6 @@ Rfe1 Bd3+ 35. Re4 Bf6 0-1
 [WhiteElo "2811"]
 [BlackElo "2760"]
 [PlyCount "77"]
-[EventDate "2015.02.19"]
 [EventType "tourn"]
 [EventRounds "5"]
 [EventCountry "SUI"]
@@ -254,7 +236,6 @@ Bc5 35. Kh1 Qb4 36. Qa6 d3 37. Qc8+ Kg7 38. Qc7+ Kg8 39. Qf7+ 1-0
 
 [Event "Vugar Gashimov Mem 2015"]
 [Site "Shamkir AZE"]
-[Date "2015.04.24"]
 [Round "7.4"]
 [White "Caruana, F."]
 [Black "So, W."]
@@ -263,7 +244,6 @@ Bc5 35. Kh1 Qb4 36. Qa6 d3 37. Qc8+ Kg7 38. Qc7+ Kg8 39. Qf7+ 1-0
 [WhiteElo "2802"]
 [BlackElo "2788"]
 [PlyCount "101"]
-[EventDate "2015.04.17"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "AZE"]
@@ -283,7 +263,6 @@ a6 47. h5 gxh5 48. f5+ Kd6 49. gxh5 Ne5 50. Ke3 Nf7 51. Bg7 1-0
 
 [Event "KM FIDE GP 2015"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2015.05.16"]
 [Round "3.3"]
 [White "Caruana, F."]
 [Black "Tomashevsky, E."]
@@ -292,7 +271,6 @@ a6 47. h5 gxh5 48. f5+ Kd6 49. gxh5 Ne5 50. Ke3 Nf7 51. Bg7 1-0
 [WhiteElo "2803"]
 [BlackElo "2749"]
 [PlyCount "81"]
-[EventDate "2015.05.14"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "RUS"]
@@ -311,7 +289,6 @@ Qf5 41. Qc3 1-0
 
 [Event "3rd Norway Blitz 2015"]
 [Site "Stavanger NOR"]
-[Date "2015.06.15"]
 [Round "7.2"]
 [White "Caruana, F."]
 [Black "Grischuk, A."]
@@ -320,7 +297,6 @@ Qf5 41. Qc3 1-0
 [WhiteElo "2805"]
 [BlackElo "2781"]
 [PlyCount "103"]
-[EventDate "2015.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -340,7 +316,6 @@ Qa7 Kg8 48. Qb8+ Kh7 49. Qb7 Kg8 50. Qc8+ Kh7 51. Qxe6 e3 52. Be5 1-0
 
 [Event "3rd Norway Chess 2015"]
 [Site "Stavanger NOR"]
-[Date "2015.06.17"]
 [Round "2.4"]
 [White "Caruana, F."]
 [Black "Carlsen, M."]
@@ -349,7 +324,6 @@ Qa7 Kg8 48. Qb8+ Kh7 49. Qb7 Kg8 50. Qc8+ Kh7 51. Qxe6 e3 52. Be5 1-0
 [WhiteElo "2805"]
 [BlackElo "2876"]
 [PlyCount "89"]
-[EventDate "2015.06.16"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -370,7 +344,6 @@ c5 41. g6 Re8 42. f5 exf5+ 43. Kf4 Rh8 44. Nxf5 Bf6 45. Rg2 1-0
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.07.01"]
 [Round "4.4"]
 [White "Caruana, F."]
 [Black "Naiditsch, A."]
@@ -379,7 +352,6 @@ c5 41. g6 Re8 42. f5 exf5+ 43. Kf4 Rh8 44. Nxf5 Bf6 45. Rg2 1-0
 [WhiteElo "2805"]
 [BlackElo "2722"]
 [PlyCount "81"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -398,7 +370,6 @@ exd6 Nc6 35. Ne1 a5 36. Nd3 b4 37. h4 Nd4 38. Kh2 Bb5 39. Ne5 Kf6 40. c6 Bxc6
 
 [Event "43rd GM 2015"]
 [Site "Dortmund GER"]
-[Date "2015.07.04"]
 [Round "6.1"]
 [White "Caruana, F."]
 [Black "Hou Yifan"]
@@ -407,7 +378,6 @@ exd6 Nc6 35. Ne1 a5 36. Nd3 b4 37. h4 Nd4 38. Kh2 Bb5 39. Ne5 Kf6 40. c6 Bxc6
 [WhiteElo "2805"]
 [BlackElo "2676"]
 [PlyCount "77"]
-[EventDate "2015.06.27"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
@@ -425,7 +395,6 @@ Kh1 Qe2 35. Rg1 Qf3+ 36. Rg2 g6 37. hxg6 Qf1+ 38. Kh2 Qxc1 39. Qf6 1-0
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.20"]
 [Round "3.1"]
 [White "Caruana, F."]
 [Black "Jobava, Ba"]
@@ -434,7 +403,6 @@ Kh1 Qe2 35. Rg1 Qf3+ 36. Rg2 g6 37. hxg6 Qf1+ 38. Kh2 Qxc1 39. Qf6 1-0
 [WhiteElo "2796"]
 [BlackElo "2683"]
 [PlyCount "63"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -452,7 +420,6 @@ Qf3 a4 28. e6 axb3 29. Qxb3 Ra4 30. Qc3+ Nd4 31. b3 Kh7 32. Rd2 1-0
 
 [Event "31st ECC Open 2015"]
 [Site "Skopje MKD"]
-[Date "2015.10.19"]
 [Round "2.1"]
 [White "Caruana, F."]
 [Black "Fish, G."]
@@ -461,7 +428,6 @@ Qf3 a4 28. e6 axb3 29. Qxb3 Ra4 30. Qc3+ Nd4 31. b3 Kh7 32. Rd2 1-0
 [WhiteElo "2796"]
 [BlackElo "2460"]
 [PlyCount "63"]
-[EventDate "2015.10.18"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "FRM"]
@@ -480,7 +446,6 @@ Qe4 Qxe4 27. dxe4 Re8 28. f3 Re5 29. b4 a5 30. Rb6 axb4 31. Rxc6 Rb5 32. Rd6
 
 [Event "Millionaire Chess Op 2015"]
 [Site "Las Vegas USA"]
-[Date "2015.10.10"]
 [Round "5.7"]
 [White "Caruana, F."]
 [Black "Azarov, S."]
@@ -489,7 +454,6 @@ Qe4 Qxe4 27. dxe4 Re8 28. f3 Re5 29. b4 a5 30. Rb6 axb4 31. Rxc6 Rb5 32. Rd6
 [WhiteElo "2796"]
 [BlackElo "2580"]
 [PlyCount "57"]
-[EventDate "2015.10.08"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -505,7 +469,6 @@ fxg6 fxg6 29. Be2 1-0
 
 [Event "Millionaire Chess Op 2015"]
 [Site "Las Vegas USA"]
-[Date "2015.10.11"]
 [Round "7.6"]
 [White "Caruana, F."]
 [Black "Indjic, A."]
@@ -514,7 +477,6 @@ fxg6 fxg6 29. Be2 1-0
 [WhiteElo "2796"]
 [BlackElo "2569"]
 [PlyCount "71"]
-[EventDate "2015.10.08"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -531,7 +493,6 @@ Rxa7 28. d6 b6 29. d7 Ra8 30. Qe6+ Kh8 31. Qxb6 h5 32. Rf5 hxg4 33. Rh5+ Kg8
 
 [Event "Millionaire Chess Op 2015"]
 [Site "Las Vegas USA"]
-[Date "2015.10.08"]
 [Round "1.2"]
 [White "Caruana, F."]
 [Black "Inants, A."]
@@ -540,7 +501,6 @@ Rxa7 28. d6 b6 29. d7 Ra8 30. Qe6+ Kh8 31. Qxb6 h5 32. Rf5 hxg4 33. Rh5+ Kg8
 [WhiteElo "2796"]
 [BlackElo "2332"]
 [PlyCount "91"]
-[EventDate "2015.10.08"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "USA"]
@@ -558,7 +518,6 @@ Bd7 35. Kg2 a4 36. g4 fxg4 37. Kg3 axb3 38. axb3 Kf7 39. Kxg4 Rd4 40. Ne5+ Bxe5
 
 [Event "8th London Classic 2016"]
 [Site "London ENG"]
-[Date "2016.12.09"]
 [Round "1.2"]
 [White "Caruana, F."]
 [Black "Anand, V."]
@@ -567,7 +526,6 @@ Bd7 35. Kg2 a4 36. g4 fxg4 37. Kg3 axb3 38. axb3 Kf7 39. Kxg4 Rd4 40. Ne5+ Bxe5
 [WhiteElo "2823"]
 [BlackElo "2779"]
 [PlyCount "87"]
-[EventDate "2016.12.09"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -585,7 +543,6 @@ Nfd7 35. Bc3 Qe3 36. Ba1 Re8 37. Qb2 Nf6 38. Qd4 b6 39. Qxe3 Rxe3 40. Bd4 Rd3
 
 [Event "8th London Classic 2016"]
 [Site "London ENG"]
-[Date "2016.12.17"]
 [Round "8.1"]
 [White "Caruana, F."]
 [Black "So, W."]
@@ -594,7 +551,6 @@ Nfd7 35. Bc3 Qe3 36. Ba1 Re8 37. Qb2 Nf6 38. Qd4 b6 39. Qxe3 Rxe3 40. Bd4 Rd3
 [WhiteElo "2823"]
 [BlackElo "2794"]
 [PlyCount "74"]
-[EventDate "2016.12.09"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "ENG"]
@@ -611,14 +567,12 @@ Bd3 Bd6 34. Kf2 Kf6 35. Re8 Rd5 36. Ke2 Re5+ 37. Rxe5 Kxe5 1/2-1/2
 
 [Event "chess.com QF Blitz 1m+1spm Chess960 2016"]
 [Site "chess.com INT"]
-[Date "2016.05.10"]
 [Round "17"]
 [White "Caruana, Fabiano"]
 [Black "Vachier-Lagrave, Maxime"]
 [Result "1/2-1/2"]
 [BlackElo "2788"]
 [ECO "C10"]
-[EventDate "2016.04.06"]
 [WhiteElo "2795"]
 
 1. d4 d5 2. Nc3 e6 3. e4 Nc6 4. e5 f6 5. f4 g5 6. exf6 Qxf6 7. fxg5 Qxd4
@@ -630,7 +584,6 @@ Bd3 Bd6 34. Kf2 Kf6 35. Re8 Rd5 36. Ke2 Re5+ 37. Rxe5 Kxe5 1/2-1/2
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.11"]
 [Round "1.1"]
 [White "Caruana, Fabiano"]
 [Black "Zaibi, Amir"]
@@ -638,7 +591,6 @@ Bd3 Bd6 34. Kf2 Kf6 35. Re8 Rd5 36. Ke2 Re5+ 37. Rxe5 Kxe5 1/2-1/2
 [WhiteElo "2808"]
 [BlackElo "2330"]
 [ECO "D90"]
-[EventDate "2015.09.11"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. cxd5 cxd5 6. Bf4 Bg7 7. e3 O-O 
 8. Bd3 Nc6 9. h3 Be6 10. O-O Rc8 11. Rc1 Nb4 12. Be2 Ne4 13. Qb3 Qa5 14. 
@@ -649,7 +601,6 @@ a3 Nxc3 15. bxc3 Nc6 16. Ng5 Bf5 17. g4 f6 18. Nxh7 Kxh7 19. gxf5 gxf5 20.
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.17"]
 [Round "3.1"]
 [White "Caruana, Fabiano"]
 [Black "Kovalyov, Anton"]
@@ -657,7 +608,6 @@ a3 Nxc3 15. bxc3 Nc6 16. Ng5 Bf5 17. g4 f6 18. Nxh7 Kxh7 19. gxf5 gxf5 20.
 [WhiteElo "2808"]
 [BlackElo "2616"]
 [ECO "B90"]
-[EventDate "2015.09.11"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 
 8. f3 e5 9. Nb3 Be6 10. Be3 h5 11. Qd2 Nbd7 12. Nd5 Bxd5 13. exd5 Qc7 14. 

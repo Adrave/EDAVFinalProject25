@@ -1,6 +1,5 @@
 [Event ""]
 [Site "corr."]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kraichik M"]
@@ -24,7 +23,6 @@ g5 42.b6 Ka6 43.Kc6 gxh4 44.b7 Ka7 45.Kc7 hxg3 46.b8Q+ 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Aleksandrov N (RUS)"]
@@ -46,7 +44,6 @@ Bd7 26.Bxd7 Qxd7 27.g4 Ne4 28.Nf2 Rac8 29.Nxe4 Rxe4 30.Rh2 Qa4
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gottesman L"]
@@ -67,7 +64,6 @@ f6 25.Qxe4 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Manko V M"]
@@ -90,7 +86,6 @@ Bd4 26.Re7 Bc3 27.Rxf7 Kxf7 28.Re2 Bxd2 29.Rxd2 Rc8 30.Re2 Bd7
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Omelyansky P"]
@@ -110,7 +105,6 @@ Nd3+ 14.Kf1 Be6 15.Nd4 Qc4 16.Nge2 O-O-O 17.Qb3 Bf7 18.Qxc4 Bxc4
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Petrov S (RUS)"]
@@ -130,7 +124,6 @@ Rxg3 19.fxg3 Re8 20.e6 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Urusov N"]
@@ -152,7 +145,6 @@ Qb1+ 30.Kg2 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Utkin P P (RUS)"]
@@ -175,7 +167,6 @@ Kg6 35.Kg3 c5 36.Rf3 b5 37.b3 a5 38.h4 Be6 39.Rf2 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1902.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Zubakin Nikolay Yefimovich"]
@@ -195,7 +186,6 @@ Nxd2 19.Kxd2 Rxd4+ 20.exd4 Bf4+ 0-1
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Aleksandrov N (RUS)"]
@@ -215,7 +205,6 @@ Kf8 19.f3 Re8 20.Kf2 Rxe1 21.Kxe1 Ke7 22.b4 Ne8 23.Ke2 h6 1/2-1/2
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Antushev S"]
@@ -236,7 +225,6 @@ Re8 26.Rd7 Qb8 27.Qxc6+ Bc7 28.e7 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Chernyavsky B"]
@@ -256,7 +244,6 @@ Bf2 20.Re2 Bxg3 21.Bf5 exf5 22.hxg3 Nh5 23.Qe1 Qb6 24.Nd2 Qh6 0-1
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Myaskov I"]
@@ -277,7 +264,6 @@ Qc6 25.Qd4 0-1
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Urusov N"]
@@ -296,7 +282,6 @@ Ng5 14.Nxg5 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1903.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vinogradov"]
@@ -319,7 +304,6 @@ Kh6 37.h3 0-1
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1905.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Andriyashev A"]
@@ -341,7 +325,6 @@ a6 25.Re3 Kg7 26.Rg3+ Kf6 27.Rf3 Ke5 28.Re3+ Kf6 29.Nd5+ Nxd5
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1905.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Geish Ollisevich R"]
@@ -361,7 +344,6 @@ Rg7 20.Rh6 Rxf7 21.Bxf7 Bd7 22.Rh7 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1905.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Omelyansky P"]
@@ -379,7 +361,6 @@ Qh4+ 8.g3 fxg3+ 9.Kg2 Bd6 10.Qe1+ Nce7 11.hxg3 Qxd4 12.Bd3 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1905.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Shakhovsky F"]
@@ -402,7 +383,6 @@ Qe1+ 1/2-1/2
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1905.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Giese A"]
@@ -426,7 +406,6 @@ Ne4 36.Rxe4 Bxe4 37.Rxg4 d3 38.Rxg7+ Kh6 39.Rg1 Rc2 40.Rd1 Kh5
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1905.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Manko V M"]
@@ -447,7 +426,6 @@ b5 19.Bb3 c6 20.h4 d5 21.Re1 f6 22.Re7 Nf7 23.Qe1 Ng5 24.g4 Nf3+
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1905.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Urusov N"]
@@ -470,7 +448,6 @@ Rdd8 30.Qg7 Qb4 31.c3 Qc5+ 32.Kg2 a6 33.e7 Rde8 34.Qxh8 Rxh8
 
 [Event "corr."]
 [Site "Russia"]
-[Date "1906.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Zhukovsky V"]
@@ -493,14 +470,12 @@ Qh1+ 25.Ng1 Ng4 26.Rh5 Qxh5 27.Nh3 Qb5+ 28.Kg1 Qb6+ 29.Kh1 Nf2+
 
 [Event "Shakhmatnoe Obozrenie theme 16th corr"]
 [Site "Russia"]
-[Date "1905.09.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "V M Manko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1905.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -513,14 +488,12 @@ Qh1+ 25.Ng1 Ng4 26.Rh5 Qxh5 27.Nh3 Qb5+ 28.Kg1 Qb6+ 29.Kh1 Nf2+
 
 [Event "Shakhmatnoe Obozrenie Corr. 16"]
 [Site "?"]
-[Date "1905.09.22"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "N Urusov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "1905.??.??"]
 [PlyCount "63"]
 [WhiteElo "?"]
 

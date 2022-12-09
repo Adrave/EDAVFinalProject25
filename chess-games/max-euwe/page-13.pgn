@@ -1,6 +1,5 @@
 [Event "Game (exhibition)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1937.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -21,7 +20,6 @@ Rda7 25.Nc2 Ra2 26.Ne3 Rxb2 27.Qxb2 Be6 28.Ra1 1/2-1/2
 
 [Event "It"]
 [Site "Bad Nauheim (Germany)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -44,7 +42,6 @@ h5 37.Qe6 1-0
 
 [Event "It"]
 [Site "Bad Nauheim (Germany)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -65,7 +62,6 @@ bxc5 15.bxc5 Qa5 16.Bd3 Nh4 17.Nxh4 Bxh4 18.Bd6 Re8 19.O-O e5
 
 [Event "It"]
 [Site "Bad Nauheim (Germany)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -89,7 +85,6 @@ Kf8 30.Bg4 Rc6 31.Bxe6 Rxe6 32.Qxh7 Qg5 33.Rf1 Kf7 34.e4 Rc6
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -114,7 +109,6 @@ Rc1 47.Ra4 h6 48.Ra7+ Kg8 49.g5 Rc4+ 50.Ke5 1-0
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -137,7 +131,6 @@ Rg8 25.Rg3 Rxg3 26.hxg3 Bd5 27.Bb3 Bxb3 28.axb3 Ke8 29.b4 Rb8
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -159,7 +152,6 @@ Rxf3 31.Rxf3 Rxh2+ 32.Rh3 g5+ 33.Kxg5 Rxh3 34.Bd1 Ne4+ 0-1
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "9"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -182,7 +174,6 @@ Nxa4 31.Rc1 Qxf2+ 32.Kxf2 Rb4 33.g3 Rd8 34.Ke2 Nb6 35.Nd2 g5
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "11"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -204,7 +195,6 @@ Ra1 25.Na3 Ba6 26.Rb3 Nd3 27.exf5 Nxb2 28.Rxb2 Rxa3+ 29.Kf2 Rd6
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "13"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -232,7 +222,6 @@ Kd4 58.Rb3 Rxb3+ 59.Nxb3+ Ke5 60.g3 Nc6 61.h4 Nd8 62.Nc5 Nf7
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "15"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -259,7 +248,6 @@ Kg6 59.Qg8+ Kf6 60.Qd8+ Kf5 61.Qc8+ Ke5 62.Qb8+ 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "17"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -283,7 +271,6 @@ Rc6 36.a5 Qe2 37.Qd5 Rc1 38.Qxf7 Qf1+ 39.Kf3 Qd1+ 40.Kf4 Qd2+
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "19"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -308,7 +295,6 @@ g5 42.b4 Kg6 43.b5 f5 44.b6 Ra3+ 45.Kf2 a6 46.Rb8 Rd3 47.b7 Rb3
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "21"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -330,7 +316,6 @@ Rxf4 31.Qh3 Rg4+ 32.Kf2 h6 0-1
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "23"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -355,7 +340,6 @@ b2 49.Kf4 Rc4+ 50.Ke3 Rc2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Netherlands"]
-[Date "1937.??.??"]
 [Round "25"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -379,7 +363,6 @@ Rb1 25.Qf4 Nxe4 26.h4 Re8 27.Re1 Qc3 28.Rd1 Nd2 29.Rxd2 Rxc1+
 
 [Event "Game (exhibition)"]
 [Site "Rotterdam (Netherlands)"]
-[Date "1937.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -402,7 +385,6 @@ Ne2+ 37.Kf1 Nxg3+ 38.hxg3 Qh1+ 39.Ke2 Qh5+ 40.Kd2 Qf7 41.Ke1 1-0
 
 [Event "Olympiad"]
 [Site "Stockholm (Sweden)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Gilfer Eggert"]
@@ -425,7 +407,6 @@ fxg3 31.fxg3 e4 32.Qc3 Qe6 33.Qe3 Kf7 34.Rf1 Rh8 35.Rxf6+ Kxf6
 
 [Event "Olympiad"]
 [Site "Stockholm (Sweden)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -448,7 +429,6 @@ Rc2 37.Rxb3 Rf6 38.f4 Rxg2 39.Kf1 Rxh2 40.Kg1 1-0
 
 [Event "Olympiad"]
 [Site "Stockholm (Sweden)"]
-[Date "1937.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Petrov Vladimir M (LAT)"]
@@ -473,7 +453,6 @@ Ne3+ 42.Kc5 Ke6 43.Kxb5 Kxe5 44.Kc5 Nd5 45.b5 Nc3 46.Nc7 Ke4
 
 [Event "It \"AVRO\""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1938.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Keres Paul (EST)"]
@@ -496,7 +475,6 @@ Rxd1+ 20.Qxd1 Nc4 21.Bc1 e5 22.Qb3 Bd5 23.Nd2 e4 24.Nxc4 Qe6
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1938.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Pirc Vasja (YUG)"]
@@ -519,7 +497,6 @@ Ne6 36.Qc6 Qd3 37.Qd7 Qc2+ 38.Kf3 Nd8 39.Qd5 Ne6 40.Qd7 1/2-1/2
 
 [Event "It"]
 [Site "Nordwijk-aan-Zee (Netherlands)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -543,14 +520,12 @@ Rh7 41.h6 b5 42.Ne5+ Kc3 43.Nc6 f5 1/2-1/2
 
 [Event "AVRO"]
 [Site "The Netherlands"]
-[Date "1938.11.20"]
 [Round "10"]
 [White "Max Euwe"]
 [Black "Alexander Alekhine"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "1938.11.06"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -566,14 +541,12 @@ Rh7 41.h6 b5 42.Ne5+ Kc3 43.Nc6 f5 1/2-1/2
 
 [Event "Bad Nauheim-Stuttgart-Garmisch"]
 [Site "Bad Nauheim - Stuttgart - Garmisch   GER"]
-[Date "1937.07.22"]
 [Round "4"]
 [White "Max Euwe"]
 [Black "Friedrich Saemisch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E38"]
-[EventDate "1937.07.18"]
 [PlyCount "87"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Ch France (juniors)"]
 [Site "France"]
-[Date "1998.??.??"]
 [Round "9"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bruned Boris (ESP)"]
@@ -21,7 +20,6 @@ Kh8 25.Qg7# 1-0
 
 [Event "Ch World (juniors) (under 10)"]
 [Site "Oropesa (Spain)"]
-[Date "1999.??.??"]
 [Round "2"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Li Haoyu (CHN)"]
@@ -44,7 +42,6 @@ Rc1 37.g4 Rh1+ 38.Kg3 Qg1 39.Re4 Qh2+ 40.Kf2 Rg1 0-1
 
 [Event "It (open)"]
 [Site "Val Thorens (France)"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Cosma Ioan (ROM)"]
@@ -71,7 +68,6 @@ Ka7 59.Qb5 Qxe1 60.Qd7+ Ka6 61.Qb5+ Ka7 62.Qd7+ 1/2-1/2
 
 [Event "Ch France (juniors)"]
 [Site "France"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Ribeiro Romain (FRA)"]
@@ -80,7 +76,6 @@ Ka7 59.Qb5 Qxe1 60.Qd7+ Ka6 61.Qb5+ Ka7 62.Qd7+ 1/2-1/2
 [WhiteElo "2542"]
 [BlackElo "2098"]
 [PlyCount "49"]
-[EventDate "1998.??.??"]
 
 1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 d6 6. f4 Nc6 7. Nc3 dxe5 8.
 fxe5 e6 9. Nf3 Bb4 10. Qd3 Bd7 11. Bd2 Nce7 12. Be2 Rc8 13. O-O a6 14. Ng5 Nxc3
@@ -90,7 +85,6 @@ fxe5 e6 9. Nf3 Bb4 10. Qd3 Bd7 11. Bd2 Nce7 12. Be2 Rc8 13. O-O a6 14. Ng5 Nxc3
 
 [Event "Ch France (juniors) (under 10)"]
 [Site "France"]
-[Date "1999.??.??"]
 [Round "5"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bonnet Edouard (FRA)"]
@@ -99,7 +93,6 @@ fxe5 e6 9. Nf3 Bb4 10. Qd3 Bd7 11. Bd2 Nce7 12. Be2 Rc8 13. O-O a6 14. Ng5 Nxc3
 [WhiteElo "2542"]
 [BlackElo "2147"]
 [PlyCount "24"]
-[EventDate "1999.??.??"]
 
 1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 d4 5. Nce2 Nc6 6. f4 d3 7. cxd3 Qxd3 8. Nh3
 Nd4 9. Nxd4 Qxd4 10. d3 c4 11. dxc4 Bb4+ 12. Kf1 Qxd1+ 0-1
@@ -107,7 +100,6 @@ Nd4 9. Nxd4 Qxd4 10. d3 c4 11. dxc4 Bb4+ 12. Kf1 Qxd1+ 0-1
 
 [Event "Ch World (juniors) (under 10)"]
 [Site "Oropesa (Spain)"]
-[Date "1999.??.??"]
 [Round "10"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Bonnet Edouard (FRA)"]
@@ -116,7 +108,6 @@ Nd4 9. Nxd4 Qxd4 10. d3 c4 11. dxc4 Bb4+ 12. Kf1 Qxd1+ 0-1
 [WhiteElo "2542"]
 [BlackElo "2147"]
 [PlyCount "91"]
-[EventDate "1999.??.??"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 e5 7. Nxc6 bxc6 8.
 c4 Bb4+ 9. Nd2 d5 10. cxd5 Bxd2+ 11. Qxd2 cxd5 12. exd5 Qxd5 13. O-O Bb7 14. f3
@@ -130,7 +121,6 @@ Qa3+ 0-1
 
 [Event "Ch World (juniors) (under 10)"]
 [Site "Oropesa (Spain)"]
-[Date "1999.??.??"]
 [Round "11"]
 [White "Vachier-Lagrave Maxime (FRA)"]
 [Black "Golubenko Valentina (EST)"]
@@ -139,7 +129,6 @@ Qa3+ 0-1
 [WhiteElo "2542"]
 [BlackElo "2146"]
 [PlyCount "74"]
-[EventDate "1999.??.??"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 d5 8. e5 d4
 9. cxd4 cxd4 10. Be4 Bb7 11. d3 g6 12. Nbd2 Bg7 13. Nb3 Qb6 14. Re1 O-O 15. Bg5

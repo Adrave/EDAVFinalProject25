@@ -1,6 +1,5 @@
 [Event "Match (team)"]
 [Site "London (England)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cramling Pia (SWE)"]
@@ -27,7 +26,6 @@ Kg7 60.Kh4 Kh6 61.Bxd5 1-0
 
 [Event "It (open) (active)"]
 [Site "Bastia (France)"]
-[Date "1997.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fontaine Robert (FRA)"]
@@ -45,7 +43,6 @@ e6 8.d4 cxd4 9.cxd4 d5 10.e5 Ne4 11.Nbd2 Nxd2 12.Bxd2 Be7 13.Rc1 1/2-1/2
 
 [Event "It (open) (active)"]
 [Site "Bastia (France)"]
-[Date "1997.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Shneider Aleksandr (UKR)"]
@@ -63,7 +60,6 @@ e6 8.d4 cxd4 9.cxd4 d5 10.e5 Bb4 11.Bd2 Bxd2 12.Nbxd2 Ne7 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cramling Pia (SWE)"]
@@ -84,7 +80,6 @@ Rd7 24.Re8 Rd8 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Arakhamia-Grant Ketevan (GEO)"]
@@ -103,7 +98,6 @@ Bd7 15.Qc2 Bf6 16.Bxf6 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ioseliani Nana (GEO)"]
@@ -124,7 +118,6 @@ Ra3 26.Kg2 Qb6 27.Qxb6 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Xie Jun (CHN)"]
@@ -148,7 +141,6 @@ Qe1+ 37.Kh2 Qf2 38.Bxf8 Qxd4 39.Bb1 Kxf8 40.Qxh7 Rf7 41.Bg6 Qxf4
 
 [Event "Match \"Women-Veterans\""]
 [Site "Copenhagen (Denmark)"]
-[Date "1997.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Zhu Chen (CHN)"]
@@ -173,7 +165,6 @@ a4 37.b4 Rc4 38.Qxd6 Qxd6 39.Rxd6 a3 40.bxa3 Rxc3 41.Rd5 Rxa3
 
 [Event "It"]
 [Site "Cannes (France)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bacrot Etienne (FRA)"]
@@ -194,7 +185,6 @@ Be6 20.Ncd5 Qd8 21.Nf4 d5 22.Rfd1 dxc4 23.Nxe6 Qxd2 24.Rxd2 c3
 
 [Event "It"]
 [Site "Cannes (France)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nataf Igor-Alexandre (FRA)"]
@@ -213,7 +203,6 @@ Be6 20.Ncd5 Qd8 21.Nf4 d5 22.Rfd1 dxc4 23.Nxe6 Qxd2 24.Rxd2 c3
 
 [Event "It"]
 [Site "Cannes (France)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Shaked Tal (USA)"]
@@ -231,7 +220,6 @@ Nbc6 8.a4 Qa5 9.Bd2 Bd7 10.Be2 f6 11.O-O 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Polgar Judit (HUN)"]
@@ -252,7 +240,6 @@ Bxf4+ 25.gxf4 Be6 26.Re5 Bxc4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1998.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Shaked Tal (USA)"]
@@ -274,7 +261,6 @@ Qe1+ 31.Rf1 Qe3+ 32.Rff2 Qe1+ 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Hoogeveen (Netherlands)"]
-[Date "1998.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -300,7 +286,6 @@ e3+ 53.Ke1 Bxh5 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Malme (Sweden)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Andersson Ulf (SWE)"]
@@ -319,7 +304,6 @@ Bxf4 14.Qxf4 Be6 15.a3 Qb8 16.Nce2 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Malme (Sweden)"]
-[Date "1998.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Degerman Lars (SWE)"]
@@ -339,7 +323,6 @@ Nc6 20.Nb5 Bf6 21.a4 1/2-1/2
 
 [Event "It (cat.13)"]
 [Site "Malme (Sweden)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lautier Joel (FRA)"]
@@ -361,7 +344,6 @@ Qh5 26.Rg2 Ba5 27.Rdg1 Nd4 28.Re1 Bh3 29.Rh2 Bf1 30.Ng1 Rxg3
 
 [Event "It (cat.13)"]
 [Site "Malme (Sweden)"]
-[Date "1998.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Miladinovic Igor (SCG)"]
@@ -380,7 +362,6 @@ b6 14.b4 Bb7 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Chiburdanidze Maia (GEO)"]
@@ -400,7 +381,6 @@ Ng6 14.d3 Kf7 15.Bxh8 Nxh8 16.dxe4 fxe4 17.O-O-O Ke7 18.Rd4 Nf6
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cramling Pia (SWE)"]
@@ -422,7 +402,6 @@ Qd6 31.Rb5 Qa3 32.Rbb1 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ioseliani Nana (GEO)"]
@@ -441,7 +420,6 @@ Bb7 14.Qe2 Qc7 15.Rac1 Rac8 16.Rfd1 Qb8 17.Bf2 1/2-1/2
 
 [Event "Match \"Women-Veterans\""]
 [Site "Roquebrune (France)"]
-[Date "1998.??.??"]
 [Round "11"]
 [White "Spassky Boris V (FRA)"]
 [Black "Xie Jun (CHN)"]
@@ -463,7 +441,6 @@ Rxe1+ 25.Nxe1 Nf6 26.Qd4 Nh5 27.g4 Qg5 28.Nd3 Ng3 29.Kf2 Qh4
 
 [Event "Memorial P.Keres (active)"]
 [Site "Tallinn (Estonia)"]
-[Date "1998.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Andersson Ulf (SWE)"]
@@ -484,7 +461,6 @@ Rxc8 25.Rc1 1/2-1/2
 
 [Event "Memorial P.Keres (active)"]
 [Site "Tallinn (Estonia)"]
-[Date "1998.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Atalik Suat (BIH)"]
@@ -506,7 +482,6 @@ Rxe4 31.dxe4 Re8 32.Qe1 h6 33.gxh6 g5 0-1
 
 [Event "Memorial P.Keres (active)"]
 [Site "Tallinn (Estonia)"]
-[Date "1998.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ehlvest Jaan (EST)"]

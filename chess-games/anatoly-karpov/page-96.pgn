@@ -1,13 +1,11 @@
 [Event "Oslo"]
 [Site "Oslo NOR"]
-[Date "1984.04.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Nick de Firmian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D42"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -24,14 +22,12 @@
 
 [Event "Oslo"]
 [Site "Oslo NOR"]
-[Date "1984.04.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Robert Huebner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D27"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -46,14 +42,12 @@
 
 [Event "Simultaneous Display"]
 [Site "Glasgow SCO"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Mark Lockwood Condie"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "123"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Horten Tournament"]
 [Site "Bad Kissingen FRG"]
-[Date "1980.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -95,14 +87,12 @@
 
 [Event "Bugonjo"]
 [Site "Bugonjo BIH"]
-[Date "1980.05.??"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Ulf Andersson"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B81"]
-[EventDate "????.??.??"]
 [PlyCount "128"]
 [WhiteElo "?"]
 
@@ -122,14 +112,12 @@
 
 [Event "Amsterdam IBM"]
 [Site "Amsterdam NED"]
-[Date "1980.06.28"]
 [Round "2"]
 [White "Anatoly Karpov"]
 [Black "Jan Timman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -143,14 +131,12 @@
 
 [Event "Chess Olympiad"]
 [Site "Valletta MLT"]
-[Date "1980.11.27"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Lajos Portisch"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E14"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -164,14 +150,12 @@
 
 [Event "Simul, 22b"]
 [Site "Oviedo ESP"]
-[Date "1981.02.07"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Maria Teresa Suarez"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B53"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -188,14 +172,12 @@
 
 [Event "Simul, 25b"]
 [Site "Oviedo ESP"]
-[Date "1981.02.08"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Ignacio Vidau Cabal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D56"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -209,14 +191,12 @@
 
 [Event "Karpov - Korchnoi World Championship Match"]
 [Site "Merano ITA"]
-[Date "1981.10.22"]
 [Round "8"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C53"]
-[EventDate "????.??.??"]
 [PlyCount "167"]
 [WhiteElo "?"]
 
@@ -239,14 +219,12 @@
 
 [Event "World Master Tournament"]
 [Site "Turin ITA"]
-[Date "1982.06.??"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Boris Spassky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B81"]
-[EventDate "????.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 
@@ -259,14 +237,12 @@
 
 [Event "GER TV"]
 [Site "GER TV"]
-[Date "1976.09.24"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "TV viewers"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A29"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -281,14 +257,12 @@
 
 [Event "Simul, 11b"]
 [Site "Utrecht NED"]
-[Date "1977.11.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Hans Duistermaat"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A29"]
-[EventDate "????.??.??"]
 [PlyCount "140"]
 [WhiteElo "?"]
 
@@ -309,14 +283,12 @@
 
 [Event "Karpov - Korchnoi World Championship Match"]
 [Site "City of Baguio PHI"]
-[Date "1978.08.24"]
 [Round "16"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -334,14 +306,12 @@
 
 [Event "London Match"]
 [Site "London, England"]
-[Date "1999.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Judit Polgar"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E32"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -356,14 +326,12 @@
 
 [Event "Karpov - Kamsky FIDE World Championship Match"]
 [Site "Elista RUS"]
-[Date "1996.07.04"]
 [Round "15"]
 [White "Anatoly Karpov"]
 [Black "Gata Kamsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A70"]
-[EventDate "????.??.??"]
 [PlyCount "82"]
 [WhiteElo "?"]
 
@@ -379,14 +347,12 @@
 
 [Event "Simultan, Singapore"]
 [Site "Simultan, Singapore"]
-[Date "1997.??.??"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Yip Fong Ling"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "?"]
 
@@ -402,14 +368,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "M Akhromeev"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A57"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -423,14 +387,12 @@
 
 [Event "Simultan, Voronezh (Russia)"]
 [Site "Simultan, Voronezh (Russia)"]
-[Date "1997.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Shmatova"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A25"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -444,14 +406,12 @@
 
 [Event "Simul"]
 [Site "Istanbul TUR"]
-[Date "1997.01.05"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Selim Altinok"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D68"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "2715"]
 
@@ -465,14 +425,12 @@
 
 [Event "Karpov - Kamsky FIDE World Championship Match"]
 [Site "Elista RUS"]
-[Date "1996.06.10"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Gata Kamsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -489,14 +447,12 @@
 
 [Event "02, Seville op"]
 [Site "02, Seville op"]
-[Date "1994.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Boris Gelfand"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E62"]
-[EventDate "????.??.??"]
 [PlyCount "32"]
 [WhiteElo "?"]
 
@@ -508,14 +464,12 @@
 
 [Event "Interpolis 15th"]
 [Site "Tilburg NED"]
-[Date "1991.10.21"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Viktor Korchnoi"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -531,14 +485,12 @@
 
 [Event "Baden-Baden sim"]
 [Site "Baden-Baden sim"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Georg Tochtermann"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C69"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -553,14 +505,12 @@
 
 [Event "Candidates semi-final"]
 [Site "Linares ESP"]
-[Date "1992.04.??"]
 [Round "9"]
 [White "Anatoly Karpov"]
 [Black "Nigel Short"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D20"]
-[EventDate "????.??.??"]
 [PlyCount "126"]
 [WhiteElo "?"]
 

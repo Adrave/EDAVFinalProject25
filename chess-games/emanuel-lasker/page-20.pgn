@@ -1,13 +1,11 @@
 [Event "Simul, 20b"]
 [Site "City of London CC, London ENG"]
-[Date "1903.12.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "W T Marshall"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Simul, 18b"]
 [Site "Hannover GER"]
-[Date "1903.12.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Klaus Schultz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "139"]
 [WhiteElo "?"]
 
@@ -49,14 +45,12 @@
 
 [Event "Simul, 19b"]
 [Site "Mercantile Library, Philadelphia, PA USA"]
-[Date "1905.04.29"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "A Goldberg"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "29"]
 [WhiteElo "?"]
 
@@ -68,14 +62,12 @@
 
 [Event "Simul, 23b"]
 [Site "New Orleans, LA USA"]
-[Date "1905.05.20"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -88,14 +80,12 @@
 
 [Event "USA tour sim"]
 [Site "USA"]
-[Date "1906.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Stuart"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "36"]
 [WhiteElo "?"]
 
@@ -107,14 +97,12 @@
 
 [Event "Simultaneous Exhibition"]
 [Site "Havana CUB"]
-[Date "1906.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Enrique Delmonte"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -127,14 +115,12 @@
 
 [Event "Trenton Falls"]
 [Site "Trenton Falls, NY USA"]
-[Date "1906.07.24"]
 [Round "2"]
 [White "Emanuel Lasker"]
 [Black "Charles Curt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B27"]
-[EventDate "0000.07.23"]
 [PlyCount "129"]
 [WhiteElo "?"]
 
@@ -154,14 +140,12 @@
 
 [Event "Trenton Falls"]
 [Site "Trenton Falls, NY USA"]
-[Date "1906.07.23"]
 [Round "1"]
 [White "Emanuel Lasker"]
 [Black "Albert Whiting Fox"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "0000.07.23"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -178,14 +162,12 @@
 
 [Event "Casual Game"]
 [Site "Havana, Cuba"]
-[Date "1906.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Juan Corzo"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -201,14 +183,12 @@
 
 [Event "Simul, 20b"]
 [Site "Franklin CC, Philadelphia, PA USA"]
-[Date "1906.11.10"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Charles F Bauder"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C37"]
-[EventDate "????.??.??"]
 [PlyCount "127"]
 [WhiteElo "?"]
 
@@ -228,14 +208,12 @@
 
 [Event "Simul, 8b"]
 [Site "Kansas City, MO USA"]
-[Date "1907.06.12"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "R S Crohn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C34"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -252,14 +230,12 @@
 
 [Event "Simul, 15b"]
 [Site "Topeka, KS USA"]
-[Date "1907.06.13"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Randolph"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C30"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -275,14 +251,12 @@
 
 [Event "Simul"]
 [Site "Netherlands"]
-[Date "1908.??.??"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Boudewijn Johannes van Trotsenburg"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "21"]
 [WhiteElo "?"]
 
@@ -293,14 +267,12 @@
 
 [Event "Rice Gambit thematic m"]
 [Site "New York, NY USA"]
-[Date "1907.12.??"]
 [Round "3"]
 [White "Emanuel Lasker"]
 [Black "Julius Finn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C39"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -315,14 +287,12 @@
 
 [Event "Simul, 21b"]
 [Site "London ENG"]
-[Date "1908.02.01"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C54"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -336,14 +306,12 @@
 
 [Event "Simul, 20b"]
 [Site "Brixton CC, London ENG"]
-[Date "1908.01.30"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -357,14 +325,12 @@
 
 [Event "Simul, 18b"]
 [Site "Bournemouth ENG"]
-[Date "1908.02.12"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "H Streeter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -378,14 +344,12 @@
 
 [Event "Simul, 25b"]
 [Site "Cheltenham ENG"]
-[Date "1908.02.19"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "H Foxwell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -399,14 +363,12 @@
 
 [Event "Simul, 25b"]
 [Site "Cheltenham ENG"]
-[Date "1908.02.19"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Annie Mabel Gooding"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C16"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -420,14 +382,12 @@
 
 [Event "Simul, 17b"]
 [Site "Hastings ENG"]
-[Date "1908.04.22"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Frederick William Womersley"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C31"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -443,14 +403,12 @@
 
 [Event "Simul, 20b"]
 [Site "London ENG"]
-[Date "1908.04.29"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Joseph Henry Blake"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -464,14 +422,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rotterdam NED"]
-[Date "1908.05.11"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "J van Roon"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -484,14 +440,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rotterdam NED"]
-[Date "1908.05.11"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C70"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -504,14 +458,12 @@
 
 [Event "Simul, 26b"]
 [Site "Frankfurt GER"]
-[Date "1908.05.16"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Ludwig Ernst Bachmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "????.??.??"]
 [PlyCount "34"]
 [WhiteElo "?"]
 
@@ -523,14 +475,12 @@
 
 [Event "Simul, 25b"]
 [Site "Rotterdam NED"]
-[Date "1908.05.11"]
 [Round "?"]
 [White "Emanuel Lasker"]
 [Black "Fortuijn"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

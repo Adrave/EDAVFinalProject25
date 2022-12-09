@@ -1,13 +1,11 @@
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Eugen Weiss"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B30"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "2644"]
 
@@ -22,14 +20,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Thorsten Kober"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "151"]
 [WhiteElo "2644"]
 
@@ -51,14 +47,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Wilhelm Vennhoff"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A41"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "2644"]
 
@@ -73,14 +67,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Sebastian Theis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B07"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "2644"]
 
@@ -96,14 +88,12 @@
 
 [Event "Kamp Lintfort sim"]
 [Site "Kamp Lintfort"]
-[Date "2004.??.??"]
 [Round "?"]
 [White "Anatoly Karpov"]
 [Black "Johannes Westermann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "149"]
 [WhiteElo "2644"]
 
@@ -124,14 +114,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "6"]
 [White "Anatoly Karpov"]
 [Black "Marek Blach"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B54"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -146,14 +134,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "1"]
 [White "Anatoly Karpov"]
 [Black "Henryk Motyka"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C85"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -172,14 +158,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "5"]
 [White "Anatoly Karpov"]
 [Black "Marek Borowski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -195,14 +179,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "7"]
 [White "Anatoly Karpov"]
 [Black "Marcin Pomagalski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -220,14 +202,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "9"]
 [White "Anatoly Karpov"]
 [Black "Aleksandra Zygarska"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A28"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -245,14 +225,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "2"]
 [White "Anatoly Karpov"]
 [Black "Robert Fiszer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -266,14 +244,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "4"]
 [White "Anatoly Karpov"]
 [Black "Andrzej Szymczak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A26"]
-[EventDate "????.??.??"]
 [PlyCount "131"]
 [WhiteElo "?"]
 
@@ -293,14 +269,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "8"]
 [White "Anatoly Karpov"]
 [Black "Pawel Czyz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -318,14 +292,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "3"]
 [White "Anatoly Karpov"]
 [Black "Katarzyna Paterek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B31"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -343,14 +315,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "18"]
 [White "Anatoly Karpov"]
 [Black "Arkadiusz Konczyk"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B84"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -364,14 +334,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "10"]
 [White "Anatoly Karpov"]
 [Black "Andrzej Szewczak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A27"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -388,14 +356,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "12"]
 [White "Anatoly Karpov"]
 [Black "Mariusz Cwiek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A91"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -410,14 +376,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "15"]
 [White "Anatoly Karpov"]
 [Black "Arkadiusz Skawinski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A54"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -432,14 +396,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "17"]
 [White "Anatoly Karpov"]
 [Black "Arkadiusz Paterek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A44"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -455,14 +417,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "13"]
 [White "Anatoly Karpov"]
 [Black "Dariusz Pajak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D20"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -479,14 +439,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "22"]
 [White "Anatoly Karpov"]
 [Black "Wlodzimierz Nieporet"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -499,14 +457,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "14"]
 [White "Anatoly Karpov"]
 [Black "Wojciech Gniadek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D35"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -521,14 +477,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "24"]
 [White "Anatoly Karpov"]
 [Black "Tadeusz Iwinski"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -542,14 +496,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "23"]
 [White "Anatoly Karpov"]
 [Black "Lars Torpe Christoffersen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -563,14 +515,12 @@
 
 [Event "Radom sim"]
 [Site "Radom"]
-[Date "2000.05.21"]
 [Round "21"]
 [White "Anatoly Karpov"]
 [Black "Janusz Korwin Mikke"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B23"]
-[EventDate "????.??.??"]
 [PlyCount "38"]
 [WhiteElo "?"]
 

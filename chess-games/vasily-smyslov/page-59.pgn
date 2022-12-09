@@ -1,13 +1,11 @@
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "M Recash"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "45"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Moscow"]
 [Site "Gorky"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Vladimir Zak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A43"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -42,14 +38,12 @@
 
 [Event "Kuybyshev"]
 [Site "Kuybyshev URS"]
-[Date "1942.07.??"]
 [Round "3"]
 [White "Vasily Smyslov"]
 [Black "Isaac Boleslavsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B62"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Vasily Panov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A53"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -89,14 +81,12 @@
 
 [Event "Moscow"]
 [Site "Moscow"]
-[Date "1943.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Efim Korchmar"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -111,14 +101,12 @@
 
 [Event "Capablanca Memorial"]
 [Site "Havana CUB"]
-[Date "1964.09.??"]
 [Round "10"]
 [White "Vasily Smyslov"]
 [Black "Eleazar Jimenez Zerquera"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A05"]
-[EventDate "????.??.??"]
 [PlyCount "86"]
 [WhiteElo "2620"]
 
@@ -134,14 +122,12 @@
 
 [Event "Rubinstein Memorial 4th"]
 [Site "Polanica-Zdroj POL"]
-[Date "1966.08.12"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "Bogdan Pietrusiak"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -154,14 +140,12 @@
 
 [Event "Prague-Moscow"]
 [Site "Prague CSR"]
-[Date "1966.12.??"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Vlastimil Hort"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B04"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -177,14 +161,12 @@
 
 [Event "Moscow Jubilee"]
 [Site "Moscow URS"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Vladimir Simagin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A00"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -199,14 +181,12 @@
 
 [Event "Leningrad-Moscow"]
 [Site "Leningrad URS"]
-[Date "1967.05.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Viktor Korchnoi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E10"]
-[EventDate "????.??.??"]
 [PlyCount "147"]
 [WhiteElo "?"]
 
@@ -228,14 +208,12 @@
 
 [Event "Stockholm"]
 [Site "Stockholm"]
-[Date "1964.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Eric Alfons Arnlind"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A05"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -249,14 +227,12 @@
 
 [Event "Central Chess Club International"]
 [Site "Moscow URS"]
-[Date "1960.06.??"]
 [Round "8"]
 [White "Vasily Smyslov"]
 [Black "Wolfgang Uhlmann"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C15"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -272,14 +248,12 @@
 
 [Event "Leipzig ol (Men) fin-A"]
 [Site "Leipzig GDR"]
-[Date "1960.10.30"]
 [Round "3"]
 [White "Vasily Smyslov"]
 [Black "Hans Bouwmeester"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "123"]
 [WhiteElo "?"]
 
@@ -299,14 +273,12 @@
 
 [Event "Leipzig ol (Men) qual-B"]
 [Site "Leipzig GDR"]
-[Date "1960.10.23"]
 [Round "7"]
 [White "Vasily Smyslov"]
 [Black "Samuel Schweber"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B92"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -321,14 +293,12 @@
 
 [Event "Amsterdam IBM"]
 [Site "Amsterdam NED"]
-[Date "1971.07.26"]
 [Round "11"]
 [White "Vasily Smyslov"]
 [Black "Andras Adorjan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A01"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -341,14 +311,12 @@
 
 [Event "Hastings 1972/73"]
 [Site "Hastings ENG"]
-[Date "1973.01.13"]
 [Round "15"]
 [White "Vasily Smyslov"]
 [Black "Andrew Jonathan Mestel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A29"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -363,14 +331,12 @@
 
 [Event "Hastings 1972/73"]
 [Site "Hastings ENG"]
-[Date "1973.01.10"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Heikki Westerinen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E61"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -388,14 +354,12 @@
 
 [Event "Chigorin Memorial"]
 [Site "Sochi URS"]
-[Date "1974.09.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Aleksander Sznapik"]
 [Result "1-0"]
 [BlackElo "2420"]
 [ECO "E61"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "2494"]
 
@@ -410,14 +374,12 @@
 
 [Event "1st World Senior Championship"]
 [Site "Bad Woerishofen GER"]
-[Date "1991.11.??"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Heinrich Grachul"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -432,14 +394,12 @@
 
 [Event "Monaco, Wom-Vet"]
 [Site "Monaco, Wom-Vet"]
-[Date "1994.??.??"]
 [Round "6"]
 [White "Vasily Smyslov"]
 [Black "Maia Chiburdanidze"]
 [Result "1-0"]
 [BlackElo "2520"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "181"]
 [WhiteElo "2530"]
 
@@ -463,14 +423,12 @@
 
 [Event "12th Lloyds Bank Masters Open"]
 [Site "London ENG"]
-[Date "1988.08.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Jonathan W Rogers"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -485,14 +443,12 @@
 
 [Event "URS corr"]
 [Site "USSR"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Nikolai Nikolaevich Poleshchuk"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B33"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -505,14 +461,12 @@
 
 [Event "5th Lloyds Bank Masters Open"]
 [Site "London ENG"]
-[Date "1981.08.31"]
 [Round "7"]
 [White "Vasily Smyslov"]
 [Black "Mark A Pagden"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A28"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -525,14 +479,12 @@
 
 [Event "Graz"]
 [Site "Graz"]
-[Date "1984.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Wolfgang Unzicker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D18"]
-[EventDate "????.??.??"]
 [PlyCount "52"]
 [WhiteElo "?"]
 
@@ -546,14 +498,12 @@
 
 [Event "Interpolis 8th"]
 [Site "Tilburg NED"]
-[Date "1984.10.11"]
 [Round "7"]
 [White "Vasily Smyslov"]
 [Black "Gennady Borisovich Sosonko"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E15"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

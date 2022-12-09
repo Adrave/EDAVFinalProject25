@@ -1,13 +1,11 @@
 [Event "Alekhine - Euwe World Championship Match"]
 [Site "Various Locations NED"]
-[Date "1935.11.14"]
 [Round "19"]
 [White "Alexander Alekhine"]
 [Black "Max Euwe"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D16"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -26,14 +24,12 @@
 
 [Event "Simul, 34b"]
 [Site "Moedling AUT"]
-[Date "1936.03.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C20"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Simul, 34b"]
 [Site "Moedling AUT"]
-[Date "1936.03.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Poindle"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C67"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Clock simul, 6b"]
 [Site "Vienna AUT"]
-[Date "1936.03.21"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jobbahazai"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "????.??.??"]
 [PlyCount "43"]
 [WhiteElo "?"]
 
@@ -86,14 +78,12 @@
 
 [Event "Simul, 51b"]
 [Site "Graz AUT"]
-[Date "1936.02.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Anton Afritsch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -107,14 +97,12 @@
 
 [Event "Simul"]
 [Site "Kecskemet HUN"]
-[Date "1936.04.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Kristofil"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -128,14 +116,12 @@
 
 [Event "Simul"]
 [Site "Los Angeles, CA USA"]
-[Date "1932.09.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Kenneth L Haegg"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D61"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -149,14 +135,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Evening Post Ladderites"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C84"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -173,14 +157,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "West Side YMCA"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B62"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -193,14 +175,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "New York Athletic Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D50"]
-[EventDate "????.??.??"]
 [PlyCount "119"]
 [WhiteElo "?"]
 
@@ -219,14 +199,12 @@
 
 [Event "Simul, 50b"]
 [Site "7th Regiment Armory, New York, NY USA"]
-[Date "1932.11.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Marshall Chess Club"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D32"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -241,14 +219,12 @@
 
 [Event "Simul, 42b"]
 [Site "Eaton's Auditorium, Toronto CAN"]
-[Date "1932.11.14"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Alpert"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "111"]
 [WhiteElo "?"]
 
@@ -266,14 +242,12 @@
 
 [Event "Simul, 38b"]
 [Site "Buffalo Athletic Club, Buffalo, NY  USA"]
-[Date "1932.11.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Joseph Daniel Lear"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C43"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -288,14 +262,12 @@
 
 [Event "Simul, 46b"]
 [Site "Winnipeg CAN"]
-[Date "1932.11.26"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Herbert Gregory"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -310,14 +282,12 @@
 
 [Event "Simul, 38b"]
 [Site "Buffalo Athletic Club, Buffalo, New York"]
-[Date "1932.11.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Henry L Freitag"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -334,14 +304,12 @@
 
 [Event "Blindfold simul, 14b"]
 [Site "Tokyo JPN"]
-[Date "1933.01.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Yoshio Kimura"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -356,14 +324,12 @@
 
 [Event "Bratislava"]
 [Site "Bratislava"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Lista"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C15"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -377,14 +343,12 @@
 
 [Event "Hong Kong"]
 [Site "Hong Kong"]
-[Date "1933.02.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Destur RA"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -399,14 +363,12 @@
 
 [Event "Hong Kong"]
 [Site "Hong Kong"]
-[Date "1933.02.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Soltan+3 players"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "91"]
 [WhiteElo "?"]
 
@@ -423,14 +385,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Biriukoff"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C65"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -445,14 +405,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Hong Kong"]
-[Date "1933.02.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Pollock+3 players"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C25"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -467,14 +425,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Desai RE"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C64"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -491,14 +447,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Hong Kong"]
-[Date "1933.02.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Evans+3 players"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "93"]
 [WhiteElo "?"]
 
@@ -515,14 +469,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A D Sequeira"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "????.??.??"]
 [PlyCount "95"]
 [WhiteElo "?"]
 
@@ -539,14 +491,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Wong CE"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 

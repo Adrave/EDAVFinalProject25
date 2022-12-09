@@ -1,6 +1,5 @@
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "13.5"]
 [White "Grischuk, A."]
 [Black "Svidler, P."]
@@ -9,7 +8,6 @@
 [WhiteElo "2767"]
 [BlackElo "2760"]
 [PlyCount "81"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -26,7 +24,6 @@ Qb1+ 41. Kf2 1-0
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "9.7"]
 [White "Grischuk, A."]
 [Black "Kramnik, V."]
@@ -35,7 +32,6 @@ Qb1+ 41. Kf2 1-0
 [WhiteElo "2767"]
 [BlackElo "2800"]
 [PlyCount "69"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -51,7 +47,6 @@ Nc6 9. g4 a6 10. g5 Ne8 11. h4 Nd6 12. h5 f5 13. Be2 Rb8 14. a4 Bd7 15. d4 cxd4
 
 [Event "11th Tal Mem Blitz 2018"]
 [Site "Moscow RUS"]
-[Date "2018.03.05"]
 [Round "6.2"]
 [White "Grischuk, A."]
 [Black "Gelfand, B."]
@@ -60,7 +55,6 @@ Nc6 9. g4 a6 10. g5 Ne8 11. h4 Nd6 12. h5 f5 13. Be2 Rb8 14. a4 Bd7 15. d4 cxd4
 [WhiteElo "2767"]
 [BlackElo "2695"]
 [PlyCount "112"]
-[EventDate "2018.03.05"]
 [EventType "tourn (blitz)"]
 [EventRounds "13"]
 [EventCountry "RUS"]
@@ -79,7 +73,6 @@ Kh1 cxb4 22. Qxb4 d5 23. Rab1 Rd7 24. Qc5 Rc6 25. Qa3 e4 26. d4 f4 27. c4 f3
 
 [Event "FIDE Candidates 2018"]
 [Site "Berlin GER"]
-[Date "2018.03.11"]
 [Round "2.1"]
 [White "Grischuk, A."]
 [Black "So, W."]
@@ -88,7 +81,6 @@ Kh1 cxb4 22. Qxb4 d5 23. Rab1 Rd7 24. Qc5 Rc6 25. Qa3 e4 26. d4 f4 27. c4 f3
 [WhiteElo "2767"]
 [BlackElo "2799"]
 [PlyCount "87"]
-[EventDate "2018.03.10"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GER"]
@@ -105,7 +97,6 @@ Kg3 fxg5 41. Kh2 Qf5 42. Rf7 Qg6 43. fxg5 Bd6+ 44. Kh3 1-0
 
 [Event "FIDE Candidates 2018"]
 [Site "Berlin GER"]
-[Date "2018.03.19"]
 [Round "8.2"]
 [White "Grischuk, A."]
 [Black "Kramnik, V."]
@@ -114,7 +105,6 @@ Kg3 fxg5 41. Kh2 Qf5 42. Rf7 Qg6 43. fxg5 Bd6+ 44. Kh3 1-0
 [WhiteElo "2767"]
 [BlackElo "2800"]
 [PlyCount "181"]
-[EventDate "2018.03.10"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GER"]
@@ -138,7 +128,6 @@ Bf4 Bd4 87. c6 Ke7 88. c7 Kd7 89. h7 Kc8 90. Ke2 Kd7 91. Kd3 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.16"]
 [Round "14.3"]
 [White "Grischuk, A."]
 [Black "Karjakin, Sergey"]
@@ -147,7 +136,6 @@ Bf4 Bd4 87. c6 Ke7 88. c7 Kd7 89. h7 Kc8 90. Ke2 Kd7 91. Kd3 1-0
 [WhiteElo "2766"]
 [BlackElo "2782"]
 [PlyCount "53"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -162,7 +150,6 @@ Rfd8 15. e3 a6 16. Rac1 Qc7 17. Ne4 Nxe4 18. Bxe4 Rd6 19. Rd3 Rc8 20. Rdc3 Qb6
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.16"]
 [Round "16.5"]
 [White "Grischuk, A."]
 [Black "Anand, V."]
@@ -171,7 +158,6 @@ Rfd8 15. e3 a6 16. Rac1 Qc7 17. Ne4 Nxe4 18. Bxe4 Rd6 19. Rd3 Rc8 20. Rdc3 Qb6
 [WhiteElo "2766"]
 [BlackElo "2759"]
 [PlyCount "87"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -188,7 +174,6 @@ f6 Kg8 41. d6 Rb5+ 42. Kc4 R5b7 43. Rxb7 Rxb7 44. Rd3 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.16"]
 [Round "12.5"]
 [White "Grischuk, A."]
 [Black "Mamedyarov, S."]
@@ -197,7 +182,6 @@ f6 Kg8 41. d6 Rb5+ 42. Kc4 R5b7 43. Rxb7 Rxb7 44. Rd3 1-0
 [WhiteElo "2766"]
 [BlackElo "2808"]
 [PlyCount "115"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -216,7 +200,6 @@ Kh4 c4 47. Bf7 Kd4 48. Kg5 Kd3 49. h4 Be7+ 50. Kh5 Bf6 51. g5 Bxb2 52. Kg4 c3
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.15"]
 [Round "6.1"]
 [White "Grischuk, A."]
 [Black "Aronian, L."]
@@ -225,7 +208,6 @@ Kh4 c4 47. Bf7 Kd4 48. Kg5 Kd3 49. h4 Be7+ 50. Kh5 Bf6 51. g5 Bxb2 52. Kg4 c3
 [WhiteElo "2766"]
 [BlackElo "2764"]
 [PlyCount "71"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -241,7 +223,6 @@ Nd5 Bg3 35. Nce3 Rg8 36. Nf6+ 1-0
 
 [Event "GCT Blitz YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.15"]
 [Round "2.4"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -250,7 +231,6 @@ Nd5 Bg3 35. Nce3 Rg8 36. Nf6+ 1-0
 [WhiteElo "2766"]
 [BlackElo "2816"]
 [PlyCount "63"]
-[EventDate "2018.06.15"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "BEL"]
@@ -265,7 +245,6 @@ Rg6 28. Kd4 Kf8 29. h4 Kg8 30. Be2 b4 31. h5 Rxf6 32. exf6 1-0
 
 [Event "GCT Rapid YourNextMove"]
 [Site "Leuven BEL"]
-[Date "2018.06.12"]
 [Round "3.4"]
 [White "Grischuk, A."]
 [Black "Caruana, F."]
@@ -274,7 +253,6 @@ Rg6 28. Kd4 Kf8 29. h4 Kg8 30. Be2 b4 31. h5 Rxf6 32. exf6 1-0
 [WhiteElo "2766"]
 [BlackElo "2816"]
 [PlyCount "71"]
-[EventDate "2018.06.12"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "BEL"]
@@ -290,7 +268,6 @@ Qc4 Qh5 35. Re1 Qg5 36. Qg4 1-0
 
 [Event "Levitov Chess Week Rapid"]
 [Site "Amsterdam NED"]
-[Date "2019.08.05"]
 [Round "5.1"]
 [White "Grischuk,A"]
 [Black "Giri,A"]
@@ -304,7 +281,6 @@ Qc4 Qh5 35. Re1 Qg5 36. Qg4 1-0
 [Variation "Berlin defence"]
 [WhiteFideId "4126025"]
 [BlackFideId "24116068"]
-[EventDate "2019.08.04"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Ba4 O-O 6. O-O d6 7. c3 Ne7 8. Bc2
 Ng6 9. d4 Bb6 10. a4 c6 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qxd8 Rxd8 14. a5 Bc5 15.
@@ -316,7 +292,6 @@ Bb3 Ra7 29. Rc8+ Kd7 30. Rg8 g5 31. Rd1+ Ke7 32. f3 Bd6 33. c4 Bc7 34. Ra1 Rb7
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.13"]
 [Round "2.1"]
 [White "Grischuk,A"]
 [Black "Bok,B"]
@@ -330,7 +305,6 @@ Bb3 Ra7 29. Rc8+ Kd7 30. Rg8 g5 31. Rd1+ Ke7 32. f3 Bd6 33. c4 Bc7 34. Ra1 Rb7
 [Variation "open, 5.Nf3"]
 [WhiteFideId "4126025"]
 [BlackFideId "1017063"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c6 6. Ne5 Bb4+ 7. Bd2 Be7 8. Bf4
 Bb4+ 9. Bd2 Be7 10. Bf4 Bb4+ 11. Kf1 O-O 12. Nxc4 Nd5 13. a3 Be7 14. Nc3 Nd7 15.
@@ -342,7 +316,6 @@ Nc4 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.15"]
 [Round "2.3"]
 [White "Grischuk,A"]
 [Black "Bok,B"]
@@ -356,7 +329,6 @@ Nc4 1/2-1/2
 [Variation "4.e3 O-O"]
 [WhiteFideId "4126025"]
 [BlackFideId "1017063"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd2 d5 6. Nf3 b6 7. cxd5 exd5 8. Bd3
 Bd6 9. O-O Bb7 10. Qb1 Nbd7 11. b4 a6 12. a4 c6 13. Rc1 Re8 14. e4 dxe4 15. Nxe4
@@ -369,7 +341,6 @@ Re8+ Kf7 41. b7 Rxb7 42. Rxb7+ Kxe8 43. Rxg7 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.23"]
 [Round "5.1"]
 [White "Grischuk,A"]
 [Black "Ding Liren"]
@@ -383,7 +354,6 @@ Re8+ Kf7 41. b7 Rxb7 42. Rxb7+ Kxe8 43. Rxg7 1/2-1/2
 [Variation "open, 5.Nf3"]
 [WhiteFideId "4126025"]
 [BlackFideId "8603677"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Rb8 8. Nfd2
 e5 9. Bxc6+ bxc6 10. dxe5 Ng4 11. Nxc4 Be6 12. Qe2 h5 13. Rd1 Qc8 14. Qf3 Rb6
@@ -396,7 +366,6 @@ Be5 41. Bd4 Be4 1/2-1/2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.10"]
 [Round "1.7"]
 [White "Grischuk,A"]
 [Black "Jumabayev,R"]
@@ -410,7 +379,6 @@ Be5 41. Bd4 Be4 1/2-1/2
 [Variation "Steinitz, Boleslavsky variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "13702661"]
-[EventDate "2019.10.10"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
 9. Bd3 b4 10. Na4 c4 11. Be2 c3 12. Qd1 cxb2 13. Nxb2 Be7 14. O-O O-O 15. Bd3 f5
@@ -423,7 +391,6 @@ Qxa4 Bf3+ 42. Nxf3 Qxf3+ 43. Rg2 Qf1+ 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.6"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -437,7 +404,6 @@ Qxa4 Bf3+ 42. Nxf3 Qxf3+ 43. Rg2 Qf1+ 1/2-1/2
 [Variation "Kan, Maroczy bind (Reti variation)"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 Bb4 8. Qd3
 b6 9. a3 Be7 10. Qg3 d6 11. Qxg7 Rg8 12. Qh6 Rxg2 13. Qh3 Rg8 14. Be3 Nbd7 15.
@@ -452,7 +418,6 @@ Nc4 47. Rg3 Ne3 48. Rg8+ Kd7 49. Qa4+ Kd6 50. Qb4+ Kd7 51. Qa4+ Rc6 52. Qa7+ Rc7
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.18"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -466,7 +431,6 @@ Nc4 47. Rg3 Ne3 48. Rg8+ Kd7 49. Qa4+ Kd6 50. Qb4+ Kd7 51. Qa4+ Rc6 52. Qa7+ Rc7
 [Variation "4.Nc3"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. a5 c5 7. Be3 dxc4 8. Ne5 Nd5
 9. dxc5 Nxe3 10. Qxd8+ Kxd8 11. fxe3 Ke8 12. g3 Nd7 13. Nxc4 Bxc5 14. Bg2 Rb8
@@ -478,7 +442,6 @@ Kf3 Rc2 28. h4 h5 29. Nf4 Rc5 30. Nd3 Rd5 31. e4 Rb5 32. Ke3 Kd6 33. Ra6+ Ke7
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.14"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -491,7 +454,6 @@ Kf3 Rc2 28. h4 h5 29. Nf4 Rc5 30. Nd3 Rd5 31. e4 Rb5 32. Ke3 Kd6 33. Ra6+ Ke7
 [Opening "Polish defence"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. d4 b5 2. e4 a6 3. Bg5 Bb7 4. Nd2 h6 5. Bh4 g6 6. c3 Bg7 7. Ngf3 Nf6 8. Bd3 d6
 9. a4 bxa4 10. Qxa4+ Nbd7 11. O-O O-O 12. Rfe1 Nh5 13. Nc4 Nb6 14. Qd1 Nf4 15.
@@ -509,7 +471,6 @@ Kf6 Be3 75. Kf7 Bd2 76. g5 Bxg5 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.03"]
 [Round "1.24"]
 [White "Grischuk,A"]
 [Black "Artemiev,V"]
@@ -523,7 +484,6 @@ Kf6 Be3 75. Kf7 Bd2 76. g5 Bxg5 1/2-1/2
 [Variation "advance variation"]
 [WhiteFideId "4126025"]
 [BlackFideId "24101605"]
-[EventDate "2019.09.02"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 h6 6. O-O Ne7 7. Nbd2 Nd7 8. Nb3 g5
 9. a4 a5 10. c3 Qc7 11. Ne1 Bg7 12. f4 gxf4 13. Bxf4 c5 14. Bb5 Nc6 15. Bg3 Bg6
@@ -537,7 +497,6 @@ Qe7+ Kg8 48. Qe8+ Kg7 49. Qe7+ Kg8 1/2-1/2
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.17"]
 [Round "7.1"]
 [White "Grischuk,A"]
 [Black "Caruana,F"]
@@ -550,7 +509,6 @@ Qe7+ Kg8 48. Qe8+ Kg7 49. Qe7+ Kg8 1/2-1/2
 [Opening "English opening"]
 [WhiteFideId "4126025"]
 [BlackFideId "2020009"]
-[EventDate "2019.10.10"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. d4 e4 5. a3 d5 6. Nc3 Be7 7. f3 exf3 8. Nxf3 O-O
 9. O-O h6 10. Nh4 Re8 11. Nf5 Bf8 12. g4 Bxf5 13. Rxf5 dxc4 14. e4 Nbd7 15. g5
@@ -563,7 +521,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.06"]
 [Round "1.2"]
 [White "Grischuk,A"]
 [Black "Wojtaszek,R"]
@@ -572,7 +529,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 [BlackFideId "1118358"]
 [BlackTitle "GM"]
 [ECO "C50"]
-[EventDate "2019.11.05"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2764"]
 [WhiteFideId "4126025"]
@@ -585,7 +541,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.08"]
 [Round "2.1"]
 [White "Grischuk,A"]
 [Black "Navara,D"]
@@ -594,7 +549,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 [BlackFideId "309095"]
 [BlackTitle "GM"]
 [ECO "E06"]
-[EventDate "2019.11.05"]
 [Opening "Catalan"]
 [Variation "closed, 5.Nf3"]
 [WhiteElo "2764"]
@@ -613,7 +567,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.15"]
 [Round "4.1"]
 [White "Grischuk,A"]
 [Black "Duda,J"]
@@ -622,7 +575,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "E15"]
-[EventDate "2019.11.05"]
 [Opening "Queen's Indian"]
 [Variation "Nimzovich variation (exaggerated fianchetto)"]
 [WhiteElo "2764"]
@@ -642,7 +594,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 
 [Event "World Blitz 2019"]
 [Site "Moscow RUS"]
-[Date "2019.12.29"]
 [Round "7.30"]
 [White "Grischuk,A"]
 [Black "Popov,Iv RUS"]
@@ -651,7 +602,6 @@ h4 Nd2 29. Qxf7+ Rxf7 30. Rb4 Nf8 31. Nc3 a5 32. Ra4 Nb3 33. d5 Kg7 34. h5 b5
 [BlackFideId "4170350"]
 [BlackTitle "GM"]
 [ECO "B23"]
-[EventDate "2019.12.29"]
 [Opening "Sicilian"]
 [Variation "closed, 2...Nc6"]
 [WhiteElo "2777"]

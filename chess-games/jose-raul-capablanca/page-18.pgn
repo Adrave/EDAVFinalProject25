@@ -1,6 +1,5 @@
 [Event ""]
 [Site "Detroit (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Schiffman"]
@@ -23,7 +22,6 @@ Re7 31.Rd8+ Kc7 32.d6+ Kxd8 33.dxe7+ Kxe7 34.h6 Rb5 35.g4 Rc5
 
 [Event "Blindfold"]
 [Site "Habana (Cuba)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Corzo Jorge"]
@@ -45,7 +43,6 @@ Qh4 25.Rf4 Qe1+ 26.Rf1 Qe5 27.Rb1 Nf6 28.Ne2 Rxg2+ 29.Kxg2 Ng4
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Jover J"]
@@ -66,7 +63,6 @@ Nb3 25.Ra2 Nc1 26.Ra1 1/2-1/2
 
 [Event "Simultan"]
 [Site "Minneapolis (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Elliott E"]
@@ -89,7 +85,6 @@ Ng6 31.h5 Nf8 32.Re7 Bd4 33.Nxf7 Bc3 34.Nxh6+ Kh8 35.Nf7+ Kg8
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -110,7 +105,6 @@ Qg6+ 25.Kh1 Qe6 1/2-1/2
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -131,7 +125,6 @@ Rd3 19.Bd4 Rd2+ 20.Rf2 Rxf2+ 21.Bxf2 a6 22.Bg3 Re8 23.Re1 Rxe1
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -153,7 +146,6 @@ Kg7 31.h6+ 1-0
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -178,7 +170,6 @@ bxa3 48.Rxc3 a2 49.Ra3 Kf6 1/2-1/2
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -200,7 +191,6 @@ Rf8 31.Rc7 Rb8 32.Rxc5 1-0
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "6"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -223,7 +213,6 @@ Kf8 26.Rah1 Ng8 27.Qf3 Bxf5 28.gxf5 Rd6 29.Qh5 Ra7 30.Qg6 Nfh6
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "12"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -249,7 +238,6 @@ Rf2 47.Ne5+ Kc7 48.Rd7+ Kc8 49.Rf7 Rh2 50.Ng6 Re2 51.Rxg7 b6
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Jaffe C"]
@@ -272,7 +260,6 @@ Kg7 31.b4 Nb7 32.Bg4 a5 33.Rah1 Rh8 34.Rxh8 Rxh8 35.Rxh8 Kxh8
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Northrop"]
@@ -296,7 +283,6 @@ Qg4 41.Qe7+ 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Roething O"]
@@ -324,7 +310,6 @@ Qc3+ 53.Kd5 Qb3+ 54.Kc6 Qc4+ 55.Kb7 Qb3+ 56.Kc8 Qb5 57.Kd8 Qa5
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Rosenthal Jacob"]
@@ -344,7 +329,6 @@ b5 14.Bc2 d5 15.Ng3 dxe4 16.dxe4 Qc8 17.Nf5 Bc5 18.Nxg7 Kxg7
 
 [Event "It"]
 [Site "Saint Louis (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Wolbrecht"]
@@ -365,7 +349,6 @@ Qf4+ 19.Kg1 Qd6 20.Re6 Qc5+ 21.Kh1 cxd5 22.Rxd5 Qf2 23.Re7 Qf1+
 
 [Event ""]
 [Site "Saint Louis (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Carter T"]
@@ -386,7 +369,6 @@ Kh8 20.Ne3 Qc7 21.h5 gxh5 22.Rxh5 Nxh5 23.Qxh5 Rae8 24.Nf5 Re6
 
 [Event ""]
 [Site "Saint Louis (USA)"]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Schrader E B"]
@@ -407,7 +389,6 @@ Kg7 25.Nxh5+ Kh6 26.Nf6 a5 27.Rf3 a4 28.Rh3+ Kg5 29.Rf1 1-0
 
 [Event ""]
 [Site ""]
-[Date "1909.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Watson C"]
@@ -429,7 +410,6 @@ exf5 26.Nxg5 Rg7 27.Rxf5 Qh6 28.Raf1 Nbd7 29.h4 Ne6 30.Rf6 Nxf6
 
 [Event "Ch New York"]
 [Site "New York (USA)"]
-[Date "1910.??.??"]
 [Round "2"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -453,7 +433,6 @@ Kf7 36.Re5 Rc2 37.Rxf5+ Kg6 38.Rg5+ Kh6 39.Rd7 Rxb2 40.Rdg7 Rf2+
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1910.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Jaffe C"]
@@ -473,7 +452,6 @@ Kxh6 20.Nxf7+ 1-0
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1910.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kreymbourg Alfred"]
@@ -498,14 +476,12 @@ Rxa2 41.Rxa2 Re7 42.Rg2 Re6 43.Rg7 Re7 44.Rg8 c5 45.Rg6+ Re6
 
 [Event "San Sebastian"]
 [Site "San Sebastian ESP"]
-[Date "1911.03.06"]
 [Round "9"]
 [White "Jose Raul Capablanca"]
 [Black "Carl Schlechter"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D12"]
-[EventDate "1911.02.20"]
 [PlyCount "63"]
 [WhiteElo "?"]
 
@@ -519,14 +495,12 @@ Rxa2 41.Rxa2 Re7 42.Rg2 Re6 43.Rg7 Re7 44.Rg8 c5 45.Rg6+ Re6
 
 [Event "Capablanca - Marshall"]
 [Site "Morristown, NJ USA"]
-[Date "1909.04.29"]
 [Round "6"]
 [White "Jose Raul Capablanca"]
 [Black "Frank James Marshall"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C62"]
-[EventDate "1909.04.19"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -542,14 +516,12 @@ Rxa2 41.Rxa2 Re7 42.Rg2 Re6 43.Rg7 Re7 44.Rg8 c5 45.Rg6+ Re6
 
 [Event "Simul, 19b"]
 [Site "Franklin CC, Philadelphia, Pennsylvania USA"]
-[Date "1910.10.22"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Walter Penn Shipley"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D00"]
-[EventDate "1910.10.22"]
 [PlyCount "135"]
 [WhiteElo "?"]
 

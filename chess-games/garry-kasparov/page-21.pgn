@@ -1,6 +1,5 @@
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -22,7 +21,6 @@ Qa5 31.Rg7 Ne7 32.Bxd7 Kxd7 33.Qf6 d4 34.Bxh6 c4 35.Bg5 Qc5 36.Rxe7+ 1-0
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -45,7 +43,6 @@ Re8 36.Rd7 1-0
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -69,7 +66,6 @@ Qxf3 37.gxf3 Rc3 38.Rg2+ Kf4 39.f6 Rxf3 40.Re7 Rf8 41.f7 Kf5
 
 [Event "It (cat.17)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Seirawan Yasser (USA)"]
@@ -91,7 +87,6 @@ Rd7 26.Nf4 Qf7 27.Rc1 Bb7 28.bxa6 Bxf3 29.gxf3 Rda7 30.Rg1 Rxa6
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Balaskas Panayotis (GRE)"]
@@ -113,7 +108,6 @@ Nfd7 14.f4 f6 15.e5 fxg5 16.Bxh7+ Kf8 17.Qh5 Qxc4 18.Bg6 Ke7
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dragon Zygmunt (POL)"]
@@ -137,7 +131,6 @@ Rxc2+ 42.Rxc2 Re4 43.Rc8+ Kf7 44.d7 1-0
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nathanail Emanouel (GRE)"]
@@ -161,7 +154,6 @@ Re6 36.Qxa4 Rxe5 37.fxe5 Qc7 38.Qc2 Qd7 39.Qe2 Qe6 40.Qxa6 Kg7
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Trifonas Spyridon (GRE)"]
@@ -186,7 +178,6 @@ Bd8 49.Ne2 1-0
 
 [Event "It (cat.19)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -208,7 +199,6 @@ Nb6 30.Nxd4 1-0
 
 [Event "It \"CS Masters\" (active)"]
 [Site "Geneva (Switzerland)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Graf Alexander (GER)"]
@@ -233,7 +223,6 @@ Ba6 42.h6 Ne4 43.Nxe4 dxe4 44.h7 e3 45.Rdg2 Re4 46.Rg8+ Kxh7
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -255,7 +244,6 @@ Re5 32.Rxf7+ Qxf7 33.Qxe5+ Qf6 34.Qc7+ Kh8 35.Kh1 a5 36.Be6 1-0
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -279,7 +267,6 @@ exf5 42.Kc4 Ne5+ 43.Kxc5 Nd3+ 44.Kb6 1-0
 
 [Event "It \"PCA Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -301,7 +288,6 @@ Qb7 32.Bd8 Ne6 33.Ne7+ Rxe7 34.fxe7 Qd7 35.Rh3 1-0
 
 [Event "It \"PCA Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -327,7 +313,6 @@ Ra8 47.Rxg4+ Kf6 48.b4 Rd8 49.Re4 Rd1 50.Re8 Rb1 51.Rb8 Rxb4
 
 [Event "Simultan"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1996.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gouveia Carlos (BRA)"]
@@ -351,7 +336,6 @@ Ke6 42.Ke4 h5 43.gxh5 f5+ 44.Kd3 f4 45.Bd4 Kf5 46.f3 1-0
 
 [Event "Simultan"]
 [Site "Rio de Janeiro (Brazil)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Vescovi Giovanni (BRA)"]
@@ -376,7 +360,6 @@ Bb5 1-0
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hracek Zbynek (CZE)"]
@@ -397,7 +380,6 @@ Bxf6 20.exf6 Qd6 21.Bg2 Rg5 22.Bxd5 Bd7 23.Rhe1 h6 24.fxe6 fxe6
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sokolov Ivan (NED)"]
@@ -420,7 +402,6 @@ c5 31.Nxf5 Qxf5 32.Qa5 Ne5 33.Qxa7 h4 34.Qa8+ Kg7 35.Qe4 Qf6
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Yermolinsky Alex (USA)"]
@@ -445,7 +426,6 @@ Rd8 48.Qb6 Rd6 49.Ra7 Qxg4 50.Qb8 Rd7 51.f3 1-0
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Agistriotis Mihail (GRE)"]
@@ -454,7 +434,6 @@ Rd8 48.Qb6 Rd6 49.Ra7 Qxg4 50.Qb8 Rd7 51.f3 1-0
 [WhiteElo "2785"]
 [BlackElo "2069"]
 [PlyCount "59"]
-[EventDate "1996.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 b6 8. Nf3
 Be6 9. O-O c5 10. Ne5 Nfd7 11. Bxe7 Qxe7 12. f4 Nf6 13. Qf3 Rd8 14. f5 Bc8 15.
@@ -465,7 +444,6 @@ Bxc6 Bxc6 28. Ne5+ Kb5 29. Nxc6 Kxc6 30. Rf8 1-0
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Pandis Ippokratis (GRE)"]
@@ -474,7 +452,6 @@ Bxc6 Bxc6 28. Ne5+ Kb5 29. Nxc6 Kxc6 30. Rf8 1-0
 [WhiteElo "2785"]
 [BlackElo "2090"]
 [PlyCount "69"]
-[EventDate "1996.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d3 O-O 8. a4
 Bb7 9. Re1 d6 10. Nbd2 Na5 11. Ba2 Qd7 12. Nf1 bxa4 13. Ne3 Bc6 14. Nf5 Nb7 15.
@@ -486,7 +463,6 @@ gxf4 exf4 35. d4 1-0
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Papathanasiou Panayotis (GRE)"]
@@ -495,7 +471,6 @@ gxf4 exf4 35. d4 1-0
 [WhiteElo "2785"]
 [BlackElo "2169"]
 [PlyCount "93"]
-[EventDate "1996.??.??"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 Nbd7 7. Qd2 e5 8. d5 a5
 9. Nh3 Nc5 10. Nf2 Bd7 11. g4 Qc8 12. Rg1 Kh8 13. h4 Ng8 14. h5 f6 15. Be3 g5
@@ -509,7 +484,6 @@ Rxa2+ 35. Nxa2 Ne7 36. Kb3 Nc8 37. Ka4 Na7 38. Nc3 Kg8 39. Nh1 Kf7 40. Ng3 Be7
 
 [Event "Simultan"]
 [Site "Corfu (Greece)"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Politis Dionisos (GRE)"]
@@ -518,7 +492,6 @@ Rxa2+ 35. Nxa2 Ne7 36. Kb3 Nc8 37. Ka4 Na7 38. Nc3 Kg8 39. Nh1 Kf7 40. Ng3 Be7
 [WhiteElo "2785"]
 [BlackElo "2090"]
 [PlyCount "33"]
-[EventDate "1996.??.??"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6 8.
 Qf4 Nf5 9. Bb5 Bd6 10. Qe4+ Qe7 11. Bd2 Bd7 12. O-O-O Qxe4 13. Nxe4 Be7 14. g4
@@ -527,7 +500,6 @@ Nd6 15. Nxd6+ Bxd6 16. Rhe1+ Be7 17. Bxc6 1-0
 
 [Event "Match"]
 [Site "Philadelphia (USA)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Computer \"]
@@ -535,7 +507,6 @@ Nd6 15. Nxd6+ Bxd6 16. Rhe1+ Be7 17. Bxc6 1-0
 [ECO "E04"]
 [WhiteElo "2785"]
 [PlyCount "145"]
-[EventDate "1996.??.??"]
 
 1. Nf3 d5 2. d4 e6 3. g3 c5 4. Bg2 Nc6 5. O-O Nf6 6. c4 dxc4 7. Ne5 Bd7 8. Na3
 cxd4 9. Naxc4 Bc5 10. Qb3 O-O 11. Qxb7 Nxe5 12. Nxe5 Rb8 13. Qf3 Bd6 14. Nc6
@@ -553,7 +524,6 @@ Qd7+ Qxd7 72. Bxd7 Kc7 73. Bb5 1-0
 
 [Event "Novgorod RUS"]
 [Site "Novgorod RUS"]
-[Date "1997.??.??"]
 [Round "9"]
 [White "Kasparov, Garry"]
 [Black "Kramnik, Vladimir"]

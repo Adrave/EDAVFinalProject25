@@ -1,6 +1,5 @@
 [Event "76th Tata Steel Masters"]
 [Site "Wijk aan Zee NED"]
-[Date "2014.01.21"]
 [Round "8.3"]
 [White "Karjakin, Sergey"]
 [Black "Gelfand, B."]
@@ -9,7 +8,6 @@
 [WhiteElo "2759"]
 [BlackElo "2777"]
 [PlyCount "119"]
-[EventDate "2014.01.11"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "NED"]
@@ -31,7 +29,6 @@ Rf8 Rc7+ 53. Kb3 Rd7 54. b5 d4 55. Kc2 d3+ 56. Kd2 Rd5 57. Rg8+ Kh6 58. Rg5 Rd4
 
 [Event "76th Tata Steel Masters"]
 [Site "Wijk aan Zee NED"]
-[Date "2014.01.15"]
 [Round "4.2"]
 [White "Karjakin, Sergey"]
 [Black "Rapport, R."]
@@ -40,7 +37,6 @@ Rf8 Rc7+ 53. Kb3 Rd7 54. b5 d4 55. Kc2 d3+ 56. Kd2 Rd5 57. Rg8+ Kh6 58. Rg5 Rd4
 [WhiteElo "2759"]
 [BlackElo "2691"]
 [PlyCount "87"]
-[EventDate "2014.01.11"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "NED"]
@@ -59,7 +55,6 @@ Be4 41. f5 c5 42. Rxg7+ Kf8 43. f6 Rc6 44. Ke1 1-0
 
 [Event "76th Tata Steel Masters"]
 [Site "Wijk aan Zee NED"]
-[Date "2014.01.18"]
 [Round "6.1"]
 [White "Karjakin, Sergey"]
 [Black "Naiditsch, A."]
@@ -68,7 +63,6 @@ Be4 41. f5 c5 42. Rxg7+ Kf8 43. f6 Rc6 44. Ke1 1-0
 [WhiteElo "2759"]
 [BlackElo "2718"]
 [PlyCount "151"]
-[EventDate "2014.01.11"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "NED"]
@@ -92,7 +86,6 @@ Kh5 73. a7 Qa3 74. Kg3 Qa5 75. Qe3 Qd8 76. Qe5 1-0
 
 [Event "FIDE Candidates 2014"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2014.03.23"]
 [Round "9.2"]
 [White "Karjakin, Sergey"]
 [Black "Kramnik, V."]
@@ -101,7 +94,6 @@ Kh5 73. a7 Qa3 74. Kg3 Qa5 75. Qe3 Qd8 76. Qe5 1-0
 [WhiteElo "2766"]
 [BlackElo "2787"]
 [PlyCount "127"]
-[EventDate "2014.03.13"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -123,7 +115,6 @@ g5 Ree7 60. Rb8 g6 61. Rb6 gxh5 62. Rab4 Re1 63. Rb7+ Kg6 64. R4b6+ 1-0
 
 [Event "2nd Norway Chess 2014"]
 [Site "Stavanger NOR"]
-[Date "2014.06.12"]
 [Round "8.5"]
 [White "Karjakin, Sergey"]
 [Black "Kramnik, V."]
@@ -132,7 +123,6 @@ g5 Ree7 60. Rb8 g6 61. Rb6 gxh5 62. Rab4 Re1 63. Rb7+ Kg6 64. R4b6+ 1-0
 [WhiteElo "2771"]
 [BlackElo "2783"]
 [PlyCount "143"]
-[EventDate "2014.06.03"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -156,7 +146,6 @@ Rxh2 Kxh2 67. b6 Kh3 68. b7 Rxa7 69. b8=Q Rg7 70. Qe5 Rg3+ 71. Kf2 h4 72. Qe4
 
 [Event "2nd Norway Chess 2014"]
 [Site "Stavanger NOR"]
-[Date "2014.06.07"]
 [Round "4.2"]
 [White "Karjakin, Sergey"]
 [Black "Grischuk, A."]
@@ -165,7 +154,6 @@ Rxh2 Kxh2 67. b6 Kh3 68. b7 Rxa7 69. b8=Q Rg7 70. Qe5 Rg3+ 71. Kf2 h4 72. Qe4
 [WhiteElo "2771"]
 [BlackElo "2792"]
 [PlyCount "107"]
-[EventDate "2014.06.03"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -186,7 +174,6 @@ Rcd1 47. d5 Rc1 48. g4 g5 49. d8=Q+ Kxd8 50. Kd6 Ke8 51. Bb5+ Kf8 52. Ke6 Re1
 
 [Event "2nd Norway Blitz 2014"]
 [Site "Flor & Fjaere NOR"]
-[Date "2014.06.02"]
 [Round "9.2"]
 [White "Karjakin, Sergey"]
 [Black "Topalov, V."]
@@ -195,7 +182,6 @@ Rcd1 47. d5 Rc1 48. g4 g5 49. d8=Q+ Kxd8 50. Kd6 Ke8 51. Bb5+ Kf8 52. Ke6 Re1
 [WhiteElo "2771"]
 [BlackElo "2772"]
 [PlyCount "83"]
-[EventDate "2014.06.02"]
 [EventType "tourn (blitz)"]
 [EventRounds "9"]
 [EventCountry "NOR"]
@@ -214,7 +200,6 @@ Kc7 40. Qa5+ Kd7 41. Qxh5 Rf8 42. Qxg4+ 1-0
 
 [Event "FIDE World Rapid 2014"]
 [Site "Dubai UAE"]
-[Date "2014.06.18"]
 [Round "13.5"]
 [White "Karjakin, Sergey"]
 [Black "Tomashevsky, E."]
@@ -223,7 +208,6 @@ Kc7 40. Qa5+ Kd7 41. Qxh5 Rf8 42. Qxg4+ 1-0
 [WhiteElo "2771"]
 [BlackElo "2695"]
 [PlyCount "64"]
-[EventDate "2014.06.16"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "UAE"]
@@ -239,7 +223,6 @@ Rb7 22. Bd3 Ne8 23. Be3 Nb8 24. Qa2 Be6 25. Qe2 Bd7 26. Reb1 Rxb1+ 27. Rxb1 Nc6
 
 [Event "FIDE World Rapid 2014"]
 [Site "Dubai UAE"]
-[Date "2014.06.16"]
 [Round "3.2"]
 [White "Karjakin, Sergey"]
 [Black "Yu Yangyi"]
@@ -248,7 +231,6 @@ Rb7 22. Bd3 Ne8 23. Be3 Nb8 24. Qa2 Be6 25. Qe2 Bd7 26. Reb1 Rxb1+ 27. Rxb1 Nc6
 [WhiteElo "2771"]
 [BlackElo "2675"]
 [PlyCount "143"]
-[EventDate "2014.06.16"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "UAE"]
@@ -270,7 +252,6 @@ Ke5 60. Nxa5 Kxe4 61. Nc6 Kf4 62. Nxb4 Kg3 63. Nd5 Na8 64. Kb5 Kxg2 65. Kc6 Kh3
 
 [Event "FIDE World Rapid 2014"]
 [Site "Dubai UAE"]
-[Date "2014.06.16"]
 [Round "1.8"]
 [White "Karjakin, Sergey"]
 [Black "Adly, A."]
@@ -279,7 +260,6 @@ Ke5 60. Nxa5 Kxe4 61. Nc6 Kf4 62. Nxb4 Kg3 63. Nd5 Na8 64. Kb5 Kxg2 65. Kc6 Kh3
 [WhiteElo "2771"]
 [BlackElo "2594"]
 [PlyCount "183"]
-[EventDate "2014.06.16"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "UAE"]
@@ -305,7 +285,6 @@ Be3 Nb5 92. a7 1-0
 
 [Event "FIDE World Blitz 2014"]
 [Site "Dubai UAE"]
-[Date "2014.06.19"]
 [Round "8.25"]
 [White "Karjakin, Sergey"]
 [Black "Fedoseev, Vl3"]
@@ -314,7 +293,6 @@ Be3 Nb5 92. a7 1-0
 [WhiteElo "2771"]
 [BlackElo "2662"]
 [PlyCount "91"]
-[EventDate "2014.06.19"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "UAE"]
@@ -333,7 +311,6 @@ Qd7+ 1-0
 
 [Event "FIDE World Blitz 2014"]
 [Site "Dubai UAE"]
-[Date "2014.06.19"]
 [Round "5.39"]
 [White "Karjakin, Sergey"]
 [Black "Shyam, SM."]
@@ -342,7 +319,6 @@ Qd7+ 1-0
 [WhiteElo "2771"]
 [BlackElo "2468"]
 [PlyCount "95"]
-[EventDate "2014.06.19"]
 [EventType "swiss (blitz)"]
 [EventRounds "21"]
 [EventCountry "UAE"]
@@ -361,7 +337,6 @@ Rxb7 Nc6 41. b3 Kg6 42. Rb6 Nd8 43. Kf3 Kf6 44. Nf2 Nf7 45. Ne4+ Ke5 46. b4 Ra1
 
 [Event "41st Olympiad Open 2014"]
 [Site "Tromso NOR"]
-[Date "2014.08.03"]
 [Round "2.1"]
 [White "Karjakin, Sergey"]
 [Black "Nezad, H."]
@@ -370,7 +345,6 @@ Rxb7 Nc6 41. b3 Kg6 42. Rb6 Nd8 43. Kf3 Kf6 44. Nf2 Nf7 45. Ne4+ Ke5 46. b4 Ra1
 [WhiteElo "2786"]
 [BlackElo "2365"]
 [PlyCount "119"]
-[EventDate "2014.08.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "NOR"]
@@ -395,7 +369,6 @@ Nxf1 54. Nxf1 g6 55. Ne3 Bd3 56. fxg6 Bxg6 57. Nd5 Kg7 58. Ke3 Be8 59. a5 Kg6
 
 [Event "41st Olympiad Open 2014"]
 [Site "Tromso NOR"]
-[Date "2014.08.10"]
 [Round "8.10"]
 [White "Karjakin, Sergey"]
 [Black "Salgado Lopez, I."]
@@ -404,7 +377,6 @@ Nxf1 54. Nxf1 g6 55. Ne3 Bd3 56. fxg6 Bxg6 57. Nd5 Kg7 58. Ke3 Be8 59. a5 Kg6
 [WhiteElo "2786"]
 [BlackElo "2620"]
 [PlyCount "73"]
-[EventDate "2014.08.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "NOR"]
@@ -425,7 +397,6 @@ Qd5 Rxh4 34. Qf5+ Kh6 35. b5 Rb8 36. Qe5 Qc8 37. Rg2 1-0
 
 [Event "41st Olympiad Open 2014"]
 [Site "Tromso NOR"]
-[Date "2014.08.12"]
 [Round "10.7"]
 [White "Karjakin, Sergey"]
 [Black "Indjic, A."]
@@ -434,7 +405,6 @@ Qd5 Rxh4 34. Qf5+ Kh6 35. b5 Rb8 36. Qe5 Qc8 37. Rg2 1-0
 [WhiteElo "2786"]
 [BlackElo "2539"]
 [PlyCount "69"]
-[EventDate "2014.08.02"]
 [EventType "team"]
 [EventRounds "11"]
 [EventCountry "NOR"]
@@ -455,7 +425,6 @@ Kf8 34. Nxf6 gxf6 35. Bxf6 1-0
 
 [Event "Moscow Blitz Final 2014"]
 [Site "Moscow RUS"]
-[Date "2014.09.06"]
 [Round "5.3"]
 [White "Karjakin, Sergey"]
 [Black "Fedoseev, Vl3"]
@@ -464,7 +433,6 @@ Kf8 34. Nxf6 gxf6 35. Bxf6 1-0
 [WhiteElo "2777"]
 [BlackElo "2677"]
 [PlyCount "53"]
-[EventDate "2014.09.06"]
 [EventType "tourn (blitz)"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -481,7 +449,6 @@ O-O Be7 9. a4 Na5 10. f4 O-O 11. fxe5 c4 12. Nd4 Bc5 13. Ncb5 Qe7 14. d3 Qxe5
 
 [Event "Moscow Blitz Final 2014"]
 [Site "Moscow RUS"]
-[Date "2014.09.06"]
 [Round "1.5"]
 [White "Karjakin, Sergey"]
 [Black "Popov, Iv RUS"]
@@ -490,7 +457,6 @@ O-O Be7 9. a4 Na5 10. f4 O-O 11. fxe5 c4 12. Nd4 Bc5 13. Ncb5 Qe7 14. d3 Qxe5
 [WhiteElo "2777"]
 [BlackElo "2627"]
 [PlyCount "61"]
-[EventDate "2014.09.06"]
 [EventType "tourn (blitz)"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -507,7 +473,6 @@ Kf2 a5 28. b4 axb4 29. axb4 Re5 30. Bc4 Bb5 31. f4 1-0
 
 [Event "Moscow Blitz Final 2014"]
 [Site "Moscow RUS"]
-[Date "2014.09.06"]
 [Round "18.6"]
 [White "Karjakin, Sergey"]
 [Black "Grischuk, A."]
@@ -516,7 +481,6 @@ Kf2 a5 28. b4 axb4 29. axb4 Re5 30. Bc4 Bb5 31. f4 1-0
 [WhiteElo "2777"]
 [BlackElo "2789"]
 [PlyCount "85"]
-[EventDate "2014.09.06"]
 [EventType "tourn (blitz)"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -535,7 +499,6 @@ Bf8 41. Qd3 Qa4 42. Bd2 Qb4 43. Bxb4 1-0
 
 [Event "Moscow Blitz Final 2014"]
 [Site "Moscow RUS"]
-[Date "2014.09.06"]
 [Round "16.7"]
 [White "Karjakin, Sergey"]
 [Black "Paravyan, D."]
@@ -544,7 +507,6 @@ Bf8 41. Qd3 Qa4 42. Bd2 Qb4 43. Bxb4 1-0
 [WhiteElo "2777"]
 [BlackElo "2428"]
 [PlyCount "61"]
-[EventDate "2014.09.06"]
 [EventType "tourn (blitz)"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -561,7 +523,6 @@ f6 22. Bf1 Ne5 23. Bxd3 Nxd3 24. Qf1 Nxe1 25. Qxa6 Rc7 26. Rf1 Nd3 27. Qc4+ Kh8
 
 [Event "Moscow Blitz Final 2014"]
 [Site "Moscow RUS"]
-[Date "2014.09.06"]
 [Round "14.8"]
 [White "Karjakin, Sergey"]
 [Black "Grachev, B."]
@@ -570,7 +531,6 @@ f6 22. Bf1 Ne5 23. Bxd3 Nxd3 24. Qf1 Nxe1 25. Qxa6 Rc7 26. Rf1 Nd3 27. Qc4+ Kh8
 [WhiteElo "2777"]
 [BlackElo "2673"]
 [PlyCount "136"]
-[EventDate "2014.09.06"]
 [EventType "tourn (blitz)"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -593,7 +553,6 @@ dxc6 Nb4 67. Ng4 Ne8 68. Nxf6 Nxf6 1-0
 
 [Event "Moscow Blitz Final 2014"]
 [Site "Moscow RUS"]
-[Date "2014.09.06"]
 [Round "9.1"]
 [White "Karjakin, Sergey"]
 [Black "Moskalenko, A."]
@@ -602,7 +561,6 @@ dxc6 Nb4 67. Ng4 Ne8 68. Nxf6 Nxf6 1-0
 [WhiteElo "2777"]
 [BlackElo "2460"]
 [PlyCount "167"]
-[EventDate "2014.09.06"]
 [EventType "tourn (blitz)"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -628,7 +586,6 @@ Rxg3+ 78. Kf4 Rh3 79. Rd2+ Kc5 80. Kg5 Rh1 81. h6 Kc6 82. Rd4 Rg1+ 83. Rg4 Rd1
 
 [Event "Moscow Blitz Final 2014"]
 [Site "Moscow RUS"]
-[Date "2014.09.06"]
 [Round "7.2"]
 [White "Karjakin, Sergey"]
 [Black "Savchenko, B."]
@@ -637,7 +594,6 @@ Rxg3+ 78. Kf4 Rh3 79. Rd2+ Kc5 80. Kg5 Rh1 81. h6 Kc6 82. Rd4 Rg1+ 83. Rg4 Rd1
 [WhiteElo "2777"]
 [BlackElo "2608"]
 [PlyCount "114"]
-[EventDate "2014.09.06"]
 [EventType "tourn (blitz)"]
 [EventRounds "14"]
 [EventCountry "RUS"]
@@ -658,7 +614,6 @@ Nc4 53. Kd5 Ne3+ 54. Kc6 Nc4 55. Ra8+ Ke7 56. Kb5 Ne3 57. Kxb6 Kd7 1-0
 
 [Event "Baku FIDE Grand Prix 2014"]
 [Site "Baku AZE"]
-[Date "2014.10.04"]
 [Round "3.6"]
 [White "Karjakin, Sergey"]
 [Black "Dominguez Perez, L."]
@@ -667,7 +622,6 @@ Nc4 53. Kd5 Ne3+ 54. Kc6 Nc4 55. Ra8+ Ke7 56. Kb5 Ne3 57. Kxb6 Kd7 1-0
 [WhiteElo "2767"]
 [BlackElo "2751"]
 [PlyCount "81"]
-[EventDate "2014.10.02"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "AZE"]
@@ -686,7 +640,6 @@ Bh8 41. Kh4 1-0
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.25"]
 [Round "5.3"]
 [White "Karjakin, Sergey"]
 [Black "Mamedyarov, Shakhriyar"]
@@ -694,7 +647,6 @@ Bh8 41. Kh4 1-0
 [WhiteElo "2762"]
 [BlackElo "2736"]
 [ECO "C67"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 
 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 Be6 11. g4 Ne7 12. Nd4 Bd7 13. f4 h5 
@@ -708,7 +660,6 @@ Rxd5 b6 32. b3 Rf2+ 33. Ke4 Re2+ 34. Kf3 Rxa2 35. Rd3 Ra1 36. Ke4 Re1+ 37.
 
 [Event "FIDE World Cup 2015"]
 [Site "Baku AZE"]
-[Date "2015.09.16"]
 [Round "2.3"]
 [White "Karjakin, Sergey"]
 [Black "Onischuk, Alexander"]
@@ -716,7 +667,6 @@ Rxd5 b6 32. b3 Rf2+ 33. Ke4 Re2+ 34. Kf3 Rxa2 35. Rd3 Ra1 36. Ke4 Re1+ 37.
 [WhiteElo "2762"]
 [BlackElo "2662"]
 [ECO "C65"]
-[EventDate "2015.09.11"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. c3 Bb6
 8. Na3 c6 9. Ba4 O-O 10. Bg5 h6 11. Bh4 Re8 12. Nc4 Bc7 13. Ne3 g5 14. Bg3

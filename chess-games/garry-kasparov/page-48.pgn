@@ -1,6 +1,5 @@
 [Event "Ch URS"]
 [Site "Frunze (Kyrgyzstan)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -28,7 +27,6 @@ Kf8 66.h6 1-0
 
 [Event "Ch URS"]
 [Site "Frunze (Kyrgyzstan)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dolmatov Sergey (RUS)"]
@@ -52,7 +50,6 @@ Rf8 37.Kg2 h4 38.Rf1+ Ke8 39.Rxf8+ Kxf8 40.Kf3 Rg5 41.Bxh4 Rh5
 
 [Event "Ch URS"]
 [Site "Frunze (Kyrgyzstan)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dorfman Josif D (FRA)"]
@@ -76,7 +73,6 @@ Qa4 36.Bd6+ Nc6 37.Bxe5 Rd8 38.Qb1 Rd5 39.Qb8+ Kd7 40.Qc7+ Ke8
 
 [Event "Ch URS"]
 [Site "Frunze (Kyrgyzstan)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gavrikov Viktor (LTU)"]
@@ -98,7 +94,6 @@ hxg6 26.Rxg6+ Kf8 27.Rh6 Ke7 28.Rcc6 Rf5 29.Qf3 Bc7 30.Qe4+ Re5
 
 [Event "Ch URS"]
 [Site "Frunze (Kyrgyzstan)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Jussupow Artur (GER)"]
@@ -121,7 +116,6 @@ d6 37.Rf1 g4 38.Bxe6 Qxe6 39.Qh4+ Kg7 1-0
 
 [Event "Ch URS"]
 [Site "Frunze (Kyrgyzstan)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timoscenko Gennadij (SVK)"]
@@ -145,7 +139,6 @@ Qe2 36.Qxa5 Ra8 37.Qa4 Kxf6 38.Qd7 Kg7 39.Rf3 Qc4 40.Qxd6 Rxa7
 
 [Event "Ch World (team) (under 26)"]
 [Site "Graz (Austria)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Duer Arne (AUT)"]
@@ -166,7 +159,6 @@ Rf7 25.Rxg6 1-0
 
 [Event "Ch World (team) (under 26)"]
 [Site "Graz (Austria)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Fedorowicz John P (USA)"]
@@ -188,7 +180,6 @@ Ndf6 31.Bxf6 Nxf6 32.gxh7+ Kf8 33.h8Q+ Kxe7 34.Qg7+ 1-0
 
 [Event "Ch World (team) (under 26)"]
 [Site "Graz (Austria)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Van Der Wiel John T H (NED)"]
@@ -214,7 +205,6 @@ Ne7 47.Rd7 Kf8 48.Rd8+ Kg7 49.Ke4 Nc6 50.Rd7+ Kf8 51.Kf5 Nxe5
 
 [Event "Ch Armed Forces (team)"]
 [Site "Moscow (Russia)"]
-[Date "1981.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanov Alexander (USA)"]
@@ -237,7 +227,6 @@ Qxc2 25.Rxc2 Kf8 26.h4 Ke8 27.Nf4 Kd8 28.Bf3 Rc7 29.Rxc7 Kxc7
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "12"]
 [White "Kasparov Garry (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -256,7 +245,6 @@ cxb4 14.Qxb4 Rc8 15.Rfe1 Nb8 16.Qa4 dxc4 17.Nxc4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1982.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -274,7 +262,6 @@ O-O 8.Bg2 c5 9.O-O Bb7 10.Qc2 Nbd7 11.Be3 Re8 12.Rfd1 Bf8 13.Bg5 1/2-1/2
 
 [Event "Cup URS (team)"]
 [Site "Kislovodsk (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -306,7 +293,6 @@ Bg3 88.Ne7+ Kb6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Andersson Ulf (SWE)"]
@@ -325,7 +311,6 @@ Bb7 14.e4 cxd4 15.Rxd4 e5 16.Rd2 Bc6 17.Rfd1 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Lucerne (Switzerland)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sosonko Gennadi (NED)"]
@@ -343,7 +328,6 @@ c5 8.e4 Nxc3 9.bxc3 Nd7 10.Bd3 Qc7 11.Qd2 g6 12.O-O Bg7 1/2-1/2
 
 [Event "Izt (cat.12)"]
 [Site "Moscow (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -367,7 +351,6 @@ Rd1+ 36.Kh2 Rd5 37.Qc8 Kf7 38.g4 Bd6+ 39.Kg2 Bg6 40.Nxg6 Kxg6
 
 [Event "Izt (cat.12)"]
 [Site "Moscow (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Garcia Gonzales Guillermo (CUB)"]
@@ -387,7 +370,6 @@ a4 14.Qd1 Bxc3 15.Bxc3 Qd7 16.Rc1 Na5 17.Bxa5 Rxa5 18.Rc5 Rea8
 
 [Event "Izt (cat.12)"]
 [Site "Moscow (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Rodriguez Ruben (PHI)"]
@@ -414,7 +396,6 @@ Ke7 58.Kg7 1-0
 
 [Event "Izt (cat.12)"]
 [Site "Moscow (Russia)"]
-[Date "1982.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Sax Gyula (HUN)"]
@@ -437,7 +418,6 @@ Bb1 36.g4 hxg4 37.fxg4 Rf8+ 38.Kg3 1-0
 
 [Event "Match"]
 [Site "URS"]
-[Date "1982.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Magerramov Elmar (AZE)"]
@@ -458,7 +438,6 @@ Qd4 25.Nxf6+ Kg7 26.Qh4 e2 27.Nh5+ Kh8 28.c3 Qd3 29.Nxf7+ 1-0
 
 [Event "Match"]
 [Site "URS"]
-[Date "1982.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Magerramov Elmar (AZE)"]
@@ -480,7 +459,6 @@ Kd8 31.Rxd7+ 1-0
 
 [Event "Match"]
 [Site "URS"]
-[Date "1982.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Magerramov Elmar (AZE)"]
@@ -506,7 +484,6 @@ Re8 32.fxe6 fxe6 33.Qf1 Rg6 34.Qxh3 Kg7 35.Qg2 Rh8 36.Nf1 Bc3
 
 [Event ""]
 [Site "URS"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gulko Boris F (USA)"]
@@ -527,7 +504,6 @@ Kf8 19.Qh3 h5 20.Qg3 Kxg7 21.Bxf6+ Kxf6 22.Rd4 Bd6 23.Qc3 Kg6
 
 [Event ""]
 [Site "URS"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -551,7 +527,6 @@ Qf8 37.Bh6 Qe7 38.Bg5 Qc5 39.hxg6 fxg6 40.Rd8 Rxd8 41.Bxd8 Rb7
 
 [Event "Izt (cat.12)"]
 [Site "Moscow (Russia)"]
-[Date "1982.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -559,7 +534,6 @@ Qf8 37.Bh6 Qe7 38.Bg5 Qc5 39.hxg6 fxg6 40.Rd8 Rxd8 41.Bxd8 Rb7
 [ECO "D43"]
 [WhiteElo "2675"]
 [PlyCount "48"]
-[EventDate "1982.??.??"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
 9. Be2 Bb7 10. e5 Nd5 11. h4 Qa5 12. Rc1 g4 13. Nd2 c5 14. Nce4 cxd4 15. O-O h5

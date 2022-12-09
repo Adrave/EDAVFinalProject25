@@ -5,7 +5,6 @@
 [BlackFideId "5202213"]
 [Result "0-1"]
 [Round "04"]
-[Date "Sat Nov 23 2019"]
 [WhiteClock "0:03:28"]
 [BlackClock "0:06:20"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "5029465"]
 [Result "0-1"]
 [Round "11"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:00"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5007003"]
 [Result "0-1"]
 [Round "24"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:00:00"]
 [BlackClock "0:00:00"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "623539"]
 [Result "0-1"]
 [Round "2-5"]
-[Date "Sun Dec 08 2019"]
 [WhiteClock "0:00:01"]
 [BlackClock "0:00:32"]
 
@@ -60,7 +56,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.20"]
 [Round "7"]
 [White "Ding Liren"]
 [Black "Smirnov,Ant"]
@@ -70,7 +65,6 @@
 [BlackTeam "Australia Kangaroos"]
 [BlackTitle "GM"]
 [ECO "C19"]
-[EventDate "2019.01.08"]
 [Opening "French"]
 [Variation "Winawer, advance, 6...Ne7"]
 [WhiteElo "2813"]
@@ -91,7 +85,6 @@
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.21"]
 [Round "5.4"]
 [White "Ding Liren"]
 [Black "Giri,A"]
@@ -105,7 +98,6 @@
 [Variation "Ragozin variation"]
 [WhiteFideId "8603677"]
 [BlackFideId "24116068"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8. e3
 O-O 9. Rc1 Rd8 10. Be2 dxc4 11. Bxc4 Bxc3+ 12. bxc3 Bd7 13. Be2 e5 14. Qc2 Bf5
@@ -119,7 +111,6 @@ gxf4 1-0
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.26"]
 [Round "9.1"]
 [White "Ding Liren"]
 [Black "Caruana,F"]
@@ -133,7 +124,6 @@ gxf4 1-0
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "8603677"]
 [BlackFideId "2020009"]
-[EventDate "2019.08.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 8. Bxc4
 Ba6 9. Bxa6 Nxa6 10. Qe2 Qc8 11. O-O Qb7 12. a3 c5 13. Nb5 Rac8 14. b4 Nd5 15.
@@ -148,7 +138,6 @@ Kf5 54. Nd6+ Kxf4 55. Qf6+ Ke3 56. e6 Kd3 57. e7 1-0
 
 [Event "7th Sinquefield Cup TB"]
 [Site "Saint Louis USA"]
-[Date "2019.08.29"]
 [Round "3"]
 [White "Ding Liren"]
 [Black "Carlsen,M"]
@@ -162,7 +151,6 @@ Kf5 54. Nd6+ Kxf4 55. Qf6+ Ke3 56. e6 Kd3 57. e7 1-0
 [Variation "Neo-Catalan accepted"]
 [WhiteFideId "8603677"]
 [BlackFideId "1503014"]
-[EventDate "2019.08.29"]
 
 1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 c5 8.
 Nc3 Qc7 9. d4 cxd4 10. Nxd4 Bc5 11. Nb3 Bd6 12. O-O O-O 13. Rd1 Be5 14. Be3 Nd5
@@ -182,7 +170,6 @@ Kd7 80. Re5 Kd6 81. Re3 Kd7 82. Re7+ Kd6 83. Re3 Kd7 84. Kh6 Rh2+ 85. Kg7 Rg2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.02"]
 [Round "1.3"]
 [White "Ding Liren"]
 [Black "Shankland,S"]
@@ -195,7 +182,6 @@ Kd7 80. Re5 Kd6 81. Re3 Kd7 82. Re7+ Kd6 83. Re3 Kd7 84. Kh6 Rh2+ 85. Kg7 Rg2
 [Opening "Neo-Gruenfeld, 6.O-O c6"]
 [WhiteFideId "8603677"]
 [BlackFideId "2004887"]
-[EventDate "2019.09.02"]
 
 1. c4 c6 2. Nf3 d5 3. g3 g6 4. Bg2 Bg7 5. d4 Nf6 6. O-O O-O 7. a4 Bf5 8. b3 Nbd7
 9. Ba3 Re8 10. Nc3 Ne4 11. Rc1 Nxc3 12. Rxc3 Be4 13. e3 e5 14. cxd5 cxd5 15.
@@ -206,7 +192,6 @@ Re8+ Kg7 28. Bf8+ 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.02"]
 [Round "1.7"]
 [White "Ding Liren"]
 [Black "Shankland,S"]
@@ -220,7 +205,6 @@ Re8+ Kg7 28. Bf8+ 1-0
 [Variation "Taimanov variation"]
 [WhiteFideId "8603677"]
 [BlackFideId "2004887"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 Ne5 8. Qg3
 h5 9. Bg5 f6 10. Bf4 Ne7 11. O-O-O Kf7 12. Bxe5 Qxe5 13. f4 h4 14. Qe3 Qc7 15.
@@ -232,7 +216,6 @@ Ng7 35. Rxg5 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.02"]
 [Round "1.13"]
 [White "Ding Liren"]
 [Black "Shankland,S"]
@@ -246,7 +229,6 @@ Ng7 35. Rxg5 1-0
 [Variation "Cambridge Springs defence, Yugoslav variation"]
 [WhiteFideId "8603677"]
 [BlackFideId "2004887"]
-[EventDate "2019.09.02"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 Nxd5 8. Rc1
 Nxc3 9. bxc3 Ba3 10. Rc2 b6 11. Be2 Ba6 12. O-O O-O 13. c4 Rfe8 14. e4 Bf8 15.
@@ -258,7 +240,6 @@ Ke7 28. Bxd6+ Kxd6 29. c5+ Kxc5 30. Bxa6 b5 31. Kf1 Kb6 32. Bc8 a5 33. Ke2 Kc5
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.25"]
 [White "Ding Liren"]
 [Black "Shankland,S"]
@@ -272,7 +253,6 @@ Ke7 28. Bxd6+ Kxd6 29. c5+ Kxc5 30. Bxa6 b5 31. Kf1 Kb6 32. Bc8 a5 33. Ke2 Kc5
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteFideId "8603677"]
 [BlackFideId "2004887"]
-[EventDate "2019.09.02"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. c4 dxc4 6. Na3 O-O 7. Nxc4 c5 8. b3
 Nc6 9. Bb2 Be6 10. d4 Bxc4 11. bxc4 Ne8 12. e3 Nd6 13. Qe2 cxd4 14. exd4 e6 15.
@@ -284,7 +264,6 @@ Rxd6 22. dxc6 Rcd8 23. Rxd6 Rxd6 24. Rb1 Bd4 25. h4 Bb6 26. Rb5 Qc3 27. c5 Bxc5
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.29"]
 [White "Ding Liren"]
 [Black "Shankland,S"]
@@ -297,7 +276,6 @@ Rxd6 22. dxc6 Rcd8 23. Rxd6 Rxd6 24. Rb1 Bd4 25. h4 Bb6 26. Rb5 Qc3 27. c5 Bxc5
 [Opening "Neo-Gruenfeld, 6.O-O"]
 [WhiteFideId "8603677"]
 [BlackFideId "2004887"]
-[EventDate "2019.09.02"]
 
 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 Nc6 7. cxd5 Nxd5 8. e4
 Nb6 9. d5 Ne5 10. Nxe5 Bxe5 11. Nc3 e6 12. Bh6 Re8 13. Re1 Bd7 14. h4 Nc4 15.
@@ -306,7 +284,6 @@ Qb3 b5 16. Rad1 Qc8 17. Kh2 c6 18. f4 Bc7 19. a4 Na5 20. Qb4 exd5 21. Qd4 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.31"]
 [White "Ding Liren"]
 [Black "Shankland,S"]
@@ -320,7 +297,6 @@ Qb3 b5 16. Rad1 Qc8 17. Kh2 c6 18. f4 Bc7 19. a4 Na5 20. Qb4 exd5 21. Qd4 1-0
 [Variation "Cambridge Springs defence, Rubinstein variation"]
 [WhiteFideId "8603677"]
 [BlackFideId "2004887"]
-[EventDate "2019.09.02"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 dxc4 8. Bxf6
 Nxf6 9. Nxc4 Qc7 10. Rc1 Be7 11. g3 O-O 12. Bg2 Rd8 13. O-O Bd7 14. e4 Be8 15.
@@ -337,7 +313,6 @@ a6 Ra5 67. Ra8 Kb6 68. a7 Kb7 69. Rd8 Kxa7 70. Rd5 Ra1 71. Ke5 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.27"]
 [White "Ding Liren"]
 [Black "Shankland,S"]
@@ -350,7 +325,6 @@ a6 Ra5 67. Ra8 Kb6 68. a7 Kb7 69. Rd8 Kxa7 70. Rd5 Ra1 71. Ke5 1-0
 [Opening "Neo-Gruenfeld, 6.O-O, main line"]
 [WhiteFideId "8603677"]
 [BlackFideId "2004887"]
-[EventDate "2019.09.02"]
 
 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 c6 7. cxd5 cxd5 8. Ne5
 Nc6 9. Nc3 e6 10. Nxc6 bxc6 11. Na4 Nd7 12. Bf4 Qa5 13. Rc1 Ba6 14. b3 Bb5 15.
@@ -364,7 +338,6 @@ Nh7 48. Ba5 Nf8 49. Kd3 Bh8 50. Kc3 Bg7 51. Bb4 Nh7 52. Bc5 Bf8 53. Bd7 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.15"]
 [Round "2.3"]
 [White "Ding Liren"]
 [Black "Movsesian,S"]
@@ -377,7 +350,6 @@ Nh7 48. Ba5 Nf8 49. Kd3 Bh8 50. Kc3 Bg7 51. Bb4 Nh7 52. Bc5 Bf8 53. Bd7 1-0
 [Opening "English opening"]
 [WhiteFideId "8603677"]
 [BlackFideId "310204"]
-[EventDate "2019.09.10"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. b3 Bd6 8. Bb2
 O-O 9. d3 Qe7 10. Nbd2 Ba3 11. Bxa3 Qxa3 12. Qc1 Qe7 13. Qb2 Bg4 14. Rac1 Rad8
@@ -388,7 +360,6 @@ Qf3 28. Rxe8+ Rxe8 29. Kg1 Re2 30. Qxe2 Qxe2 31. c6 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.11"]
 [Round "1.2"]
 [White "Ding Liren"]
 [Black "Press,S"]
@@ -402,7 +373,6 @@ Qf3 28. Rxe8+ Rxe8 29. Kg1 Re2 30. Qxe2 Qxe2 31. c6 1-0
 [Variation "Mikenas-Carls, Flohr variation"]
 [WhiteFideId "8603677"]
 [BlackFideId "9100075"]
-[EventDate "2019.09.10"]
 
 1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Nfd7 5. d4 dxc4 6. Bxc4 Nb6 7. Bd3 c5 8. dxc5
 Bxc5 9. Nf3 Nc6 10. O-O h6 11. Qe2 Bd7 12. a3 Nd5 13. Ne4 Be7 14. b4 Qb8 15. Bb2
@@ -411,7 +381,6 @@ Nf4 16. Qe3 Nxd3 17. Qxd3 O-O 18. b5 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.22"]
 [Round "4.3"]
 [White "Ding Liren"]
 [Black "Alekseenko,K"]
@@ -424,7 +393,6 @@ Nf4 16. Qe3 Nxd3 17. Qxd3 O-O 18. b5 1-0
 [Opening "English opening"]
 [WhiteFideId "8603677"]
 [BlackFideId "4135539"]
-[EventDate "2019.09.10"]
 
 1. c4 e5 2. g3 Nc6 3. Nc3 g6 4. Bg2 d6 5. e3 Bg7 6. Nge2 h5 7. h4 Be6 8. b3 Nf6
 9. d4 exd4 10. exd4 Bg4 11. O-O Qd7 12. Bg5 O-O 13. Qd2 Rae8 14. Rae1 a6 15. d5
@@ -434,7 +402,6 @@ Rxe1 22. Bh6 Bd3+ 23. Kh2 Qe7 24. c5 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.18"]
 [Round "3.3"]
 [White "Ding Liren"]
 [Black "Firouzja,Alireza"]
@@ -448,7 +415,6 @@ Rxe1 22. Bh6 Bd3+ 23. Kh2 Qe7 24. c5 1-0
 [Variation "classical variation (5.Bf4)"]
 [WhiteFideId "8603677"]
 [BlackFideId "12573981"]
-[EventDate "2019.09.10"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O
 c5 9. dxc5 Nxc5 10. Bxc4 Qxd1 11. Rfxd1 b6 12. Bd6 Bxd6 13. Rxd6 Bb7 14. Rad1
@@ -465,7 +431,6 @@ Rxb6 Rd3 60. Kxa5 Kf5 61. Ka6 Ke5 62. a5 Rd7 63. Rc6 Kd5 64. Kb6 Rd8 65. a6 Rb8+
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.24"]
 [Round "5.2"]
 [White "Ding Liren"]
 [Black "Grischuk,A"]
@@ -478,7 +443,6 @@ Rxb6 Rd3 60. Kxa5 Kf5 61. Ka6 Ke5 62. a5 Rd7 63. Rc6 Kd5 64. Kb6 Rd8 65. a6 Rb8+
 [Opening "English opening"]
 [WhiteFideId "8603677"]
 [BlackFideId "4126025"]
-[EventDate "2019.09.10"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. d3 d5 5. cxd5 Nxd5 6. Nc3 Nb6 7. Nf3 Nc6 8. O-O
 O-O 9. a3 a5 10. Na4 Nxa4 11. Qxa4 Nd4 12. Nxd4 Bxd4 13. Bd2 c6 14. e3 Bb6 15.
@@ -491,7 +455,6 @@ Qxe6 35. Qb7+ Kg8 36. Bd4 Qf5 37. Kh2 Qc2 38. Qd5+ Kh7 39. Qf7 Qd3 40. Bc3 Qd6
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.28"]
 [Round "6.4"]
 [White "Ding Liren"]
 [Black "Yu Yangyi"]
@@ -504,7 +467,6 @@ Qxe6 35. Qb7+ Kg8 36. Bd4 Qf5 37. Kh2 Qc2 38. Qd5+ Kh7 39. Qf7 Qd3 40. Bc3 Qd6
 [Opening "English, Kramnik-Shirov counterattack"]
 [WhiteFideId "8603677"]
 [BlackFideId "8603820"]
-[EventDate "2019.09.10"]
 
 1. c4 e5 2. Nc3 Bb4 3. Nd5 a5 4. Nf3 d6 5. a3 Bc5 6. e3 Nf6 7. d4 Nxd5 8. cxd5
 exd4 9. exd4 Bb6 10. Bg5 f6 11. Be3 O-O 12. Bd3 f5 13. Qc2 Nd7 14. Bxf5 Nf6 15.
@@ -517,7 +479,6 @@ Rxg5 41. Re7 Nc5 42. Rxh4 Rf5 43. f3 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.10.01"]
 [Round "7.2"]
 [White "Ding Liren"]
 [Black "Radjabov,T"]
@@ -531,7 +492,6 @@ Rxg5 41. Re7 Nc5 42. Rxh4 Rf5 43. f3 1-0
 [Variation "Mikenas-Carls, Sicilian variation"]
 [WhiteFideId "8603677"]
 [BlackFideId "13400924"]
-[EventDate "2019.09.10"]
 
 1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5 8.
 Ndb5 a6 9. Nd6+ Bxd6 10. Qxd6 f6 11. Be3 Ne7 12. Bb6 Nf5 13. Qb4 Nc6 14. Qc5 Qe7
@@ -543,7 +503,6 @@ Qb6 Qd7 35. Qxd4 Qe7 36. Ka2 Nf5 37. Qc3 b6 38. h5 Re8 39. h6 Ne3 40. Re1 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.18"]
 [Round "2.22"]
 [White "Ding Liren"]
 [Black "Nepomniachtchi,I"]
@@ -552,7 +511,6 @@ Qb6 Qd7 35. Qxd4 Qe7 36. Ka2 Nf5 37. Qc3 b6 38. h5 Re8 39. h6 Ne3 40. Re1 1-0
 [BlackFideId "4168119"]
 [BlackTitle "GM"]
 [ECO "A35"]
-[EventDate "2019.09.02"]
 [Opening "English"]
 [Variation "symmetrical, four knights system"]
 [WhiteElo "2811"]
@@ -569,7 +527,6 @@ Qb6 Qd7 35. Qxd4 Qe7 36. Ka2 Nf5 37. Qc3 b6 38. h5 Re8 39. h6 Ne3 40. Re1 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.18"]
 [Round "2.28"]
 [White "Ding Liren"]
 [Black "Nepomniachtchi,I"]
@@ -578,7 +535,6 @@ Qb6 Qd7 35. Qxd4 Qe7 36. Ka2 Nf5 37. Qc3 b6 38. h5 Re8 39. h6 Ne3 40. Re1 1-0
 [BlackFideId "4168119"]
 [BlackTitle "GM"]
 [ECO "D02"]
-[EventDate "2019.09.02"]
 [Opening "Queen's pawn game"]
 [WhiteElo "2811"]
 [WhiteFideId "8603677"]
@@ -593,7 +549,6 @@ Qb6 Qd7 35. Qxd4 Qe7 36. Ka2 Nf5 37. Qc3 b6 38. h5 Re8 39. h6 Ne3 40. Re1 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.11.18"]
 [Round "2.24"]
 [White "Ding Liren"]
 [Black "Nepomniachtchi,I"]
@@ -602,7 +557,6 @@ Qb6 Qd7 35. Qxd4 Qe7 36. Ka2 Nf5 37. Qc3 b6 38. h5 Re8 39. h6 Ne3 40. Re1 1-0
 [BlackFideId "4168119"]
 [BlackTitle "GM"]
 [ECO "A22"]
-[EventDate "2019.09.02"]
 [Opening "English"]
 [Variation "Bremen, reverse dragon"]
 [WhiteElo "2811"]

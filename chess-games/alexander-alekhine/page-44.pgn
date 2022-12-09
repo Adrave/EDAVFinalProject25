@@ -1,13 +1,11 @@
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C M Sequeira"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "123"]
 [WhiteElo "?"]
 
@@ -27,14 +25,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "H B Gledhill"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -49,14 +45,12 @@
 
 [Event "Simul, 50b"]
 [Site "Bandung"]
-[Date "1933.03.02"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "M Ellerboek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C68"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -72,14 +66,12 @@
 
 [Event "Simul, 50b"]
 [Site "Jakarta"]
-[Date "1933.03.01"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E D G Frahm"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -94,14 +86,12 @@
 
 [Event "Simul, 46b"]
 [Site "Malang"]
-[Date "1933.03.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "L C Burer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E80"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -116,14 +106,12 @@
 
 [Event "Simul, 50b"]
 [Site "Bandung"]
-[Date "1933.03.02"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "De Wit"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D18"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -141,14 +129,12 @@
 
 [Event "Simul, 50b"]
 [Site "Bandung INA"]
-[Date "1933.03.02"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "P Onnen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C13"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -163,14 +149,12 @@
 
 [Event "Simul, 51b"]
 [Site "Djokjakarta INA"]
-[Date "1933.03.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "W J van Haeften"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B01"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -185,14 +169,12 @@
 
 [Event "Simul, 33b"]
 [Site "Tjepoe"]
-[Date "1933.03.07"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "De Klerck"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -205,14 +187,12 @@
 
 [Event "Simul, 50b"]
 [Site "Semarang INA"]
-[Date "1933.03.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Johan Karel Hendrik Bianchi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B74"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -228,14 +208,12 @@
 
 [Event "Simul, 46b"]
 [Site "Malang"]
-[Date "1933.03.05"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A A Stegerhoek"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C21"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -250,14 +228,12 @@
 
 [Event "Simul, 50b"]
 [Site "Semarang"]
-[Date "1933.03.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Leendert Gerardus Engelen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -272,14 +248,12 @@
 
 [Event "Simul, 50b"]
 [Site "Semarang"]
-[Date "1933.03.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "G Goossens"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -295,14 +269,12 @@
 
 [Event "Simul, 37b"]
 [Site "Hong Kong"]
-[Date "1933.02.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Paul BW"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E85"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -320,14 +292,12 @@
 
 [Event "Simul, 50b"]
 [Site "Semarang"]
-[Date "1933.03.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Biewanus"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -344,14 +314,12 @@
 
 [Event "Simul, 50b"]
 [Site "Semarang"]
-[Date "1933.03.08"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Willem Albert van Rhee"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B15"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -367,14 +335,12 @@
 
 [Event "Blindfold simul, 2b"]
 [Site "Jakarta"]
-[Date "1933.03.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A Rosmuller"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -390,14 +356,12 @@
 
 [Event "Simul, 12b"]
 [Site "Jakarta"]
-[Date "1933.03.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Dirk Bleijkmans"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A81"]
-[EventDate "????.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -414,14 +378,12 @@
 
 [Event "Exhibition game"]
 [Site "Jakarta"]
-[Date "1933.03.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Willem Frederik Wertheim"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "????.??.??"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -436,14 +398,12 @@
 
 [Event "Blindfold simul, 11b"]
 [Site "Sukabumi INA"]
-[Date "1933.03.10"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "G S Tan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D06"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -457,14 +417,12 @@
 
 [Event "Simul, 50b"]
 [Site "Surabaya"]
-[Date "1933.03.20"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "W N Dinger"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -478,14 +436,12 @@
 
 [Event "Palembang"]
 [Site "Palembang"]
-[Date "1933.03.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Barth"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "????.??.??"]
 [PlyCount "53"]
 [WhiteElo "?"]
 
@@ -499,14 +455,12 @@
 
 [Event "Simul, 12b"]
 [Site "Jakarta"]
-[Date "1933.03.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C M Roggeveen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B45"]
-[EventDate "????.??.??"]
 [PlyCount "119"]
 [WhiteElo "?"]
 
@@ -525,14 +479,12 @@
 
 [Event "Palembang"]
 [Site "Palembang"]
-[Date "1933.03.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E Geitz"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C65"]
-[EventDate "????.??.??"]
 [PlyCount "101"]
 [WhiteElo "?"]
 
@@ -549,14 +501,12 @@
 
 [Event "Blindfold simul, 10b"]
 [Site "Bandung INA"]
-[Date "1933.03.12"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "P Onnen"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B41"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 

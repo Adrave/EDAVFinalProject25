@@ -1,6 +1,5 @@
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "3"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -22,7 +21,6 @@ Rxc6 31.Nxc6 Kxc6 32.Kf3 1/2-1/2
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Bronstein David I (RUS)"]
@@ -47,7 +45,6 @@ Rxf5+ 36.Bf3 Nd5 37.Rg8+ Kb7 38.Qe4 Qd2+ 39.Kg3 c6 40.Qxf5 Qe1+
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -69,7 +66,6 @@ Qa5 14.Qa4 Qxa4 15.Bxa4 Nb4 16.Bxd7+ Kxd7 17.Ke2 f5 18.Nc4 Rhc8
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -95,7 +91,6 @@ Ra8 48.Kxc3 Rb1 49.Rb5 Rxb5 50.Nxb5 a3 51.Nxa3 Rxa3+ 52.Kd4 Ra2
 
 [Event "Izt"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -119,7 +114,6 @@ Kf7 42.Qd5+ Kg7 43.Qd4+ Kf7 44.Qd5+ 1/2-1/2
 
 [Event "Izt"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Jimenez Eleazar (CUB)"]
@@ -142,7 +136,6 @@ a4 37.Ra8 Rb4+ 38.Kf3 Bb3 39.h3 Rb5 40.Kf4 Rb4+ 41.Kf3 Rb5 1/2-1/2
 
 [Event "Izt"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Larsen Bent (DEN)"]
@@ -167,7 +160,6 @@ Bd3 48.Ra1 Ba6 49.Rc6 Rxb4+ 50.Kc2 Bb7 51.Rc3 Re2+ 52.Kd1 Rg2 0-1
 
 [Event "Izt"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Matulovic Milan (SCG)"]
@@ -194,7 +186,6 @@ Re3 59.Rxe6 Rxg3 60.Ke5 1/2-1/2
 
 [Event "Izt"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -217,7 +208,6 @@ Kg6 36.g4 Rd8 37.Bxf7+ Kg5 38.Rxd8 Bxd8 1/2-1/2
 
 [Event "It"]
 [Site "Rovinj/Zagreb (Croatia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -244,7 +234,6 @@ Rf4 54.Rf3 Rxf3 55.Bxf3 Kc5 56.Bd1 Kd4 57.Bc2 Bc5 58.Ke2 Ba3
 
 [Event "It"]
 [Site "Rovinj/Zagreb (Croatia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Kovacevic Vladimir (SCG)"]
@@ -266,7 +255,6 @@ Nxf4 30.Qe3 Rf2 0-1
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "17"]
 [White "Fischer Robert J (USA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -293,7 +281,6 @@ Bxc4 54.dxc4 Bxe1 55.Kxe1 g5 56.Ke2 Kd6 57.f4 gxf4 58.gxf4 f6
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "11"]
 [White "Fischer Robert J (USA)"]
 [Black "Najdorf Miguel (POL)"]
@@ -318,7 +305,6 @@ Bxb5 37.Nxb5 f6 38.Rd7 Bd8 39.Rc3 fxe5 40.Rxg3 Rf7 41.Rxf7 Kxf7
 
 [Event "Olympiad"]
 [Site "Siegen (Germany)"]
-[Date "1970.??.??"]
 [Round "15"]
 [White "Fischer Robert J (USA)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -342,7 +328,6 @@ c4 42.Kg3 1-0
 
 [Event "Simultan"]
 [Site "Solingen (Germany)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Christoph Manfred Dr (GER)"]
@@ -370,7 +355,6 @@ f6 0-1
 
 [Event "Simultan"]
 [Site ""]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "NN (ITA)"]
@@ -393,14 +377,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Rovinj/Zagreb"]
 [Site "Rovinj/Zagreb YUG"]
-[Date "1970.04.23"]
 [Round "10"]
 [White "Robert James Fischer"]
 [Black "Svetozar Gligoric"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C93"]
-[EventDate "1970.04.12"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -415,14 +397,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Buenos Aires"]
 [Site "Buenos Aires ARG"]
-[Date "1970.07.26"]
 [Round "6"]
 [White "Robert James Fischer"]
 [Black "Alberic O'Kelly de Galway"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C98"]
-[EventDate "1970.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -437,14 +417,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Simul, 20b"]
 [Site "Solingen FRG"]
-[Date "1970.09.29"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Ulrich Dresen"]
 [Result "0-1"]
 [BlackElo "2301"]
 [ECO "B62"]
-[EventDate "1970.??.??"]
 [PlyCount "42"]
 [WhiteElo "2780"]
 
@@ -457,14 +435,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Seibt"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B15"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -480,14 +456,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Hoppe"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -500,14 +474,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Simul, 20b"]
 [Site "Muenster FRG"]
-[Date "1970.09.27"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Haves"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -522,14 +494,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Simul"]
 [Site "Madrid ESP"]
-[Date "1970.12.??"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jose Luis Garcia Bachiller"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B43"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -543,14 +513,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Simul"]
 [Site "Madrid ESP"]
-[Date "1970.12.??"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jose R Arrupe Diego de Somonte"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B90"]
-[EventDate "1970.??.??"]
 [PlyCount "89"]
 [WhiteElo "2780"]
 
@@ -567,14 +535,12 @@ Rfe8 37.Ra5 Re7 38.c5 e3 39.Nf3 f4 40.g4 d3 41.Qd1 Bc3 0-1
 
 [Event "Herceg Novi blitz"]
 [Site "Herceg Novi blitz"]
-[Date "1970.04.08"]
 [Round "6.2"]
 [White "Robert James Fischer"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 

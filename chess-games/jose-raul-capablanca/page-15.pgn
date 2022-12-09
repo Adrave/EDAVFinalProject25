@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Corzo Jorge"]
@@ -22,7 +21,6 @@ Bg4 19.Nxc6 Qxc6 20.Nd4 Qd7 21.e6 Bxe6 22.Nxe6 fxe6 23.Qh5 g6
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Blanco Estera Rafael"]
@@ -44,7 +42,6 @@ a6 31.h5 f4 32.hxg6 hxg6 33.Rxe6 1-0
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Chajes Oscar (GER)"]
@@ -67,7 +64,6 @@ c4 25.Qf5 Be8 26.Rxc4 Qh6 27.Nd5 Kh8 28.Qxf6+ Qxf6 29.Nxf6 Kg7
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Corzo Jorge"]
@@ -89,7 +85,6 @@ Rg7 31.Qd7 Rxe7 32.Rxe7 Qa1+ 33.Kg2 Qb1 34.Qd5+ Kh8 35.Qh5 1-0
 
 [Event ""]
 [Site "Habana (Cuba)"]
-[Date "1913.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Jaffe C"]
@@ -114,7 +109,6 @@ Ne6 48.Kb3 c5 49.Rd1 1-0
 
 [Event "Simultan"]
 [Site "Helsinki (Finland)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Kalske"]
@@ -136,7 +130,6 @@ Ng5 30.Qg3 Qe1+ 31.Kg2 Qe4+ 32.Kf1 Re8 0-1
 
 [Event "Game"]
 [Site "Moscow (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bernstein Osip (FRA)"]
@@ -157,7 +150,6 @@ Nd2 25.Rc1 Nxf3+ 26.Nxf3 Kd7 27.Nd2 Bd5 28.e4 Be6 29.f3 Kd6 30.Kf2 1/2-1/2
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Alekhine Alexander A (RUS)"]
@@ -181,7 +173,6 @@ g6 41.Qe5 f6 42.Qxf6 Qd6+ 43.Qxd6 Rxd6 44.Re7+ Kg8 45.Rxa7 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Bernstein Osip (FRA)"]
@@ -206,7 +197,6 @@ Ra2 41.a6 Ba7 42.Rc1 Rb2 43.g4+ Kg5 44.Rc7 Rxf2+ 45.Kxf2 Nxg4+
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Blackburne Joseph H (ENG)"]
@@ -228,7 +218,6 @@ Bxc2 21.Qxc2 f5 22.Kh2 Nc6 23.Rg1 Nd8 24.gxf5 Rxf5 25.Nh4 Rh5
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Janowski Dawid M (POL)"]
@@ -250,7 +239,6 @@ Nxd5 26.exd5 Qxd5 27.c6+ Kb8 28.cxd7 Qxd7 29.d5 Re8 30.d6 cxd6
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -275,7 +263,6 @@ axb5 43.axb5 Kd7 44.Bf2 Kc8 45.Be3 Kd7 46.Bf2 Kc8 47.Be3 Kd7
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Lasker Emanuel (GER)"]
@@ -309,7 +296,6 @@ Rb6 98.Nd5 Ra6 99.Nc3 Kg8 100.Ne4 Rb6 1/2-1/2
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -332,7 +318,6 @@ Kd7 34.Qb7+ Kd6 1/2-1/2
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -359,7 +344,6 @@ Rxg7 60.a7 Rg6+ 61.Kf5 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1914.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -390,7 +374,6 @@ Kb4 81.Rg1 Ra2+ 82.Kb1 Rd2 0-1
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1915.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Marshall Frank J (USA)"]
@@ -412,7 +395,6 @@ Rxe7 25.Rxe7 Kd8 26.Re2 Rf8 27.Nd1 Ng8 28.Kd2 Ne7 29.Bd3 Nf5
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1915.??.??"]
 [Round "?"]
 [White "Capablanca Jose Raul (CUB)"]
 [Black "Michelsen (USA)"]
@@ -433,14 +415,12 @@ b6 20.Nc3 Nc7 21.Qd3 Rd8 22.Rae1 bxc5 23.dxc5 Nb5 24.Bxb5 cxb5
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg  RUE"]
-[Date "1914.04.22"]
 [Round "2"]
 [White "Jose Raul Capablanca"]
 [Black "Frank James Marshall"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "1914.04.21"]
 [PlyCount "70"]
 [WhiteElo "?"]
 
@@ -455,14 +435,12 @@ b6 20.Nc3 Nc7 21.Qd3 Rd8 22.Rae1 bxc5 23.dxc5 Nb5 24.Bxb5 cxb5
 
 [Event "Simul, 27b"]
 [Site "Yuryev RUE"]
-[Date "1914.01.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Adolf Kramer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "1914.??.??"]
 [PlyCount "18"]
 [WhiteElo "?"]
 
@@ -473,14 +451,12 @@ b6 20.Nc3 Nc7 21.Qd3 Rd8 22.Rae1 bxc5 23.dxc5 Nb5 24.Bxb5 cxb5
 
 [Event "Simul"]
 [Site "Yuryev RUE"]
-[Date "1914.01.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Anton Jurgenstein"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "1914.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -494,14 +470,12 @@ b6 20.Nc3 Nc7 21.Qd3 Rd8 22.Rae1 bxc5 23.dxc5 Nb5 24.Bxb5 cxb5
 
 [Event "Match"]
 [Site "Paris FRA"]
-[Date "1914.03.20"]
 [Round "1"]
 [White "Jose Raul Capablanca"]
 [Black "Arnold Aurbach"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D08"]
-[EventDate "1914.03.20"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -515,14 +489,12 @@ b6 20.Nc3 Nc7 21.Qd3 Rd8 22.Rae1 bxc5 23.dxc5 Nb5 24.Bxb5 cxb5
 
 [Event "Simul"]
 [Site "Yuryev RUE"]
-[Date "1914.01.01"]
 [Round "?"]
 [White "Jose Raul Capablanca"]
 [Black "Kurt Baron Ungern-Sternberg"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "1914.01.01"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -539,14 +511,12 @@ b6 20.Nc3 Nc7 21.Qd3 Rd8 22.Rae1 bxc5 23.dxc5 Nb5 24.Bxb5 cxb5
 
 [Event "Vienna"]
 [Site "Vienna AUH"]
-[Date "1914.03.15"]
 [Round "2"]
 [White "Jose Raul Capablanca"]
 [Black "Savielly Tartakower"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B42"]
-[EventDate "1914.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -561,14 +531,12 @@ b6 20.Nc3 Nc7 21.Qd3 Rd8 22.Rae1 bxc5 23.dxc5 Nb5 24.Bxb5 cxb5
 
 [Event "St. Petersburg"]
 [Site "St. Petersburg  RUE"]
-[Date "1914.05.19"]
 [Round "8"]
 [White "Jose Raul Capablanca"]
 [Black "Siegbert Tarrasch"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C49"]
-[EventDate "1914.04.21"]
 [PlyCount "165"]
 [WhiteElo "?"]
 

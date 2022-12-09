@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -22,7 +21,6 @@ b5 31.Rxe8+ Qxe8 32.Qxa7 Nxc2 33.Ng5 Qe3+ 34.Kxc2 1/2-1/2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -44,7 +42,6 @@ h5 30.Kf2 Kh7 31.a5 g5 32.fxg5 Kg6 33.Nd7 Ra7 34.Nb6 Be4 35.Rc4 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -65,7 +62,6 @@ Rxh7 25.cxb6+ 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Geneva (Switzerland)"]
-[Date "1977.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -93,7 +89,6 @@ g4 59.fxg4+ Kxg4 60.Kg2 Rb8 61.Rxa4 Rxb6 62.Kf2 Rb2+ 63.Ke1 f3
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Geneva (Switzerland)"]
-[Date "1977.??.??"]
 [Round "5"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -120,7 +115,6 @@ Rg1+ 58.Qg3 Rxg3+ 59.Kxg3 Nd2 60.Re7+ Ne4+ 61.Kg4 1-0
 
 [Event "Ch World (match) (cand.) (1/2)"]
 [Site "Geneva (Switzerland)"]
-[Date "1977.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -143,7 +137,6 @@ Bg7 37.Bb2 f6 38.Bxf6 Rxe2 39.Rxe2 Qf7 40.Re6 1-0
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1977.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -166,7 +159,6 @@ Rb8 36.Rxf5 gxf5 37.Kf4 Rf8 38.Bh6 Rg8 39.Kxf5 Rg1 40.Bg5 1-0
 
 [Event "Ch World (match) (cand.) (1/4)"]
 [Site "Reykjavik (Iceland)"]
-[Date "1977.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -188,7 +180,6 @@ Nd7 25.Nxd7 Bxd7 26.Nc3 Bf5 27.e4 dxe4 28.Nxe4 Bxe4 29.fxe4 c3
 
 [Event "Match"]
 [Site "Solingen (Germany)"]
-[Date "1977.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -209,7 +200,6 @@ Bc4 26.Rxg7+ Kf8 27.Bxc7 Qxc7 28.Rxf7+ Qxf7 29.Qd6+ Kg8 30.Qd8+ 1-0
 
 [Event "Match"]
 [Site "Solingen (Germany)"]
-[Date "1977.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -234,7 +224,6 @@ Raxf2 48.Rd7+ Ke8 49.Re4+ Kf8 50.Kxg6 1-0
 
 [Event ""]
 [Site "Solingen (Germany)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -257,7 +246,6 @@ Kc7 37.g3 f5 38.Re2 f4 39.Ref2 f3 40.Rxf3 Rxf3 41.Rxf3 Qd2 42.h4 1-0
 
 [Event ""]
 [Site "Solingen (Germany)"]
-[Date "1977.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -280,7 +268,6 @@ Rxh3+ 36.gxh3 Qxe4+ 37.Kh2 Qc2+ 38.Kg1 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -299,7 +286,6 @@ Rd8 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -320,7 +306,6 @@ Rxf4 25.Bxf4 Nxd5 26.Bxd6 Qc6 27.Bf8 Bf6 28.c4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -340,7 +325,6 @@ Nbd7 14.Rfe1 Rac8 15.f3 Rfe8 16.Qf2 Qb8 17.Bd3 Nh5 18.Bf1 Ba8
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -360,7 +344,6 @@ Bf6 20.Nab1 Be7 21.Na3 Bf6 22.Nab1 Be7 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -383,7 +366,6 @@ Rd8 36.Bb5 Nf6+ 1/2-1/2
 
 [Event "It (cat.8)"]
 [Site "Montilla (Spain)"]
-[Date "1978.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -401,7 +383,6 @@ c6 8.a4 a5 9.h3 Qb6 10.Qc1 Re8 11.Rd1 d5 12.Bh2 Nf8 13.Ne5 N6d7 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Dzindzichashvili Roman (USA)"]
@@ -420,7 +401,6 @@ a6 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Miles Anthony J (ENG)"]
@@ -443,7 +423,6 @@ a6 24.Ba4 Qd6 25.Qc5 g5 26.h3 Bxd4 27.Qxd6+ Kxd6 28.Rxd7+ Rxd7
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -462,7 +441,6 @@ c5 14.Rh4 Be7 15.dxc5 Nxc5 16.Rc4 b5 17.Rd4 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ribli Zoltan (HUN)"]
@@ -481,7 +459,6 @@ Nf6 8.O-O Be7 9.Nde2 O-O 10.a3 d6 11.h3 b5 12.g4 Re8 13.g5 Nd7
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Timman Jan H (NED)"]
@@ -507,14 +484,12 @@ Kg5 53.Re7 Kf6 54.Rh7 1/2-1/2
 
 [Event "Spassky - Portisch Candidates Semifinal"]
 [Site "Geneva SUI"]
-[Date "1977.07.26"]
 [Round "9"]
 [White "Boris Spassky"]
 [Black "Lajos Portisch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C95"]
-[EventDate "1977.07.03"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -530,14 +505,12 @@ Kg5 53.Re7 Kf6 54.Rh7 1/2-1/2
 
 [Event "Korchnoi - Spassky Candidates Final 1977/78"]
 [Site "Belgrade YUG"]
-[Date "1977.12.26"]
 [Round "12"]
 [White "Boris Spassky"]
 [Black "Viktor Korchnoi"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C18"]
-[EventDate "1977.11.21"]
 [PlyCount "75"]
 [WhiteElo "?"]
 

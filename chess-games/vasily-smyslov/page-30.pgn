@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Cababe Ismini"]
@@ -22,7 +21,6 @@ Qxa3 31.Qc3 Rxd1+ 32.Rxd1 Rb8 33.Qc7 Qf8 34.h3 Nf4 35.Nxf4 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Grabczewski Romuald (POL)"]
@@ -45,7 +43,6 @@ Be7 36.Bd4 f5 37.Nd2 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kolarov Atanas S (BUL)"]
@@ -68,7 +65,6 @@ exf4 32.gxf4 Nh7 33.Rf1 Qh4 34.Qg3 Qxg3+ 35.hxg3 Re7 36.Bc4 Nc8
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Magrin Antonio (ITA)"]
@@ -92,7 +88,6 @@ a5 31.Nc3 Nb4 32.Rg1 Rb6 33.Rdg2 Nf8 34.Nf7+ Rxf7 35.Rg5 Ng6
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Peretz Malkiel (ISR)"]
@@ -115,7 +110,6 @@ fxe4 37.fxe4 Bd4+ 38.Kg2 Nb7 39.Bf4+ Kc5 40.Rc8+ 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ungureanu Emil (ROM)"]
@@ -139,7 +133,6 @@ Kd7 36.Bh3+ Kxd6 37.Rxe8 fxg3 38.hxg3 b6 39.Re6+ Kc7 40.Bg2 Rd7
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Forintos Gyozo V (HUN)"]
@@ -162,7 +155,6 @@ h5 1-0
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Letzelter Jean-Claude (FRA)"]
@@ -183,7 +175,6 @@ Bd3 26.Bh3 h6 27.Ne6 Qd7 28.Qd4 1-0
 
 [Event "Ch Moscow University"]
 [Site "Polanica Zdroj (Poland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Golz Werner (GER)"]
@@ -205,7 +196,6 @@ Qxf8 26.Qh4 Kg7 27.Rf1 Bf5 28.g4 Be4+ 29.Kg1 Qd8 30.Nxe7 Nd7
 
 [Event ""]
 [Site "Polanica Zdroj (Poland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Forintos Gyozo V (HUN)"]
@@ -227,7 +217,6 @@ Bc5 20.Na4 Ng4 21.Nxc5 Ne3 22.Qe2 Nxd1 23.Nxb7 Nxb2 24.Nxa5 bxa5
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1969.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -254,7 +243,6 @@ Rb1 53.Kg2 Kf6 54.Rf5+ Ke6 55.Rxg5 Rc1 56.Rb5 Rc2+ 57.Kg3 b2
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -282,7 +270,6 @@ Rg4 59.Rxg4+ Kxg4 60.e6 g2 61.e7 g1Q 62.e8Q Qd4+ 63.Kc7 Qa7+
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lombardy William J (USA)"]
@@ -305,7 +292,6 @@ Nb7 36.Rxf6 Rxh2 37.Kd2 g4 38.Rg6 Rh1 39.Ke3 Ra1 40.Ra6 Rf1 41.a3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Averkin Orest N (RUS)"]
@@ -326,7 +312,6 @@ axb4 25.axb4 Rc8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "23"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Balashov Yuri S (RUS)"]
@@ -347,7 +332,6 @@ Ra7 19.a3 Rfa8 20.Rb1 Rxa4 21.Rxa4 Rxa4 22.Rxb7 Qc3 23.Qb2 Qxb2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "19"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -366,7 +350,6 @@ Rac8 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "15"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -387,7 +370,6 @@ Ne6 19.Nf4 Nxf4 20.gxf4 Rac8 21.Rd3 Rc4 22.e3 Kf7 23.Rfd1 Ke6
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "21"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kupreichik Viktor D (BLR)"]
@@ -408,7 +390,6 @@ Ne6 20.Rfd1 a6 21.bxa6 Rxa6 22.Ra1 Kf7 23.Qc2 Qc5 24.Nf4 Ng7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -427,7 +408,6 @@ Bxg2 14.Nxg2 c5 15.Ne3 Qe7 16.dxc5 dxc5 17.Qd6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Zaitsev Alexander (RUS)"]
@@ -449,7 +429,6 @@ b4 31.d5+ Kd7 32.Ne4 f5 33.Ng5 a4 34.Rc2 1/2-1/2
 
 [Event "Olympiad Moscow (Trade Unions)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Botvinnik Mikhail M (RUS)"]
@@ -468,7 +447,6 @@ Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 Qd7 12.Qxd7 Nxd7
 
 [Event ""]
 [Site "Skopje (Macedonia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -491,7 +469,6 @@ Rd1 36.Bc4 Rc1 1/2-1/2
 
 [Event ""]
 [Site "Skopje (Macedonia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kurajica Bojan (BIH)"]
@@ -515,14 +492,12 @@ Rc5 30.Re4 Rf5+ 31.Ke1 Kf8 32.Re5 Rxe5+ 33.Bxe5 Bb6 34.Ke2 Ke7
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1969.09.16"]
 [Round "8"]
 [White "Vasily Smyslov"]
 [Black "Orest Averkin"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A36"]
-[EventDate "1969.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -535,14 +510,12 @@ Rc5 30.Re4 Rf5+ 31.Ke1 Kf8 32.Re5 Rxe5+ 33.Bxe5 Bb6 34.Ke2 Ke7
 
 [Event "USSR Championship"]
 [Site "Moscow URS"]
-[Date "1969.09.27"]
 [Round "15"]
 [White "Vasily Smyslov"]
 [Black "Ratmir Kholmov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E17"]
-[EventDate "1969.??.??"]
 [PlyCount "48"]
 [WhiteElo "?"]
 

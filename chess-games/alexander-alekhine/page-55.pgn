@@ -1,13 +1,11 @@
 [Event "Simul, 40b"]
 [Site "Milwaukee, WI USA"]
-[Date "1929.04.22"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Harold Knutsen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Lester Brand"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -44,14 +40,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F B McConnaughy"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C28"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -68,14 +62,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "A J Chapman"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "84"]
 [WhiteElo "?"]
 
@@ -91,14 +83,12 @@
 
 [Event "Simul, 47b"]
 [Site "Cincinnati, OH USA"]
-[Date "1929.04.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Paul Buttenwieser"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C29"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -112,14 +102,12 @@
 
 [Event "Simul, 50b"]
 [Site "LA Athletic Club, Los Angeles, CA USA"]
-[Date "1929.05.07"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Willis E Lamb"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -133,14 +121,12 @@
 
 [Event "Simul, 43b"]
 [Site "Mechanics' Institute, San Francisco, CA USA"]
-[Date "1929.05.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Charles L Bagby"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D43"]
-[EventDate "????.??.??"]
 [PlyCount "94"]
 [WhiteElo "?"]
 
@@ -157,14 +143,12 @@
 
 [Event "Simul, 43b"]
 [Site "Mechanics' Institute, San Francisco, CA USA"]
-[Date "1929.05.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Dmitri Vedensky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E12"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -177,14 +161,12 @@
 
 [Event "Simul, 43b"]
 [Site "Mechanics' Institute, San Francisco, CA USA"]
-[Date "1929.05.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Elmer Walker Gruer"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D44"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -198,14 +180,12 @@
 
 [Event "Simul, 43b"]
 [Site "Mechanics' Institute, San Francisco, CA USA"]
-[Date "1929.05.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Adolf Jay Fink"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "????.??.??"]
 [PlyCount "98"]
 [WhiteElo "?"]
 
@@ -222,14 +202,12 @@
 
 [Event "Simul, 40b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.27"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Jose Joaquin Araiza Munoz"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E11"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -248,14 +226,12 @@
 
 [Event "Simul, 50b"]
 [Site "Mexico City MEX"]
-[Date "1929.05.25"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Alcayaga"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D61"]
-[EventDate "????.??.??"]
 [PlyCount "114"]
 [WhiteElo "?"]
 
@@ -274,14 +250,12 @@
 
 [Event "Simul, 26b"]
 [Site "Seville ESP"]
-[Date "1941.12.16"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "E Gomez"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C78"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -296,14 +270,12 @@
 
 [Event "Simul"]
 [Site "Frankfurt GER"]
-[Date "1942.04.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Walter Niephaus"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -317,14 +289,12 @@
 
 [Event "Simul, 30b"]
 [Site "Vienna GER"]
-[Date "1943.08.28"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Artur Schwarz"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B22"]
-[EventDate "????.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
@@ -342,14 +312,12 @@
 
 [Event "Simul, 29b"]
 [Site "Gijon ESP"]
-[Date "1943.11.06"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Bons"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D45"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -363,14 +331,12 @@
 
 [Event "Clock simul, 10b"]
 [Site "Oviedo ESP"]
-[Date "1943.11.11"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Enrique Cima"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B22"]
-[EventDate "????.??.??"]
 [PlyCount "50"]
 [WhiteElo "?"]
 
@@ -383,14 +349,12 @@
 
 [Event "Simul, 30b"]
 [Site "Oviedo ESP"]
-[Date "1943.11.09"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Enrique Cima"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "E38"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -405,14 +369,12 @@
 
 [Event "Simul"]
 [Site "Salamanca ESP"]
-[Date "1944.04.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Diesel"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "42"]
 [WhiteElo "?"]
 
@@ -425,14 +387,12 @@
 
 [Event "Salamanca simul, 30b"]
 [Site "Salamanca ESP"]
-[Date "1944.04.03"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Pablo de Unamuno"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C03"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -448,14 +408,12 @@
 
 [Event "Almeria"]
 [Site "Almeria ESP"]
-[Date "1945.08.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Lopez Nunez"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C07"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -471,14 +429,12 @@
 
 [Event "cr 1906-07"]
 [Site "cr 1906-07"]
-[Date "1907.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "N Zubakin"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C33"]
-[EventDate "????.??.??"]
 [PlyCount "66"]
 [WhiteElo "?"]
 
@@ -494,14 +450,12 @@
 
 [Event "Simul, 30b"]
 [Site "Santiago CHI"]
-[Date "1927.12.29"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "C Rengifo"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "????.??.??"]
 [PlyCount "30"]
 [WhiteElo "?"]
 
@@ -514,14 +468,12 @@
 
 [Event "Simul, 31b"]
 [Site "Santiago CHI"]
-[Date "1927.12.31"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "F Ureta"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -539,14 +491,12 @@
 
 [Event "Simul, 30b"]
 [Site "Barcelona ESP"]
-[Date "1928.01.24"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "J Duran"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "????.??.??"]
 [PlyCount "60"]
 [WhiteElo "?"]
 

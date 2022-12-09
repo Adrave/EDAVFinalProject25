@@ -1,13 +1,11 @@
 [Event "Leningrad"]
 [Site "Leningrad URS"]
-[Date "1927.07.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Peter Arsenievich Romanovsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Leningrad ch-city"]
 [Site "Leningrad ch-city"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Yakov S Vilner"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D27"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "URS-ch sf4 7th"]
 [Site "Moscow URS"]
-[Date "1931.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Dmitry Dmitrievich Grigorenko"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -66,14 +60,12 @@
 
 [Event "Moscow-chT"]
 [Site "Moscow URS"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -87,14 +79,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1970.03.21"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Yuri Balashov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D34"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 
@@ -110,14 +100,12 @@
 
 [Event "Clock simul, 8b"]
 [Site "London ENG"]
-[Date "1981.04.08"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Gary W Lane"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "????.??.??"]
 [PlyCount "44"]
 [WhiteElo "?"]
 
@@ -130,14 +118,12 @@
 
 [Event "Botvinnik - Tal World Championship Match"]
 [Site "Moscow URS"]
-[Date "1960.04.28"]
 [Round "18"]
 [White "Mikhail Botvinnik"]
 [Black "Mikhail Tal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E24"]
-[EventDate "????.??.??"]
 [PlyCount "152"]
 [WhiteElo "?"]
 
@@ -159,14 +145,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1961.02.27"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Semyon Abramovich Furman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E55"]
-[EventDate "????.??.??"]
 [PlyCount "90"]
 [WhiteElo "?"]
 
@@ -183,14 +167,12 @@
 
 [Event "Tal - Botvinnik World Championship Rematch"]
 [Site "Moscow URS"]
-[Date "1961.03.24"]
 [Round "5"]
 [White "Mikhail Botvinnik"]
 [Black "Mikhail Tal"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E48"]
-[EventDate "????.??.??"]
 [PlyCount "146"]
 [WhiteElo "?"]
 
@@ -211,14 +193,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1961.01.09"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Semyon Abramovich Furman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C85"]
-[EventDate "????.??.??"]
 [PlyCount "109"]
 [WhiteElo "?"]
 
@@ -236,14 +216,12 @@
 
 [Event "URS"]
 [Site "URS"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Viktor Kupreichik"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E69"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -262,14 +240,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1961.12.18"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Semyon Abramovich Furman"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B21"]
-[EventDate "????.??.??"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -283,14 +259,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1952.11.14"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B59"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -305,14 +279,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1952.11.02"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E28"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -328,14 +300,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1953.06.22"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B76"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -350,14 +320,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1953.05.27"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B93"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -373,14 +341,12 @@
 
 [Event "Training"]
 [Site "Training"]
-[Date "1954.??.??"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D18"]
-[EventDate "????.??.??"]
 [PlyCount "72"]
 [WhiteElo "?"]
 
@@ -395,14 +361,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1953.06.24"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E54"]
-[EventDate "????.??.??"]
 [PlyCount "113"]
 [WhiteElo "?"]
 
@@ -421,14 +385,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1954.02.06"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E60"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -441,14 +403,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1954.02.13"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D13"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -462,14 +422,12 @@
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1954.01.30"]
 [Round "?"]
 [White "Mikhail Botvinnik"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C97"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -485,14 +443,12 @@
 
 [Event "Training Match"]
 [Site "Moscow URS"]
-[Date "1957.01.30"]
 [Round "10"]
 [White "Mikhail Botvinnik"]
 [Black "Yuri Averbakh"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E26"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -504,14 +460,12 @@
 
 [Event "Moscow ol (Men) fin-A"]
 [Site "Moscow URS"]
-[Date "1956.09.20"]
 [Round "8.1"]
 [White "Mikhail Botvinnik"]
 [Black "Max Blau"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -528,14 +482,12 @@
 
 [Event "Botvinnik - Smyslov World Championship Match"]
 [Site "Moscow URS"]
-[Date "1957.03.30"]
 [Round "11"]
 [White "Mikhail Botvinnik"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A05"]
-[EventDate "????.??.??"]
 [PlyCount "46"]
 [WhiteElo "?"]
 
@@ -548,14 +500,12 @@
 
 [Event "Botvinnik - Smyslov World Championship Match"]
 [Site "Moscow URS"]
-[Date "1957.03.26"]
 [Round "9"]
 [White "Mikhail Botvinnik"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E62"]
-[EventDate "????.??.??"]
 [PlyCount "80"]
 [WhiteElo "?"]
 

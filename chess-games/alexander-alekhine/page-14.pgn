@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Frijda"]
@@ -24,7 +23,6 @@ Qb5+ 37.Kc2 Rg2 38.Rf1 Qa4+ 39.Kc1 Qxd4 40.Kc2 Be5 41.Nc3 Qe3
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kleefstra"]
@@ -45,7 +43,6 @@ Bh5 26.g4 Nd2 27.gxh5 Nxf3 28.Kg2 Nxd4+ 0-1
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Mulder Bart-Piet (NED)"]
@@ -66,7 +63,6 @@ Rb2 26.Ndb1 Qb3 27.Be1 Ba5 28.Bd2 Nf8 1/2-1/2
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Prins Lodewijk (NED)"]
@@ -91,7 +87,6 @@ c2 46.Kd2 Kxf3 47.Kxc2 Ke4 0-1
 
 [Event ""]
 [Site "Bodegraven (Germany)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "De Meyere A C"]
@@ -113,7 +108,6 @@ Nxf3 31.Nxf3 1/2-1/2
 
 [Event ""]
 [Site "Bodegraven (Germany)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Oskam"]
@@ -133,7 +127,6 @@ Nxe5 19.Bb3 Nd3 20.Bxe6+ Kb8 21.Be3 Nxb2 22.a5 h6 1/2-1/2
 
 [Event "Simultan"]
 [Site "Brno (Czech Republic)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Dolinek"]
@@ -161,7 +154,6 @@ h3 59.Rg8+ Kf3 60.Rh8 Rd7+ 61.Ke5 Kg2 62.Rg8+ Kh1 63.Ra8 Rd2
 
 [Event "Simultan"]
 [Site "Brno (Czech Republic)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tenk R"]
@@ -180,7 +172,6 @@ exd5 8.Bb5+ Nc6 9.O-O O-O 10.dxc5 Bxc3 11.bxc3 Bg4 12.Bxc6 bxc6
 
 [Event "Simultan"]
 [Site "Brno (Czech Republic)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Travnicek R"]
@@ -205,7 +196,6 @@ Ne7 43.Be6 Rc6 44.Rb8+ Kc7 45.Rxe8 Rxe6 46.Rf8 Rc6 47.Ra8 Kd7
 
 [Event "Simultan"]
 [Site "Bussum (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Boekdrucker NM"]
@@ -227,7 +217,6 @@ Qxe3 25.Bf3 Ne4 26.Nd4 Re5 27.Qh2 Bg3 28.Qe2 Nf2+ 29.Kg2 Qh6
 
 [Event ""]
 [Site "Bussum (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Brandes P"]
@@ -249,7 +238,6 @@ Rhg8 0-1
 
 [Event ""]
 [Site "Bussum (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Van Foreest D"]
@@ -270,7 +258,6 @@ g6 24.Rb3 Kc7 25.f3 d5 1/2-1/2
 
 [Event "Simultan (blindfold)"]
 [Site "Chicago (USA)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Mezirov"]
@@ -291,7 +278,6 @@ Nxe5 8.Be2 Qc7 9.Nd4 Bxe2 10.Qxe2 g6 11.O-O-O Bg7 12.f4 Ned7
 
 [Event "Olympiad"]
 [Site "Folkestone (England)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Stahlberg Gideon (SWE)"]
@@ -313,7 +299,6 @@ Bxf3 25.gxf3 Kf8 26.b4 Ke7 27.bxc5 Rdc8 28.Rdb1 Ra7 29.Ra3 Rxc5
 
 [Event "Simultan"]
 [Site "Haarlem (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "And Himlvopen V"]
@@ -333,7 +318,6 @@ b5 19.Qd4 1-0
 
 [Event "Simultan"]
 [Site "Haarlem (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Davidson R"]
@@ -359,7 +343,6 @@ Kc8 47.Rxh7 Bxf3 48.Bxg6 Rg4+ 49.Kf5 e4 50.Kf6 Rf4+ 51.Bf5+ Rxf5+
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1933.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -385,7 +368,6 @@ Kd4 47.Rd1+ Ke4 48.Rxd6 Qe8 49.Rxf6 Qh8 50.Rh6 Kf4 51.Rc8 Qxc8
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1933.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Michell Reginald P (ENG)"]
@@ -416,7 +398,6 @@ Bd4 78.Be5 Bxc5 79.Rxh6 Ra8 80.Rg6 Ra3+ 81.Kg2 Ke4 82.h6 Ra2+
 
 [Event ""]
 [Site "Netherlands"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Van Mindeno A"]
@@ -435,7 +416,6 @@ Nf6 8.Bg5 Be7 9.O-O-O O-O 10.h4 h6 11.Nd5 hxg5 12.Nxe7+ Qxe7
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1933.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Baratz Abraham"]
@@ -458,7 +438,6 @@ Nd6 36.Rxg6 a5 37.h4 Nc4 38.h5 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1933.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Frentz M"]
@@ -478,7 +457,6 @@ Rg8 14.Kh1 f5 15.f3 Kb8 16.exf5 Bxf5 17.Bxc6 bxc6 18.Nxa5 Qc5
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1933.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lazard Frederic"]
@@ -501,7 +479,6 @@ Kg8 30.bxa3 Rxa3 31.h4 h5 32.Rf8+ Kg7 33.R5f7+ Kg6 34.Rf6+ Kg7
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1933.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Zukerman I"]
@@ -522,7 +499,6 @@ Nxb4 25.Nxb6 Rb8 26.Nd7 Rd8 27.a3 Nd3 28.Ra7 Rc8 29.Kf1 1-0
 
 [Event "Simultan"]
 [Site "Prague (Czech Republic)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Ruml"]
@@ -542,7 +518,6 @@ Rde8 14.a4 Ng4 15.Nb3 f6 16.Nxe6 Qxe6 17.h3 Nxb3 18.cxb3 Qxe4
 
 [Event "Olympiad"]
 [Site "Folkestone (England)"]
-[Date "1933.06.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]

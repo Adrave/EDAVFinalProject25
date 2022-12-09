@@ -1,6 +1,5 @@
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2006.01.16"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kamsky Gata (USA)"]
@@ -22,7 +21,6 @@ Nfd7 20.Nb3 Ba8 21.Nb2 Rc7 22.Na4 Rcc8 23.Bd4 Rc6 24.c5 bxc5
 
 [Event "TCh-RUS"]
 [Site "Sochi RUS"]
-[Date "2007.05.06"]
 [Round "5"]
 [White "Karjakin, Sergey"]
 [Black "Najer, E."]
@@ -31,7 +29,6 @@ Nfd7 20.Nb3 Ba8 21.Nb2 Rc7 22.Na4 Rcc8 23.Bd4 Rc6 24.c5 bxc5
 [WhiteElo "2686"]
 [BlackElo "2624"]
 [PlyCount "76"]
-[EventDate "2007.05.02"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. Bxc6+ bxc6 8. d4
 Bxf3 9. Qxf3 exd4 10. c3 dxc3 11. Nxc3 Qd7 12. Be3 Be7 13. Rfe1 g5 14. Bd4 Rh6
@@ -43,7 +40,6 @@ Rxb2 34. Rxa6 Rb4 35. Rc6 Kd7 36. Rf6 Ke7 37. Rc6 Kd7 38. Rf6 Ke7 1/2-1/2
 
 [Event "3rd UKR Games Men"]
 [Site "Evpatoria UKR"]
-[Date "2007.05.22"]
 [Round "3"]
 [White "Karjakin, Sergey"]
 [Black "Miroshnichenko, E."]
@@ -52,7 +48,6 @@ Rxb2 34. Rxa6 Rb4 35. Rc6 Kd7 36. Rf6 Ke7 37. Rc6 Kd7 38. Rf6 Ke7 1/2-1/2
 [WhiteElo "2686"]
 [BlackElo "2646"]
 [PlyCount "65"]
-[EventDate "2007.05.21"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
 O-O-O Nxd4 9. Qxd4 O-O 10. f4 Qa5 11. Bc4 Bd7 12. e5 dxe5 13. fxe5 Bc6 14. Bd2
@@ -64,7 +59,6 @@ Qxg5 1/2-1/2
 
 [Event "3rd UKR Games Men"]
 [Site "Evpatoria UKR"]
-[Date "2007.05.23"]
 [Round "5"]
 [White "Karjakin, Sergey"]
 [Black "Baklan, V."]
@@ -73,7 +67,6 @@ Qxg5 1/2-1/2
 [WhiteElo "2686"]
 [BlackElo "2618"]
 [PlyCount "24"]
-[EventDate "2007.05.21"]
 
 1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nf6 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
 8. O-O Be7 9. dxc5 Nxc5 10. Nb3 Nce4 11. Bf4 O-O 12. c3 Bd6 1/2-1/2
@@ -81,7 +74,6 @@ Qxg5 1/2-1/2
 
 [Event "Aerosvit"]
 [Site "Foros UKR"]
-[Date "2007.06.18"]
 [Round "1"]
 [White "Karjakin, Sergey"]
 [Black "Ivanchuk, V."]
@@ -90,7 +82,6 @@ Qxg5 1/2-1/2
 [WhiteElo "2686"]
 [BlackElo "2729"]
 [PlyCount "45"]
-[EventDate "2007.06.18"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
 Bb3 d6 9. f3 Bd7 10. Qd2 Rc8 11. O-O-O Ne5 12. Kb1 Re8 13. Bh6 Bxh6 14. Qxh6
@@ -100,7 +91,6 @@ Rxc3 15. bxc3 a5 16. a4 Qb6 17. h4 Bxa4 18. h5 Nc6 19. hxg6 Bxb3 20. gxh7+ Kh8
 
 [Event "Aerosvit"]
 [Site "Foros UKR"]
-[Date "2007.06.20"]
 [Round "3"]
 [White "Karjakin, Sergey"]
 [Black "Rublevsky, S."]
@@ -109,7 +99,6 @@ Rxc3 15. bxc3 a5 16. a4 Qb6 17. h4 Bxa4 18. h5 Nc6 19. hxg6 Bxb3 20. gxh7+ Kh8
 [WhiteElo "2686"]
 [BlackElo "2680"]
 [PlyCount "53"]
-[EventDate "2007.06.18"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8.
 O-O Nf6 9. Qf3 Be7 10. Qg3 O-O 11. Bh6 Ne8 12. Bd2 a5 13. e5 a4 14. b3 axb3 15.
@@ -119,7 +108,6 @@ axb3 Rxa1 16. Rxa1 f6 17. f4 g6 18. Qe1 fxe5 19. fxe5 Ng7 20. Na4 c5 21. Be3 d4
 
 [Event "Aerosvit"]
 [Site "Foros UKR"]
-[Date "2007.06.26"]
 [Round "8"]
 [White "Karjakin, Sergey"]
 [Black "Nisipeanu, LD."]
@@ -128,7 +116,6 @@ axb3 Rxa1 16. Rxa1 f6 17. f4 g6 18. Qe1 fxe5 19. fxe5 Ng7 20. Na4 c5 21. Be3 d4
 [WhiteElo "2686"]
 [BlackElo "2693"]
 [PlyCount "36"]
-[EventDate "2007.06.18"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f4 O-O 8. Qf3
 e5 9. Nf5 Bxf5 10. exf5 Nbd7 11. O-O-O Rc8 12. Kb1 Rxc3 13. bxc3 d5 14. Rxd5 e4
@@ -137,7 +124,6 @@ e5 9. Nf5 Bxf5 10. exf5 Nbd7 11. O-O-O Rc8 12. Kb1 Rxc3 13. bxc3 d5 14. Rxd5 e4
 
 [Event "Aerosvit"]
 [Site "Foros UKR"]
-[Date "2007.06.28"]
 [Round "10"]
 [White "Karjakin, Sergey"]
 [Black "Onischuk, Al"]
@@ -146,7 +132,6 @@ e5 9. Nf5 Bxf5 10. exf5 Nbd7 11. O-O-O Rc8 12. Kb1 Rxc3 13. bxc3 d5 14. Rxd5 e4
 [WhiteElo "2686"]
 [BlackElo "2663"]
 [PlyCount "75"]
-[EventDate "2007.06.18"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
 Bb7 9. d3 d6 10. a3 Qd7 11. Nc3 Rfe8 12. a4 b4 13. Ne2 d5 14. exd5 Nxd5 15. Ng3
@@ -158,7 +143,6 @@ Qe5 35. Kg2 hxg3 36. fxg3 Rxf1 37. Kxf1 Qxg3 38. Qxg3 1/2-1/2
 
 [Event "14th Ordix Open"]
 [Site "Mainz GER"]
-[Date "2007.08.19"]
 [Round "11"]
 [White "Karjakin, Sergey"]
 [Black "Khenkin, I."]
@@ -167,7 +151,6 @@ Qe5 35. Kg2 hxg3 36. fxg3 Rxf1 37. Kxf1 Qxg3 38. Qxg3 1/2-1/2
 [WhiteElo "2678"]
 [BlackElo "2602"]
 [PlyCount "38"]
-[EventDate "2007.08.18"]
 
 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Bb5 e6 6. Be3 Nge7 7. c3 Bd7 8. Bxc6
 Bxc6 9. Nf3 Nf5 10. Bd4 a5 11. a4 Nxd4 12. Qxd4 Be7 13. O-O O-O 14. Nbd2 Qc7
@@ -176,7 +159,6 @@ Bxc6 9. Nf3 Nf5 10. Bd4 a5 11. a4 Nxd4 12. Qxd4 Be7 13. O-O O-O 14. Nbd2 Qc7
 
 [Event "NH Chess Tournament"]
 [Site "Amsterdam NED"]
-[Date "2007.08.23"]
 [Round "2"]
 [White "Karjakin, Sergey"]
 [Black "Jussupow, Ar"]
@@ -185,7 +167,6 @@ Bxc6 9. Nf3 Nf5 10. Bd4 a5 11. a4 Nxd4 12. Qxd4 Be7 13. O-O O-O 14. Nbd2 Qc7
 [WhiteElo "2678"]
 [BlackElo "2583"]
 [PlyCount "75"]
-[EventDate "2007.08.22"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3 Bf5 15.
@@ -197,7 +178,6 @@ Rxa6 Rf2+ 34. Ke3 Rxb2 35. Raa7 Rxb3+ 36. Kf2 Rb2+ 37. Kg1 Rc8 38. Rg7+ 1/2-1/2
 
 [Event "NH Chess Tournament"]
 [Site "Amsterdam NED"]
-[Date "2007.08.30"]
 [Round "8"]
 [White "Karjakin, Sergey"]
 [Black "Khalifman, A."]
@@ -206,7 +186,6 @@ Rxa6 Rf2+ 34. Ke3 Rxb2 35. Raa7 Rxb3+ 36. Kf2 Rb2+ 37. Kg1 Rc8 38. Rg7+ 1/2-1/2
 [WhiteElo "2678"]
 [BlackElo "2632"]
 [PlyCount "51"]
-[EventDate "2007.08.22"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
@@ -216,7 +195,6 @@ Nxf5 Rxf5 22. Bd3 Rf6 23. Bc2 Qb6 24. b4 axb4 25. Rxb4 Qc7 26. Qd3 1/2-1/2
 
 [Event "23rd ECC Men"]
 [Site "Kemer TUR"]
-[Date "2007.10.04"]
 [Round "2"]
 [White "Karjakin, Sergey"]
 [Black "Tomashevsky, E."]
@@ -225,7 +203,6 @@ Nxf5 Rxf5 22. Bd3 Rf6 23. Bc2 Qb6 24. b4 axb4 25. Rxb4 Qc7 26. Qd3 1/2-1/2
 [WhiteElo "2694"]
 [BlackElo "2646"]
 [PlyCount "78"]
-[EventDate "2007.10.03"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Nf3 Nbd7 8.
 g3 b6 9. Bg2 Bb7 10. O-O Be4 11. b4 Re8 12. Bb2 c6 13. Rfc1 Qe7 14. Bf1 c5 15.
@@ -237,7 +214,6 @@ a4 Nge5 29. Qb3 Qe6 30. a5 bxa5 31. bxa5 Kh8 32. Qb4 Nd7 33. Bd4 h6 34. a6 Rec8
 
 [Event "23rd ECC Men"]
 [Site "Kemer TUR"]
-[Date "2007.10.06"]
 [Round "4"]
 [White "Karjakin, Sergey"]
 [Black "Grischuk, A."]
@@ -246,7 +222,6 @@ a4 Nge5 29. Qb3 Qe6 30. a5 bxa5 31. bxa5 Kh8 32. Qb4 Nd7 33. Bd4 h6 34. a6 Rec8
 [WhiteElo "2694"]
 [BlackElo "2715"]
 [PlyCount "83"]
-[EventDate "2007.10.03"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
 Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. c3 Qd7 14. Nf1 d5 15. exd5
@@ -259,7 +234,6 @@ Ng6+ 41. Kg3 Ne7 42. Kf4 1/2-1/2
 
 [Event "23rd ECC Men"]
 [Site "Kemer TUR"]
-[Date "2007.10.09"]
 [Round "7"]
 [White "Karjakin, Sergey"]
 [Black "Zhang Pengxiang"]
@@ -268,7 +242,6 @@ Ng6+ 41. Kg3 Ne7 42. Kf4 1/2-1/2
 [WhiteElo "2694"]
 [BlackElo "2644"]
 [PlyCount "91"]
-[EventDate "2007.10.03"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qg4
 g6 9. Qd1 b6 10. h4 h5 11. Nf3 Nc6 12. dxc5 bxc5 13. c4 Nge7 14. cxd5 exd5 15.
@@ -282,7 +255,6 @@ axb6 40. Rb2 Rf4+ 41. Kg3 Rf6 42. a4 Rc6 43. Rb5 Rc3+ 44. Kg2 Rc6 45. a5 bxa5
 
 [Event "Blindfold World Cup"]
 [Site "Bilbao ESP"]
-[Date "2007.10.16"]
 [Round "2"]
 [White "Karjakin, Sergey"]
 [Black "Bu Xiangzhi"]
@@ -291,7 +263,6 @@ axb6 40. Rb2 Rf4+ 41. Kg3 Rf6 42. a4 Rc6 43. Rb5 Rc3+ 44. Kg2 Rc6 45. a5 bxa5
 [WhiteElo "2694"]
 [BlackElo "2692"]
 [PlyCount "56"]
-[EventDate "2007.10.16"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6 8.
 Qf4 Nf5 9. Bb5 Bd6 10. Qe4+ Qe7 11. Bd2 Bd7 12. O-O-O Qxe4 13. Nxe4 Be7 14. g4
@@ -302,7 +273,6 @@ Rd1 Ke7 27. Re1+ Kf7 28. Rd1 Ke7 1/2-1/2
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.03"]
 [Round "6"]
 [White "Karjakin, Sergey"]
 [Black "Laznicka, V."]
@@ -311,7 +281,6 @@ Rd1 Ke7 27. Re1+ Kf7 28. Rd1 Ke7 1/2-1/2
 [WhiteElo "2694"]
 [BlackElo "2610"]
 [PlyCount "42"]
-[EventDate "2007.10.28"]
 
 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8.
 Ne5 a6 9. Qa4+ Bd7 10. Nxd7 Qxd7 11. Qxd7+ Kxd7 12. dxc5 Bxc5 13. Bd3 Rad8 14.
@@ -321,7 +290,6 @@ Bxe3 21. h3 Rd8 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.11.30"]
 [Round "3.1"]
 [White "Karjakin, Sergey"]
 [Black "Bacrot, E."]
@@ -330,7 +298,6 @@ Bxe3 21. h3 Rd8 1/2-1/2
 [WhiteElo "2694"]
 [BlackElo "2695"]
 [PlyCount "52"]
-[EventDate "2007.11.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nxe5 Nd4 12. Nd2 c5 13. a4 Nf4 14. Nef3 Bxf3 15.
@@ -340,7 +307,6 @@ axb5 22. Rxa8 Rxa8 23. Nf3 Ra2 24. b4 cxb4 25. d4 Bf6 26. Rd1 Ra8 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.12.03"]
 [Round "4.1"]
 [White "Karjakin, Sergey"]
 [Black "Nisipeanu, LD."]
@@ -349,7 +315,6 @@ axb5 22. Rxa8 Rxa8 23. Nf3 Ra2 24. b4 cxb4 25. d4 Bf6 26. Rd1 Ra8 1/2-1/2
 [WhiteElo "2694"]
 [BlackElo "2668"]
 [PlyCount "40"]
-[EventDate "2007.11.24"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O h6 7. Nbd2 Ne7 8. Nb3
 g5 9. Ne1 c5 10. Nxc5 Nxc5 11. dxc5 Nc6 12. Bd3 Be4 13. f3 Bxc5+ 14. Kh1 Bf5
@@ -358,7 +323,6 @@ g5 9. Ne1 c5 10. Nxc5 Nxc5 11. dxc5 Nc6 12. Bd3 Be4 13. f3 Bxc5+ 14. Kh1 Bf5
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.12.06"]
 [Round "5.1"]
 [White "Karjakin, Sergey"]
 [Black "Alekseev, Evgeny"]
@@ -367,7 +331,6 @@ g5 9. Ne1 c5 10. Nxc5 Nxc5 11. dxc5 Nc6 12. Bd3 Be4 13. f3 Bxc5+ 14. Kh1 Bf5
 [WhiteElo "2694"]
 [BlackElo "2716"]
 [PlyCount "40"]
-[EventDate "2007.11.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 Be6 12. Bxe6 fxe6 13. d4 exd4 14. Nxd4 Qd7 15.
@@ -376,7 +339,6 @@ Nf1 Nc6 16. Nb3 Qe8 17. Ng3 h5 18. h3 Qg6 19. Qe2 h4 20. Nf1 Nh5 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.12.10"]
 [Round "6.2"]
 [White "Karjakin, Sergey"]
 [Black "Shirov, A."]
@@ -385,7 +347,6 @@ Nf1 Nc6 16. Nb3 Qe8 17. Ng3 h5 18. h3 Qg6 19. Qe2 h4 20. Nf1 Nh5 1/2-1/2
 [WhiteElo "2694"]
 [BlackElo "2739"]
 [PlyCount "65"]
-[EventDate "2007.11.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a4 Na5 13. Ba2 exd4 14. cxd4 c5 15.
@@ -396,7 +357,6 @@ Rxb8 Qxb8 29. Qb1 Qxb1+ 30. Bxb1 c4 31. Nxc4 Nxe4 32. Re3 Nd6 33. Rxe8 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2007.12.11"]
 [Round "6.3"]
 [White "Karjakin, Sergey"]
 [Black "Shirov, A."]
@@ -405,7 +365,6 @@ Rxb8 Qxb8 29. Qb1 Qxb1+ 30. Bxb1 c4 31. Nxc4 Nxe4 32. Re3 Nd6 33. Rxe8 1/2-1/2
 [WhiteElo "2694"]
 [BlackElo "2739"]
 [PlyCount "205"]
-[EventDate "2007.11.24"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
 Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. a4 bxa4 14. Rxa4 a5
@@ -428,7 +387,6 @@ Ng3+ Ke1 102. Ne4 Rf7 103. Ng3 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.18"]
 [Round "5"]
 [White "Karjakin, Sergey"]
 [Black "Motylev, Alexander"]
@@ -436,7 +394,6 @@ Ng3+ Ke1 102. Ne4 Rf7 103. Ng3 1/2-1/2
 [WhiteElo "2678"]
 [BlackElo "2647"]
 [ECO "B12"]
-[EventDate "2007.01.13"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. Nh4 Be4 8. 
 Nd2 c5 9. c3 Nc6 10. Nxe4 dxe4 11. g3 Qb6 12. Be3 Rd8 13. Qa4 Be7 14. Rab1
@@ -446,7 +403,6 @@ Bxh4 15. gxh4 cxd4 16. cxd4 Qb4 17. Bb5 Qxa4 18. Bxa4 Nb6 19. Bc2 Nxd4 20.
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.13"]
 [Round "1"]
 [White "Karjakin, Sergey"]
 [Black "Kramnik, Vladimir"]
@@ -454,7 +410,6 @@ Bxh4 15. gxh4 cxd4 16. cxd4 Qb4 17. Bb5 Qxa4 18. Bxa4 Nb6 19. Bc2 Nxd4 20.
 [WhiteElo "2678"]
 [BlackElo "2766"]
 [ECO "C42"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 
 O-O 8. Qd2 Nd7 9. O-O-O Nc5 10. Be3 Re8 11. Bc4 Be6 12. Bxe6 Nxe6 13. h4 
@@ -466,7 +421,6 @@ d4 d5 26. Kd3 h6 27. Rh5 c6 28. b3 Rg6 29. Rg1 Nd7 30. g4 Nf6 31. Rh4 Ne4
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.15"]
 [Round "3"]
 [White "Karjakin, Sergey"]
 [Black "Topalov, Veselin"]
@@ -474,7 +428,6 @@ d4 d5 26. Kd3 h6 27. Rh5 c6 28. b3 Rg6 29. Rg1 Nd7 30. g4 Nf6 31. Rh4 Ne4
 [WhiteElo "2678"]
 [BlackElo "2783"]
 [ECO "B90"]
-[EventDate "2007.01.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 
 8. f3 h5 9. Qd2 Nbd7 10. O-O-O Be7 11. Kb1 Qc7 12. h3 b5 13. Bd3 h4 14. f4
@@ -489,7 +442,6 @@ Kc3 Rf1 51. Rd7+ Kf8 52. Rd8+ Kf7 53. Rd7+ Kf8 54. Rd8+ 1/2-1/2
 
 [Event "Corus A"]
 [Site "Wijk aan Zee NED"]
-[Date "2007.01.27"]
 [Round "12"]
 [White "Karjakin, Sergey"]
 [Black "Carlsen, Magnus"]
@@ -497,7 +449,6 @@ Kc3 Rf1 51. Rd7+ Kf8 52. Rd8+ Kf7 53. Rd7+ Kf8 54. Rd8+ 1/2-1/2
 [WhiteElo "2678"]
 [BlackElo "2690"]
 [ECO "C83"]
-[EventDate "2007.01.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
  dxe5 Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nb3 Qd7 13. Nbd4 Nxd4 14. 

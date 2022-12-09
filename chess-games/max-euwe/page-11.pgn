@@ -1,6 +1,5 @@
 [Event "Ch Netherlands (match)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "6"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -20,7 +19,6 @@ Kd8 14.e5 Re8 15.Qh3 Bxc3 16.exf6 Bb4 17.fxg7 Bd6 18.Ne5 Bxe5
 
 [Event "Ch Netherlands (match)"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "8"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -42,7 +40,6 @@ Ne8 25.e4 dxe4 26.Rc5 Qd6 27.Bxe4 Kf7 28.R5c3 Ke7 29.Rd3 Qb6
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -65,7 +62,6 @@ Qxf2+ 31.Kxf2 a4 32.Be2 Ra5 33.g4 Rxe5 34.Bxe5 Bc4 35.Rdh3 Bxe2
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Fontein J"]
@@ -86,7 +82,6 @@ Kf8 20.Bxe7+ Nxe7 21.Be4 Rb8 22.Qxd4 g6 23.Nb7 Qe8 24.Rc7 Bc8
 
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Szabo Laszlo (HUN)"]
@@ -112,7 +107,6 @@ e5 54.Bg5 Nb8+ 55.Kd6 e4 56.Ke6 Na6 57.Kxf5 Kd7 58.Bf4 e3 59.b8Q 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Keres Paul (EST)"]
@@ -135,7 +129,6 @@ Bxe5 32.dxe5 Be6 33.Qg5 Bf5 34.hxg6 Bxg6 35.Qh6 Rg8 36.Rd2 Rxd2
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Keres Paul (EST)"]
@@ -156,7 +149,6 @@ Qd5 25.fxe4 Nxe4 26.Qf3 f5 27.b3 Qa8 28.a4 Rb6 29.Rbd1 Qa5 30.Bc4+ 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "11"]
 [White "Euwe Max (NED)"]
 [Black "Keres Paul (EST)"]
@@ -178,7 +170,6 @@ Rf7 26.Be5 Nc6 27.Qd6 Nxe5 28.dxe5 Rff8 29.h3 Bc4 30.Rd1 Bxa2
 
 [Event "It (2)"]
 [Site "Baarn (Netherlands)"]
-[Date "1939.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -202,7 +193,6 @@ Ke7 42.Nc7 Nxd5 43.Nxd5+ Kf7 44.Nc3 Bc2 45.Nxb5 1-0
 
 [Event "It (2)"]
 [Site "Baarn (Netherlands)"]
-[Date "1939.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Spanjaard Eduard"]
@@ -225,7 +215,6 @@ Re8 36.Kf2 Kg5 37.Kg3 f5 38.Nh3+ Kf6 39.Kf4 Rg8 40.Ng5 Rg7 41.Rh8 1-0
 
 [Event "It"]
 [Site "Bournemouth (England)"]
-[Date "1939.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Abrahams Gerald (ENG)"]
@@ -243,7 +232,6 @@ Re8 36.Kf2 Kg5 37.Kg3 f5 38.Nh3+ Kf6 39.Kf4 Rg8 40.Ng5 Rg7 41.Rh8 1-0
 
 [Event "It"]
 [Site "Bournemouth (England)"]
-[Date "1939.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Aitken James"]
@@ -266,7 +254,6 @@ Ke5 35.Rxe7+ Nxe7 36.Rb6 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Hague (Netherlands)"]
-[Date "1939.??.??"]
 [Round "4"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -289,7 +276,6 @@ h6 36.Bf6 Nd3 37.Ra8 Nf4 38.Qe1 Ne6 39.Bb2 Kh7 40.Rxf8 Nxf8 41.Qe7 1-0
 
 [Event "Ch Netherlands (match)"]
 [Site "Rotterdam (Netherlands)"]
-[Date "1939.??.??"]
 [Round "2"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -313,7 +299,6 @@ Bd5 37.a3 Rd8 38.Rxe6 Bxe6 39.Kxe6 Ra8 40.c6 Re8+ 41.Kd7 Kf7
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Barcza Gedeon (HUN)"]
@@ -336,7 +321,6 @@ Re7 35.Ra3 1-0
 
 [Event "It"]
 [Site "Budapest (Hungary)"]
-[Date "1940.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Von Balla Zoltan (HUN)"]
@@ -361,7 +345,6 @@ Qf6 43.Qf2 Qe7 44.Rf1 e3 45.Qf7+ Qxf7 46.Rxf7+ Kg8 47.Rf1 e2
 
 [Event "Tournament"]
 [Site "Delft (Netherlands)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Landau Salo (POL)"]
@@ -383,7 +366,6 @@ Bg7 30.Bb1 Rxe1+ 31.Rxe1 Qa5 32.Rf1 Qc3 33.Qg6 1-0
 
 [Event "Tournament"]
 [Site "Delft (Netherlands)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Den Bosch Johannes (NED)"]
@@ -405,7 +387,6 @@ Bc6 30.Rd2 Rh1 31.Kg3 Rg1+ 32.Kf2 Rh1 33.Kg3 1/2-1/2
 
 [Event "Match"]
 [Site "Leeuwarden (Netherlands)"]
-[Date "1940.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -429,7 +410,6 @@ d3 41.Kg6 Ne3 42.g3 1/2-1/2
 
 [Event "Match"]
 [Site "Leeuwarden (Netherlands)"]
-[Date "1940.??.??"]
 [Round "3"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -455,7 +435,6 @@ Rc8 48.Qf5+ Kg7 49.Qg4+ Kf7 50.Qxc8 Qxc8 51.h8Q Qc6+ 52.Kg1 Qc1+
 
 [Event "Match"]
 [Site "Leeuwarden (Netherlands)"]
-[Date "1940.??.??"]
 [Round "7"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -483,7 +462,6 @@ Rf1+ 58.Ke6 Re1+ 59.Kd6 Rd1+ 60.Ke7 Re1+ 61.Kf8 Re2 62.f7 Re1
 
 [Event "Match"]
 [Site "Steenwijk (Netherlands)"]
-[Date "1940.??.??"]
 [Round "5"]
 [White "Euwe Max (NED)"]
 [Black "Kramer"]
@@ -504,14 +482,12 @@ Bd8 26.dxe6 1-0
 
 [Event "Euwe - Bogoljubov"]
 [Site "Karlsbad CZE"]
-[Date "1941.07.31"]
 [Round "8"]
 [White "Max Euwe"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "1941.07.20"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -525,14 +501,12 @@ Bd8 26.dxe6 1-0
 
 [Event "Euwe - Bogoljubov"]
 [Site "Karlsbad CZE"]
-[Date "1941.07.21"]
 [Round "2"]
 [White "Max Euwe"]
 [Black "Efim Bogoljubov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "1941.07.20"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -549,14 +523,12 @@ Bd8 26.dxe6 1-0
 
 [Event "Bournemouth"]
 [Site "Bournemouth ENG"]
-[Date "1939.08.21"]
 [Round "7"]
 [White "Max Euwe"]
 [Black "Gerald Abrahams"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "1939.08.14"]
 [PlyCount "27"]
 [WhiteElo "?"]
 

@@ -1,6 +1,5 @@
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.13"]
 [Round "2"]
 [White "Caruana, F."]
 [Black "Van der Werf, M."]
@@ -9,7 +8,6 @@
 [WhiteElo "2598"]
 [BlackElo "2389"]
 [PlyCount "53"]
-[EventDate "2008.01.12"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O d6 8. c3
 O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1 g6 13. Ng3 Bf8 14. d4 cxd4 15.
@@ -19,7 +17,6 @@ Qh4 22. Bh3 Qg3 23. Kh1 Nc6 24. Nxc6 Nf3 25. Qxf3 Qxe1+ 26. Kh2 Qe4 27. Bd7 1-0
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.19"]
 [Round "7"]
 [White "Caruana, F."]
 [Black "Carlsson, P."]
@@ -28,7 +25,6 @@ Qh4 22. Bh3 Qg3 23. Kh1 Nc6 24. Nxc6 Nf3 25. Qxf3 Qxe1+ 26. Kh2 Qe4 27. Bd7 1-0
 [WhiteElo "2598"]
 [BlackElo "2501"]
 [PlyCount "71"]
-[EventDate "2008.01.12"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. Qd2
 O-O 9. O-O-O Be6 10. f4 Ng4 11. g3 Nxe3 12. Qxe3 b5 13. Kb1 b4 14. Na4 Bg4 15.
@@ -40,7 +36,6 @@ Rxg8+ Kxg8 35. Rg1+ Kh8 36. Qxh6 1-0
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.22"]
 [Round "9"]
 [White "Caruana, F."]
 [Black "Van der Wiel, J."]
@@ -49,7 +44,6 @@ Rxg8+ Kxg8 35. Rg1+ Kh8 36. Qxh6 1-0
 [WhiteElo "2598"]
 [BlackElo "2490"]
 [PlyCount "87"]
-[EventDate "2008.01.12"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
 O-O-O Bd7 9. f3 b5 10. Kb1 h6 11. Be3 Ne5 12. Bd3 Rb8 13. g4 Nxd3 14. cxd3 a5
@@ -62,7 +56,6 @@ Qb8 Be2 42. h5 gxh5 43. Rc1 Rxe4 44. c7 1-0
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.25"]
 [Round "11"]
 [White "Caruana, F."]
 [Black "Ushenina, A."]
@@ -71,7 +64,6 @@ Qb8 Be2 42. h5 gxh5 43. Rc1 Rxe4 44. c7 1-0
 [WhiteElo "2598"]
 [BlackElo "2484"]
 [PlyCount "72"]
-[EventDate "2008.01.12"]
 
 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Be3 Nd7 6. Bb5 Qc7 7. Nf3 Bxc5 8. Bxc5
 Qxc5 9. Qe2 Ne7 10. O-O Ng6 11. Bd3 O-O 12. c3 Nf4 13. Qd2 Nxd3 14. Qxd3 f6 15.
@@ -83,7 +75,6 @@ Rxe6 Rg7 35. Qe2 Qd7 36. Re8+ Kf7 1-0
 
 [Event "Corus C"]
 [Site "Wijk aan Zee NED"]
-[Date "2008.01.27"]
 [Round "13"]
 [White "Caruana, F."]
 [Black "Negi, P."]
@@ -92,7 +83,6 @@ Rxe6 Rg7 35. Qe2 Qd7 36. Re8+ Kf7 1-0
 [WhiteElo "2598"]
 [BlackElo "2526"]
 [PlyCount "121"]
-[EventDate "2008.01.12"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
@@ -108,7 +98,6 @@ Qf1 Qe4 54. Qe1 Qf3 55. Qe5 f6 56. Qf4 Qc3 57. Kg2 f5 58. Qd6 Kf7 59. Qc5 Qf6
 
 [Event "XXIII Open"]
 [Site "Reykjavik ISL"]
-[Date "2008.03.04"]
 [Round "2"]
 [White "Caruana, F."]
 [Black "Arakhamia, K."]
@@ -117,7 +106,6 @@ Qf1 Qe4 54. Qe1 Qf3 55. Qe5 f6 56. Qf4 Qc3 57. Kg2 f5 58. Qd6 Kf7 59. Qc5 Qf6
 [WhiteElo "2598"]
 [BlackElo "2457"]
 [PlyCount "105"]
-[EventDate "2008.03.03"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nge2 exd4 5. Nxd4 Be7 6. g3 O-O 7. Bg2 Re8 8.
 O-O c6 9. Bf4 Bf8 10. Qd2 Nbd7 11. Rae1 Ne5 12. b3 Ng6 13. Be3 Ng4 14. Bg5 f6
@@ -131,7 +119,6 @@ Bh6 42. Rg1 Nd7 43. Qh4 Rf8 44. Reg2 Ree8 45. Be6 f5 46. Kh3 fxe4 47. Qe7 Qd8
 
 [Event "XXIII Open"]
 [Site "Reykjavik ISL"]
-[Date "2008.03.10"]
 [Round "8"]
 [White "Caruana, F."]
 [Black "Hillarp Persson, T."]
@@ -140,7 +127,6 @@ Bh6 42. Rg1 Nd7 43. Qh4 Rf8 44. Reg2 Ree8 45. Be6 f5 46. Kh3 fxe4 47. Qe7 Qd8
 [WhiteElo "2598"]
 [BlackElo "2535"]
 [PlyCount "89"]
-[EventDate "2008.03.03"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. O-O e5 8.
 Nd2 Be6 9. Nf3 Bd6 10. Ng5 Qe7 11. Nxe6 Qxe6 12. Bc4 Qe7 13. Qg4 Qf8 14. Bg5
@@ -153,7 +139,6 @@ Qxf6 e4 41. Qd4+ c5 42. Bxe4 Qxa2 43. Qd8+ Ka6 44. Qc7 Qb2 45. Bb7+ 1-0
 
 [Event "IX EICC"]
 [Site "Plovdiv BUL"]
-[Date "2008.04.21"]
 [Round "1"]
 [White "Caruana, F."]
 [Black "Berczes, D."]
@@ -162,7 +147,6 @@ Qxf6 e4 41. Qd4+ c5 42. Bxe4 Qxa2 43. Qd8+ Ka6 44. Qc7 Qb2 45. Bb7+ 1-0
 [WhiteElo "2620"]
 [BlackElo "2453"]
 [PlyCount "67"]
-[EventDate "2008.04.21"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 O-O 8.
 Bc4 Nd7 9. Qe2 a6 10. O-O-O b5 11. Bd3 Bb7 12. h4 Be7 13. Kb1 Nf6 14. Nfg5 Bxe4
@@ -174,7 +158,6 @@ Bf6 34. Bb3 1-0
 
 [Event "IX EICC"]
 [Site "Plovdiv BUL"]
-[Date "2008.04.25"]
 [Round "5"]
 [White "Caruana, F."]
 [Black "Jianu, V."]
@@ -183,7 +166,6 @@ Bf6 34. Bb3 1-0
 [WhiteElo "2620"]
 [BlackElo "2531"]
 [PlyCount "53"]
-[EventDate "2008.04.21"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
 O-O-O Bd7 9. f3 Be7 10. Kb1 Qc7 11. g4 Ne5 12. Be3 b5 13. Bd3 b4 14. Nce2 d5
@@ -194,7 +176,6 @@ O-O-O Bd7 9. f3 Be7 10. Kb1 Qc7 11. g4 Ne5 12. Be3 b5 13. Bd3 b4 14. Nce2 d5
 
 [Event "IX EICC"]
 [Site "Plovdiv BUL"]
-[Date "2008.04.27"]
 [Round "7"]
 [White "Caruana, F."]
 [Black "Stevic, H."]
@@ -203,7 +184,6 @@ O-O-O Bd7 9. f3 Be7 10. Kb1 Qc7 11. g4 Ne5 12. Be3 b5 13. Bd3 b4 14. Nce2 d5
 [WhiteElo "2620"]
 [BlackElo "2571"]
 [PlyCount "151"]
-[EventDate "2008.04.21"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 c6 15.
@@ -221,7 +201,6 @@ Bxg5 61. c5 Kh6 62. Nd6 Kg6 63. Qf5+ Kg7 64. Qc8 Qa7 65. Nb7 Be7 66. Kh2 Kg6
 
 [Event "Mitropa Cup m"]
 [Site "Olbia ITA"]
-[Date "2008.05.25"]
 [Round "1"]
 [White "Caruana, F."]
 [Black "Marcos, J."]
@@ -230,7 +209,6 @@ Bxg5 61. c5 Kh6 62. Nd6 Kg6 63. Qf5+ Kg7 64. Qc8 Qa7 65. Nb7 Be7 66. Kh2 Kg6
 [WhiteElo "2620"]
 [BlackElo "2200"]
 [PlyCount "87"]
-[EventDate "2008.05.25"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. a3 g6 5. d3 Bg7 6. g3 Nd4 7. Nxd4 exd4 8. Nb5
 d5 9. Bf4 O-O 10. Nxc7 dxc4 11. dxc4 Nh5 12. Nxa8 Nxf4 13. gxf4 Re8 14. Qd2 Bg4
@@ -243,7 +221,6 @@ Bd4 34. Rd7 Re3 35. Rxd4 Rxe6 36. Rd7 a5 37. Ra7 Re3 38. Rxa5 Rxh3 39. Rb5 Rf3
 
 [Event "Mitropa Cup m"]
 [Site "Olbia ITA"]
-[Date "2008.05.28"]
 [Round "4"]
 [White "Caruana, F."]
 [Black "Lenic, L."]
@@ -252,7 +229,6 @@ Bd4 34. Rd7 Re3 35. Rxd4 Rxe6 36. Rd7 a5 37. Ra7 Re3 38. Rxa5 Rxh3 39. Rb5 Rf3
 [WhiteElo "2620"]
 [BlackElo "2584"]
 [PlyCount "43"]
-[EventDate "2008.05.25"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
 Bb6 9. a4 Rb8 10. Qd3 O-O 11. Bg5 exd4 12. cxd4 h6 13. Bh4 g5 14. Bg3 g4 15. e5
@@ -262,7 +238,6 @@ Qe7 22. Re1 1-0
 
 [Event "Mitropa Cup m"]
 [Site "Olbia ITA"]
-[Date "2008.05.31"]
 [Round "6"]
 [White "Caruana, F."]
 [Black "Haba, P."]
@@ -271,7 +246,6 @@ Qe7 22. Re1 1-0
 [WhiteElo "2620"]
 [BlackElo "2544"]
 [PlyCount "81"]
-[EventDate "2008.05.25"]
 
 1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3
 Qb6 9. Nxg6 hxg6 10. Bd2 Nbd7 11. Qc2 Qc7 12. g3 Bd6 13. f4 g5 14. O-O-O Ng4
@@ -284,7 +258,6 @@ Qa8 Qg7 41. Bb4 1-0
 
 [Event "Mitropa Cup m"]
 [Site "Olbia ITA"]
-[Date "2008.06.02"]
 [Round "8"]
 [White "Caruana, F."]
 [Black "Baramidze, D."]
@@ -293,7 +266,6 @@ Qa8 Qg7 41. Bb4 1-0
 [WhiteElo "2620"]
 [BlackElo "2583"]
 [PlyCount "57"]
-[EventDate "2008.05.25"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
 O-O-O Nxd4 9. Qxd4 O-O 10. f4 Qa5 11. Bc4 Bd7 12. e5 dxe5 13. fxe5 Bc6 14. Bd2
@@ -304,7 +276,6 @@ Ba4 21. b3 Qc7 22. c4 Bc6 23. Qg3 Rd7 24. Bd3 Na4 25. Bb4 Qb6 26. Bxh7+ Kxh7
 
 [Event "17th TCh-Eur"]
 [Site "Novi Sad SRB"]
-[Date "2009.10.24"]
 [Round "3"]
 [White "Caruana, F."]
 [Black "Svidler, P."]
@@ -313,7 +284,6 @@ Ba4 21. b3 Qc7 22. c4 Bc6 23. Qg3 Rd7 24. Bd3 Na4 25. Bb4 Qb6 26. Bxh7+ Kxh7
 [WhiteElo "2662"]
 [BlackElo "2741"]
 [PlyCount "65"]
-[EventDate "2009.10.22"]
 [EventRounds "9"]
 [Source "Mark Crowther"]
 [SourceDate "2009.06.15"]
@@ -328,7 +298,6 @@ Qxb7 Qd4 28. Rbd1 d2 29. Qa6 Re5 30. Qf6 Bg7 31. Qd8+ Bf8 32. Qf6 Bg7 33. Qd8+
 
 [Event "17th TCh-Eur"]
 [Site "Novi Sad SRB"]
-[Date "2009.10.27"]
 [Round "6"]
 [White "Caruana, F."]
 [Black "Sulskis, S."]
@@ -337,7 +306,6 @@ Qxb7 Qd4 28. Rbd1 d2 29. Qa6 Re5 30. Qf6 Bg7 31. Qd8+ Bf8 32. Qf6 Bg7 33. Qd8+
 [WhiteElo "2662"]
 [BlackElo "2568"]
 [PlyCount "87"]
-[EventDate "2009.10.22"]
 [EventRounds "9"]
 [Source "Mark Crowther"]
 [SourceDate "2009.06.15"]
@@ -353,7 +321,6 @@ Ke5 41. gxf5 exf5 42. Bd3 Bc1 43. Bc2 Ba3 44. Bd3 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.24"]
 [Round "2.1"]
 [White "Caruana, F."]
 [Black "Dominguez Perez, L."]
@@ -362,7 +329,6 @@ Ke5 41. gxf5 exf5 42. Bd3 Bc1 43. Bc2 Ba3 44. Bd3 1/2-1/2
 [WhiteElo "2652"]
 [BlackElo "2719"]
 [PlyCount "102"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -380,7 +346,6 @@ h3 Bc7 48. Nc3 Be8 49. g4 fxg4 50. hxg4 Ke5 51. Ne2 h5 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.26"]
 [Round "2.3"]
 [White "Caruana, F."]
 [Black "Dominguez Perez, L."]
@@ -389,7 +354,6 @@ h3 Bc7 48. Nc3 Be8 49. g4 fxg4 50. hxg4 Ke5 51. Ne2 h5 1/2-1/2
 [WhiteElo "2652"]
 [BlackElo "2719"]
 [PlyCount "93"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -407,7 +371,6 @@ Rf4 Bxf2 47. Rxf2 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.26"]
 [Round "2.5"]
 [White "Caruana, F."]
 [Black "Dominguez Perez, L."]
@@ -416,7 +379,6 @@ Rf4 Bxf2 47. Rxf2 1/2-1/2
 [WhiteElo "2652"]
 [BlackElo "2719"]
 [PlyCount "82"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -433,7 +395,6 @@ Nd6 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.27"]
 [Round "3.1"]
 [White "Caruana, F."]
 [Black "Alekseev, Evgeny"]
@@ -442,7 +403,6 @@ Nd6 1/2-1/2
 [WhiteElo "2652"]
 [BlackElo "2715"]
 [PlyCount "45"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -456,7 +416,6 @@ a6 22. a5 Nd4 23. Be3 1/2-1/2
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.11.29"]
 [Round "3.3"]
 [White "Caruana, F."]
 [Black "Alekseev, Evgeny"]
@@ -465,7 +424,6 @@ a6 22. a5 Nd4 23. Be3 1/2-1/2
 [WhiteElo "2652"]
 [BlackElo "2715"]
 [PlyCount "143"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -487,7 +445,6 @@ Bc5 60. Re1 Bb4 61. Re4 Bc5 62. Kd8 Bd6 63. Bc8 Bc5 64. Kc7 Nd5+ 65. Kb7 Nf4
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.12.01"]
 [Round "4.2"]
 [White "Caruana, F."]
 [Black "Gashimov, V."]
@@ -496,7 +453,6 @@ Bc5 60. Re1 Bb4 61. Re4 Bc5 62. Kd8 Bd6 63. Bc8 Bc5 64. Kc7 Nd5+ 65. Kb7 Nf4
 [WhiteElo "2652"]
 [BlackElo "2758"]
 [PlyCount "123"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -516,7 +472,6 @@ Ke5 54. g3 c4 55. bxc4 Rxc4 56. Bf7 Bb4 57. Ra6 Rc3+ 58. Kg4 Bd6 59. Rxa5 Kf6
 
 [Event "World Cup"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2009.12.02"]
 [Round "4.5"]
 [White "Caruana, F."]
 [Black "Gashimov, V."]
@@ -525,7 +480,6 @@ Ke5 54. g3 c4 55. bxc4 Rxc4 56. Bf7 Bb4 57. Ra6 Rc3+ 58. Kg4 Bd6 59. Rxa5 Kf6
 [WhiteElo "2652"]
 [BlackElo "2758"]
 [PlyCount "77"]
-[EventDate "2009.11.21"]
 [EventRounds "7"]
 [EventCountry "RUS"]
 [Source "Mark Crowther"]
@@ -541,7 +495,6 @@ Ke7 34. Kd3 Kd7 35. Kc3 Ke7 36. Kb3 Kd7 37. c6+ Ke6 38. Kc3 Ke7 39. Kc4 1/2-1/2
 
 [Event "52nd It"]
 [Site "Reggio Emilia ITA"]
-[Date "2009.12.29"]
 [Round "2"]
 [White "Caruana, F."]
 [Black "Almasi, Z."]
@@ -550,7 +503,6 @@ Ke7 34. Kd3 Kd7 35. Kc3 Ke7 36. Kb3 Kd7 37. c6+ Ke6 38. Kc3 Ke7 39. Kc4 1/2-1/2
 [WhiteElo "2652"]
 [BlackElo "2704"]
 [PlyCount "27"]
-[EventDate "2009.12.28"]
 [EventRounds "9"]
 [EventCountry "ITA"]
 [EventCategory "15"]
@@ -563,7 +515,6 @@ c6 9. b3 c3 10. Nb1 Bb7 11. Qc2 Nbd7 12. Nxc3 Rc8 13. Ne1 Qb6 14. Nd3 1/2-1/2
 
 [Event "52nd It"]
 [Site "Reggio Emilia ITA"]
-[Date "2009.12.31"]
 [Round "4"]
 [White "Caruana, F."]
 [Black "Kamsky, G."]
@@ -572,7 +523,6 @@ c6 9. b3 c3 10. Nb1 Bb7 11. Qc2 Nbd7 12. Nxc3 Rc8 13. Ne1 Qb6 14. Nd3 1/2-1/2
 [WhiteElo "2652"]
 [BlackElo "2695"]
 [PlyCount "113"]
-[EventDate "2009.12.28"]
 [EventRounds "9"]
 [EventCountry "ITA"]
 [EventCategory "15"]

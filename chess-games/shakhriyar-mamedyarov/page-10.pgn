@@ -5,7 +5,6 @@
 [BlackFideId "411477"]
 [Result "1-0"]
 [Round "02"]
-[Date "Wed Jan 22 2020"]
 [WhiteClock "0:11:18"]
 [BlackClock "0:21:12"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "116807"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Fri Jan 24 2020"]
 [WhiteClock "0:12:02"]
 [BlackClock "0:04:01"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5084423"]
 [Result "1/2-1/2"]
 [Round "06"]
-[Date "Sun Jan 26 2020"]
 [WhiteClock "0:54:28"]
 [BlackClock "0:24:29"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "14111330"]
 [Result "1-0"]
 [Round "07"]
-[Date "Mon Jan 27 2020"]
 [WhiteClock "0:59:38"]
 [BlackClock "0:00:48"]
 
@@ -60,7 +56,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.02.05"]
 [Round "5"]
 [White "Mamedyarov,S"]
 [Black "Zhao Jun"]
@@ -70,7 +65,6 @@
 [BlackTeam "China Pandas"]
 [BlackTitle "GM"]
 [ECO "D37"]
-[EventDate "2020.01.06"]
 [Opening "QGD"]
 [Variation "4.Nf3"]
 [WhiteElo "2770"]
@@ -93,7 +87,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.02.05"]
 [Round "5"]
 [White "Mamedyarov,S"]
 [Black "Wei Yi"]
@@ -103,7 +96,6 @@
 [BlackTeam "China Pandas"]
 [BlackTitle "GM"]
 [ECO "A35"]
-[EventDate "2020.01.06"]
 [Opening "English"]
 [Variation "symmetrical, four knights system"]
 [WhiteElo "2770"]
@@ -133,7 +125,6 @@
 [Result "1/2-1/2"]
 [Round "15"]
 [TimeControl "300+1"]
-[Date "2021.08.14"]
 [WhiteClock "0:01:29"]
 [BlackClock "0:02:43"]
 
@@ -153,7 +144,6 @@
 [Result "1/2-1/2"]
 [Round "17"]
 [TimeControl "300+1"]
-[Date "2021.08.14"]
 [WhiteClock "0:00:27"]
 [BlackClock "0:00:00"]
 
@@ -173,7 +163,6 @@
 [Result "1/2-1/2"]
 [Round "05"]
 [TimeControl "5400+30"]
-[Date "2021.08.21"]
 [WhiteClock "0:35:33"]
 [BlackClock "0:13:58"]
 
@@ -193,7 +182,6 @@
 [Result "1/2-1/2"]
 [Round "03"]
 [TimeControl "900+10"]
-[Date "2021.08.28"]
 [WhiteClock "0:01:43"]
 [BlackClock "0:00:09"]
 
@@ -213,7 +201,6 @@
 [Result "1/2-1/2"]
 [Round "04"]
 [TimeControl "900+10"]
-[Date "2021.08.28"]
 [WhiteClock "0:01:58"]
 [BlackClock "0:00:37"]
 
@@ -233,7 +220,6 @@
 [Result "1/2-1/2"]
 [Round "01"]
 [TimeControl "900+10"]
-[Date "2021.08.28"]
 [WhiteClock "0:13:05"]
 [BlackClock "0:17:04"]
 
@@ -253,7 +239,6 @@
 [Result "1/2-1/2"]
 [Round "02-03"]
 [TimeControl "900+10"]
-[Date "2021.09.01"]
 [WhiteClock "0:07:56"]
 [BlackClock "0:14:12"]
 
@@ -273,7 +258,6 @@
 [Result "1/2-1/2"]
 [Round "05"]
 [TimeControl "900+5"]
-[Date "2021.09.09"]
 [WhiteClock "0:02:46"]
 [BlackClock "0:01:05"]
 
@@ -293,7 +277,6 @@
 [Result "1/2-1/2"]
 [Round "03"]
 [TimeControl "900+5"]
-[Date "2021.09.08"]
 [WhiteClock "0:00:23"]
 [BlackClock "0:00:29"]
 
@@ -313,7 +296,6 @@
 [Result "1/2-1/2"]
 [Round "03"]
 [TimeControl "5400+30"]
-[Date "2021.09.20"]
 [WhiteClock "0:56:16"]
 [BlackClock "0:41:57"]
 
@@ -333,7 +315,6 @@
 [Result "1/2-1/2"]
 [Round "06"]
 [TimeControl "5400+30"]
-[Date "2021.09.23"]
 [WhiteClock "0:58:15"]
 [BlackClock "1:00:09"]
 
@@ -353,7 +334,6 @@
 [Result "1/2-1/2"]
 [Round "05"]
 [TimeControl "5400+30"]
-[Date "2021.09.22"]
 [WhiteClock "0:05:19"]
 [BlackClock "0:22:18"]
 
@@ -372,7 +352,6 @@
 [BlackElo "2664"]
 [Result "1/2-1/2"]
 [Round "12"]
-[Date "2021.10.15"]
 [WhiteClock "0:56:30"]
 [BlackClock "0:14:52"]
 
@@ -392,7 +371,6 @@
 [Result "1/2-1/2"]
 [Round "06"]
 [TimeControl "180+1"]
-[Date "2021.10.26"]
 [WhiteClock "0:01:10"]
 [BlackClock "0:02:06"]
 
@@ -412,7 +390,6 @@
 [Result "1/2-1/2"]
 [Round "05-01"]
 [TimeControl "180+1"]
-[Date "2021.11.09"]
 [WhiteClock "0:01:35"]
 [BlackClock "0:01:36"]
 
@@ -432,7 +409,6 @@
 [Result "1/2-1/2"]
 [Round "06-02"]
 [TimeControl "60+1"]
-[Date "2021.11.09"]
 [WhiteClock "0:00:32"]
 [BlackClock "0:00:23"]
 
@@ -452,7 +428,6 @@
 [Result "1/2-1/2"]
 [Round "05-07"]
 [TimeControl "180+1"]
-[Date "2021.11.09"]
 [WhiteClock "0:00:04"]
 [BlackClock "0:00:07"]
 
@@ -472,7 +447,6 @@
 [Result "1/2-1/2"]
 [Round "06"]
 [TimeControl "5400+30"]
-[Date "2021.11.18"]
 [WhiteClock "0:40:09"]
 [BlackClock "0:33:32"]
 
@@ -492,7 +466,6 @@
 [Result "1/2-1/2"]
 [Round "05"]
 [TimeControl "5400+30"]
-[Date "2021.11.16"]
 [WhiteClock "0:37:46"]
 [BlackClock "0:58:21"]
 

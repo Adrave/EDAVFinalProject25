@@ -1,6 +1,5 @@
 [Event "chess.com Speed 5m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.7"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -9,7 +8,6 @@
 [WhiteElo "2782"]
 [BlackElo "2801"]
 [PlyCount "65"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -24,7 +22,6 @@ Rf1 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.13"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -33,7 +30,6 @@ Rf1 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2801"]
 [PlyCount "46"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -46,7 +42,6 @@ Nc5 9. Ne5 Bd7 10. Be3 Nb3 11. Ra7 Nf6 12. Nxc4 bxc4 13. Bxc4 Ng4 14. Bxb3 Nxe3
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.15"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -55,7 +50,6 @@ Nc5 9. Ne5 Bd7 10. Be3 Nb3 11. Ra7 Nf6 12. Nxc4 bxc4 13. Bxc4 Ng4 14. Bxb3 Nxe3
 [WhiteElo "2782"]
 [BlackElo "2801"]
 [PlyCount "139"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -75,7 +69,6 @@ Kxg4 Kd4 67. Kf3 Kc3 68. Ke2 Kb2 69. Kd1 a2 70. Bxa2 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.17"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -84,7 +77,6 @@ Kxg4 Kd4 67. Kf3 Kc3 68. Ke2 Kb2 69. Kd1 a2 70. Bxa2 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2801"]
 [PlyCount "80"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -100,7 +92,6 @@ bxc6 28. Rxc6 a5 29. Rb1 Rb7 30. g3 axb4 31. axb4 Reb5 32. Rc4 Kg7 33. h4 Kf6
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.23"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -109,7 +100,6 @@ bxc6 28. Rxc6 a5 29. Rb1 Rb7 30. g3 axb4 31. axb4 Reb5 32. Rc4 Kg7 33. h4 Kf6
 [WhiteElo "2782"]
 [BlackElo "2801"]
 [PlyCount "120"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -128,7 +118,6 @@ Bg5 60. h4 Bxh4 1/2-1/2
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.25"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -137,7 +126,6 @@ Bg5 60. h4 Bxh4 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2801"]
 [PlyCount "134"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -157,7 +145,6 @@ Ke7 66. g7 Kf7 67. g8=Q+ Kxg8 1/2-1/2
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.07"]
 [Round "1.29"]
 [White "Giri, A."]
 [Black "Mamedyarov, S."]
@@ -166,7 +153,6 @@ Ke7 66. g7 Kf7 67. g8=Q+ Kxg8 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2801"]
 [PlyCount "101"]
-[EventDate "2018.07.24"]
 [EventType "k.o. (blitz)"]
 [EventRounds "4"]
 [EventCountry "USA"]
@@ -184,7 +170,6 @@ Rxg5 46. Kf4 Rg6 47. Rb7+ Kf6 48. Rb6+ Kg7 49. Rb7+ Kf6 50. Rb5 Kg7 51. Rb7+
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "8.13"]
 [White "Giri, Anish"]
 [Black "Indjic, Aleksandar"]
@@ -192,7 +177,6 @@ Rxg5 46. Kf4 Rg6 47. Rb7+ Kf6 48. Rb6+ Kg7 49. Rb7+ Kf6 50. Rb5 Kg7 51. Rb7+
 [WhiteElo "2783"]
 [BlackElo "2620"]
 [ECO "B06"]
-[EventDate "2018.12.29"]
 
 1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Be3 a6 5. h3 Nd7 6. Bd3 b6 7. c4 Bb7 8. 
 Nc3 e6 9. O-O h6 10. Qd2 Ne7 11. Ne2 e5 12. Ng3 a5 13. Rad1 Nc6 14. Bb1 
@@ -204,7 +188,6 @@ Nd4 Re5 33. b4 Ba6 34. Bb3 Bb7 35. Nf5+ 1/2-1/2
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.09.26"]
 [Round "3.3"]
 [White "Giri, Anish"]
 [Black "Caruana, Fabiano"]
@@ -212,7 +195,6 @@ Nd4 Re5 33. b4 Ba6 34. Bb3 Bb7 35. Nf5+ 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2827"]
 [ECO "C67"]
-[EventDate "2018.09.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Ne8 13. d5 c6 
@@ -224,7 +206,6 @@ Rxa3 32. Rxb7 1/2-1/2
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.25"]
 [Round "6.7"]
 [White "Giri, Anish"]
 [Black "Kovalev, Vladislav"]
@@ -232,7 +213,6 @@ Rxa3 32. Rxb7 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2664"]
 [ECO "E06"]
-[EventDate "2018.10.20"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. Nc3 Nbd7 7. Qd3 a6 8.
  Bf4 c5 9. cxd5 Nxd5 10. Nxd5 exd5 11. dxc5 Nxc5 12. Qc2 Qa5+ 13. Bd2 Qa4 
@@ -248,7 +228,6 @@ Be4 Bc5 50. Rd5+ Ke6 51. Rh5 Rxe3+ 52. Kf4 Rc3 53. Rxh6+ Ke7 54. Rh7+ Kf6
 
 [Event "43. Olympiad 2018"]
 [Site "Batumi GEO"]
-[Date "2018.10.04"]
 [Round "10.7"]
 [White "Giri, Anish"]
 [Black "Harikrishna, Pendyala"]
@@ -256,7 +235,6 @@ Be4 Bc5 50. Rd5+ Ke6 51. Rh5 Rxe3+ 52. Kf4 Rc3 53. Rxh6+ Ke7 54. Rh7+ Kf6
 [WhiteElo "2780"]
 [BlackElo "2743"]
 [ECO "D38"]
-[EventDate "2018.09.24"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 
 8. Rc1 Nc6 9. cxd5 exd5 10. Bd3 Ne7 11. a3 Bxc3+ 12. bxc3 c5 13. dxc5 Bg4 
@@ -272,7 +250,6 @@ Rxa3 20. Rc2 Rc6 21. Rb1 f5 22. f4 Nc8 23. Bb5 Rg6 24. Kd3 Kf8 25. Kd4 Ne7
 
 [Event "2. Du Te Cup 2018"]
 [Site "Shenzhen CHN"]
-[Date "2018.11.05"]
 [Round "2.2"]
 [White "Giri, Anish"]
 [Black "Yu, Yangyi"]
@@ -280,7 +257,6 @@ Rxa3 20. Rc2 Rc6 21. Rb1 f5 22. f4 Nc8 23. Bb5 Rg6 24. Kd3 Kf8 25. Kd4 Ne7
 [WhiteElo "2780"]
 [BlackElo "2764"]
 [ECO "C42"]
-[EventDate "2018.11.04"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bd3 O-O
 8. O-O Nc6 9. Re1 Nb4 10. Bc4 d5 11. Bb3 c6 12. Ne2 Ne4 13. c3 Na6 14. Ng3
@@ -292,7 +268,6 @@ Bxh5 33. Bd3 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "6.16"]
 [White "Giri, Anish"]
 [Black "Cheparinov, Ivan"]
@@ -300,7 +275,6 @@ Bxh5 33. Bd3 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2709"]
 [ECO "B13"]
-[EventDate "2018.12.29"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. h3 Qc7 7. Nf3 g6 8.
  O-O Bf5 9. Be2 Bg7 10. Nbd2 O-O 11. a3 Rad8 12. Re1 Rfe8 13. Nf1 Ne4 14. 
@@ -312,7 +286,6 @@ Qb1+ 32. Kh2 Qc1 33. Rf3 Qb2 34. Re3 Qc1 35. Rf3 Qb2 36. Re3 Qc1 1/2-1/2
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.20"]
 [Round "2.13"]
 [White "Giri, Anish"]
 [Black "Aronian, Levon"]
@@ -320,7 +293,6 @@ Qb1+ 32. Kh2 Qc1 33. Rf3 Qb2 34. Re3 Qc1 35. Rf3 Qb2 36. Re3 Qc1 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2767"]
 [ECO "C67"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
 Nxe5 8. Rxe5 O-O 9. d4 Ne8 10. d5 d6 11. Re1 Bg5 12. c4 Bxc1 13. Qxc1 Nf6 
@@ -336,7 +308,6 @@ Ne2+ 56. Ke3 Nxf4 57. Kxf4 Kb5 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.29"]
 [Round "2.12"]
 [White "Giri, Anish"]
 [Black "Demchenko, Anton"]
@@ -344,7 +315,6 @@ Ne2+ 56. Ke3 Nxf4 57. Kxf4 Kb5 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2679"]
 [ECO "B30"]
-[EventDate "2018.12.29"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. Nc3 Nc7 6. Bxc6 dxc6 7. h3 Ne6
 8. O-O g6 9. d3 Bg7 10. Re1 b6 11. Ne4 O-O 12. b3 a5 13. a4 Nd4 14. Bb2 h6
@@ -362,7 +332,6 @@ Ke6 1/2-1/2
 
 [Event "2. Du Te Cup 2018"]
 [Site "Shenzhen CHN"]
-[Date "2018.11.04"]
 [Round "1.1"]
 [White "Giri, Anish"]
 [Black "Ding, Liren"]
@@ -370,7 +339,6 @@ Ke6 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2816"]
 [ECO "C84"]
-[EventDate "2018.11.04"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. 
 a3 O-O 9. Nc3 Bg4 10. Be3 Nd4 11. Bxd4 exd4 12. Nd5 c5 13. a4 Be6 14. 
@@ -383,7 +351,6 @@ Ng5+ Ke7 39. Nf3 1/2-1/2
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.27"]
 [Round "8.6"]
 [White "Giri, Anish"]
 [Black "Rapport, Richard"]
@@ -391,7 +358,6 @@ Ng5+ Ke7 39. Nf3 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2725"]
 [ECO "E93"]
-[EventDate "2018.10.20"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Nbd7 8. 
 Be3 Ng4 9. Bg5 f6 10. Bh4 a5 11. Nd2 Nh6 12. f3 Nf7 13. Qc2 Nc5 14. O-O 
@@ -402,7 +368,6 @@ Nxb3 27. Rxb3 Rfb8 28. Rxb8 Rxb8 29. Rd1 Rc8 30. Qb2 Be6 31. Nd5 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.28"]
 [Round "15.5"]
 [White "Giri, Anish"]
 [Black "Korobov, Anton"]
@@ -410,7 +375,6 @@ Nxb3 27. Rxb3 Rfb8 28. Rxb8 Rxb8 29. Rd1 Rc8 30. Qb2 Be6 31. Nd5 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2698"]
 [ECO "B30"]
-[EventDate "2018.12.26"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. Re1 Nd4 7. a4 Nec6
 8. Bxc6 Qxc6 9. d3 Be7 10. Nxd4 cxd4 11. Nb5 e5 12. c3 dxc3 13. bxc3 O-O 
@@ -421,7 +385,6 @@ Qb4 Ra6 27. Nd5 Bf5 28. Qc3 Qa8 29. Bxb6 1/2-1/2
 
 [Event "chess.com Speed 1m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.20"]
 [Round "2.27"]
 [White "Giri, Anish"]
 [Black "Aronian, Levon"]
@@ -429,7 +392,6 @@ Qb4 Ra6 27. Nd5 Bf5 28. Qc3 Qa8 29. Bxb6 1/2-1/2
 [WhiteElo "2782"]
 [BlackElo "2767"]
 [ECO "E91"]
-[EventDate "2018.07.24"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 c5 7. O-O Re8 8. 
 Re1 cxd4 9. Nxd4 Nc6 10. Be3 Bd7 11. Qd2 Nxd4 12. Bxd4 Bc6 13. Bf1 a5 14. 
@@ -445,7 +407,6 @@ Kd7 56. Re2 Ke7 57. Rd2 Kd7 58. Re2 Ke7 59. Rd2 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.27"]
 [Round "8.5"]
 [White "Giri, Anish"]
 [Black "Nepomniachtchi, Ian"]
@@ -453,7 +414,6 @@ Kd7 56. Re2 Ke7 57. Rd2 Kd7 58. Re2 Ke7 59. Rd2 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2763"]
 [ECO "B92"]
-[EventDate "2018.12.26"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 
 8. Bg5 Nbd7 9. a4 h6 10. Be3 Ng4 11. Bc1 Ngf6 12. O-O Nc5 13. Nd2 O-O 14. 
@@ -466,7 +426,6 @@ e4 38. Qxc4 Rd1+ 39. Kh2 Qe5+ 40. g3 Rxc1 1/2-1/2
 
 [Event "2. Du Te Cup 2018"]
 [Site "Shenzhen CHN"]
-[Date "2018.11.08"]
 [Round "5.1"]
 [White "Giri, Anish"]
 [Black "Vachier-Lagrave, Maxime"]
@@ -474,7 +433,6 @@ e4 38. Qxc4 Rd1+ 39. Kh2 Qe5+ 40. g3 Rxc1 1/2-1/2
 [WhiteElo "2780"]
 [BlackElo "2778"]
 [ECO "A34"]
-[EventDate "2018.11.04"]
 
 1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. dxc3 Qc7 7. e4 
 Nc6 8. Be3 e6 9. Nd2 Bd6 10. Nc4 Be7 11. Qg4 O-O 12. Qg3 Qxg3 13. hxg3 b5 
@@ -485,7 +443,6 @@ Ne5 26. Bf4 Nf7 27. Ke3 e5 28. Bg3 Bc8 29. b4 g6 30. a4 Kf8 31. a5 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "20.5"]
 [White "Giri, Anish"]
 [Black "Karjakin, Sergey"]
@@ -493,7 +450,6 @@ Ne5 26. Bf4 Nf7 27. Ke3 e5 28. Bg3 Bc8 29. b4 g6 30. a4 Kf8 31. a5 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2753"]
 [ECO "C54"]
-[EventDate "2018.12.29"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 h6 8. 
 Re1 O-O 9. Nbd2 a5 10. Nf1 Be6 11. Bb5 Na7 12. d4 Nxb5 13. axb5 Bb6 14. 
@@ -507,7 +463,6 @@ h4+ Kxh4 44. Rxh6+ Kg5 45. Nxa1 Kxh6 46. Kd3 1/2-1/2
 
 [Event "World Rapid 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.26"]
 [Round "5.11"]
 [White "Giri, Anish"]
 [Black "Timofeev, Artyom"]
@@ -515,7 +470,6 @@ h4+ Kxh4 44. Rxh6+ Kg5 45. Nxa1 Kxh6 46. Kd3 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2589"]
 [ECO "C10"]
-[EventDate "2018.12.26"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. Nf3 Qe7 6. Bf4 Qf7 7. h4 fxe5 8. 
 Bxe5 Bd6 9. Bb5 Bd7 10. Ng5 Qe7 11. Bxc6 Bxc6 12. Qh5+ Kd7 13. Nf7 Nf6 14.
@@ -530,7 +484,6 @@ Kxe3 Kxd5 50. Kf4 Ke6 51. Ke4 Kf6 52. Kf4 Ke6 1/2-1/2
 
 [Event "World Blitz 2018"]
 [Site "St Petersburg RUS"]
-[Date "2018.12.30"]
 [Round "14.4"]
 [White "Giri, Anish"]
 [Black "Nakamura, Hikaru"]
@@ -538,7 +491,6 @@ Kxe3 Kxd5 50. Kf4 Ke6 51. Ke4 Kf6 52. Kf4 Ke6 1/2-1/2
 [WhiteElo "2783"]
 [BlackElo "2746"]
 [ECO "B01"]
-[EventDate "2018.12.29"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O
 8. h3 Nc6 9. Be3 b6 10. Qd2 Bb7 11. Rad1 e6 12. Bh6 Ne7 13. Bxg7 Kxg7 14. 
@@ -548,7 +500,6 @@ Ne5 a6 15. Bf3 Bxf3 16. Nxf3 Qd6 17. Rfe1 Ned5 18. Nxd5 exd5 19. Qd3 a5
 
 [Event "chess.com Speed 3m+1spm 2018"]
 [Site "chess.com INT"]
-[Date "2018.09.20"]
 [Round "2.9"]
 [White "Giri, Anish"]
 [Black "Aronian, Levon"]
@@ -556,7 +507,6 @@ Ne5 a6 15. Bf3 Bxf3 16. Nxf3 Qd6 17. Rfe1 Ned5 18. Nxd5 exd5 19. Qd3 a5
 [WhiteElo "2782"]
 [BlackElo "2767"]
 [ECO "C65"]
-[EventDate "2018.07.24"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Be6 7. O-O 
 Bd6 8. b3 O-O 9. Nc4 Bxc4 10. bxc4 Nd7 11. g3 b5 12. cxb5 cxb5 13. a4 a6 

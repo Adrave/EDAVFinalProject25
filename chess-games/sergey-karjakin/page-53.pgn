@@ -1,6 +1,5 @@
 [Event "It (cat.13)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2005.01.30"]
 [Round "13"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Stellwagen Daniel (NED)"]
@@ -26,7 +25,6 @@ g5 54.b7 h3 55.b8Q Rxb8 56.Bxb8 f5 57.Bh2 1-0
 
 [Event "Ch France (team) 2005"]
 [Site "France"]
-[Date "2005.02.04"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Bricard Emmanuel (FRA)"]
@@ -49,7 +47,6 @@ Ka5 36.Nb3+ Kb5 37.c4+ 1-0
 
 [Event "Ch France (team) 2005"]
 [Site "France"]
-[Date "2005.02.05"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Milliet Sophie (FRA)"]
@@ -71,7 +68,6 @@ Rd8 25.f5 d5 26.Rxd5 Rxd5 27.Qxd5 Qxd5 28.Bxd5 Bxc3 29.fxe6 Bxe1
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2005.02.16"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Wojtaszek Radoslaw (POL)"]
@@ -95,7 +91,6 @@ fxg3 37.hxg3 Kf6 38.Rh2 Rb7 39.Rh1 h6 40.b4 Bxb4 41.Rxh6+ Kg7
 
 [Event "It (open) \"Aeroflot\""]
 [Site "Moscow (Russia)"]
-[Date "2005.02.18"]
 [Round "4"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Galliamova Alisa (RUS)"]
@@ -118,7 +113,6 @@ Re6 31.Kc2 Bd6 32.Re1 Bxe5 33.dxe5 Kh7 34.Kd3 Kh6 35.Ke4 Rb6
 
 [Event "It (cat.16)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2005.04.01"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Felgaer Ruben (ARG)"]
@@ -149,7 +143,6 @@ Rd4 76.f6 Bxf6 77.Rxf6 Rxg4 78.Rf7 h5 79.Ke5 Rg5+ 80.Ke6 Rg1
 
 [Event "It (cat.16)"]
 [Site "Dos Hermanas (Spain)"]
-[Date "2005.04.03"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Dominguez Lenier (CUB)"]
@@ -176,7 +169,6 @@ Qf8 60.Rg2 Rb8 61.Qf4 Rb4 62.Qd6 1-0
 
 [Event "It \"Young Stars of the World\" (cat.10)"]
 [Site "Kirishi (Russia)"]
-[Date "2005.05.18"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Khairullin Ildar (RUS)"]
@@ -209,7 +201,6 @@ Kh4 92.Qf4+ Kh5 93.Kb8 1-0
 
 [Event "It \"Young Stars of the World\" (cat.10)"]
 [Site "Kirishi (Russia)"]
-[Date "2005.05.22"]
 [Round "8"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Nepomniachtchi Ian (RUS)"]
@@ -235,7 +226,6 @@ Kd5 48.Bd4 Bf8 49.Bf3+ Ke6 50.Ke4 Bd6 51.Bg4+ Ke7 52.Kf5 Kd7
 
 [Event "It \"Young Stars of the World\" (cat.10)"]
 [Site "Kirishi (Russia)"]
-[Date "2005.05.24"]
 [Round "10"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Andreikin Dmitry (RUS)"]
@@ -258,7 +248,6 @@ b5 26.cxb5 axb5 27.b4 Na4 28.Nxb5 Nb2 29.Rxc8 Rxc8 30.Nxd6 Nxd1
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.18"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Del Rio Angelis Salvador G (ESP)"]
@@ -280,7 +269,6 @@ Bh6 20.Bc4 Kh8 21.Be3 Qxh5 22.Bxh6 Qxh6 23.Rh1 Qf4 24.Rdg1 g5
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.20"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Anastasian Ashot (ARM)"]
@@ -310,7 +298,6 @@ Bg6 76.Bf7 Be4 77.Be8 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.22"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -333,7 +320,6 @@ Kh8 25.Qxa5 Qe8 26.c4 f5 27.Qc7 Qf7 28.exf5 Qxc7 29.Nxc7 gxf5
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.25"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Asrian Karen (ARM)"]
@@ -360,7 +346,6 @@ Nb7 58.h6 Nd6 59.h7 Ne4+ 60.Ke7 Nxf2 61.h8Q 1-0
 
 [Event "Ch Europe"]
 [Site "Warsaw (Poland)"]
-[Date "2005.06.28"]
 [Round "10"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Moiseenko Alexander (UKR)"]
@@ -389,7 +374,6 @@ Ka7 71.c6 Kb8 72.g5 1-0
 
 [Event "Ch Europe (play-off)"]
 [Site "Warsaw (Poland)"]
-[Date "2005.07.02"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Eljanov Pavel (UKR)"]
@@ -414,7 +398,6 @@ Rd7 49.Bc4 Rxd2 50.Bxe6+ Kg7 51.a7 1-0
 
 [Event "It \"Sanjin Hotel Cup\" (cat.15)"]
 [Site "Tiayuan (China)"]
-[Date "2005.07.14"]
 [Round "6"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Zhang Pengxiang (CHN)"]
@@ -435,7 +418,6 @@ b4 14.Na4 Rb8 15.Nd4 dxe4 16.Nb3 Ned5 17.Nxa5 Qxa5 18.Qg3 Rb7
 
 [Event "Ch Europe (team)"]
 [Site "Goteborg (Sweden)"]
-[Date "2005.08.01"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Upton Timothy J (SCO)"]
@@ -457,7 +439,6 @@ Bd6 30.Qa6 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Goteborg (Sweden)"]
-[Date "2005.08.03"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Kritz Leonid (GER)"]
@@ -483,7 +464,6 @@ Qxe2 54.Rd7+ Kb6 55.Qd6+ 1-0
 
 [Event "Cup European Club (final)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2005.09.18"]
 [Round "1"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Vocaturo Daniele (ITA)"]
@@ -509,7 +489,6 @@ Ke6 48.Nxb4 Bb7 49.Nd3 g5+ 50.hxg5 fxg5+ 51.Ke3 Kd6 52.b4 h6
 
 [Event "Cup European Club (final)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2005.09.19"]
 [Round "2"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Greenfeld Alon (ISR)"]
@@ -530,7 +509,6 @@ Be7 19.fxe6 fxe6 20.Qe2 a6 21.Nd5 exd5 22.exd5 Qxd5 23.Qxe7 Qe5
 
 [Event "Cup European Club (final)"]
 [Site "Saint Vincent (Italy)"]
-[Date "2005.09.24"]
 [Round "7"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Bator Robert (SWE)"]
@@ -554,7 +532,6 @@ Kxf8 42.Rxd5 e4 43.f4 1-0
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.05"]
 [Round "5"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Shen Yang (CHN)"]
@@ -579,7 +556,6 @@ Rxd6 43.Qxd6 Qe8 44.Re4 Qf7 45.Rhf4 Qxd5 46.Qxd5 Rxd5 47.a5 Rd3
 
 [Event "Ch World (team)"]
 [Site "Beer-Sheva (Israel)"]
-[Date "2005.11.10"]
 [Round "9"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Mchedlishvili Mikheil (GEO)"]
@@ -602,7 +578,6 @@ Bf8 25.Bc3 Nd6 26.Be5 Qd8 27.Bxd6 Bxd6 28.Nf5 Qf6 29.Qe4 Rd8
 
 [Event "It (active)"]
 [Site "Benidorm (Spain)"]
-[Date "2005.11.17"]
 [Round "3"]
 [White "Karjakin Sergey (UKR)"]
 [Black "Contreras Henry (COL)"]

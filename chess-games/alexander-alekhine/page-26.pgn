@@ -1,6 +1,5 @@
 [Event "Game (consultation)"]
 [Site "France"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Koltanowski/Sapira"]
@@ -21,7 +20,6 @@ h6 25.e6+ Kg8 26.g4 Bxe4 27.Qxe4 1-0
 
 [Event "Simultan (blindfold)"]
 [Site "France"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Curtois L"]
@@ -44,7 +42,6 @@ Re8 37.Kh2 d4 38.Rc7 Qe6 39.Qb4 d3 40.Qb7 1-0
 
 [Event "Simultan (blindfold)"]
 [Site "France"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lancel E"]
@@ -64,7 +61,6 @@ Kh8 19.Qxg5 hxg5 20.Rxb7 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -89,7 +85,6 @@ Kg5 48.Ke5 Rh8 49.Nxf4 Ra8 50.Ne6+ Kh4 51.Re1 Rh8 52.Rh1# 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -111,7 +106,6 @@ Kh8 31.Qxc5 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Thomas George A (ENG)"]
@@ -138,7 +132,6 @@ Rb5 60.Kc4 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -163,7 +156,6 @@ Kd7 48.Rc7+ Kd8 49.Rc6 Rb7 50.Rxe6 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Marotti Davide (ITA)"]
@@ -184,7 +176,6 @@ Rd6 25.Rc1 Bd8 26.Rc6 Rg7 27.Qb4 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Yates Frederick"]
@@ -207,7 +198,6 @@ Rgf8 37.Rxg7 Rxf6 38.Ke5 1-0
 
 [Event ""]
 [Site "Madrid (Spain)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Golmayo De La Torriente Manuel"]
@@ -229,7 +219,6 @@ Bxf5 20.gxf5 b5 21.cxb5 cxb5 22.e5 Ncd7 23.Qf2 dxe5 24.Nxb5 Qb8
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Hromadka Karel (AUT)"]
@@ -250,7 +239,6 @@ Rc4 25.Qf5 Rf8 26.b3 Rcc8 27.Nf6 Rc5 28.Nxd7 Qc8 29.d6+ 1-0
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Prokes Ladislav (CZE)"]
@@ -279,7 +267,6 @@ Kc6 70.Nxg5 e5 71.Ka7 Kc7 72.a5 Kc6 73.a6 Kc7 74.h4 Kc8 75.Kb6 1-0
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Selezniev Alexei"]
@@ -301,7 +288,6 @@ Rfe8 30.Qf3 Qc5 31.Qf7+ Kh8 32.Qf6+ Kg8 1-0
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Wolf Heinrich (AUT)"]
@@ -324,7 +310,6 @@ Nf6 30.Qxb5 Ra7 31.Re1 Qd6 32.e8Q Nxe8 33.Qxe8 Qxd2 34.Qe5+ Kf7
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Koenig Imre (ENG)"]
@@ -345,7 +330,6 @@ Kh8 14.Bxh6 f5 15.exf6 Bxf6 16.Bg5 cxd4 17.Ne5 Nc6 18.Qe2 g6
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Saemisch Friedrich (GER)"]
@@ -365,7 +349,6 @@ Nd7 14.Bc4 Bxc3 15.Bxf7 Kc7 16.Ne6+ Kb8 17.bxc3 Nde5 18.Bf4 Bxe6
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -391,7 +374,6 @@ Rxb8 54.Rxb8 h5 55.Rb4 Bd5 56.a5 g3 57.a6 1-0
 
 [Event "It"]
 [Site "Vienna (Austria)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -415,7 +397,6 @@ Bf4 42.Qf7+ Kg4 43.Qg6+ Bg5 44.Qxe4+ Kg3 45.Qg6 Kg4 46.Qxb6 1-0
 
 [Event "It"]
 [Site "Margate (England)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reti Richard (CZE)"]
@@ -437,7 +418,6 @@ Kg7 30.b3 e3 31.Qf4 Qe5 32.Qxe5+ Bxe5 33.Kf3 1/2-1/2
 
 [Event "It"]
 [Site "Portsmouth (England)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Hutcheson-Stirling M"]
@@ -459,14 +439,12 @@ Ng4 31.Nxc6 bxc6 32.Rxc6 e5 33.Rc7+ Kh8 1/2-1/2
 
 [Event "Simul, 31b"]
 [Site "Prague CSR"]
-[Date "1923.05.22"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Frajnd"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A40"]
-[EventDate "1923.??.??"]
 [PlyCount "71"]
 [WhiteElo "?"]
 
@@ -481,14 +459,12 @@ Ng4 31.Nxc6 bxc6 32.Rxc6 e5 33.Rc7+ Kh8 1/2-1/2
 
 [Event "Paris blindfold-12"]
 [Site "?"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Villeneau"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A22"]
-[EventDate "1922.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -504,14 +480,12 @@ Ng4 31.Nxc6 bxc6 32.Rxc6 e5 33.Rc7+ Kh8 1/2-1/2
 
 [Event "Bad Pistyan"]
 [Site "Piestany CSR"]
-[Date "1922.04.08"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Alexey Sergeevich Selezniev"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "1922.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -526,14 +500,12 @@ Ng4 31.Nxc6 bxc6 32.Rxc6 e5 33.Rc7+ Kh8 1/2-1/2
 
 [Event "Bad Pistyan"]
 [Site "Piestany CSR"]
-[Date "1922.04.14"]
 [Round "7"]
 [White "Alexander Alekhine"]
 [Black "Heinrich Wolf"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D02"]
-[EventDate "1922.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -549,14 +521,12 @@ Ng4 31.Nxc6 bxc6 32.Rxc6 e5 33.Rc7+ Kh8 1/2-1/2
 
 [Event "Blindfold simul, 10b"]
 [Site "Milan ITA"]
-[Date "1923.03.25"]
 [Round "?"]
 [White "Alexander Alekhine"]
 [Black "Giuseppe Padulli"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B00"]
-[EventDate "1923.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 

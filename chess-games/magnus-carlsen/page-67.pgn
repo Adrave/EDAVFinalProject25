@@ -1,6 +1,5 @@
 [Event "It (cat.8)"]
 [Site "Budapest (Hungary)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Drabke Lorenz (GER)"]
@@ -20,7 +19,6 @@ Kg5 19.h4+ Kxg4 20.Bxe6+ 1-0
 
 [Event "It (cat.8)"]
 [Site "Budapest (Hungary)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Taylor Timothy (USA)"]
@@ -43,7 +41,6 @@ Kb6 35.Qb4+ Ka6 36.Rd3 b6 37.Nd6 Rc5 38.Ra3+ Ra5 39.Qc4+ 1-0
 
 [Event "It (cat.8)"]
 [Site "Budapest (Hungary)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Vajda Szidonia (HUN)"]
@@ -69,7 +66,6 @@ Qd7+ 52.Kg8 Qxh3 53.e6 Kc7 54.Qe5+ Kd8 1-0
 
 [Event "Ch Europe (juniors) (under 14)"]
 [Site "Budva (Yugoslavia)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Krivoborodov Egor (RUS)"]
@@ -93,7 +89,6 @@ Ka8 42.Bc7 Rd7 43.c4 1-0
 
 [Event "Ch Europe (juniors) (under 14)"]
 [Site "Budva (Yugoslavia)"]
-[Date "2003.??.??"]
 [Round "3"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Olszewski Michal (POL)"]
@@ -119,7 +114,6 @@ Kf7 54.Kh2 Qb2 55.h4 Qxf2+ 56.Kh3 Qg2+ 57.Kg4 f2 1-0
 
 [Event "Ch Europe (juniors) (under 14)"]
 [Site "Budva (Yugoslavia)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Zhigalko Sergei (BLR)"]
@@ -146,7 +140,6 @@ Rxb3+ 48.Ke4 Rb6 49.Nf5 Rxh6 50.Nxh6+ Kf8 51.Nf5 a5 52.d6 a4
 
 [Event "It (open) \"Politiken Cup\""]
 [Site "Copenhagen (Denmark)"]
-[Date "2003.??.??"]
 [Round "9"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Harestad Hans Krogh (NOR)"]
@@ -169,7 +162,6 @@ fxg5 37.Rf7+ Kxh6 38.Rxh7# 1-0
 
 [Event "It (open) \"Politiken Cup\""]
 [Site "Copenhagen (Denmark)"]
-[Date "2003.??.??"]
 [Round "11"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Koneru Humpy (IND)"]
@@ -192,7 +184,6 @@ Rxb5 37.Ne4 Qe7 38.Nf6+ Kf7 39.Nd5 1-0
 
 [Event "It (open) \"Politiken Cup\""]
 [Site "Copenhagen (Denmark)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Ward Christopher (ENG)"]
@@ -215,7 +206,6 @@ d4 35.Re4 c5 36.Kf2 Kf6 37.Ke2 b5 38.Kd3 h5 39.Re8 1-0
 
 [Event "Ch Norway"]
 [Site "Fredrikstad (Norway)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Gabrielsen Stig (NOR)"]
@@ -234,7 +224,6 @@ Bxd6 14.exd6 Qxd6 15.Bxg7 Rg8 16.Be5 Qa3+ 17.Bb2 Qxa2 18.Rxd5 1-0
 
 [Event "Ch Norway"]
 [Site "Fredrikstad (Norway)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Trygstad Kristian (NOR)"]
@@ -259,7 +248,6 @@ Ke6 46.Bc4+ Kf6 47.Qd6+ Kg5 48.h4+ Kxh4 49.Qxh6# 1-0
 
 [Event "It (cat.8)"]
 [Site "Gausdal (Norway)"]
-[Date "2003.??.??"]
 [Round "1"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Daly Colm (FID)"]
@@ -280,7 +268,6 @@ Bxe5 26.Qxg4+ Kh8 27.Rdg1 1-0
 
 [Event "It (cat.8)"]
 [Site "Gausdal (Norway)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Paehtz Elisabeth (GER)"]
@@ -305,7 +292,6 @@ Rxb8 47.Bxb8 Ke6 48.Kf2 Kf6 49.h4 1-0
 
 [Event "It (open) \"Troll Masters\""]
 [Site "Gausdal (Norway)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Berg Olaf (FAI)"]
@@ -329,7 +315,6 @@ e5 31.Qh6 Bg7 32.Qxh7 Rb8 33.Ng5+ Kf6 34.f4 exf4 35.Re7 Kxe7
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Halkidiki (Greece)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Andriasian Zaven (ARM)"]
@@ -349,7 +334,6 @@ Qxd6 20.dxc5 Qe7 21.Bc3 Rac8 22.Rxd7 Qxc5 23.Kb1 b4 24.Qxg4 1-0
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Halkidiki (Greece)"]
-[Date "2003.??.??"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Coleman Teddy (USA)"]
@@ -371,7 +355,6 @@ d5 31.Rb4 Nc4+ 32.Nxc4 dxc4 33.Re3 Rb6 34.Re5 1-0
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Halkidiki (Greece)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Diamant Andre (BRA)"]
@@ -393,7 +376,6 @@ Qe6 31.Rdd7 Rxc7 32.Rd8+ 1-0
 
 [Event "Ch World (juniors) (under 14)"]
 [Site "Halkidiki (Greece)"]
-[Date "2003.??.??"]
 [Round "6"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Potapov Pavel (RUS)"]
@@ -418,7 +400,6 @@ Kg7 43.Rg6+ Kf7 44.Re6 Rd7 45.g6+ Kg7 46.Kg5 Kg8 47.Re8+ Kg7
 
 [Event "Cup European Club (final)"]
 [Site "Rethymnon (Greece)"]
-[Date "2003.??.??"]
 [Round "5"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Arduman Can (TUR)"]
@@ -443,7 +424,6 @@ g5 42.Ne5 g4 43.Rxh7+ Kg5 44.hxg4 fxg4 45.Rg7+ Kf6 46.Rxg4 Rxa3
 
 [Event "Cup European Club (final)"]
 [Site "Rethymnon (Greece)"]
-[Date "2003.??.??"]
 [Round "7"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Gretarsson Helgi Ass (ISL)"]
@@ -465,7 +445,6 @@ Bd7 30.Qh5+ Kf8 31.Qc5+ Kf7 32.Bg6+ 1-0
 
 [Event "Cup European Club (final)"]
 [Site "Rethymnon (Greece)"]
-[Date "2003.??.??"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Kiik Kalle (EST)"]
@@ -486,7 +465,6 @@ Rdg8 25.Bxd5 Re8 26.Rf7 h5 27.a6 1-0
 
 [Event "Memorial Claude Pecaut (cat.7)"]
 [Site "Taormina (Italy)"]
-[Date "2003.??.??"]
 [Round "8"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Calzetta Monica (ESP)"]
@@ -507,7 +485,6 @@ Kf8 25.Rxd7 Nxd7 26.Nc3 Nxc3 27.Re1 Kg8 28.Bxa8 b2 29.Qxa7 1-0
 
 [Event "It (cat.14)"]
 [Site "Drammen (Norway)"]
-[Date "2004.12.28"]
 [Round "2"]
 [White "Carlsen Magnus (NOR)"]
 [Black "Lie Kjetil A (NOR)"]
@@ -535,7 +512,6 @@ Qc6+ 64.Kd2 Ra5 65.Ra1 1/2-1/2
 
 [Event "It (cat.14)"]
 [Site "Drammen (Norway)"]
-[Date "2004.12.30"]
 [Round "4"]
 [White "Carlsen Magnus (NOR)"]
 [Black "McShane Luke J (ENG)"]
@@ -555,7 +531,6 @@ Qc6+ 64.Kd2 Ra5 65.Ra1 1/2-1/2
 
 [Event "GM Classic"]
 [Site "Gausdal NOR"]
-[Date "2004.09.30"]
 [Round "8"]
 [White "Carlsen, Magnus"]
 [Black "Johannessen, Leif Erlend"]
@@ -563,7 +538,6 @@ Qc6+ 64.Kd2 Ra5 65.Ra1 1/2-1/2
 [WhiteElo "2567"]
 [BlackElo "2538"]
 [ECO "D17"]
-[EventDate "2004.09.23"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7
 8. g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O 

@@ -5,7 +5,6 @@
 [BlackFideId "7101937"]
 [Result "1-0"]
 [Round "01"]
-[Date "Tue Jan 21 2020"]
 [WhiteClock "0:14:25"]
 [BlackClock "0:02:19"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "2809958"]
 [Result "1-0"]
 [Round "03"]
-[Date "Thu Jan 23 2020"]
 [WhiteClock "0:56:18"]
 [BlackClock "0:37:22"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "6300545"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Sat Jan 25 2020"]
 [WhiteClock "0:31:54"]
 [BlackClock "0:00:49"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "105309"]
 [Result "1-0"]
 [Round "06"]
-[Date "Sun Jan 26 2020"]
 [WhiteClock "0:57:05"]
 [BlackClock "0:06:44"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "12539929"]
 [Result "1-0"]
 [Round "10"]
-[Date "Thu Jan 30 2020"]
 [WhiteClock "0:16:14"]
 [BlackClock "0:01:13"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "6302181"]
 [Result "1-0"]
 [Round "09"]
-[Date "Wed Jan 29 2020"]
 [WhiteClock "1:20:10"]
 [BlackClock "0:17:00"]
 
@@ -90,7 +84,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.15"]
 [Round "2"]
 [White "Vachier Lagrave,M"]
 [Black "Hauge,Lars Oskar"]
@@ -100,7 +93,6 @@
 [BlackTeam "Norway Gnomes"]
 [BlackTitle "IM"]
 [ECO "A04"]
-[EventDate "2020.01.06"]
 [Opening "Reti v Dutch"]
 [WhiteElo "2770"]
 [WhiteFideId "623539"]
@@ -116,7 +108,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.15"]
 [Round "2"]
 [White "Vachier Lagrave,M"]
 [Black "Narayanan,Sri"]
@@ -126,7 +117,6 @@
 [BlackTeam "Norway Gnomes"]
 [BlackTitle "GM"]
 [ECO "A28"]
-[EventDate "2020.01.06"]
 [Opening "English"]
 [Variation "four knights, 4.e3"]
 [WhiteElo "2770"]
@@ -145,7 +135,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.09"]
 [Round "1"]
 [White "Vachier Lagrave,M"]
 [Black "Piorun,K"]
@@ -155,7 +144,6 @@
 [BlackTeam "Poland Hussars"]
 [BlackTitle "GM"]
 [ECO "D38"]
-[EventDate "2020.01.06"]
 [Opening "QGD"]
 [Variation "Ragozin variation"]
 [WhiteElo "2770"]
@@ -185,7 +173,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.09"]
 [Round "1"]
 [White "Vachier Lagrave,M"]
 [Black "Bartel,Mat"]
@@ -195,7 +182,6 @@
 [BlackTeam "Poland Hussars"]
 [BlackTitle "GM"]
 [ECO "A00"]
-[EventDate "2020.01.06"]
 [Opening "Benko's opening"]
 [WhiteElo "2770"]
 [WhiteFideId "623539"]
@@ -219,7 +205,6 @@
 [BlackElo "2776"]
 [Result "1-0"]
 [Round "02"]
-[Date "Wed Mar 18 2020"]
 [WhiteClock "0:10:06"]
 [BlackClock "0:33:49"]
 
@@ -236,7 +221,6 @@
 [BlackElo "2770"]
 [Result "1-0"]
 [Round "03-01"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:00:17"]
 [BlackClock "0:00:00"]
 
@@ -254,7 +238,6 @@
 [BlackElo "2784"]
 [Result "0-1"]
 [Round "04"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:00:13"]
 [BlackClock "0:00:30"]
 
@@ -272,7 +255,6 @@
 [BlackElo "2767"]
 [Result "0-1"]
 [Round "04-01"]
-[Date "Thu Dec 31 2020"]
 [WhiteClock "0:01:17"]
 [BlackClock "0:01:13"]
 
@@ -290,7 +272,6 @@
 [BlackElo "2789"]
 [Result "1-0"]
 [Round "07"]
-[Date "Wed Mar 25 2020"]
 [WhiteClock "0:12:14"]
 [BlackClock "0:07:55"]
 
@@ -309,7 +290,6 @@
 [Result "1/2-1/2"]
 [Round "15"]
 [TimeControl "900+10"]
-[Date "2021.08.30"]
 [WhiteClock "0:14:21"]
 [BlackClock "0:03:11"]
 
@@ -329,7 +309,6 @@
 [Result "1/2-1/2"]
 [Round "08"]
 [TimeControl "900+10"]
-[Date "2021.08.29"]
 [WhiteClock "0:01:07"]
 [BlackClock "0:01:12"]
 
@@ -348,7 +327,6 @@
 [BlackElo "2765"]
 [Result "1/2-1/2"]
 [Round "09"]
-[Date "2021.10.14"]
 [WhiteClock "0:43:21"]
 [BlackClock "1:02:12"]
 
@@ -368,7 +346,6 @@
 [Result "1/2-1/2"]
 [Round "10"]
 [TimeControl "6000+30"]
-[Date "2021.11.06"]
 [WhiteClock "0:31:46"]
 [BlackClock "0:11:19"]
 
@@ -388,7 +365,6 @@
 [Result "1/2-1/2"]
 [Round "08"]
 [TimeControl "6000+30"]
-[Date "2021.11.04"]
 [WhiteClock "0:00:46"]
 [BlackClock "0:01:20"]
 
@@ -408,7 +384,6 @@
 [Result "1/2-1/2"]
 [Round "03"]
 [TimeControl "5400+30"]
-[Date "2021.11.14"]
 [WhiteClock "0:14:27"]
 [BlackClock "0:16:47"]
 
@@ -428,7 +403,6 @@
 [Result "1/2-1/2"]
 [Round "08"]
 [TimeControl "5400+30"]
-[Date "2021.11.20"]
 [WhiteClock "0:08:50"]
 [BlackClock "0:21:58"]
 
@@ -448,7 +422,6 @@
 [Result "1/2-1/2"]
 [Round "05"]
 [TimeControl "5400+30"]
-[Date "2021.11.16"]
 [WhiteClock "0:29:11"]
 [BlackClock "0:45:13"]
 
@@ -468,7 +441,6 @@
 [Result "1/2-1/2"]
 [Round "24-01"]
 [TimeControl "180+1"]
-[Date "2021.11.29"]
 [WhiteClock "0:00:21"]
 [BlackClock "0:00:04"]
 
@@ -488,7 +460,6 @@
 [Result "1/2-1/2"]
 [Round "23-07"]
 [TimeControl "300+1"]
-[Date "2021.11.29"]
 [WhiteClock "0:00:17"]
 [BlackClock "0:00:14"]
 

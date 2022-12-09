@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bradley Beach (USA)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Fox Maurice"]
@@ -32,7 +31,6 @@ Nf8 81.Rh6+ Ke7 82.Kg5 Nd7 83.Rh7+ Kd6 84.Rh1 Ke7 85.Kg6 Nb6
 
 [Event "It"]
 [Site "Bradley Beach (USA)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Steiner Hermann (USA)"]
@@ -53,7 +51,6 @@ Rxe8 25.Nxd5 1-0
 
 [Event "It"]
 [Site "Bradley Beach (USA)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Turover Isador"]
@@ -83,7 +80,6 @@ Ka5 76.Nd7 Kxa4 77.Nxb6+ Kb5 78.Nd5 Kc6 79.Ke6 Nh6 80.Nf6 1-0
 
 [Event ""]
 [Site "Bradley Beach (USA)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Cintron Rafael"]
@@ -103,7 +99,6 @@ Bd6 14.Be5 hxg5 15.hxg5 Ne4 16.Nxe4 dxe4 17.Bxe4 f5 18.Qc4+ Rf7
 
 [Event "Simultan"]
 [Site "Brooklyn (USA)"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Wechsler A"]
@@ -124,7 +119,6 @@ h4 20.dxe6 h3+ 21.Kf1 fxe6 22.Qd3 e5 23.Nxe5 dxe5 24.Qg6+ Qf7
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "1"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -145,7 +139,6 @@ Bxa8 25.Ra1 Nc6 26.Ne5+ 1-0
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -170,7 +163,6 @@ Ke7 48.Kc7 1-0
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -193,7 +185,6 @@ Qc3 30.Qxf5 Nc8 31.Bc2 Qc6+ 32.Rf3 Qg6 33.Qxg6 hxg6 34.Bxg6 Kg8
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "17"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -215,7 +206,6 @@ Qe8 31.Qxd3 cxd4 32.Bxd4 Qe6 33.Qf3 Qf7 34.Bxb6 1-0
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "19"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -245,7 +235,6 @@ Ke5 64.b5 Kf4 65.Kc6 Kg4 66.Rh1 Rc3+ 67.Kd5 Kxf5 68.Rb1 Rd3+
 
 [Event "Ch World (match)"]
 [Site "Germany/Netherlands"]
-[Date "1929.??.??"]
 [Round "21"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -270,7 +259,6 @@ Qe1+ 42.Ka2 Ne7 43.Qf3 Rg6 44.Qf4+ Kg7 45.Qd6 Ng8 46.Ba4 Kh8
 
 [Event "Simultan"]
 [Site "Zacatecas"]
-[Date "1929.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Llamas J"]
@@ -292,7 +280,6 @@ Qxe6 25.fxe6 Bb5 26.Bg6 Nd5 27.Be4 Ne7 28.Nd7 Rfe8 29.f4 Be2
 
 [Event ""]
 [Site "Munich (Germany)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gebhard"]
@@ -314,7 +301,6 @@ Nc7 31.fxe6 fxe6 32.Rb6 Rd8 33.Rc6 d5 34.Kf2 d4 35.Ke1 e5 0-1
 
 [Event ""]
 [Site "Munich (Germany)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Schindler"]
@@ -341,7 +327,6 @@ Rxd1 54.c7 Rd3+ 55.Ke4 Rc3 56.Kd4 Ne2+ 57.Ke5 Rc6 58.Kd5 Rc1
 
 [Event ""]
 [Site "Regensburg (Germany)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Mayerhoefer"]
@@ -365,7 +350,6 @@ Bh4 42.Kc2 Bf2 43.Kc3 Be1+ 44.Kc2 Bf2 45.Kc3 Be1+ 46.Kc2 1/2-1/2
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Araiza Munoz Jose Joaquin (MEX)"]
@@ -388,7 +372,6 @@ Kg7 36.Rd7+ 1-0
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kmoch Hans (AUT)"]
@@ -411,7 +394,6 @@ exd5 37.Qxh6 Qe5 38.Rh4 Qg7 39.Qxg7+ 1-0
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Maroczy Geza (HUN)"]
@@ -437,7 +419,6 @@ Kg6 54.e7 Qf5+ 55.Ke3 Be8 56.Qd4 Bb5 57.Qd6+ Qf6 58.Ne4 1-0
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Monticelli Mario (ITA)"]
@@ -459,7 +440,6 @@ Bxf6 26.f5 Nxd4 27.cxd4 Bxd4+ 28.Kg2 Rbe8 29.Qf3 Bf7 30.Nf4 Be5
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nimzowitsch Aaron"]
@@ -481,7 +461,6 @@ h5 31.Kh2 g6 32.g3 1-0
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Romi Massimiliano"]
@@ -506,7 +485,6 @@ Kxg7 48.Qe5+ 1-0
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -530,7 +508,6 @@ Reb7 36.bxa5 Rxc5 37.dxc5 Rc7 38.a6 Kf7 39.Rb8 Ke6 40.Rb6+ Ke5
 
 [Event "It"]
 [Site "San Remo (Italy)"]
-[Date "1930.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -555,14 +532,12 @@ Kg6 48.d5 Kxg5 49.dxc6 Kf5 50.c7 1-0
 
 [Event "San Remo"]
 [Site "San Remo ITA"]
-[Date "1930.01.21"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Geza Maroczy"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "1930.01.16"]
 [PlyCount "115"]
 [WhiteElo "?"]
 
@@ -581,14 +556,12 @@ Kg6 48.d5 Kxg5 49.dxc6 Kf5 50.c7 1-0
 
 [Event "San Remo"]
 [Site "San Remo ITA"]
-[Date "1930.01.18"]
 [Round "3"]
 [White "Alexander Alekhine"]
 [Black "Aron Nimzowitsch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C17"]
-[EventDate "1930.01.16"]
 [PlyCount "59"]
 [WhiteElo "?"]
 

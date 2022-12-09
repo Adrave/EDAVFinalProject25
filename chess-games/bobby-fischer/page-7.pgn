@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Bednarski Jacek B (POL)"]
@@ -20,7 +19,6 @@ Kd8 14.Rg1 Nf5 15.Nd5 Qxf7 16.Bg5+ Ke8 17.Qe2+ Be6 18.Nf4 Kd7
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "3"]
 [White "Fischer Robert J (USA)"]
 [Black "Durao Joaquim (POR)"]
@@ -44,7 +42,6 @@ Kc6 42.Rxf7 c4 43.Nd7 Bc5 44.Nxc5 Kxc5 45.Rc7+ Kd5 46.b4 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -65,7 +62,6 @@ b5 25.Qc2 1-0
 
 [Event "Olympiad"]
 [Site "Habana (Cuba)"]
-[Date "1966.??.??"]
 [Round "13"]
 [White "Fischer Robert J (USA)"]
 [Black "Jimenez Eleazar (CUB)"]
@@ -87,7 +83,6 @@ Bxe7 31.Rf7 1-0
 
 [Event "It"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1967.??.??"]
 [Round "11"]
 [White "Fischer Robert J (USA)"]
 [Black "Geller Efim P (RUS)"]
@@ -108,7 +103,6 @@ Rxf1+ 19.Rxf1 Bb7 20.Bg4 dxc4 21.Bxe6 Qd3 22.Qe1 Be4 23.Bg4 Rb8
 
 [Event ""]
 [Site "Monte Carlo (Monaco)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Bergraser Volf (FRA)"]
@@ -130,7 +124,6 @@ Bxe5 30.Qb4+ 1-0
 
 [Event ""]
 [Site "Monte Carlo (Monaco)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -153,7 +146,6 @@ c4 37.Re3 Kc5 38.Re2 hxg4 39.hxg4 Rh1 40.Rg2 1/2-1/2
 
 [Event ""]
 [Site "New York (USA)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Byrne Robert E (USA)"]
@@ -174,7 +166,6 @@ Kxh7 20.b4 Bf7 21.bxc5 Qxc5 22.Ng5+ Kg8 23.Qd3 Rfc8 24.Qh7+ Kf8
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "9"]
 [White "Fischer Robert J (USA)"]
 [Black "Bukic Enver (SLO)"]
@@ -200,7 +191,6 @@ Kg7 48.Ne5 Nc5 49.Bc2 Bf7 50.Ke3 Rd8 51.Rg3 Kf6 52.Bxg6 Bxg6
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Dely Peter (HUN)"]
@@ -220,7 +210,6 @@ Rd8 19.Qc6+ Rd7 20.Rd1 Qe7 21.Bb6 1-0
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Geller Efim P (RUS)"]
@@ -240,7 +229,6 @@ Qb4 19.Qf1 Nxe4 20.a3 Qb7 21.Qf4 Ba4 22.Qg4 Bf6 23.Rxf6 Bxb3 0-1
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "13"]
 [White "Fischer Robert J (USA)"]
 [Black "Matulovic Milan (SCG)"]
@@ -264,7 +252,6 @@ d4 36.Kg3 Rc3 37.Kf4 Rxd3 38.Ke4 Rd1 39.Ra3 g5 40.hxg5+ Kxg5
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "Panov Vasily N (RUS)"]
@@ -286,7 +273,6 @@ Kh8 30.Rg6 1-0
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "11"]
 [White "Fischer Robert J (USA)"]
 [Black "Popov Luben (BUL)"]
@@ -309,7 +295,6 @@ Qxc7 30.Ra1 Bf8 31.Rca2 Rb7 32.Be3 Kg7 33.Ra6 Qb8 34.Bf1 Rb1
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "17"]
 [White "Fischer Robert J (USA)"]
 [Black "Sofrevski Jovan (MKD)"]
@@ -329,7 +314,6 @@ Be7 8.Be3 O-O 9.Qe2 Qa5 10.O-O-O Nxd4 11.Bxd4 Bd7 12.Kb1 Rad8
 
 [Event "It"]
 [Site "Skopje (Macedonia)"]
-[Date "1967.??.??"]
 [Round "15"]
 [White "Fischer Robert J (USA)"]
 [Black "Soos Bela (GER)"]
@@ -352,7 +336,6 @@ Bxg5 31.Rxg5 Rh6 32.Nd4 Ne6 33.Nxe6 Rxe6 34.Qg4 Rh6 35.Rc2 Kd8
 
 [Event "Izt"]
 [Site "Sousse (Tunisia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Barczay Laszlo (HUN)"]
@@ -372,7 +355,6 @@ d5 14.e5 Ne4 15.Nbd2 Nxd2 16.Bxd2 Bf5 17.Bc2 Bxc2 18.Qxc2 Rc8
 
 [Event "Izt"]
 [Site "Sousse (Tunisia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Myagmarsuren Lhamsuren (MGL)"]
@@ -394,7 +376,6 @@ Qf8 31.Qxh7+ 1-0
 
 [Event "Izt"]
 [Site "Sousse (Tunisia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -418,7 +399,6 @@ Nec5 37.Qc2 Ne6 38.Ba1 Qa7 39.Kh1 Bg7 40.Bxg7 Kxg7 41.Bb5 Bxb5
 
 [Event "Izt"]
 [Site "Sousse (Tunisia)"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Sarapu Ortvin (NZL)"]
@@ -440,7 +420,6 @@ Qc4 24.Qf3 Qb3 25.Qg4+ Kf8 26.Rd8+ Rxd8 27.Rxd8+ Ke7 28.Qg8 f5
 
 [Event "Izt"]
 [Site "Sousse (Tunisia)"]
-[Date "1967.??.??"]
 [Round "7"]
 [White "Fischer Robert J (USA)"]
 [Black "Stein Leonid Z (UKR)"]
@@ -466,7 +445,6 @@ Nf7 53.Re6+ Nd6 54.f5 Ra8 55.Rd2 Rxa4 56.f6 1-0
 
 [Event "Simultan"]
 [Site ""]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Pascual"]
@@ -487,14 +465,12 @@ Qxd7 25.Rxd7 Kxd7 26.Qg7+ Kd6 27.Qxb7 e3 28.Qb6+ 1-0
 
 [Event "Clock exhibition game"]
 [Site "University of Mindanao, Davao PHI"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Joe Pascual"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B89"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -508,14 +484,12 @@ Qxd7 25.Rxd7 Kxd7 26.Qg7+ Kd6 27.Qxb7 e3 28.Qb6+ 1-0
 
 [Event "Skopje"]
 [Site "Skopje YUG"]
-[Date "1967.08.10"]
 [Round "4"]
 [White "Robert James Fischer"]
 [Black "Peter Dely"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B88"]
-[EventDate "1967.08.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -527,14 +501,12 @@ Qxd7 25.Rxd7 Kxd7 26.Qg7+ Kd6 27.Qxb7 e3 28.Qb6+ 1-0
 
 [Event "Sousse Interzonal"]
 [Site "Sousse TUN"]
-[Date "1967.10.29"]
 [Round "11"]
 [White "Robert James Fischer"]
 [Black "Samuel Reshevsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C93"]
-[EventDate "1967.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 

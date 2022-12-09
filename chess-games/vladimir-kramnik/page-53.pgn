@@ -1,6 +1,5 @@
 [Event "It \"Investbanka\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1995.??.??"]
 [Round "11"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Beliavsky Alexander G (SLO)"]
@@ -19,7 +18,6 @@ Bf7 14.Ndxe4 dxe4 15.Nxe6 Bxe6 16.Qxe6+ Qe7 17.Rxe4 Kd8 18.Qd5 1-0
 
 [Event "It \"Investbanka\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1995.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -43,7 +41,6 @@ Kxh7 41.Kxf5 Kg7 42.Ke6 1-0
 
 [Event "It (cat.21)"]
 [Site "Las Palmas (Spain)"]
-[Date "1996.??.??"]
 [Round "2"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -74,7 +71,6 @@ Re4 1/2-1/2
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "7"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -94,7 +90,6 @@ c6 14.Rac1 Qc7 15.Na4 Bf5 16.Nc5 Bxd3 17.Nexd3 Bxf4 18.Nxf4 Rab8
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "11"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kamsky Gata (USA)"]
@@ -119,7 +114,6 @@ gxh5 42.a5 h4 43.a6 Ne3+ 44.Kg1 Rf1+ 45.Kh2 Rf2+ 46.Kg1 Rf1+
 
 [Event "It \"Melody Amber\" (active)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Nikolic Predrag (BIH)"]
@@ -141,7 +135,6 @@ Rcb7 31.Ra6 Rxb6 32.Rxb6 Rxb6 33.Kc3 c5 34.bxc5 Rb5 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "6"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -164,7 +157,6 @@ Qxa4 31.Kg3 Qxe4 32.Bf6 b4 33.Qc8 Qe1+ 34.Kf4 Qf2+ 35.Kg5 Qd2+
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -185,7 +177,6 @@ Ne4 20.Be3 Bxe3 21.fxe3 Bc8 22.Rxd5 Bxf5 23.Rxf5 Nd6 24.Rd5 Qxe3+
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "10"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -207,7 +198,6 @@ Rxd3 31.Rxg7 Nf5 32.Rxh7 Rxb3 33.Bh5 1/2-1/2
 
 [Event "It \"Melody Amber\" (blindfold)"]
 [Site "Monte Carlo (Monaco)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -234,7 +224,6 @@ Rxa2 53.Rxf6 Rb2 54.Rh6+ Kxg3 55.f6 Rxb3 56.Rg6+ Kh4 57.f7 Rf3
 
 [Event "It \"PCA Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -255,7 +244,6 @@ c5 25.Ne2 Bf5 26.Nf4 Qd7 27.Ne6+ Bxe6 28.Rxe6 Qxd3 29.Qxd3 1/2-1/2
 
 [Event "It \"PCA Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Polgar Judit (HUN)"]
@@ -279,7 +267,6 @@ f5 36.Qxd6 Qc8 37.Bb3 Be6 38.Bxe6 fxe6 39.Qe7 Qc4 40.Qe8+ Kg7
 
 [Event "It \"PCA Grand Prix\" (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kasparov Garry (RUS)"]
@@ -304,7 +291,6 @@ Qf6 37.Rf2 Rxa3 38.Rh1 Qg7 39.Qg5 Rad3 40.Qxb5 c3 41.Rc1 Rd2
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1996.??.??"]
 [Round "3"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -329,7 +315,6 @@ Rxd1+ 36.Bxd1 a6 37.Na7 Nd5 38.Nc6 Bd6 39.Be2 Nb4 40.Nxb4 Bxb4
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -356,7 +341,6 @@ Ne2+ 52.Kf1 Nf4 53.Rf7+ Kg4 54.Kg1 Rxh4 55.Rg7+ Kf3 56.Rg3+ Ke4
 
 [Event "It (cat.19)"]
 [Site "Novgorod (Russia)"]
-[Date "1996.??.??"]
 [Round "1"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -380,7 +364,6 @@ e3 42.Qf7 exf2 43.Ne8 f1Q+ 44.Kxf1 Qd1+ 45.Kf2 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -402,7 +385,6 @@ Bd2 31.Rcc4 Bxb4 32.Rxb4 Ra5 33.cxd6 cxd6 34.Rxb7 Rxd5 35.Rd7 1/2-1/2
 
 [Event "It (cat.18)"]
 [Site "Vienna (Austria)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -432,7 +414,6 @@ Bc1 78.Bf5+ Kf6 79.Be4 Be3 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "9"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Georgiev Kiril (MKD)"]
@@ -455,7 +436,6 @@ g4 35.hxg4 hxg4 36.f3 gxf3 37.Kf2 Kg7 38.Kxf3 Kg6 39.g4 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "4"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Huebner Robert Dr (GER)"]
@@ -475,7 +455,6 @@ Ne6 14.Be5 Qd7 15.Nbd4 Rac8 16.Rxc8 Rxc8 17.Bh3 Bc5 18.a3 a5
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "8"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Illescas Cordoba Miguel (ESP)"]
@@ -496,7 +475,6 @@ Qf8 20.Nxc4 Rab8 21.Qe1 Nd7 22.a4 Nb4 23.Ba3 Bxg2 24.Kxg2 Nd3
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "11"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -514,7 +492,6 @@ O-O 8.O-O Qe7 9.Rd1 dxc4 10.Bxc4 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Yerevan (Armenia)"]
-[Date "1996.??.??"]
 [Round "12"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Yudasin Leonid (ISR)"]
@@ -535,7 +512,6 @@ Ne7 25.Rxc8 Nxc8 26.Qxd7 1/2-1/2
 
 [Event "Simultan"]
 [Site "Germany"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kramnik Vladimir (RUS)"]
 [Black "Kapr Klaus Dr (GER)"]
@@ -545,7 +521,6 @@ Ne7 25.Rxc8 Nxc8 26.Qxd7 1/2-1/2
 [BlackElo "2086"]
 [Annotator "Kodinets Konstantin L (RUS)"]
 [PlyCount "72"]
-[EventDate "1996.??.??"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
 Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 Qc7 12. O-O-O O-O-O 13. Ne4 e6 14. Kb1 c5
@@ -557,7 +532,6 @@ Rxe8 Qxe8 35. Qd6+ Ka8 36. Rf1 Rxb2+ 1/2-1/2
 
 [Event "[Shirov"]
 [Site "Dos Hermanas [Shirov"]
-[Date "1996.??.??"]
 [Round "?"]
 [White "Kramnik, Vladimir"]
 [Black "Shirov, Alexei"]

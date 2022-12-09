@@ -1,6 +1,5 @@
 [Event "Riga FIDE Grand Prix 2019"]
 [Site "Riga LAT"]
-[Date "2019.07.24"]
 [Round "4.6"]
 [White "Vachier Lagrave,M"]
 [Black "Mamedyarov,S"]
@@ -13,7 +12,6 @@
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "13401319"]
-[EventDate "2019.07.12"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
 Ne7 9. Bb3 Ng6 10. d4 Bb6 11. Nc4 Be6 12. d5 Bd7 13. Nxb6 axb6 14. h3 Nh7 15.
@@ -23,7 +21,6 @@ Bc2 Qc8 16. g4 Qd8 17. Be3 Ng5 18. Kh2 Qf6 19. Kg3 Nf4 20. Rh1 Bb5 21. Ng1 Ne2+
 
 [Event "Riga FIDE Grand Prix 2019"]
 [Site "Riga LAT"]
-[Date "2019.07.24"]
 [Round "4.4"]
 [White "Vachier Lagrave,M"]
 [Black "Mamedyarov,S"]
@@ -36,7 +33,6 @@ Bc2 Qc8 16. g4 Qd8 17. Be3 Ng5 18. Kh2 Qf6 19. Kg3 Nf4 20. Rh1 Bb5 21. Ng1 Ne2+
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "13401319"]
-[EventDate "2019.07.12"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
 Ne7 9. Nf1 Ng6 10. Ng3 c6 11. d4 exd4 12. Nxd4 Re8 13. h3 d5 14. exd5 Rxe1+ 15.
@@ -49,7 +45,6 @@ Rxg2+ 35. Kf1 h3 36. Be4 Bxe4 37. Rxe4 Kf7 38. Rh4 Rd2 39. Nc5 h2 40. Ne4 Rxa2
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "5.3"]
 [White "Vachier Lagrave,M"]
 [Black "Nepomniachtchi,I"]
@@ -63,7 +58,6 @@ Rxg2+ 35. Kf1 h3 36. Be4 Bxe4 37. Rxe4 Kf7 38. Rh4 Rd2 39. Nc5 h2 40. Ne4 Rxa2
 [Variation "symmetrical, four knights system"]
 [WhiteFideId "623539"]
 [BlackFideId "4168119"]
-[EventDate "2019.07.31"]
 
 1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. d4 e6 6. cxd5 Nxd5 7. Bg2 cxd4 8.
 Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 Rb8
@@ -73,7 +67,6 @@ Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 Rb8
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "11.3"]
 [White "Vachier Lagrave,M"]
 [Black "Grischuk,A"]
@@ -87,7 +80,6 @@ Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 Rb8
 [Variation "Tarrasch, Prague variation, Normal position"]
 [WhiteFideId "623539"]
 [BlackFideId "4126025"]
-[EventDate "2019.07.31"]
 
 1. Nf3 Nf6 2. g3 c5 3. c4 Nc6 4. Nc3 e6 5. Bg2 d5 6. cxd5 exd5 7. d4 Be7 8. O-O
 O-O 9. Bf4 Bg4 10. dxc5 Bxc5 11. Ne5 Be6 12. Nd3 Be7 13. Rc1 h6 14. Na4 Rc8 15.
@@ -102,7 +94,6 @@ Re2+ 54. Kf3 Rd2 55. Ke4 1/2-1/2
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "16.3"]
 [White "Vachier Lagrave,M"]
 [Black "Anand,V"]
@@ -116,7 +107,6 @@ Re2+ 54. Kf3 Rd2 55. Ke4 1/2-1/2
 [Variation "Anderssen variation"]
 [WhiteFideId "623539"]
 [BlackFideId "5000017"]
-[EventDate "2019.07.31"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 h6 8. Nd5
 Rb8 9. c3 d6 10. O-O O-O 11. Be3 Nxd5 12. Bxd5 Bxe3 13. fxe3 Ne7 14. Bb3 Be6 15.
@@ -128,7 +118,6 @@ h3 Rd3 1/2-1/2
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "18.3"]
 [White "Vachier Lagrave,M"]
 [Black "Mamedyarov,S"]
@@ -141,7 +130,6 @@ h3 Rd3 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "13401319"]
-[EventDate "2019.07.31"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 h6 6. c3 d6 7. Re1 O-O 8. h3 a5
 9. Nbd2 Be6 10. Bb5 Qb8 11. Nf1 Qa7 12. Be3 Bxe3 13. Nxe3 Ne7 14. a4 Rad8 15.
@@ -159,7 +147,6 @@ Kb4 74. Rh3 Bf7 75. Rh4+ Kc3 1/2-1/2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.18"]
 [Round "2.5"]
 [White "Vachier Lagrave,M"]
 [Black "So,W"]
@@ -172,7 +159,6 @@ Kb4 74. Rh3 Bf7 75. Rh4+ Kc3 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "5202213"]
-[EventDate "2019.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 O-O
 9. h3 Kh8 10. d4 Ng8 11. b4 exd4 12. cxd4 Nxb4 13. Nc3 a5 14. Bf4 f6 15. Qb3 Ne7
@@ -185,7 +171,6 @@ Rb7 41. Rd8 Ra7 42. Rc8 Rb7 43. Rd8 1/2-1/2
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.13"]
 [Round "3.2"]
 [White "Vachier Lagrave,M"]
 [Black "Karjakin,Sergey"]
@@ -199,7 +184,6 @@ Rb7 41. Rd8 Ra7 42. Rc8 Rb7 43. Rd8 1/2-1/2
 [Variation "Berlin defence, open variation"]
 [WhiteFideId "623539"]
 [BlackFideId "14109603"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
 Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. Rfe1
@@ -213,7 +197,6 @@ Bg8 41. Nf5+ Kd7 42. Ne3 Bh7+ 43. Kd2 Be4 44. h4 gxh4 45. Bxh4 Ke6 46. Bg3 Ne5
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "10.1"]
 [White "Vachier Lagrave,M"]
 [Black "Carlsen,M"]
@@ -226,7 +209,6 @@ Bg8 41. Nf5+ Kd7 42. Ne3 Bh7+ 43. Kd2 Be4 44. h4 gxh4 45. Bxh4 Ke6 46. Bg3 Ne5
 [Opening "Sicilian defence"]
 [WhiteFideId "623539"]
 [BlackFideId "1503014"]
-[EventDate "2019.08.13"]
 
 1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 d5 7. exd6 Qxd6 8. O-O
 Be6 9. d4 cxd4 10. Na3 Bxb3 11. axb3 a6 12. Nxd4 Nxd4 13. Be3 Nf5 14. Qxd6 Nxd6
@@ -241,7 +223,6 @@ Kxh5 Nf6+ 54. Kg6 Nxh7 55. Kxh7 1/2-1/2
 
 [Event "Saint Louis Blitz 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.14"]
 [Round "13.3"]
 [White "Vachier Lagrave,M"]
 [Black "Mamedyarov,S"]
@@ -254,7 +235,6 @@ Kxh5 Nf6+ 54. Kg6 Nxh7 55. Kxh7 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "13401319"]
-[EventDate "2019.08.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
 Ne7 9. d4 Bb6 10. Bb3 Ng6 11. Nc4 Be6 12. a4 Bxc4 13. Bxc4 a5 14. Qb3 c6 15. Bd3
@@ -268,7 +248,6 @@ Bc3 49. Bf2 Be5 50. Ke2 Bf4 51. Kd3 Be5 52. Bd5 Nf6 53. Bf3 1/2-1/2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.21"]
 [Round "5.2"]
 [White "Vachier Lagrave,M"]
 [Black "Anand,V"]
@@ -281,7 +260,6 @@ Bc3 49. Bf2 Be5 50. Ke2 Bf4 51. Kd3 Be5 52. Bd5 Nf6 53. Bf3 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "5000017"]
-[EventDate "2019.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 h6 8. Re1 a5
 9. d4 Ba7 10. h3 g5 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qxd8+ Kxd8 14. Bxf7 g4 15.
@@ -291,7 +269,6 @@ Rg3+ 22. Kh1 Rh3+ 23. Kg1 Rg3+ 24. Kh1 Rh3+ 25. Kg1 1/2-1/2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.24"]
 [Round "7.4"]
 [White "Vachier Lagrave,M"]
 [Black "Mamedyarov,S"]
@@ -304,7 +281,6 @@ Rg3+ 22. Kh1 Rh3+ 23. Kg1 Rg3+ 24. Kh1 Rh3+ 25. Kg1 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "13401319"]
-[EventDate "2019.08.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
 Ne7 9. d4 Bb6 10. Bb3 Nc6 11. Nc4 exd4 12. Nxb6 axb6 13. Nxd4 Re8 14. Bc2 Bg4
@@ -315,7 +291,6 @@ Bc3 Bg6 29. Rh2 Rf8 30. Rah1 Rfe8 31. Ra1 Rf8 32. Rah1 Rfe8 33. Ra1 Rf8 1/2-1/2
 
 [Event "7th Sinquefield Cup 2019"]
 [Site "Saint Louis USA"]
-[Date "2019.08.26"]
 [Round "9.6"]
 [White "Vachier Lagrave,M"]
 [Black "Nakamura,Hi"]
@@ -329,7 +304,6 @@ Bc3 Bg6 29. Rh2 Rf8 30. Rah1 Rfe8 31. Ra1 Rf8 32. Rah1 Rfe8 33. Ra1 Rf8 1/2-1/2
 [Variation "two knights variation"]
 [WhiteFideId "623539"]
 [BlackFideId "2016192"]
-[EventDate "2019.08.17"]
 
 1. e4 c6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Ne4 5. Ne2 Qb6 6. d4 e6 7. Ng3 c5 8. Bd3
 Nxg3 9. fxg3 cxd4 10. O-O Nc6 11. Qe2 h6 12. a3 Bd7 13. g4 Be7 14. b4 a6 15. Rb1
@@ -344,7 +318,6 @@ Rxh4 54. Ke3 Rb4 55. Ne4 Rxb5 56. Rxb5 Bxb5 57. Ng3 h4 58. Nf5+ Kf6 59. Nxh4 1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.1"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -358,7 +331,6 @@ Rxh4 54. Ke3 Rb4 55. Ne4 Rxb5 56. Rxb5 Bxb5 57. Ng3 h4 58. Nf5+ Kf6 59. Nxh4 1/2
 [Variation "Canal-Sokolsky attack, Sokolsky variation"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
 Nxd4 Bg7 9. f3 O-O 10. Be3 Nc6 11. O-O a6 12. Qd3 Rac8 13. b3 e6 14. Rad1 Rfd8
@@ -374,7 +346,6 @@ Nd2+ 60. Kg1 Nf3+ 61. Kf1 Nd2+ 62. Kg1 Nf3+ 63. Kf1 1/2-1/2
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.15"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -387,7 +358,6 @@ Nd2+ 60. Kg1 Nf3+ 61. Kf1 Nd2+ 62. Kg1 Nf3+ 63. Kf1 1/2-1/2
 [Opening "Reti opening"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 Be7 5. Bb2 O-O 6. Qc2 dxc4 7. Bxc4 c5 8. Nc3
 Nc6 9. O-O b6 10. Rfd1 Bb7 11. d4 cxd4 12. Nxd4 Nxd4 13. Rxd4 Qc8 14. Rad1 Qc6
@@ -401,7 +371,6 @@ Kc2 Kd6 42. f5 Ke7 43. f4 Kf7 44. Kb3 Bb7 45. Bb4 Be3 46. Bd6 Bd2 47. Bc7 Ke7
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.09.03"]
 [Round "1.29"]
 [White "Vachier Lagrave,M"]
 [Black "Wei Yi"]
@@ -414,7 +383,6 @@ Kc2 Kd6 42. f5 Ke7 43. f4 Kf7 44. Kb3 Bb7 45. Bb4 Be3 46. Bd6 Bd2 47. Bc7 Ke7
 [Opening "Grob's attack"]
 [WhiteFideId "623539"]
 [BlackFideId "8603405"]
-[EventDate "2019.09.02"]
 
 1. g4 h5 2. gxh5 Rxh5 3. e4 Re5 4. Nc3 d5 5. d4 Re6 6. Nf3 dxe4 7. Ng5 Rg6 8.
 Bc4 e6 9. h4 Nc6 10. Be3 Bb4 11. Qh5 Bxc3+ 12. bxc3 Nf6 13. Qh8+ Ke7 14. Qxd8+
@@ -427,7 +395,6 @@ Bxd5 34. Bb5+ c6 35. Re5 Kc7 36. Be2 Nd7 37. Rxd5 Nxf6 38. Rf5 Re8 39. Rxf6 Rxe2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.17"]
 [Round "3.2"]
 [White "Vachier Lagrave,M"]
 [Black "Jakovenko,D"]
@@ -441,7 +408,6 @@ Bxd5 34. Bb5+ c6 35. Re5 Kc7 36. Be2 Nd7 37. Rxd5 Nxf6 38. Rf5 Re8 39. Rxf6 Rxe2
 [Variation "Berlin defence, open variation"]
 [WhiteFideId "623539"]
 [BlackFideId "4122356"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
 Qxd8+ Kxd8 9. h3 Ne7 10. Nc3 Bd7 11. b3 Ng6 12. Bb2 Kc8 13. Rae1 h6 14. Nd2 Nf4
@@ -455,7 +421,6 @@ Rd1 48. Kf4 Bf1 49. Bc5 d4 50. a3 d3 51. Bb4 Rc1 52. Rf2 Be2 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.18"]
 [Round "3.6"]
 [White "Vachier Lagrave,M"]
 [Black "Jakovenko,D"]
@@ -468,7 +433,6 @@ Rd1 48. Kf4 Bf1 49. Bc5 d4 50. a3 d3 51. Bb4 Rc1 52. Rf2 Be2 1/2-1/2
 [Opening "Giuoco Piano"]
 [WhiteFideId "623539"]
 [BlackFideId "4122356"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 O-O
 9. h3 Be6 10. Bxe6 fxe6 11. Be3 Bxe3 12. Rxe3 a5 13. Nbd2 Qe8 14. d4 exd4 15.
@@ -480,7 +444,6 @@ Rxf8 35. g3 Nf5 36. Nc3 Nd4 37. Nb5 Nxb5 38. cxb5 Rf7 39. Kg2 Kf8 40. Rf3 1/2-1/
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.24"]
 [Round "5.2"]
 [White "Vachier Lagrave,M"]
 [Black "Aronian,L"]
@@ -493,7 +456,6 @@ Rxf8 35. g3 Nf5 36. Nc3 Nd4 37. Nb5 Nxb5 38. cxb5 Rf7 39. Kg2 Kf8 40. Rf3 1/2-1/
 [Opening "Giuoco Pianissimo"]
 [WhiteFideId "623539"]
 [BlackFideId "13300474"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d5 7. exd5 Nxd5 8. Re1
 Bg4 9. Nbd2 Nb6 10. h3 Bh5 11. Bb3 Qxd3 12. Nxe5 Qf5 13. Nef3 Rad8 14. Qe2 Nd5
@@ -504,7 +466,6 @@ Bg4 9. Nbd2 Nb6 10. h3 Bh5 11. Bb3 Qxd3 12. Nxe5 Qf5 13. Nef3 Rad8 14. Qe2 Nd5
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.26"]
 [Round "6.1"]
 [White "Vachier Lagrave,M"]
 [Black "Radjabov,T"]
@@ -518,7 +479,6 @@ Bg4 9. Nbd2 Nb6 10. h3 Bh5 11. Bb3 Qxd3 12. Nxe5 Qf5 13. Nef3 Rad8 14. Qe2 Nd5
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteFideId "623539"]
 [BlackFideId "13400924"]
-[EventDate "2019.09.10"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. d4 cxd4 6. Qxd4 f6 7. Qa4 Bg7 8.
 O-O Nh6 9. c4 Qb6 10. Nc3 O-O 11. Re1 Nf7 12. Be3 Qb7 13. Qb3 Qxb3 14. axb3 Rb8
@@ -529,7 +489,6 @@ Nd8 28. Nb3 Nc6 29. Kf1 Kf7 30. Ke2 Ke6 31. g4 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.10.01"]
 [Round "7.2"]
 [White "Vachier Lagrave,M"]
 [Black "Yu Yangyi"]
@@ -543,7 +502,6 @@ Nd8 28. Nb3 Nc6 29. Kf1 Kf7 30. Ke2 Ke6 31. g4 1/2-1/2
 [Variation "Nimzovich attack"]
 [WhiteFideId "623539"]
 [BlackFideId "8603820"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
 Qd2 Nd7 9. O-O-O Nf6 10. Bd3 Re8 11. Rhe1 Bg4 12. Qe2 a6 13. h3 Bd7 14. g4 Bf8
@@ -554,7 +512,6 @@ b5 28. Bf2 c5 29. b3 Kf7 30. h4 h5 1/2-1/2
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.10.03"]
 [Round "7.4"]
 [White "Vachier Lagrave,M"]
 [Black "Yu Yangyi"]
@@ -568,7 +525,6 @@ b5 28. Bf2 c5 29. b3 Kf7 30. h4 h5 1/2-1/2
 [Variation "Nimzovich attack"]
 [WhiteFideId "623539"]
 [BlackFideId "8603820"]
-[EventDate "2019.09.10"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
 Qd2 Bf5 9. O-O-O Qd7 10. Bc4 Bf6 11. Nd4 Nxd4 12. Bxd4 Bxd4 13. Qxd4 O-O 14.
@@ -579,7 +535,6 @@ Qf6 28. Rf3 Rf5 29. Rxf5 Qxf5 30. Qe2 Kf7 1/2-1/2
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.09"]
 [Round "2.2"]
 [White "Vachier Lagrave,M"]
 [Black "Topalov,V"]
@@ -588,7 +543,6 @@ Qf6 28. Rf3 Rf5 29. Rxf5 Qxf5 30. Qe2 Kf7 1/2-1/2
 [BlackFideId "2900084"]
 [BlackTitle "GM"]
 [ECO "C01"]
-[EventDate "2019.11.05"]
 [Opening "French"]
 [Variation "exchange variation"]
 [WhiteElo "2777"]
@@ -604,7 +558,6 @@ Qf6 28. Rf3 Rf5 29. Rxf5 Qxf5 30. Qe2 Kf7 1/2-1/2
 
 [Event "Hamburg FIDE Grand Prix"]
 [Site "Hamburg GER"]
-[Date "2019.11.11"]
 [Round "3.1"]
 [White "Vachier Lagrave,M"]
 [Black "Grischuk,A"]
@@ -613,7 +566,6 @@ Qf6 28. Rf3 Rf5 29. Rxf5 Qxf5 30. Qe2 Kf7 1/2-1/2
 [BlackFideId "4126025"]
 [BlackTitle "GM"]
 [ECO "C78"]
-[EventDate "2019.11.05"]
 [Opening "Ruy Lopez"]
 [Variation "5.O-O"]
 [WhiteElo "2777"]
@@ -630,7 +582,6 @@ Qf6 28. Rf3 Rf5 29. Rxf5 Qxf5 30. Qe2 Kf7 1/2-1/2
 
 [Event "Bundesliga 2019-20"]
 [Site "Deizisau GER"]
-[Date "2019.11.24"]
 [Round "2.3"]
 [White "Vachier Lagrave,M"]
 [Black "Gajewski,G"]
@@ -640,7 +591,6 @@ Qf6 28. Rf3 Rf5 29. Rxf5 Qxf5 30. Qe2 Kf7 1/2-1/2
 [BlackTeam "USV TU Dresden"]
 [BlackTitle "GM"]
 [ECO "A07"]
-[EventDate "2019.11.23"]
 [EventType "team"]
 [Opening "Reti"]
 [Variation "King's Indian attack (Barcza system)"]

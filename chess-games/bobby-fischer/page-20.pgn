@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "10"]
 [White "Fischer Robert J (USA)"]
 [Black "Bertok Mario (CRO)"]
@@ -24,7 +23,6 @@ Rbe8 36.c7 Bd4 37.Bxd4 exd4 38.Rxd4 Rc8 39.Rc4 Kf6 40.Kf1 Ke6
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "Geller Efim P (RUS)"]
@@ -44,7 +42,6 @@ Bd6 14.Nxg6 Qxg6 15.Re1+ Kf8 16.Nc4 h5 17.Nxd6 cxd6 18.Bf4 d5
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "16"]
 [White "Fischer Robert J (USA)"]
 [Black "Keres Paul (EST)"]
@@ -70,7 +67,6 @@ Kh6 49.Qf8+ Kg6 50.Qg8+ Kh6 51.Qf8+ Kg6 52.Qb4 Nc6 53.Qd2 Nd8
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Matanovic Aleksandar (SCG)"]
@@ -96,7 +92,6 @@ Kf7 47.Qf6+ Ke8 48.Qe5+ Qxe5 49.Bxe5 Bc5 50.Kd3 g5 51.Ke4 g4
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "4"]
 [White "Fischer Robert J (USA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -119,7 +114,6 @@ Bxa4 25.b3 Be8 26.Bc4 a4 27.Bd5 Rxd6 28.Bxa8 Rd4 29.fxg6 hxg6
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "18"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -142,7 +136,6 @@ Kc6 36.Kc4 1-0
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Tal Mikhail (LAT)"]
@@ -167,7 +160,6 @@ Qf3 41.Re1+ Kf8 42.Rxb5 Kg7 43.Rb6 Qg3 44.Rd1 Qc7 45.Rdd6 Qc8
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "12"]
 [White "Fischer Robert J (USA)"]
 [Black "Trifunovic Petar (YUG)"]
@@ -196,7 +188,6 @@ Kc4 64.Re8 Kb4 65.Kd5 Rd1+ 66.Ke6 Re1+ 67.Kf7 Rf1+ 68.Kg6 Rf2
 
 [Event "It"]
 [Site "Bled (Slovenia)"]
-[Date "1961.??.??"]
 [Round "14"]
 [White "Fischer Robert J (USA)"]
 [Black "Udovcic Mijo (YUG)"]
@@ -219,7 +210,6 @@ Rb8 31.Rxa7+ Kg8 32.Bc1 g3 33.hxg3 Bxg3 34.Re6 Rg4 35.b4 Be5
 
 [Event "Match"]
 [Site "Los Angeles (USA)"]
-[Date "1961.??.??"]
 [Round "6"]
 [White "Fischer Robert J (USA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -240,7 +230,6 @@ Bxb3 25.cxb3 Rc6 1/2-1/2
 
 [Event "Match"]
 [Site "Los Angeles (USA)"]
-[Date "1961.??.??"]
 [Round "8"]
 [White "Fischer Robert J (USA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -270,7 +259,6 @@ Rb6 70.Be4 Kf7 71.Rc7 Kf6 72.Kh5 Rb5+ 73.Kg4 Rb4 74.Kf3 Rb3+
 
 [Event "Match"]
 [Site "New York (USA)"]
-[Date "1961.??.??"]
 [Round "2"]
 [White "Fischer Robert J (USA)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -293,7 +281,6 @@ Rf7 36.Qg5 Rf1+ 37.Kd2 h5 38.Qd8+ 1-0
 
 [Event "Tournament (candidates)"]
 [Site "Curasao (Netherlands)"]
-[Date "1962.??.??"]
 [Round "27"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -316,7 +303,6 @@ h5 1/2-1/2
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Benko Pal C (USA)"]
@@ -342,7 +328,6 @@ Ne4+ 54.Ke7 Ng3 55.Kd6 Nh5 56.f5 Ng7 1/2-1/2
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -365,7 +350,6 @@ Nb4 36.Rxa7 Rxd4 37.Bg4 Rd6 38.Re7 Nd5 39.Rxe6 Rxe6 40.Bxe6 Nf6 1/2-1/2
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -395,7 +379,6 @@ Kc6 76.Ka8 Kb6 77.a7 Kc6 1/2-1/2
 
 [Event "Izt"]
 [Site "Stockholm (Sweden)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -417,7 +400,6 @@ Nh4 20.Rf2 Rd7 21.Re2 Rdf7 22.Rb1 g5 23.fxg5 Bxg2 24.Rxg2 Nxg2
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Padevsky Nikola (BUL)"]
@@ -439,7 +421,6 @@ Qxg6 30.Qe5+ Ka8 31.Rh8 Qe8 32.Rxf8 Qxf8 33.Qd4 a6 34.Qxd3 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Varna (Bulgaria)"]
-[Date "1962.??.??"]
 [Round "?"]
 [White "Fischer Robert J (USA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -463,14 +444,12 @@ Kf5 1/2-1/2
 
 [Event "Bled"]
 [Site "Bled YUG"]
-[Date "1961.09.20"]
 [Round "12"]
 [White "Robert James Fischer"]
 [Black "Petar Trifunovic"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C80"]
-[EventDate "1961.09.03"]
 [PlyCount "145"]
 [WhiteElo "?"]
 
@@ -491,14 +470,12 @@ Kf5 1/2-1/2
 
 [Event "Simul, 41b"]
 [Site "Copenhagen DEN"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Allan Jensen"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C75"]
-[EventDate "????.??.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 
@@ -512,14 +489,12 @@ Kf5 1/2-1/2
 
 [Event "Simul, 41b"]
 [Site "Copenhagen DEN"]
-[Date "1962.03.11"]
 [Round "?"]
 [White "Robert James Fischer"]
 [Black "Jorgen Hvenekilde"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A04"]
-[EventDate "1962.03.11"]
 [PlyCount "88"]
 [WhiteElo "?"]
 
@@ -536,14 +511,12 @@ Kf5 1/2-1/2
 
 [Event "Curacao Candidates"]
 [Site "Willemstad CUW"]
-[Date "1962.05.16"]
 [Round "9"]
 [White "Robert James Fischer"]
 [Black "Efim Geller"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B88"]
-[EventDate "1962.05.02"]
 [PlyCount "136"]
 [WhiteElo "?"]
 
@@ -564,14 +537,12 @@ Kf5 1/2-1/2
 
 [Event "Varna ol (Men) qual-B"]
 [Site "Varna BUL"]
-[Date "1962.09.20"]
 [Round "2"]
 [White "Robert James Fischer"]
 [Black "Nikola Padevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C19"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -586,14 +557,12 @@ Kf5 1/2-1/2
 
 [Event "Varna ol (Men) fin-A"]
 [Site "Varna BUL"]
-[Date "1962.10.09"]
 [Round "11"]
 [White "Robert James Fischer"]
 [Black "Svetozar Gligoric"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B91"]
-[EventDate "????.??.??"]
 [PlyCount "88"]
 [WhiteElo "?"]
 

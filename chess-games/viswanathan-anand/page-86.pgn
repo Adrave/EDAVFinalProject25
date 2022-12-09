@@ -1,13 +1,11 @@
 [Event "GMA World Cup Open"]
 [Site "Moscow URS"]
-[Date "1989.05.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Boris Gelfand"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B92"]
-[EventDate "????.??.??"]
 [PlyCount "41"]
 [WhiteElo "?"]
 
@@ -20,14 +18,12 @@
 
 [Event "Melody Amber Rapid"]
 [Site "Roquebrune-Cap-Martin FRA"]
-[Date "1992.02.12"]
 [Round "22"]
 [White "Viswanathan Anand"]
 [Black "Bent Larsen"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B27"]
-[EventDate "????.??.??"]
 [PlyCount "104"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Groningen"]
 [Site "Groningen NED"]
-[Date "1989.12.??"]
 [Round "9"]
 [White "Viswanathan Anand"]
 [Black "Vasily Smyslov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C60"]
-[EventDate "????.??.??"]
 [PlyCount "40"]
 [WhiteElo "?"]
 
@@ -65,14 +59,12 @@
 
 [Event "Match"]
 [Site "Linares ESP"]
-[Date "1992.09.??"]
 [Round "4"]
 [White "Viswanathan Anand"]
 [Black "Vassily Ivanchuk"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B33"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -85,14 +77,12 @@
 
 [Event "BCF-ch"]
 [Site "Blackpool ENG"]
-[Date "1988.08.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Stephen D Bell"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B09"]
-[EventDate "????.??.??"]
 [PlyCount "92"]
 [WhiteElo "?"]
 
@@ -109,14 +99,12 @@
 
 [Event "GMA World Cup Open"]
 [Site "Moscow URS"]
-[Date "1989.05.??"]
 [Round "7"]
 [White "Viswanathan Anand"]
 [Black "Sergei Tiviakov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B77"]
-[EventDate "????.??.??"]
 [PlyCount "116"]
 [WhiteElo "?"]
 
@@ -135,14 +123,12 @@
 
 [Event "Rome Open"]
 [Site "Rome ITA"]
-[Date "1990.02.06"]
 [Round "4"]
 [White "Viswanathan Anand"]
 [Black "Ivan Farago"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "????.??.??"]
 [PlyCount "126"]
 [WhiteElo "?"]
 
@@ -161,14 +147,12 @@
 
 [Event "Rome Open"]
 [Site "Rome ITA"]
-[Date "1990.02.11"]
 [Round "9"]
 [White "Viswanathan Anand"]
 [Black "Zigurds Fridrikhovich Lanka"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B56"]
-[EventDate "????.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -182,14 +166,12 @@
 
 [Event "Chess Olympiad"]
 [Site "Dubai UAE"]
-[Date "1986.11.28"]
 [Round "12"]
 [White "Viswanathan Anand"]
 [Black "Haji Ardiansyah"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B47"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "2803"]
 
@@ -204,14 +186,12 @@
 
 [Event "Frunze"]
 [Site "it"]
-[Date "1987.??.??"]
 [Round "3"]
 [White "Viswanathan Anand"]
 [Black "Emelbek Moldobaev"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C69"]
-[EventDate "????.??.??"]
 [PlyCount "65"]
 [WhiteElo "?"]
 
@@ -226,14 +206,12 @@
 
 [Event "London 30' Blitz"]
 [Site "London ENG"]
-[Date "1987.??.??"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Igor Vasilievich Ivanov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B31"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -249,14 +227,12 @@
 
 [Event "Moscow-B"]
 [Site "Moscow URS"]
-[Date "1987.06.??"]
 [Round "5"]
 [White "Viswanathan Anand"]
 [Black "Nigel Rodney Davies"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -271,14 +247,12 @@
 
 [Event "Chess Olympiad"]
 [Site "Manila PHI"]
-[Date "1992.06.22"]
 [Round "13"]
 [White "Viswanathan Anand"]
 [Black "Eric Lobron"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B65"]
-[EventDate "????.??.??"]
 [PlyCount "104"]
 [WhiteElo "?"]
 
@@ -296,14 +270,12 @@
 
 [Event "Melody Amber Blind 2nd"]
 [Site "Monte Carlo MNC"]
-[Date "1993.03.28"]
 [Round "3"]
 [White "Viswanathan Anand"]
 [Black "Jeroen Piket"]
 [Result "1/2-1/2"]
 [BlackElo "2590"]
 [ECO "C72"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "2710"]
 
@@ -316,14 +288,12 @@
 
 [Event "Biel Credit Suisse"]
 [Site "Biel SUI"]
-[Date "1997.07.??"]
 [Round "7"]
 [White "Viswanathan Anand"]
 [Black "Vadim Markovich Milov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "122"]
 [WhiteElo "?"]
 
@@ -342,14 +312,12 @@
 
 [Event "Simultaneous Exhibition"]
 [Site "Internet Chess Club"]
-[Date "2007.04.21"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Marc Lacrosse"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "B40"]
-[EventDate "????.??.??"]
 [PlyCount "100"]
 [WhiteElo "?"]
 
@@ -366,14 +334,12 @@
 
 [Event "Anand Simul"]
 [Site "Los Angeles"]
-[Date "2012.08.13"]
 [Round "?"]
 [White "Viswanathan Anand"]
 [Black "Bobby Hall"]
 [Result "1-0"]
 [BlackElo "2032"]
 [ECO "A46"]
-[EventDate "????.??.??"]
 [PlyCount "107"]
 [WhiteElo "2780"]
 

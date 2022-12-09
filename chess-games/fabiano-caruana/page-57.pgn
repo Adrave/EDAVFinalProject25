@@ -1,6 +1,5 @@
 [Event "It (cat.7)"]
 [Site "Budapest (Hungary)"]
-[Date "2006.02.12"]
 [Round "8"]
 [White "Caruana Fabiano (USA)"]
 [Black "Muir Andrew J (SCO)"]
@@ -30,7 +29,6 @@ Ra8+ 70.Nc8 Rb8 71.Re8+ Kg7 72.Re7 Rb3 73.Ke8 Rxg3 74.Rxf7+ Kh8
 
 [Event "FSGM March"]
 [Site "Budapest HUN"]
-[Date "2007.03.03"]
 [Round "1"]
 [White "Caruana, F."]
 [Black "Hoang Thanh Trang"]
@@ -39,7 +37,6 @@ Ra8+ 70.Nc8 Rb8 71.Re8+ Kg7 72.Re7 Rb3 73.Ke8 Rxg3 74.Rxf7+ Kh8
 [WhiteElo "2492"]
 [BlackElo "2470"]
 [PlyCount "134"]
-[EventDate "2007.03.03"]
 
 1. e4 b6 2. d4 Bb7 3. Bd3 Nf6 4. Qe2 Nc6 5. c3 e5 6. Nf3 d6 7. O-O Be7 8. d5
 Nb8 9. a4 O-O 10. a5 bxa5 11. c4 Na6 12. Bd2 Nc5 13. Bc2 a4 14. Bb4 Nfd7 15.
@@ -56,7 +53,6 @@ Kxh3 Rf3+ 60. Kh4 Rxg2 61. Rg7+ Kf8 62. Rxh7 Rxh2+ 63. Kg4 Rxh7 64. Rxh7 Rxb3
 
 [Event "FSGM March"]
 [Site "Budapest HUN"]
-[Date "2007.03.05"]
 [Round "3"]
 [White "Caruana, F."]
 [Black "Farago, I."]
@@ -65,7 +61,6 @@ Kxh3 Rf3+ 60. Kh4 Rxg2 61. Rg7+ Kf8 62. Rxh7 Rxh2+ 63. Kg4 Rxh7 64. Rxh7 Rxb3
 [WhiteElo "2492"]
 [BlackElo "2531"]
 [PlyCount "57"]
-[EventDate "2007.03.03"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 b6 8. Qe2
 a5 9. c4 Nc6 10. cxd5 exd5 11. O-O Nf8 12. dxc5 bxc5 13. Rd1 Ne6 14. Nf1 Ned4
@@ -76,7 +71,6 @@ Rxd3 Rfe8 28. b3 a4 29. Rad1 1/2-1/2
 
 [Event "FSGM April"]
 [Site "Budapest HUN"]
-[Date "2007.04.07"]
 [Round "1"]
 [White "Caruana, F."]
 [Black "Vajda, L."]
@@ -85,7 +79,6 @@ Rxd3 Rfe8 28. b3 a4 29. Rad1 1/2-1/2
 [WhiteElo "2523"]
 [BlackElo "2559"]
 [PlyCount "94"]
-[EventDate "2007.04.07"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
 Bb7 9. d3 Re8 10. Ng5 Rf8 11. Nf3 Re8 12. c3 Bf8 13. Nbd2 h6 14. Nf1 d5 15.
@@ -99,7 +92,6 @@ Qe1+ 0-1
 
 [Event "FSGM April"]
 [Site "Budapest HUN"]
-[Date "2007.04.09"]
 [Round "3"]
 [White "Caruana, F."]
 [Black "Rombaldoni, D."]
@@ -108,7 +100,6 @@ Qe1+ 0-1
 [WhiteElo "2523"]
 [BlackElo "2368"]
 [PlyCount "118"]
-[EventDate "2007.04.07"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. Ne4 Ngf6 14. Nd6+ Ke7
@@ -124,7 +115,6 @@ Kh4 53. Rg8 h2 54. c4 Ra1 55. c5 h1=Q 56. Rh8+ Kg5 57. Rxh1 Rxh1 58. Kc4 Kf6
 
 [Event "Mitropa Cup Men"]
 [Site "Szeged HUN"]
-[Date "2007.05.13"]
 [Round "6"]
 [White "Caruana, F."]
 [Black "Meier, Geo"]
@@ -133,7 +123,6 @@ Kh4 53. Rg8 h2 54. c4 Ra1 55. c5 h1=Q 56. Rh8+ Kg5 57. Rxh1 Rxh1 58. Kc4 Kf6
 [WhiteElo "2523"]
 [BlackElo "2506"]
 [PlyCount "63"]
-[EventDate "2007.05.08"]
 
 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5
 8. dxc5 Bxc5 9. Qe2 O-O 10. O-O b6 11. Bf4 Bb7 12. Rad1 Qe7 13. Ne5 Rfd8 14. c3
@@ -144,7 +133,6 @@ h6 15. Bg3 Rac8 16. Rd2 Bd6 17. Rfd1 Bb8 18. a3 Kf8 19. Bb5 Rxd2 20. Rxd2 Rd8
 
 [Event "Mitropa Cup Men"]
 [Site "Szeged HUN"]
-[Date "2007.05.14"]
 [Round "7"]
 [White "Caruana, F."]
 [Black "Saric, A."]
@@ -153,7 +141,6 @@ h6 15. Bg3 Rac8 16. Rd2 Bd6 17. Rfd1 Bb8 18. a3 Kf8 19. Bb5 Rxd2 20. Rxd2 Rd8
 [WhiteElo "2523"]
 [BlackElo "2496"]
 [PlyCount "70"]
-[EventDate "2007.05.08"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 Bg4 12. Rb1 Nd7 13. h3 Bh5 14. Rb5 Nb6
@@ -165,7 +152,6 @@ Bf6 35. Rh6 Nxg3 0-1
 
 [Event "Mitropa Cup Men"]
 [Site "Szeged HUN"]
-[Date "2007.05.15"]
 [Round "8"]
 [White "Caruana, F."]
 [Black "Vokac, M."]
@@ -174,7 +160,6 @@ Bf6 35. Rh6 Nxg3 0-1
 [WhiteElo "2523"]
 [BlackElo "2482"]
 [PlyCount "192"]
-[EventDate "2007.05.08"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bf8 6. Bb5+ c6 7. Ba4 a5 8. Nce2 b5
 9. Bb3 Na6 10. c3 f5 11. exf6 gxf6 12. Nf4 Qe7 13. a4 b4 14. Nf3 Qf7 15. O-O
@@ -196,7 +181,6 @@ Rh1 Rg4 1/2-1/2
 
 [Event "III EUICC"]
 [Site "Arvier ITA"]
-[Date "2007.06.17"]
 [Round "3"]
 [White "Caruana, F."]
 [Black "Cocchi, A."]
@@ -205,7 +189,6 @@ Rh1 Rg4 1/2-1/2
 [WhiteElo "2523"]
 [BlackElo "2321"]
 [PlyCount "133"]
-[EventDate "2007.06.15"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. c3 g6 7. Re1 Bg7 8. Nbd2
 O-O 9. Ba4 Nh5 10. Nf1 Kh8 11. h3 a6 12. Bc2 Nf4 13. Bxf4 exf4 14. d4 f5 15.
@@ -222,7 +205,6 @@ Nf3 Kd6 61. Ke2 Ke6 62. Ke3 Kd6 63. Kd3 Ke6 64. Ng1 Be7 65. Nf3 Bf6 66. c4 Kd7
 
 [Event "III EUICC"]
 [Site "Arvier ITA"]
-[Date "2007.06.20"]
 [Round "6"]
 [White "Caruana, F."]
 [Black "Luther, T."]
@@ -231,7 +213,6 @@ Nf3 Kd6 61. Ke2 Ke6 62. Ke3 Kd6 63. Kd3 Ke6 64. Ng1 Be7 65. Nf3 Bf6 66. c4 Kd7
 [WhiteElo "2523"]
 [BlackElo "2586"]
 [PlyCount "59"]
-[EventDate "2007.06.15"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+ Nxf6
 8. Bxf6 Qxf6 9. Bb5+ c6 10. Bd3 Bd6 11. Qe2 Bd7 12. O-O O-O 13. Ne5 Rfd8 14.
@@ -242,7 +223,6 @@ Kg7 21. h3 Rc7 22. Rfe1 Bd7 23. Ra1 Ra8 24. Rae1 Rb8 25. Kh2 c5 26. bxc5 bxc5
 
 [Event "FSGM July"]
 [Site "Budapest HUN"]
-[Date "2007.07.10"]
 [Round "4"]
 [White "Caruana, F."]
 [Black "Smerdon, D."]
@@ -251,7 +231,6 @@ Kg7 21. h3 Rc7 22. Rfe1 Bd7 23. Ra1 Ra8 24. Rae1 Rb8 25. Kh2 c5 26. bxc5 bxc5
 [WhiteElo "2549"]
 [BlackElo "2461"]
 [PlyCount "39"]
-[EventDate "2007.07.07"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
 Nc6 9. O-O-O d5 10. Kb1 Rb8 11. Ndb5 a6 12. Na7 e6 13. exd5 exd5 14. Nxc8 Rxc8
@@ -261,7 +240,6 @@ Nc6 9. O-O-O d5 10. Kb1 Rb8 11. Ndb5 a6 12. Na7 e6 13. exd5 exd5 14. Nxc8 Rxc8
 
 [Event "FSGM July"]
 [Site "Budapest HUN"]
-[Date "2007.07.12"]
 [Round "6"]
 [White "Caruana, F."]
 [Black "Hammes, M."]
@@ -270,7 +248,6 @@ Nc6 9. O-O-O d5 10. Kb1 Rb8 11. Ndb5 a6 12. Na7 e6 13. exd5 exd5 14. Nxc8 Rxc8
 [WhiteElo "2549"]
 [BlackElo "2390"]
 [PlyCount "130"]
-[EventDate "2007.07.07"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
 f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 Nbc6 13. Nf3 c4 14. Be2 Qf8 15.
@@ -286,7 +263,6 @@ h4 f4 55. h5 Rg7 56. Qh4 Qg5 57. Qh3 Qg4 58. Qh2 Qf5 59. Rg1 Rxg1 60. Bxg1 Be8
 
 [Event "Masters"]
 [Site "Trieste ITA"]
-[Date "2007.09.06"]
 [Round "7"]
 [White "Caruana, F."]
 [Black "Baklan, V."]
@@ -295,7 +271,6 @@ h4 f4 55. h5 Rg7 56. Qh4 Qg5 57. Qh3 Qg4 58. Qh2 Qf5 59. Rg1 Rxg1 60. Bxg1 Be8
 [WhiteElo "2549"]
 [BlackElo "2648"]
 [PlyCount "48"]
-[EventDate "2007.09.01"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
 O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Kb1 h6 12. h4 e5 13. Qd3 exf4 14. Bxf4
@@ -305,7 +280,6 @@ Be6 15. Be2 Rac8 16. Nd5 Bxd5 17. exd5 Qa4 18. c4 b5 19. Qb3 Ne4 20. Rde1 Qa5
 
 [Event "Masters"]
 [Site "Trieste ITA"]
-[Date "2007.09.08"]
 [Round "9"]
 [White "Caruana, F."]
 [Black "Bagaturov, G."]
@@ -314,7 +288,6 @@ Be6 15. Be2 Rac8 16. Nd5 Bxd5 17. exd5 Qa4 18. c4 b5 19. Qb3 Ne4 20. Rde1 Qa5
 [WhiteElo "2549"]
 [BlackElo "2474"]
 [PlyCount "99"]
-[EventDate "2007.09.01"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
 O-O-O Bd7 9. f4 h6 10. Bh4 g5 11. fxg5 Ng4 12. Be2 Nge5 13. Nf3 Be7 14. Rhg1 b5
@@ -328,7 +301,6 @@ Rh3+ 46. Kd2 Rg3 47. Rc8+ Kd4 48. Rd8+ Kc5 49. Rc8+ Kd4 50. Rd8+ 1/2-1/2
 
 [Event "Open"]
 [Site "Winterthur SUI"]
-[Date "2007.10.11"]
 [Round "7"]
 [White "Caruana, F."]
 [Black "Jenni, F."]
@@ -337,7 +309,6 @@ Rh3+ 46. Kd2 Rg3 47. Rc8+ Kd4 48. Rd8+ Kc5 49. Rc8+ Kd4 50. Rd8+ 1/2-1/2
 [WhiteElo "2594"]
 [BlackElo "2511"]
 [PlyCount "92"]
-[EventDate "2007.10.05"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
@@ -351,7 +322,6 @@ Bd2 41. Rh4 Kg7 42. h6+ Kh7 43. Rh5 Be4 44. c4 bxc4 45. bxc4 dxc4 46. Re5 Bg6
 
 [Event "Open"]
 [Site "Winterthur SUI"]
-[Date "2007.10.13"]
 [Round "9"]
 [White "Caruana, F."]
 [Black "Buhmann, R."]
@@ -360,7 +330,6 @@ Bd2 41. Rh4 Kg7 42. h6+ Kh7 43. Rh5 Be4 44. c4 bxc4 45. bxc4 dxc4 46. Re5 Bg6
 [WhiteElo "2594"]
 [BlackElo "2567"]
 [PlyCount "108"]
-[EventDate "2007.10.05"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+ Nxf6
 8. Be3 Nd5 9. Bd3 Bd6 10. Bd2 Nf4 11. Bxf4 Bxf4 12. Qe2 Qf6 13. g3 Bd6 14.
@@ -375,7 +344,6 @@ Rc3 Ra2+ 47. Kb1 Ra5 48. Kb2 Kd6 49. Bd1 c5 50. Be2 Ra4 51. Bd1 c4 52. Be2 Kc5
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.10.29"]
 [Round "2"]
 [White "Caruana, F."]
 [Black "Atalik, S."]
@@ -384,7 +352,6 @@ Rc3 Ra2+ 47. Kb1 Ra5 48. Kb2 Kd6 49. Bd1 c5 50. Be2 Ra4 51. Bd1 c4 52. Be2 Kc5
 [WhiteElo "2594"]
 [BlackElo "2599"]
 [PlyCount "114"]
-[EventDate "2007.10.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 Bf8 14. a3 g6 15. Ba2
@@ -399,7 +366,6 @@ Ke5 Rxb4 54. Ra7+ Kf8 55. Ra8+ Kf7 56. Ra7+ Kf8 57. Ra8+ Kf7 1/2-1/2
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.01"]
 [Round "5"]
 [White "Caruana, F."]
 [Black "Banikas, H."]
@@ -408,7 +374,6 @@ Ke5 Rxb4 54. Ra7+ Kf8 55. Ra8+ Kf7 56. Ra7+ Kf8 57. Ra8+ Kf7 1/2-1/2
 [WhiteElo "2594"]
 [BlackElo "2591"]
 [PlyCount "111"]
-[EventDate "2007.10.28"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
 O-O 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 Bf8 14. a3 h6 15. Bc2
@@ -423,7 +388,6 @@ Rxf7 d4 55. cxd4 d2 56. R7f3 1/2-1/2
 
 [Event "ETCC"]
 [Site "Crete GRE"]
-[Date "2007.11.06"]
 [Round "9"]
 [White "Caruana, F."]
 [Black "Gelashvili, T."]
@@ -432,7 +396,6 @@ Rxf7 d4 55. cxd4 d2 56. R7f3 1/2-1/2
 [WhiteElo "2594"]
 [BlackElo "2618"]
 [PlyCount "66"]
-[EventDate "2007.10.28"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
 O-O-O Nxd4 9. Qxd4 O-O 10. f4 Qa5 11. Bc4 Bd7 12. e5 dxe5 13. fxe5 Bc6 14. Bd2
@@ -444,7 +407,6 @@ Ra8 27. Bd4 e5 28. Bc5 Rxa2 29. Bc4 Ra1+ 30. Kd2 Rxd1+ 31. Kxd1 Kg7 32. g3 f5
 
 [Event "Gibtelecom Masters"]
 [Site "Catalan Bay ENG"]
-[Date "2007.01.31"]
 [Round "8"]
 [White "Caruana, F."]
 [Black "Grooten, H."]
@@ -453,7 +415,6 @@ Ra8 27. Bd4 e5 28. Bc5 Rxa2 29. Bc4 Ra1+ 30. Kd2 Rxd1+ 31. Kxd1 Kg7 32. g3 f5
 [WhiteElo "2492"]
 [BlackElo "2387"]
 [PlyCount "82"]
-[EventDate "2007.01.23"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Ne7 6. a3 dxc4 7. Bxc4 Nd7 8. Nge2
 Nb6 9. Bb3 Qd7 10. O-O Bg6 11. Bg5 h6 12. Be3 Nf5 13. Nf4 Bh7 14. Qh5 g6 15.
@@ -466,7 +427,6 @@ dxe4 41. d5 Qe5 0-1
 
 [Event "3. EUICC"]
 [Site "Arvier ITA"]
-[Date "2007.06.15"]
 [Round "1"]
 [White "Caruana, Fabiano"]
 [Black "Majer, Chris E"]
@@ -474,7 +434,6 @@ dxe4 41. d5 Qe5 0-1
 [WhiteElo "2523"]
 [BlackElo "2036"]
 [ECO "B01"]
-[EventDate "2007.06.15"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. g3 Nf6 5. Bg2 c6 6. Nf3 Bg4 7. O-O e6 
 8. h3 Bh5 9. Ne2 Nbd7 10. d4 Qc7 11. Nf4 Bg6 12. Nxg6 hxg6 13. Qe2 Bd6 14.
@@ -487,7 +446,6 @@ Nxe6+ Rxe6 38. Rxe6 fxe6 39. Qxc7 1-0
 
 [Event "It (open) \"]
 [Site "Gibraltar ENG"]
-[Date "2007.01.26"]
 [Round "4"]
 [White "Caruana, Fabiano"]
 [Black "Dworakowska, Joanna"]
@@ -506,7 +464,6 @@ Qf1 32. Qf6+ Rg7 33. Red3 Bd5 34. fxe6 1-0
 
 [Event "Masters"]
 [Site "Trieste ITA"]
-[Date "2007.09.01"]
 [Round "1"]
 [White "Caruana, Fabiano"]
 [Black "Elias, Leonardo"]
@@ -514,7 +471,6 @@ Qf1 32. Qf6+ Rg7 33. Red3 Bd5 34. fxe6 1-0
 [WhiteElo "2549"]
 [BlackElo "2122"]
 [ECO "B47"]
-[EventDate "2007.09.01"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 
 8. Kh1 b5 9. Nxc6 dxc6 10. f4 b4 11. e5 bxc3 12. exf6 gxf6 13. f5 cxb2 14.
@@ -526,7 +482,6 @@ Qxc4 32. Qb7+ Kd8 33. Qb8+ Ke7 34. Qxe5+ 1-0
 
 [Event "Gibtelecom Masters"]
 [Site "Catalan Bay ENG"]
-[Date "2007.01.24"]
 [Round "2"]
 [White "Caruana, Fabiano"]
 [Black "Adams, Michael"]
@@ -534,7 +489,6 @@ Qxc4 32. Qb7+ Kd8 33. Qb8+ Ke7 34. Qxe5+ 1-0
 [WhiteElo "2492"]
 [BlackElo "2735"]
 [ECO "C88"]
-[EventDate "2007.01.23"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 
 8. a4 Bb7 9. d3 d6 10. Nc3 Na5 11. Ba2 b4 12. Ne2 c5 13. Bd2 Rb8 14. Ng3 
@@ -546,13 +500,11 @@ Bc8 15. h3 Ne8 16. Nh2 Bg5 17. Nf3 Bf6 18. Nh2 g6 19. Ng4 Bg5 20. Ne3 Kh8
 
 [Event "HZ Open"]
 [Site "Vlissingen NED"]
-[Date "2007.08.04"]
 [Round "1"]
 [White "Caruana,F"]
 [Black "Hubregtse,Sjoerd"]
 [Result "1-0"]
 [WhiteElo "2549"]
-[EventDate "2007.08.04"]
 [ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.

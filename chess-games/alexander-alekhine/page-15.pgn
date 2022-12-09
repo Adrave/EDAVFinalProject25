@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Bern (Switzerland)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -21,7 +20,6 @@ Rf8 24.Qxb7 Re8 25.h3 Qc5 26.Bc3 Qe7 27.Bd5+ Kh8 28.Qxe7 1-0
 
 [Event "It"]
 [Site "Bern (Switzerland)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Grob Henry (SUI)"]
@@ -46,7 +44,6 @@ b4 47.Rg4+ Kh5 48.Kg3 Rd3 49.Rg7+ Rxf3+ 50.Kxf3 1-0
 
 [Event "It"]
 [Site "Bern (Switzerland)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Sultan Khan Mir (IND)"]
@@ -68,7 +65,6 @@ Qf5 31.Bb4 Rd7 32.Rxd7 Bxd7 33.Bxe7 exd5 34.Qd6 1-0
 
 [Event "Blindfold"]
 [Site "Hollywood (USA)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Borochow Harry"]
@@ -88,7 +84,6 @@ Nxb3 14.Nxb3 bxa4 15.Nd4 Bd7 16.e6 fxe6 17.Rxa4 Qc8 18.Re1 Kf7
 
 [Event "Game (exhibition)"]
 [Site "Lille (France)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lapierre A"]
@@ -110,7 +105,6 @@ cxd4 31.Ne2 c5 32.Nc1 Kf7 33.Nd3 Ke7 34.a5 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1932.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Buerger Victor"]
@@ -142,7 +136,6 @@ Ne8 87.Bxe8 Kxe8 88.Bf2 Kf7 89.c7 Bxc7+ 90.Kxc7 Ke6 91.Bxh4 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1932.??.??"]
 [Round "9"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Koltanowski George (USA)"]
@@ -164,7 +157,6 @@ Qxa4 25.Nxc5 Qb5 26.Qxf6+ Kg8 27.Nd7 Rd8 28.Rf3 Qb4 29.c3 Qb3
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Sultan Khan Mir (IND)"]
@@ -195,7 +187,6 @@ Kh5 80.Qb8 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1932.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -217,7 +208,6 @@ Bc8 20.Ne4 Nc5 21.Nxd6 Na4 22.c5 Nxb2 23.Re1 b5 24.cxb6 Qxd6
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1932.??.??"]
 [Round "3"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Winter William (ENG)"]
@@ -240,7 +230,6 @@ Rg5+ 30.Kh1 Qxc6 31.Re1 Qf6 32.Qb8+ Kd7 33.f4 Rg6 34.Qe8+ Kc7
 
 [Event "Game (exhibition)"]
 [Site "Lyons (France)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Jaillet / Planer M M"]
@@ -262,7 +251,6 @@ Ng6 25.Bxf7+ Kxf7 26.Qh7+ Bg7 27.e5 Rh8 28.e6+ Kf6 29.g5+ Kf5
 
 [Event "It"]
 [Site "Mexico City (Mexico)"]
-[Date "1932.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Brunner Erich (GER)"]
@@ -283,7 +271,6 @@ g6 19.h5 Kh7 20.hxg6+ fxg6 21.Rg3 Rg8 22.Rhg1 Qb6 23.Nxd5 Qxd4
 
 [Event "It"]
 [Site "Mexico City (Mexico)"]
-[Date "1932.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gonzalez Rojo E"]
@@ -306,7 +293,6 @@ Rxg4 36.Bxd5 b5 37.Rf8+ 1-0
 
 [Event "It"]
 [Site "Mexico City (Mexico)"]
-[Date "1932.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Vazquez J A"]
@@ -329,7 +315,6 @@ Ke7 36.Re6+ 1-0
 
 [Event "Ch USA"]
 [Site "Pasadena (USA)"]
-[Date "1932.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Borochow Harry"]
@@ -354,7 +339,6 @@ Rxh2 36.Rf5 Rg2 37.Rxg5 Bd7 38.Rg8 Rg3 39.Rb8 Rxg4+ 40.Kxd5 Be6+
 
 [Event "It"]
 [Site "Pasadena (USA)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Steiner Hermann (USA)"]
@@ -375,7 +359,6 @@ g5 25.Bb2 Kg8 26.Qh5 Be6 27.Nd7 1-0
 
 [Event ""]
 [Site "Pasadena (USA)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Kashdan Isaac (USA)"]
@@ -402,7 +385,6 @@ Ra4 59.a7 Ne4 60.Ke3 1-0
 
 [Event ""]
 [Site "Pasadena (USA)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -428,7 +410,6 @@ Rdd8 48.Rc5 Qd7 49.Qd4 Rc7 50.R5c3 Rdc8 51.e4 Rd8 52.exd5 Qxd5
 
 [Event "Tournament"]
 [Site "Strasbourg (France)"]
-[Date "1932.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Eber C E"]
@@ -452,7 +433,6 @@ Kf7 42.Ke3 Kg6 43.Kd4 Kf7 44.Kc4 Ke7 45.Kb5 Kd8 46.Kc6 Kc8 47.Rh1 1-0
 
 [Event "Simultan"]
 [Site "Haarlem (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Pannekoek J H"]
@@ -473,7 +453,6 @@ Qg6 25.Nd4 Rfe8 26.Qxd5 Red8 27.Qxb7 Rab8 28.Qa7 Ra8 29.Qb7 Rab8 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1933.??.??"]
 [Round "5"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Alexander Conel H O'D (ENG)"]
@@ -495,7 +474,6 @@ Nd4 30.Rxf7 Nf3+ 31.Kf1 Nxh2+ 32.Ke1 Nf3+ 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1933.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Eliskases Erich G (AUT)"]
@@ -523,7 +501,6 @@ Kf7 65.Kxe5 Re2+ 66.Kf4 Rxg2 67.Ra6 1/2-1/2
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1933.??.??"]
 [Round "7"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -545,7 +522,6 @@ Rxd8 25.Rd1 Rxd1+ 26.Bxd1 e4 27.Bb3 e3 28.Kf1 exf2 29.Kxf2 Qe5
 
 [Event "Match"]
 [Site "Paris (France)"]
-[Date "1933.??.??"]
 [Round "2"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bernstein Osip (FRA)"]
@@ -570,7 +546,6 @@ Kd4 49.Bf2+ Ke5 1/2-1/2
 
 [Event "Match"]
 [Site "Paris (France)"]
-[Date "1933.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bernstein Osip (FRA)"]

@@ -1,6 +1,5 @@
 [Event "2nd Vergani Cup 2018"]
 [Site "Villorba ITA"]
-[Date "2018.01.06"]
 [Round "7.1"]
 [White "Rapport, R."]
 [Black "Berkes, F."]
@@ -9,7 +8,6 @@
 [WhiteElo "2700"]
 [BlackElo "2662"]
 [PlyCount "40"]
-[EventDate "2018.01.02"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ITA"]
@@ -22,7 +20,6 @@ Na6 9. Rc1 Qc8 10. Bf4 Ne4 11. Nxe4 Bxe4 12. Qa4 c5 13. Rfd1 d6 14. dxc5 Nxc5
 
 [Event "2nd Vergani Cup 2018"]
 [Site "Villorba ITA"]
-[Date "2018.01.05"]
 [Round "5.1"]
 [White "Rapport, R."]
 [Black "Jobava, Ba"]
@@ -31,7 +28,6 @@ Na6 9. Rc1 Qc8 10. Bf4 Ne4 11. Nxe4 Bxe4 12. Qa4 c5 13. Rfd1 d6 14. dxc5 Nxc5
 [WhiteElo "2700"]
 [BlackElo "2690"]
 [PlyCount "23"]
-[EventDate "2018.01.02"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ITA"]
@@ -42,7 +38,6 @@ Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rac1 1/2-1/2
 
 [Event "Gibraltar Masters TB 2018"]
 [Site "Caleta ENG"]
-[Date "2018.02.01"]
 [Round "1.1"]
 [White "Rapport, R."]
 [Black "Aronian, L."]
@@ -51,7 +46,6 @@ Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rac1 1/2-1/2
 [WhiteElo "2700"]
 [BlackElo "2797"]
 [PlyCount "94"]
-[EventDate "2018.02.01"]
 [EventType "k.o. (rapid)"]
 [EventRounds "2"]
 [EventCountry "ENG"]
@@ -68,7 +62,6 @@ Nd3+ 41. Bxd3 exd3 42. b3 Nb2 43. Rc8 Nd1+ 44. Ke1 Nxe3 45. Kf2 Nc2 46. Bc5 Rd7
 
 [Event "Gibraltar Masters 2018"]
 [Site "Caleta ENG"]
-[Date "2018.01.30"]
 [Round "8.2"]
 [White "Rapport, R."]
 [Black "Howell, D."]
@@ -77,7 +70,6 @@ Nd3+ 41. Bxd3 exd3 42. b3 Nb2 43. Rc8 Nd1+ 44. Ke1 Nxe3 45. Kf2 Nc2 46. Bc5 Rd7
 [WhiteElo "2700"]
 [BlackElo "2682"]
 [PlyCount "97"]
-[EventDate "2018.01.23"]
 [EventType "swiss"]
 [EventRounds "10"]
 [EventCountry "ENG"]
@@ -94,7 +86,6 @@ Rb6 c4 48. Rxa6 c3 49. Rc6 1-0
 
 [Event "Bundesliga 2017-18"]
 [Site "Aachen GER"]
-[Date "2018.02.24"]
 [Round "9.2"]
 [White "Rapport, R."]
 [Black "Shytaj, L."]
@@ -103,7 +94,6 @@ Rb6 c4 48. Rxa6 c3 49. Rc6 1-0
 [WhiteElo "2686"]
 [BlackElo "2465"]
 [PlyCount "71"]
-[EventDate "2017.10.21"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -120,7 +110,6 @@ Nb5 Qe4 35. Nd4 Qxe3 36. Re2 1-0
 
 [Event "Reykjavik Open 2018"]
 [Site "Reykjavik ISL"]
-[Date "2018.03.06"]
 [Round "1.1"]
 [White "Rapport, R."]
 [Black "Der Manuelian, Haik"]
@@ -129,7 +118,6 @@ Nb5 Qe4 35. Nd4 Qxe3 36. Re2 1-0
 [WhiteElo "2715"]
 [BlackElo "2279"]
 [PlyCount "55"]
-[EventDate "2018.03.06"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ISL"]
@@ -143,7 +131,6 @@ Nd6 1-0
 
 [Event "Reykjavik Open 2018"]
 [Site "Reykjavik ISL"]
-[Date "2018.03.12"]
 [Round "7.1"]
 [White "Rapport, R."]
 [Black "Lenderman, A."]
@@ -152,7 +139,6 @@ Nd6 1-0
 [WhiteElo "2715"]
 [BlackElo "2600"]
 [PlyCount "73"]
-[EventDate "2018.03.06"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "ISL"]
@@ -167,7 +153,6 @@ Rc8 Rf6 35. Rxf6 Bxf6 36. Bxf6 Rxc8 37. Qxg7# 1-0
 
 [Event "GRENKE Chess Open 2018"]
 [Site "Karlsruhe GER"]
-[Date "2018.03.29"]
 [Round "1.2"]
 [White "Rapport, R."]
 [Black "Krauseneck, P."]
@@ -176,7 +161,6 @@ Rc8 Rf6 35. Rxf6 Bxf6 36. Bxf6 Rxc8 37. Qxg7# 1-0
 [WhiteElo "2715"]
 [BlackElo "2149"]
 [PlyCount "67"]
-[EventDate "2018.03.29"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -191,7 +175,6 @@ Nf6 22. Rc1 Nd7 23. Bf4 bxc5 24. dxc5 a5 25. Bh5 g6 26. Qc3 Qe7 27. Bxg6 Rg7
 
 [Event "GRENKE Chess Open 2018"]
 [Site "Karlsruhe GER"]
-[Date "2018.04.02"]
 [Round "9.2"]
 [White "Rapport, R."]
 [Black "Keymer, Vincent"]
@@ -200,7 +183,6 @@ Nf6 22. Rc1 Nd7 23. Bf4 bxc5 24. dxc5 a5 25. Bh5 g6 26. Qc3 Qe7 27. Bxg6 Rg7
 [WhiteElo "2715"]
 [BlackElo "2403"]
 [PlyCount "102"]
-[EventDate "2018.03.29"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -217,7 +199,6 @@ Rf8 41. Qh2 Na4 42. Re3 a6 43. Qe5 Bxh3 44. Kg1 Rg7 45. Nh4 Rxf2 46. Kxf2 Rxg2+
 
 [Event "GRENKE Chess Open 2018"]
 [Site "Karlsruhe GER"]
-[Date "2018.04.01"]
 [Round "7.2"]
 [White "Rapport, R."]
 [Black "Kollars, Dmitrij"]
@@ -226,7 +207,6 @@ Rf8 41. Qh2 Na4 42. Re3 a6 43. Qe5 Bxh3 44. Kg1 Rg7 45. Nh4 Rxf2 46. Kxf2 Rxg2+
 [WhiteElo "2715"]
 [BlackElo "2534"]
 [PlyCount "67"]
-[EventDate "2018.03.29"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -241,7 +221,6 @@ Rc1 1-0
 
 [Event "GRENKE Chess Open 2018"]
 [Site "Karlsruhe GER"]
-[Date "2018.03.30"]
 [Round "3.2"]
 [White "Rapport, R."]
 [Black "Malek, Da"]
@@ -250,7 +229,6 @@ Rc1 1-0
 [WhiteElo "2715"]
 [BlackElo "2403"]
 [PlyCount "75"]
-[EventDate "2018.03.29"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "GER"]
@@ -265,7 +243,6 @@ Re1+ Be6 35. Rxe6+ fxe6 36. Qg7+ Kd6 37. Ne4+ Ke5 38. Qg3+ 1-0
 
 [Event "TCh-HUN 2017-18"]
 [Site "Hungary HUN"]
-[Date "2018.05.06"]
 [Round "9.1"]
 [White "Rapport, R."]
 [Black "Nenezic, M."]
@@ -274,7 +251,6 @@ Re1+ Be6 35. Rxe6+ fxe6 36. Qg7+ Kd6 37. Ne4+ Ke5 38. Qg3+ 1-0
 [WhiteElo "2707"]
 [BlackElo "2497"]
 [PlyCount "81"]
-[EventDate "2017.11.25"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "HUN"]
@@ -292,7 +268,6 @@ Nd4 28. c5 dxc5 29. Rac1 Ne2 30. Rxc5 Nc3 31. Rd6 Kg8 32. Rxe5 Nxa2 33. Nc4 a4
 
 [Event "Bundesliga 2017-18"]
 [Site "Berlin GER"]
-[Date "2018.05.01"]
 [Round "15.6"]
 [White "Rapport, R."]
 [Black "Bluebaum, M."]
@@ -301,7 +276,6 @@ Nd4 28. c5 dxc5 29. Rac1 Ne2 30. Rxc5 Nc3 31. Rd6 Kg8 32. Rxe5 Nxa2 33. Nc4 a4
 [WhiteElo "2686"]
 [BlackElo "2643"]
 [PlyCount "35"]
-[EventDate "2017.10.21"]
 [EventType "team"]
 [EventRounds "15"]
 [EventCountry "GER"]
@@ -315,7 +289,6 @@ h3 Bh5 9. a3 Bd6 10. Re1 Bxf3 11. Qxf3 Nxd4 12. Qxd5 c6 13. Qh5 Qd7 14. Ne4 Ne6
 
 [Event "25th Abu Dhabi Masters"]
 [Site "Abu Dhabi UAE"]
-[Date "2018.08.09"]
 [Round "3.1"]
 [White "Rapport, R."]
 [Black "Andersen, Mad"]
@@ -324,7 +297,6 @@ h3 Bh5 9. a3 Bd6 10. Re1 Bxf3 11. Qxf3 Nxd4 12. Qxd5 c6 13. Qh5 Qd7 14. Ne4 Ne6
 [WhiteElo "2719"]
 [BlackElo "2601"]
 [PlyCount "111"]
-[EventDate "2018.08.07"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -342,7 +314,6 @@ Rf4+ Kg5 54. Rf2 Kg4 55. e7 Kg3 56. Rxh2 1-0
 
 [Event "25th Abu Dhabi Masters"]
 [Site "Abu Dhabi UAE"]
-[Date "2018.08.07"]
 [Round "1.2"]
 [White "Rapport, R."]
 [Black "Samhouri, A."]
@@ -351,7 +322,6 @@ Rf4+ Kg5 54. Rf2 Kg4 55. e7 Kg3 56. Rxh2 1-0
 [WhiteElo "2719"]
 [BlackElo "2348"]
 [PlyCount "113"]
-[EventDate "2018.08.07"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -369,7 +339,6 @@ Ke3 Kxf6 54. Bc2 h6 55. Kd4 Ke6 56. a4 Bb7 57. Be4 1-0
 
 [Event "25th Abu Dhabi Masters"]
 [Site "Abu Dhabi UAE"]
-[Date "2018.08.13"]
 [Round "7.3"]
 [White "Rapport, R."]
 [Black "Tabatabaei, M."]
@@ -378,7 +347,6 @@ Ke3 Kxf6 54. Bc2 h6 55. Kd4 Ke6 56. a4 Bb7 57. Be4 1-0
 [WhiteElo "2719"]
 [BlackElo "2590"]
 [PlyCount "43"]
-[EventDate "2018.08.07"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -391,7 +359,6 @@ Qe2 axb4 16. cxb4 Nxb4 17. axb4 Bxb4+ 18. Nfd2 Rxa1+ 19. Bxa1 Qa6 20. O-O Nf4
 
 [Event "25th Abu Dhabi Masters"]
 [Site "Abu Dhabi UAE"]
-[Date "2018.08.15"]
 [Round "9.6"]
 [White "Rapport, R."]
 [Black "Nihal, Sarin"]
@@ -400,7 +367,6 @@ Qe2 axb4 16. cxb4 Nxb4 17. axb4 Bxb4+ 18. Nfd2 Rxa1+ 19. Bxa1 Qa6 20. O-O Nf4
 [WhiteElo "2719"]
 [BlackElo "2556"]
 [PlyCount "75"]
-[EventDate "2018.08.07"]
 [EventType "swiss"]
 [EventRounds "9"]
 [EventCountry "UAE"]
@@ -415,7 +381,6 @@ Bf4 34. h3 Bh6 35. Kh5 Rd7 36. Kg6 Rd1 37. Rc3 Rg1+ 38. Kf7 1-0
 
 [Event "Bundesliga 2018-19"]
 [Site "Baden-Baden GER"]
-[Date "2018.11.24"]
 [Round "3.5"]
 [White "Rapport, Richard"]
 [Black "Gajewski, Grzegorz"]
@@ -423,7 +388,6 @@ Bf4 34. h3 Bh6 35. Kh5 Rd7 36. Kg6 Rd1 37. Rc3 Rg1+ 38. Kf7 1-0
 [WhiteElo "2726"]
 [BlackElo "2595"]
 [ECO "D53"]
-[EventDate "2018.11.24"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 Nbd7 7. Rc1 O-O 8.
  cxd5 exd5 9. Bd3 c6 10. Bg3 Re8 11. a3 Nf8 12. Nf3 Bg4 13. Qb3 Bxf3 14. 
@@ -435,7 +399,6 @@ Be3 Ne6 33. Rg4 Nc7 34. Rcxe4 Rxe4 35. Rxe4 Rb5 36. Rb4 1-0
 
 [Event "Bundesliga 2018-19"]
 [Site "Muelheim GER"]
-[Date "2018.11.11"]
 [Round "2.5"]
 [White "Rapport, Richard"]
 [Black "Areshchenko, Alexander"]
@@ -443,7 +406,6 @@ Be3 Ne6 33. Rg4 Nc7 34. Rcxe4 Rxe4 35. Rxe4 Rb5 36. Rb4 1-0
 [WhiteElo "2726"]
 [BlackElo "2652"]
 [ECO "D02"]
-[EventDate "2018.11.10"]
 
 1. Nf3 c5 2. c3 d5 3. d4 e6 4. e3 Nf6 5. Nbd2 Be7 6. Bd3 O-O 7. O-O Nbd7 
 8. Ne5 b6 9. Nc6 Qe8 10. b3 Bd6 11. f4 Bb7 12. Ne5 Qe7 13. Bb2 cxd4 14. 
@@ -454,7 +416,6 @@ Qd4 Rf6 27. Rc6 Rc8 28. Rfc2 Rxc6 29. Rxc6 Bb7 30. Rd6 Rf8 31. Qe5 1-0
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.22"]
 [Round "3.17"]
 [White "Rapport, Richard"]
 [Black "Paehtz, Elisabeth"]
@@ -462,7 +423,6 @@ Qd4 Rf6 27. Rc6 Rc8 28. Rfc2 Rxc6 29. Rxc6 Bb7 30. Rd6 Rf8 31. Qe5 1-0
 [WhiteElo "2725"]
 [BlackElo "2513"]
 [ECO "D23"]
-[EventDate "2018.10.20"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qb3 dxc4 5. Qxc4 Bg4 6. Bf4 Nbd7 7. Nbd2 
 Qa5 8. Qb3 Nb6 9. a3 Be6 10. Qd1 Nh5 11. Be5 f6 12. Bc7 Rc8 13. Bxb6 Qxb6 
@@ -474,7 +434,6 @@ Qa5 8. Qb3 Nb6 9. a3 Be6 10. Qd1 Nh5 11. Be5 f6 12. Bc7 Rc8 13. Bxb6 Qxb6
 
 [Event "chess.com IoM Masters"]
 [Site "Douglas ENG"]
-[Date "2018.10.24"]
 [Round "5.3"]
 [White "Rapport, Richard"]
 [Black "Xiong, Jeffery"]
@@ -482,7 +441,6 @@ Qa5 8. Qb3 Nb6 9. a3 Be6 10. Qd1 Nh5 11. Be5 f6 12. Bc7 Rc8 13. Bxb6 Qxb6
 [WhiteElo "2725"]
 [BlackElo "2656"]
 [ECO "D02"]
-[EventDate "2018.10.20"]
 
 1. d4 Nf6 2. c3 d5 3. Nf3 e6 4. Bg5 Nbd7 5. Nbd2 h6 6. Bh4 b6 7. e4 g5 8. 
 Bg3 dxe4 9. Ne5 Bb7 10. Bb5 a6 11. Bc6 Bxc6 12. Nxc6 Qc8 13. Qe2 Qb7 14. 
@@ -495,7 +453,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 
 [Event "Bundesliga 2018-19"]
 [Site "Baden Baden GER"]
-[Date "2019.03.24"]
 [Round "13.2"]
 [White "Rapport,R"]
 [Black "Jakubiec,A"]
@@ -505,7 +462,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 [BlackTeam "SG Turm Kiel"]
 [BlackTitle "GM"]
 [ECO "A80"]
-[EventDate "2018.11.24"]
 [EventType "team"]
 [Opening "Dutch"]
 [WhiteElo "2726"]
@@ -524,7 +480,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 
 [Event "Bundesliga 2018-19"]
 [Site "Solingen GER"]
-[Date "2019.04.06"]
 [Round "14.5"]
 [White "Rapport,R"]
 [Black "L'Ami,E"]
@@ -534,7 +489,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 [BlackTeam "SG Solingen"]
 [BlackTitle "GM"]
 [ECO "A07"]
-[EventDate "2018.11.24"]
 [EventType "team"]
 [Opening "Reti"]
 [Variation "King's Indian attack, Keres variation"]
@@ -558,7 +512,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 
 [Event "Bundesliga 2018-19"]
 [Site "Solingen GER"]
-[Date "2019.04.07"]
 [Round "15.5"]
 [White "Rapport,R"]
 [Black "Coenen,M"]
@@ -568,7 +521,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 [BlackTeam "Duesseldorfer SK 1914/1925"]
 [BlackTitle "FM"]
 [ECO "A05"]
-[EventDate "2018.11.24"]
 [EventType "team"]
 [Opening "Reti opening"]
 [WhiteElo "2726"]
@@ -586,7 +538,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 
 [Event "4NCL Div 1c 2018-19"]
 [Site "Telford ENG"]
-[Date "2019.05.04"]
 [Round "9.31"]
 [White "Rapport,R"]
 [Black "Turner,Ma"]
@@ -601,7 +552,6 @@ Re7 b4 39. Nb1 e2 40. Qxe5+ Qxe5 41. Rxe5 Rc6 0-1
 [BlackTeam "Barbican 4NCL"]
 [WhiteFideId "738590"]
 [BlackFideId "402893"]
-[EventDate "2018.11.10"]
 
 1. Nf3 Nf6 2. g3 d5 3. Bg2 c5 4. O-O Nc6 5. d4 e6 6. c4 dxc4 7. Qa4 cxd4 8. Nxd4
 Qxd4 9. Bxc6+ Bd7 10. Rd1 Bxc6 11. Qxc6+ bxc6 12. Rxd4 Nd5 13. Rxc4 Kd7 14. Nd2

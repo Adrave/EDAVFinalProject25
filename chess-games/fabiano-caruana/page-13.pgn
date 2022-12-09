@@ -5,7 +5,6 @@
 [BlackFideId "14109603"]
 [Result "1-0"]
 [Round "04"]
-[Date "Thu Nov 07 2019"]
 [WhiteClock "0:00:12"]
 [BlackClock "0:00:13"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "14109603"]
 [Result "1-0"]
 [Round "14"]
-[Date "Sat Nov 09 2019"]
 [WhiteClock "0:01:40"]
 [BlackClock "0:01:42"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5202213"]
 [Result "1/2-1/2"]
 [Round "01"]
-[Date "Sat Jan 11 2020"]
 [WhiteClock "0:25:34"]
 [BlackClock "0:54:01"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "8603820"]
 [Result "1-0"]
 [Round "03"]
-[Date "Mon Jan 13 2020"]
 [WhiteClock "0:50:39"]
 [BlackClock "0:47:16"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "1039784"]
 [Result "1/2-1/2"]
 [Round "05"]
-[Date "Thu Jan 16 2020"]
 [WhiteClock "0:18:23"]
 [BlackClock "0:10:54"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "24126055"]
 [Result "1-0"]
 [Round "07"]
-[Date "Sat Jan 18 2020"]
 [WhiteClock "0:04:38"]
 [BlackClock "0:04:03"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "5000017"]
 [Result "1-0"]
 [Round "08"]
-[Date "Sun Jan 19 2020"]
 [WhiteClock "0:19:06"]
 [BlackClock "0:20:55"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "12573981"]
 [Result "1-0"]
 [Round "10"]
-[Date "Wed Jan 22 2020"]
 [WhiteClock "0:46:34"]
 [BlackClock "0:43:28"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "1170546"]
 [Result "1-0"]
 [Round "12"]
-[Date "Sat Jan 25 2020"]
 [WhiteClock "0:34:22"]
 [BlackClock "0:24:05"]
 
@@ -135,7 +126,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.08"]
 [Round "1"]
 [White "Caruana,F"]
 [Black "Tan,Ju2"]
@@ -145,7 +135,6 @@
 [BlackTeam "London Lions"]
 [BlackTitle "GM"]
 [ECO "C50"]
-[EventDate "2019.01.08"]
 [Opening "Giuoco Piano"]
 [WhiteElo "2828"]
 [WhiteFideId "2020009"]
@@ -163,7 +152,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.01.08"]
 [Round "1"]
 [White "Caruana,F"]
 [Black "Edouard,R"]
@@ -173,7 +161,6 @@
 [BlackTeam "London Lions"]
 [BlackTitle "GM"]
 [ECO "B76"]
-[EventDate "2019.01.08"]
 [Opening "Sicilian"]
 [Variation "dragon, Yugoslav attack, Rauser variation"]
 [WhiteElo "2828"]
@@ -194,7 +181,6 @@
 
 [Event "82nd Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2020.01.13"]
 [Round "3.7"]
 [White "Caruana,F"]
 [Black "Yu Yangyi"]
@@ -203,7 +189,6 @@
 [BlackFideId "8603820"]
 [BlackTitle "GM"]
 [ECO "C43"]
-[EventDate "2020.01.11"]
 [Opening "Petrov"]
 [Variation "modern attack, Symmetrical variation"]
 [WhiteElo "2822"]
@@ -223,7 +208,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.20"]
 [Round "3"]
 [White "Caruana,F"]
 [Black "Bruzon Batista,L"]
@@ -233,7 +217,6 @@
 [BlackTeam "Chicago Wind"]
 [BlackTitle "GM"]
 [ECO "C81"]
-[EventDate "2020.01.06"]
 [Opening "Ruy Lopez"]
 [Variation "open, Howell attack"]
 [WhiteElo "2822"]
@@ -255,7 +238,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.20"]
 [Round "3"]
 [White "Caruana,F"]
 [Black "Robson,R"]
@@ -265,7 +247,6 @@
 [BlackTeam "Chicago Wind"]
 [BlackTitle "GM"]
 [ECO "C77"]
-[EventDate "2020.01.06"]
 [Opening "Ruy Lopez"]
 [Variation "Anderssen variation"]
 [WhiteElo "2822"]
@@ -286,7 +267,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "Caruana,F"]
 [Black "Sevian,Samuel"]
@@ -296,7 +276,6 @@
 [BlackTeam "New York Marshalls"]
 [BlackTitle "GM"]
 [ECO "C77"]
-[EventDate "2020.01.06"]
 [Opening "Ruy Lopez"]
 [Variation "Anderssen variation"]
 [WhiteElo "2822"]
@@ -321,7 +300,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.06"]
 [Round "1"]
 [White "Caruana,F"]
 [Black "Guseinov,G"]
@@ -331,7 +309,6 @@
 [BlackTeam "New York Marshalls"]
 [BlackTitle "GM"]
 [ECO "B36"]
-[EventDate "2020.01.06"]
 [Opening "Sicilian"]
 [Variation "accelerated fianchetto, Gurgenidze variation"]
 [WhiteElo "2822"]
@@ -357,7 +334,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "Caruana,F"]
 [Black "Naroditsky,D"]
@@ -367,7 +343,6 @@
 [BlackTeam "California Unicorns"]
 [BlackTitle "GM"]
 [ECO "C97"]
-[EventDate "2020.01.06"]
 [Opening "Ruy Lopez"]
 [Variation "closed, Chigorin defence"]
 [WhiteElo "2822"]
@@ -388,7 +363,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.01.27"]
 [Round "4"]
 [White "Caruana,F"]
 [Black "Swiercz,D"]
@@ -398,7 +372,6 @@
 [BlackTeam "California Unicorns"]
 [BlackTitle "GM"]
 [ECO "C65"]
-[EventDate "2020.01.06"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence"]
 [WhiteElo "2822"]
@@ -417,7 +390,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.02.03"]
 [Round "5"]
 [White "Caruana,F"]
 [Black "Saric,Iv"]
@@ -427,7 +399,6 @@
 [BlackTeam "Canada Chessbrahs"]
 [BlackTitle "GM"]
 [ECO "B90"]
-[EventDate "2020.01.06"]
 [Opening "Sicilian"]
 [Variation "Najdorf, Adams attack"]
 [WhiteElo "2842"]
@@ -447,7 +418,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2020.02.03"]
 [Round "5"]
 [White "Caruana,F"]
 [Black "Firouzja,Alireza"]
@@ -457,7 +427,6 @@
 [BlackTeam "Canada Chessbrahs"]
 [BlackTitle "GM"]
 [ECO "C65"]
-[EventDate "2020.01.06"]
 [Opening "Ruy Lopez"]
 [Variation "Berlin defence"]
 [WhiteElo "2842"]
@@ -487,7 +456,6 @@
 [BlackElo "2568"]
 [Result "1-0"]
 [Round "02"]
-[Date "Wed Mar 18 2020"]
 [WhiteClock "0:41:44"]
 [BlackClock "0:01:31"]
 
@@ -504,7 +472,6 @@
 [BlackElo "2707"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Sat Mar 21 2020"]
 [WhiteClock "0:32:25"]
 [BlackClock "0:24:42"]
 
@@ -521,7 +488,6 @@
 [BlackElo "2763"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Wed Mar 25 2020"]
 [WhiteClock "0:02:35"]
 [BlackClock "0:06:07"]
 
@@ -540,7 +506,6 @@
 [Result "1/2-1/2"]
 [Round "37-04"]
 [TimeControl "60+1"]
-[Date "2021.12.09"]
 [WhiteClock "0:00:09"]
 [BlackClock "0:00:07"]
 
@@ -560,7 +525,6 @@
 [Result "1/2-1/2"]
 [Round "35-02"]
 [TimeControl "300+1"]
-[Date "2021.12.09"]
 [WhiteClock "0:00:20"]
 [BlackClock "0:00:51"]
 

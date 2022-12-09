@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -24,7 +23,6 @@ Qe4 0-1
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -46,7 +44,6 @@ Rge7 31.Qg8+ Rd8 32.Qb3 Rdd7 33.Qg8+ Rd8 34.Qb3 Rdd7 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -70,7 +67,6 @@ Ne5 42.Nxe5 fxe5 43.Rc5 Rxb4 44.Rxe5 Rh4 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -98,7 +94,6 @@ Ra5+ 63.Kg6 Re6+ 64.Kh7 Ra7+ 65.Rg7 Rxg7+ 66.Kxg7 Re4 0-1
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -121,7 +116,6 @@ Rc7 36.Qd4 h4 37.Bb3 h3 38.Qh4 Bf7 39.Rd2 Bxb3 40.cxb3 Rc5 1-0
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -149,7 +143,6 @@ Kb7 54.Ra1 bxc5 55.Rb1+ Kc6 56.dxc5 Ra8 57.g4 fxg4 58.Kg3 a5
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "14"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -176,7 +169,6 @@ Kh6 59.Qh4+ 1-0
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "16"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -201,7 +193,6 @@ Rc2 48.Kb4 Rb2+ 1/2-1/2
 
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1978.??.??"]
 [Round "18"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -224,7 +215,6 @@ Nc2 32.Rd1 Be4 33.Be3 Nxe3 34.Kxe3 Qc7 35.g6 Bxg6 36.Qxe6 Ba3
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Giardelli Sergio C (ARG)"]
@@ -247,7 +237,6 @@ Bf5 31.Rc3 Rf6 32.Kh2 Rfd6 33.Ra7 Re5 34.Rxa5 Re2 35.Ne4 Bxe4
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hebert Jean (CAN)"]
@@ -270,7 +259,6 @@ Qe8 31.Rb1 Kc8 32.b4 Qc6 33.Qxc6+ bxc6 34.bxc5 Bxc5 35.Ba5 Rh8
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hernandez Roman (CUB)"]
@@ -293,7 +281,6 @@ Ng3+ 37.Kh2 Qxd3 38.dxe5 1-0
 
 [Event "Olympiad"]
 [Site "Buenos Aires (Argentina)"]
-[Date "1978.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -315,7 +302,6 @@ a5 31.f4 Kh7 32.Bd1 Ra8 33.Kf2 Kg6 34.g4 h5 35.Ke3 1-0
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bukic Enver (SLO)"]
@@ -338,7 +324,6 @@ Qc3 37.d6 Ra6 38.e4 Qc1+ 39.Rf1 Qc3 40.Qd5 Nf6 41.Rxf6 1-0
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -361,7 +346,6 @@ b5 30.Ne2 a5 31.g4 a4 32.h4 b4 33.b3 a3 34.Ng3 e4 35.g5+ hxg5
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Larsen Bent (DEN)"]
@@ -381,7 +365,6 @@ Qc6 14.O-O-O c4 15.Nc3 Nh6 16.d5 exd5 17.Rxd5 Bc5 18.Rhd1 f6
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Ljubojevic Ljubomir (SCG)"]
@@ -404,7 +387,6 @@ Ba4 37.Bc4 dxe5 38.fxe5 Kf8 39.Nb6 Bb5 0-1
 
 [Event "It (cat.14)"]
 [Site "Bugojno (Bosnia & Herzegovina)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Miles Anthony J (ENG)"]
@@ -426,7 +408,6 @@ Qd7 30.Qxd7 Rxd7 31.c4 Rd4 32.Ng5 h6 33.Rc8+ 1-0
 
 [Event "It (cat.8)"]
 [Site "Montilla (Spain)"]
-[Date "1978.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -451,7 +432,6 @@ Rg2+ 42.Kh3 Rxd3+ 43.cxd3 Rc2 44.Rc1 Rxc1 45.Bxc1 Ba6 46.g5 Bc3
 
 [Event "It (cat.8)"]
 [Site "Montilla (Spain)"]
-[Date "1978.??.??"]
 [Round "8"]
 [White "Spassky Boris V (FRA)"]
 [Black "Haritver Luis"]
@@ -472,7 +452,6 @@ Qxa7 26.Qxb5 Rb8 27.Qf1 Qa2 28.Ra1 Qb2 29.Qd1 1-0
 
 [Event "It (cat.8)"]
 [Site "Montilla (Spain)"]
-[Date "1978.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sanz Alonso Francisco J (ESP)"]
@@ -495,7 +474,6 @@ Nxf4 32.Bxf4 exf4 33.e5 Bg7 34.Rg1 dxe5 35.Rxe5 Qb4 36.Bd3+ Kg8
 
 [Event "It (cat.8)"]
 [Site "Montilla (Spain)"]
-[Date "1978.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Visier Segovia Fernando (ESP)"]
@@ -515,7 +493,6 @@ Bxf4 14.Be2 Be5 15.Bxg4 Nxg4 16.Qh4 Nxh2 17.Ne2 Nb4 18.Nbd4 h5
 
 [Event "It (cat.14)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1978.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sosonko Gennadi (NED)"]
@@ -536,7 +513,6 @@ Qd3 25.Qe2 1-0
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sax Gyula (HUN)"]
@@ -556,7 +532,6 @@ Bxd4 1/2-1/2
 
 [Event "It (cat.15)"]
 [Site "Tilburg (Netherlands)"]
-[Date "1979.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]

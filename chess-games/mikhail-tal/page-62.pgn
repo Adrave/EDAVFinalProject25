@@ -1,13 +1,11 @@
 [Event "Grandmasters-Young Masters"]
 [Site "Sochi URS"]
-[Date "1970.10.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Mikhail Podgaets"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B02"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -21,14 +19,12 @@
 
 [Event "Leningrad"]
 [Site "Leningrad"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Genrikh Chepukaitis"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A00"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 
@@ -45,14 +41,12 @@
 
 [Event "Baltic Clubs Cup"]
 [Site "Riga"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Andres Vooremaa"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E06"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -67,14 +61,12 @@
 
 [Event "Latvia ch"]
 [Site "Latvia ch"]
-[Date "1972.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Anatoly Shmit"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B93"]
-[EventDate "????.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 
@@ -88,14 +80,12 @@
 
 [Event "12th Soviet Team-ch qual group 2"]
 [Site "Moscow URS"]
-[Date "1972.03.03"]
 [Round "2"]
 [White "Mikhail Tal"]
 [Black "Vladimir Danov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E04"]
-[EventDate "????.??.??"]
 [PlyCount "56"]
 [WhiteElo "?"]
 
@@ -109,14 +99,12 @@
 
 [Event "Moscow blitz"]
 [Site "Moscow URS"]
-[Date "1972.05.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Vladimir Antoshin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C41"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -130,14 +118,12 @@
 
 [Event "Raud Memorial"]
 [Site "Viljandi EST"]
-[Date "1972.07.??"]
 [Round "3"]
 [White "Mikhail Tal"]
 [Black "Brashinsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E41"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -151,14 +137,12 @@
 
 [Event "Raud Memorial"]
 [Site "Viljandi EST"]
-[Date "1972.07.??"]
 [Round "12"]
 [White "Mikhail Tal"]
 [Black "Leonid Alexandrovich Shamkovich"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "????.??.??"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -175,14 +159,12 @@
 
 [Event "Raud Memorial"]
 [Site "Viljandi EST"]
-[Date "1972.07.??"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Jaan Ludolph"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A16"]
-[EventDate "????.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 
@@ -197,14 +179,12 @@
 
 [Event "Raud Memorial"]
 [Site "Viljandi EST"]
-[Date "1972.07.??"]
 [Round "11"]
 [White "Mikhail Tal"]
 [Black "Alexey Suetin"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E94"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -223,14 +203,12 @@
 
 [Event "?"]
 [Site "?"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B46"]
-[EventDate "????.??.??"]
 [PlyCount "39"]
 [WhiteElo "?"]
 
@@ -243,14 +221,12 @@
 
 [Event "Simul"]
 [Site "simul"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B03"]
-[EventDate "????.??.??"]
 [PlyCount "31"]
 [WhiteElo "?"]
 
@@ -262,14 +238,12 @@
 
 [Event "?"]
 [Site "?"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "NN"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B99"]
-[EventDate "????.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -282,14 +256,12 @@
 
 [Event "Moscow"]
 [Site "02"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Leonid D Zaid"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B97"]
-[EventDate "????.??.??"]
 [PlyCount "69"]
 [WhiteElo "?"]
 
@@ -304,14 +276,12 @@
 
 [Event "Hoogovens"]
 [Site "Wijk aan Zee NED"]
-[Date "1973.01.26"]
 [Round "9"]
 [White "Mikhail Tal"]
 [Black "Kick Langeweg"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B85"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -325,14 +295,12 @@
 
 [Event "Hoogovens"]
 [Site "Wijk aan Zee NED"]
-[Date "1973.02.03"]
 [Round "15"]
 [White "Mikhail Tal"]
 [Black "Coenraad Zuidema"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D37"]
-[EventDate "????.??.??"]
 [PlyCount "78"]
 [WhiteElo "?"]
 
@@ -348,14 +316,12 @@
 
 [Event "Cologne"]
 [Site "01"]
-[Date "1992.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Carsten Saenger"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -370,14 +336,12 @@
 
 [Event "Seville op"]
 [Site "Seville ESP"]
-[Date "1992.01.11"]
 [Round "2"]
 [White "Mikhail Tal"]
 [Black "Vicente Landero Luna"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B10"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -390,14 +354,12 @@
 
 [Event "Moscow Blitz Tournament"]
 [Site "Moscow RUS"]
-[Date "1992.05.28"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Garry Kasparov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B51"]
-[EventDate "????.??.??"]
 [PlyCount "33"]
 [WhiteElo "?"]
 
@@ -409,14 +371,12 @@
 
 [Event "Reykjavik World Cup"]
 [Site "Reykjavik ISL"]
-[Date "1988.10.??"]
 [Round "4"]
 [White "Mikhail Tal"]
 [Black "Jonathan Speelman"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B08"]
-[EventDate "????.??.??"]
 [PlyCount "67"]
 [WhiteElo "?"]
 
@@ -431,14 +391,12 @@
 
 [Event "Tel Aviv"]
 [Site "Tel Aviv"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Michael Karp"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "75"]
 [WhiteElo "?"]
 
@@ -453,14 +411,12 @@
 
 [Event "Moscow Open"]
 [Site "Moscow URS"]
-[Date "1990.??.??"]
 [Round "1"]
 [White "Mikhail Tal"]
 [Black "Meyer"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C66"]
-[EventDate "????.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -474,14 +430,12 @@
 
 [Event "Bundesliga 1989/90"]
 [Site "FRG"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Stefan Mohr"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B06"]
-[EventDate "????.??.??"]
 [PlyCount "61"]
 [WhiteElo "?"]
 
@@ -495,14 +449,12 @@
 
 [Event "Moscow Open"]
 [Site "Moscow URS"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Anatoly M Kremenietsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A15"]
-[EventDate "????.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -517,14 +469,12 @@
 
 [Event "Tel Aviv"]
 [Site "Tel Aviv ISR"]
-[Date "1990.??.??"]
 [Round "?"]
 [White "Mikhail Tal"]
 [Black "Yacov Isaakovich Murey"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E98"]
-[EventDate "????.??.??"]
 [PlyCount "99"]
 [WhiteElo "?"]
 

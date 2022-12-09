@@ -1,6 +1,5 @@
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.19"]
 [Round "7.6"]
 [White "Radjabov,T"]
 [Black "Vidit,S"]
@@ -9,7 +8,6 @@
 [BlackFideId "5029465"]
 [BlackTitle "GM"]
 [ECO "D38"]
-[EventDate "2019.01.12"]
 [Opening "QGD"]
 [Variation "Ragozin variation"]
 [WhiteElo "2757"]
@@ -27,7 +25,6 @@
 
 [Event "Armageddon: Chess for TV"]
 [Site "Moscow RUS"]
-[Date "2019.06.14"]
 [Round "3.3"]
 [White "Radjabov,T"]
 [Black "Dubov,Daniil"]
@@ -40,7 +37,6 @@
 [Opening "Reti opening"]
 [WhiteFideId "13400924"]
 [BlackFideId "24126055"]
-[EventDate "2019.06.10"]
 
 1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g3 b6 5. Bg2 Bb7 6. O-O c5 7. c4 d5 8. cxd5
 O-O 9. d4 Nxd5 10. Qd2 Nc7 11. Rd1 cxd4 12. Bxd4 Bxd4 13. Nxd4 Bxg2 14. Kxg2
@@ -55,7 +51,6 @@ Kf8 47. Ke2 Ng6 48. Nc6 Nf4+ 49. Kd2 Rd3+ 50. Kc2 Rxf3 51. a4 Rf2+ 52. Kc3 Rf3+
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.15"]
 [Round "2.4"]
 [White "Radjabov,T"]
 [Black "Sjugirov,S"]
@@ -69,7 +64,6 @@ Kf8 47. Ke2 Ng6 48. Nc6 Nf4+ 49. Kd2 Rd3+ 50. Kc2 Rxf3 51. a4 Rf2+ 52. Kc3 Rf3+
 [Variation "4.Nf3"]
 [WhiteFideId "13400924"]
 [BlackFideId "4189302"]
-[EventDate "2019.09.10"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 h6 6. Bh4 Be7 7. e3 O-O 8. Rc1
 c5 9. cxd5 Nxd5 10. Bxe7 Nxe7 11. Be2 b6 12. O-O Bb7 13. dxc5 Nxc5 14. b4 Ne4
@@ -87,7 +81,6 @@ Kxe4 73. g6 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.16"]
 [Round "3.1"]
 [White "Radjabov,T"]
 [Black "Yuffa,D"]
@@ -101,7 +94,6 @@ Kxe4 73. g6 1-0
 [Variation "two knights, 3...Bg4"]
 [WhiteFideId "13400924"]
 [BlackFideId "24131423"]
-[EventDate "2019.09.10"]
 
 1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. Be2 Bc5 7. O-O Ne7 8. Qg3
 O-O 9. d3 Nd7 10. Kh1 f5 11. Bg5 Bd4 12. Qd6 Bf6 13. f4 Rf7 14. Bxf6 Rxf6 15. e5
@@ -114,7 +106,6 @@ Bxe6+ Kxe6 42. Rhxg6+ Rxg6 43. Rxg6+ Kd7 44. Rb6 Kc7 45. Kg3 1-0
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.10"]
 [Round "1.1"]
 [White "Radjabov,T"]
 [Black "Ziska,H"]
@@ -128,7 +119,6 @@ Bxe6+ Kxe6 42. Rhxg6+ Rxg6 43. Rxg6+ Kd7 44. Rb6 Kc7 45. Kg3 1-0
 [Variation "fianchetto, Kavalek (Bronstein) variation"]
 [WhiteFideId "13400924"]
 [BlackFideId "7200595"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c6 7. Nc3 Qa5 8. Bd2
 Qa6 9. b3 d5 10. cxd5 cxd5 11. b4 Bf5 12. Qb3 Qd6 13. b5 Ne4 14. Bf4 Qd8 15.
@@ -139,7 +129,6 @@ Nd7 22. Nc5 Nxc5 23. Rxc5 Rfc8 24. Rac1 Rxc5 25. Rxc5 e5 26. Be3 Rd8 27. Qc3 Bf8
 
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.24"]
 [Round "5.2"]
 [White "Radjabov,T"]
 [Black "Xiong,Jeffery"]
@@ -153,7 +142,6 @@ Nd7 22. Nc5 Nxc5 23. Rxc5 Rfc8 24. Rac1 Rxc5 25. Rxc5 e5 26. Be3 Rd8 27. Qc3 Bf8
 [Variation "exchange variation"]
 [WhiteFideId "13400924"]
 [BlackFideId "2047640"]
-[EventDate "2019.09.10"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8.
 Ba4 O-O 9. Ne2 e5 10. O-O Nd7 11. Be3 Qe7 12. Bc2 Nb6 13. f4 exd4 14. Bxd4 Rd8
@@ -172,7 +160,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2767"]
 [Result "1/2-1/2"]
 [Round "08"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:06:28"]
 [BlackClock "0:08:04"]
 
@@ -190,7 +177,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2784"]
 [Result "0-1"]
 [Round "03-01"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:00:02"]
 [BlackClock "0:00:04"]
 
@@ -208,7 +194,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2784"]
 [Result "1/2-1/2"]
 [Round "01-04"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:03:11"]
 [BlackClock "0:04:34"]
 
@@ -226,7 +211,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2784"]
 [Result "1-0"]
 [Round "02-01"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:08:00"]
 [BlackClock "0:06:52"]
 
@@ -244,7 +228,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2784"]
 [Result "1/2-1/2"]
 [Round "02-03"]
-[Date "Wed Dec 30 2020"]
 [WhiteClock "0:07:25"]
 [BlackClock "0:05:31"]
 
@@ -262,7 +245,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2784"]
 [Result "1/2-1/2"]
 [Round "01-02"]
-[Date "Tue Dec 29 2020"]
 [WhiteClock "0:07:18"]
 [BlackClock "0:11:14"]
 
@@ -280,7 +262,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2732"]
 [Result "1/2-1/2"]
 [Round "11"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:04:46"]
 [BlackClock "0:00:00"]
 
@@ -298,7 +279,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2681"]
 [Result "1-0"]
 [Round "02"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:01:00"]
 [BlackClock "0:00:26"]
 
@@ -316,7 +296,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2764"]
 [Result "1/2-1/2"]
 [Round "04"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:08:54"]
 [BlackClock "0:09:07"]
 
@@ -334,7 +313,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2699"]
 [Result "1-0"]
 [Round "04-03"]
-[Date "Thu Dec 31 2020"]
 [WhiteClock "0:00:53"]
 [BlackClock "0:00:18"]
 
@@ -352,7 +330,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [BlackElo "2699"]
 [Result "1/2-1/2"]
 [Round "04-01"]
-[Date "Thu Dec 31 2020"]
 [WhiteClock "0:01:07"]
 [BlackClock "0:01:26"]
 
@@ -371,7 +348,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "15"]
 [TimeControl "300+1"]
-[Date "2021.06.21"]
 [WhiteClock "0:00:33"]
 [BlackClock "0:00:48"]
 
@@ -391,7 +367,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "04"]
 [TimeControl "900+5"]
-[Date "2021.09.09"]
 [WhiteClock "0:01:17"]
 [BlackClock "0:00:21"]
 
@@ -411,7 +386,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "01"]
 [TimeControl "900+10"]
-[Date "2021.10.11"]
 [WhiteClock "0:11:03"]
 [BlackClock "0:11:03"]
 
@@ -431,7 +405,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "04"]
 [TimeControl "5400+30"]
-[Date "2021.11.15"]
 [WhiteClock "0:19:22"]
 [BlackClock "0:35:22"]
 
@@ -451,7 +424,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "02"]
 [TimeControl "5400+30"]
-[Date "2021.11.13"]
 [WhiteClock "0:27:53"]
 [BlackClock "0:27:16"]
 
@@ -471,7 +443,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "09"]
 [TimeControl "5400+30"]
-[Date "2021.11.21"]
 [WhiteClock "0:27:36"]
 [BlackClock "0:41:56"]
 
@@ -491,7 +462,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "08"]
 [TimeControl "5400+30"]
-[Date "2021.11.20"]
 [WhiteClock "1:15:13"]
 [BlackClock "1:07:04"]
 
@@ -511,7 +481,6 @@ Re7 Rc1+ 35. Kh2 Rc3 36. Qh6 1-0
 [Result "1/2-1/2"]
 [Round "07"]
 [TimeControl "5400+30"]
-[Date "2021.11.19"]
 [WhiteClock "0:49:07"]
 [BlackClock "0:53:10"]
 

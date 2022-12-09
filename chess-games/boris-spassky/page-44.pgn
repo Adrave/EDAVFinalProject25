@@ -1,6 +1,5 @@
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "16"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bronstein David I (RUS)"]
@@ -20,7 +19,6 @@ Re8 14.Qd3 e2 15.Nd6 Nf8 16.Nxf7 exf1Q+ 17.Rxf1 Bf5 18.Qxf5 Qd7
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gurgenidze Bukhuti (GEO)"]
@@ -41,7 +39,6 @@ fxg6 26.Bxg7 Nxg7 27.Qg4 Qe8 28.Rd5 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Sakharov Yuri N (RUS)"]
@@ -63,7 +60,6 @@ Nxc4 30.Rd7 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -89,7 +85,6 @@ Qc1+ 46.Kd4 Qg1+ 47.Kd5 Qg5+ 48.Kc4 Qc1+ 49.Kb3 Qb1+ 50.Ka3 Qd3+
 
 [Event "Olympiad (students) (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "4"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gibbs Peter C (ENG)"]
@@ -110,7 +105,6 @@ Ng4 25.Bd3 1-0
 
 [Event "Olympiad (students) (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Marsalek Josef (CZE)"]
@@ -130,7 +124,6 @@ Nf6 20.Qg5 Ne4 21.Qh6 1-0
 
 [Event "Olympiad (students) (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Mititelu Gheorghe (ROM)"]
@@ -151,7 +144,6 @@ Kg8 25.Rxh6 1-0
 
 [Event "Olympiad (students) (team)"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Tumurbator Purev"]
@@ -174,7 +166,6 @@ Qc7 37.Rg6 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bazan Osvaldo (ARG)"]
@@ -195,7 +186,6 @@ f6 25.Nf5+ 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Eliskases Erich G (AUT)"]
@@ -218,7 +208,6 @@ Bc5 36.g7 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Fischer Robert J (USA)"]
@@ -239,7 +228,6 @@ O-O 14.Bxc8 Rxc8 15.Qg4 f5 16.Qg3 dxc3 17.Rae1 Kh8 18.Kh1 Rg8
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Foguelman Alberto (ARG)"]
@@ -261,7 +249,6 @@ Qf8 30.Rxf8+ Kxf8 31.Qd6+ Kf7 32.Qa3 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gadia Olicio"]
@@ -285,7 +272,6 @@ Nd2 41.Rd6 Rxd6 42.Bxd6+ Ke3 43.Bc5+ Ke2 44.a5 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -312,7 +298,6 @@ Ke5 58.Ra8 Nc7 59.Ra7 Ne6 60.Rf7 1-0
 
 [Event "It"]
 [Site "Mar del Plata (Argentina)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Saadi Julio"]
@@ -335,7 +320,6 @@ Bxf2 36.h4 Kxb4 37.f5 gxf5 38.h5 Bg3 39.h6 a5 40.Rd7 1-0
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -357,7 +341,6 @@ b6 30.Bxc7 bxc5 31.Bd6 c4 32.Bxc4 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "Rostov on Don (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -380,7 +363,6 @@ Qa5 26.Qxe4 Nc5 27.Qe7+ Kg8 28.Nh6+ gxh6 29.gxh6 Rd6 30.f5 Rxh6
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "6"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kholmov Ratmir D (RUS)"]
@@ -405,7 +387,6 @@ Rd8 48.e4 Kb2 49.Rb7+ Kc3 50.Rb8 c1Q 51.Rxd8 Qh1 52.Rc8+ Kb3 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "10"]
 [White "Spassky Boris V (FRA)"]
 [Black "Nezhmetdinov Rashit (RUS)"]
@@ -428,7 +409,6 @@ Rc3 37.Qb4 Qa2 38.Rb2 Qa1 39.Rb1 Qa2 40.Rb2 Qa1 41.Rb1 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Baku (Azerbaijan)"]
-[Date "1961.??.??"]
 [Round "21"]
 [White "Spassky Boris V (FRA)"]
 [Black "Vasiukov Evgeni (RUS)"]
@@ -447,7 +427,6 @@ Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 d5 11.Bf4 c6 12.O-O-O Be6
 
 [Event "Match \"Budapest-Leningrad\""]
 [Site "Budapest (Hungary)"]
-[Date "1961.??.??"]
 [Round "2"]
 [White "Spassky Boris V (FRA)"]
 [Black "Portisch Lajos (HUN)"]
@@ -467,7 +446,6 @@ Rxd1+ 19.Rxd1 Qe5 20.Bc3 Qc7 21.Ba5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -488,7 +466,6 @@ Nxc3 25.bxc3 Kf6 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Geller Efim P (RUS)"]
@@ -518,7 +495,6 @@ Kh7 71.Qb1+ Kg8 72.Qg1 Kg7 73.Qg3 Kg6 74.Kh3 Qxg5 75.Qd3+ Kg7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -542,14 +518,12 @@ Qd5 37.Re1 Rxe1+ 38.Bxe1 Rh6 39.Qg5 Qxd6 40.Bg3 Qb6 41.Be5 Rg6
 
 [Event "USSR Championship 1961a"]
 [Site "Moscow URS"]
-[Date "1961.01.14"]
 [Round "3"]
 [White "Boris Spassky"]
 [Black "Efim Geller"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "A46"]
-[EventDate "1961.??.??"]
 [PlyCount "161"]
 [WhiteElo "?"]
 

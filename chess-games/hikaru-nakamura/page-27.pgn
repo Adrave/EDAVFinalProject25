@@ -1,6 +1,5 @@
 [Event "FIDE World Cup 2019"]
 [Site "Khanty-Mansiysk RUS"]
-[Date "2019.09.12"]
 [Round "1.4"]
 [White "Nakamura,Hi"]
 [Black "Bellahcene,B"]
@@ -14,7 +13,6 @@
 [Variation "symmetrical variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "696358"]
-[EventDate "2019.09.10"]
 
 1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. e3 d5 7. cxd5 exd5 8.
 Bb5 Bd7 9. O-O Bd6 10. Nf3 Be6 11. b3 O-O 12. Bb2 Rc8 13. Be2 a6 14. Rc1 Re8 15.
@@ -28,7 +26,6 @@ fxg5 1-0
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.11"]
 [Round "2.22"]
 [White "Nakamura,Hi"]
 [Black "Bachmann,Ax"]
@@ -42,7 +39,6 @@ fxg5 1-0
 [Variation "classical, 6...a6"]
 [WhiteFideId "2016192"]
 [BlackFideId "3700488"]
-[EventDate "2019.10.10"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Qxd1 8.
 Rxd1 Bxc5 9. Be2 b6 10. Nfd2 Bb7 11. Nb3 Be7 12. f3 Nbd7 13. e4 Nc5 14. Nd4 O-O
@@ -53,7 +49,6 @@ Rxe8+ Nxe8 28. Bxb6 Nc1 29. Bxb5 Nd6 30. Bc6 Nxa2 31. Bc5 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.5"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -67,7 +62,6 @@ Rxe8+ Nxe8 28. Bxb6 Nc1 29. Bxb5 Nd6 30. Bc6 Nxa2 31. Bc5 1-0
 [Variation "neo-Meran (Lundin variation)"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 c6 4. Nc3 e6 5. d4 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
 b4 9. Ne4 Nxe4 10. Bxe4 Bb7 11. O-O Bd6 12. Nd2 Qc7 13. h3 c5 14. Bxb7 Qxb7 15.
@@ -80,7 +74,6 @@ fxg5+ hxg5 41. h5 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.7"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -94,7 +87,6 @@ fxg5+ hxg5 41. h5 1-0
 [Variation "symmetrical variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. e3 Bg7 5. Ne2 e5 6. Nbc3 Nge7 7. d3 O-O 8. Nd5
 d6 9. Nec3 Be6 10. O-O Qd7 11. Bd2 f5 12. a3 Rae8 13. b4 b6 14. Qa4 g5 15. Rae1
@@ -110,7 +102,6 @@ Rd5 Rf7 61. Kg3 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.1"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -124,7 +115,6 @@ Rd5 Rf7 61. Kg3 1-0
 [Variation "Nimzovich-Rossolimo attack (without ...d6)"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Ng6 7. Be3 Qc7 8.
 Be2 a6 9. c4 Be7 10. Nc3 O-O 11. Rc1 Bf6 12. c5 Rd8 13. Nxc6 dxc6 14. Qc2 Nf4
@@ -136,7 +126,6 @@ b4 h5 29. Rxd4 Rxd4 30. Bc4 Bg4 31. f3 Be6 32. Bxe6 fxe6 33. Nc4 Qd7 34. Kf2 g5
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.13"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -150,7 +139,6 @@ b4 h5 29. Rxd4 Rxd4 30. Bc4 Bg4 31. f3 Be6 32. Bxe6 fxe6 33. Nc4 Qd7 34. Kf2 g5
 [Variation "Taimanov variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 d6 6. Be3 Nge7 7. Nb3 a6 8. a4
 b6 9. g3 Bb7 10. Bg2 Qc7 11. O-O h5 12. Nd2 h4 13. Nc4 Nc8 14. Qe2 hxg3 15. hxg3
@@ -160,7 +148,6 @@ Ne5 16. Nxe5 dxe5 17. Rad1 Nd6 18. Qg4 Nc4 19. Bc1 g6 20. Rd3 Rd8 21. Rfd1 Rxd3
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.11"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -174,7 +161,6 @@ Ne5 16. Nxe5 dxe5 17. Rad1 Nd6 18. Qg4 Nc4 19. Bc1 g6 20. Rd3 Rd8 21. Rfd1 Rxd3
 [Variation "two knights, 3...Bg4"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. g3 Nd7 7. d3 Bb4 8. Bd2
 d4 9. Nb1 Qb6 10. b3 Ne7 11. Bg2 O-O 12. O-O a5 13. a4 Qc5 14. Qd1 e5 15. f4 b5
@@ -188,7 +174,6 @@ Rxa7 Rxa7 49. Bd3 Kf4 50. Rg6 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.15"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -202,7 +187,6 @@ Rxa7 Rxa7 49. Bd3 Kf4 50. Rg6 1-0
 [Variation "Nimzovich-Rossolimo attack (without ...d6)"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Ng6 7. Be2 Qc7 8.
 Be3 a6 9. c4 Be7 10. Nc3 O-O 11. Rc1 Nxd4 12. Qxd4 d6 13. Na4 Bd7 14. Nb6 Rad8
@@ -215,7 +199,6 @@ e6 Bf6 42. e7+ Ke8 43. Re1 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.23"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -229,7 +212,6 @@ e6 Bf6 42. e7+ Ke8 43. Re1 1-0
 [Variation "Nimzovich-Rossolimo attack (without ...d6)"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Ng6 7. Be2 Qc7 8.
 Be3 b6 9. Nb5 Qb8 10. c4 Bb7 11. Qd2 a6 12. Nd4 Bc5 13. Nc3 O-O 14. Nb3 d6 15.
@@ -239,7 +221,6 @@ Nd1 g6 23. gxf4 exf4 24. Bf2 Ba6 25. Qxf4 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.19"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -253,7 +234,6 @@ Nd1 g6 23. gxf4 exf4 24. Bf2 Ba6 25. Qxf4 1-0
 [Variation "4.e3"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e3 d5 2. c4 c6 3. Nf3 Nf6 4. d4 e6 5. Bd3 Nbd7 6. Nbd2 Bd6 7. O-O O-O 8. e4
 e5 9. cxd5 cxd5 10. exd5 exd4 11. Nxd4 Nc5 12. Bc2 Bg4 13. N2f3 Nxd5 14. h3 Bh5
@@ -267,7 +247,6 @@ Rxf4 Nxc3 47. Rc4 Ne2+ 48. Kf2 Bd3 49. Rg4+ Kf8 50. Rd6 Bc4 51. Rxc4 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.29"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -281,7 +260,6 @@ Rxf4 Nxc3 47. Rc4 Ne2+ 48. Kf2 Bd3 49. Rg4+ Kf8 50. Rd6 Bc4 51. Rxc4 1-0
 [Variation "two knights, 3...Bg4"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. g3 Nd7 7. Bg2 Bc5 8. O-O
 Ne7 9. d3 O-O 10. Qe2 a5 11. a3 a4 12. Kh2 b5 13. f4 Re8 14. h4 Qb6 15. Bh3 b4
@@ -291,7 +269,6 @@ Nxb6 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.25"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -305,7 +282,6 @@ Nxb6 1-0
 [Variation "Najdorf, Lipnitzky attack"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Bc4 e6 7. a4 Nc6 8. Nxc6
 bxc6 9. O-O Be7 10. Qe2 d5 11. Bd3 Kf8 12. e5 Nd7 13. f4 g6 14. a5 Rb8 15. b3
@@ -317,7 +293,6 @@ Bd3 Bxd3 29. Rxd3 Rh8 30. Rf3 Qb4 31. c4 d4 32. Qe4 Qd2 33. Bg3 Rb8 34. Kh2 Qd1
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.31"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -331,7 +306,6 @@ Bd3 Bxd3 29. Rxd3 Rh8 30. Rf3 Qb4 31. c4 d4 32. Qe4 Qd2 33. Bg3 Rb8 34. Kh2 Qd1
 [Variation "Taimanov variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 d6 6. Nxc6 bxc6 7. Be3 Nf6 8.
 g4 h6 9. Bg2 Rb8 10. Rb1 Qa5 11. O-O Be7 12. e5 Qxe5 13. Bxa7 Bd7 14. Bxb8 O-O
@@ -341,7 +315,6 @@ fxg6 22. Qg4 c4+ 23. Kh1 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.27"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -355,7 +328,6 @@ fxg6 22. Qg4 c4+ 23. Kh1 1-0
 [Variation "classical variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. b3 d5 2. Bb2 Bg4 3. Nf3 Bxf3 4. exf3 Nd7 5. g3 Ngf6 6. f4 g6 7. Bg2 c6 8. O-O
 Bg7 9. d3 O-O 10. Nd2 Ne8 11. d4 Nd6 12. Nf3 a5 13. a3 a4 14. Ne5 Re8 15. Re1 e6
@@ -369,7 +341,6 @@ Qxd7 Rxb6 49. f7 Rd6 50. Qe8+ 1-0
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.33"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -383,7 +354,6 @@ Qxd7 Rxb6 49. f7 Rd6 50. Qe8+ 1-0
 [Variation "two knights, 3...Bg4"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. g3 Nd7 7. Bg2 Bd6 8. O-O
 Ne7 9. d4 h5 10. e5 Bc7 11. Ne2 Nf5 12. c3 c5 13. h4 Bb6 14. Bh3 g6 15. Rd1 Qc7
@@ -396,7 +366,6 @@ h4 29. Nxb5 hxg3 30. fxg3 Nb6 31. Nd6 Rh3 32. Nxf5 Rg8 33. Kg2 Rh5 34. Ne7 Re8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.10.01"]
 [Round "1.35"]
 [White "Nakamura,Hi"]
 [Black "Dobrov,V"]
@@ -410,7 +379,6 @@ h4 29. Nxb5 hxg3 30. fxg3 Nb6 31. Nd6 Rh3 32. Nxf5 Rg8 33. Kg2 Rh5 34. Ne7 Re8
 [Variation "Steinitz variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "4136594"]
-[EventDate "2019.09.02"]
 
 1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 c5 6. Nce2 Nc6 7. c3 b5 8. Nf3 b4
 9. g4 Qb6 10. f5 h5 11. fxe6 fxe6 12. gxh5 Ba6 13. Nf4 O-O-O 14. Bxa6+ Qxa6 15.
@@ -421,7 +389,6 @@ Kxb7 28. Rf3 Rd8 29. Nf7 Rdf8 30. Rxd3 Nb4 31. Bxb4 Bxb4 32. Rb3 1-0
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.15"]
 [Round "6.17"]
 [White "Nakamura,Hi"]
 [Black "Riazantsev,A"]
@@ -435,7 +402,6 @@ Kxb7 28. Rf3 Rd8 29. Nf7 Rdf8 30. Rxd3 Nb4 31. Bxb4 Bxb4 32. Rb3 1-0
 [Variation "classical, Spassky variation"]
 [WhiteFideId "2016192"]
 [BlackFideId "4125029"]
-[EventDate "2019.10.10"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Qc7 13. Ne4 O-O-O 14. g3 Be7
@@ -446,7 +412,6 @@ Qc4 Nf6 22. Ne5 Rf8 23. Qa4 Rd5 24. Nc4 Bd8 25. Bf4 Rxh5 26. Re3 a6 27. Nd6 Qc7
 
 [Event "FIDE Chess.com Grand Swiss"]
 [Site "Douglas ENG"]
-[Date "2019.10.18"]
 [Round "8.10"]
 [White "Nakamura,Hi"]
 [Black "Melkumyan,H"]
@@ -460,7 +425,6 @@ Qc4 Nf6 22. Ne5 Rf8 23. Qa4 Rd5 24. Nc4 Bd8 25. Bf4 Rxh5 26. Re3 a6 27. Nd6 Qc7
 [Variation "closed, anti-Marshall 8.a4"]
 [WhiteFideId "2016192"]
 [BlackFideId "13302485"]
-[EventDate "2019.10.10"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
 b4 9. a5 d6 10. c3 Rb8 11. d3 bxc3 12. bxc3 Be6 13. Bxe6 fxe6 14. Nbd2 Rb5 15.
@@ -473,7 +437,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.04"]
 [Round "2.3"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -482,7 +445,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "B90"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Najdorf"]
 [WhiteElo "2745"]
@@ -502,7 +464,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.04"]
 [Round "2.5"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -511,7 +472,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "B50"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [WhiteElo "2745"]
 [WhiteFideId "2016192"]
@@ -530,7 +490,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.04"]
 [Round "2.13"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -539,7 +498,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "C28"]
-[EventDate "2019.09.02"]
 [Opening "Vienna game"]
 [WhiteElo "2745"]
 [WhiteFideId "2016192"]
@@ -562,7 +520,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.04"]
 [Round "2.17"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -571,7 +528,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "B47"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [Variation "Taimanov (Bastrikov) variation"]
 [WhiteElo "2745"]
@@ -592,7 +548,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.04"]
 [Round "2.19"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -601,7 +556,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "B07"]
-[EventDate "2019.09.02"]
 [Opening "Pirc"]
 [Variation "Holmov system"]
 [WhiteElo "2745"]
@@ -622,7 +576,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2019.12.04"]
 [Round "2.25"]
 [White "Nakamura,Hi"]
 [Black "Duda,J"]
@@ -631,7 +584,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 [BlackFideId "1170546"]
 [BlackTitle "GM"]
 [ECO "B00"]
-[EventDate "2019.09.02"]
 [Opening "Owen defence"]
 [WhiteElo "2745"]
 [WhiteFideId "2016192"]
@@ -650,7 +602,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 
 [Event "chess.com Speed 2019"]
 [Site "chess.com INT"]
-[Date "2020.01.05"]
 [Round "3.1"]
 [White "Nakamura,Hi"]
 [Black "Nepomniachtchi,I"]
@@ -659,7 +610,6 @@ Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
 [BlackFideId "4168119"]
 [BlackTitle "GM"]
 [ECO "B50"]
-[EventDate "2019.09.02"]
 [Opening "Sicilian"]
 [WhiteElo "2745"]
 [WhiteFideId "2016192"]

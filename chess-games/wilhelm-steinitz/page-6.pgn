@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1892.??.??"]
 [Round "4"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -22,7 +21,6 @@ fxg6 14.exd5 Nxd5 15.Nxd5 Qxd5 16.Bb3 Qc6 17.Qe2 Bd7 18.Be3 Kh8
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1892.??.??"]
 [Round "6"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -46,7 +44,6 @@ Nd4 37.Qf2 Qb8 38.Be4 Ne6 39.Rf1 Rf7 40.Bxg6 Kxg6 41.Qf5+ Kg7
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1892.??.??"]
 [Round "14"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -68,7 +65,6 @@ Qd2 31.Rxf7 Rxf7 32.Qxf7 Qxf2+ 33.Kxf2 1-0
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1892.??.??"]
 [Round "16"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -91,7 +87,6 @@ bxc5 31.Rd6 Rb8 32.Rad1 Raa8 33.b6 a4 34.Bxa4 Kg8 35.Nc6 Nxc6
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1892.??.??"]
 [Round "18"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -114,7 +109,6 @@ Rec8 30.Bc3 Rc4 31.Qd3 a5 32.Rd1 Qa7+ 33.Kh1 R4c7 34.Qxd6 h5
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1892.??.??"]
 [Round "20"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -137,7 +131,6 @@ Qf6 31.Qc3 h6 32.Bd6 Rxb6 33.axb6 Bxb6 34.Qxc6 Qd8 35.Bc5 Bc7
 
 [Event "Ch World (match)"]
 [Site "Habana (Cuba)"]
-[Date "1892.??.??"]
 [Round "22"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -162,7 +155,6 @@ Rf6 42.Qd5 h5 43.Qd8 Ref7 44.Qe8 Rxf5 45.exf5 Rxf5 46.Qe7+ Rf7
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Albin Adolf (ROM)"]
@@ -184,7 +176,6 @@ Qe6 31.Qb2 Nf6 32.Bf3 Kh8 33.c5 0-1
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Halpern Jacob C"]
@@ -206,7 +197,6 @@ Qd7 21.Qc2 Bxe5 22.dxe5 Ne7 23.Nbd4 Nf7 24.Qc7 g5 25.Kf2 Ng6
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Jasnogrodsky N"]
@@ -227,7 +217,6 @@ Rg8 26.h4 Ra6 27.Kh2 fxg5 28.f6 Qf8 29.Nxg5 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Rocamora S R"]
@@ -249,7 +238,6 @@ Qxe6 30.Rxe6 Rc8 31.Bxb4 1-0
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1894.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Showalter Jackson W (USA)"]
@@ -270,7 +258,6 @@ a6 25.c7 Rfc8 26.Rc6 Ba5 27.Bc4 Kf8 28.Bxe6 Ke7 29.Bxf5 1-0
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "2"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -294,7 +281,6 @@ Kf8 42.Nf5 1-0
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "4"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -321,7 +307,6 @@ g3 58.Kf6 Kd7 59.d6 g2 60.Rg1 1-0
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "6"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -350,7 +335,6 @@ Qf8 59.Qxf8+ Kxf8 60.Kf3 Kf7 61.Kg4 Kg7 62.Kg5 Kf7 63.Kh6 Kg8
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "8"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -380,7 +364,6 @@ Kh7 69.Qf2 Qg4+ 70.Kh2 Qxf3 71.Qc2+ Qe4 72.Qf2 Qf3 73.Qc2+ Be4
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "10"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -402,7 +385,6 @@ Rd4 30.Ka3 Be8 31.Nd3 Rxe4 32.Nb4 Rd4 33.Bb3 a5 34.Nc2 b5 0-1
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "12"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -427,7 +409,6 @@ Kc7 48.Ra6 Kb7 49.Rd6 Kc7 50.Ra6 Kb7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "14"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -451,7 +432,6 @@ Rb2 36.Bxf5 Rf7 37.Ke4 Re2+ 38.Kd3 Rxg2 39.Rg6+ Kf8 40.Be4 Rg1
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "16"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -477,7 +457,6 @@ Nxa2 42.Kd4 Kf6 43.Kc5 Nc3 44.Kc4 Ne2 45.Kb5 Nxf4 46.Kxa5 Ng6
 
 [Event "Ch World (match)"]
 [Site "New York/Philadelfia (USA)"]
-[Date "1894.??.??"]
 [Round "18"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -504,7 +483,6 @@ Bf5 60.Nc3+ Kc5 61.Ne4+ Kd5 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "2"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Schlechter Carl (AUT)"]
@@ -529,7 +507,6 @@ Re8 42.Nf4 Rb8 43.Qe4 Qf7 44.Qf5 Qxb3 45.Qxc5 Qb5 46.Qc7 Re8
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -553,7 +530,6 @@ Kf5 41.Bd3+ Kf4 42.Rg6 Rh8 43.Rg7 Bc5 44.Bg6 Rd8 1/2-1/2
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Pillsbury Harry N (USA)"]
@@ -576,14 +552,12 @@ Rxd2 30.Kxa6 Rxb2 31.Kb6 Rxg2 32.a6 Ra2 33.a7 Rxa7 34.Kxa7 Kg5
 
 [Event "Boston"]
 [Site "?"]
-[Date "1892.??.??"]
 [Round "3.4"]
 [White "Wilhelm Steinitz"]
 [Black "Harry Nelson Pillsbury"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C51"]
-[EventDate "1892.??.??"]
 [PlyCount "73"]
 [WhiteElo "?"]
 

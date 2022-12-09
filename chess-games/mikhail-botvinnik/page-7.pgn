@@ -1,6 +1,5 @@
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -23,7 +22,6 @@ Nc7 31.Qf4 Re5 32.Nc6 Bxc6 33.Qxc4+ d5 34.Qxc6 Rd8 35.Qb6 Qe7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "6"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -48,7 +46,6 @@ Kf4 47.h5 gxh5 48.gxh5 Kg5 49.Kf3 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "12"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -71,7 +68,6 @@ Be8 37.Bg2 Ke7 38.f4 Ne3 39.fxe5 fxe5 40.Qe4 Nxg2 41.Nxe5 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "14"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -99,7 +95,6 @@ Rc2 64.c6 Kxh3 65.c7 Kg2 66.Rc6 Rb2+ 67.Rb6 Rc2 68.f4 1-0
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1958.??.??"]
 [Round "18"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -129,7 +124,6 @@ Rb7+ 69.Kf6 Rb4 70.Rd6 Ra4 71.Re6 Rb4 72.Kf7 Rb7+ 73.Re7 Rb4
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "8"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Alexander Conel H O'D (ENG)"]
@@ -152,7 +146,6 @@ Be5 37.Ke2 Bc3 38.Ba7 1-0
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "10"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Dueckstein Andreas (AUT)"]
@@ -176,7 +169,6 @@ Nd3 31.Bd4 Re7 32.Rc3 c5 33.bxc6 bxc6 34.Rdxd3 Bxd3 35.Bc5 Ree8
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "6"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -206,7 +198,6 @@ Rb4 71.Re5 Rb1 72.Ra5 Rg1+ 73.Kh5 Rf1 74.Ra7+ Kf8 75.Kg6 Rxf4
 
 [Event "Olympiad"]
 [Site "Munich (Germany)"]
-[Date "1958.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Raizman Maurice"]
@@ -230,7 +221,6 @@ Rxd6 36.Qxd6 Qb3 37.Qd2 Nxh3+ 38.Kh2 g5 39.Qd7+ Kg8 40.Qc8+ Kg7
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Barenbaum Alejandro (ARG)"]
@@ -255,7 +245,6 @@ Qb4 47.d5 Kf7 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Gurgenidze Bukhuti (GEO)"]
@@ -282,7 +271,6 @@ Rxb8 62.Ra7+ Kf8 63.Rc7 Bxh5 1/2-1/2
 
 [Event "Olympiad URS"]
 [Site "Moscow (Russia)"]
-[Date "1959.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Nezhmetdinov Rashit (RUS)"]
@@ -301,7 +289,6 @@ Rxb8 62.Ra7+ Kf8 63.Rc7 Bxh5 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "3"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Donner Jan-Hein (NED)"]
@@ -321,7 +308,6 @@ Be6 20.b4 Nc7 21.a4 a6 22.Na1 Bd7 23.Nb3 Ne6 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -345,7 +331,6 @@ Rff8 43.Rfh1 Rh7 1/2-1/2
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lombardy William J (USA)"]
@@ -370,7 +355,6 @@ Nh5 48.Kc2 Qe3 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "2"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -394,7 +378,6 @@ Be5+ 43.Kf3 Rh4 44.Rg1 f5 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "4"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -417,7 +400,6 @@ f6 25.Rxc2 Rxc2 26.Rb1 b6 27.Rb5 fxe5 28.dxe5 Rc5 29.Nd4 Kf7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "6"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -442,7 +424,6 @@ Kd4 47.Rd7+ 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "10"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -469,7 +450,6 @@ Rb3+ 59.Kg2 Re3 60.Rh4 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "12"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -498,7 +478,6 @@ Kb7 63.Qe5 Qf7+ 64.Ke4 Qg6+ 65.Qf5 Qd6 66.Qf7+ Kc8 67.Qf5+ Kd8
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "14"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -518,7 +497,6 @@ a6 19.Rxb8 Rxb8 20.Kc2 Rc8 21.Nf4 d6 22.Rc3 g5 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "16"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -541,7 +519,6 @@ Bc8 25.Na6 Qf4 26.Qd5+ Kh8 27.Qxc5 Be6 28.Nc7 Bg8 29.Qf2 Qxe4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "18"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -571,7 +548,6 @@ Rb4+ 69.Nd4 Rb1 70.Nf3 Rb4+ 71.Nd4 Rb1 72.Nc6 Kg6 73.Ne5+ Kh5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "20"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -592,7 +568,6 @@ Nxd3 20.Rxf8+ Kxf8 21.Kxd3 Be6 22.Ng3 Nd7 23.Nf1 a6 24.Bf2 Kg7
 
 [Event ""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]

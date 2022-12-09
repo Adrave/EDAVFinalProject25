@@ -1,6 +1,5 @@
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -23,7 +22,6 @@ b5 36.h4 c4 37.h5 cxb3 38.axb3 Rc5 39.h6+ Kf8 40.Nf6 Rg5+ 41.Kh1 1-0
 
 [Event "It (cat.20)"]
 [Site "Astana (Kazakhstan)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -46,7 +44,6 @@ Rac8 20.Bd3 Nc4 21.Qh3 h6 22.g5 Nxa3+ 23.bxa3 Rc3 24.gxh6 g6
 
 [Event "Match \"Europe-Asia\" (active)"]
 [Site "Batumi (Georgia)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Dao Thien Hai (VIE)"]
@@ -70,7 +67,6 @@ Bc8 43.Rg7+ Qxg7 44.hxg7 Kxg7 45.Nxg5 1-0
 
 [Event "Match \"Europe-Asia\" (active)"]
 [Site "Batumi (Georgia)"]
-[Date "2001.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kasimdzhanov Rustam (UZB)"]
@@ -99,7 +95,6 @@ Ra3 65.Rxb6 Kc7 66.Rb5 Rxa4 67.Rxg5 Rb4 68.Kd3 Bb2 69.Rxa5 Kd7
 
 [Event "Match \"Europe-Asia\" (active)"]
 [Site "Batumi (Georgia)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Rogers Ian (AUS)"]
@@ -124,7 +119,6 @@ Kxf3 48.Rxf4+ 1-0
 
 [Event "Match \"Europe-Asia\" (active)"]
 [Site "Batumi (Georgia)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Vladimirov Evgeny (KAZ)"]
@@ -145,7 +139,6 @@ Bxe4 1-0
 
 [Event "Cup World (active) (1/2 final) (play-off)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -169,7 +162,6 @@ Kg5 42.Qg4+ Kh6 43.Rd3 1-0
 
 [Event "Cup World (active) (1/4 final)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tkachiev Vladislav (FRA)"]
@@ -191,7 +183,6 @@ Bc8 25.Ne3 Nxe3 26.fxe3 Ne6 27.Bxf6 Bg7 28.Bxg7 Kxg7 29.b3 Kf6
 
 [Event "Cup World (active) (final)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -215,7 +206,6 @@ Kd6 42.Kd2 Kc6 43.Kc3 Kb5 44.Kd3 1-0
 
 [Event "Cup World (active) (Gr.A)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Bareev Evgeny (RUS)"]
@@ -238,7 +228,6 @@ Rg6 31.Nhg4 Rh8 32.Nh5+ Kf8 33.Ngf6 Bc6 34.Qxh4 a3 35.b3 Nb2
 
 [Event "Cup World (active) (Gr.A)"]
 [Site "Cannes (France)"]
-[Date "2001.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Lautier Joel (FRA)"]
@@ -261,7 +250,6 @@ Rad7 36.Bg4 Rd6 37.R2e7 1-0
 
 [Event "Olympiad"]
 [Site "Bled (Slovenia)"]
-[Date "2002.??.??"]
 [Round "13"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gelfand Boris (ISR)"]
@@ -280,7 +268,6 @@ Nbd5 14.Bg5 Be6 15.Qb3 Rb8 16.Ne5 Re8 17.Rad1 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Anand Viswanathan (IND)"]
@@ -304,7 +291,6 @@ Kg8 42.Bh7+ 1/2-1/2
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -325,7 +311,6 @@ Qxb6 14.Bxb6 Bd7 15.Rfd1 Rfc8 16.b4 Be8 17.Ba7 Ra8 18.Be3 Nd7
 
 [Event "It (cat.20)"]
 [Site "Linares (Spain)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -346,7 +331,6 @@ Rec8 25.Re7 Re8 26.Rc7 1/2-1/2
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -369,7 +353,6 @@ Ra1 36.Rxb5 h5 37.f4 b3 38.f5 gxf5 39.exf5 h4 1/2-1/2
 
 [Event "It \"Grand Prix\" (active)"]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Khalifman Alexander (RUS)"]
@@ -399,7 +382,6 @@ Ke3 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -423,7 +405,6 @@ Kg7 42.Ke3 a6 43.d4 a5 44.Rh1 Rh8 45.Rxh8 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ponomariov Ruslan (UKR)"]
@@ -444,7 +425,6 @@ d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.b3 cxd4 13.cxd4 Nc6
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Radjabov Teimour (AZE)"]
@@ -474,7 +454,6 @@ gxh5 76.Kxf5 h4 77.Ke4 Kf2 78.Kd3 h3 1/2-1/2
 
 [Event "Match \"Russia-All World\""]
 [Site "Moscow (Russia)"]
-[Date "2002.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -500,7 +479,6 @@ Kb6 53.Kc2 Nd6 54.Kd3 Nc8 55.Bc3 Ne7 56.Ke3 1/2-1/2
 
 [Event "Match (active)"]
 [Site "New York (USA)"]
-[Date "2002.??.??"]
 [Round "4"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -521,7 +499,6 @@ Rc8 25.Re5 Qd7 26.Bd6 f6 27.Rxe8+ Rxe8 28.Rxe8+ 1/2-1/2
 
 [Event "It \"Eurotel World Chess Trophy\""]
 [Site "Prague (Czech Republic)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -544,7 +521,6 @@ Rxa4 36.Re6 Ra2 1/2-1/2
 
 [Event "It \"Eurotel World Chess Trophy\""]
 [Site "Prague (Czech Republic)"]
-[Date "2002.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Ivanchuk Vassily (UKR)"]
@@ -568,7 +544,6 @@ Qe7 43.Qb6 Qd8 44.Qa7+ Qe7 45.Qe3 1/2-1/2
 
 [Event "RUS vs. ROW"]
 [Site "Moscow RUS"]
-[Date "2002.09.08"]
 [Round "2"]
 [White "Kasparov, Garry"]
 [Black "Leko, Peter"]
@@ -576,7 +551,6 @@ Qe7 43.Qb6 Qd8 44.Qa7+ Qe7 45.Qe3 1/2-1/2
 [WhiteElo "2838"]
 [BlackElo "2722"]
 [ECO "B30"]
-[EventDate "2002.09.08"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 d6 5. d3 Be7 6. Nd2 Bg5 7. h4 Bxd2+ 
 8. Bxd2 Nf6 9. Bg5 h6 10. Bxf6 Qxf6 11. Nd5 Qd8 12. Ne3 Be6 13. Bxe6 fxe6 

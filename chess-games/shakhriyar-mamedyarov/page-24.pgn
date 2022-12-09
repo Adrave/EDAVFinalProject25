@@ -1,6 +1,5 @@
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2017.02.22"]
 [Round "7"]
 [White "Mamedyarov, S."]
 [Black "Finegold, B."]
@@ -9,7 +8,6 @@
 [WhiteElo "2766"]
 [BlackElo "2483"]
 [PlyCount "76"]
-[EventDate "2017.01.11"]
 [EventType "team"]
 [EventRounds "7"]
 [EventCountry "USA"]
@@ -27,7 +25,6 @@ exf4 22. Be2 f3 23. Bxf3 Be5+ 24. Kg1 Rh6 25. Bg4 Bxg4 26. hxg4 Rg6 27. f4 a6
 
 [Event "PRO League KO Stage 2017"]
 [Site "chess.com INT"]
-[Date "2017.03.08"]
 [Round "2"]
 [White "Mamedyarov, S."]
 [Black "Shimanov, A."]
@@ -36,7 +33,6 @@ exf4 22. Be2 f3 23. Bxf3 Be5+ 24. Kg1 Rh6 25. Bg4 Bxg4 26. hxg4 Rg6 27. f4 a6
 [WhiteElo "2772"]
 [BlackElo "2642"]
 [PlyCount "64"]
-[EventDate "2017.03.01"]
 [EventType "team (rapid)"]
 [EventRounds "5"]
 [EventCountry "USA"]
@@ -53,7 +49,6 @@ Rxe1 Rxe1 28. Kg2 Rae8 29. f5 g5 30. Qc3 R8e5 31. Qf3 g4 32. Qf4 Be3 0-1
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.25"]
 [Round "14.2"]
 [White "Mamedyarov, S."]
 [Black "Karjakin, Sergey"]
@@ -62,7 +57,6 @@ Rxe1 Rxe1 28. Kg2 Rae8 29. f5 g5 30. Qc3 R8e5 31. Qf3 g4 32. Qf4 Be3 0-1
 [WhiteElo "2800"]
 [BlackElo "2781"]
 [PlyCount "124"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -82,7 +76,6 @@ Rc1 Be5 53. Rc8 h5 54. Ke4 f6 55. Rg8+ Kf7 56. Rh8 h4 57. Kf5 Kg7 58. Ra8 h3
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.24"]
 [Round "4.5"]
 [White "Mamedyarov, S."]
 [Black "Carlsen, M."]
@@ -91,7 +84,6 @@ Rc1 Be5 53. Rc8 h5 54. Ke4 f6 55. Rg8+ Kf7 56. Rh8 h4 57. Kf5 Kg7 58. Ra8 h3
 [WhiteElo "2800"]
 [BlackElo "2832"]
 [PlyCount "48"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -105,7 +97,6 @@ Bxe4 dxe4 23. Nxd3 exd4 24. Qb2 Qxd3 0-1
 
 [Event "GCT Blitz Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.24"]
 [Round "6.1"]
 [White "Mamedyarov, S."]
 [Black "Vachier Lagrave, M."]
@@ -114,7 +105,6 @@ Bxe4 dxe4 23. Nxd3 exd4 24. Qb2 Qxd3 0-1
 [WhiteElo "2800"]
 [BlackElo "2796"]
 [PlyCount "122"]
-[EventDate "2017.06.24"]
 [EventType "tourn (blitz)"]
 [EventRounds "18"]
 [EventCountry "FRA"]
@@ -134,7 +124,6 @@ f4 60. gxf4 gxf4 61. Kh2 f3 0-1
 
 [Event "GCT Rapid Paris 2017"]
 [Site "Paris FRA"]
-[Date "2017.06.21"]
 [Round "2.1"]
 [White "Mamedyarov, S."]
 [Black "Carlsen, M."]
@@ -143,7 +132,6 @@ f4 60. gxf4 gxf4 61. Kh2 f3 0-1
 [WhiteElo "2800"]
 [BlackElo "2832"]
 [PlyCount "56"]
-[EventDate "2017.06.21"]
 [EventType "tourn (rapid)"]
 [EventRounds "9"]
 [EventCountry "FRA"]
@@ -158,7 +146,6 @@ Re8 28. a4 Bf3 0-1
 
 [Event "TCh-RUS Blitz 2017"]
 [Site "Sochi RUS"]
-[Date "2017.10.05"]
 [Round "11"]
 [White "Mamedyarov, S."]
 [Black "Kezin, R."]
@@ -167,7 +154,6 @@ Re8 28. a4 Bf3 0-1
 [WhiteElo "2791"]
 [BlackElo "2455"]
 [PlyCount "79"]
-[EventDate "2017.10.05"]
 [EventType "team (blitz)"]
 [EventRounds "15"]
 [EventCountry "RUS"]
@@ -184,7 +170,6 @@ Nd2 29. h5 Nxc4 30. Nxc4 f6 31. hxg6 hxg6 32. Qg4 e5 33. Bb6 Re8 34. Bxa5 f5
 
 [Event "TCh-RUS Blitz 2017"]
 [Site "Sochi RUS"]
-[Date "2017.10.05"]
 [Round "9"]
 [White "Mamedyarov, S."]
 [Black "Moskalenko, A."]
@@ -193,7 +178,6 @@ Nd2 29. h5 Nxc4 30. Nxc4 f6 31. hxg6 hxg6 32. Qg4 e5 33. Bb6 Re8 34. Bxa5 f5
 [WhiteElo "2791"]
 [BlackElo "2522"]
 [PlyCount "83"]
-[EventDate "2017.10.05"]
 [EventType "team (blitz)"]
 [EventRounds "15"]
 [EventCountry "RUS"]
@@ -211,7 +195,6 @@ Kf7 34. h4 Qh1+ 35. Ka2 Qd5+ 36. Kb1 Qh1+ 37. Rc1 Qd5 38. g5 hxg5 39. h5 Kf8
 
 [Event "21st European Teams"]
 [Site "Hersonissos GRE"]
-[Date "2017.10.29"]
 [Round "2.13"]
 [White "Mamedyarov, S."]
 [Black "Ragger, M."]
@@ -220,7 +203,6 @@ Kf7 34. h4 Qh1+ 35. Ka2 Qd5+ 36. Kb1 Qh1+ 37. Rc1 Qd5 38. g5 hxg5 39. h5 Kf8
 [WhiteElo "2791"]
 [BlackElo "2659"]
 [PlyCount "99"]
-[EventDate "2017.10.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -241,7 +223,6 @@ Bd6 Nxd7+ 41. Bxf8 Kxf8 42. d6 g5 43. Re3 h6 44. Ke2 b5 45. Kd3 Nb6 46. Re5 Nd7
 
 [Event "21st European Teams"]
 [Site "Hersonissos GRE"]
-[Date "2017.11.01"]
 [Round "5.5"]
 [White "Mamedyarov, S."]
 [Black "Navara, D."]
@@ -250,7 +231,6 @@ Bd6 Nxd7+ 41. Bxf8 Kxf8 42. d6 g5 43. Re3 h6 44. Ke2 b5 45. Kd3 Nb6 46. Re5 Nd7
 [WhiteElo "2791"]
 [BlackElo "2726"]
 [PlyCount "73"]
-[EventDate "2017.10.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -269,7 +249,6 @@ Kh6 34. Qh7+ Kg5 35. f4+ Kf5 36. Qf7+ Ke4 37. Qxg6+ 1-0
 
 [Event "21st European Teams"]
 [Site "Hersonissos GRE"]
-[Date "2017.10.31"]
 [Round "4.10"]
 [White "Mamedyarov, S."]
 [Black "Svetushkin, D."]
@@ -278,7 +257,6 @@ Kh6 34. Qh7+ Kg5 35. f4+ Kf5 36. Qf7+ Ke4 37. Qxg6+ 1-0
 [WhiteElo "2791"]
 [BlackElo "2556"]
 [PlyCount "67"]
-[EventDate "2017.10.28"]
 [EventType "team"]
 [EventRounds "9"]
 [EventCountry "GRE"]
@@ -297,7 +275,6 @@ h6 34. Rg6 1-0
 
 [Event "2nd IMSA Rapid 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.10"]
 [Round "3.2"]
 [White "Mamedyarov, S."]
 [Black "Le Quang Liem"]
@@ -306,7 +283,6 @@ h6 34. Rg6 1-0
 [WhiteElo "2799"]
 [BlackElo "2737"]
 [PlyCount "71"]
-[EventDate "2017.12.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -321,7 +297,6 @@ Nxd5 16. Nxb5 Bc5+ 17. Kh1 a6 18. Qc2 g6 19. Qxc4 Nd7 20. Nbd4 Kh7 21. e6 Bxd4
 
 [Event "2nd IMSA Rapid 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.10"]
 [Round "1.5"]
 [White "Mamedyarov, S."]
 [Black "Ivanchuk, V."]
@@ -330,7 +305,6 @@ Nxd5 16. Nxb5 Bc5+ 17. Kh1 a6 18. Qc2 g6 19. Qxc4 Nd7 20. Nbd4 Kh7 21. e6 Bxd4
 [WhiteElo "2799"]
 [BlackElo "2726"]
 [PlyCount "163"]
-[EventDate "2017.12.10"]
 [EventType "swiss (rapid)"]
 [EventRounds "7"]
 [EventCountry "CHN"]
@@ -352,7 +326,6 @@ Bg7 73. Rg8 Bf6 74. Rb8 Bd4 75. Bf5 Rd8 76. Rb7+ Kf6 77. f4 gxf4 78. Kf3 Be3
 
 [Event "2nd IMSA Basque 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.15"]
 [Round "5.2"]
 [White "Mamedyarov, S."]
 [Black "Le Quang Liem"]
@@ -361,7 +334,6 @@ Bg7 73. Rg8 Bf6 74. Rb8 Bd4 75. Bf5 Rd8 76. Rb7+ Kf6 77. f4 gxf4 78. Kf3 Be3
 [WhiteElo "2799"]
 [BlackElo "2737"]
 [PlyCount "125"]
-[EventDate "2017.12.14"]
 [EventType "swiss"]
 [EventRounds "5"]
 [EventCountry "CHN"]
@@ -380,7 +352,6 @@ Qc4 61. Qf6 Qxf1 62. Qxf1 c1=Q 63. Qxf7+ 1-0
 
 [Event "2nd IMSA Blitz 2017"]
 [Site "Huai'an CHN"]
-[Date "2017.12.13"]
 [Round "21.3"]
 [White "Mamedyarov, S."]
 [Black "Yu Yangyi"]
@@ -389,7 +360,6 @@ Qc4 61. Qf6 Qxf1 62. Qxf1 c1=Q 63. Qxf7+ 1-0
 [WhiteElo "2799"]
 [BlackElo "2751"]
 [PlyCount "133"]
-[EventDate "2017.12.12"]
 [EventType "tourn (blitz)"]
 [EventRounds "22"]
 [EventCountry "CHN"]
@@ -410,7 +380,6 @@ Bg3 60. Ra5 Bf4 61. Rb5 Bg3 62. Ke7 Bh4+ 63. Kd7 Kf8 64. e6 fxe6 65. Kxe6 Kg7
 
 [Event "Nutcracker Rapid 2017"]
 [Site "Moscow RUS"]
-[Date "2017.12.24"]
 [Round "6.3"]
 [White "Mamedyarov, S."]
 [Black "Esipenko, Andrey"]
@@ -419,7 +388,6 @@ Bg3 60. Ra5 Bf4 61. Rb5 Bg3 62. Ke7 Bh4+ 63. Kd7 Kf8 64. e6 fxe6 65. Kxe6 Kg7
 [WhiteElo "2799"]
 [BlackElo "2564"]
 [PlyCount "59"]
-[EventDate "2017.12.23"]
 [EventType "schev (rapid)"]
 [EventRounds "4"]
 [EventCountry "RUS"]
@@ -435,7 +403,6 @@ Bxd6 Nxd6 29. Rxd5 exd5 30. Qc7 1-0
 
 [Event "Nutcracker Rapid 2017"]
 [Site "Moscow RUS"]
-[Date "2017.12.23"]
 [Round "2.3"]
 [White "Mamedyarov, S."]
 [Black "Yuffa, D."]
@@ -444,7 +411,6 @@ Bxd6 Nxd6 29. Rxd5 exd5 30. Qc7 1-0
 [WhiteElo "2799"]
 [BlackElo "2522"]
 [PlyCount "55"]
-[EventDate "2017.12.23"]
 [EventType "schev (rapid)"]
 [EventRounds "4"]
 [EventCountry "RUS"]
@@ -460,7 +426,6 @@ O-O 22. Qd4 f6 23. Bd2 Kh8 24. Bc3 b5 25. Re1 Bc5 26. Qxf6+ Rxf6 27. Bxf6+ Kg8
 
 [Event "Nutcracker Classical 2017"]
 [Site "Moscow RUS"]
-[Date "2017.12.21"]
 [Round "3.3"]
 [White "Mamedyarov, S."]
 [Black "Yuffa, D."]
@@ -469,7 +434,6 @@ O-O 22. Qd4 f6 23. Bd2 Kh8 24. Bc3 b5 25. Re1 Bc5 26. Qxf6+ Rxf6 27. Bxf6+ Kg8
 [WhiteElo "2799"]
 [BlackElo "2522"]
 [PlyCount "55"]
-[EventDate "2017.12.19"]
 [EventType "schev"]
 [EventRounds "4"]
 [EventCountry "RUS"]
@@ -485,7 +449,6 @@ Rxg6+ Kxg6 28. Ne5+ 1-0
 
 [Event "World Rapid 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.28"]
 [Round "11.5"]
 [White "Mamedyarov, S."]
 [Black "Yu Yangyi"]
@@ -494,7 +457,6 @@ Rxg6+ Kxg6 28. Ne5+ 1-0
 [WhiteElo "2799"]
 [BlackElo "2751"]
 [PlyCount "89"]
-[EventDate "2017.12.26"]
 [EventType "swiss (rapid)"]
 [EventRounds "15"]
 [EventCountry "SAU"]
@@ -510,7 +472,6 @@ Bxg7 Kh7 35. Bd4 Rc8 36. Qa7 Rg8 37. g3 Ne4 38. Rc7 Ng5 39. Qb7 Qf5 40. h4 Nh3+
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "6.44"]
 [White "Mamedyarov, S."]
 [Black "Sanal, V."]
@@ -519,7 +480,6 @@ Bxg7 Kh7 35. Bd4 Rc8 36. Qa7 Rg8 37. g3 Ne4 38. Rc7 Ng5 39. Qb7 Qf5 40. h4 Nh3+
 [WhiteElo "2799"]
 [BlackElo "2551"]
 [PlyCount "63"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. Qa4+ Qd7 8. Qc2
@@ -531,7 +491,6 @@ Bc7 Bf7 28. Bxd8 Bxe8 29. Bxf6 Bc6 30. Re7+ Kg6 31. Bc3 Bd7 32. h3 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "4.45"]
 [White "Mamedyarov, S."]
 [Black "Haddouche, M."]
@@ -540,7 +499,6 @@ Bc7 Bf7 28. Bxd8 Bxe8 29. Bxf6 Bc6 30. Re7+ Kg6 31. Bc3 Bd7 32. h3 1-0
 [WhiteElo "2799"]
 [BlackElo "2505"]
 [PlyCount "53"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 d6 2. Nf3 Nf6 3. g3 g6 4. b3 Bg7 5. Bb2 O-O 6. Bg2 Nbd7 7. O-O e5 8. dxe5
@@ -552,7 +510,6 @@ Rb1 Rb4 22. Re3 Reb8 23. Rbe1 a4 24. e5 Qd8 25. Nb5 Na6 26. exd6 cxb5 27. d7
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "8.20"]
 [White "Mamedyarov, S."]
 [Black "Bocharov, D."]
@@ -561,7 +518,6 @@ Rb1 Rb4 22. Re3 Reb8 23. Rbe1 a4 24. e5 Qd8 25. Nb5 Na6 26. exd6 cxb5 27. d7
 [WhiteElo "2799"]
 [BlackElo "2583"]
 [PlyCount "65"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O d5 6. b3 Bd6 7. Bb2 O-O 8. Nbd2
@@ -574,7 +530,6 @@ Rd7+ 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.29"]
 [Round "10.8"]
 [White "Mamedyarov, S."]
 [Black "Cheparinov, I."]
@@ -583,7 +538,6 @@ Rd7+ 1-0
 [WhiteElo "2799"]
 [BlackElo "2710"]
 [PlyCount "85"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. e3 O-O 6. b3 c5 7. dxc5 dxc4 8. Bxc4
@@ -597,7 +551,6 @@ f5 Bf7 41. Rxh6 Rd2 42. Rd6 Rb2 43. g4 1-0
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "16.4"]
 [White "Mamedyarov, S."]
 [Black "Nepomniachtchi, I."]
@@ -606,7 +559,6 @@ f5 Bf7 41. Rxh6 Rd2 42. Rd6 Rb2 43. g4 1-0
 [WhiteElo "2799"]
 [BlackElo "2729"]
 [PlyCount "105"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
@@ -622,7 +574,6 @@ Rb2+ 47. Kh3 Ra2 48. Qc4 Ra3 49. Qb4 Ra2 50. a5 g5 51. Qe4+ Kh8 52. Qe8+ Kh7
 
 [Event "World Blitz 2017"]
 [Site "Riyadh KSA"]
-[Date "2017.12.30"]
 [Round "21.8"]
 [White "Mamedyarov, S."]
 [Black "Wang Yue"]
@@ -631,7 +582,6 @@ Rb2+ 47. Kh3 Ra2 48. Qc4 Ra3 49. Qb4 Ra2 50. a5 g5 51. Qe4+ Kh8 52. Qe8+ Kh7
 [WhiteElo "2799"]
 [BlackElo "2690"]
 [PlyCount "77"]
-[EventDate "2017.12.29"]
 [EventType "blitz"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 Be7 6. a3 c6 7. e3 O-O 8. Qc2

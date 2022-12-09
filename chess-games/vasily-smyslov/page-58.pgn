@@ -1,6 +1,5 @@
 [Event "Tournament"]
 [Site "Moscow (Russia)"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -26,7 +25,6 @@ Ra8 53.Rd6 Rd8 54.f4 Kf8 55.f5 Ke7 56.f6+ 1-0
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "14"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Flohr Salomon M (CZE)"]
@@ -50,7 +48,6 @@ Nxg4 43.hxg4 1/2-1/2
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kan Ilya A (RUS)"]
@@ -72,7 +69,6 @@ Kh7 30.Qd3+ Kh8 31.Qd8+ 1/2-1/2
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Konstantinopolski Alexander (RUS)"]
@@ -98,7 +94,6 @@ Re2 53.Rh7+ Kb8 54.Kb6 Re8 55.c6 f4 56.Rb7+ Kc8 57.Ra7 1-0
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "12"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Levenfish Grigori Y (RUS)"]
@@ -125,7 +120,6 @@ Kb6 55.Qd2 Qb1 56.Kf3 Bc8 57.Ke3 Bd7 58.Kf3 Bxf5 59.exf5 Qxf5
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Makogonov Vladimir (AZE)"]
@@ -150,7 +144,6 @@ Kf8 42.Nd1 Qb4 43.Qe5 Ncd7 44.Qe2 Rc8 45.Bxh7 Ne5 46.Rb2 Qd6
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "16"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Rabinovich Ilya L (RUS)"]
@@ -172,7 +165,6 @@ Rbd6 30.Ra4 Rd4 31.Ra6+ 1/2-1/2
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -194,7 +186,6 @@ Qc6 31.Qe3 Nxf4 32.Kg3 Nd3 33.Bxd3 Qg2+ 34.Kf4 cxd3 35.e6 Qh2+ 0-1
 
 [Event "It"]
 [Site "Leningrad (Russia)"]
-[Date "1939.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tolush Alexander (RUS)"]
@@ -215,14 +206,12 @@ Rc2 0-1
 
 [Event "8th Soviet Team Cup"]
 [Site "Moscow URS"]
-[Date "1974.08.27"]
 [Round "6"]
 [White "Vasily Smyslov"]
 [Black "David Bronstein"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -238,14 +227,12 @@ Rc2 0-1
 
 [Event "Training Match Tournament"]
 [Site "Gagra"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E94"]
-[EventDate "????.??.??"]
 [PlyCount "59"]
 [WhiteElo "?"]
 
@@ -259,14 +246,12 @@ Rc2 0-1
 
 [Event "Moscow"]
 [Site "It"]
-[Date "1967.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Tigran Vartanovich Petrosian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E00"]
-[EventDate "????.??.??"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -279,14 +264,12 @@ Rc2 0-1
 
 [Event "Venice"]
 [Site "Venice ITA"]
-[Date "1950.10.??"]
 [Round "10"]
 [White "Vasily Smyslov"]
 [Black "Rene Letelier Martner"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C19"]
-[EventDate "????.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -302,14 +285,12 @@ Rc2 0-1
 
 [Event "Training Game"]
 [Site "?"]
-[Date "1951.10.25"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Mikhail Botvinnik"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E03"]
-[EventDate "????.??.??"]
 [PlyCount "81"]
 [WhiteElo "?"]
 
@@ -325,14 +306,12 @@ Rc2 0-1
 
 [Event "Training Match Tournament"]
 [Site "URS"]
-[Date "1952.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Isaac Boleslavsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "87"]
 [WhiteElo "?"]
 
@@ -348,14 +327,12 @@ Rc2 0-1
 
 [Event "Moscow-Prague"]
 [Site "Moscow URS"]
-[Date "1946.05.??"]
 [Round "6"]
 [White "Vasily Smyslov"]
 [Black "Karel Opocensky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "77"]
 [WhiteElo "?"]
 
@@ -371,14 +348,12 @@ Rc2 0-1
 
 [Event "URS-USA"]
 [Site "Moscow URS"]
-[Date "1946.09.12"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Arnold Denker"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "103"]
 [WhiteElo "?"]
 
@@ -396,14 +371,12 @@ Rc2 0-1
 
 [Event "Parnu"]
 [Site "Parnu"]
-[Date "1947.07.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Raul Renter"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A07"]
-[EventDate "????.??.??"]
 [PlyCount "79"]
 [WhiteElo "?"]
 
@@ -419,14 +392,12 @@ Rc2 0-1
 
 [Event "Moscow-Budapest"]
 [Site "Moscow URS"]
-[Date "1949.04.??"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Tibor Florian"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D97"]
-[EventDate "????.??.??"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -439,14 +410,12 @@ Rc2 0-1
 
 [Event "Moscow-Budapest"]
 [Site "Moscow URS"]
-[Date "1949.04.??"]
 [Round "10"]
 [White "Vasily Smyslov"]
 [Black "Geza Fuster"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B17"]
-[EventDate "????.??.??"]
 [PlyCount "117"]
 [WhiteElo "?"]
 
@@ -465,14 +434,12 @@ Rc2 0-1
 
 [Event "1st Soviet Team-ch final"]
 [Site "Leningrad URS"]
-[Date "1948.09.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Airapetov"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E34"]
-[EventDate "????.??.??"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -486,14 +453,12 @@ Rc2 0-1
 
 [Event "Moscow-ch"]
 [Site "Moscow URS"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "S Kogan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C42"]
-[EventDate "1938.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -508,14 +473,12 @@ Rc2 0-1
 
 [Event "Moscow-ch"]
 [Site "Moscow URS"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "Alexander Chistiakov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C12"]
-[EventDate "1938.??.??"]
 [PlyCount "64"]
 [WhiteElo "?"]
 
@@ -530,14 +493,12 @@ Rc2 0-1
 
 [Event "Moscow-ch"]
 [Site "Moscow URS"]
-[Date "1938.??.??"]
 [Round "?"]
 [White "Vasily Smyslov"]
 [Black "M Yudovich"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "B20"]
-[EventDate "1938.??.??"]
 [PlyCount "97"]
 [WhiteElo "?"]
 
@@ -554,14 +515,12 @@ Rc2 0-1
 
 [Event "Leningrad/Moscow training"]
 [Site "Leningrad/Moscow RUS"]
-[Date "1939.01.03"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Ilia Abramovich Kan"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C43"]
-[EventDate "1939.??.??"]
 [PlyCount "62"]
 [WhiteElo "?"]
 

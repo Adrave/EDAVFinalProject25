@@ -5,7 +5,6 @@
 [BlackFideId "13300474"]
 [Result "1-0"]
 [Round "14"]
-[Date "Mon Nov 25 2019"]
 [WhiteClock "0:00:09"]
 [BlackClock "0:00:01"]
 
@@ -20,7 +19,6 @@
 [BlackFideId "5000017"]
 [Result "1-0"]
 [Round "24"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:01:10"]
 [BlackClock "0:00:00"]
 
@@ -35,7 +33,6 @@
 [BlackFideId "5029465"]
 [Result "1-0"]
 [Round "26"]
-[Date "Tue Nov 26 2019"]
 [WhiteClock "0:01:29"]
 [BlackClock "0:00:00"]
 
@@ -50,7 +47,6 @@
 [BlackFideId "4115341"]
 [Result "1-0"]
 [Round "04"]
-[Date "Thu Dec 26 2019"]
 [WhiteClock "0:00:43"]
 [BlackClock "0:00:48"]
 
@@ -65,7 +61,6 @@
 [BlackFideId "4902718"]
 [Result "1-0"]
 [Round "08"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:46"]
 [BlackClock "0:00:05"]
 
@@ -80,7 +75,6 @@
 [BlackFideId "13702661"]
 [Result "1-0"]
 [Round "06"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:01:16"]
 [BlackClock "0:00:00"]
 
@@ -95,7 +89,6 @@
 [BlackFideId "14104466"]
 [Result "1-0"]
 [Round "05"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:16"]
 [BlackClock "0:00:03"]
 
@@ -110,7 +103,6 @@
 [BlackFideId "3901211"]
 [Result "1-0"]
 [Round "10"]
-[Date "Sun Dec 29 2019"]
 [WhiteClock "0:00:14"]
 [BlackClock "0:00:09"]
 
@@ -125,7 +117,6 @@
 [BlackFideId "24133795"]
 [Result "1-0"]
 [Round "21"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:38"]
 [BlackClock "0:00:05"]
 
@@ -140,7 +131,6 @@
 [BlackFideId "13401319"]
 [Result "1-0"]
 [Round "19"]
-[Date "Mon Dec 30 2019"]
 [WhiteClock "0:00:42"]
 [BlackClock "0:00:00"]
 
@@ -150,7 +140,6 @@
 
 [Event "81st Tata Steel GpA"]
 [Site "Wijk aan Zee NED"]
-[Date "2019.01.25"]
 [Round "11.4"]
 [White "Giri,A"]
 [Black "Shankland,S"]
@@ -159,7 +148,6 @@
 [BlackFideId "2004887"]
 [BlackTitle "GM"]
 [ECO "C50"]
-[EventDate "2019.01.12"]
 [Opening "Giuoco Pianissimo"]
 [Variation "Italian four knights variation"]
 [WhiteElo "2783"]
@@ -178,7 +166,6 @@
 
 [Event "PRO League Group Stage"]
 [Site "chess.com INT"]
-[Date "2019.02.21"]
 [Round "7"]
 [White "Giri,A"]
 [Black "Jobava,Ba"]
@@ -188,7 +175,6 @@
 [BlackTeam "Tbilisi Gentlemen"]
 [BlackTitle "GM"]
 [ECO "A07"]
-[EventDate "2019.01.08"]
 [Opening "Reti"]
 [Variation "King's Indian attack (Barcza system)"]
 [WhiteElo "2783"]
@@ -206,7 +192,6 @@
 
 [Event "3rd Du Te Cup 2019"]
 [Site "Shenzhen CHN"]
-[Date "2019.04.18"]
 [Round "2.2"]
 [White "Giri,A"]
 [Black "Harikrishna,P"]
@@ -219,7 +204,6 @@
 [Opening "Giuoco Piano"]
 [WhiteFideId "24116068"]
 [BlackFideId "5007003"]
-[EventDate "2019.04.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d5 7. exd5 Nxd5 8. Re1
 Bg4 9. Nbd2 Nb6 10. h3 Bh5 11. Bb3 Qxd3 12. Nxe5 Bxd1 13. Nxd3 Bxb3 14. axb3 Be7
@@ -231,7 +215,6 @@ Kf3 Ke7 35. Re4 Bg7 36. Be3 f5 37. Bg5+ Bf6 38. Bxf6+ Kxf6 39. g5+ Kxg5 40. Re3 
 
 [Event "3rd Du Te Cup 2019"]
 [Site "Shenzhen CHN"]
-[Date "2019.04.27"]
 [Round "10.3"]
 [White "Giri,A"]
 [Black "Jakovenko,D"]
@@ -245,7 +228,6 @@ Kf3 Ke7 35. Re4 Bg7 36. Be3 f5 37. Bg5+ Bf6 38. Bxf6+ Kxf6 39. g5+ Kxg5 40. Re3 
 [Variation "closed, 5.Nf3"]
 [WhiteFideId "24116068"]
 [BlackFideId "4122356"]
-[EventDate "2019.04.17"]
 
 1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 Be7 5. d4 O-O 6. Nc3 dxc4 7. Ne5 c5 8. dxc5
 Qxd1+ 9. Nxd1 Bxc5 10. O-O Nc6 11. Bxc6 bxc6 12. Be3 Bb6 13. Bxb6 axb6 14. Nc3
@@ -266,7 +248,6 @@ Nac5+ Kc8 93. Kxe6 Nf1 94. e4 Bxe4 95. Nxe4 fxe4 96. Nc5 Nd2 97. Kd5 1-0
 
 [Event "3rd Du Te Cup 2019"]
 [Site "Shenzhen CHN"]
-[Date "2019.04.23"]
 [Round "6.3"]
 [White "Giri,A"]
 [Black "Yu Yangyi"]
@@ -279,7 +260,6 @@ Nac5+ Kc8 93. Kxe6 Nf1 94. e4 Bxe4 95. Nxe4 fxe4 96. Nc5 Nd2 97. Kd5 1-0
 [Opening "Reti opening"]
 [WhiteFideId "24116068"]
 [BlackFideId "8603820"]
-[EventDate "2019.04.17"]
 
 1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. Nc3 Be7 5. b3 O-O 6. Bb2 dxc4 7. bxc4 b6 8. d4
 Bb7 9. Bd3 c5 10. d5 exd5 11. cxd5 b5 12. Bxb5 Nxd5 13. O-O Nf6 14. Qc2 a6 15.
@@ -301,7 +281,6 @@ Ke5 Nc3 92. Bc5 Ne2 93. Be3 Nc3 94. Bd2 Na4 95. Bb4 Nb2 96. Kf5 Nd1 97. Bc5 Nc3
 
 [Event "Croatia GCT 2019"]
 [Site "Zagreb CRO"]
-[Date "2019.07.04"]
 [Round "8.5"]
 [White "Giri,A"]
 [Black "Mamedyarov,S"]
@@ -315,7 +294,6 @@ Ke5 Nc3 92. Bc5 Ne2 93. Be3 Nc3 94. Bd2 Na4 95. Bb4 Nb2 96. Kf5 Nd1 97. Bc5 Nc3
 [Variation "Nimzovich-Rossolimo attack (without ...d6)"]
 [WhiteFideId "24116068"]
 [BlackFideId "13401319"]
-[EventDate "2019.06.26"]
 
 1. Nf3 c5 2. e4 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Bf1 Bg4 8. d4
 cxd4 9. cxd4 d5 10. exd5 Nxd5 11. Nc3 e6 12. h3 Bh5 13. g4 Bg6 14. Nxd5 Qxd5 15.
@@ -326,7 +304,6 @@ Re7 28. Qc4 Rc8 29. Qa4+ Bc6 30. Bxc6+ Rxc6 31. Rc1 1-0
 
 [Event "Riga FIDE Grand Prix 2019"]
 [Site "Riga LAT"]
-[Date "2019.07.14"]
 [Round "1.4"]
 [White "Giri,A"]
 [Black "Karjakin,Sergey"]
@@ -340,7 +317,6 @@ Re7 28. Qc4 Rc8 29. Qa4+ Bc6 30. Bxc6+ Rxc6 31. Rc1 1-0
 [Variation "Neo-Catalan accepted"]
 [WhiteFideId "24116068"]
 [BlackFideId "14109603"]
-[EventDate "2019.07.12"]
 
 1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 c5 8.
 Nc3 Qc7 9. O-O b6 10. d4 Bb7 11. Bf4 Bd6 12. Bxd6 Qxd6 13. Rfd1 O-O 14. e4 cxd4
@@ -354,7 +330,6 @@ Ke4 47. Rxb5 Nd4 48. Rc4 f4 49. a6 Kd3 50. Rxd4+ Kxd4 51. a7 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.07.31"]
 [Round "1.5"]
 [White "Giri,A"]
 [Black "Mamedyarov,S"]
@@ -368,7 +343,6 @@ Ke4 47. Rxb5 Nd4 48. Rc4 f4 49. a6 Kd3 50. Rxd4+ Kxd4 51. a7 1-0
 [Variation "closed defence"]
 [WhiteFideId "24116068"]
 [BlackFideId "13401319"]
-[EventDate "2019.07.31"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 Bg4 8. Re1
 Nd7 9. h3 Bh5 10. Bxc6 bxc6 11. d4 c5 12. Be3 Rb8 13. b3 g5 14. dxc5 dxc5 15.
@@ -380,7 +354,6 @@ Qf5 Bg8 35. Nxe5 Rd6 36. Nf7+ Kg7 1-0
 
 [Event "GCT Blitz Paris 2019"]
 [Site "Paris FRA"]
-[Date "2019.08.01"]
 [Round "11.5"]
 [White "Giri,A"]
 [Black "Dubov,Daniil"]
@@ -394,7 +367,6 @@ Qf5 Bg8 35. Nxe5 Rd6 36. Nf7+ Kg7 1-0
 [Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
 [WhiteFideId "24116068"]
 [BlackFideId "24126055"]
-[EventDate "2019.07.31"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Qc7 6. h3 e5 7. Be3 f6 8. Qd2
 Be6 9. a3 a5 10. Nc3 b6 11. Ng1 Bd6 12. Nge2 Ne7 13. f4 f5 14. O-O O-O-O 15.
@@ -421,7 +393,6 @@ Ka5 1-0
 [BlackElo "2759"]
 [Result "1/2-1/2"]
 [Round "11"]
-[Date "Tue Dec 08 2020"]
 [WhiteClock "0:03:59"]
 [BlackClock "0:09:58"]
 
@@ -439,7 +410,6 @@ Ka5 1-0
 [BlackElo "2791"]
 [Result "1/2-1/2"]
 [Round "13"]
-[Date "Wed Dec 09 2020"]
 [WhiteClock "0:01:03"]
 [BlackClock "0:01:07"]
 
@@ -457,7 +427,6 @@ Ka5 1-0
 [BlackElo "2777"]
 [Result "1/2-1/2"]
 [Round "10"]
-[Date "Mon Dec 28 2020"]
 [WhiteClock "0:01:06"]
 [BlackClock "0:02:52"]
 
@@ -475,7 +444,6 @@ Ka5 1-0
 [BlackElo "2784"]
 [Result "1/2-1/2"]
 [Round "01"]
-[Date "Sat Dec 26 2020"]
 [WhiteClock "0:05:24"]
 [BlackClock "0:15:22"]
 
@@ -493,7 +461,6 @@ Ka5 1-0
 [BlackElo "2681"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Sun Dec 27 2020"]
 [WhiteClock "0:01:51"]
 [BlackClock "0:03:09"]
 
@@ -511,7 +478,6 @@ Ka5 1-0
 [BlackElo "2777"]
 [Result "1/2-1/2"]
 [Round "07"]
-[Date "Wed Mar 25 2020"]
 [WhiteClock "0:25:49"]
 [BlackClock "0:15:11"]
 

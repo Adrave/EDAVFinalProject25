@@ -1,6 +1,5 @@
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Euwe Max (NED)"]
@@ -22,7 +21,6 @@ Bxc3 30.Rxb7 1-0
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Hulscher"]
@@ -41,7 +39,6 @@ Nf6 8.Bg5 Be7 9.O-O-O O-O 10.h4 h6 11.Nd5 hxg5 12.Nxe7+ Qxe7
 
 [Event "Simultan"]
 [Site "Brno (Czech Republic)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Hostinsky Z"]
@@ -66,7 +63,6 @@ Kxc2 48.Nf6 1-0
 
 [Event "Olympiad"]
 [Site "Folkestone (England)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Andersen (DEN)"]
@@ -89,7 +85,6 @@ Ke5 36.b4 d4 37.Kc4 1-0
 
 [Event "Olympiad"]
 [Site "Folkestone (England)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Apsheniek Fritzis"]
@@ -109,7 +104,6 @@ Rc7 14.Ba5 fxg6 15.Qxg6+ Ke7 16.Nf7 Qe8 17.Nxh8 Rc8 18.Bb4+ c5
 
 [Event "Olympiad"]
 [Site "Folkestone (England)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Asgeirsson Asmundur"]
@@ -130,7 +124,6 @@ Kg7 25.Nxf8 1-0
 
 [Event "Olympiad"]
 [Site "Folkestone (England)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Mikenas Vladas I (EST)"]
@@ -154,7 +147,6 @@ Ng6 38.Ned3 f4 39.Rh1+ Kg8 40.Bg4 fxg3 41.fxg3 Nh4+ 42.gxh4 gxh4
 
 [Event "Olympiad"]
 [Site "Folkestone (England)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Soultanbeieff Victor"]
@@ -177,7 +169,6 @@ Ra8 37.e6+ 1-0
 
 [Event "Simultan"]
 [Site "Haarlem (Netherlands)"]
-[Date "1933.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Amateur (ITA)"]
@@ -204,7 +195,6 @@ Kf4 60.b5 g5 61.Ka6 g4 62.b6 1-0
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -231,7 +221,6 @@ Rb2+ 48.Kf3 Nd6 49.Qa8 Nxc4 50.g6 Rb3+ 51.Ke2 Rb2+ 52.Kd3 Nxb6
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -260,7 +249,6 @@ Rg5 71.Kd2 Rh5 72.Kc3 Ke3 73.Bxf5 d2 74.Kc2 Rh6 75.Rxd2 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -284,7 +272,6 @@ Ke7 42.Rb7+ Kf6 43.Rb6 Ke7 44.Rb7+ Kf6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -310,7 +297,6 @@ Ke5 54.Bd7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -338,7 +324,6 @@ d5 65.Kg7 Kd3 66.Kf6 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -369,7 +354,6 @@ g2 75.Rc4+ Kg3 76.Rc3+ Kf2 77.Rc2+ Ke1 78.Rc1+ Ke2 79.Rc2+ Kd1
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "18"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -390,7 +374,6 @@ Be8 20.e5 Bh5 21.exf6 Qxf6 22.Rc7 Bxf3 23.Nxf3 Nc4 24.Qc3 Rf7
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "22"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -414,7 +397,6 @@ Qc2+ 36.Kg3 Bf1 37.Qd5 Qc7+ 38.Kf2 Ba6 39.Qe4+ Kg8 40.Qe8+ Kh7
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "24"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -437,7 +419,6 @@ Rd3 36.Ne2 Be3+ 37.Kh1 Red8 38.Ng1 Bf2 39.Rf1 e3 0-1
 
 [Event "Ch World (match)"]
 [Site "Germany"]
-[Date "1934.??.??"]
 [Round "26"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -457,7 +438,6 @@ Kxg7 20.f5 Qd8 21.Qd4+ Ne5 22.fxg6 fxg6 23.Qxd6 Qxd6 24.Rxd6 1/2-1/2
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "4"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -481,7 +461,6 @@ Kh7 42.Ke3 g4 1/2-1/2
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "10"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Johner Hans (SUI)"]
@@ -505,7 +484,6 @@ Qg7 37.Nxg8 Kxg8 38.Qc8+ Nf8 39.Bxf4 exf4 40.Qe8 g4 41.Qh5 f3
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "12"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Lasker Emanuel (GER)"]
@@ -526,7 +504,6 @@ f6 25.Nf5+ Kh8 26.Qxg6 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "14"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Muller Hans (AUT)"]
@@ -546,7 +523,6 @@ f6 25.Nf5+ Kh8 26.Qxg6 1-0
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "8"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nimzowitsch Aaron"]
@@ -571,7 +547,6 @@ Rd8 42.Rxa6 Rdd7 43.Kb6 Rf8 44.Ne6 Bf7 45.Nc5 Be8 46.Ra8 Kf7
 
 [Event "It"]
 [Site "Zurich (Switzerland)"]
-[Date "1934.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rosselli Del Turco Stefano (ITA)"]

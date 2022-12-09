@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Wiersma E Sr"]
@@ -22,7 +21,6 @@ Ka5 29.Rc3 Bb5 30.Ra3+ Ba4 31.b4+ Qxb4 32.Qxa7+ 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Carsten"]
@@ -46,7 +44,6 @@ a6 42.Qe4 Rc8 43.Ne5+ Kg8 44.Rxg7+ Kf8 45.Rg8+ 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Fontein George Salto"]
@@ -68,7 +65,6 @@ Kf7 31.Qe3 Qd8 32.Qe6+ Kf8 33.Qd6+ Kf7 34.d5 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Loman Rudolf J (NED)"]
@@ -88,7 +84,6 @@ Qd7 20.c6 bxc6 21.Ne5 Qxd4+ 22.Kh1 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Van Hartingsvelt H"]
@@ -114,7 +109,6 @@ Kb8 53.Kd7 Ka8 54.c6 1-0
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Weenink Henri G (NED)"]
@@ -139,7 +133,6 @@ Kb6 42.c5+ Kb5 43.Rb7+ Ka6 44.Rb8 Re2 45.Kxc6 Rxf2 46.Rd8 Rxa2
 
 [Event "Match \"Germany-Netherlands\""]
 [Site "Germany"]
-[Date "1922.??.??"]
 [Round "1"]
 [White "Euwe Max (NED)"]
 [Black "Post Ehrhardt (GER)"]
@@ -165,7 +158,6 @@ Rc3 47.f3 Rc2+ 48.Kg3 Bd6+ 49.f4 Rc3+ 50.Kg4 Be7 51.f5 gxf5+
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Capablanca Jose Raul (CUB)"]
@@ -188,7 +180,6 @@ Be8 32.b3 Ref7 33.c4 Rxf3 34.cxd5 cxd5 35.Bb1 Bc6 36.Rd1 R3f4
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Marotti Davide (ITA)"]
@@ -212,7 +203,6 @@ d4+ 42.Kxd4 Nxf2 43.Rxf6 1-0
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -235,7 +225,6 @@ Re7 30.Rg5 Qc3+ 31.Kxg4 Qc6 32.Qa3 Qe6+ 33.f5 Qe2+ 34.Kh4 Qxh2+
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Vidmar Milan Sr (YUG)"]
@@ -260,7 +249,6 @@ Ke6 0-1
 
 [Event "It"]
 [Site "London (England)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Yates Frederick"]
@@ -282,7 +270,6 @@ Nxc5 31.Rxd8+ Rxd8 32.Qxc5 Rd1+ 0-1
 
 [Event ""]
 [Site "Netherlands"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Sonnenburg K"]
@@ -307,7 +294,6 @@ f4 42.Nd3 Bxh3 43.Nxf4 Bf5 44.Nd3 Bh7 45.Nc5 Bf5 46.Nxa6 Bh7
 
 [Event ""]
 [Site "Netherlands"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Spaans"]
@@ -328,7 +314,6 @@ Kf8 25.Bh6+ Ke8 26.Rg8+ 1-0
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -350,7 +335,6 @@ fxg3 26.Qxg3 g4 27.Nc4 Rf4 28.Ne3 Qg6 29.Ng2 Qxe4 30.f3 R4f6
 
 [Event "It"]
 [Site "Pistyan (Czech Republic)"]
-[Date "1922.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Reti Richard (CZE)"]
@@ -376,7 +360,6 @@ Rg8 54.Rb7+ 1-0
 
 [Event "Match"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Speyer Abraham"]
@@ -403,7 +386,6 @@ f6 53.gxf6+ Kxf6 54.Kf3 Kg5 55.Bc8 h4 56.gxh4+ Kxh4 57.Bd7 Kg5
 
 [Event ""]
 [Site "Amsterdam (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Plukker Hans"]
@@ -426,7 +408,6 @@ Kd8 36.Rh7 1/2-1/2
 
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Bogoljubow Efim D (UKR)"]
@@ -449,7 +430,6 @@ Nc7 31.h4 h6 32.Kb4 hxg5 33.hxg5 Ne8 34.c5 bxc5+ 35.Kxc5 Rb6
 
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Reti Richard (CZE)"]
@@ -473,7 +453,6 @@ h6 41.Bg6 1/2-1/2
 
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -495,7 +474,6 @@ Nxe5 25.Rxe5 h6 26.Qe3 Rxe5 27.dxe5 b6 28.Qd4 Be6 29.Kf2 Kf7
 
 [Event "It"]
 [Site "Ostrava (Czech Republic)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -520,7 +498,6 @@ Ra7 47.Rd5 Rc7 48.b4 cxb4+ 49.Kxb4 Rc8 1/2-1/2
 
 [Event "It"]
 [Site "Sheveningen (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Johner Paul F (SUI)"]
@@ -544,7 +521,6 @@ Kf6 41.g5+ Nxg5 42.Rf5+ 1/2-1/2
 
 [Event "It"]
 [Site "Sheveningen (Netherlands)"]
-[Date "1923.??.??"]
 [Round "?"]
 [White "Euwe Max (NED)"]
 [Black "Reti Richard (CZE)"]
@@ -566,14 +542,12 @@ d4 25.Nde4 dxc3 26.f3 Be8 27.Nf6 Qf5 28.Rg8+ Rxg8 29.Qxg8+ Ke7
 
 [Event "Hastings 1923/24"]
 [Site "Hastings ENG"]
-[Date "1923.12.27"]
 [Round "1"]
 [White "Max Euwe"]
 [Black "Geza Maroczy"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "1923.12.27"]
 [PlyCount "58"]
 [WhiteElo "?"]
 

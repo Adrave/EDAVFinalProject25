@@ -1,6 +1,5 @@
 [Event "It (cat.19)"]
 [Site "Linares (Spain)"]
-[Date "2001.??.??"]
 [Round "10"]
 [White "Kasparov Garry (RUS)"]
 [Black "Grischuk Alexander (RUS)"]
@@ -24,7 +23,6 @@ Rf8 37.Bxa7 Bc6 38.Be3 Rbb8 39.Bg5 Rb5 40.Rcc5 Rb6 41.b5 Bf3
 
 [Event "It (cat.19)"]
 [Site "Linares (Spain)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -46,7 +44,6 @@ Bxc5 31.Qh5+ 1-0
 
 [Event "It (cat.19)"]
 [Site "Linares (Spain)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Leko Peter (HUN)"]
@@ -68,7 +65,6 @@ Kh7 31.Ng5+ 1-0
 
 [Event "It (cat.19)"]
 [Site "Linares (Spain)"]
-[Date "2001.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -91,7 +87,6 @@ Ke4 31.Rcd1 h5 32.Nxd4 b4 33.Re3+ Kd5 34.Bxb4 Kc4 35.Bxc3 Rxe3
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "6"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -116,7 +111,6 @@ g6 48.Bd3 Rg8 49.Rxg8 Kxg8 50.Bxg6 1-0
 
 [Event "Memorial M.Botvinnik (match) (blitz)"]
 [Site "Moscow (Russia)"]
-[Date "2001.??.??"]
 [Round "8"]
 [White "Kasparov Garry (RUS)"]
 [Black "Kramnik Vladimir (RUS)"]
@@ -138,7 +132,6 @@ Kxg7 25.Nc5 Rd8 26.Qe3 Rb8 27.Qe5+ Kh6 28.Qxb8 Bxc5 29.Qc7 Rd1+
 
 [Event "Match (blitz)"]
 [Site "Patras (Greece)"]
-[Date "2001.??.??"]
 [Round "3"]
 [White "Kasparov Garry (RUS)"]
 [Black "Banikas Hristos (GRE)"]
@@ -162,7 +155,6 @@ Ng5 43.a6 Ne6 44.b6 Ra5 45.b7 Qc7 46.Rc1 Qd6 47.Rc8 Ra1 1-0
 
 [Event "Match (blitz)"]
 [Site "Patras (Greece)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Banikas Hristos (GRE)"]
@@ -184,7 +176,6 @@ Qa7 31.Qd3 b5 32.Bxf8 Rxf8 33.Rxd7 Qc5 34.Qd6 1-0
 
 [Event "Simultan"]
 [Site "Prague (Czech Republic)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Babula Vlastimil (CZE)"]
@@ -210,7 +201,6 @@ Kg6 54.Ra2 1-0
 
 [Event "Simultan"]
 [Site "Prague (Czech Republic)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Movsesian Sergei (SVK)"]
@@ -234,7 +224,6 @@ Kb7 36.Bxe5 Rxe5 37.Qxe5 a3 38.Qd5+ Kb8 39.cxd4 a2 40.Qb3+ Kc7
 
 [Event "Simultan"]
 [Site "Prague (Czech Republic)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Oral Tomas (CZE)"]
@@ -257,7 +246,6 @@ Bxc8 36.Ne8+ 1-0
 
 [Event "Simultan"]
 [Site "St. Petersburg (Russia)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Gurevich Ilya (USA)"]
@@ -281,7 +269,6 @@ exf5 37.Rg6 Nf8 38.Rxb6 Ne6 39.Rxe6 Kxe6 40.Rg6+ Kd7 41.Nf1 Bh4
 
 [Event "Simultan"]
 [Site "Torshavn (Faroe Islands)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Nolsoe Eydun (FAI)"]
@@ -304,7 +291,6 @@ b4 36.axb4 axb4 37.Kf2 b3 38.Ke1 f6 39.Bb7 Bxb7 40.cxb7 Nd7 41.Kd1 1-0
 
 [Event "Simultan"]
 [Site "Torshavn (Faroe Islands)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Rodgaard John (FAI)"]
@@ -327,7 +313,6 @@ Nxd4 19.Qxd4 Qxd4 20.cxd4 Bd7 21.Bd2 Rac8 22.Bc3 Rfe8 23.f3 Kg6
 
 [Event "Simultan"]
 [Site "Torshavn (Faroe Islands)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Simonsen Olavur (FAI)"]
@@ -350,7 +335,6 @@ Ng8 37.Ra2 Nf6 38.Ra8 Bb7 39.Rf8 Rf7 40.Rxf7+ Qxf7 41.Nd8 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "9"]
 [White "Kasparov Garry (RUS)"]
 [Black "Shirov Alexei (ESP)"]
@@ -374,7 +358,6 @@ a5 42.Rxg7+ Kf6 43.Rgf7+ Ke5 44.Rf5+ Kd4 45.e7 1-0
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "11"]
 [White "Kasparov Garry (RUS)"]
 [Black "Timman Jan H (NED)"]
@@ -398,7 +381,6 @@ Nc4 37.Bf1 Qe7 38.Qc3 Qe3+ 39.Qxe3 Nxe3 40.Bd3 Nc4 41.Be1 Kg8
 
 [Event "It (cat.19)"]
 [Site "Wijk aan Zee (Netherlands)"]
-[Date "2001.??.??"]
 [Round "7"]
 [White "Kasparov Garry (RUS)"]
 [Black "Topalov Veselin (BUL)"]
@@ -420,7 +402,6 @@ Kf8 31.Nf3 Qe3+ 32.Kb2 Be8 33.Qh8+ Kf7 34.Bc3 1-0
 
 [Event "It \"Korchnoi Birthday\" (Gr.A)"]
 [Site "Zurich (Switzerland)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Piket Jeroen (NED)"]
@@ -442,7 +423,6 @@ Rf4 31.Ne7+ 1-0
 
 [Event "It \"Korchnoi Birthday\" (Gr.A)"]
 [Site "Zurich (Switzerland)"]
-[Date "2001.??.??"]
 [Round "5"]
 [White "Kasparov Garry (RUS)"]
 [Black "Unzicker Wolfgang (GER)"]
@@ -463,7 +443,6 @@ Rxf5 19.O-O Qc6 20.Bb3 Qxc7 21.Nxc7 Rb8 22.Re1 b6 23.Nb5 Bb7
 
 [Event "It \"Korchnoi Birthday\" (KO-system)"]
 [Site "Zurich (Switzerland)"]
-[Date "2001.??.??"]
 [Round "1"]
 [White "Kasparov Garry (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -484,7 +463,6 @@ Rhc8 19.Rh3 g5 20.Ng6+ Kf7 21.Rf3+ Kxg6 22.Bd3+ Kh5 23.Rh3+ Kg4
 
 [Event "It \"Korchnoi Birthday\" (KO-system)"]
 [Site "Zurich (Switzerland)"]
-[Date "2001.??.??"]
 [Round "2"]
 [White "Kasparov Garry (RUS)"]
 [Black "Short Nigel D (ENG)"]
@@ -504,7 +482,6 @@ f5 20.exf6 Bd8 21.Qxh6 Ra7 22.Ng5 Qxb5 23.f7+ Rxf7 24.Nxf7 1-0
 
 [Event "Simultan"]
 [Site "Patras (Greece)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Hahabis Nikolaos (GRE)"]
@@ -513,7 +490,6 @@ f5 20.exf6 Bd8 21.Qxh6 Ra7 22.Ng5 Qxb5 23.f7+ Rxf7 24.Nxf7 1-0
 [WhiteElo "2838"]
 [BlackElo "2009"]
 [PlyCount "55"]
-[EventDate "2001.??.??"]
 
 1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8.
 dxc5 Bxc5 9. Qc2 Qb6 10. Nc3 Bxf2+ 11. Rxf2 Ng4 12. e3 Nxf2 13. Qxf2 Be6 14.
@@ -524,7 +500,6 @@ Re7 21. Nxe6 fxe6 22. Be5 Rf7 23. Qc2 O-O 24. Rf1 Qa6 25. Rxf7 Rxf7 26. h4 Rf8
 
 [Event "Simultan"]
 [Site "Patras (Greece)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Pashos Alexandros (GRE)"]
@@ -533,7 +508,6 @@ Re7 21. Nxe6 fxe6 22. Be5 Rf7 23. Qc2 O-O 24. Rf1 Qa6 25. Rxf7 Rxf7 26. h4 Rf8
 [WhiteElo "2838"]
 [BlackElo "2050"]
 [PlyCount "61"]
-[EventDate "2001.??.??"]
 
 1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 Nc6 7. Bd3 d6 8. a3
 Be7 9. O-O O-O 10. Qe2 Nb6 11. Nc3 d5 12. Bf4 Bd7 13. Rad1 Rc8 14. Bb1 Re8 15.
@@ -544,7 +518,6 @@ b6 28. Re1 Qe7 29. Bf6 Qf8 30. Qg5 Qe8 31. Nxd5 1-0
 
 [Event "Simultan"]
 [Site "St. Petersburg (Russia)"]
-[Date "2001.??.??"]
 [Round "?"]
 [White "Kasparov Garry (RUS)"]
 [Black "Tarasov Sergey I (RUS)"]
@@ -553,7 +526,6 @@ b6 28. Re1 Qe7 29. Bf6 Qf8 30. Qg5 Qe8 31. Nxd5 1-0
 [WhiteElo "2838"]
 [BlackElo "2020"]
 [PlyCount "39"]
-[EventDate "2001.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. c3 Nf6 5. Ng5 Be6 6. Nxe6 fxe6 7. Bxe6 Nxe4 8.
 O-O Qf6 9. Bd5 Nc5 10. b4 Nd3 11. Na3 O-O-O 12. Qa4 Kd7 13. Nb5 Ra8 14. Be4

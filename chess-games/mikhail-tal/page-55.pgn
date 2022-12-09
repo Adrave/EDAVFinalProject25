@@ -1,6 +1,5 @@
 [Event "Ch URS (team)"]
 [Site "Lugansk (Ukraine)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -20,7 +19,6 @@ Nxd3 20.cxd3 Qc5 21.Qe3 Qb6 22.h6 Rc2 23.b3 Bxb3 24.axb3 Rc3 1/2-1/2
 
 [Event "Ch URS (team)"]
 [Site "Podolsk (Russia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -41,7 +39,6 @@ fxg4 26.g3 Qf3 27.Rxe6 Bxg3 28.Rxe8 Bxf2+ 29.Nxf2 Qxf2+ 30.Kh1 1/2-1/2
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Klasup Karlis (LAT)"]
@@ -75,7 +72,6 @@ Nf4+ 0-1
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Pukudruva"]
@@ -99,7 +95,6 @@ Qd2 41.g4+ 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "11"]
 [White "Tal Mikhail (LAT)"]
 [Black "Shianovsky Vladislav I (UKR)"]
@@ -123,7 +118,6 @@ Kg7 42.Qxc6 Nd1 43.Kh2 Nf2 44.Kg3 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Skuja Roberts"]
@@ -147,7 +141,6 @@ b1Q 42.Bg5+ Kg7 43.Bxb1 1-0
 
 [Event "Ch Latvia"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Zeids T"]
@@ -169,7 +162,6 @@ Nc5 20.Qa3 Bb7 21.Bxc5 bxc5 22.Rd7 Qb6 23.c4 Bxg2 24.Kxg2 Qc6+
 
 [Event "Ch URS (1/2 final)"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Furman Semen (RUS)"]
@@ -191,7 +183,6 @@ e4 31.g5 hxg5 32.hxg5 Ke6 33.Bc4 Ke5 34.g6 Bh6 35.Ne7 Rgd8 36.g7 1-0
 
 [Event "Tournament"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gipslis Aivars (LAT)"]
@@ -216,7 +207,6 @@ Rf3 36.Kd2 Kg6 37.Ke2 Rb3 38.Bd3 Rb2+ 39.Ke3 Kf7 40.Bc4+ Kg6
 
 [Event "Tournament"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Shamkovich Leonid (USA)"]
@@ -241,7 +231,6 @@ Ba3 47.Ng2 1-0
 
 [Event "Tournament"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Soloviev Vladimir A (RUS)"]
@@ -267,7 +256,6 @@ Rc7 48.Kd2 Rd7 49.Kd3 Rc7 50.Re1 Kg8 51.e5 dxe5 52.fxe5 fxe5
 
 [Event "Tournament"]
 [Site "Riga (Latvia)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Vasiukov Evgeni (RUS)"]
@@ -292,7 +280,6 @@ Kf7 48.h7 1-0
 
 [Event "Ch URS (1/2 final)"]
 [Site "URS"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail N (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -314,7 +301,6 @@ h5 25.Ne4 Qxe5 26.Nf6+ Kg7 27.Nxe8+ Rxe8 28.f4 Qf6 29.Qf2 d3
 
 [Event ""]
 [Site "URS"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Goldin"]
@@ -337,7 +323,6 @@ Bxd6 30.Rxd6 h4 31.Rxe6+ Kf7 32.Rf6+ Ke7 33.f5 hxg3 34.Kg2 R8g5
 
 [Event ""]
 [Site "URS"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kudriashov Anatoli (TKM)"]
@@ -359,7 +344,6 @@ f6 26.Qb2 Qa7+ 27.Kg2 hxg4 28.hxg4 Qa8 29.Ra1 Qc8 30.Qb7 Qd8
 
 [Event ""]
 [Site "URS"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Mileika Ya"]
@@ -384,7 +368,6 @@ Kb5 41.Kxe4 Kxb4 42.Ke5 Kc5 43.Kf6 Kd6 44.Kg7 Ke7 45.Kxh7 Kf6
 
 [Event "Tournament"]
 [Site "Vilnius (Lithuania)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kliavinsh Y (LAT)"]
@@ -409,7 +392,6 @@ f4 49.b7 1-0
 
 [Event "Tournament"]
 [Site "Vilnius (Lithuania)"]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Shagalovich Abo (BLR)"]
@@ -430,7 +412,6 @@ Nd7 8.h5 c6 9.Nf3 Ne5 10.Nxe5 Bxe5 11.hxg6 hxg6 12.Rxh8+ Bxh8
 
 [Event "Ch URS (team)"]
 [Site ""]
-[Date "1955.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Neishtadt Yakov (RUS)"]
@@ -453,7 +434,6 @@ Kh6 37.g5+ 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Taimanov Mark E (RUS)"]
@@ -480,7 +460,6 @@ h5 51.h4 gxh4+ 52.Kxh4 Rh2+ 53.Kg3 Rxa2 54.Re6+ Kf5 55.Rxa6 Rxa6
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Antoshin Vladimir S (RUS)"]
@@ -501,7 +480,6 @@ Be5 19.Rac1 Qd6 20.c4 Ne4 21.Rfe1 Bf4 22.Ra1 Be5 23.Rac1 Bf4
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Koblenc A (LAT)"]
@@ -522,7 +500,6 @@ Rad8 19.Qe5 Rd7 20.Rfe1 Rd3 21.Re3 Qd7 22.Ree1 Rd8 23.Rxd3 Qxd3
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kotkov Yuri M (RUS)"]
@@ -547,7 +524,6 @@ Bxb8 41.Bxb8 Ke7 42.Bxe5 Nc4 43.Bc3 e5 44.Ke2 Ke6 45.Kd3 Nd6
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -568,7 +544,6 @@ Bd7 25.Bd3 Ba4 26.Bf5 Bd7 1/2-1/2
 
 [Event "Ch URS (1/2 final)"]
 [Site "Tbilisi (Georgia)"]
-[Date "1956.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Sakharov Yuri N (RUS)"]

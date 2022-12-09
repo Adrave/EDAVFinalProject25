@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "16"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Albin Adolf (ROM)"]
@@ -21,7 +20,6 @@ Rh6 14.h3 Ne4 15.dxe5 a5 16.Qd4 dxe5 17.Qxe5 Bd7 18.Bxe4 fxe4
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "8"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Bird Henry E (ENG)"]
@@ -43,7 +41,6 @@ Rxc8 31.Rd4 f5 32.Rd7+ Kh6 33.fxg5+ Kxg5 34.h4+ Kf6 35.Nc6 Rg8 0-1
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "14"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Burn Amos (ENG)"]
@@ -69,7 +66,6 @@ g5 53.fxg6 hxg6 54.h3 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "4"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mason James (ENG)"]
@@ -91,7 +87,6 @@ N6d7 25.Bd5 Qa4 26.Bxb7 Qxa2 27.Qxa6 Qb3 28.Bd5 Qb8 29.Qa2 Re7
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "12"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Mieses Jacques (GER)"]
@@ -113,7 +108,6 @@ Bd1 31.Bf1 Bc2 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "6"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Pollock William (USA)"]
@@ -140,7 +134,6 @@ Na3 0-1
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "20"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Tarrasch Siegbert (GER)"]
@@ -169,7 +162,6 @@ Bxf1+ 61.Kxf1 Bxg3 62.Be8+ Kg5 63.Kg2 Be1 64.Kf3 h4 65.Bd7 a4
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "18"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Tinsley Samuel"]
@@ -192,7 +184,6 @@ Kf8 37.Kd2 Bf6 38.Re3 c3+ 39.Kc2 Bd4 40.Re2 Rb5 41.b4 f5 42.Kd3 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "1"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Vergani B"]
@@ -216,7 +207,6 @@ Nd5 36.c4 Rxd4 37.cxd5 R4xd5 38.Rxb7 Rxd3 39.e6 Rd2+ 40.Ke1 Rd1+
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1895.??.??"]
 [Round "10"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Von Bardeleben Kurt (GER)"]
@@ -239,7 +229,6 @@ Kd7 35.Qd6# 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -262,7 +251,6 @@ Raf8 31.a4 Nc3 32.Kh1 Bd3 33.Re1 Ne2 34.Qd1 Bxe1 35.Qxd3 Rxf3
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -284,7 +272,6 @@ Nd5 25.Rd3 Be8 26.Rb3 b6 27.Ra3 fxe5 28.Qxe5 Nf4 29.Re1 Qxh4
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Chigorin Mikhail I (RUS)"]
@@ -308,7 +295,6 @@ Qxe3+ 42.Kh2 Rc1 43.h4 Rc4 0-1
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -330,7 +316,6 @@ Rf7 31.Bc4 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -353,7 +338,6 @@ Qg4 30.Qd3 Nf5 31.Ne4 Be3 32.Rf3 Rxg2 33.Kxg2 Nxh4+ 34.Kh2 Nxf3+
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Pillsbury Harry N (USA)"]
@@ -380,7 +364,6 @@ Rc3 57.Ra5+ Kg6 58.a4 Rc4 59.Ra6+ Kh5 60.g4+ 1-0
 
 [Event "It"]
 [Site "St. Petersburg (Russia)"]
-[Date "1895.??.??"]
 [Round "?"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Pillsbury Harry N (USA)"]
@@ -407,7 +390,6 @@ Kd4 54.f6 Nxf6 55.Qb2+ Kc4 56.Qxf6 d5 57.Qc6+ Kb4 58.Qb5+ Ka3
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "5"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -430,7 +412,6 @@ Rd8 31.Bxf5 Be5 32.Be4 Qc4+ 33.Bd3 Qxc3 34.Qe4 Bxd4 35.exd4 Rxd4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "7"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -460,7 +441,6 @@ Kg7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "9"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -482,7 +462,6 @@ Rb8 25.Na4 Nxa4 26.bxa4 Ba6 27.Bxa6 Nxa6 28.Nc6 Rb7 29.Nxa5 bxa5
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1896.??.??"]
 [Round "15"]
 [White "Steinitz Wilhelm (CZE)"]
 [Black "Lasker Emanuel (GER)"]
@@ -505,13 +484,11 @@ Ne6 31.Nd5 Ng5 32.Kg2 Kh8 33.Qc8+ Kh7 34.Qf5+ Kh8 35.Qc8+ Kh7
 
 [Event "Hastings"]
 [Site "Hastings ENG"]
-[Date "1895.08.17"]
 [Round "10"]
 [White "Wilhelm Steinitz"]
 [Black "Curt von Bardeleben"]
 [Result "1-0"]
 [ECO "C54"]
-[EventDate "1895.08.05"]
 [PlyCount "49"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 d5
@@ -523,14 +500,12 @@ Ne6 31.Nd5 Ng5 32.Kg2 Kh8 33.Qc8+ Kh7 34.Qf5+ Kh8 35.Qc8+ Kh7
 
 [Event "Simul"]
 [Site "New York, NY USA"]
-[Date "1896.??.??"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Salomon A Langleben"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C55"]
-[EventDate "1896.??.??"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -543,14 +518,12 @@ Ne6 31.Nd5 Ng5 32.Kg2 Kh8 33.Qc8+ Kh7 34.Qf5+ Kh8 35.Qc8+ Kh7
 
 [Event "Schiffers - Steinitz"]
 [Site "Rostov-on-Don RUE"]
-[Date "1896.03.31"]
 [Round "10"]
 [White "Wilhelm Steinitz"]
 [Black "Emmanuel Schiffers"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C11"]
-[EventDate "1896.03.04"]
 [PlyCount "102"]
 [WhiteElo "?"]
 
@@ -568,14 +541,12 @@ Ne6 31.Nd5 Ng5 32.Kg2 Kh8 33.Qc8+ Kh7 34.Qf5+ Kh8 35.Qc8+ Kh7
 
 [Event "Simul 32b"]
 [Site "Haarlem NED"]
-[Date "1896.05.08"]
 [Round "?"]
 [White "Wilhelm Steinitz"]
 [Black "Charles Enschede"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C05"]
-[EventDate "1896.05.08"]
 [PlyCount "57"]
 [WhiteElo "?"]
 

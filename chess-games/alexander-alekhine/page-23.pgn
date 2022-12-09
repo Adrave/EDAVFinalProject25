@@ -1,6 +1,5 @@
 [Event "It"]
 [Site "Boston (USA)"]
-[Date "1924.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Nait"]
@@ -21,7 +20,6 @@ Rc7 14.Ne5 Nh5 15.Nxf7 Kxf7 16.Bxe6+ Kf8 17.e5 g6 18.Bh6+ Ng7
 
 [Event "It"]
 [Site "New York (USA)"]
-[Date "1924.??.??"]
 [Round "6"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Janowski Dawid M (POL)"]
@@ -44,7 +42,6 @@ Bd8 35.Rb2 Kc8 36.Bxa6 bxa6 37.Bb6 Bg5 38.Rc2+ Kb7 39.d6 f5 40.d7 1-0
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Addicks J H"]
@@ -69,7 +66,6 @@ Rd6 42.Ke4 Rxe6+ 43.Kd5 Re8 44.Kc5 Rd8 45.Kxb5 Kf6 46.Ka6 Kf5
 
 [Event "Simultan"]
 [Site "Amsterdam (Netherlands)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Woher H A"]
@@ -98,7 +94,6 @@ Kg5 69.Qd8+ Qf6 70.Qd2+ Kf5 0-1
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "15"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Carls Carl J M (GER)"]
@@ -124,7 +119,6 @@ Ne6 48.Kf5 Nd4+ 49.Kg4 Ne6 50.Bb5 Nd4 51.Bc4+ Ke8 52.Bc7 Kd7
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "21"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Gruenfeld Ernst F (AUT)"]
@@ -142,7 +136,6 @@ Ne6 48.Kf5 Nd4+ 49.Kg4 Ne6 50.Bb5 Nd4 51.Bc4+ Ke8 52.Bc7 Kd7
 
 [Event "It"]
 [Site "Baden-Baden (Germany)"]
-[Date "1925.??.??"]
 [Round "19"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Rubinstein Akiba K (POL)"]
@@ -164,7 +157,6 @@ Nd6 25.Rc5 Rf7 26.Rg1 Be2 27.Ne6 Nb5 28.Nd4 Bd3 29.Nxb5 Bxb5
 
 [Event "Simultan"]
 [Site "Hague (Netherlands)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "De Bruijn W"]
@@ -187,7 +179,6 @@ Bh7 25.Kf2 Rad8 26.Rcd1 Rfe8 27.Bf3 f6 28.Rd2 Kf8 29.Rb1 Rd7
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Zeic"]
@@ -207,7 +198,6 @@ f4 19.Bxf4 Qxh3 20.Be5+ 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Colle Edgard (BEL)"]
@@ -229,7 +219,6 @@ hxg6 30.Qxd7 Rxd7 31.Re8+ Kh7 32.Rcc8 Rd8 33.Rexd8 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Opocensky Karel (CZE)"]
@@ -250,7 +239,6 @@ cxd4 26.Rc6 Kh7 27.Bxf7 Rc8 28.Rxg6 1-0
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Tartakower Savielly (FRA)"]
@@ -276,7 +264,6 @@ f3 47.gxf3 Bxf3 48.Rf7 Rb2 49.Rxf3 Rxb6+ 50.Ke5 g5 51.Rf1 g4
 
 [Event "It"]
 [Site "Paris (France)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Znosko-Borovsky Eugene"]
@@ -296,7 +283,6 @@ Bf7 20.Qh3 fxg3 21.Qxg3 Kh8 22.Qh3 Bd4+ 23.Kh1 h5 24.Nd5 Ne5 1-0
 
 [Event "Tournament"]
 [Site "Rotterdam (Netherlands)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Landau Salo (POL)"]
@@ -319,7 +305,6 @@ c6 36.Kf2 1/2-1/2
 
 [Event "Tournament"]
 [Site "Rotterdam (Netherlands)"]
-[Date "1925.??.??"]
 [Round "?"]
 [White "Alekhine Alexander A (RUS)"]
 [Black "Wap"]
@@ -339,14 +324,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Paris"]
 [Site "Paris FRA"]
-[Date "1925.02.15"]
 [Round "5"]
 [White "Alexander Alekhine"]
 [Black "Karel Opocensky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D10"]
-[EventDate "1925.02.11"]
 [PlyCount "55"]
 [WhiteElo "?"]
 
@@ -360,14 +343,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Berne"]
 [Site "Berne SUI"]
-[Date "1925.03.07"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Arnold Aurbach"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "C10"]
-[EventDate "1925.03.01"]
 [PlyCount "58"]
 [WhiteElo "?"]
 
@@ -381,14 +362,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Berne"]
 [Site "Berne SUI"]
-[Date "1925.03.05"]
 [Round "4"]
 [White "Alexander Alekhine"]
 [Black "Walter Michel"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D51"]
-[EventDate "1925.03.01"]
 [PlyCount "49"]
 [WhiteElo "?"]
 
@@ -401,14 +380,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Berne"]
 [Site "Berne SUI"]
-[Date "1925.03.02"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Oskar Naegeli"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D46"]
-[EventDate "1925.03.01"]
 [PlyCount "89"]
 [WhiteElo "?"]
 
@@ -425,14 +402,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Baden-Baden"]
 [Site "Baden-Baden GER"]
-[Date "1925.04.17"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Edgar Colle"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D07"]
-[EventDate "1925.04.16"]
 [PlyCount "121"]
 [WhiteElo "?"]
 
@@ -451,14 +426,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Baden-Baden"]
 [Site "Baden-Baden GER"]
-[Date "1925.04.27"]
 [Round "9"]
 [White "Alexander Alekhine"]
 [Black "Karel Treybal"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "1925.04.16"]
 [PlyCount "107"]
 [WhiteElo "?"]
 
@@ -476,14 +449,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Baden-Baden"]
 [Site "Baden-Baden GER"]
-[Date "1925.05.11"]
 [Round "19"]
 [White "Alexander Alekhine"]
 [Black "Akiba Rubinstein"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "D30"]
-[EventDate "1925.04.16"]
 [PlyCount "60"]
 [WhiteElo "?"]
 
@@ -497,14 +468,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Hastings 1925/26"]
 [Site "Hastings ENG"]
-[Date "1925.12.28"]
 [Round "1"]
 [White "Alexander Alekhine"]
 [Black "Reginald Pryce Michell"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D67"]
-[EventDate "1925.12.28"]
 [PlyCount "51"]
 [WhiteElo "?"]
 
@@ -518,14 +487,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Hastings 1925/26"]
 [Site "Hastings ENG"]
-[Date "1925.12.29"]
 [Round "2"]
 [White "Alexander Alekhine"]
 [Black "Victor Leonard Wahltuch"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "D31"]
-[EventDate "1925.12.28"]
 [PlyCount "47"]
 [WhiteElo "?"]
 
@@ -538,14 +505,12 @@ Nxd5 14.Rad1 Qb6 15.a3 Rd8 16.e4 Nf4 17.gxf4 Bxd4 18.Rxd4 Rxd4
 
 [Event "Hastings 1925/26"]
 [Site "Hastings ENG"]
-[Date "1926.01.01"]
 [Round "6"]
 [White "Alexander Alekhine"]
 [Black "Fred Dewhirst Yates"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C01"]
-[EventDate "1925.12.28"]
 [PlyCount "111"]
 [WhiteElo "?"]
 

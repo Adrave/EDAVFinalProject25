@@ -1,6 +1,5 @@
 [Event "It (cat.7)"]
 [Site "Cienfuegos (Cuba)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -24,7 +23,6 @@ a4 36.Qg7+ Ke6 37.Qg8+ Kd6 38.Rd1+ Kc7 39.Rc1+ Kb7 40.Qc8+ Ka7
 
 [Event ""]
 [Site "Cienfuegos (Cuba)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Damjanovic Mato (CRO)"]
@@ -47,7 +45,6 @@ axb3 37.axb3 Ra2 38.Rb8 1-0
 
 [Event ""]
 [Site "Cienfuegos (Cuba)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Peev Peicho (BUL)"]
@@ -70,7 +67,6 @@ Nfd7 20.Qf1 Nf8 21.d4 Ned7 22.Qd3 Nh7 23.Rbf1 Rf8 24.g4 Rbe8
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1973.??.??"]
 [Round "11"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Browne Walter S (USA)"]
@@ -92,7 +88,6 @@ Kg7 30.Bc3 Be7 31.f4 Qxe2+ 32.Kg1 Kh6 33.fxe5 Bg5 0-1
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1973.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Eley Brian (ENG)"]
@@ -118,7 +113,6 @@ Qe7 56.Rh1 Qd7 57.Kb2 Qc8 58.Rc1 Qa6 59.Ka2 Qb7 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1973.??.??"]
 [Round "2"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hartston William R (ENG)"]
@@ -137,7 +131,6 @@ Bxa3 14.Rxa3 Bd7 15.e4 Ne7 16.Nxc3 O-O 17.Qa1 a5 18.Rb1 Nc6 1/2-1/2
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1973.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Larsen Bent (DEN)"]
@@ -160,7 +153,6 @@ c4 21.bxc4 Nxc4 22.Bb2 O-O-O 23.Bf3 Qh7 24.Rxg8 Qxg8 25.Rg1 Qh7
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1973.??.??"]
 [Round "15"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Mestel A Jonathan (ENG)"]
@@ -182,7 +174,6 @@ hxg6 25.Bxf6+ Kxf6 26.Qh8+ Kg5 27.f4+ Kg4 28.Re3 g5 29.Qh6 Rxf4
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1973.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Wade Robert G (ENG)"]
@@ -210,7 +201,6 @@ Ke6 64.Rg5 1-0
 
 [Event "It"]
 [Site "Hastings (England)"]
-[Date "1973.??.??"]
 [Round "13"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Westerinen Heikki M J (FIN)"]
@@ -235,7 +225,6 @@ axb6 48.cxb6 c5 49.b7 Qb6 50.Qd5 Ne6 51.Bc3 Kf8 52.Be5 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -258,7 +247,6 @@ Kxc7 36.Qa5+ Kd7 37.e6+ Kxe6 38.Qe1+ Kf6 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Karpov Anatoly (RUS)"]
@@ -279,7 +267,6 @@ Bc5 25.Bxc5 Qxc5+ 26.Kh1 Bxa6 27.Rxa6 Rd4 28.Qa1 Qxd5 29.Ra5 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kuzmin Gennadi P (UKR)"]
@@ -309,7 +296,6 @@ e3 76.Kf6 Nf4 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -330,7 +316,6 @@ Rf7 25.Qb8+ Rf8 26.Qc7 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Savon Vladimir A (UKR)"]
@@ -354,7 +339,6 @@ Na3 35.c3 Nc4 36.Rb5 f6 37.Bf4 Ne5 38.Bxe5 fxe5 39.Rxe5 Rxc3
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -376,7 +360,6 @@ Rd2 31.bxc5 Rxc2 32.Nd7 Rf4 33.Bf6+ Rxf6 0-1
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sveshnikov Evgeny (LAT)"]
@@ -397,7 +380,6 @@ Ba7 25.Re2 Qd1+ 26.Kg2 f6 27.Qxd1 Rxd1 28.Rc2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Tal Mikhail (LAT)"]
@@ -420,7 +402,6 @@ Bb4+ 37.Ke2 b5 38.axb5 Bxb5 39.Nd4 Ba6 40.Nc2 Be7 1/2-1/2
 
 [Event "Match-Tournament (3 teams URS)"]
 [Site "Moscow (Russia)"]
-[Date "1973.??.??"]
 [Round "1"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lein Anatoly (USA)"]
@@ -442,7 +423,6 @@ hxg3 26.hxg3 Nh6 27.e4 Ng4 28.Re1 Qh5 29.Qb3 Qh2+ 30.Kf1 Nf6
 
 [Event "Izt"]
 [Site "Petropolis (Brazil)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Geller Efim P (RUS)"]
@@ -461,7 +441,6 @@ Rxc5 14.Nxd5 Bxd5 15.Rxc5 Qxc5 16.Qd2 1/2-1/2
 
 [Event "Izt"]
 [Site "Petropolis (Brazil)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -483,7 +462,6 @@ Bc5+ 31.Kh1 Re7 32.Rf8+ 1-0
 
 [Event "Izt"]
 [Site "Petropolis (Brazil)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Kagan Shimon (ISR)"]
@@ -510,7 +488,6 @@ Rb7+ 55.Kc2 Ne4 56.f6 Bxg5 57.hxg5 Nxg5 58.f7 Rxf7 59.Rxf7+ Nxf7
 
 [Event "Izt"]
 [Site "Petropolis (Brazil)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Mecking Henrique (BRA)"]
@@ -534,7 +511,6 @@ b2 42.Ba2 Rxh2 43.Kb3 Rh3 44.Nf1 Rh1 45.Nd2 Rg1 0-1
 
 [Event "Izt"]
 [Site "Petropolis (Brazil)"]
-[Date "1973.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -556,14 +532,12 @@ Bxa1 25.Nxd6 Nxd6 26.Rxa1 Rd8 27.Bg5 Rd7 28.Bf6 Ne8 29.Ra8 Kf8
 
 [Event "Petropolis Interzonal"]
 [Site "Petropolis BRA"]
-[Date "1973.08.11"]
 [Round "13"]
 [White "Vasily Smyslov"]
 [Black "Shimon Kagan"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "E62"]
-[EventDate "1973.07.23"]
 [PlyCount "129"]
 [WhiteElo "?"]
 

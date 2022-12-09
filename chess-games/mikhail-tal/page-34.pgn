@@ -1,6 +1,5 @@
 [Event "Match \"URS-All World\""]
 [Site "Belgrade (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "3"]
 [White "Tal Mikhail (LAT)"]
 [Black "Najdorf Miguel (POL)"]
@@ -24,7 +23,6 @@ fxg4 42.Qg8+ Kg6 43.Rf8 Qe7 1-0
 
 [Event "Cup URS"]
 [Site "Dnepropetrovsk (Ukraine)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -47,7 +45,6 @@ Nc4 32.Rd4 Qe7 33.Qg4 Rg8 34.Rgxd3 Qxa3 35.Be1 Qc1 36.Qe2 f5
 
 [Event "Cup URS"]
 [Site "Dnepropetrovsk (Ukraine)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gufeld Eduard (USA)"]
@@ -69,7 +66,6 @@ Bb7 14.Qh4 Nc5 15.f5 b5 16.axb5 axb5 17.Nxb5 Qd7 18.Rxa8 Rxa8
 
 [Event "Cup URS"]
 [Site "Dnepropetrovsk (Ukraine)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Savon Vladimir A (UKR)"]
@@ -96,7 +92,6 @@ Nf5 52.Nb5 Ke5 53.Nc3 Kd4 54.Ne2+ Ke3 55.Nc3 Kf2 56.Ne4+ Kg2
 
 [Event "Ch Georgia"]
 [Site "Georgia"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gedevanishvili Dmitry (AUS)"]
@@ -116,7 +111,6 @@ gxf6 19.Bxh7+ Kh8 20.Rh4 Kg7 21.Qc1 Ng8 22.Bxg8 1-0
 
 [Event "Ch Georgia"]
 [Site "Georgia"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Giorgadze Tamaz (GEO)"]
@@ -140,7 +134,6 @@ Nc5 42.Rxh7 Kg8 43.Rh5 Ne4+ 44.Ke1 Ra8 45.Bd3 1-0
 
 [Event "Ch Georgia"]
 [Site "Georgia"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Levin Naum L (AUS)"]
@@ -163,7 +156,6 @@ h4 31.Bd2 Rd7 32.Bc3 Bg5 33.Qe4 Nf6 34.Qc4 Nfxd5 35.Qxd5 Bf4
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Fischer Robert J (USA)"]
@@ -188,7 +180,6 @@ a2 48.d7 Ke7 49.Rc8 Rd2 50.Re8+ Kf6 51.e7 Rxd7 0-1
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "10"]
 [White "Tal Mikhail (LAT)"]
 [Black "Ivkov Borislav (SCG)"]
@@ -210,7 +201,6 @@ Qf5 30.Qc4+ Qe6 31.Qxe6+ Kxe6 32.Rxg6 1-0
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -231,7 +221,6 @@ Bd6 8.Re1 Ne7 9.b3 b5 10.a4 c3 11.Nf1 b4 12.Ne5 O-O 13.Bf4 f6
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "16"]
 [White "Tal Mikhail (LAT)"]
 [Black "Matulovic Milan (SCG)"]
@@ -254,7 +243,6 @@ Ke6 36.g4 a6 37.f3 b5 38.Nc7+ Kf6 39.Nxa6 Rd4+ 40.Ke3 1-0
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "18"]
 [White "Tal Mikhail (LAT)"]
 [Black "Reshevsky Samuel H (USA)"]
@@ -277,7 +265,6 @@ Ne5 30.d7 Nxd7 31.Rxd7 Rc8 32.Rd8+ Rxd8 33.Bxd8 Kh7 34.Kg2 Kg6
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "22"]
 [White "Tal Mikhail (LAT)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -300,7 +287,6 @@ Nd3 25.Bxd3 Rxd3 26.a4 Qb7 27.axb5 axb5 28.Qg3 Qxe4 29.Ra7 Nh5
 
 [Event "Blitz"]
 [Site "Herceg Novi (Yugoslavia)"]
-[Date "1970.??.??"]
 [Round "12"]
 [White "Tal Mikhail (LAT)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -319,7 +305,6 @@ e6 8.d4 Rb8 9.Bf4 Ra8 10.dxc5 Nxc5 11.Qxd8+ Kxd8 12.Rfd1+ Nfd7
 
 [Event "Ch Europe (team)"]
 [Site "Kapfenberg (Austria)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Bellon Lopez Juan Manuel (ESP)"]
@@ -338,7 +323,6 @@ Bxc6 14.Bf4 1-0
 
 [Event "Ch Europe (team)"]
 [Site "Kapfenberg (Austria)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kolarov Atanas S (BUL)"]
@@ -360,7 +344,6 @@ Rxf7 25.Ne5 Nh5 26.Nxf7+ Kg8 27.Bxe7 Re8 28.Nd6 Bf6 29.Bxf6 Qxd6
 
 [Event ""]
 [Site "Kapfenberg (Austria)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Holm Sejer (DEN)"]
@@ -381,7 +364,6 @@ Bf4 25.Bxf8 Bxc1 26.Qe8 Rxe8 27.Rxe8 Bd7 28.Rd8 1-0
 
 [Event "Match \"Grandmasters-masters\""]
 [Site "Sochi (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gulko Boris F (USA)"]
@@ -406,7 +388,6 @@ Bb1 42.Ne7+ Kg7 43.Nf5+ Kg8 44.Rg6+ Kf8 45.Be7+ Ke8 46.Bxc5 Rxf3+
 
 [Event "Match \"Grandmasters-masters\""]
 [Site "Sochi (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kupreichik Viktor D (BLR)"]
@@ -427,7 +408,6 @@ Kf7 24.Rf6+ Kg8 25.Nxd5 Qa4 26.h3 Rd8 27.Rxf5 1-0
 
 [Event "Match \"Grandmasters-masters\""]
 [Site "Sochi (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Kuzmin Gennadi P (UKR)"]
@@ -452,7 +432,6 @@ Ng1+ 47.Kh2 1-0
 
 [Event "Match \"Grandmasters-masters\""]
 [Site "Sochi (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Podgaets Mikhail (UKR)"]
@@ -473,7 +452,6 @@ Kd8 25.Rfb1 Rh7 26.Qg3 Nb6 27.Rxb6 axb6 28.Qg8+ Qe8 29.Qxh7 1-0
 
 [Event "Match \"Grandmasters-masters\""]
 [Site "Sochi (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Tseshkovsky Vitaly (RUS)"]
@@ -494,7 +472,6 @@ Nb4 25.Rad1 Rc2 26.Re2 Bc5+ 27.Kf1 Bxe4 28.Rxe4 Rf2+ 29.Ke1 Nc2# 0-1
 
 [Event "Match \"Grandmasters-masters\""]
 [Site "Sochi (Russia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Tukmakov Vladimir B (UKR)"]
@@ -516,7 +493,6 @@ Kf8 30.Be3 1-0
 
 [Event ""]
 [Site "Tbilisi (Georgia)"]
-[Date "1970.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Gufeld Eduard (USA)"]
@@ -536,7 +512,6 @@ gxf6 20.Kb1 Be7 21.e5 Kf8 22.Bc2 dxe5 23.Bxe5 Bd5 24.Bd4 f5 25.Qg7+ 1-0
 
 [Event ""]
 [Site "URS"]
-[Date "1971.??.??"]
 [Round "?"]
 [White "Tal Mikhail (LAT)"]
 [Black "Stein Leonid Z (UKR)"]

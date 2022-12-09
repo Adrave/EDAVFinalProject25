@@ -1,6 +1,5 @@
 [Event "Match"]
 [Site "Leningrad (Russia)"]
-[Date "1940.??.??"]
 [Round "3"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -22,7 +21,6 @@ Rxc7 26.dxc7 Nb6 27.Bxb6 Qxb6 28.Qc4 Rc8 29.Rd7 Qc6 30.Qxc6 bxc6
 
 [Event "Match"]
 [Site "Leningrad (Russia)"]
-[Date "1940.??.??"]
 [Round "5"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -44,7 +42,6 @@ Kf7 25.Rf1+ Bf5 26.Qf4 Nd7 27.Bc2 Qb8 28.Qh6 Qg8 29.Bxf5 exf5
 
 [Event "Match"]
 [Site "Leningrad (Russia)"]
-[Date "1940.??.??"]
 [Round "9"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -70,7 +67,6 @@ Kh6 55.Qf8+ Kh5 56.Qf6 h6 57.e6 1-0
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1940.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -95,7 +91,6 @@ Qf3+ 47.Bf2 Qh5 48.Ne2+ Kg5 49.h4+ 1-0
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -123,7 +118,6 @@ Ke6 58.Rf2 Ra1 59.g7 Rh1+ 60.Kg6 Rg1+ 61.Kh7 Rh1+ 62.Kg8 Ke7
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "1"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -148,7 +142,6 @@ Rf1 48.Rc4 f5 49.Ke2 1-0
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -177,7 +170,6 @@ Kf5 71.Kd3 Ke6 72.Ke3 Kf5 73.Kd3 d4 74.Bd8 Bg7 1/2-1/2
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Bondarevsky Igor Z (RUS)"]
@@ -209,7 +201,6 @@ Bd4 87.Kh2 Bb2 88.Kg2 Be5 89.Kg1 0-1
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -233,7 +224,6 @@ Rd7 1/2-1/2
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Keres Paul (EST)"]
@@ -253,7 +243,6 @@ Bxf6 14.a4 Bf5 15.b5 O-O 16.bxc6 bxc6 17.Rab1 Qd6 18.e4 dxe4
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -279,7 +268,6 @@ Rxe2+ 48.Bxe2 Qxa4 49.Bxh5 Qc2+ 50.Be2 a4 51.d5 Qc5 52.h4 Qxd5+
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Lilienthal Andor (HUN)"]
@@ -300,7 +288,6 @@ Ne5 20.Nf4 c6 21.Bxf6 Bxf6 22.Ne4 Be7 23.Qc3 Qc7 24.Ne2 Rad8
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -319,7 +306,6 @@ Qxe2+ 8.Bxe2 Be7 9.Nc3 Bg4 10.Nd4 Bxe2 11.Ncxe2 Nd5 12.Bxe7 Nxe7
 
 [Event "Ch URS (match-tournament)"]
 [Site "Moscow/Leningrad (Russia)"]
-[Date "1941.??.??"]
 [Round "?"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -345,7 +331,6 @@ Rf1 47.Bxb5 Rb1+ 48.Kc4 Rc1+ 49.Kb4 Re7 50.Bd3 Re3 51.h5 Kh6
 
 [Event "Tournament (masters)"]
 [Site "Sverdlovsk (Russia)"]
-[Date "1943.??.??"]
 [Round "4"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Boleslavsky Isaac (RUS)"]
@@ -371,7 +356,6 @@ Rf7 52.e6 1-0
 
 [Event "Tournament (masters)"]
 [Site "Sverdlovsk (Russia)"]
-[Date "1943.??.??"]
 [Round "9"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Kan Ilya A (RUS)"]
@@ -395,7 +379,6 @@ Kxe7 42.d8Q+ Rxd8 43.Rxd8 Kxd8 44.Kf5 1-0
 
 [Event "Tournament (masters)"]
 [Site "Sverdlovsk (Russia)"]
-[Date "1943.??.??"]
 [Round "3"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Konstantinopolski Alexander (RUS)"]
@@ -420,7 +403,6 @@ Kg4 47.Ke5 Bc8 48.Nd4 h5 49.Nxf5 Bd7 50.Ng7 Ba4 51.f5 Kg5 52.Ne6+ 1-0
 
 [Event "Tournament (masters)"]
 [Site "Sverdlovsk (Russia)"]
-[Date "1943.??.??"]
 [Round "14"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Makogonov Vladimir (AZE)"]
@@ -441,7 +423,6 @@ b4 20.Bb1 Rac8 21.Ng5 g6 22.Rxe6 fxe6 23.Nxh7 Kh8 24.Ng5 Rg8
 
 [Event "Tournament (masters)"]
 [Site "Sverdlovsk (Russia)"]
-[Date "1943.??.??"]
 [Round "1"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -465,7 +446,6 @@ Qc8 1-0
 
 [Event "Tournament (masters)"]
 [Site "Sverdlovsk (Russia)"]
-[Date "1943.??.??"]
 [Round "12"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Smyslov Vassily (RUS)"]
@@ -488,7 +468,6 @@ Kd5 35.g4 f4 36.Rg8 Rxg8 37.Nxg8 Kd4 38.Nf6 Bc8 39.f3 Kc3 40.h4 1-0
 
 [Event "Tournament (masters)"]
 [Site "Sverdlovsk (Russia)"]
-[Date "1943.??.??"]
 [Round "6"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Zagorjansky Evgeny (RUS)"]
@@ -512,7 +491,6 @@ Bg8 36.Rf4 Rbb7 37.Rg5 Rf7 38.Qh5 Qa1+ 39.Kg2 g6 40.Qxg6 Bh7
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1944.??.??"]
 [Round "13"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Ragozin Viacheslav V (RUS)"]
@@ -532,7 +510,6 @@ O-O 14.Bxb6 axb6 15.a3 Be6 16.Qe5 Qxe5 17.Rxe5 Rfe8 18.Rfe1 Kf8
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1944.??.??"]
 [Round "1"]
 [White "Botvinnik Mikhail M (RUS)"]
 [Black "Sokolsky Alexey (BLR)"]
@@ -554,14 +531,12 @@ Kf7 31.Kf2 g5 32.Na2 Bb1 33.Nc3 Bh7 1/2-1/2
 
 [Event "Sverdlovsk"]
 [Site "Sverdlovsk (Yekaterinburg) URS"]
-[Date "1943.04.??"]
 [Round "6"]
 [White "Mikhail Botvinnik"]
 [Black "Evgeny Zagorjansky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "A13"]
-[EventDate "1943.04.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -577,14 +552,12 @@ Kf7 31.Kf2 g5 32.Na2 Bb1 33.Nc3 Bh7 1/2-1/2
 
 [Event "Sverdlovsk"]
 [Site "Sverdlovsk (Yekaterinburg) URS"]
-[Date "1943.05.15"]
 [Round "14"]
 [White "Mikhail Botvinnik"]
 [Black "Vladimir Andreevich Makogonov"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "B14"]
-[EventDate "1943.04.??"]
 [PlyCount "54"]
 [WhiteElo "?"]
 

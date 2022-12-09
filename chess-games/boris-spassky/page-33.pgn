@@ -1,6 +1,5 @@
 [Event "Ch World (match) (cand.) (fin)"]
 [Site "Kiev (Ukraine)"]
-[Date "1968.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -22,7 +21,6 @@ Qc6+ 31.Kb1 Nd4 32.Rc1 Qb5 33.Nc7 Qe2 34.Ne6+ Kh7 35.Qh6+ 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Cappello Renato (ITA)"]
@@ -45,7 +43,6 @@ Rg4 37.b3 Re4 38.d7 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Heyes (PHI)"]
@@ -68,7 +65,6 @@ c5 25.Bc4 Be6 26.Bxd5 Bxd5 27.Rxd5 Qa8 28.Rcd1 Ne6 29.Nf5 Re8
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Porath Yosef (ISR)"]
@@ -89,7 +85,6 @@ Kg8 25.Bd5+ 1-0
 
 [Event "Olympiad"]
 [Site "Lugano (Switzerland)"]
-[Date "1968.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Schmidt Wlodzimierz (POL)"]
@@ -112,7 +107,6 @@ Qxd4 30.Qh5+ Ke7 31.Qf3 Qd1+ 32.Kh2 Kf7 33.g4 Nd2 34.Qb7+ Kf6
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "1"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -138,7 +132,6 @@ Na4 54.Re6+ Kd4 55.Re4+ Kc5 56.Rxa4 Ra1 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "3"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -162,7 +155,6 @@ gxf5 36.Bxf5 Bxf5 37.gxf5 Kd7 38.Ke4 Be1 39.Kd3 Ke8 40.Kc4 Bd2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "7"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -183,7 +175,6 @@ Qd7 20.h4 Red8 21.Rc4 Qe8 22.Rac1 Rc7 23.Ng3 Qf7 24.Ne1 Rcd7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "9"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -210,7 +201,6 @@ Nh7 56.Ra3 Nf8 57.Rga1 Nh7 58.a5 bxa5 59.Nxa5 Bxa5 60.Rxa5 Nc7
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "11"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -236,7 +226,6 @@ b2 54.Qxb2 c1Q 55.Qxg7+ Kxg7 56.Rg5+ 0-1
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -259,7 +248,6 @@ Nxd6 31.Rd4 Nc4 32.Rxd5 Nxb2 33.Rd6 a5 34.Rxg6+ Kh7 35.Rc6 Nc4
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -280,7 +268,6 @@ Nc7 25.Rde1 Re7 1/2-1/2
 
 [Event "Ch World (match)"]
 [Site "Moscow (Russia)"]
-[Date "1969.??.??"]
 [Round "15"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -300,7 +287,6 @@ Qxe2+ 8.Bxe2 Be7 9.Nc3 c6 10.O-O-O Na6 11.Rhe1 Nc7 12.Bf1 Ne6
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Hort Vlastimil (GER)"]
@@ -319,7 +305,6 @@ O-O 14.Qe2 Ne5 15.e4 Bd6 16.f4 Ng6 17.Qf3 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -338,7 +323,6 @@ O-O 8.d4 cxd4 9.exd4 d5 10.cxd5 Nxd5 11.Nxd5 exd5 12.Be3 Bg4
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Panno Oscar (ARG)"]
@@ -361,7 +345,6 @@ f5 36.Bf4 Rf6 37.Rd5 Re8 38.Ra5 Kb6 39.Rd5 Kc6 40.Ra5 Kb6 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Petrosian Tigran V (ARM)"]
@@ -382,7 +365,6 @@ h4 26.Kg1 Rh8 27.Qe1 Ra6 28.Rf2 Nb6 1/2-1/2
 
 [Event "It"]
 [Site "Palma de Majorca (Spain)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Pomar Salamanca Arturo (ESP)"]
@@ -406,7 +388,6 @@ Ned4 1/2-1/2
 
 [Event "It"]
 [Site "San Juan (Puerto Rico)"]
-[Date "1969.??.??"]
 [Round "13"]
 [White "Spassky Boris V (FRA)"]
 [Black "Colon Arturo"]
@@ -428,7 +409,6 @@ e5 25.fxe5 Nfe6 26.Nc4 Ke7 27.Nd6 Bc6 28.Rf1 Be8 29.Bxa6 Nc6
 
 [Event "It"]
 [Site "San Juan (Puerto Rico)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Dorner Matthias (GER)"]
@@ -454,7 +434,6 @@ bxc6 47.Rc1 h3 48.Rxc6+ Kg5 49.Rc1 Rh4+ 50.Kd5 Rxb4 51.e6 Kf6
 
 [Event "It"]
 [Site "San Juan (Puerto Rico)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Kavalek Lubomir (USA)"]
@@ -475,7 +454,6 @@ Nd4 25.bxa6 Ra8 26.Bxd4 cxd4 27.Nd5 1-0
 
 [Event ""]
 [Site "San Juan (Puerto Rico)"]
-[Date "1969.??.??"]
 [Round "12"]
 [White "Spassky Boris V (FRA)"]
 [Black "O'kelly De Galway Alberic (BEL)"]
@@ -499,7 +477,6 @@ e5 42.fxe4 f4 43.gxf4 exd4 44.Rg2+ 1-0
 
 [Event ""]
 [Site "San Juan (Puerto Rico)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Parma Bruno (SLO)"]
@@ -525,7 +502,6 @@ Nd6 53.Kd4 Nb7 54.Ba6 Nd6 55.Ke5 Kf7 56.h5 Ke7 57.a4 Kf7 1/2-1/2
 
 [Event "Match \"URS-Yugoslavia\""]
 [Site "Skopje (Macedonia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gligoric Svetozar (SCG)"]
@@ -545,7 +521,6 @@ Bd4 20.Re2 Qd7 21.Qe4 1/2-1/2
 
 [Event ""]
 [Site "Skopje (Macedonia)"]
-[Date "1969.??.??"]
 [Round "?"]
 [White "Spassky Boris V (FRA)"]
 [Black "Gligoric Svetozar (SCG)"]

@@ -1,6 +1,5 @@
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "5"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -23,7 +22,6 @@ Kg8 36.Qf6 Qd2 37.Ra1 b5 38.a3 Kh7 39.h4 a5 40.Qe5 Qb2 41.Rd1 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bouwmeester Hans (NED)"]
@@ -50,7 +48,6 @@ Rc7 59.Rh6 Kf8 60.f6 Ne7 61.Rh8+ Ng8 62.Bd5 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Hort Vlastimil (GER)"]
@@ -72,7 +69,6 @@ Rxd1 32.Rxd1 Be2 33.fxg6+ Nxg6 34.Nxh6 Bxf3 35.gxf3 Kxh6 36.Rd6 1-0
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Naranja Renato (PHI)"]
@@ -93,7 +89,6 @@ Nd6 20.Nc3 cxb4 21.Rxb4 a5 22.Rbb1 e4 23.Nd5 Bxd5 24.cxd5 Qe5
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "3"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Prins Lodewijk (NED)"]
@@ -123,7 +118,6 @@ Kf5 69.Kg3 Rg5+ 70.Kf3 Rg7 71.Qd5+ Kg6 72.Kf4 Kh7 73.Kf5 Rg1
 
 [Event "Olympiad"]
 [Site "Leipzig (Germany)"]
-[Date "1960.??.??"]
 [Round "7"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Schweber Samuel (ARG)"]
@@ -145,7 +139,6 @@ Qxe7 25.Bxd6 Qe8 26.Bxb4 Ng4 27.h3 Qb8 28.Bd6 Qb6 29.Bxf8 Kxf8
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Averbakh Yuri L (RUS)"]
@@ -174,7 +167,6 @@ Ba1 71.Re8 Bd4 72.Re6+ Ka7 73.Kd5 Bg1 74.Rg6 Bf2 1/2-1/2
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Korchnoi Viktor (SUI)"]
@@ -200,7 +192,6 @@ Kc2 53.Ke3 Kc3 54.Kf3 Kd3 0-1
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "15"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Lutikov Anatoly S (RUS)"]
@@ -221,7 +212,6 @@ Kf8 25.Qxg6 Qf4 26.Nh7+ Kg8 27.Nf6+ Kf8 28.Qxg7+ 1-0
 
 [Event "Ch URS"]
 [Site "Leningrad (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Sakharov Yuri N (RUS)"]
@@ -245,7 +235,6 @@ Rf7 37.fxg3 Qh3 38.Rb2 f3 39.Rxf3 Rcf8 40.Rbf2 Rxf3 41.Qg7+ Kh5
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bagirov Vladimir (LAT)"]
@@ -267,7 +256,6 @@ Rd1+ 31.Kh2 Qd6 32.Qb3+ Kf8 33.g3 Qd5 34.Rc4 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Minev Nikolay N (USA)"]
@@ -291,7 +279,6 @@ Ke7 42.Kf4 Rd6 43.Rc7+ 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Szilagyi Gyorgy (HUN)"]
@@ -322,7 +309,6 @@ Qe2+ 80.Kc3 Qb5 81.Qd2+ Kg1 82.Qc1+ 1-0
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "8"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Uhlmann Wolfgang (GER)"]
@@ -346,7 +332,6 @@ Nd7 1-0
 
 [Event "Tournament"]
 [Site "Moscow (Russia)"]
-[Date "1960.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Spassky Boris V (FRA)"]
@@ -367,7 +352,6 @@ h6 20.Qf4 Re7 21.Bf1 Rae8 22.Rxe7 Rxe7 23.h4 Re4 24.Nxe4 dxe4
 
 [Event "Ch URS"]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Polugaevsky Lev A (RUS)"]
@@ -388,7 +372,6 @@ Kh8 25.Qg4 gxf6 26.Rf4 f5 27.Bxf5 exf5 28.Rxf5 Bd3 29.Qh5+ 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "4"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Bisguier Arthur B (USA)"]
@@ -408,7 +391,6 @@ Qxe7 14.Bxe4 dxe4 15.Nd2 f5 16.d5 Ng6 17.dxc6 bxc6 18.Ne2 Ne5
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "10"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Olafsson Fridrik (ISL)"]
@@ -428,7 +410,6 @@ Rad8 20.Qc3 Nb6 21.h3 Bf5 22.Bg2 1/2-1/2
 
 [Event "It \"Central Chess Club\""]
 [Site "Moscow (Russia)"]
-[Date "1961.??.??"]
 [Round "6"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Vasiukov Evgeni (RUS)"]
@@ -452,7 +433,6 @@ Be3 42.Rf5 Rxc2 43.Qf8+ Qg7 44.Rh5+ gxh5 45.Qd6+ 1/2-1/2
 
 [Event "Ch Europe (team)"]
 [Site "Oberhausen (Germany)"]
-[Date "1961.??.??"]
 [Round "?"]
 [White "Smyslov Vassily (RUS)"]
 [Black "Florian Tibor (HUN)"]
@@ -474,14 +454,12 @@ c4 25.Qb2 f6 26.e5 Qd8 27.dxc4 bxc4 28.Qe2 Bxb4 29.exf6 gxf6
 
 [Event "USSR Championship 1961b"]
 [Site "Baku URS"]
-[Date "1961.11.22"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "Boris Spassky"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A06"]
-[EventDate "1960.??.??"]
 [PlyCount "76"]
 [WhiteElo "?"]
 
@@ -496,14 +474,12 @@ c4 25.Qb2 f6 26.e5 Qd8 27.dxc4 bxc4 28.Qe2 Bxb4 29.exf6 gxf6
 
 [Event "USSR Championship 1961b"]
 [Site "Baku URS"]
-[Date "1961.11.26"]
 [Round "7"]
 [White "Vasily Smyslov"]
 [Black "Mark Taimanov"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "A10"]
-[EventDate "1960.??.??"]
 [PlyCount "74"]
 [WhiteElo "?"]
 
@@ -518,14 +494,12 @@ c4 25.Qb2 f6 26.e5 Qd8 27.dxc4 bxc4 28.Qe2 Bxb4 29.exf6 gxf6
 
 [Event "USSR Championship 1961a"]
 [Site "Moscow URS"]
-[Date "1961.01.12"]
 [Round "2"]
 [White "Vasily Smyslov"]
 [Black "Lev Polugaevsky"]
 [Result "1/2-1/2"]
 [BlackElo "?"]
 [ECO "E14"]
-[EventDate "1961.??.??"]
 [PlyCount "57"]
 [WhiteElo "?"]
 
@@ -539,14 +513,12 @@ c4 25.Qb2 f6 26.e5 Qd8 27.dxc4 bxc4 28.Qe2 Bxb4 29.exf6 gxf6
 
 [Event "USSR Championship 1961b"]
 [Site "Baku URS"]
-[Date "1961.11.17"]
 [Round "1"]
 [White "Vasily Smyslov"]
 [Black "Lev Polugaevsky"]
 [Result "1-0"]
 [BlackElo "?"]
 [ECO "C26"]
-[EventDate "1960.??.??"]
 [PlyCount "83"]
 [WhiteElo "?"]
 
@@ -562,14 +534,12 @@ c4 25.Qb2 f6 26.e5 Qd8 27.dxc4 bxc4 28.Qe2 Bxb4 29.exf6 gxf6
 
 [Event "USSR Championship"]
 [Site "Leningrad URS"]
-[Date "1960.01.31"]
 [Round "5"]
 [White "Vasily Smyslov"]
 [Black "Viktor Korchnoi"]
 [Result "0-1"]
 [BlackElo "?"]
 [ECO "D79"]
-[EventDate "1960.??.??"]
 [PlyCount "108"]
 [WhiteElo "?"]
 
