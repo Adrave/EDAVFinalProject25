@@ -68,13 +68,15 @@ for root, dirs, files in os.walk(chess_games_dir):
                     moves = []
                     move_lines = re.findall(r"\d+\..*", game)
                     for line in move_lines:
-                        move_number, move = line.strip().split(".", maxsplit=1)
-                        move_number = int(move_number)
+                        line_moves = line.strip().split(".")
+                        true_moves = []
+                        for m in line_moves:
+                            m = re.sub(r"\{.*?\}", "", m)
+                            m = re.sub(r'(?<![\w-])\d+(?![\w-])', '', m).strip()
+                            if len(m) > 0:
+                                true_moves.append(m)
 
-                        # Remove the time information from the move
-                        move = re.sub(r"\{.*?\}", "", move)
-
-                        moves.append((move_number, move))
+                        moves += true_moves
 
                     # Add a row to the CSV file with the player names, Elo ratings, and moves
-                    writer.writerow([player1, white_elo, player2, black_elo, result] + [move[1] for move in moves])
+                    writer.writerow([player1, white_elo, player2, black_elo, result] + [move for move in moves])
