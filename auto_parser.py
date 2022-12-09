@@ -79,4 +79,8 @@ for root, dirs, files in os.walk(chess_games_dir):
                         moves += true_moves
 
                     # Add a row to the CSV file with the player names, Elo ratings, and moves
+<<<<<<< HEAD:auto_parser.py
                     writer.writerow([player1, white_elo, player2, black_elo, result] + [move for move in moves])
+=======
+                    writer.writerow([player1, white_elo, player2, black_elo, result] + [move for move in moves])
+>>>>>>> 13c8e4ab4afd37d3dd51aea9427a903c1b4082cf:parser.py
