@@ -96,7 +96,7 @@ count the number of missing by player.
 files <- list.files(path="player-moves", pattern="*csv", full.names=TRUE, recursive=FALSE)
 
 all_moves <- read.csv("player-moves/all-games.csv")
-colnames(all_moves) <- c('white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
+colnames(all_moves) <- c('game_index', 'white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
 
 all_games = all_moves |>
   filter(move_number == 1)
@@ -121,5 +121,29 @@ missing_by_player |>
     xlab("Player") +
     ylab("Missing ELO Frequency") +
     coord_flip()
-  
 ```
+
+As expected, the players with the most (and sometimes complete) missing ELO 
+values are the earlier champions, many of whom were active before the advent of
+the ELO system, while the players with the least missing are all active in the
+modern, electronically recorded era.
+
+Another point of interest: of the games that have one or more errors, within
+the records, what is the distribution of white-to-black missing ELOs?
+
+```{r}
+
+games_missing_elo$elo_missing <- as.factor(ifelse(games_missing_elo$white_elo != "?", "Black",
+                                           ifelse(games_missing_elo$black_elo != "?", "White", "Both")))
+head(games_missing_elo)
+
+ggplot(data = games_missing_elo, mapping = aes(elo_missing)) +
+  xlab("Player(s) Missing ELO") +
+  ylab("Missing Count") +
+  geom_bar()
+```
+
+So even though--since they are world champions, or less commonly grandmasters--
+the white player is somewhat more commonly the one missing ELO. Of course, it is
+unsurprisingly most common that both miss their ELO, again indicating records
+that didn't notate ELO, or simply predated its use.
