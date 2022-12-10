@@ -10,17 +10,14 @@ library(tidyverse)
 files <- list.files(path="player-moves", pattern="*csv", full.names=TRUE, recursive=FALSE)
 
 # Create an empty data frame to store the combined data
-all_games <- read.csv("player-moves/all_games.csv")
+all_games <- read.csv("player-moves/all-games.csv")
 ```
 
 ```{r}
 colnames(all_games) <- c('white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
 head(all_games)
 ```
-
-
-First, lets take a look at each player's win rate with the white pieces.
-
+First, lets take a look at the number of wins, losses and draws with the white pieces in the dataset.
 ```{r}
 ratings <- all_games
 ratings <- subset(ratings, move_number == 1)
@@ -31,10 +28,77 @@ num_rows <- nrow(ratings)
 # Create a vector of ones with the same number of rows as the data frame
 ones <- rep(1, num_rows)
 
-# Add the vector of ones to the data frame as a new vicolumn
-ratings_with_ones <- cbind(ratings, ones)
+# Add the vector of ones to the data frame as a new column
 
+ratings <- ratings %>% 
+  mutate(result = fct_relevel(result, "0-1", "1/2-1/2", "1-0"))
+
+ratings <- ratings %>% 
+  mutate(result = fct_relevel(result, "0-1", "1/2-1/2", "1-0"))
 
 ggplot(data = ratings) +
-  geom_bar(mapping=aes(x=white_name,fill=result))
+  geom_bar(aes(x=result)) +
+  coord_flip() +
+  xlab("Results") +
+  ylab("Number of Games") +
+  ggtitle("Number of Wins, Losses and Draws in the Dataset")
 ```
+Because we are looking at games from the best players in the world, it isn't surprising that there are significantly more wins for these top level players than losses in the database. This graph does show that even the best players are fallible, with over 5000 combined losses. 
+
+To gain more insight on the wins and losses of individual players, let's graph the number of games each player played and split the bars up by wins, draws and losses.
+
+```{r}
+ggplot(data = ratings) +
+  geom_bar(aes(x=fct_rev(fct_infreq(white_name)),fill=result)) +
+  coord_flip() +
+  xlab("Player Name") +
+  ylab("Number of Games") +
+  ggtitle("Number of Wins, Losses and Draws by Player")
+  #theme(axis.text.x = element_text(angle = 75))
+```
+
+Now lets look at the top players rating verses their opponents rating.
+
+
+```{r}
+real_ratings <-ratings %>% filter(white_elo != '?')
+real_ratings <-real_ratings %>% filter(black_elo != '?')
+real_ratings <-real_ratings %>% filter(white_elo > 100)
+real_ratings <-real_ratings %>% filter(black_elo > 100)
+real_ratings <- na.omit(real_ratings)
+real_ratings$black_elo <- as.numeric(real_ratings$black_elo)
+real_ratings$white_elo <- as.numeric(real_ratings$white_elo)
+ggplot(data = real_ratings) +
+  geom_point(aes(x=white_elo, y=black_elo), alpha=.05) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  xlab("White Rating") +
+  ylab("Black Rating") +
+  ggtitle("Top Grand Masters' Ratings (white) vs Oponent Ratings (black)")
+```
+
+Taking a look at the above graph, we see that most of the games were played between players of ratings between 2000 and 3000. Modern super grand masters have ratings between 2700 and 2900 offline, and can have ratings of above 3000 in Online games. With this information and the graph, it is clear that there are some games being played in the online formats in the database. Inspection into the data before it was cleaned can confirm this. While it looks like there are some games in the > 3000 range, most are not. This suggests that nearly all of the games recorded in the database were played offline.
+
+Lets dive a little deeper and look at the rating of the current wold number one player Magnus Carlsen vs his opponent's ratings. We will also zoom in to take a closer look at the data.
+
+```{r}
+Carlsen_ratings <-real_ratings %>% filter(white_name == "Magnus Carlsen")
+ggplot(data = Carlsen_ratings) +
+  geom_point(aes(x=white_elo, y=black_elo), alpha=.05) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) +
+  xlab("White Rating") +
+  ylab("Black Rating") +
+  ggtitle("Magnus Carlsen's Ratings (white) vs Oponent Ratings (black)")
+```
+
+There are a few important pieces of information that can be obtained by looking at this graph. First, it shows games where Carlsen was rated below 2100. These were likely when he was very young. Because of this, we know that games in the data base do not all represent the top grand masters in their prime. It also looks like there are some interesting patterns in the data, where white elo is closely grouped together in a line. Let's dig deeper into this.
+
+```{r}
+ggplot(data = Carlsen_ratings) +
+  geom_histogram(aes(white_elo), binwidth = 5) +
+  xlab("White Rating") +
+  ylab("Number of Games") +
+  ggtitle("Magnus Carlsen's Ratings")
+```
+Upon further examination, it looks like assumption that there were lots of games with the same rating is correct. One reason this might be the case is because FIDE only updates a player's ELO rating once a month. This means if a player plays in a few tournaments over the course of a month, they could play tens of games, all with the same rating. It is also possible that a player arrived at the same rating in different months.
