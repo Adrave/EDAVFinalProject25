@@ -1,1 +1,40 @@
 # Results
+```{r}
+library(readr)
+library(dbplyr)
+library(tidyverse)
+```
+
+```{r}
+# Get a list of files that match a certain pattern
+files <- list.files(path="player-moves", pattern="*csv", full.names=TRUE, recursive=FALSE)
+
+# Create an empty data frame to store the combined data
+all_games <- read.csv("player-moves/all_games.csv")
+```
+
+```{r}
+colnames(all_games) <- c('white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
+head(all_games)
+```
+
+
+First, lets take a look at each player's win rate with the white pieces.
+
+```{r}
+ratings <- all_games
+ratings <- subset(ratings, move_number == 1)
+
+# Get the number of rows in the data frame
+num_rows <- nrow(ratings)
+
+# Create a vector of ones with the same number of rows as the data frame
+ones <- rep(1, num_rows)
+
+# Add the vector of ones to the data frame as a new vicolumn
+ratings_with_ones <- cbind(ratings, ones)
+
+
+ggplot(data = ratings) +
+  geom_bar(mapping=aes(x=white_name,fill=result))
+```

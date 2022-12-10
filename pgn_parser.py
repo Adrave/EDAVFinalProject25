@@ -15,13 +15,13 @@ def extract_line(target, game):
         return "N/A"
 
 # Loop over each file in the directory
+with open("player-moves/all_games.csv", 'w') as csv_file:
+    writer = csv.writer(csv_file)
+    for dir in os.listdir(chess_games_dir):
+        if not os.path.isdir(f"{chess_games_dir}/{dir}"):
+            continue
+        player_name = dir.replace('-', ' ').title()
 
-for dir in os.listdir(chess_games_dir):
-    if not os.path.isdir(f"{chess_games_dir}/{dir}"):
-        continue
-    player_name = dir.replace('-', ' ').title()
-    with open(f"{player_games_dir}/{dir}.csv", 'w') as csv_file:
-        writer = csv.writer(csv_file)
         for page in os.listdir(f"{chess_games_dir}/{dir}"):
             # Skip files that do not have the .pgn extension
             name, extension = os.path.splitext(page)
@@ -56,7 +56,7 @@ for dir in os.listdir(chess_games_dir):
 
                     whitespace_clockttime = re.compile(r"(\{\[%clk [0-9:]*\]\}|\s+)")
                     game_string = whitespace_clockttime.sub(' ', game).strip().split(']')[-1]
-                    
+
                     # print(game_string)
                     # print(result)
                     # print(re.search(f"1.*{result}", game_string))
