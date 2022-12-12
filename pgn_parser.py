@@ -7,6 +7,14 @@ import csv
 chess_games_dir = "chess-games"
 player_games_dir = "player-moves"
 
+CHAMPS = ['magnus-carlsen', 'viswanathan-anand', 'vladimir-kramnik', 'garry-kasparov', 'anatoly-karpov', 'bobby-fischer',
+          'boris-spassky', 'tigran-petrosian', 'mikhail-tal', 'vasily-smyslov', 'mikhail-botvinnik', 'max-euwe',
+          'alexander-alekhine', 'jose-raul-capablanca', 'emanuel-lasker', 'wilhelm-steinitz']
+
+MASTERS = ['magnus-carlsen', 'ding-liren', 'ian-nepomniachtchi', 'alireza-firouzja', 'hikaru-nakamura', 'fabiano-caruana',
+           'anish-giri', 'wesley-so', 'viswanathan-anand', 'sergey-karjakin', 'teimour-radjabov', 'alexander-grischuk',
+           'leinier-dominguez-perez', 'shakhriyar-mamedyarov', 'richard-rapport', 'maxime-vachier-lagrave']
+
 def extract_line(target, game):
     line = re.search(f'\\[{target} \\"(.*?)\\"\\]', game)
     if line:
@@ -27,6 +35,14 @@ with open(f"{player_games_dir}/all-games.csv", 'w') as csv_file:
             player_game_num = 1
             player_writer = csv.writer(csv_file)
             player_name = dir.replace('-', ' ').title()
+            if dir in CHAMPS and dir in MASTERS:
+                player_status = "Both"
+            elif dir in CHAMPS:
+                player_status = "World Champion"
+            elif dir in MASTERS:
+                player_status = "Grandmaster"
+            else:
+                exit(dir)
 
             for page in os.listdir(f"{chess_games_dir}/{dir}"):
                 # Skip files that do not have the .pgn extension
@@ -85,6 +101,7 @@ with open(f"{player_games_dir}/all-games.csv", 'w') as csv_file:
                         for move in moves:
                             player_writer.writerow([player_game_num,
                                                     player_name,
+                                                    player_status,
                                                     white_elo,
                                                     player2,
                                                     black_elo,
@@ -93,6 +110,7 @@ with open(f"{player_games_dir}/all-games.csv", 'w') as csv_file:
                                                     move[1]])
                             all_writer.writerow([all_game_num,
                                                  player_name,
+                                                 player_status,
                                                  white_elo,
                                                  player2,
                                                  black_elo,

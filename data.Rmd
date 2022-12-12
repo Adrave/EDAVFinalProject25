@@ -135,7 +135,6 @@ the records, what is the distribution of white-to-black missing ELOs?
 
 games_missing_elo$elo_missing <- as.factor(ifelse(games_missing_elo$white_elo != "?", "Black",
                                            ifelse(games_missing_elo$black_elo != "?", "White", "Both")))
-head(games_missing_elo)
 
 ggplot(data = games_missing_elo, mapping = aes(elo_missing)) +
   xlab("Player(s) Missing ELO") +
