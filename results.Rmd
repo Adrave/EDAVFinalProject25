@@ -3,6 +3,7 @@
 library(readr)
 library(dbplyr)
 library(tidyverse)
+library(ggalluvial)
 ```
 
 ```{r}
@@ -107,23 +108,81 @@ Lets look at how often some of the most popular openings win.
 
 ```{r}
 move_df <- all_games
-move_one_df <- subset(move_df, move_number == 1)
-# Create a frequency table for the column
-freq_table <- table(move_one_df$move)
+first_moves_df <- move_df |> filter(move_number==1)
+# Group the data by the first move and count the number of occurrences of each move
+first_moves <- first_moves_df %>%
+  group_by(move) %>%
+  summarize(n = n()) %>%
+  arrange(desc(n))
 
-# Sort the table in descending order by the frequency
-freq_table <- sort(freq_table, decreasing = TRUE)
+# Select the top four most common first moves
+common_moves <- first_moves[1:10, ]
 
-# Extract the top three entries from the table
-most_common_first <- head(freq_table, 4)
+# Filter the original data frame to only include games with the top four first moves
+filtered_df <- first_moves_df %>%
+  filter(move %in% common_moves$move)
 
-games_common_moves <- subset(move_one_df, move == most_common_first[0] || move == most_common_first[1] || move == most_common_first[2] || move == most_common_first[3])
+# move_win_df <- filtered_df |> group_by(move, result) |> summarize(count=n())
 
-print(games_common_moves)
+ggplot(data = filtered_df) +
+  geom_bar(aes(x=fct_rev(fct_infreq(move)),fill=result)) +
+  coord_flip() +
+  xlab("Opening Moves") +
+  ylab("Number of Games") +
+  ggtitle("Number of Wins, Losses and Draws by First Move")
+```
+```{r}
+# Select the top four most common first moves
+common_moves <- first_moves[1:4, ]
 
-move_df <- subset(move_df, game_id %in% games_common_moves$game_id)
+# Filter the original data frame to only include games with the top four first moves
+filtered_df <- all_games %>%
+  filter(move %in% common_moves$move & move_number == 1)
 
-ggplot(move_df) +
-  geom_bar(mapping = aes(move))
+common_games <- all_games %>%
+  filter(game_id %in% filtered_df$game_id & move_number == 1)
+
+#common_games <- common_games %>% pivot_wider(names_from = move_number, values_from = move) 
+
+CHAMPS <- c('Magnus Carlsen', 'Viswanathan Anand', 'Vladimir Kramnik',
+            'Garry Kasparov', 'Anatoly Karpov', 'Bobby Fischer',
+          'Boris Spassky', 'Tigran Petrosian', 'Mikhail Tal', 'Vasily Smyslov',
+          'Mikhail Botvinnik', 'Max Euwe',
+          'Alexander Alekhine', 'Jose Raul Capablanca',
+          'Emanuel Lasker', 'Wilhelm Steinitz')
+
+
+games_by_move <- common_games |> 
+  group_by(move, result, white_name) |> summarize(count=n()) |> arrange(count)
+
+games_by_move <- games_by_move %>% filter(white_name %in% CHAMPS )
+
+#games_by_move <- games_by_move %>% mutate(level = factor(white_name, levels = CHAMPS))
+
+
+
+ggplot(data=games_by_move,
+       aes(axis2=move, axis1=white_name, axis3=result, y=count)) +
+  geom_alluvium(aes(fill=result))+
+  geom_stratum() +
+  geom_text(stat = "stratum",
+            aes(label = after_stat(stratum))) +
+  ggtitle("Common Moves and Results by World Champion")+
+  theme_void()
+  
+  
+
+  
+
+
+
+
+```
+
+
+
+
+
+
 
 ```
