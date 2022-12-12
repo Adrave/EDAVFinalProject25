@@ -15,6 +15,8 @@ def extract_line(target, game):
         return "N/A"
 
 # Loop over each file in the directory
+if not os.path.isdir(player_games_dir):
+    os.makedirs(player_games_dir)
 with open(f"{player_games_dir}/all-games.csv", 'w') as csv_file:
     all_writer = csv.writer(csv_file)
     all_game_num = 1
