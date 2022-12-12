@@ -14,7 +14,7 @@ all_games <- read.csv("player-moves/all-games.csv")
 ```
 
 ```{r}
-colnames(all_games) <- c('white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
+colnames(all_games) <- c('game_id','white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
 head(all_games)
 ```
 First, lets take a look at the number of wins, losses and draws with the white pieces in the dataset.
@@ -102,3 +102,28 @@ ggplot(data = Carlsen_ratings) +
   ggtitle("Magnus Carlsen's Ratings")
 ```
 Upon further examination, it looks like assumption that there were lots of games with the same rating is correct. One reason this might be the case is because FIDE only updates a player's ELO rating once a month. This means if a player plays in a few tournaments over the course of a month, they could play tens of games, all with the same rating. It is also possible that a player arrived at the same rating in different months.
+
+Lets look at how often some of the most popular openings win.
+
+```{r}
+move_df <- all_games
+move_one_df <- subset(move_df, move_number == 1)
+# Create a frequency table for the column
+freq_table <- table(move_one_df$move)
+
+# Sort the table in descending order by the frequency
+freq_table <- sort(freq_table, decreasing = TRUE)
+
+# Extract the top three entries from the table
+most_common_first <- head(freq_table, 4)
+
+games_common_moves <- subset(move_one_df, move == most_common_first[0] || move == most_common_first[1] || move == most_common_first[2] || move == most_common_first[3])
+
+print(games_common_moves)
+
+move_df <- subset(move_df, game_id %in% games_common_moves$game_id)
+
+ggplot(move_df) +
+  geom_bar(mapping = aes(move))
+
+```
