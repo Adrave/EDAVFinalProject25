@@ -15,7 +15,7 @@ all_games <- read.csv("player-moves/all-games.csv")
 ```
 
 ```{r}
-colnames(all_games) <- c('game_id','white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
+
 head(all_games)
 ```
 First, lets take a look at the number of wins, losses and draws with the white pieces in the dataset.
@@ -169,20 +169,119 @@ ggplot(data=games_by_move,
             aes(label = after_stat(stratum))) +
   ggtitle("Common Moves and Results by World Champion")+
   theme_void()
-  
-  
-
-  
-
-
-
-
 ```
 
 
 
 
+Looking at the two most common openers
+## Move to move relation
+```{r}
+move_df |>
+  filter(move_number < 4) |>
+  pivot_wider(names_from = move_number, values_from = move) |>
+  filter(`1` == "d4 Nf6") |>
+  mutate(`2` = fct_lump_n(`2` %>% as.factor, n=4)) |>
+  mutate(`3` = fct_lump_n(`3` %>% as.factor, n=6)) |>
+  group_by(`1`, `2`, `3`, result) |>
+  summarize(games=n()) |>
+  arrange(desc(games)) |>
+    ggplot(aes(axis1=`1`, axis2=`2`, axis3=`3`, axis4=result, y=games)) +
+    geom_alluvium(aes(fill=result))+
+    geom_stratum() +
+    geom_text(stat = "stratum",
+              aes(label = after_stat(stratum))) +
+    ggtitle("Common Following Moves and Results for the Opening Knight")+
+    theme_void()
+
+move_df |>
+  filter(move_number < 4) |>
+  pivot_wider(names_from = move_number, values_from = move) |>
+  filter(`1` == "e4 e5") |>
+  mutate(`2` = fct_lump_n(`2` %>% as.factor, n=4)) |>
+  mutate(`3` = fct_lump_n(`3` %>% as.factor, n=6)) |>
+  group_by(`1`, `2`, `3`, result) |>
+  summarize(games=n()) |>
+  arrange(desc(games)) |>
+  ggplot( aes(axis1=`1`, axis2=`2`, axis3=`3`, axis4=result, y=games)) +
+    geom_alluvium(aes(fill=result))+
+    geom_stratum() +
+    geom_text(stat = "stratum",
+              aes(label = after_stat(stratum))) +
+    ggtitle("Common Following Moves and Results for (one of) an Opening Pawn")+
+    theme_void()
+```
 
 
+```{r}
+##TODO create a graph for openers -> turns
+# For this, need a table of opener + maximum turn
+# To create that, need a maximum turn per game id and an opener per game id
+id_moves <- move_df |>
+  filter(move_number == 1) |>
+  select(game_id, move)
 
+id_turns <- move_df |>
+  group_by(game_id) |>
+  summarize(moves = max(move_number))
+
+total_games = nrow(id_turns)
+
+opener_lengths = list(id_moves, id_turns) |>
+  reduce(full_join, by='game_id') |>
+  group_by(move) |>
+  summarize(average_moves = mean(moves), games = n(), std_deviation = sd(moves)) |>
+  filter(games >= total_games / 1000) |>
+  arrange(average_moves)
+
+opener_lengths |>
+  select('move', 'average_moves', 'std_deviation') |>
+  gather(key='type', value='value', average_moves, std_deviation) |>
+  ggplot(aes(x=value, y=fct_reorder2(move,type=='average_moves',value,.desc=FALSE), color=type)) +
+    geom_point() +
+    ylab("") +
+    ggtitle("Average move number and deviation per opener") +
+    theme_linedraw()
+```
+
+```{r, warning=FALSE}
+pieces <- c('K', 'Q', 'R', 'B', 'N')
+
+piece_type <- function(x) {
+  char <- substring(x, 1, 1)
+  if(char %in% pieces){
+    char
+  } else if(char == '0') {
+    "K R"
+  } else {
+    "P"
+  }
+}
+
+move_types <- function(x) {
+  parts <- strsplit(x, " ")
+  if (length(parts[[1]]) == 2) {
+    paste(piece_type(parts[[1]][1]), piece_type(parts[[1]][2]), sep=" ")
+  } else {
+    piece_type(parts[[1]][1])
+  }
+}
+
+# The actual max is much higher, but the outliers look pretty ugly at this
+# size of a dataset. Probably a better solution, I set them to be invisible and
+# bounded the top.
+move_df |>
+  select('game_id', 'move_number', 'move') |>
+  mutate(filt = mapply(function(x) move_types(x), move)) |>
+  separate(filt, c("white_move", "black_move")) |>
+  drop_na(black_move) |>
+  pivot_longer(cols = !c("game_id", "move_number", "move"), values_to = "piece") |>
+  group_by(piece, game_id) |>
+  summarize(uses = n()) |>
+  arrange(game_id) |>
+  ggplot(aes(x=reorder(piece, -uses, median), y=uses)) +
+    geom_boxplot(outlier.shape = NA) +
+    ggtitle("Number of times each type of piece was used per game") +
+    ylim(0, 60) +
+    labs(y="Uses", x="Piece")
 ```
