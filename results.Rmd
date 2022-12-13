@@ -16,7 +16,8 @@ all_games <- read.csv("player-moves/all-games.csv")
 
 ```{r}
 
-head(all_games)
+colnames(all_games) <- c("game_id", "white_name","status", "white_elo", "black_name", "black_elo", "result", "move_number", "move")
+
 ```
 First, lets take a look at the number of wins, losses and draws with the white pieces in the dataset.
 ```{r}
@@ -131,6 +132,11 @@ ggplot(data = filtered_df) +
   ylab("Number of Games") +
   ggtitle("Number of Wins, Losses and Draws by First Move")
 ```
+Above, we see the graph of most common first moves from the white and the black players. When documenting chess moves for knights, rooks, bishops, kings, or queens, a N, R, B, K, and Q will be used respectively. These letters are capitalized. If no capitalized letter is present at the start of the move, this means that a pawn is moved forward. The last two characters in most cases correspond to the square that the piece will move to. If a piece is captured during the move, an x is placed before the square that the piece is captured on. There are other special cases for chess documentation, none of which are present in the further analysis.
+
+After one move from each player, the most common board position from the best of all time has the pawn that starts on d2 moved to d4 and the knight that starts on g8 moved to f6.
+
+In general in chess, the two most common moves from white are e4 and d4. This can clearly be seen from the graph above. Seven of the ten most common opening moves start with one of these two initial thrusts forward into the center.
 ```{r}
 # Select the top four most common first moves
 common_moves <- first_moves[1:4, ]
@@ -171,10 +177,39 @@ ggplot(data=games_by_move,
   theme_void()
 ```
 
+This graph shows the most common moves and their results by past world champion. Let's dive into the moves of a couple of players. Former world champion Viswanathan Anand clearly favored playing e4 over d4. We can see from the alluvial diagram that the amount of games that he played against the Sicilian defense (e4 c5) and in double kings pawn games (e4 e5) greatly outnumbers the number of games he played starting with d4. Bobby Fisher had a similar preference for e4. Fisher has a famous quote saying that e4 is "best by test." On the other hand, players like Anatoly Karpov played d4 more than e4. A lot of opening preparation comes down to personal preference.
+
+```{r}
+player <- c('Wilhelm Steinitz', 'Emanuel Lasker', 'Jose Raul Capablanca','Alexander Alekhine','Max Euwe','Alexander Alekhine','Mikhail Botvinnik','Vasily Smyslov','Mikhail Botvinnik','Mikhail Tal','Mikhail Botvinnik','Tigran Petrosian','Boris Spassky','Bobby Fischer','Anatoly Karpov','Garry Kasparov','Vladimir Kramnik', 'Viswanathan Anand', 'Magnus Carlsen')
+
+end_year <- c(1894, 1921, 1927, 1935, 1937, 1948, 1957, 1958, 1960, 1961, 1963, 1969, 1972, 1975, 1985, 2000, 2007, 2013, 2021)
+
+wc_df <- data.frame(player, end_year)
+colnames(wc_df) <- c("white_name", "year")
+wc_df <- merge(x = wc_df, y = all_games |> filter(move %in% common_moves$move & move_number == 1), by = "white_name")
+wc_df <- wc_df %>%
+  group_by(white_name, year, move) %>%
+  summarize(count = n())
+
+moves <- factor(wc_df$move)
+
+wrapper <- function(x, ...) 
+{
+  paste(strwrap(x, ...), collapse = "\n")
+}
+
+my_title <- "World Champion Games in Database vs The Year They Stopped being World Champion by Four Most Common Moves"
+
+ggplot(wc_df) +
+  geom_line(mapping=aes(x=year,y=count, color=moves)) +
+  theme_classic() + 
+  xlab("Year") +
+  ylab("Number of Games") +
+  ggtitle(wrapper(my_title, width = 60))
 
 
-
-Looking at the two most common openers
+```
+From the graph above, what we can discern is that there has not been much of a change in usage for any of the top four most common moves over time except for e4 c5. All other common openings appear to change randomly, likely with the world champion's preference. E4 c5 has seen an increase in top level play over time.
 ## Move to move relation
 ```{r}
 move_df |>
@@ -211,7 +246,9 @@ move_df |>
     ggtitle("Common Following Moves and Results for (one of) an Opening Pawn")+
     theme_void()
 ```
+Taking a deeper dive into opening moves, lets look at the most board positions after a couple of moves. First, let's consider the opening moves d4 Nf6. In this case, the most common reply is c4 by white. This move pattern indicates that an Indian defense, known for it's sharp tactics and aggression, will be played. The following two most common moves by black set up different variations of the defense. E6 sets up a Nimzo-Indian Defense and g6 sets up a king's Indian defense.
 
+The position after the starting moves e4 e5 results in a battle for control of the center of the board. The move Nf3 attacks the black pawn on e5, and black must respond to the threat. The most common and versatile move is Nc6. This both protects the pawn, and puts pressure on the d4 square, preventing white from striking in the center by playing pawn to d4. After Nc6, Bb5 is a common response from white. This is known as the Ruy Lopez, or the Spanish opening. Here, white is developing their bishop, while also putting pressure on the knight that is now controlling the center of the board.
 
 ```{r}
 ##TODO create a graph for openers -> turns
@@ -243,7 +280,7 @@ opener_lengths |>
     ggtitle("Average move number and deviation per opener") +
     theme_linedraw()
 ```
-
+Interestingly, some openings lend themselves to longer games. In chess, there is a notion of a positional game versus a tactical game. Positional games involve slowly moving pieces around, looking for slight advantages in position over an opponent. Tactical games involve making sharp threats against the other person's pieces or against the king. Tactical games are more likely to end quickly because pieces are removed quickly during the attacks. The graph above suggests that Nf3 d5 results in a more positional game than moves like e4 c5.
 ```{r, warning=FALSE}
 pieces <- c('K', 'Q', 'R', 'B', 'N')
 
@@ -285,3 +322,8 @@ move_df |>
     ylim(0, 60) +
     labs(y="Uses", x="Piece")
 ```
+It is unsurprising that pawns are moved more than any other piece in any given game. Each player starts with eight pawns on the board compared to two knights, bishops and rooks, along with one king and one queen. Additionally, the pawns form a wall at the beginning of the game that no piece besides the knight can pass. In general, moving a king a lot before the end game is seen as unfavorable. This is because the king can only move one square at a time (except when castling), and thus, greater positional and tactical advantages can be gained by moving another piece. Additionally, moving the king before the end game suggests the king might be in danger. This is something that players want to avoid.
+
+Everything changes in the end game, where most pieces are removed from the board, and the king isn't in any immediate danger. In most endgames, both players are trying to advance a pawn to furthest rank on the opponent's side of the board in order to make the pawn into a queen. Because of the limited movement of pawns, only being able to move forward and capture diagonally, the king, who can move in any direction, becomes a valuable asset for stopping these pawns. In many cases, it is clear what the result of an endgame will be and the players do not feel the need to play it out. This could be one reason that the box does not extend higher for the king; however, when players do decide to play out end games, this can result in many king moves, which is one reason that the kings could have a higher maximum number of moves than queens.
+
+Because there are more knights, bishops and rooks than kings and queens, it also isn't terribly surprising that they average more moves per game than the royalty they serve.
