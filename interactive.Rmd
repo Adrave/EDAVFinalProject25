@@ -5,77 +5,7 @@ library(htmlwidgets)
 library(r2d3)
 ```
 
-The following visualization is for anyone who is not as familiar with the chess board layout. When important squares for the pawns to occupy according to the most popular games are hovered over, the labels show up as red instead of the opposite of the color of the square.
-
-```{d3, data=runif(30), options=list(color='steelblue')}
-
-// Define the data for the chessboard
-// create an empty array
-var board = [];
-
-// define the names of the columns
-let columns = ["a", "b", "c", "d", "e", "f", "g", "h"];
-
-// define the names of the rows
-var rows = [8,7,6,5,4,3,2,1];
-
-// loop through the columns and rows to create the names of the squares
-for (let i = 0; i < columns.length; i++) {
-  for (let j = 0; j < rows.length; j++) {
-    board.push(columns[j] + rows[i]);
-  }
-}
+The following visualization is for anyone who is not as familiar with the chess board layout. The popular opening moves are hovered over on the right hand side of the chess board, the squares corresponding to where the chess pieces are moving to light up. Another feature of the board is that if you hover over a square, it tells you what its letter and number are.
 
 
-
-
-// Add the text labels for each square
-var labels = svg.selectAll("text")
-    .data(board)
-    .enter()
-    .append("text")
-    .text(function(d) {
-        return d;
-    })
-    .attr("x", function(d, i) {
-        return (i % 8) * 50 + 25;
-    })
-    .attr("y", function(d, i) {
-        return (Math.floor(i / 8) )* 50 + 25;
-    })
-    .attr("font-size", "40px")
-    .attr("text-anchor", "middle")
-    .attr("alignment-baseline", "middle")
-    .style("fill", function(d, i) {
-        return (d == "d4" || d == "e4" || d == "e5" || d=="c5" || d=="d5") ? "red" : ((i + Math.floor(i / 8)) % 2 == 0) ? "black" : "white";
-    })
-		.on("mouseover", function() {
-    d3.select(this).raise();
-  	})
-    .on("mouseout", function() {
-    d3.select(this).lower();
-  	});
-
-// Create the squares on the chessboard
-var squares = svg.selectAll("rect")
-    .data(board)
-    .enter()
-    .append("rect")
-    .attr("x", function(d, i) {
-        return (i % 8) * 50;
-    })
-    .attr("y", function(d, i) {
-        return Math.floor(i / 8) * 50;
-    })
-    .attr("width", 50)
-    .attr("height", 50)
-    .style("fill", function(d, i) {
-        return ((i + Math.floor(i / 8)) % 2 == 0) ? "white" : "black";
-    })
-		.on("mouseover", function() {
-    d3.select(this).lower();
-  	})
-    .on("mouseout", function() {
-    d3.select(this).raise();
-  	});
-```
+[Click here to view the chess board](https://vizhub.com/bubbabjh/dd41adfe75f244a3a22978703eb86f88?edit=files&file=index.js)
