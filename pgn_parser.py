@@ -56,6 +56,7 @@ with open(f"{player_games_dir}/all-games.csv", 'w') as csv_file:
                     data = file.read()
 
                     # Split the file into a list of games
+                    #TODO clear out double spaces
                     games = re.split("\n\n\n\[", data)[1:]
 
 
@@ -78,6 +79,7 @@ with open(f"{player_games_dir}/all-games.csv", 'w') as csv_file:
                         # Parse the chess moves
                         whitespace_clockttime = re.compile(r"(\{\[%clk [0-9:]*\]\}|\s+)")
                         game_string = whitespace_clockttime.sub(' ', game).strip().split(']')[-1]
+                        game_string = re.sub(r' +', ' ', game_string)
 
                         move_string = re.search(f"1.*{result}", game_string)[0]
                         move_inds = re.findall("[0-9]+\.", move_string)
