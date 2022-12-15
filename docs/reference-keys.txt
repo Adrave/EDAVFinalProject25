@@ -9,3 +9,11 @@ missing-value-analysis
 results
 interactive-component
 conclusion
+move-to-move-relation
+initial-broad-exploration
+an-individual-player
+opening-move-proportions-and-results
+some-longer-term-stats
+takeaways
+limitations
+future-work

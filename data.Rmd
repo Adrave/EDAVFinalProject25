@@ -36,12 +36,12 @@ parser were written in Python.
 As chess is an everlasting game, and as there have been an unknown number of
 players and organizers, there are many, many different features that come and
 go from individual records. The primary commonalities are the variables:
-`Event`, `White` and `Black` (player colors), `WhiteElo` and `BlackElo`, and
+`Event`, `White` and `Black` (player colors), `WhiteElo` and `BlackElo`,
 `Result` (`1-0`, `0-1`, or `1/2-1/2` for draws), two IDs for chess.com, and of 
-course the list of moves. All were stored in the format `[<name> "<value>"]`,
+course the list of moves. All were stored in the format `[<name> "<value>"]\n`,
 except for the most important feature(s), the moves. In the `.pgn` files the 
-moves are a separate type offield that is essentially a list; we needed to parse
-and break that into individual moves per move number. As a game can be any 
+moves are a separate type off field that is essentially a list; we needed to 
+parse and break that into individual moves per move number. As a game can be any 
 number of moves, we broke that up into one move (and one move number) per row,
 and selected all of the other features as mentioned, aside from `Event` and the
 ids. For the purposes of our analysis, no other feature was necessary, though an
@@ -62,16 +62,19 @@ were treated as draws; they all were played on the internet, as well, though we
 aren't certain as to the precise cause of the aborts.
 
 ## Cleaning / transformation
-Our cleaning process was all done in the Python parser `pgn_parser.py`. It all
-may as well happened there, since the parser needed to be equipped to read all
-of the data files anyway (it'd crash otherwise). As such, all of the issues 
-mentioned in 3.1 were handled in the parser. To tidy the dataset, also used the
-parser and broke the single field of moves into one move and one move number per
-row. As a result, there is no unique identifier per row, and in fact there isn't
-one per game either, as some players played one another many times. We created 
-one `.csv` per player, then a whole conjoined `.csv` for ease of loading into a 
+Our cleaning process was all done in the Python parser 
+[pgn_parser.py](./pgn_parser.py). It all may as well happened there, since the
+parser needed to be equipped to read all of the data files anyway (as it'd crash 
+otherwise). As such, all of the issues mentioned in 3.1 were handled in this 
+parser. To tidy the dataset, also used the parser and broke the single field of
+moves into one move and one move number per row. As a result, we also introduced
+a game_id field, which is not unique per row but is unique per game, and as such
+combined with move number every row is uniquely identifiable. We createdone 
+`.csv` per player, then a whole conjoined `.csv` for ease of loading into a 
 unifying dataframe.
 
+Please note that the cleaned files are gitignored, so [pgn_parser.py](./pgn_parser.py)
+must be run before using the dataset.
 
 ## Missing value analysis
 Depending on how you define it, there is an inordinate amount of missing data
@@ -96,7 +99,9 @@ count the number of missing by player.
 files <- list.files(path="player-moves", pattern="*csv", full.names=TRUE, recursive=FALSE)
 
 all_moves <- read.csv("player-moves/all-games.csv")
-colnames(all_moves) <- c('game_index', 'white_name', 'white_elo', 'black_name', 'black_elo', 'result', 'move_number', 'move')
+colnames(all_moves) <- c("game_id", "white_name", "status",
+                         "white_elo", "black_name", "black_elo",
+                         "result", "move_number", "move")
 
 all_games = all_moves |>
   filter(move_number == 1)

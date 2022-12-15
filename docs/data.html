@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 3 Data | Chess Grandmasters over Time</title>
   <meta name="description" content="Chapter 3 Data | Chess Grandmasters over Time" />
-  <meta name="generator" content="bookdown 0.29 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.30 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 3 Data | Chess Grandmasters over Time" />
   <meta property="og:type" content="book" />
@@ -23,7 +23,7 @@
 <meta name="author" content="Andre Evard, Braden Huffman" />
 
 
-<meta name="date" content="2022-11-01" />
+<meta name="date" content="2022-12-15" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -84,9 +84,21 @@
 <li class="chapter" data-level="3.2" data-path="data.html"><a href="data.html#cleaning-transformation"><i class="fa fa-check"></i><b>3.2</b> Cleaning / transformation</a></li>
 <li class="chapter" data-level="3.3" data-path="data.html"><a href="data.html#missing-value-analysis"><i class="fa fa-check"></i><b>3.3</b> Missing value analysis</a></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="results.html"><a href="results.html"><i class="fa fa-check"></i><b>4</b> Results</a></li>
+<li class="chapter" data-level="4" data-path="results.html"><a href="results.html"><i class="fa fa-check"></i><b>4</b> Results</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="results.html"><a href="results.html#initial-broad-exploration"><i class="fa fa-check"></i><b>4.1</b> Initial Broad Exploration</a></li>
+<li class="chapter" data-level="4.2" data-path="results.html"><a href="results.html#an-individual-player"><i class="fa fa-check"></i><b>4.2</b> An Individual Player</a></li>
+<li class="chapter" data-level="4.3" data-path="results.html"><a href="results.html#opening-move-proportions-and-results"><i class="fa fa-check"></i><b>4.3</b> Opening Move Proportions and Results</a></li>
+<li class="chapter" data-level="4.4" data-path="results.html"><a href="results.html#move-to-move-relation"><i class="fa fa-check"></i><b>4.4</b> Move to move relation</a></li>
+<li class="chapter" data-level="4.5" data-path="results.html"><a href="results.html#some-longer-term-stats"><i class="fa fa-check"></i><b>4.5</b> Some Longer-Term Stats</a></li>
+</ul></li>
 <li class="chapter" data-level="5" data-path="interactive-component.html"><a href="interactive-component.html"><i class="fa fa-check"></i><b>5</b> Interactive component</a></li>
-<li class="chapter" data-level="6" data-path="conclusion.html"><a href="conclusion.html"><i class="fa fa-check"></i><b>6</b> Conclusion</a></li>
+<li class="chapter" data-level="6" data-path="conclusion.html"><a href="conclusion.html"><i class="fa fa-check"></i><b>6</b> Conclusion</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="conclusion.html"><a href="conclusion.html#takeaways"><i class="fa fa-check"></i><b>6.1</b> Takeaways</a></li>
+<li class="chapter" data-level="6.2" data-path="conclusion.html"><a href="conclusion.html#limitations"><i class="fa fa-check"></i><b>6.2</b> Limitations</a></li>
+<li class="chapter" data-level="6.3" data-path="conclusion.html"><a href="conclusion.html#future-work"><i class="fa fa-check"></i><b>6.3</b> Future Work</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 </ul>
@@ -110,12 +122,99 @@
 <h1><span class="header-section-number">Chapter 3</span> Data<a href="data.html#data" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <div id="sources" class="section level2 hasAnchor" number="3.1">
 <h2><span class="header-section-number">3.1</span> Sources<a href="data.html#sources" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>We collected all of our data from the <a href="https://www.chess.com/games">chess.com game database</a>.
+Where exactly all of this site acquired its data is a difficult paper trail to
+follow.</p>
+<p>Organized chess games have been recorded for a long time, long before
+the internet or the Turing machine had even been concieved. One common instance
+is that originally, players in an event would write down the game in terms of
+moves on a slip of paper, provide it to the tournament organizer, and then that
+organizer would store that in some other public record. How exactly chess.com
+has procured it all doesn’t seem to be specified–and it is also the source
+of most of our inconsistent or “missing” data. Some of it even predates (or
+in was ignorance of) the ELO system, one of our selected features.</p>
+<p>As for the modern day, many of these games are in fact played on this very
+platform, giving a much greater coherency, consistency, and volumn to the data.
+So when modern-day players have far more games and a more consistent track
+record, that is why.</p>
+<p>[Chess.com]((<a href="https://www.chess.com" class="uri">https://www.chess.com</a>) generously provides download buttons for every
+page of games found (up to 25 games per page). While there is a download button
+for the whole page, there is unfortunately not a download for all pages at once.
+So to acquire our whole dataset, we had to scrape each players page (which
+arguably is allowed under their <a href="https://www.chess.com/robots.txt">robots.txt</a>,
+as we are not using the <code>games/search</code> pages, though it does redirect to them…),
+and write a parser to conjoin all of the data per player. Both the scraper and
+parser were written in Python.</p>
+<p>As chess is an everlasting game, and as there have been an unknown number of
+players and organizers, there are many, many different features that come and
+go from individual records. The primary commonalities are the variables:
+<code>Event</code>, <code>White</code> and <code>Black</code> (player colors), <code>WhiteElo</code> and <code>BlackElo</code>,
+<code>Result</code> (<code>1-0</code>, <code>0-1</code>, or <code>1/2-1/2</code> for draws), two IDs for chess.com, and of
+course the list of moves. All were stored in the format <code>[&lt;name&gt; "&lt;value&gt;"]\n</code>,
+except for the most important feature(s), the moves. In the <code>.pgn</code> files the
+moves are a separate type off field that is essentially a list; we needed to
+parse and break that into individual moves per move number. As a game can be any
+number of moves, we broke that up into one move (and one move number) per row,
+and selected all of the other features as mentioned, aside from <code>Event</code> and the
+ids. For the purposes of our analysis, no other feature was necessary, though an
+analysis of time could be interesting. Every <code>.pgn</code> file had 25 games until the
+final page per player, and the actual number of pages varied highly by player.
+In total, there were 39309 games in our dataset, ranging from ~500 to ~2400
+games per player. Additionally, since we’re analyzing the opening moves, and
+white always plays first, per player in our analysis we only scraped the games
+where they played as white.</p>
+<p>Naturally, in a dataset this varied, there were a few problems to be handled by
+our parser. One, clocktime per move was occasionally included in the games’ move
+area, warping every move from a format like <code>1. d4 d5 2. c4 e6 ...</code> to
+<code>1. d4 {[%clk 0:15:20]}  Nf6 {[%clk 0:15:20]} 2. c4 {[%clk 0:15:28]}  e6 {[%clk 0:15:29]} ...</code>,
+which we had to filter out. Additionally, three games had a result of <code>*</code>
+instead of a record. After tracking them down, they were all aborted games that
+were treated as draws; they all were played on the internet, as well, though we
+aren’t certain as to the precise cause of the aborts.</p>
 </div>
 <div id="cleaning-transformation" class="section level2 hasAnchor" number="3.2">
 <h2><span class="header-section-number">3.2</span> Cleaning / transformation<a href="data.html#cleaning-transformation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Our cleaning process was all done in the Python parser
+<a href="./pgn_parser.py">pgn_parser.py</a>. It all may as well happened there, since the
+parser needed to be equipped to read all of the data files anyway (as it’d crash
+otherwise). As such, all of the issues mentioned in 3.1 were handled in this
+parser. To tidy the dataset, also used the parser and broke the single field of
+moves into one move and one move number per row. As a result, we also introduced
+a game_id field, which is not unique per row but is unique per game, and as such
+combined with move number every row is uniquely identifiable. We createdone
+<code>.csv</code> per player, then a whole conjoined <code>.csv</code> for ease of loading into a
+unifying dataframe.</p>
+<p>Please note that the cleaned files are gitignored, so <a href="./pgn_parser.py">pgn_parser.py</a>
+must be run before using the dataset.</p>
 </div>
 <div id="missing-value-analysis" class="section level2 hasAnchor" number="3.3">
 <h2><span class="header-section-number">3.3</span> Missing value analysis<a href="data.html#missing-value-analysis" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Depending on how you define it, there is an inordinate amount of missing data
+here–only games that have been recorded could possible be featured, and with
+modern game playforms modern players will naturally have a much more complete
+record. However, aside from simply summing the games per era per player, it’s not
+possible to analyze that. Instead, we are more interested in one other sometimes
+missing field: the players ELOs.</p>
+<p>There are three types of value here that represents missing, <code>0</code>, <code>?</code>, and <code>N/A</code>.
+In parsing, we set all of those to <code>?</code>, but there isn’t much more we can do to
+resolve them. Some games took place before ELO was introduced, others were human
+error or simply deemed unimportant, and since ELO is a constantly shifting
+calculation, there’s no way to perfectly recreate the number. However, the
+players do always have an ELO, and between the three types of missing,
+it seems to be by convention and not by any deeper meaning. Therefore, we simply
+count the number of missing by player.</p>
+<p><img src="finalproj_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<p>As expected, the players with the most (and sometimes complete) missing ELO
+values are the earlier champions, many of whom were active before the advent of
+the ELO system, while the players with the least missing are all active in the
+modern, electronically recorded era.</p>
+<p>Another point of interest: of the games that have one or more errors, within
+the records, what is the distribution of white-to-black missing ELOs?</p>
+<p><img src="finalproj_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+<p>So even though–since they are world champions, or less commonly grandmasters–
+the white player is somewhat more commonly the one missing ELO. Of course, it is
+unsurprisingly most common that both miss their ELO, again indicating records
+that didn’t notate ELO, or simply predated its use.</p>
 
 </div>
 </div>

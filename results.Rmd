@@ -17,6 +17,8 @@ colnames(move_df) <- c("game_id", "white_name", "status",
                          "result", "move_number", "move")
 ```
 
+## Initial Broad Exploration
+
 To get an initial overarching context for our dataset, lets first take a look at
 the number of wins, losses, and draws by the white pieces in our dataset.
 
@@ -123,6 +125,8 @@ majority are not, most are not. This suggests that nearly all of the games
 recorded in the database were played offline, and thereby reflecting on what
 games [chess.com](chess.com) prioritizes bookkeeping.
 
+## An Individual Player
+
 For a case study, we'll take a deeper dive into the current long-standing top
 ranked played Magnus Carlsen, in particular regarding his ratings.
 
@@ -182,7 +186,7 @@ there are still an innumerable amount of chess games. Therefore, it's hard to
 glean much of the later moves at this scale. But the openers are a different
 story. Lets investigate the most frequent opening moves.
 
-##TODO
+## Opening Move Proportions and Results
 
 ```{r}
 first_moves <- move_df |>
@@ -357,7 +361,6 @@ defense. The remaining portion for move 2 is relatively small, though the
 following move three dispels most of the regularity. In most cases, white then
 moves their knight, and the game opens widely from then on.
 
-
 The position after the starting moves e4 e5 results in a different battle, one 
 for control of the center of the board. The subsequent move Nf3 Nc6 dominates 
 most other moves, with a higher order of regularity than seen even in the
@@ -375,7 +378,9 @@ somewhat more black favored than the rest. Perhaps that indicates that past the
 highly studied opening gambits, white's given advantage begins to erode as the
 game devolves into one entirely before unseen.
 
-Well, we now know some around how these openers play out in the short-term. What
+## Some Longer-Term Stats
+
+We now know more about how these openers play out in the short-term. What
 about the long term, and for statistics outside of the pure result? For one such
 quick analysis, lets look at the distribution for game length, once again
 selecting for opening move.
