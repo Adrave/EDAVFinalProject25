@@ -5,22 +5,33 @@ library(htmlwidgets)
 library(r2d3)
 ```
 
+The following visualization is for anyone who is not as familiar with the chess board layout. When important squares for the pawns to occupy according to the most popular games are hovered over, the labels show up as red instead of the opposite of the color of the square.
+
 ```{d3, data=runif(30), options=list(color='steelblue')}
 
 // Define the data for the chessboard
-var data = [
-            "h1", "h2", "h3", "h4", "h5", "h6", "h7", "h8",
-            "g1", "g2", "g3", "g4", "g5", "g6", "g7", "g8",
-            "f1", "f2", "f3", "f4", "f5", "f6", "f7", "f8",
-            "e1", "e2", "e3", "e4", "e5", "e6", "e7", "e8",
-            "d1", "d2", "d3", "d4", "d5", "d6", "d7", "d8",
-            "c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8",
-            "b1", "b2", "b3", "b4", "b5", "b6", "b7", "b8",
-           	"a1", "a2", "a3", "a4", "a5", "a6", "a7", "a8"];
+// create an empty array
+var board = [];
+
+// define the names of the columns
+let columns = ["a", "b", "c", "d", "e", "f", "g", "h"];
+
+// define the names of the rows
+var rows = [8,7,6,5,4,3,2,1];
+
+// loop through the columns and rows to create the names of the squares
+for (let i = 0; i < columns.length; i++) {
+  for (let j = 0; j < rows.length; j++) {
+    board.push(columns[j] + rows[i]);
+  }
+}
+
+
+
 
 // Add the text labels for each square
 var labels = svg.selectAll("text")
-    .data(data)
+    .data(board)
     .enter()
     .append("text")
     .text(function(d) {
@@ -36,7 +47,7 @@ var labels = svg.selectAll("text")
     .attr("text-anchor", "middle")
     .attr("alignment-baseline", "middle")
     .style("fill", function(d, i) {
-        return ((i + Math.floor(i / 8)) % 2 == 0) ? "black" : "white";
+        return (d == "d4" || d == "e4" || d == "e5" || d=="c5" || d=="d5") ? "red" : ((i + Math.floor(i / 8)) % 2 == 0) ? "black" : "white";
     })
 		.on("mouseover", function() {
     d3.select(this).raise();
@@ -47,7 +58,7 @@ var labels = svg.selectAll("text")
 
 // Create the squares on the chessboard
 var squares = svg.selectAll("rect")
-    .data(data)
+    .data(board)
     .enter()
     .append("rect")
     .attr("x", function(d, i) {
