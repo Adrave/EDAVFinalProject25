@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 5 Interactive component | Chess Grandmasters over Time</title>
   <meta name="description" content="Chapter 5 Interactive component | Chess Grandmasters over Time" />
-  <meta name="generator" content="bookdown 0.29 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.31 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 5 Interactive component | Chess Grandmasters over Time" />
   <meta property="og:type" content="book" />
@@ -23,7 +23,7 @@
 <meta name="author" content="Andre Evard, Braden Huffman" />
 
 
-<meta name="date" content="2022-11-01" />
+<meta name="date" content="2022-12-15" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -52,6 +52,11 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script src="libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="libs/r2d3-render-0.1.0/r2d3-render.js"></script>
+<script src="libs/webcomponents-2.0.0/webcomponents.js"></script>
+<script src="libs/r2d3-binding-0.2.6/r2d3.js"></script>
+<script src="libs/d3v5-5.9.2/d3.min.js"></script>
 
 
 
@@ -84,9 +89,21 @@
 <li class="chapter" data-level="3.2" data-path="data.html"><a href="data.html#cleaning-transformation"><i class="fa fa-check"></i><b>3.2</b> Cleaning / transformation</a></li>
 <li class="chapter" data-level="3.3" data-path="data.html"><a href="data.html#missing-value-analysis"><i class="fa fa-check"></i><b>3.3</b> Missing value analysis</a></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="results.html"><a href="results.html"><i class="fa fa-check"></i><b>4</b> Results</a></li>
+<li class="chapter" data-level="4" data-path="results.html"><a href="results.html"><i class="fa fa-check"></i><b>4</b> Results</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="results.html"><a href="results.html#initial-broad-exploration"><i class="fa fa-check"></i><b>4.1</b> Initial Broad Exploration</a></li>
+<li class="chapter" data-level="4.2" data-path="results.html"><a href="results.html#an-individual-player"><i class="fa fa-check"></i><b>4.2</b> An Individual Player</a></li>
+<li class="chapter" data-level="4.3" data-path="results.html"><a href="results.html#opening-move-proportions-and-results"><i class="fa fa-check"></i><b>4.3</b> Opening Move Proportions and Results</a></li>
+<li class="chapter" data-level="4.4" data-path="results.html"><a href="results.html#move-to-move-relation"><i class="fa fa-check"></i><b>4.4</b> Move to move relation</a></li>
+<li class="chapter" data-level="4.5" data-path="results.html"><a href="results.html#some-longer-term-stats"><i class="fa fa-check"></i><b>4.5</b> Some Longer-Term Stats</a></li>
+</ul></li>
 <li class="chapter" data-level="5" data-path="interactive-component.html"><a href="interactive-component.html"><i class="fa fa-check"></i><b>5</b> Interactive component</a></li>
-<li class="chapter" data-level="6" data-path="conclusion.html"><a href="conclusion.html"><i class="fa fa-check"></i><b>6</b> Conclusion</a></li>
+<li class="chapter" data-level="6" data-path="conclusion.html"><a href="conclusion.html"><i class="fa fa-check"></i><b>6</b> Conclusion</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="conclusion.html"><a href="conclusion.html#takeaways"><i class="fa fa-check"></i><b>6.1</b> Takeaways</a></li>
+<li class="chapter" data-level="6.2" data-path="conclusion.html"><a href="conclusion.html#limitations"><i class="fa fa-check"></i><b>6.2</b> Limitations</a></li>
+<li class="chapter" data-level="6.3" data-path="conclusion.html"><a href="conclusion.html#future-work"><i class="fa fa-check"></i><b>6.3</b> Future Work</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 </ul>
@@ -108,6 +125,8 @@
             <section class="normal" id="section-">
 <div id="interactive-component" class="section level1 hasAnchor" number="5">
 <h1><span class="header-section-number">Chapter 5</span> Interactive component<a href="interactive-component.html#interactive-component" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="htmlwidget-d3f9482a4e69743d72f8" style="width:672px;height:480px;" class="r2d3 html-widget"></div>
+<script type="application/json" data-for="htmlwidget-d3f9482a4e69743d72f8">{"x":{"data":[0.545507886912674,0.196582325268537,0.633294023340568,0.406191014451906,0.57190738292411,0.284628862515092,0.774183373432606,0.0935355857945979,0.71298232791014,0.638048536609858,0.564483218826354,0.361178148770705,0.374452949035913,0.453330639051273,0.504209113540128,0.914150264114141,0.0946284744422883,0.867876200471073,0.133372124051675,0.769310590345412,0.761902071069926,0.647426394047216,0.587325293105096,0.599222076125443,0.771733679343015,0.745217379415408,0.641770239919424,0.00457206834107637,0.351056768093258,0.415621182415634],"type":"numeric","container":"svg","options":{"color":"steelblue"},"script":"var d3Script = function(d3, r2d3, data, svg, width, height, options, theme, console) {\nthis.d3 = d3;\n\nsvg = d3.select(svg.node());\n// Define the data for the chessboard\nvar data = [\n            \"h1\", \"h2\", \"h3\", \"h4\", \"h5\", \"h6\", \"h7\", \"h8\",\n            \"g1\", \"g2\", \"g3\", \"g4\", \"g5\", \"g6\", \"g7\", \"g8\",\n            \"f1\", \"f2\", \"f3\", \"f4\", \"f5\", \"f6\", \"f7\", \"f8\",\n            \"e1\", \"e2\", \"e3\", \"e4\", \"e5\", \"e6\", \"e7\", \"e8\",\n            \"d1\", \"d2\", \"d3\", \"d4\", \"d5\", \"d6\", \"d7\", \"d8\",\n            \"c1\", \"c2\", \"c3\", \"c4\", \"c5\", \"c6\", \"c7\", \"c8\",\n            \"b1\", \"b2\", \"b3\", \"b4\", \"b5\", \"b6\", \"b7\", \"b8\",\n           \t\"a1\", \"a2\", \"a3\", \"a4\", \"a5\", \"a6\", \"a7\", \"a8\"];\n\n// Add the text labels for each square\nvar labels = svg.selectAll(\"text\")\n    .data(data)\n    .enter()\n    .append(\"text\")\n    .text(function(d) {\n        return d;\n    })\n    .attr(\"x\", function(d, i) {\n        return (i % 8) * 100 + 50;\n    })\n    .attr(\"y\", function(d, i) {\n        return (Math.floor(i / 8) )* 100 + 50;\n    })\n    .attr(\"font-size\", \"40px\")\n    .attr(\"text-anchor\", \"middle\")\n    .attr(\"alignment-baseline\", \"middle\")\n    .style(\"fill\", function(d, i) {\n        return ((i + Math.floor(i / 8)) % 2 == 0) ? \"white\" : \"black\";\n    });\n\n// Create the squares on the chessboard\nvar squares = svg.selectAll(\"rect\")\n    .data(data)\n    .enter()\n    .append(\"rect\")\n    .attr(\"x\", function(d, i) {\n        return (i % 8) * 100;\n    })\n    .attr(\"y\", function(d, i) {\n        return Math.floor(i / 8) * 100;\n    })\n    .attr(\"width\", 100)\n    .attr(\"height\", 100)\n    .style(\"fill\", function(d, i) {\n        return ((i + Math.floor(i / 8)) % 2 == 0) ? \"black\" : \"white\";\n    })\n\t\t.on(\"mouseover\", function() {\n    d3.select(this).lower();\n  \t})\n    .on(\"mouseout\", function() {\n    d3.select(this).raise();\n  \t});\n};","style":null,"version":5,"theme":{"default":{"background":"#FFFFFF","foreground":"#000000"},"runtime":null},"useShadow":true},"evals":[],"jsHooks":[]}</script>
 
 </div>
             </section>
