@@ -1,15 +1,222 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Chess board Visualization</title>
-    <style>
-      body {
-        text-align: center;
-        font-size: 13em;
-      }
-    </style>
-    <script src="https://unpkg.com/d3@7.6.1/dist/d3.min.js"></script>
-  </head>
-  <body></body>
-  <script src="bundle.js"></script>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chess Grandmasters over Time</title>
+  <meta name="description" content="Chess Grandmasters over Time" />
+  <meta name="generator" content="bookdown 0.30 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chess Grandmasters over Time" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chess Grandmasters over Time" />
+  
+  
+  
+
+<meta name="author" content="Andre Evard, Braden Huffman" />
+
+
+<meta name="date" content="2022-12-26" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="proposal.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">ChessGMs</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="2" data-path="proposal.html"><a href="proposal.html"><i class="fa fa-check"></i><b>2</b> Proposal</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="proposal.html"><a href="proposal.html#research-topic"><i class="fa fa-check"></i><b>2.1</b> Research topic</a></li>
+<li class="chapter" data-level="2.2" data-path="proposal.html"><a href="proposal.html#data-availability"><i class="fa fa-check"></i><b>2.2</b> Data availability</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="data.html"><a href="data.html"><i class="fa fa-check"></i><b>3</b> Data</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="data.html"><a href="data.html#sources"><i class="fa fa-check"></i><b>3.1</b> Sources</a></li>
+<li class="chapter" data-level="3.2" data-path="data.html"><a href="data.html#cleaning-transformation"><i class="fa fa-check"></i><b>3.2</b> Cleaning / transformation</a></li>
+<li class="chapter" data-level="3.3" data-path="data.html"><a href="data.html#missing-value-analysis"><i class="fa fa-check"></i><b>3.3</b> Missing value analysis</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="results.html"><a href="results.html"><i class="fa fa-check"></i><b>4</b> Results</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="results.html"><a href="results.html#initial-broad-exploration"><i class="fa fa-check"></i><b>4.1</b> Initial Broad Exploration</a></li>
+<li class="chapter" data-level="4.2" data-path="results.html"><a href="results.html#an-individual-player"><i class="fa fa-check"></i><b>4.2</b> An Individual Player</a></li>
+<li class="chapter" data-level="4.3" data-path="results.html"><a href="results.html#opening-move-proportions-and-results"><i class="fa fa-check"></i><b>4.3</b> Opening Move Proportions and Results</a></li>
+<li class="chapter" data-level="4.4" data-path="results.html"><a href="results.html#move-to-move-relation"><i class="fa fa-check"></i><b>4.4</b> Move to move relation</a></li>
+<li class="chapter" data-level="4.5" data-path="results.html"><a href="results.html#some-longer-term-stats"><i class="fa fa-check"></i><b>4.5</b> Some Longer-Term Stats</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="interactive-component.html"><a href="interactive-component.html"><i class="fa fa-check"></i><b>5</b> Interactive component</a></li>
+<li class="chapter" data-level="6" data-path="conclusion.html"><a href="conclusion.html"><i class="fa fa-check"></i><b>6</b> Conclusion</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="conclusion.html"><a href="conclusion.html#takeaways"><i class="fa fa-check"></i><b>6.1</b> Takeaways</a></li>
+<li class="chapter" data-level="6.2" data-path="conclusion.html"><a href="conclusion.html#limitations"><i class="fa fa-check"></i><b>6.2</b> Limitations</a></li>
+<li class="chapter" data-level="6.3" data-path="conclusion.html"><a href="conclusion.html#future-work"><i class="fa fa-check"></i><b>6.3</b> Future Work</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Chess Grandmasters over Time</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Chess Grandmasters over Time</h1>
+<p class="author"><em>Andre Evard, Braden Huffman</em></p>
+<p class="date"><em>2022-12-26</em></p>
+</div>
+<div id="introduction" class="section level1 hasAnchor" number="1">
+<h1><span class="header-section-number">Chapter 1</span> Introduction<a href="index.html#introduction" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>This project centers on the highly organized game of chess, and in particular,
+the highest level of play. Chess is one of the longest standing popular
+competitive games, and was a pioneer for in data regulation, bookkeeping, and
+rating systems. Nowadays, even with the astounding rise of video games, chess
+remains popular amongst a variety of age groups and on broadcasting websites
+such as <a href="https://www.twitch.tv/directory/game/Chess">Twitch.tv</a>. It also has
+a variety of digital platforms, such as <a href="https://www.chess.com/">chess.com</a>,
+which often function as services to play the game and host records both.</p>
+<p>Since both of us are competitive game players, and we have an interest in chess,
+we were particularly interested in the strategic complexity of this game–especially
+with its monumental history. In particular, it spawned the <a href="https://en.wikipedia.org/wiki/Elo_rating_system">ELO Rating system</a>,
+which has inspired the vast majority of tournament player ranking
+systems. In this system, every player has a score, and whenever two players
+play against one another, their scores are adjusted accordingly. If the player
+with a much higher rating won, then the ratings are judged to be fairly accurate
+and do not shift much. If the lower rated player won, however, or if they tied,
+then both players are shifted toward the middle. This system was created in the
+mid 20th century and proved highly successful, so we are interested
+in studying how the pinnacle of players perform under it. Of course, organized
+chess predated it, so we will still be observing some players who played before
+the full introduction of the system.</p>
+<p>Furthermore, since organized chess has carefully recorded their
+tournament results since the mid 1800s, and the title “World Champion” has
+been passed through sixteen players since then, we were interested in examining
+how players over time have approached the game. Therefore, since analysis beyond
+the initial moves becomes too cluttered to discern much information, we chose
+to examine the very first moves of the game, where it is at its most regular.
+In terms of the game’s strategy, we were particularly interested in seeing in
+how frequently the exact same openers are chosen, and if and when they were,
+how they shifted the probable outcomes of the game.</p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+<a href="proposal.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/Adrave/EDAVFinalProject25/edit/main/index.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": "https://github.com/Adrave/EDAVFinalProject25/blob/main/index.Rmd",
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
 </html>
